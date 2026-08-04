@@ -1,33 +1,36 @@
 name: Generate lesson URLs and deploy
 
-on: workflow_dispatch: {}
+on:
+  workflow_dispatch:
 
-schedule:
+permissions:
+  contents: write
 
-- cron: '0 6 * * *' # optional: daily run at 06:00 UTC
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
 
-permissions: contents: write
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
 
-jobs: build-and-deploy: runs-on: ubuntu-latest steps: - uses: actions/checkout@v4
-  - name: Set up Python
-    uses: actions/setup-python@v4
-    with:
-      python-version: '3.12'
+      - name: Install runtime deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
-  - name: Install runtime deps
-    run: |
-      python -m pip install --upgrade pip
-      pip install requests
+      - name: Run generator to build site/index.html
+        env:
+          OAK_API_KEY: ${{ secrets.OAK_API_KEY }}
+        run: |
+          python commands/generate_static_lessons.py
 
-  - name: Run generator to build site/index.html
-    env:
-      OAK_API_KEY: ${{ secrets.OAK_API_KEY }}
-    run: |
-      python commands/generate_static_lessons.py
-
-  - name: Deploy site to GitHub Pages (gh-pages) using PAT
-    uses: peaceiris/actions-gh-pages@v3
-    with:
-      personal_token: ${{ secrets.PAGES_DEPLOY_TOKEN }}
-      publish_dir: ./site
-      publish_branch: gh-pages
+      - name: Deploy site to GitHub Pages (gh-pages) using PAT
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.PAGES_DEPLOY_TOKEN }}
+          publish_dir: ./site
+          publish_branch: gh-pages
