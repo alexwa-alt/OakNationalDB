@@ -1,25 +1,22 @@
 #!/usr/bin/env python3
 """
-Fetch programme -> units -> lessons from the Oak API and write a simple
-site/index.html containing an unordered list of lesson links.
+Targeted debug + extractor for Oak Open API (open-api.thenational.academy/api/v0).
 
-This script expects the API key in the OAK_API_KEY environment variable.
-If no API key is present it will still attempt unauthenticated requests.
-Adjust BASE_URL if your API uses a different hostname.
+This script:
+- tries a small list of realistic API endpoints under the official Open API host,
+- prints HTTP status and a short JSON preview for each request,
+- attempts to extract lesson slugs/URLs and writes site/index.html with any links found.
+
+After the workflow runs, paste the full output from the "Run generator to build site/index.html"
+step here and I will convert the successful path into a minimal production extractor.
 """
 from __future__ import annotations
-import os
-import sys
-import requests
+import os, sys, json, requests
 from pathlib import Path
+from typing import Any, Tuple, List
 
-BASE_URL = os.environ.get("OAK_API_BASE", "https://api.thenational.academy")  # change if needed
 API_KEY = os.environ.get("OAK_API_KEY")
-
-HEADERS = {
-    "Accept": "application/json",
-    "User-Agent": "oak-static-export/0.1",
-}
+HEADERS = {"Accept": "application/json", "User-Agent": "oak-openapi-debug/0.1"}
 if API_KEY:
     HEADERS["Authorization"] = f"Bearer {API_KEY}"
 
@@ -27,108 +24,119 @@ OUT_DIR = Path("site")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 OUT_PATH = OUT_DIR / "index.html"
 
+BASE = "https://open-api.thenational.academy/api/v0"
+PROGRAMME_SLUG = os.environ.get("OAK_PROGRAMME_SLUG", "science-secondary-aqa")
 
-def get_json(path, params=None):
-    url = path if path.startswith("http") else f"{BASE_URL.rstrip('/')}/{path.lstrip('/')}"
+CANDIDATES = [
+    "/sequences",
+    "/sequences?subject=science",
+    "/sequences?exam_board=aqa",
+    f"/sequences/{PROGRAMME_SLUG}",
+    f"/sequences/{PROGRAMME_SLUG}/units",
+    "/programmes",
+    f"/programmes/{PROGRAMME_SLUG}/units",
+    "/units",
+    f"/units?sequence={PROGRAMME_SLUG}",
+    "/lessons",
+]
+
+def get_json(url: str) -> Tuple[int, Any, str]:
     try:
-        r = requests.get(url, headers=HEADERS, params=params, timeout=15)
-        r.raise_for_status()
-        return r.json()
+        r = requests.get(url, headers=HEADERS, timeout=15)
+        status = r.status_code
+        text_preview = (r.text[:800] + "...") if len(r.text) > 800 else r.text
+        try:
+            j = r.json()
+        except Exception:
+            j = None
+        return status, j, text_preview
     except Exception as e:
-        print(f"Request failed for {url}: {e}", file=sys.stderr)
-        return None
+        return 0, None, f"EXCEPTION: {e}"
 
+def scan_for_lesson_urls(obj: Any) -> List[Tuple[str,str]]:
+    out: List[Tuple[str,str]] = []
+    if isinstance(obj, dict):
+        # common keys likely to contain lesson lists
+        for k in ("lessons", "results", "items", "data", "units"):
+            v = obj.get(k)
+            if isinstance(v, list):
+                for it in v:
+                    if isinstance(it, dict):
+                        slug = it.get("slug") or it.get("id")
+                        title = it.get("title") or it.get("name") or slug
+                        # attempt to build public lesson URL if slug looks like a lesson slug
+                        if slug and "lesson" in (it.get("type","") or "").lower():
+                            out.append((title, f"https://www.thenational.academy/lessons/{slug}"))
+                        # if the object itself looks like a lesson (has 'link'/'url')
+                        for key in ("url","link","path","public_url"):
+                            u = it.get(key)
+                            if isinstance(u, str) and u:
+                                if u.startswith("/"):
+                                    u = "https://www.thenational.academy" + u
+                                out.append((title, u))
+        # also check direct fields for a lesson-like object
+        for key in ("url","link","path","public_url"):
+            v = obj.get(key)
+            if isinstance(v, str) and v:
+                out.append((obj.get("title") or obj.get("name") or "", v))
+        # recurse
+        for v in obj.values():
+            if isinstance(v, (list, dict)):
+                out.extend(scan_for_lesson_urls(v))
+    elif isinstance(obj, list):
+        for it in obj:
+            out.extend(scan_for_lesson_urls(it))
+    return out
 
 def main():
-    # 1. Find the programme (try canonical AQA secondary slug first)
-    #    If you prefer a different programme change this logic.
-    programme_slug = "science-secondary-aqa"
-
-    print("Fetching programmes list...")
-    progs = get_json("/programmes?exam_board=aqa&phase=secondary")
-    if progs:
-        # try to detect canonical slug in response
-        results = progs.get("results") if isinstance(progs, dict) else progs
-        if results:
-            for p in results:
-                if p.get("slug") == programme_slug:
-                    print("Found programme in list.")
-                    break
+    print("Debug run against Open API host. API_KEY provided:", bool(API_KEY))
+    discovered: List[Tuple[str,str]] = []
+    for path in CANDIDATES:
+        url = BASE.rstrip("/") + "/" + path.lstrip("/")
+        print("\n--- REQUEST ->", url)
+        status, j, preview = get_json(url)
+        print("status:", status)
+        if j is not None:
+            print("json type:", type(j).__name__)
+            if isinstance(j, dict):
+                print("keys:", list(j.keys())[:15])
+            elif isinstance(j, list):
+                print("list length:", len(j))
+                if len(j) > 0 and isinstance(j[0], dict):
+                    print("first item keys:", list(j[0].keys())[:15])
+            links = scan_for_lesson_urls(j)
+            if links:
+                print(f" -> Found {len(links)} candidate lesson links (showing up to 5):")
+                for t,u in links[:5]:
+                    print("   -", t, "->", u)
+                discovered.extend(links)
             else:
-                # fallback: pick first programme if slug isn't present
-                if isinstance(results, list) and len(results) > 0:
-                    programme_slug = results[0].get("slug") or programme_slug
-                    print(f"Using first programme slug: {programme_slug}")
+                print(" -> No lesson links found in this response.")
+        else:
+            print("response preview:", preview[:400])
 
-    # 2. Fetch units for programme
-    print(f"Fetching units for programme {programme_slug} ...")
-    units_json = get_json(f"/programmes/{programme_slug}/units")
-    units = []
-    if isinstance(units_json, dict):
-        units = units_json.get("results") or units_json.get("units") or units_json.get("data") or []
-    elif isinstance(units_json, list):
-        units = units_json
-    units = units or []
+    # dedupe
+    seen = set()
+    deduped: List[Tuple[str,str]] = []
+    for t,u in discovered:
+        if u not in seen:
+            seen.add(u)
+            deduped.append((t,u))
 
-    lesson_links = []  # list of (title, url)
-    for u in units:
-        unit_slug = u.get("slug") or u.get("id")
-        if not unit_slug:
-            continue
-        print(f"  Fetching lessons for unit {unit_slug} ...")
-        unit_detail = get_json(f"/units/{unit_slug}")
-        lessons = []
-        if isinstance(unit_detail, dict):
-            lessons = unit_detail.get("lessons") or unit_detail.get("results") or unit_detail.get("items") or unit_detail.get("data") or []
-        elif isinstance(unit_detail, list):
-            lessons = unit_detail
-        for l in lessons:
-            title = l.get("title") or l.get("name") or l.get("slug") or "Untitled"
-            url = l.get("url") or l.get("link") or l.get("path")
-            if url and url.startswith("/"):
-                # make absolute using public site if needed
-                url = f"https://www.thenational.academy{url}"
-            if url:
-                lesson_links.append((title, url))
-            else:
-                # As a fallback, if the lesson has a slug we can construct a plausible URL
-                lslug = l.get("slug") or l.get("id")
-                if lslug:
-                    lesson_links.append((title, f"https://www.thenational.academy/lessons/{lslug}"))
+    print("\nTotal candidate links discovered:", len(deduped))
 
-    # If nothing collected, try a brute-force approach (optional): 
-    if not lesson_links:
-        print("No lessons found using programme/unit endpoints; attempting a broad search of programme units output.")
-        # Try to parse units_json for embedded lessons
-        for u in units:
-            for key in ("lessons", "items", "data"):
-                for l in (u.get(key) or []):
-                    title = l.get("title") or l.get("name") or l.get("slug") or "Untitled"
-                    url = l.get("url") or l.get("link") or l.get("path")
-                    if url and url.startswith("/"):
-                        url = f"https://www.thenational.academy{url}"
-                    if url:
-                        lesson_links.append((title, url))
-
-    # 3. Write a simple static HTML page
-    print(f"Writing {OUT_PATH} with {len(lesson_links)} links...")
-    html_lines = [
-        "<!doctype html>",
-        "<html lang='en'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'>",
-        "<title>Oak lesson links</title>",
-        "<style>body{font-family:system-ui, -apple-system, 'Segoe UI', Roboto, Arial; padding:1rem} a{color:#0366d6}</style>",
-        "</head><body>",
-        "<h1>Oak lesson links</h1>",
-        "<p>Automatically generated. If links look wrong, update the API mapping in the generator script.</p>",
-        "<ul>"
-    ]
-    for title, url in lesson_links:
-        safe_title = (title or "").replace("<", "&lt;").replace(">", "&gt;")
-        html_lines.append(f"<li><a href=\"{url}\" target=\"_blank\" rel=\"noopener noreferrer\">{safe_title}</a></li>")
-    html_lines.extend(["</ul>", "</body></html>"])
-    OUT_PATH.write_text("\n".join(html_lines), encoding="utf-8")
-    print("Done.")
-
+    # write minimal page
+    html = ["<!doctype html><html><head><meta charset='utf-8'><title>Oak lesson links</title></head><body>",
+            "<h1>Oak lesson links (debug)</h1><ul>"]
+    if deduped:
+        for t,u in deduped:
+            safe = (t or u).replace("<","&lt;").replace(">","&gt;")
+            html.append(f'<li><a href="{u}" target="_blank" rel="noopener noreferrer">{safe}</a></li>')
+    else:
+        html.append("<li>No links discovered in debug run. See full logs above for which endpoints returned data.</li>")
+    html.append("</ul></body></html>")
+    OUT_PATH.write_text("\n".join(html), encoding="utf-8")
+    print("Wrote", OUT_PATH, "with", len(deduped), "links.")
 
 if __name__ == "__main__":
     main()
