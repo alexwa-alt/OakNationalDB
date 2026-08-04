@@ -7,7 +7,9 @@ After this run, paste the entire Actions step log for the "Run generator to buil
 so I can use the real structure to finish the extractor.
 """
 from __future__ import annotations
-import os, json, requests
+import os
+import json
+import requests
 from pathlib import Path
 from typing import Any, Tuple
 
@@ -18,7 +20,8 @@ if API_KEY:
 
 BASE = "https://open-api.thenational.academy/api/v0"
 PROGRAMME_SLUG = os.environ.get("OAK_PROGRAMME_SLUG", "science-secondary-aqa")
-OUT_DIR = Path("site"); OUT_DIR.mkdir(parents=True, exist_ok=True)
+OUT_DIR = Path("site")
+OUT_DIR.mkdir(parents=True, exist_ok=True)
 OUT_PATH = OUT_DIR / "index.html"
 
 def get_json(url: str) -> Tuple[int, Any, str]:
@@ -46,10 +49,8 @@ def main():
         print("Top-level JSON type:", type(j).__name__)
         if isinstance(j, list):
             print("List length:", len(j))
-            # print top-level first item keys if dict
             if len(j) > 0 and isinstance(j[0], dict):
                 print("First top-level item keys:", list(j[0].keys())[:50])
-            # Try to find and print a unit object
             first_unit = None
             for item in j:
                 if isinstance(item, dict):
@@ -58,7 +59,6 @@ def main():
                         print("\nFound 'units' inside a year entry. Pretty-printing the first unit object:")
                         print(json.dumps(first_unit, indent=2, ensure_ascii=False)[:16000])
                         break
-            # fallback: maybe the list itself is units
             if first_unit is None:
                 for element in j:
                     if isinstance(element, dict) and ("slug" in element or "unitSlug" in element or "id" in element):
@@ -66,5 +66,24 @@ def main():
                         print("\nList appears to contain units directly. Pretty-printing first element:")
                         print(json.dumps(first_unit, indent=2, ensure_ascii=False)[:16000])
                         break
-            if first_unit
-
+            if first_unit is None:
+                print("\nCouldn't automatically locate a unit object. Showing the first top-level item (truncated):")
+                print(json.dumps(j[0], indent=2, ensure_ascii=False)[:16000])
+        elif isinstance(j, dict):
+            print("Top-level keys:", list(j.keys())[:50])
+            for k in ("units","data","results"):
+                if k in j:
+                    print(f"\nKey '{k}' exists and type:", type(j[k]).__name__)
+                    if isinstance(j[k], list) and j[k]:
+                        print(f"First element of '{k}':")
+                        print(json.dumps(j[k][0], indent=2, ensure_ascii=False)[:16000])
+                        break
+            else:
+                print("\nTop-level dict preview (truncated):")
+                print(json.dumps(j, indent=2, ensure_ascii=False)[:16000])
+
+    OUT_PATH.write_text("<html><body><h1>Inspector run — check Actions logs for JSON output</h1></body></html>", encoding="utf-8")
+    print("\nWrote placeholder", OUT_PATH)
+
+if __name__ == "__main__":
+    main()
