@@ -1,24 +1,25 @@
 #!/usr/bin/env python3
 """
-Scrape teacher programme units page, group lessons by unit, canonicalize via API.
+Aggressive Playwright extractor for Oak teacher programme units page.
 
-Usage:
-- Ensure your workflow provides OAK_API_KEY (optional but recommended).
-- Optionally set OAK_API_SEQUENCE (default: science-secondary-aqa)
-- Optionally set OAK_TEACHER_SEQUENCE (default: science-secondary-aqa)
+- Tries requests scraping first.
+- If that fails, launches Playwright with a realistic browser context:
+    * custom user-agent (Chrome-like)
+    * Accept-Language header
+    * waits for networkidle
+    * tries to read window.__NEXT_DATA__ and prints top-level keys (truncated)
+    * extracts anchor hrefs matching teacher lesson URLs
+- Maps unitSlug -> unitTitle using /sequences/{API_SEQ}/units
+- Canonicalises lessons using /lessons/{lessonSlug}/summary when available
+- Groups by unit and writes site/index.html
 
-This script:
-- builds unitSlug -> unitTitle map from API /sequences/{API_SEQ}/units
-- fetches https://www.thenational.academy/teachers/programmes/{TEACHER_SEQ}/units
-- scrapes teacher lesson links (requests + BeautifulSoup)
-- FALLBACK: renders page with Playwright if scraping finds no lesson links
-- for each lesson slug found, tries GET /lessons/{lessonSlug}/summary and uses canonical /lessons/{lessonSlug} URL and title when available
-- writes site/index.html grouped by unit with a top navigation
+If this still finds nothing, copy the printed __NEXT_DATA__ JSON (or paste it from your browser) and I will parse it and finish the extractor.
 """
 from __future__ import annotations
 import os
-import re
 import time
+import json
+import re
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
@@ -40,7 +41,7 @@ OUT_DIR = Path("site"); OUT_DIR.mkdir(parents=True, exist_ok=True)
 OUT_PATH = OUT_DIR / "index.html"
 REQUEST_TIMEOUT = 15
 
-# Playwright lazy import
+# Playwright import (we rely on it being available in the workflow)
 PLAYWRIGHT_AVAILABLE = False
 try:
     from playwright.sync_api import sync_playwright  # type: ignore
@@ -104,21 +105,73 @@ def parse_lesson_links_from_html(html: str) -> List[Tuple[str,str]]:
             found.add((title, href))
     return sorted(list(found), key=lambda x: x[1])
 
-def playwright_render_and_parse(url: str) -> List[Tuple[str,str]]:
+def playwright_extract(url: str) -> Tuple[List[Tuple[str,str]], Any]:
+    """
+    Returns (list of (title,href), next_data_object_or_None).
+    Will try to read window.__NEXT_DATA__ and also return anchor list.
+    """
     if not PLAYWRIGHT_AVAILABLE:
-        print("Playwright not available; skipping render fallback.")
-        return []
+        print("Playwright not available in environment; cannot run aggressive fallback.")
+        return [], None
+
+    ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+    next_data = None
+    anchors: List[Tuple[str,str]] = []
+
     try:
         with sync_playwright() as p:
-            browser = p.chromium.launch()
-            page = browser.new_page()
-            page.goto(url, timeout=30000)
-            content = page.content()
+            browser = p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-dev-shm-usage"])
+            context = browser.new_context(user_agent=ua, locale="en-GB", viewport={"width":1280,"height":800},
+                                          extra_http_headers={"accept-language":"en-GB,en;q=0.9"})
+            page = context.new_page()
+            # navigate and wait for networkidle; increase timeout to 60s
+            page.goto(url, wait_until="networkidle", timeout=60000)
+            # try to read __NEXT_DATA__ from window if present
+            try:
+                raw = page.evaluate("() => (window.__NEXT_DATA__ ? JSON.stringify(window.__NEXT_DATA__) : null)")
+                if raw:
+                    try:
+                        next_data = json.loads(raw)
+                        # print top-level keys for debugging
+                        print("Playwright: __NEXT_DATA__ top-level keys:", list(next_data.keys())[:20])
+                    except Exception as e:
+                        print("Playwright: failed to parse __NEXT_DATA__ JSON:", e)
+                        next_data = None
+            except Exception as e:
+                print("Playwright: error evaluating window.__NEXT_DATA__:", e)
+            # extract anchors matching teacher lesson pattern
+            try:
+                items = page.evaluate("""
+                    () => {
+                      const out = [];
+                      document.querySelectorAll('a[href]').forEach(a => {
+                        const href = a.href || '';
+                        if (href.includes('/teachers/programmes/') && href.includes('/lessons/')) {
+                          out.push({t: a.innerText || a.textContent || '', h: href});
+                        }
+                      });
+                      return out;
+                    }
+                """)
+                for it in items:
+                    t = (it.get("t") or "").strip()
+                    h = it.get("h")
+                    if h and "/teachers/programmes/" in h and "/lessons/" in h:
+                        anchors.append((t or h, h))
+            except Exception as e:
+                print("Playwright: error extracting anchors:", e)
             browser.close()
     except Exception as e:
-        print(f"Playwright error navigating to {url}: {e}")
-        return []
-    return parse_lesson_links_from_html(content)
+        print("Playwright navigation error:", e)
+
+    # dedupe anchors
+    seen = set()
+    dedup = []
+    for t,h in anchors:
+        if h not in seen:
+            seen.add(h)
+            dedup.append((t,h))
+    return dedup, next_data
 
 def fetch_canonical_summary(lesson_slug: str):
     url = f"{API_BASE}/lessons/{lesson_slug}/summary"
@@ -150,9 +203,35 @@ def build_index():
         links = parse_lesson_links_from_html(html)
         print(f"Found {len(links)} lesson links via requests on units page.")
     if not links:
-        print("No links from requests; trying Playwright render of the units page.")
-        links = playwright_render_and_parse(TEACHER_UNITS_URL)
-        print(f"Found {len(links)} lesson links via Playwright render.")
+        print("No links from requests; trying aggressive Playwright extraction of the units page.")
+        anchors, next_data = playwright_extract(TEACHER_UNITS_URL)
+        if next_data:
+            # print a short sample of where 'lessons' or 'units' keys live for diagnostics
+            try:
+                def search_keys(obj, depth=0, path="root", found=None):
+                    if found is None:
+                        found = []
+                    if depth>6:
+                        return found
+                    if isinstance(obj, dict):
+                        for k,v in obj.items():
+                            low = k.lower()
+                            if "lesson" in low or "unit" in low or "slug" in low:
+                                found.append((path + "." + k, type(v).__name__))
+                            if isinstance(v, (dict,list)):
+                                search_keys(v, depth+1, path + "." + k, found)
+                    elif isinstance(obj, list):
+                        for i,el in enumerate(obj[:6]):
+                            search_keys(el, depth+1, path + f"[{i}]", found)
+                    return found
+                found = search_keys(next_data)
+                print("Playwright: __NEXT_DATA__ keys matching lesson/unit/slug (first 40):")
+                for p,t in found[:40]:
+                    print(" ", p, t)
+            except Exception as e:
+                print("Error scanning __NEXT_DATA__:", e)
+        print(f"Playwright extracted {len(anchors)} anchors.")
+        links = anchors
 
     grouped: Dict[str, Dict[str,Any]] = {}
     for title, href in links:
@@ -173,14 +252,12 @@ def build_index():
             grouped[unit_slug] = {"title": unit_title, "lessons": []}
         if all(final_url != existing[1] for existing in grouped[unit_slug]["lessons"]):
             grouped[unit_slug]["lessons"].append((final_title, final_url, lesson_slug))
-        time.sleep(0.03)
+        time.sleep(0.02)
 
-    # sort units nicely by title
     sorted_units = sorted(grouped.items(), key=lambda it: (it[1]["title"] or it[0]).lower())
     total = sum(len(v["lessons"]) for _, v in sorted_units)
     print(f"Collected {total} lessons across {len(sorted_units)} units.")
 
-    # build a top navigation
     lines = [
         "<!doctype html>",
         "<html lang='en'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'>",
@@ -217,7 +294,7 @@ def build_index():
     print(f"Wrote {OUT_PATH} with {total} lessons grouped into {len(sorted_units)} units.")
 
 def main():
-    print(f"Starting generator. API_KEY present: {bool(API_KEY)}; playwright available: {PLAYWRIGHT_AVAILABLE}")
+    print(f"Starting aggressive extractor. API_KEY present: {bool(API_KEY)}; playwright available: {PLAYWRIGHT_AVAILABLE}")
     build_index()
 
 if __name__ == "__main__":
