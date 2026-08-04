@@ -1,0 +1,33 @@
+# OakNationalDB
+
+Build a local mirror of the Oak National Academy AQA Secondary Science curriculum.
+
+This repository contains a modular pipeline to download, cache, normalise and store curriculum data from the Oak National Academy Open API into a local SQLite database.
+
+Quick start
+
+1. Create a Python 3.12+ virtual environment and install dependencies:
+
+   python -m venv .venv
+   source .venv/bin/activate
+   pip install -r requirements.txt
+
+2. Set your API key (once you have it) as an environment variable:
+
+   export OAK_API_KEY="your_api_key_here"
+
+3. Create the database schema (this will create database/curriculum.db):
+
+   python setup_database.py
+
+4. Run the downloader (will use cached responses when available):
+
+   python commands/download.py
+
+Design notes
+
+- The importer is the only component that knows about the Oak API.
+- All API responses are cached under data/cache/.
+- SQLite is the canonical source of truth and stores normalised entities.
+
+See docs in the README and code comments for extension points.

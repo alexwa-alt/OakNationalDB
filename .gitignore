@@ -1,0 +1,7 @@
+# Byte- and directory-level ignores
+__pycache__/
+.venv/
+*.pyc
+database/curriculum.db
+logs/
+data/cache/
