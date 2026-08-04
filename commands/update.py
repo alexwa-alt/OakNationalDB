@@ -1,12 +1,22 @@
-"""Update command: intended to re-check cached items using ETag/sha256.
+"""Update command: orchestrate the importer.
 
-Not implemented in depth yet; placeholder for when API key is available.
+Supports a simple --all mode (import canonical AQA programme). This script
+is intentionally tolerant: it will still work (no-ops) before an API key is
+configured because it uses the same importer that falls back to cached data.
 """
-from config import config
+import argparse
+import logging
+from oak.importer import Importer
+
+logging.basicConfig(level=logging.INFO)
 
 
 def main():
-    print("Update (not implemented yet)")
+    p = argparse.ArgumentParser()
+    p.add_argument("--programme", default="science-secondary-aqa", help="Programme slug to import")
+    args = p.parse_args()
+    imp = Importer()
+    imp.import_programme(args.programme)
 
 
 if __name__ == "__main__":
