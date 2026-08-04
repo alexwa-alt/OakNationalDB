@@ -9,6 +9,8 @@ permissions:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    env:
+      OAK_API_KEY: ${{ secrets.OAK_API_KEY }}
     steps:
       - uses: actions/checkout@v4
 
