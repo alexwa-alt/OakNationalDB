@@ -11,8 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       OAK_API_KEY: ${{ secrets.OAK_API_KEY }}
-      OAK_TEACHER_SEQUENCE: science-secondary-aqa
-      OAK_API_SEQUENCE: science-secondary-aqa
     steps:
       - uses: actions/checkout@v4
 
