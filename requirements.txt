@@ -2,3 +2,4 @@ requests
 pandas
 tqdm
 tenacity
+beautifulsoup4
