@@ -9,27 +9,29 @@ permissions:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    env:
+      OAK_API_KEY: ${{ secrets.OAK_API_KEY }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.12'
 
-      - name: Install deps
+      - name: Install runtime dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
+          python -m pip install -r requirements.txt
 
-      - name: Run scraper to build site/index.html
+      - name: Run scraper and build site/index.html
         run: |
           python commands/scrape_and_build.py
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.PAGES_DEPLOY_TOKEN }}
           publish_dir: ./site
           publish_branch: gh-pages
