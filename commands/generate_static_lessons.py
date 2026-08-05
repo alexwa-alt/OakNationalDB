@@ -7,9 +7,10 @@ Generator that:
 - validates/fetches lesson metadata from Open API /lessons/{lessonSlug}/summary,
 - writes site/index.html with the discovered lesson links.
 
-Added: batching support. If the environment variable BATCH_SIZE is set to a positive integer,
-links will be grouped into sequential "Unit 1", "Unit 2" sections of that many links each.
-If unset or 0, behaviour is unchanged (all links listed together).
+Behaviour change: group links by teacher unit title (one section per Oak unit).
+Lessons are deduplicated globally (first seen wins) so a lesson appearing
+in multiple teacher units will only be shown under the first unit it was
+encountered during the scan.
 """
 
 from __future__ import annotations
@@ -37,12 +38,6 @@ OUT_DIR = Path("site")
 OUT_DIR.mkdir(exist_ok=True)
 OUT_PATH = OUT_DIR / "index.html"
 REQUEST_TIMEOUT = 15
-
-# New: batch size from environment (default 0 == no batching)
-try:
-    BATCH_SIZE = int(os.environ.get("BATCH_SIZE", "0"))
-except Exception:
-    BATCH_SIZE = 0
 
 
 def get_json(url: str) -> Tuple[int, Any]:
@@ -126,7 +121,7 @@ def get_teacher_unit_lessons(teacher_unit_url: str) -> List[Tuple[str, str]]:
             title = (a.get_text() or href).strip()
             full = urljoin(TEACHER_BASE, href) if not href.startswith("http") else href
             links.append((title, full))
-    # de-duplicate by href
+    # de-duplicate by href while preserving the last title seen for that page on the unit
     seen = {}
     for t, u in links:
         seen[u] = t
@@ -139,12 +134,6 @@ def fetch_lesson_summary(lesson_slug: str) -> Tuple[int, Any]:
     return get_json(url)
 
 
-def chunk_list(lst: List[Any], size: int) -> List[List[Any]]:
-    if size <= 0:
-        return [lst]
-    return [lst[i:i+size] for i in range(0, len(lst), size)]
-
-
 def main():
     print("Starting generator. API key present:", bool(API_KEY))
     # discover teacher unit pages using teacher sequence listing; fallback to api sequence
@@ -154,58 +143,54 @@ def main():
 
     print(f"Found {len(teacher_units)} teacher units to scan")
 
-    all_links: List[Tuple[str, str]] = []
+    # Map of unit title -> list of (title, href)
+    from collections import OrderedDict
+    unit_map: "OrderedDict[str, List[Tuple[str, str]]]" = OrderedDict()
+    global_seen = set()  # hrefs seen so far; used for global dedupe (first seen wins)
 
     for title, unit_url in teacher_units:
         print(f"Scanning unit: {title} -> {unit_url}")
         try:
             lessons = get_teacher_unit_lessons(unit_url)
             print(f"  found {len(lessons)} lesson links")
+            unit_list: List[Tuple[str, str]] = []
             for t, u in lessons:
-                # store as tuple
-                all_links.append((t, u))
+                if u in global_seen:
+                    # skip duplicate lessons already added under an earlier unit
+                    continue
+                global_seen.add(u)
+                unit_list.append((t, u))
+            # sort unit's lessons by title for deterministic output
+            unit_list.sort(key=lambda x: (x[0] or "").lower())
+            unit_map[title] = unit_list
             # small throttle
             time.sleep(0.25)
         except Exception as e:
             print(f"Error scanning {unit_url}: {e}", file=sys.stderr)
 
-    # dedupe across units by URL, preserve first title seen
-    dedup = {}
-    for t, u in all_links:
-        if u not in dedup:
-            dedup[u] = t
-    all_links = [(dedup[u], u) for u in dedup]
-
-    # sort links by title for deterministic output
-    all_links.sort(key=lambda x: (x[0] or "").lower())
-
-    # Optionally chunk into batches/units
-    if BATCH_SIZE and BATCH_SIZE > 0:
-        chunks = chunk_list(all_links, BATCH_SIZE)
-        print(f"Batching links into {len(chunks)} units of up to {BATCH_SIZE} links")
-    else:
-        chunks = [all_links]
+    total_links = sum(len(v) for v in unit_map.values())
 
     # build html
     html_lines: List[str] = []
     html_lines.append("<!doctype html>")
     html_lines.append("<html lang='en'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><title>Oak lesson links</title>")
-    html_lines.append("<style>body{font-family:system-ui,-apple-system,'Segoe UI',Roboto,Arial;padding:1rem}a{color:#0366d6}</style>")
+    html_lines.append("<style>body{font-family:system-ui,-apple-system,'Segoe UI',Roboto,Arial;padding:1rem}a{color:#0366d6}h2{margin-top:1.5rem}</style>")
     html_lines.append("</head><body>")
     html_lines.append(f"<h1>Oak lesson links — sequence: {API_SEQ}</h1>")
-
-    total_links = sum(len(c) for c in chunks)
     html_lines.append(f"<p>Total links discovered: {total_links}</p>")
 
     if total_links == 0:
         html_lines.append("<p>No links discovered. See Actions logs for details.</p>")
     else:
-        # iterate chunks and render as separate unit sections when batching
-        for idx, chunk in enumerate(chunks, start=1):
-            if len(chunks) > 1:
-                html_lines.append(f"<h2>Unit {idx}</h2>")
+        # render each unit as its own section
+        for idx, (unit_title, lessons) in enumerate(unit_map.items(), start=1):
+            # skip empty units
+            if not lessons:
+                continue
+            safe_unit = (unit_title or f"Unit {idx}").replace("<", "&lt;").replace(">", "&gt;")
+            html_lines.append(f"<h2>{safe_unit}</h2>")
             html_lines.append("<ul>")
-            for title, href in chunk:
+            for title, href in lessons:
                 safe = (title or href).replace("<", "&lt;").replace(">", "&gt;")
                 html_lines.append(f'<li><a href="{href}" target="_blank" rel="noopener noreferrer">{safe}</a></li>')
             html_lines.append("</ul>")
@@ -213,7 +198,7 @@ def main():
     html_lines.append("</body></html>")
 
     OUT_PATH.write_text("\n".join(html_lines), encoding="utf-8")
-    print(f"Wrote {OUT_PATH} with {total_links} links in {len(chunks)} chunk(s)")
+    print(f"Wrote {OUT_PATH} with {total_links} links across {len([u for u in unit_map.values() if u])} unit(s)")
 
 
 if __name__ == "__main__":
