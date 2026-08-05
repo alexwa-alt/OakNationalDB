@@ -1,4 +1,4 @@
-name: Generate lesson URLs and deploy
+name: Generate lesson URls and deploy
 
 on:
   workflow_dispatch:
@@ -19,10 +19,10 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install runtime deps
+      - name: Install runtime dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
+          python -m pip install -r requirements.txt
 
       - name: Run generator to build site/index.html
         run: |
