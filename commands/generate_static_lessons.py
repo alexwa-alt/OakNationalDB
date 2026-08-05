@@ -7,16 +7,25 @@ Generator that:
 - validates/fetches lesson metadata from Open API /lessons/{lessonSlug}/summary,
 - writes site/index.html with the discovered lesson links.
 
-Behaviour change: group links by teacher unit title (one section per Oak unit).
+Behaviour: group links by teacher unit title (one section per Oak unit).
 Lessons are deduplicated globally (first seen wins) so a lesson appearing
 in multiple teacher units will only be shown under the first unit it was
 encountered during the scan.
+
+Fixes included:
+- Use API-fetched lesson title where available so the link text is the
+  canonical lesson title (avoids including the lesson objective in the
+  anchor text).
+- Use natural sort for lesson ordering so "10" sorts after "9" not before "1".
+- If API title is unavailable, clean the scraped title removing 'I can' objectives
+  and fixing missing punctuation for numeric prefixes (e.g., '1What' -> '1. What').
 """
 
 from __future__ import annotations
 import os
 import sys
 import time
+import re
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
@@ -108,7 +117,7 @@ def fetch_units_from_api(api_sequence_slug: str) -> List[Tuple[str, str]]:
 
 
 def get_teacher_unit_lessons(teacher_unit_url: str) -> List[Tuple[str, str]]:
-    """Scrape a teacher unit page for lesson links. Returns list of (title, href)"""
+    """Scrape a teacher unit page for lesson links. Returns list of (raw_title, href)"""
     html = get_html_from_teacher_unit_url(teacher_unit_url)
     if not html:
         return []
@@ -118,9 +127,9 @@ def get_teacher_unit_lessons(teacher_unit_url: str) -> List[Tuple[str, str]]:
         href = a["href"]
         # lessons path pattern in teacher pages
         if "/lessons/" in href:
-            title = (a.get_text() or href).strip()
+            raw_title = (a.get_text() or href).strip()
             full = urljoin(TEACHER_BASE, href) if not href.startswith("http") else href
-            links.append((title, full))
+            links.append((raw_title, full))
     # de-duplicate by href while preserving the last title seen for that page on the unit
     seen = {}
     for t, u in links:
@@ -132,6 +141,60 @@ def get_teacher_unit_lessons(teacher_unit_url: str) -> List[Tuple[str, str]]:
 def fetch_lesson_summary(lesson_slug: str) -> Tuple[int, Any]:
     url = f"{API_BASE}/lessons/{lesson_slug}/summary"
     return get_json(url)
+
+
+def extract_lesson_slug_from_url(url: str) -> str:
+    """Extract the lesson slug from a teacher or public lesson URL."""
+    try:
+        p = urlparse(url)
+        path = p.path  # e.g. /lessons/what-forces-do
+        if "/lessons/" in path:
+            slug = path.split("/lessons/", 1)[1].strip("/ ")
+            # slug might include further segments; take first
+            slug = slug.split("/")[0]
+            return slug
+    except Exception:
+        pass
+    return ""
+
+
+def clean_title(raw: str) -> str:
+    """Clean raw link text as a fallback when API title isn't available.
+    - remove objectives that begin with phrases like 'I can'
+    - ensure a space after a leading digit (e.g. '1What' -> '1. What')
+    - collapse whitespace
+    """
+    if not raw:
+        return ""
+    s = raw.replace("\n", " ").strip()
+    s = re.sub(r"\s+", " ", s)
+    # remove common objective marker 'I can' and anything after it
+    m = re.search(r"(.+?)(?:\bI can\b).*", s, flags=re.IGNORECASE)
+    if m:
+        s = m.group(1).strip()
+    # put a dot+space after leading number if missing
+    s = re.sub(r"^(\d+)([A-Za-z])", r"\1. \2", s)
+    # if number is followed immediately by word without punctuation, add '. '
+    s = re.sub(r"^(\d+)(\s*)([A-Za-z])", lambda mo: f"{int(mo.group(1))}. {mo.group(3)}" if mo.group(2)=="" else mo.group(0), s)
+    return s.strip()
+
+
+def lesson_sort_key(title: str) -> Tuple[int, str]:
+    """Natural sort key: leading number (if present) then remainder lowercased."""
+    if not title:
+        return (9999, "")
+    m = re.match(r"^\s*(\d+)[\.)\s-]*\s*(.*)$", title)
+    if m:
+        num = int(m.group(1))
+        rest = m.group(2) or ""
+        return (num, rest.lower())
+    # try to find leading digits stuck to words e.g. '1What'
+    m2 = re.match(r"^\s*(\d+)([A-Za-z].*)$", title)
+    if m2:
+        num = int(m2.group(1))
+        rest = m2.group(2)
+        return (num, rest.lower())
+    return (9999, title.lower())
 
 
 def main():
@@ -154,16 +217,37 @@ def main():
             lessons = get_teacher_unit_lessons(unit_url)
             print(f"  found {len(lessons)} lesson links")
             unit_list: List[Tuple[str, str]] = []
-            for t, u in lessons:
-                if u in global_seen:
+            for raw_title, href in lessons:
+                if href in global_seen:
                     # skip duplicate lessons already added under an earlier unit
                     continue
-                global_seen.add(u)
-                unit_list.append((t, u))
-            # sort unit's lessons by title for deterministic output
-            unit_list.sort(key=lambda x: (x[0] or "").lower())
+                # try to fetch canonical title from API using slug
+                slug = extract_lesson_slug_from_url(href)
+                canonical_title = None
+                if slug:
+                    status, data = fetch_lesson_summary(slug)
+                    if status == 200 and isinstance(data, dict):
+                        # try common keys
+                        for key in ("title", "lessonTitle", "name", "displayName"):
+                            if key in data and isinstance(data[key], str) and data[key].strip():
+                                canonical_title = data[key].strip()
+                                break
+                        # sometimes nested
+                        if not canonical_title and "data" in data and isinstance(data["data"], dict):
+                            for key in ("title", "name"): 
+                                if key in data["data"] and isinstance(data["data"][key], str):
+                                    canonical_title = data["data"][key].strip()
+                                    break
+                    # small throttle for API calls
+                    time.sleep(0.1)
+                if not canonical_title:
+                    canonical_title = clean_title(raw_title)
+                global_seen.add(href)
+                unit_list.append((canonical_title, href))
+            # sort unit's lessons by natural numeric order
+            unit_list.sort(key=lambda x: lesson_sort_key(x[0] or ""))
             unit_map[title] = unit_list
-            # small throttle
+            # small throttle between unit pages
             time.sleep(0.25)
         except Exception as e:
             print(f"Error scanning {unit_url}: {e}", file=sys.stderr)
