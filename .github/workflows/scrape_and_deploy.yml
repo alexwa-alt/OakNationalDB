@@ -27,7 +27,7 @@ jobs:
 
       - name: Run scraper and build site/index.html
         run: |
-          python commands/scrape_and_build.py
+          python commands/generate_static_lessons.py
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
