@@ -34,6 +34,15 @@ jobs:
           # safe probe: uses secret in env on runner only
           LESSON_SLUG="what-forces-do" OAK_API_KEY="${{ secrets.OAK_API_KEY }}" python scripts/print_lesson_summary.py
 
+      - name: Probe selected lessons
+        run: |
+          # probe a couple of known KS3 Science lessons and print the outputs
+          for l in balanced-and-unbalanced-forces what-forces-do; do
+            echo "=== PROBING $l ==="
+            LESSON_SLUG="$l" OAK_API_KEY="${{ secrets.OAK_API_KEY }}" python scripts/print_lesson_summary.py || true
+            echo "=== END $l ==="
+          done
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
