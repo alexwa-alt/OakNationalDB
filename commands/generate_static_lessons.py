@@ -258,8 +258,10 @@ def main():
     html_lines: List[str] = []
     html_lines.append("<!doctype html>")
     html_lines.append("<html lang='en'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><title>Oak lesson links</title>")
-    html_lines.append("<style>body{font-family:system-ui,-apple-system,'Segoe UI',Roboto,Arial;padding:1rem}a{color:#0366d6}h2{margin-top:1.5rem}</style>")
+    html_lines.append("<style>body{font-family:system-ui,-apple-system,'Segoe UI',Roboto,Arial;padding:1rem}a{color:#0366d6}h2{margin-top:1.5rem}nav{margin-bottom:1rem}</style>")
     html_lines.append("</head><body>")
+    # simple navigation so visitors can reach the new static page
+    html_lines.append("<nav><a href=\"index.html\">Home</a> | <a href=\"new-page.html\">New page</a></nav>")
     html_lines.append(f"<h1>Oak lesson links — sequence: {API_SEQ}</h1>")
     html_lines.append(f"<p>Total links discovered: {total_links}</p>")
 
