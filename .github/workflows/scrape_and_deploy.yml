@@ -29,6 +29,11 @@ jobs:
         run: |
           python commands/generate_static_lessons.py
 
+      - name: Inspect one lesson summary (for objectives)
+        run: |
+          # safe probe: uses secret in env on runner only
+          LESSON_SLUG="what-forces-do" OAK_API_KEY="${{ secrets.OAK_API_KEY }}" python scripts/print_lesson_summary.py
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
