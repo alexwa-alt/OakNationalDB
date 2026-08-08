@@ -286,20 +286,14 @@ def main():
     OUT_PATH.write_text("\n".join(html_lines), encoding="utf-8")
     print(f"Wrote {OUT_PATH} with {total_links} links across {len([u for u in unit_map.values() if u])} unit(s)")
 
-    # --- Create a sample lesson page populated from the Oak API for one KS3 Science lesson ---
-    def render_point_list(points):
-        if not points:
-            return "<p>None provided.</p>"
-        if isinstance(points, list):
-            items = "\n".join(f"<li>{str(p).replace('<','&lt;').replace('>','&gt;')}</li>" for p in points)
-            return f"<ul>{items}</ul>"
-        # fallback: string
-        return f"<p>{str(points).replace('<','&lt;').replace('>','&gt;')}</p>"
+    # --- Build a KS3 Science unit -> aggregated keyLearningPoints map and render an interactive page ---
+    import json
 
-    sample_created = False
-    sample_out = OUT_DIR / "new-page.html"
-    # iterate discovered lessons and probe their summaries until a KS3 Science lesson is found
+    ks3_units: dict[str, list] = {}
+
     for unit_title, lessons in unit_map.items():
+        aggregated = []
+        seen = set()
         for title, href in lessons:
             slug = extract_lesson_slug_from_url(href)
             if not slug:
@@ -308,56 +302,58 @@ def main():
             if status != 200 or not isinstance(data, dict):
                 time.sleep(0.1)
                 continue
-            # check key stage and subject hints
-            ks = data.get("keyStageSlug") or data.get("keyStageTitle") or (data.get("data") or {}).get("keyStageSlug")
-            subj = data.get("subjectSlug") or data.get("subjectTitle") or (data.get("data") or {}).get("subjectSlug")
-            ks_val = (ks or "").lower()
-            subj_val = (subj or "").lower()
-            if "ks3" in ks_val or ("key stage 3" in ks_val) or "science" in subj_val:
-                # found a candidate
-                lesson_title = data.get("lessonTitle") or title
-                units_info = data.get("units") or (data.get("data") or {}).get("units") or []
-                # extract a sensible unit title
-                unit_label = ""
-                if isinstance(units_info, list) and units_info:
-                    first_unit = units_info[0]
-                    if isinstance(first_unit, dict):
-                        unit_label = first_unit.get("title") or first_unit.get("unitTitle") or str(first_unit)
-                    else:
-                        unit_label = str(first_unit)
-                key_points = data.get("keyLearningPoints") or (data.get("data") or {}).get("keyLearningPoints")
-                pupil_outcome = data.get("pupilLessonOutcome") or (data.get("data") or {}).get("pupilLessonOutcome")
+            ks = (data.get("keyStageSlug") or data.get("keyStageTitle") or (data.get("data") or {}).get("keyStageSlug") or "").lower()
+            subj = (data.get("subjectSlug") or data.get("subjectTitle") or (data.get("data") or {}).get("subjectSlug") or "").lower()
+            if ("ks3" in ks) or ("key stage 3" in ks) or ("science" in subj):
+                key_points = data.get("keyLearningPoints") or (data.get("data") or {}).get("keyLearningPoints") or []
+                # normalize to list of strings
+                if isinstance(key_points, str):
+                    items = [key_points]
+                elif isinstance(key_points, list):
+                    items = [str(x) for x in key_points]
+                else:
+                    items = [str(key_points)]
+                for p in items:
+                    txt = p.strip()
+                    if txt and txt not in seen:
+                        seen.add(txt)
+                        aggregated.append(txt)
+            # throttle
+            time.sleep(0.05)
+        if aggregated:
+            ks3_units[unit_title or ""] = aggregated
 
-                page_lines = [
-                    "<!doctype html>",
-                    "<html lang='en'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'>",
-                    f"<title>{lesson_title}</title>",
-                    "<style>body{font-family:system-ui,-apple-system,'Segoe UI',Roboto,Arial;padding:1rem}a{color:#0366d6}nav{margin-bottom:1rem}</style>",
-                    "</head><body>",
-                    "<nav><a href=\"index.html\">Home</a> | <a href=\"new-page.html\">New page</a></nav>",
-                    f"<h1>{lesson_title}</h1>",
-                    f"<p><strong>Unit:</strong> {unit_label}</p>",
-                    "<h2>Key learning points</h2>",
-                    render_point_list(key_points),
-                    "<h2>Pupil lesson outcome</h2>",
-                    render_point_list(pupil_outcome),
-                    "</body></html>",
-                ]
-                try:
-                    sample_out.write_text("\n".join(page_lines), encoding="utf-8")
-                    print(f"Wrote {sample_out} for lesson slug {slug}")
-                    sample_created = True
-                except Exception as e:
-                    print(f"Failed to write sample page: {e}", file=sys.stderr)
-                break
-            # small throttle
-            time.sleep(0.1)
-        if sample_created:
-            break
-    if not sample_created:
-        # fallback: leave placeholder page
-        sample_out.write_text("<html><body><p>No KS3 Science lesson summary found during generation.</p></body></html>", encoding="utf-8")
-        print(f"Wrote placeholder {sample_out}")
+    # write interactive page with embedded data
+    sample_out = OUT_DIR / "new-page.html"
+    page = [
+        "<!doctype html>",
+        "<html lang='en'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'>",
+        "<title>KS3 Science key learning points</title>",
+        "<style>body{font-family:system-ui,-apple-system,'Segoe UI',Roboto,Arial;padding:1rem}nav{margin-bottom:1rem}select{font-size:1rem;padding:0.25rem;margin-bottom:1rem}#points{white-space:pre-wrap}</style>",
+        "</head><body>",
+        "<nav><a href=\"index.html\">Home</a> | <a href=\"new-page.html\">New page</a></nav>",
+        "<h1>KS3 Science — key learning points by unit</h1>",
+        "<p>Select a unit to view a combined list of its key learning points (unbroken list across lessons).</p>",
+        "<label for=\"unit-select\">Unit:</label>",
+        "<select id=\"unit-select\"><option value=\"\">-- choose a unit --</option></select>",
+        "<div id=\"points\"></div>",
+        "<script>",
+        f"const UNITS = {json.dumps(ks3_units)};",
+        "const sel = document.getElementById('unit-select');",
+        "const pointsDiv = document.getElementById('points');",
+        "function escapeHtml(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}",
+        "function populateUnits(){Object.keys(UNITS).forEach(u=>{const o=document.createElement('option');o.value=u;o.textContent=u;sel.appendChild(o)});}  ",
+        "function showPoints(unit){pointsDiv.innerHTML=''; if(!unit) return; const items=UNITS[unit]||[]; if(items.length===0){pointsDiv.textContent='No key learning points found.'; return;} const frag=document.createDocumentFragment(); items.forEach(p=>{const div=document.createElement('div');div.textContent=p;frag.appendChild(div)}); pointsDiv.appendChild(frag);} ",
+        "sel.addEventListener('change', e=>showPoints(e.target.value));",
+        "populateUnits();",
+        "</script>",
+        "</body></html>",
+    ]
+    try:
+        sample_out.write_text("\n".join(page), encoding='utf-8')
+        print(f"Wrote {sample_out} with {len(ks3_units)} KS3 Science unit(s)")
+    except Exception as e:
+        print(f"Failed to write interactive page: {e}", file=sys.stderr)
 
 
 if __name__ == "__main__":
