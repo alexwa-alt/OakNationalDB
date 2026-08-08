@@ -338,8 +338,9 @@ def main():
                         seen.add(txt)
                         aggregated.append(txt)
             # throttle
-            time.sleep(0.25)        if aggregated:
-            ks3_units[unit_title or ""] = aggregated
+            time.sleep(0.25)
+            if aggregated:
+                ks3_units[unit_title or ""] = aggregated
 
     # write interactive page with embedded data
     sample_out = OUT_DIR / "new-page.html"
