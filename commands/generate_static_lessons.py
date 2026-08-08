@@ -49,13 +49,32 @@ OUT_PATH = OUT_DIR / "index.html"
 REQUEST_TIMEOUT = 15
 
 
-def get_json(url: str) -> Tuple[int, Any]:
-    try:
-        r = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
-        return r.status_code, r.json() if r.content else None
-    except Exception as e:
-        print(f"JSON GET error for {url}: {e}", file=sys.stderr)
-        return 0, None
+def get_json(url: str, max_attempts: int = 5, backoff_factor: float = 0.5) -> Tuple[int, Any]:
+    """GET JSON with retries and exponential backoff on 429/5xx and transient errors."""
+    for attempt in range(1, max_attempts + 1):
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+            # success
+            if r.status_code == 200:
+                return 200, r.json() if r.content else None
+            # retryable responses
+            if r.status_code == 429 or (500 <= r.status_code < 600):
+                wait = backoff_factor * (2 ** (attempt - 1))
+                print(f"JSON GET {url} returned {r.status_code}; retrying after {wait:.1f}s (attempt {attempt}/{max_attempts})", file=sys.stderr)
+                time.sleep(wait)
+                continue
+            # non-retryable status - return what we have
+            try:
+                return r.status_code, r.json() if r.content else None
+            except Exception:
+                return r.status_code, None
+        except Exception as e:
+            wait = backoff_factor * (2 ** (attempt - 1))
+            print(f"JSON GET error for {url}: {e}; retrying after {wait:.1f}s (attempt {attempt}/{max_attempts})", file=sys.stderr)
+            time.sleep(wait)
+            continue
+    print(f"JSON GET failed after {max_attempts} attempts for {url}", file=sys.stderr)
+    return 0, None
 
 
 def get_html(url: str) -> Tuple[int, str]:
@@ -300,7 +319,7 @@ def main():
                 continue
             status, data = fetch_lesson_summary(slug)
             if status != 200 or not isinstance(data, dict):
-                time.sleep(0.1)
+                time.sleep(0.25)
                 continue
             ks = (data.get("keyStageSlug") or data.get("keyStageTitle") or (data.get("data") or {}).get("keyStageSlug") or "").lower()
             subj = (data.get("subjectSlug") or data.get("subjectTitle") or (data.get("data") or {}).get("subjectSlug") or "").lower()
@@ -319,8 +338,7 @@ def main():
                         seen.add(txt)
                         aggregated.append(txt)
             # throttle
-            time.sleep(0.05)
-        if aggregated:
+            time.sleep(0.25)        if aggregated:
             ks3_units[unit_title or ""] = aggregated
 
     # write interactive page with embedded data
