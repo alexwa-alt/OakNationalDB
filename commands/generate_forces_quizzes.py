@@ -192,7 +192,7 @@ def main() -> int:
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         raise RuntimeError("GEMINI_API_KEY must be set")
-    model = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+    model = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash")
     points = load_learning_points()
     QUIZ_DIRECTORY.mkdir(parents=True, exist_ok=True)
 
