@@ -1,0 +1,56 @@
+name: Generate Forces quiz prototype
+
+on:
+  workflow_dispatch:
+    inputs:
+      overwrite:
+        description: Regenerate existing quiz files
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  generate-and-deploy:
+    runs-on: ubuntu-latest
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GEMINI_MODEL: gemini-2.5-flash
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install runtime dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Generate five cached Forces quizzes
+        run: >-
+          python commands/generate_forces_quizzes.py --count 5
+          --delay-seconds 60
+          ${{ inputs.overwrite && '--overwrite' || '' }}
+
+      - name: Commit cached quizzes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add site/quizzes/forces
+          if git diff --staged --quiet; then
+            echo "No quiz changes to commit"
+          else
+            git commit -m "Generate Forces quiz cache [skip ci]"
+            git push
+          fi
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.PAGES_DEPLOY_TOKEN }}
+          publish_dir: ./site
+          publish_branch: gh-pages
