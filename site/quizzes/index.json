@@ -2,6 +2,9 @@
   "units": {
     "1ForcesPhysics": {
       "path": "forces"
+    },
+    "2Solid, liquid, gas states and changes of stateChemistry": {
+      "path": "2-solid-liquid-gas-states-and-changes-of-state-chemistry"
     }
   }
 }
