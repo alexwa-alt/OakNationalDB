@@ -309,52 +309,73 @@ def main():
     import json
 
     ks3_units: dict[str, list] = {}
+    CACHE_FILE = OUT_DIR / "ks3_units.json"
+    refresh = os.environ.get("REFRESH_KS3_CACHE", "").lower() in ("1", "true", "yes")
 
-    for unit_title, lessons in unit_map.items():
-        aggregated = []
-        seen = set()
-        for title, href in lessons:
-            slug = extract_lesson_slug_from_url(href)
-            if not slug:
-                continue
-            status, data = fetch_lesson_summary(slug)
-            if status != 200 or not isinstance(data, dict):
-                time.sleep(0.25)
-                continue
-            ks = (data.get("keyStageSlug") or data.get("keyStageTitle") or (data.get("data") or {}).get("keyStageSlug") or "").lower()
-            subj = (data.get("subjectSlug") or data.get("subjectTitle") or (data.get("data") or {}).get("subjectSlug") or "").lower()
-            if ("ks3" in ks) or ("key stage 3" in ks) or ("science" in subj):
-                key_points = data.get("keyLearningPoints") or (data.get("data") or {}).get("keyLearningPoints") or []
-                # normalize to list of strings and extract 'keyLearningPoint' when items are dicts
-                if isinstance(key_points, str):
-                    items = [key_points]
-                elif isinstance(key_points, list):
-                    processed = []
-                    for x in key_points:
-                        if isinstance(x, dict):
-                            # prefer common keys that contain the text
-                            for k in ("keyLearningPoint", "text", "learningPoint", "point"):
-                                if k in x and isinstance(x[k], str) and x[k].strip():
-                                    processed.append(x[k].strip())
-                                    break
+    if not refresh and CACHE_FILE.exists():
+        try:
+            ks3_units = json.loads(CACHE_FILE.read_text(encoding='utf-8'))
+            print(f"Loaded ks3_units cache from {CACHE_FILE} with {len(ks3_units)} unit(s)")
+        except Exception as e:
+            print(f"Failed to load cache {CACHE_FILE}: {e}; regenerating", file=sys.stderr)
+            ks3_units = {}
+            refresh = True
+
+    if refresh or not ks3_units:
+        for unit_title, lessons in unit_map.items():
+            aggregated = []
+            seen = set()
+            for title, href in lessons:
+                slug = extract_lesson_slug_from_url(href)
+                if not slug:
+                    continue
+                status, data = fetch_lesson_summary(slug)
+                if status != 200 or not isinstance(data, dict):
+                    time.sleep(0.25)
+                    continue
+                ks = (data.get("keyStageSlug") or data.get("keyStageTitle") or (data.get("data") or {}).get("keyStageSlug") or "").lower()
+                subj = (data.get("subjectSlug") or data.get("subjectTitle") or (data.get("data") or {}).get("subjectSlug") or "").lower()
+                if ("ks3" in ks) or ("key stage 3" in ks) or ("science" in subj):
+                    key_points = data.get("keyLearningPoints") or (data.get("data") or {}).get("keyLearningPoints") or []
+                    # normalize to list of strings and extract 'keyLearningPoint' when items are dicts
+                    if isinstance(key_points, str):
+                        items = [key_points]
+                    elif isinstance(key_points, list):
+                        processed = []
+                        for x in key_points:
+                            if isinstance(x, dict):
+                                # prefer common keys that contain the text
+                                for k in ("keyLearningPoint", "text", "learningPoint", "point"):
+                                    if k in x and isinstance(x[k], str) and x[k].strip():
+                                        processed.append(x[k].strip())
+                                        break
+                                else:
+                                    # fallback: pick the first string value in the dict
+                                    vals = [v for v in x.values() if isinstance(v, str) and v.strip()]
+                                    processed.append(vals[0].strip() if vals else str(x))
                             else:
-                                # fallback: pick the first string value in the dict
-                                vals = [v for v in x.values() if isinstance(v, str) and v.strip()]
-                                processed.append(vals[0].strip() if vals else str(x))
-                        else:
-                            processed.append(str(x))
-                    items = processed
-                else:
-                    items = [str(key_points)]
-                for p in items:
-                    txt = (p or "").strip()
-                    if txt and txt not in seen:
-                        seen.add(txt)
-                        aggregated.append(txt)
-            # throttle
-            time.sleep(0.25)
+                                processed.append(str(x))
+                        items = processed
+                    else:
+                        items = [str(key_points)]
+                    for p in items:
+                        txt = (p or "").strip()
+                        if txt and txt not in seen:
+                            seen.add(txt)
+                            aggregated.append(txt)
+                # throttle
+                time.sleep(0.25)
             if aggregated:
                 ks3_units[unit_title or ""] = aggregated
+
+        try:
+            CACHE_FILE.write_text(json.dumps(ks3_units, ensure_ascii=False, indent=2), encoding='utf-8')
+            print(f"Wrote KS3 units cache to {CACHE_FILE} with {len(ks3_units)} unit(s)")
+        except Exception as e:
+            print(f"Failed to write cache {CACHE_FILE}: {e}", file=sys.stderr)
+
+    else:
+        print("Using cached ks3_units; set REFRESH_KS3_CACHE=1 to regenerate")
 
     # write interactive page with embedded data
     sample_out = OUT_DIR / "new-page.html"
