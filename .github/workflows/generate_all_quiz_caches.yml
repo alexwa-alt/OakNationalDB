@@ -41,24 +41,37 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           for start in $(seq 0 5 40); do
-            arguments=(--all --start "$start" --limit 5 --count 5 --delay-seconds 60)
-            if [ "$OVERWRITE" = "true" ]; then
-              arguments+=(--overwrite)
-            fi
-            python commands/generate_forces_quizzes.py "${arguments[@]}"
-
-            git add site/quizzes
-            if git diff --staged --quiet; then
-              echo "No quiz cache changes in checkpoint starting at unit $start"
-              continue
+            end=$((start + 4))
+            if [ "$end" -gt 40 ]; then
+              end=40
             fi
 
-            git commit -m "Generate quiz cache checkpoint [skip ci]"
-            git push origin HEAD:main
+            for unit_start in $(seq "$start" 1 "$end"); do
+              arguments=(--all --start "$unit_start" --limit 1 --count 5 --delay-seconds 60)
+              if [ "$OVERWRITE" = "true" ]; then
+                arguments+=(--overwrite)
+              fi
+
+              if ! python commands/generate_forces_quizzes.py "${arguments[@]}"; then
+                git add site/quizzes
+                if ! git diff --staged --quiet; then
+                  git commit -m "Save partial quiz cache [skip ci]"
+                  git push origin HEAD:main
+                fi
+                exit 1
+              fi
+
+              git add site/quizzes
+              if ! git diff --staged --quiet; then
+                git commit -m "Generate unit quiz cache [skip ci]"
+                git push origin HEAD:main
+              fi
+
+              if [ "$unit_start" -lt 40 ]; then
+                sleep 60
+              fi
+            done
+
             gh workflow run deploy_quiz_cache.yml --ref main
             echo "Published checkpoint starting at unit $start"
-
-            if [ "$start" -lt 40 ]; then
-              sleep 60
-            fi
           done

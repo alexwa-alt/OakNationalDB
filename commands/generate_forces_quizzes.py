@@ -181,24 +181,38 @@ def generate_quiz(
     api_key: str, model: str, unit_key: str, points: list[str], variation: int
 ) -> list[dict[str, Any]]:
     for attempt in range(1, MAX_ATTEMPTS + 1):
-        response = requests.post(
-            API_URL_TEMPLATE.format(model=model),
-            params={"key": api_key},
-            json={
-                "contents": [
-                    {
-                        "role": "user",
-                        "parts": [{"text": prompt_for(unit_key, points, variation)}],
-                    }
-                ],
-                "generationConfig": {
-                    "temperature": 0.9,
-                    "responseMimeType": "application/json",
-                    "responseJsonSchema": QUIZ_SCHEMA,
+        try:
+            response = requests.post(
+                API_URL_TEMPLATE.format(model=model),
+                params={"key": api_key},
+                json={
+                    "contents": [
+                        {
+                            "role": "user",
+                            "parts": [{"text": prompt_for(unit_key, points, variation)}],
+                        }
+                    ],
+                    "generationConfig": {
+                        "temperature": 0.9,
+                        "responseMimeType": "application/json",
+                        "responseJsonSchema": QUIZ_SCHEMA,
+                    },
                 },
-            },
-            timeout=REQUEST_TIMEOUT_SECONDS,
-        )
+                timeout=REQUEST_TIMEOUT_SECONDS,
+            )
+        except requests.RequestException as error:
+            if attempt == MAX_ATTEMPTS:
+                raise RuntimeError(
+                    f"Gemini request failed after {MAX_ATTEMPTS} connection attempts"
+                ) from error
+            delay = 60 * (2 ** (attempt - 1))
+            print(
+                f"Gemini request failed: {error}; retrying in {delay}s "
+                f"(attempt {attempt}/{MAX_ATTEMPTS})",
+                file=sys.stderr,
+            )
+            time.sleep(delay)
+            continue
         if response.ok:
             try:
                 payload = json.loads(response_text(response.json()))
