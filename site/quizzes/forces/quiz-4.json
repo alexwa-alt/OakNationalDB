@@ -1,0 +1,171 @@
+{
+  "unitKey": "1ForcesPhysics",
+  "generatedAt": "2026-08-09T13:42:42.569199+00:00",
+  "questions": [
+    {
+      "question": "What is true about two forces of equal size that act in opposite directions on an object?",
+      "options": [
+        "They are balanced forces.",
+        "They are unbalanced forces.",
+        "They combine to make a larger force.",
+        "They cause the object to speed up."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How do we calculate the resultant force acting on an object?",
+      "options": [
+        "By multiplying all the forces acting on the object together.",
+        "By adding the forces together, taking into account their direction.",
+        "By dividing the largest force by the smallest force.",
+        "By only measuring the force acting in the downwards direction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "If the forces acting on a moving car are balanced, what will happen to its speed?",
+      "options": [
+        "It will immediately stop.",
+        "It will speed up.",
+        "There will be no change in its speed.",
+        "It will slow down gradually to a halt."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "An object has a force of 10 N pushing it to the left and a force of 15 N pushing it to the right. In which direction does the resultant force act?",
+      "options": [
+        "To the left",
+        "To the right",
+        "Upwards",
+        "It does not act in any direction because they cancel out"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How does increasing the size of the resultant force on a toy car affect its motion?",
+      "options": [
+        "The car will experience a faster change in speed.",
+        "The car will immediately travel at a constant speed.",
+        "The car will experience a slower change in speed.",
+        "The car will change its shape instead of its speed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following best describes the force of friction?",
+      "options": [
+        "The force of one surface gripping or rubbing on another.",
+        "The pull of gravity acting on a heavy object.",
+        "The push of a magnetic field on a piece of iron.",
+        "The pressure of air acting on a stationary object."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is the main purpose of adding a lubricant, such as oil, between two sliding surfaces?",
+      "options": [
+        "To increase the grip between the surfaces.",
+        "To reduce the friction between the surfaces.",
+        "To make the surfaces hotter.",
+        "To increase the mass of the surfaces."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which unit is used to measure the size of a force?",
+      "options": [
+        "Kilograms (kg)",
+        "Newtons (N)",
+        "Joules (J)",
+        "Metres per second (m/s)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Before using a newton meter to measure a force, what adjustment must be made when no force is applied?",
+      "options": [
+        "It must be set to its maximum reading.",
+        "It must be adjusted to read zero.",
+        "It must be shaken to loosen the spring.",
+        "It must be oiled to reduce friction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "If the independent variable you changed in an experiment is categoric, which type of chart should you use to display your results?",
+      "options": [
+        "Line graph",
+        "Scatter graph",
+        "Bar chart",
+        "Pie chart only"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What is a key requirement for an experiment to be considered a fair test?",
+      "options": [
+        "Every single variable in the experiment must be changed.",
+        "Only the variable we are testing is changed.",
+        "No variables are allowed to change at all.",
+        "We must use different measuring instruments for every test."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which of the following is a characteristic of all contact forces?",
+      "options": [
+        "They only act when objects are touching.",
+        "They can act even when objects are far apart.",
+        "They only exist in outer space.",
+        "They are always larger than non-contact forces."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "What is drag?",
+      "options": [
+        "A non-contact force that pulls objects towards the centre of the Earth.",
+        "A contact force that pushes against objects moving through liquids or gases.",
+        "The force that holds a stationary object to a rough surface.",
+        "A chemical store of energy that causes objects to heat up."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "When drawing forces on a diagram, what does the length of a force arrow represent?",
+      "options": [
+        "The time for which the force acts.",
+        "The speed at which the object is moving.",
+        "The size of the force.",
+        "The mass of the object experiencing the force."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "Why is a heavy truck harder to stop than a light bicycle moving at the same speed?",
+      "options": [
+        "The motion of heavier objects is harder to stop.",
+        "Heavier objects experience less drag.",
+        "Heavier objects have no gravitational store of energy.",
+        "The bicycle has a greater mass than the truck."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 38
+    }
+  ]
+}

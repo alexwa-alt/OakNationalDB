@@ -1,0 +1,193 @@
+{
+  "unitKey": "1ForcesPhysics",
+  "generatedAt": "2026-08-09T13:41:28.353332+00:00",
+  "questions": [
+    {
+      "question": "Two forces of equal size act on a toy car in opposite directions. What term describes these forces?",
+      "options": [
+        "Unbalanced",
+        "Resultant",
+        "Balanced",
+        "Gravitational"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A box is pulled to the right with a force of 10 N and pulled to the left with a force of 4 N. What is the resultant force acting on the box?",
+      "options": [
+        "14 N to the right",
+        "6 N to the right",
+        "6 N to the left",
+        "14 N to the left"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "If all the forces acting on a moving skateboard are completely balanced, what will happen to its speed?",
+      "options": [
+        "It will instantly stop.",
+        "It will gradually slow down.",
+        "It will speed up.",
+        "It will remain at a constant speed."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A tug-of-war rope experiences a 150 N force to the left and a 200 N force to the right. In which direction does the resultant force act?",
+      "options": [
+        "To the right, because it is the direction of the larger force.",
+        "To the left, because it is the direction of the smaller force.",
+        "Upwards, because the forces cancel each other out.",
+        "Downwards, because gravity is acting on the rope."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How does the size of the resultant force on a cart affect its change in speed?",
+      "options": [
+        "A greater resultant force causes a slower change in speed.",
+        "A greater resultant force causes a faster change in speed.",
+        "The size of the resultant force has no effect on the rate of speed change.",
+        "A smaller resultant force causes a faster change in speed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is friction?",
+      "options": [
+        "A force that acts only in a vacuum to speed up objects.",
+        "A force of one surface gripping or rubbing on another.",
+        "A force that pulls all objects toward the centre of the Earth.",
+        "A force that only exists when an object is heated."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why are substances like oil or grease added between two moving metal parts?",
+      "options": [
+        "To increase the friction so they grip better.",
+        "To reduce the friction between the surfaces.",
+        "To increase the weight of the metal parts.",
+        "To prevent any forces from acting on the parts."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which unit is used to measure forces?",
+      "options": [
+        "Kilograms (kg)",
+        "Joules (J)",
+        "Newtons (N)",
+        "Metres per second (m/s)"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What is the main difference between categoric and continuous variables?",
+      "options": [
+        "Categoric variables come in distinct types, whereas continuous variables can take any value on a numerical scale.",
+        "Categoric variables are only measured in seconds, whereas continuous variables have no units.",
+        "Categoric variables can take any numerical value, whereas continuous variables come in distinct types.",
+        "Categoric variables are always kept the same, whereas continuous variables are always changed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "In a fair test, how many variables should we actively change to see their effect?",
+      "options": [
+        "None of them",
+        "Only the variable we are testing",
+        "At least two different variables",
+        "All variables except the one we are testing"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which of the following is a characteristic of contact forces?",
+      "options": [
+        "They only act when objects are touching.",
+        "They can act when objects are far apart in space.",
+        "They never slow down or speed up an object.",
+        "They do not require any physical contact to push or pull."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "How do non-contact forces differ from contact forces?",
+      "options": [
+        "Non-contact forces only work when objects are in direct physical contact.",
+        "Non-contact forces can act with or without the objects touching.",
+        "Non-contact forces cannot cause any change in speed.",
+        "Non-contact forces only exist in liquid environments."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What is drag?",
+      "options": [
+        "A non-contact force that pulls objects toward the ground.",
+        "A contact force that pushes against objects moving through liquids or gases.",
+        "A force that acts only when an object is at rest.",
+        "A force that increases the speed of objects moving through a vacuum."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "According to the scientific principle of conservation of energy, what is true about energy?",
+      "options": [
+        "Energy can be created but never destroyed.",
+        "Energy can be destroyed but never created.",
+        "Energy cannot be created or destroyed.",
+        "Energy can be both created and destroyed at will."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "In a force diagram, what does the length of a force arrow represent?",
+      "options": [
+        "The duration of time the force acts.",
+        "The size of the force.",
+        "The mass of the object experiencing the force.",
+        "The speed of the object."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "If two rolling balls are moving at the same speed, why is the heavier ball harder to stop?",
+      "options": [
+        "Because the motion of heavier objects is harder to stop.",
+        "Because heavier objects have less gravity acting on them.",
+        "Because heavier objects experience zero friction.",
+        "Because heavier objects have less mass."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "In physics, what is a force?",
+      "options": [
+        "A type of energy stored in batteries.",
+        "A push or a pull.",
+        "The speed at which an object travels.",
+        "The amount of matter inside an object."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 40
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "unitKey": "1ForcesPhysics",
+  "generatedAt": "2026-08-09T13:38:48.872587+00:00",
+  "questions": [
+    {
+      "question": "If two forces of equal size act on a single object in completely opposite directions, what can we say about these forces?",
+      "options": [
+        "They are balanced.",
+        "They are unbalanced.",
+        "They create a non-contact force.",
+        "They increase the object's speed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How is the resultant force on an object calculated when multiple forces are acting on it?",
+      "options": [
+        "By multiplying the largest force by the smallest force.",
+        "By taking the sum of the forces, accounting for their directions.",
+        "By dividing the total force by the mass of the object.",
+        "By only measuring the force acting in the downwards direction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "When the forces acting on a moving car are balanced, what happens to its speed?",
+      "options": [
+        "The car will instantly come to a complete stop.",
+        "The car's speed will steadily increase.",
+        "The car's speed will steadily decrease.",
+        "There is no change in the car's speed."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If a toy cart has a force of 10 N pushing it to the right and a force of 4 N pulling it to the left, in which direction does the resultant force act?",
+      "options": [
+        "In the direction of the smaller force (left).",
+        "In the direction of the bigger force (right).",
+        "It acts vertically downwards.",
+        "There is no resultant force direction because they cancel out."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "If you increase the size of the resultant force acting on a moving skateboard, what is the effect on its speed?",
+      "options": [
+        "The change in speed becomes greater or faster.",
+        "The skateboard will immediately travel at a constant velocity.",
+        "The change in speed becomes smaller and slower.",
+        "The skateboard will instantly reverse its direction."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which statement best describes the force of friction?",
+      "options": [
+        "A force that only acts when objects are falling through a vacuum.",
+        "The force of one surface gripping or rubbing on another.",
+        "A force that always acts upwards against gravity.",
+        "The force that pulls magnetic materials together."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is the main purpose of adding a lubricant between two solid surfaces?",
+      "options": [
+        "To increase the chemical energy store of the surfaces.",
+        "To reduce the friction between the two surfaces.",
+        "To increase the roughness and grip of the surfaces.",
+        "To make the forces acting on them become unbalanced."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the standard unit used to measure forces?",
+      "options": [
+        "Kilograms (kg)",
+        "Joules (J)",
+        "Newtons (N)",
+        "Metres per second (m/s)"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following correctly describes categoric and continuous variables?",
+      "options": [
+        "Categoric variables can take any value on a numerical scale, while continuous variables come in distinct types.",
+        "Categoric variables come in distinct types, while continuous variables can take any value on a numerical scale.",
+        "Categoric variables are always measured in newtons, while continuous variables have no units.",
+        "Both types of variables can only be represented by circle graphs."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "In a scientific investigation, what is the rule for a fair test regarding the variables?",
+      "options": [
+        "We change all the variables at the same time.",
+        "Only the variable we are testing is changed.",
+        "We keep changing the variable we are testing until we get the result we want.",
+        "No variables are allowed to change at all during the test."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which statement is true about contact forces?",
+      "options": [
+        "They can act when objects are far apart.",
+        "They only act when objects are touching.",
+        "They do not require any physical contact to slow an object down.",
+        "They are the only forces that can act in a vacuum."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "How do non-contact forces differ from contact forces?",
+      "options": [
+        "Non-contact forces can act with or without the objects touching.",
+        "Non-contact forces only work when objects are in direct contact.",
+        "Non-contact forces can never cause an object to move.",
+        "Non-contact forces are always stronger than contact forces."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What is drag?",
+      "options": [
+        "A non-contact force that pulls objects towards the center of the Earth.",
+        "A contact force that pushes against objects moving through liquids or gases.",
+        "A force that acts only when two dry solid surfaces rub together.",
+        "The energy stored when an object is stretched or squashed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "When drawing force diagrams, what does the length of a force arrow represent?",
+      "options": [
+        "The time for which the force acts.",
+        "The size of the force.",
+        "The speed of the object.",
+        "The mass of the object receiving the force."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "Why is it more difficult to stop a heavy lorry than a light bicycle moving at the same speed?",
+      "options": [
+        "Heavy objects have less air resistance.",
+        "The motion of heavier objects is harder to stop.",
+        "Friction does not act on heavier objects.",
+        "Heavier objects always experience smaller balanced forces."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "In science, how is a force defined?",
+      "options": [
+        "A force is a type of chemical energy.",
+        "A force is a push or a pull.",
+        "A force is the speed at which an object travels.",
+        "A force is how heavy an object is."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 40
+    }
+  ]
+}

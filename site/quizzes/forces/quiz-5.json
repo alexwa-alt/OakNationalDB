@@ -1,0 +1,193 @@
+{
+  "unitKey": "1ForcesPhysics",
+  "generatedAt": "2026-08-09T13:44:01.271867+00:00",
+  "questions": [
+    {
+      "question": "If an object has two forces of equal size acting on it in opposite directions, what can we say about these forces?",
+      "options": [
+        "They are unbalanced.",
+        "They are balanced.",
+        "They are contact forces.",
+        "They are magnetic forces."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How do you calculate the resultant force acting on an object?",
+      "options": [
+        "By multiplying the largest force by the smallest force.",
+        "By dividing the total mass by the sum of all forces.",
+        "By taking the sum of the forces, taking into account their direction.",
+        "By averaging all the forces acting on the object."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "If a toy car has a force of 10 N pushing it forward and a force of 4 N pulling it backward, in which direction does the resultant force act?",
+      "options": [
+        "In the direction of the smaller force (backward).",
+        "Upward, perpendicular to both forces.",
+        "There is no direction because the forces cancel out.",
+        "In the direction of the bigger force (forward)."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the effect of increasing the size of the resultant force acting on a moving bicycle?",
+      "options": [
+        "The bicycle will change its speed greater or faster.",
+        "The bicycle's mass will immediately increase.",
+        "The bicycle will continue at exactly the same constant speed.",
+        "The friction force will instantly drop to zero."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following is a list of recognized stores of energy that an object can have?",
+      "options": [
+        "Speed, friction, gravity, balance, and weight.",
+        "Light, sound, electrical, magnetic, and nuclear.",
+        "Gravitational, thermal, elastic, chemical, and kinetic.",
+        "Push, pull, twist, friction, and drag."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What is the scientific definition of friction?",
+      "options": [
+        "The downward pull of the Earth on an object's mass.",
+        "The force of one surface gripping or rubbing on another.",
+        "The upward push of a liquid on a floating object.",
+        "The force that keeps planets in orbit around the Sun."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is the primary purpose of adding a lubricant, such as oil, between two moving metal surfaces?",
+      "options": [
+        "To increase the chemical energy stored in the metal.",
+        "To increase the mass of the moving parts.",
+        "To make the surfaces grip each other more tightly.",
+        "To reduce the friction between the two surfaces."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which scientific instrument is used to measure the size of a force?",
+      "options": [
+        "A newton meter",
+        "A thermometer",
+        "A voltmeter",
+        "A balance scale"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is the standard unit of measurement for force?",
+      "options": [
+        "Kilograms (kg)",
+        "Joules (J)",
+        "Newtons (N)",
+        "Metres per second (m/s)"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How do categoric variables differ from continuous variables in a science experiment?",
+      "options": [
+        "Categoric variables only measure time, while continuous variables measure distance.",
+        "Categoric variables come in distinct types, while continuous variables can take any value on a numerical scale.",
+        "Categoric variables can take any numerical value, while continuous variables have no units.",
+        "Categoric variables are always kept the same, while continuous variables are what we change."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "To ensure a test is fair, what must we do with the variables we are not testing?",
+      "options": [
+        "Keep them the same for every measurement.",
+        "Change them randomly after each trial.",
+        "Double their values for each subsequent test.",
+        "Remove them entirely from the experiment."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which statement correctly describes a contact force?",
+      "options": [
+        "It can act even when objects are far apart.",
+        "It only exists in outer space.",
+        "It only acts when objects are touching.",
+        "It does not require any energy to be transferred."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "What is a key characteristic of non-contact forces, such as gravity or magnetism?",
+      "options": [
+        "They can act with or without the objects touching.",
+        "They only act when two surfaces are rubbing together.",
+        "They only exist when objects are in direct physical contact.",
+        "They cannot cause any change in an object's motion."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What is drag?",
+      "options": [
+        "A non-contact force that pulls objects toward the centre of the Earth.",
+        "A contact force that pushes against objects moving through liquids or gases.",
+        "The force of a surface supporting an object resting on it.",
+        "The energy stored in a stretched elastic band."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "When drawing force diagrams, what does the length of a force arrow represent?",
+      "options": [
+        "The duration of time the force acts.",
+        "The mass of the object experiencing the force.",
+        "The size of the force.",
+        "The speed at which the object is moving."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "Why does a heavy loaded lorry require a larger force to stop than a small, light car?",
+      "options": [
+        "Objects with a greater mass need a greater force to stop them moving.",
+        "Heavy objects always experience zero friction from the road.",
+        "The lorry has a smaller contact area with the ground.",
+        "Light cars do not have any kinetic energy store when moving."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 39
+    },
+    {
+      "question": "In physics, what is the fundamental definition of a force?",
+      "options": [
+        "The rate of doing work.",
+        "The amount of matter inside an object.",
+        "A push or a pull.",
+        "The temperature of a substance."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 40
+    }
+  ]
+}
