@@ -1,6 +1,8 @@
 name: Generate all quiz caches
 
 on:
+  schedule:
+    - cron: "10 8 * * *"
   workflow_dispatch:
     inputs:
       overwrite:
@@ -41,7 +43,7 @@ jobs:
       - name: Generate and publish five-unit checkpoints
         env:
           OVERWRITE: ${{ inputs.overwrite }}
-          DAILY_REQUEST_LIMIT: ${{ inputs.daily_request_limit }}
+          DAILY_REQUEST_LIMIT: ${{ inputs.daily_request_limit || '15' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
