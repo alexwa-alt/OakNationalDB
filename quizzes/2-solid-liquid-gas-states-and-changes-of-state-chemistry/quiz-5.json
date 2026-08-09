@@ -1,0 +1,171 @@
+{
+  "unitKey": "2Solid, liquid, gas states and changes of stateChemistry",
+  "generatedAt": "2026-08-09T15:02:07.444720+00:00",
+  "questions": [
+    {
+      "question": "What is the boiling point and condensing point of water?",
+      "options": [
+        "50°C",
+        "100°C",
+        "0°C",
+        "120°C"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What physical state is steam?",
+      "options": [
+        "Liquid state",
+        "Solid state",
+        "Gas state",
+        "Plasma state"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "When a liquid boils and changes into a gas, what happens to the volume of the substance?",
+      "options": [
+        "The volume decreases",
+        "The volume increases",
+        "The volume remains exactly the same",
+        "The volume fluctuates unpredictably"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How do the particles of a substance behave when it condenses from a gas to a liquid?",
+      "options": [
+        "They move further apart",
+        "They stop moving completely",
+        "They move closer together",
+        "They expand in size"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What happens to a Bunsen burner flame when you open the air hole?",
+      "options": [
+        "It changes from a hot blue flame to a cool orange flame",
+        "It changes from an orange and sooty flame to a hotter, cleaner, blue flame",
+        "It becomes extinguished immediately",
+        "It becomes a yellow, quiet flame that does not soot"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How should a lit splint be carried safely in the laboratory?",
+      "options": [
+        "With the flame pointed straight up and held close to your face",
+        "With the flame angled slightly downwards and shielded by your other hand",
+        "With the flame held horizontally and waved slowly",
+        "With the flame pointed downwards without any shield"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which state of matter possesses the least amount of energy, and which possesses the most?",
+      "options": [
+        "Solid has the least energy, gas has the most energy",
+        "Liquid has the least energy, solid has the most energy",
+        "Gas has the least energy, solid has the most energy",
+        "Solid has the least energy, liquid has the most energy"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "At what temperatures can a substance in its liquid state undergo evaporation?",
+      "options": [
+        "Only at its exact boiling point",
+        "Only at temperatures above its boiling point",
+        "At temperatures below its boiling point",
+        "Only at temperatures below its freezing point"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of the following statements about the evaporation of water is correct?",
+      "options": [
+        "Water can only evaporate at exactly 100°C",
+        "Water evaporates at temperatures that are lower than 100°C",
+        "Water cannot evaporate below 50°C",
+        "Water only evaporates when it is frozen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What change of state occurs when a substance freezes?",
+      "options": [
+        "It changes from a gas state to a liquid state",
+        "It changes from a solid state to a liquid state",
+        "It changes from a liquid state to a solid state",
+        "It changes from a solid state directly to a gas state"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "For a pure substance, how do the melting point and the freezing point compare?",
+      "options": [
+        "The melting point is always higher than the freezing point",
+        "The freezing point is always higher than the melting point",
+        "They are the same temperature",
+        "They are completely unrelated temperatures"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "How are particles arranged and held in the solid state of a substance?",
+      "options": [
+        "They are free to move around and have no attractive forces",
+        "Forces of attraction hold them in fixed positions",
+        "They are held together but can easily slide past one another",
+        "They are widely separated and move in random directions"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What are the approximate values for the freezing point of water, room temperature, and human body temperature?",
+      "options": [
+        "Water freezes at 0°C, room temperature is about 20°C, and body temperature is about 37°C",
+        "Water freezes at 10°C, room temperature is about 25°C, and body temperature is about 98°C",
+        "Water freezes at 0°C, room temperature is about 37°C, and body temperature is about 20°C",
+        "Water freezes at -5°C, room temperature is about 15°C, and body temperature is about 30°C"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which set of properties correctly describes a substance in its gas state?",
+      "options": [
+        "It has a fixed shape, cannot flow, and can be compressed",
+        "It can flow, fills the whole of a container, and can be compressed",
+        "It can flow, fills the shape of its container, and cannot be compressed",
+        "It has a fixed shape, can flow, and cannot be compressed"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What is located in the spaces between the particles in a gas?",
+      "options": [
+        "Air",
+        "Tiny dust particles",
+        "Nothing at all",
+        "Water vapor"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "unitKey": "2Solid, liquid, gas states and changes of stateChemistry",
+  "generatedAt": "2026-08-09T15:01:08.786203+00:00",
+  "questions": [
+    {
+      "question": "What is the relationship between the boiling point and the condensing point of a pure substance?",
+      "options": [
+        "They are the exact same temperature.",
+        "The boiling point is always higher than the condensing point.",
+        "The condensing point is always higher than the boiling point.",
+        "They are unrelated and always occur at different temperatures."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What happens to the volume of a substance when it is boiled and enters the gas state?",
+      "options": [
+        "Its volume increases.",
+        "Its volume decreases.",
+        "Its volume remains exactly the same.",
+        "Its volume decreases to zero."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How do the distance and movement of particles change when a substance is boiled compared to when it is condensed?",
+      "options": [
+        "Particles move further apart when boiled and closer together when condensed.",
+        "Particles move closer together when boiled and further apart when condensed.",
+        "Particles grow larger when boiled and shrink when condensed.",
+        "Particles stop moving when boiled and vibrate faster when condensed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When using a Bunsen burner, what is the effect of opening the air hole?",
+      "options": [
+        "The flame changes from orange and sooty to a hotter, cleaner blue flame.",
+        "The flame goes out completely to ensure laboratory safety.",
+        "The flame becomes much larger but stays orange and cooler.",
+        "The flame turns into a bright yellow, highly smoking flame."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the safe and correct way to carry a lit splint in a laboratory setting?",
+      "options": [
+        "Angled slightly downwards and shielded by your other hand.",
+        "Held straight up in the air as high as possible.",
+        "Pointed directly forward at eye level.",
+        "Waved gently back and forth to keep it burning."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which of the following correctly describes the energy states of matter?",
+      "options": [
+        "Solid states have the least energy, while gas states have the most energy.",
+        "Liquid states have the least energy, while solid states have the most energy.",
+        "Gas states have the least energy, while solid states have the most energy.",
+        "All states of matter contain the exact same amount of energy."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which statement is true regarding the evaporation of a substance in its liquid state?",
+      "options": [
+        "It must reach its boiling point before any evaporation can occur.",
+        "It can evaporate at temperatures below its boiling point.",
+        "It can only evaporate if the liquid is heated to exactly 100°C.",
+        "It can only evaporate when it is cooled to its freezing point."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How do the melting point and freezing point of a pure substance compare to each other?",
+      "options": [
+        "They are the exact same temperature.",
+        "The melting point is always higher than the freezing point.",
+        "The freezing point is always higher than the melting point.",
+        "They are completely different and independent temperatures."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What keeps the particles of a substance in fixed positions when it is in the solid state?",
+      "options": [
+        "Forces of attraction between the particles hold them in place.",
+        "The high pressure exerted by the surrounding atmosphere.",
+        "The lack of any heat energy within the individual atoms.",
+        "Magnetic forces that only exist at extremely low temperatures."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "How does the strength of the forces of attraction between particles affect a substance's melting point?",
+      "options": [
+        "The stronger the force of attraction, the higher the melting point.",
+        "The stronger the force of attraction, the lower the melting point.",
+        "The strength of the forces has no influence on the melting point.",
+        "Stronger forces of attraction mean the substance can never melt."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What are the approximate temperatures for the freezing point of water, normal room temperature, and average body temperature?",
+      "options": [
+        "0ºC, 20ºC, and 37ºC respectively",
+        "0ºC, 37ºC, and 100ºC respectively",
+        "10ºC, 20ºC, and 37ºC respectively",
+        "-5ºC, 25ºC, and 40ºC respectively"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which set of properties correctly describes a substance in its gas state?",
+      "options": [
+        "It can flow, fills the whole of a container, and can be compressed.",
+        "It has a fixed shape, does not flow, and cannot be compressed.",
+        "It can flow, fills the shape of its container, and cannot be compressed.",
+        "It has a fixed volume, does not flow, but can be easily compressed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What is present in the empty spaces between the individual particles in a gas?",
+      "options": [
+        "Air molecules",
+        "A thin layer of liquid",
+        "Nothing at all",
+        "Tiny heat waves"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Which of the following describes the properties of a substance in its solid state?",
+      "options": [
+        "It has a fixed shape, does not flow, and cannot be compressed.",
+        "It can flow, has a flexible shape, and can be compressed.",
+        "It fills the entire container, flows, and can be compressed.",
+        "It takes the shape of the container, does not flow, and can be compressed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Which of the following correctly describes the behavior and properties of a liquid state?",
+      "options": [
+        "It can flow, fills the shape of its container, and cannot be compressed.",
+        "It has a fixed shape, cannot flow, and can be easily compressed.",
+        "It can flow, fills the entire container, and can be easily compressed.",
+        "It cannot flow, does not have a fixed shape, and cannot be compressed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Which statement is true about the particles that make up all substances?",
+      "options": [
+        "They are too small to be seen.",
+        "They can be observed easily using a standard school magnifying glass.",
+        "They are only present in gases, as solids are made of continuous matter.",
+        "They are large enough to see with the naked eye under bright light."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 32
+    }
+  ]
+}

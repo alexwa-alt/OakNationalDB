@@ -1,0 +1,182 @@
+{
+  "unitKey": "2Solid, liquid, gas states and changes of stateChemistry",
+  "generatedAt": "2026-08-09T14:59:07.517997+00:00",
+  "questions": [
+    {
+      "question": "What can be said about the condensing point and boiling point of water?",
+      "options": [
+        "They are different temperatures; condensing is 0°C and boiling is 100°C.",
+        "They are the same temperature, which is 100°C.",
+        "Water does not have a condensing point, only a boiling point.",
+        "The boiling point is 100°C, but the condensing point is 50°C."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following correctly describes what steam is?",
+      "options": [
+        "Water in the solid state.",
+        "Water in the liquid state.",
+        "Water in the gas state.",
+        "A mixture of air and liquid water droplets."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "When a liquid is boiled to become a gas, what happens to the overall volume of the substance?",
+      "options": [
+        "It increases.",
+        "It decreases.",
+        "It stays exactly the same.",
+        "It fluctuates randomly."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How do the positions of particles change during the processes of boiling and condensing?",
+      "options": [
+        "Particles move closer together when boiled and further apart when condensed.",
+        "Particles move further apart when boiled and move closer together when condensed.",
+        "Particles stay at the same distance but vibrate faster when boiled.",
+        "Particles clump together during boiling and spread out during condensing."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What happens to a Bunsen burner flame when you open the air hole?",
+      "options": [
+        "It becomes yellow, cooler, and silent.",
+        "It changes from orange and sooty to a hotter, cleaner, blue flame.",
+        "It goes out immediately.",
+        "It changes from a blue flame to a cooler, orange, sooty flame."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the safe way to carry a lit splint in a science laboratory?",
+      "options": [
+        "Hold it completely upright above your head.",
+        "Run quickly with the flame pointed forward to keep it lit.",
+        "Hold it with the flame angled slightly downwards and shield it with your other hand.",
+        "Keep it in a horizontal position with both hands on the wooden end."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "When comparing states of matter, which state has the least energy and which has the most energy?",
+      "options": [
+        "Liquid has the least, gas has the most.",
+        "Solid has the least, liquid has the most.",
+        "Solid has the least, gas has the most.",
+        "Gas has the least, solid has the most."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "At what temperatures can a substance in its liquid state evaporate?",
+      "options": [
+        "Only at its exact boiling point.",
+        "Only at temperatures above its boiling point.",
+        "At temperatures below its boiling point.",
+        "Only when it is heated to 100°C or higher."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of the following statements about the evaporation of water is correct?",
+      "options": [
+        "Water can only evaporate when it reaches 100°C.",
+        "Water evaporates at temperatures that are lower than 100°C.",
+        "Water never evaporates below 50°C.",
+        "Water cannot evaporate at room temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What state change occurs when a substance undergoes freezing?",
+      "options": [
+        "It changes from the liquid state to the solid state.",
+        "It changes from the solid state to the liquid state.",
+        "It changes from the gas state to the liquid state.",
+        "It changes from the liquid state to the gas state."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "For a pure substance, how do its melting point and freezing point compare?",
+      "options": [
+        "The melting point is always higher than the freezing point.",
+        "The freezing point is always higher than the melting point.",
+        "They are the same temperature.",
+        "They depend entirely on the pressure and are never equal."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "How does the strength of the forces of attraction between particles affect a substance's melting point?",
+      "options": [
+        "Stronger forces of attraction mean a lower melting point.",
+        "Stronger forces of attraction mean a higher melting point.",
+        "The strength of forces of attraction has no effect on the melting point.",
+        "Stronger forces of attraction mean the substance cannot be melted."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What are the approximate temperatures for the freezing point of water, typical room temperature, and normal human body temperature?",
+      "options": [
+        "Water freezes at 0°C, room temp is about 20°C, and body temp is about 37°C.",
+        "Water freezes at 10°C, room temp is about 25°C, and body temp is about 98°C.",
+        "Water freezes at 0°C, room temp is about 37°C, and body temp is about 20°C.",
+        "Water freezes at -5°C, room temp is about 20°C, and body temp is about 37°C."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "How do the particles of a substance behave when it is in the gas state?",
+      "options": [
+        "They are tightly packed and vibrate in fixed positions.",
+        "They are close together but can slide past one another slowly.",
+        "They are moving very quickly in random directions with gaps between them.",
+        "They remain completely still and are evenly spaced out."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "What exists in the spaces between the particles of a gas?",
+      "options": [
+        "Air.",
+        "Nothing at all.",
+        "Tiny dust particles.",
+        "Water vapor."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Which properties describe a substance in its liquid state?",
+      "options": [
+        "It has a fixed shape, cannot flow, and can be compressed.",
+        "It can flow, fills the shape of its container, and cannot be compressed.",
+        "It can flow, fills the whole of a container, and can be compressed.",
+        "It has a fixed shape, can flow, and cannot be compressed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    }
+  ]
+}
