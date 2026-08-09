@@ -46,4 +46,6 @@ The **Generate all quiz caches** workflow extends this to every unit. It skips
 valid existing quiz files, generates five quizzes per incomplete unit, and
 commits/deploys a checkpoint after each five-unit batch. Refreshing the Pages
 site after a checkpoint exposes the newly available units while later batches
-continue running.
+continue running. It defaults to a conservative 15-request daily budget for
+the free Gemini tier and resumes incomplete units on a later run after the
+quota resets at midnight Pacific time.
