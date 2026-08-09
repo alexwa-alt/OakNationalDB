@@ -369,17 +369,22 @@ def main():
         "<p>Select a unit to view a combined list of its key learning points (unbroken list across lessons).</p>",
         "<label for=\"unit-select\">Unit:</label>",
         "<select id=\"unit-select\"><option value=\"\">-- choose a unit --</option></select>",
+        "<button id=\"copy-btn\" type=\"button\" style=\"margin-left:0.5rem\">Copy all</button>",
         "<div id=\"points\"></div>",
         "<script>",
         f"const UNITS = {json.dumps(ks3_units)};",
         "const sel = document.getElementById('unit-select');",
+        "const copyBtn = document.getElementById('copy-btn');",
         "const pointsDiv = document.getElementById('points');",
         "function escapeHtml(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}",
         "function populateUnits(){Object.keys(UNITS).forEach(u=>{const o=document.createElement('option');o.value=u;o.textContent=u;sel.appendChild(o)});}  ",
-        "function showPoints(unit){pointsDiv.innerHTML=''; if(!unit) return; const items=UNITS[unit]||[]; if(items.length===0){pointsDiv.textContent='No key learning points found.'; return;} const frag=document.createDocumentFragment(); items.forEach(p=>{const div=document.createElement('div');div.textContent=p;frag.appendChild(div)}); pointsDiv.appendChild(frag);} ",
+        "function showPoints(unit){pointsDiv.innerHTML=''; if(!unit) return; const items=UNITS[unit]||[]; if(items.length===0){pointsDiv.textContent='No key learning points found.'; return;} const frag=document.createDocumentFragment(); items.forEach(p=>{const div=document.createElement('div');div.textContent=p;frag.appendChild(div)}); pointsDiv.appendChild(frag); copyBtn.textContent='Copy all';} ",
+        "async function copyAll(){ const unit = sel.value; if(!unit){ alert('Please select a unit first'); return; } const items = UNITS[unit]||[]; const text = items.join('\n'); try{ await navigator.clipboard.writeText(text); copyBtn.textContent='Copied!'; setTimeout(()=>copyBtn.textContent='Copy all',2000); } catch(e){ try{ const ta=document.createElement('textarea'); ta.value=text; ta.style.position='fixed'; ta.style.left='-9999px'; document.body.appendChild(ta); ta.select(); document.execCommand('copy'); document.body.removeChild(ta); copyBtn.textContent='Copied!'; setTimeout(()=>copyBtn.textContent='Copy all',2000); } catch(err){ alert('Copy failed'); } } }",
+        "copyBtn.addEventListener('click', copyAll);",
         "sel.addEventListener('change', e=>showPoints(e.target.value));",
         "populateUnits();",
         "</script>",
+
         "</body></html>",
     ]
     try:
