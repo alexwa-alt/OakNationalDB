@@ -1,0 +1,193 @@
+{
+  "unitKey": "1ForcesPhysics",
+  "generatedAt": "2026-08-09T13:40:11.698171+00:00",
+  "questions": [
+    {
+      "question": "Two forces of equal size, acting in opposite directions on an object, are described as what?",
+      "options": [
+        "Balanced",
+        "Unbalanced",
+        "Resultant",
+        "Frictional"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How do we find the resultant force acting on an object when multiple forces are present?",
+      "options": [
+        "By multiplying the two largest forces together",
+        "By taking the sum of the forces, accounting for their directions",
+        "By dividing the total force by the mass of the object",
+        "By only measuring the force acting in the direction of gravity"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "If two unequal forces act in opposite directions on an object, which way does the resultant force act?",
+      "options": [
+        "In the direction of the smaller force",
+        "In the direction of the bigger force",
+        "At a right angle to both forces",
+        "In the direction of the earth's gravity"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the effect of applying a greater resultant force on a given object?",
+      "options": [
+        "The object will experience a smaller or slower change in speed.",
+        "The object will experience a greater or faster change in speed.",
+        "The object's mass will immediately increase.",
+        "The object will completely stop experiencing any frictional forces."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is friction?",
+      "options": [
+        "The force of one surface gripping or rubbing on another.",
+        "The pull of gravity acting on a heavy object.",
+        "The upward push of a liquid on a floating object.",
+        "The magnetic attraction between two metallic surfaces."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What causes the force of friction between two solid surfaces?",
+      "options": [
+        "The electrostatic charge built up on the surfaces",
+        "The magnetic properties of the materials",
+        "The roughness of the surfaces",
+        "The gravitational attraction between the surfaces"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is the primary purpose of adding a lubricant between two surfaces?",
+      "options": [
+        "To increase the surface area of contact",
+        "To reduce friction between the surfaces",
+        "To increase the grip between the surfaces",
+        "To make the surfaces hotter"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which instrument is used to measure forces?",
+      "options": [
+        "A thermometer",
+        "A newton meter",
+        "A measuring cylinder",
+        "A balance scale"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In what unit are forces measured?",
+      "options": [
+        "Kilograms (kg)",
+        "Joules (J)",
+        "Newtons (N)",
+        "Metres per second (m/s)"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "In an experiment, when should you use a bar chart to display your results?",
+      "options": [
+        "When the variable you changed is continuous.",
+        "When the variable you changed is categoric.",
+        "When you have only measured one data point.",
+        "When there are no variables in the experiment."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "In a fair test, which variables are changed?",
+      "options": [
+        "Only the variable we are testing is changed.",
+        "All variables are changed at the same time.",
+        "No variables are changed at all.",
+        "Only the variables we want to keep the same are changed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "How do contact forces act on objects?",
+      "options": [
+        "Only when the objects are touching.",
+        "Only when the objects are far apart.",
+        "Without the objects needing to touch.",
+        "Only in a complete vacuum."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "How do non-contact forces differ from contact forces?",
+      "options": [
+        "They can only act when objects are directly rubbing against each other.",
+        "They can act with or without the objects touching.",
+        "They only act when objects are moving at high speeds.",
+        "They cannot act across any distance."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "When drawing a force diagram, what does the length of a force arrow represent?",
+      "options": [
+        "The duration the force is applied for",
+        "The size of the force",
+        "The speed of the object",
+        "The mass of the object"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "Why does an object with a greater mass require a greater force to change its motion?",
+      "options": [
+        "Because objects with greater mass need a greater force to start or stop moving, and to change direction.",
+        "Because greater mass automatically reduces the friction acting on it.",
+        "Because heavier objects do not experience any gravitational pull.",
+        "Because mass decreases as the speed of an object increases."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 39
+    },
+    {
+      "question": "What is the scientific definition of a force?",
+      "options": [
+        "A measure of the amount of matter in an object",
+        "A push or a pull",
+        "The speed at which an object travels",
+        "The energy stored within an object"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 40
+    },
+    {
+      "question": "What is needed to change the motion or shape of an object?",
+      "options": [
+        "A force",
+        "A lubricant",
+        "A bar chart",
+        "A change in temperature"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 41
+    }
+  ]
+}
