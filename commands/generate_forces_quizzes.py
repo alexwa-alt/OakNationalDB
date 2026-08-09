@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
-"""Generate validated cached quiz files for the KS3 Forces unit."""
+"""Generate validated cached KS3 science quizzes with Gemini."""
 
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import os
+import re
 import sys
 import time
 from datetime import datetime, timezone
@@ -15,13 +17,14 @@ from typing import Any
 import requests
 
 
-UNIT_KEY = "1ForcesPhysics"
-QUIZ_DIRECTORY = Path("site/quizzes/forces")
+DEFAULT_UNIT_KEY = "1ForcesPhysics"
+QUIZZES_DIRECTORY = Path("site/quizzes")
 UNITS_FILE = Path("site/ks3_units.json")
 API_URL_TEMPLATE = (
     "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 )
 REQUEST_TIMEOUT_SECONDS = 90
+MAX_ATTEMPTS = 4
 
 QUIZ_SCHEMA: dict[str, Any] = {
     "type": "object",
@@ -65,27 +68,52 @@ QUIZ_SCHEMA: dict[str, Any] = {
 
 def parse_arguments() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
+    parser.add_argument("--unit", default=DEFAULT_UNIT_KEY)
+    parser.add_argument("--all", action="store_true", dest="all_units")
+    parser.add_argument("--start", type=int, default=0)
+    parser.add_argument("--limit", type=int)
     parser.add_argument("--count", type=int, default=5)
     parser.add_argument("--delay-seconds", type=float, default=60)
     parser.add_argument("--overwrite", action="store_true")
     return parser.parse_args()
 
 
-def load_learning_points() -> list[str]:
+def load_units() -> dict[str, list[str]]:
     units = json.loads(UNITS_FILE.read_text(encoding="utf-8"))
-    points = units.get(UNIT_KEY)
-    if not isinstance(points, list) or not all(
-        isinstance(point, str) and point.strip() for point in points
-    ):
-        raise ValueError(f"{UNITS_FILE} does not contain valid points for {UNIT_KEY}")
-    return points
+    if not isinstance(units, dict):
+        raise ValueError(f"{UNITS_FILE} must contain an object")
+    valid_units: dict[str, list[str]] = {}
+    for unit_key, points in units.items():
+        if not isinstance(unit_key, str) or not isinstance(points, list) or not all(
+            isinstance(point, str) and point.strip() for point in points
+        ):
+            raise ValueError(f"{UNITS_FILE} contains invalid learning points for {unit_key}")
+        valid_units[unit_key] = points
+    return valid_units
 
 
-def prompt_for(points: list[str], variation: int) -> str:
+def unit_paths(units: dict[str, list[str]]) -> dict[str, str]:
+    paths: dict[str, str] = {}
+    used_paths: set[str] = set()
+    for unit_key in units:
+        if unit_key == DEFAULT_UNIT_KEY:
+            path = "forces"
+        else:
+            readable = re.sub(r"^\\d+", "", unit_key)
+            readable = re.sub(r"([a-z0-9])([A-Z])", r"\1-\2", readable)
+            path = re.sub(r"[^a-z0-9]+", "-", readable.lower()).strip("-")
+        if path in used_paths:
+            path = f"{path}-{hashlib.sha256(unit_key.encode()).hexdigest()[:8]}"
+        paths[unit_key] = path
+        used_paths.add(path)
+    return paths
+
+
+def prompt_for(unit_key: str, points: list[str], variation: int) -> str:
     numbered_points = "\n".join(
         f"{index}. {point}" for index, point in enumerate(points)
     )
-    return f"""Create a distinct KS3 science multiple-choice quiz about Forces.
+    return f"""Create a distinct KS3 science multiple-choice quiz about {unit_key}.
 
 Use only the supplied learning points. Produce 15 to 20 questions. Each question
 must have exactly four plausible, distinct options, one correct answer, and a
@@ -150,36 +178,91 @@ def validate_quiz(payload: Any, point_count: int) -> list[dict[str, Any]]:
 
 
 def generate_quiz(
-    api_key: str, model: str, points: list[str], variation: int
+    api_key: str, model: str, unit_key: str, points: list[str], variation: int
 ) -> list[dict[str, Any]]:
-    response = requests.post(
-        API_URL_TEMPLATE.format(model=model),
-        params={"key": api_key},
-        json={
-            "contents": [{"role": "user", "parts": [{"text": prompt_for(points, variation)}]}],
-            "generationConfig": {
-                "temperature": 0.9,
-                "responseMimeType": "application/json",
-                "responseJsonSchema": QUIZ_SCHEMA,
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        response = requests.post(
+            API_URL_TEMPLATE.format(model=model),
+            params={"key": api_key},
+            json={
+                "contents": [
+                    {
+                        "role": "user",
+                        "parts": [{"text": prompt_for(unit_key, points, variation)}],
+                    }
+                ],
+                "generationConfig": {
+                    "temperature": 0.9,
+                    "responseMimeType": "application/json",
+                    "responseJsonSchema": QUIZ_SCHEMA,
+                },
             },
-        },
-        timeout=REQUEST_TIMEOUT_SECONDS,
-    )
-    if not response.ok:
-        raise RuntimeError(
-            f"Gemini request failed with HTTP {response.status_code}: {response.text[:500]}"
+            timeout=REQUEST_TIMEOUT_SECONDS,
         )
-    try:
-        payload = json.loads(response_text(response.json()))
-    except json.JSONDecodeError as error:
-        raise ValueError("Gemini response was not valid JSON") from error
-    return validate_quiz(payload, len(points))
+        if response.ok:
+            try:
+                payload = json.loads(response_text(response.json()))
+            except json.JSONDecodeError as error:
+                raise ValueError("Gemini response was not valid JSON") from error
+            return validate_quiz(payload, len(points))
+        if response.status_code != 429 and not 500 <= response.status_code < 600:
+            raise RuntimeError(
+                f"Gemini request failed with HTTP {response.status_code}: {response.text[:500]}"
+            )
+        if attempt == MAX_ATTEMPTS:
+            break
+        delay = 60 * (2 ** (attempt - 1))
+        print(
+            f"Gemini returned HTTP {response.status_code}; retrying in {delay}s "
+            f"(attempt {attempt}/{MAX_ATTEMPTS})",
+            file=sys.stderr,
+        )
+        time.sleep(delay)
+    raise RuntimeError(f"Gemini request failed after {MAX_ATTEMPTS} retryable attempts")
 
 
 def write_json(path: Path, value: Any) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
     temporary_path = path.with_suffix(f"{path.suffix}.tmp")
-    temporary_path.write_text(json.dumps(value, indent=2) + "\n", encoding="utf-8")
+    temporary_path.write_text(
+        json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
     temporary_path.replace(path)
+
+
+def valid_quiz_file(path: Path, point_count: int) -> bool:
+    try:
+        validate_quiz(json.loads(path.read_text(encoding="utf-8")), point_count)
+    except (OSError, ValueError, json.JSONDecodeError):
+        return False
+    return True
+
+
+def selected_unit_keys(arguments: argparse.Namespace, units: dict[str, list[str]]) -> list[str]:
+    if arguments.all_units:
+        keys = list(units)
+        if arguments.start < 0:
+            raise ValueError("--start cannot be negative")
+        keys = keys[arguments.start :]
+        if arguments.limit is not None:
+            if arguments.limit < 1:
+                raise ValueError("--limit must be positive")
+            keys = keys[: arguments.limit]
+        return keys
+    if arguments.unit not in units:
+        raise ValueError(f"Unknown unit: {arguments.unit}")
+    return [arguments.unit]
+
+
+def load_manifest() -> dict[str, Any]:
+    manifest_path = QUIZZES_DIRECTORY / "index.json"
+    try:
+        manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    except FileNotFoundError:
+        return {"units": {}}
+    if not isinstance(manifest, dict) or not isinstance(manifest.get("units"), dict):
+        raise ValueError(f"{manifest_path} is invalid")
+    return manifest
 
 
 def main() -> int:
@@ -193,32 +276,44 @@ def main() -> int:
     if not api_key:
         raise RuntimeError("GEMINI_API_KEY must be set")
     model = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash")
-    points = load_learning_points()
-    QUIZ_DIRECTORY.mkdir(parents=True, exist_ok=True)
+    units = load_units()
+    paths = unit_paths(units)
+    selected_keys = selected_unit_keys(arguments, units)
+    manifest = load_manifest()
+    manifest_units: dict[str, Any] = manifest["units"]
+    last_request_at: float | None = None
 
-    generated_files: list[str] = []
-    for variation in range(1, arguments.count + 1):
-        output_path = QUIZ_DIRECTORY / f"quiz-{variation}.json"
-        if output_path.exists() and not arguments.overwrite:
-            print(f"Keeping existing {output_path}")
-            generated_files.append(output_path.name)
-            continue
-        print(f"Generating quiz {variation}/{arguments.count} with {model}")
-        questions = generate_quiz(api_key, model, points, variation)
-        write_json(
-            output_path,
-            {
-                "unitKey": UNIT_KEY,
-                "generatedAt": datetime.now(timezone.utc).isoformat(),
-                "questions": questions,
-            },
-        )
-        generated_files.append(output_path.name)
-        if variation < arguments.count:
-            time.sleep(arguments.delay_seconds)
-
-    write_json(QUIZ_DIRECTORY / "index.json", {"quizzes": generated_files})
-    print(f"Wrote {len(generated_files)} quiz file(s) to {QUIZ_DIRECTORY}")
+    for unit_key in selected_keys:
+        points = units[unit_key]
+        directory = QUIZZES_DIRECTORY / paths[unit_key]
+        files: list[str] = []
+        for variation in range(1, arguments.count + 1):
+            output_path = directory / f"quiz-{variation}.json"
+            if output_path.exists() and not arguments.overwrite and valid_quiz_file(
+                output_path, len(points)
+            ):
+                print(f"Keeping existing {output_path}")
+            else:
+                if last_request_at is not None:
+                    wait = arguments.delay_seconds - (time.monotonic() - last_request_at)
+                    if wait > 0:
+                        time.sleep(wait)
+                print(f"Generating {unit_key} quiz {variation}/{arguments.count} with {model}")
+                last_request_at = time.monotonic()
+                questions = generate_quiz(api_key, model, unit_key, points, variation)
+                write_json(
+                    output_path,
+                    {
+                        "unitKey": unit_key,
+                        "generatedAt": datetime.now(timezone.utc).isoformat(),
+                        "questions": questions,
+                    },
+                )
+            files.append(output_path.name)
+        write_json(directory / "index.json", {"quizzes": files})
+        manifest_units[unit_key] = {"path": paths[unit_key]}
+        write_json(QUIZZES_DIRECTORY / "index.json", manifest)
+        print(f"Published cache manifest entry for {unit_key}")
     return 0
 
 

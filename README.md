@@ -41,3 +41,9 @@ uses `gemini-3.5-flash` by default, waits 60 seconds between requests, commits
 the generated JSON files under `site/quizzes/forces/`, and deploys the static
 site. The "Generate quiz" button on the Key Learning Points page becomes
 available for the Forces unit once those files have been published.
+
+The **Generate all quiz caches** workflow extends this to every unit. It skips
+valid existing quiz files, generates five quizzes per incomplete unit, and
+commits/deploys a checkpoint after each five-unit batch. Refreshing the Pages
+site after a checkpoint exposes the newly available units while later batches
+continue running.
