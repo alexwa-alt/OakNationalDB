@@ -16,7 +16,7 @@ const sel = document.getElementById('unit-select');
 const copyBtn = document.getElementById('copy-btn');
 const pointsDiv = document.getElementById('points');
 function escapeHtml(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
-function prettifyLabel(s){ if(!s) return s; s = s.replace(/^(\d+)([A-Za-z])/, '$1. $2'); s = s.replace(/([a-z0-9])([A-Z])/g, '$1 $2'); s = s.replace(/([A-Z]+)([A-Z][a-z])/g, '$1 $2'); s = s.replace(/[-_]/g,' '); return s; }
+function prettifyLabel(s){ if(!s) return s; s = s.replace(/^(\\d+)([A-Za-z])/, '$1. $2'); s = s.replace(/([a-z0-9])([A-Z])/g, '$1 $2'); s = s.replace(/([A-Z]+)([A-Z][a-z])/g, '$1 $2'); s = s.replace(/[-_]/g,' '); return s; }
 function populateUnits(){Object.keys(UNITS).forEach(u=>{const o=document.createElement('option');o.value=u;o.textContent=prettifyLabel(u);o.title=u;sel.appendChild(o)});}  
 function showPoints(unit){pointsDiv.innerHTML=''; if(!unit) return; const items=UNITS[unit]||[]; if(items.length===0){pointsDiv.textContent='No key learning points found.'; return;} const frag=document.createDocumentFragment(); items.forEach(p=>{const div=document.createElement('div');div.textContent=p;frag.appendChild(div)}); pointsDiv.appendChild(frag); copyBtn.textContent='Copy all';} 
 async function copyAll(){ const unit = sel.value; if(!unit){ alert('Please select a unit first'); return; } const items = UNITS[unit]||[]; const text = items.join('
