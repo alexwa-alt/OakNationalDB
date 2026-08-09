@@ -8,6 +8,11 @@ on:
         required: false
         default: false
         type: boolean
+      daily_request_limit:
+        description: Maximum Gemini requests for this run
+        required: false
+        default: "15"
+        type: string
 
 permissions:
   actions: write
@@ -36,9 +41,12 @@ jobs:
       - name: Generate and publish five-unit checkpoints
         env:
           OVERWRITE: ${{ inputs.overwrite }}
+          DAILY_REQUEST_LIMIT: ${{ inputs.daily_request_limit }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          requests_used=0
+          budget_reached=false
 
           push_main() {
             for attempt in 1 2 3; do
@@ -63,6 +71,13 @@ jobs:
                 arguments+=(--overwrite)
               fi
 
+              required_requests=$(python commands/generate_forces_quizzes.py "${arguments[@]}" --required-requests)
+              if [ "$required_requests" -gt $((DAILY_REQUEST_LIMIT - requests_used)) ]; then
+                echo "Daily request budget reached: $requests_used/$DAILY_REQUEST_LIMIT"
+                budget_reached=true
+                break
+              fi
+
               if ! python commands/generate_forces_quizzes.py "${arguments[@]}"; then
                 git add site/quizzes
                 if ! git diff --staged --quiet; then
@@ -71,6 +86,7 @@ jobs:
                 fi
                 exit 1
               fi
+              requests_used=$((requests_used + required_requests))
 
               git add site/quizzes
               if ! git diff --staged --quiet; then
@@ -85,4 +101,7 @@ jobs:
 
             gh workflow run deploy_quiz_cache.yml --ref main
             echo "Published checkpoint starting at unit $start"
+            if [ "$budget_reached" = "true" ]; then
+              break
+            fi
           done

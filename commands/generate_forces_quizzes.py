@@ -75,6 +75,7 @@ def parse_arguments() -> argparse.Namespace:
     parser.add_argument("--count", type=int, default=5)
     parser.add_argument("--delay-seconds", type=float, default=60)
     parser.add_argument("--overwrite", action="store_true")
+    parser.add_argument("--required-requests", action="store_true")
     return parser.parse_args()
 
 
@@ -279,6 +280,24 @@ def load_manifest() -> dict[str, Any]:
     return manifest
 
 
+def required_request_count(
+    selected_keys: list[str],
+    units: dict[str, list[str]],
+    paths: dict[str, str],
+    count: int,
+    overwrite: bool,
+) -> int:
+    required = 0
+    for unit_key in selected_keys:
+        points = units[unit_key]
+        directory = QUIZZES_DIRECTORY / paths[unit_key]
+        for variation in range(1, count + 1):
+            output_path = directory / f"quiz-{variation}.json"
+            if overwrite or not valid_quiz_file(output_path, len(points)):
+                required += 1
+    return required
+
+
 def main() -> int:
     arguments = parse_arguments()
     if not 1 <= arguments.count <= 5:
@@ -286,13 +305,21 @@ def main() -> int:
     if arguments.delay_seconds < 0:
         raise ValueError("--delay-seconds cannot be negative")
 
+    units = load_units()
+    paths = unit_paths(units)
+    selected_keys = selected_unit_keys(arguments, units)
+    if arguments.required_requests:
+        print(
+            required_request_count(
+                selected_keys, units, paths, arguments.count, arguments.overwrite
+            )
+        )
+        return 0
+
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         raise RuntimeError("GEMINI_API_KEY must be set")
     model = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash")
-    units = load_units()
-    paths = unit_paths(units)
-    selected_keys = selected_unit_keys(arguments, units)
     manifest = load_manifest()
     manifest_units: dict[str, Any] = manifest["units"]
     last_request_at: float | None = None
