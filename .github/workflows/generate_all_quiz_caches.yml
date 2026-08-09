@@ -1,0 +1,64 @@
+name: Generate all quiz caches
+
+on:
+  workflow_dispatch:
+    inputs:
+      overwrite:
+        description: Regenerate existing valid quiz files
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  actions: write
+  contents: write
+
+jobs:
+  generate-and-publish:
+    runs-on: ubuntu-latest
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GEMINI_MODEL: gemini-3.5-flash
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install runtime dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Generate and publish five-unit checkpoints
+        env:
+          OVERWRITE: ${{ inputs.overwrite }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          for start in $(seq 0 5 40); do
+            arguments=(--all --start "$start" --limit 5 --count 5 --delay-seconds 60)
+            if [ "$OVERWRITE" = "true" ]; then
+              arguments+=(--overwrite)
+            fi
+            python commands/generate_forces_quizzes.py "${arguments[@]}"
+
+            git add site/quizzes
+            if git diff --staged --quiet; then
+              echo "No quiz cache changes in checkpoint starting at unit $start"
+              continue
+            fi
+
+            git commit -m "Generate quiz cache checkpoint [skip ci]"
+            git push origin HEAD:main
+            gh workflow run deploy_quiz_cache.yml --ref main
+            echo "Published checkpoint starting at unit $start"
+
+            if [ "$start" -lt 40 ]; then
+              sleep 60
+            fi
+          done
