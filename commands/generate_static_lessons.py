@@ -325,15 +325,29 @@ def main():
             subj = (data.get("subjectSlug") or data.get("subjectTitle") or (data.get("data") or {}).get("subjectSlug") or "").lower()
             if ("ks3" in ks) or ("key stage 3" in ks) or ("science" in subj):
                 key_points = data.get("keyLearningPoints") or (data.get("data") or {}).get("keyLearningPoints") or []
-                # normalize to list of strings
+                # normalize to list of strings and extract 'keyLearningPoint' when items are dicts
                 if isinstance(key_points, str):
                     items = [key_points]
                 elif isinstance(key_points, list):
-                    items = [str(x) for x in key_points]
+                    processed = []
+                    for x in key_points:
+                        if isinstance(x, dict):
+                            # prefer common keys that contain the text
+                            for k in ("keyLearningPoint", "text", "learningPoint", "point"):
+                                if k in x and isinstance(x[k], str) and x[k].strip():
+                                    processed.append(x[k].strip())
+                                    break
+                            else:
+                                # fallback: pick the first string value in the dict
+                                vals = [v for v in x.values() if isinstance(v, str) and v.strip()]
+                                processed.append(vals[0].strip() if vals else str(x))
+                        else:
+                            processed.append(str(x))
+                    items = processed
                 else:
                     items = [str(key_points)]
                 for p in items:
-                    txt = p.strip()
+                    txt = (p or "").strip()
                     if txt and txt not in seen:
                         seen.add(txt)
                         aggregated.append(txt)
