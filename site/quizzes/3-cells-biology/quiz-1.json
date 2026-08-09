@@ -1,0 +1,204 @@
+{
+  "unitKey": "3CellsBiology",
+  "generatedAt": "2026-08-09T15:19:15.429058+00:00",
+  "questions": [
+    {
+      "question": "Why can the diagrams of cells in textbooks sometimes be misleading about their actual shape?",
+      "options": [
+        "They show cells as flat 2D shapes, but real cells have a 3D shape.",
+        "They show cells with cell walls, but real cells never have walls.",
+        "They suggest cells are much larger than they really are.",
+        "They only show cells in black and white."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following structures is found in typical animal cells?",
+      "options": [
+        "Chloroplast",
+        "Cell wall",
+        "Mitochondria",
+        "Large permanent vacuole"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the primary function of the cell membrane in an animal cell?",
+      "options": [
+        "To release energy through aerobic respiration",
+        "To control the movement of substances in and out of the cell",
+        "To store genetic information and control cell activities",
+        "To provide a rigid outer support structure"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which statement best describes a unicellular organism?",
+      "options": [
+        "An organism that does not have any cells.",
+        "An organism made up of a single living cell.",
+        "An organism that has tissues but no organs.",
+        "An organism made of millions of different cells."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "How do multicellular organisms differ from unicellular organisms?",
+      "options": [
+        "They are made of more than one cell, with different cells taking on different jobs.",
+        "They contain only one large cell that performs all life processes.",
+        "They do not require nutrition or respiration to survive.",
+        "They are made of cells that are all completely identical in function."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "In multicellular organisms, what is formed when a group of similar cells join together to perform a specific job?",
+      "options": [
+        "An organ system",
+        "A tissue",
+        "An organism",
+        "A chloroplast"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following correctly describes how organs and organ systems are organized?",
+      "options": [
+        "An organ is a single cell that works completely on its own.",
+        "An organ is made of different organ systems working together.",
+        "An organ is a group of tissues working together, and organs work together in an organ system.",
+        "Tissues work together to form cells, which then form an organ."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What are the fundamental living building blocks that make up all organisms?",
+      "options": [
+        "Atoms",
+        "Tissues",
+        "Cells",
+        "Organs"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why do we typically need a microscope to study individual cells?",
+      "options": [
+        "Cells are usually too small to see with the unaided eye.",
+        "Cells only exist when light shines on them.",
+        "Cells are completely transparent and cannot reflect light.",
+        "Cells move too fast to be seen by human eyes."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which scientific instrument is commonly used in a school laboratory to observe the cells that make up a tissue slide?",
+      "options": [
+        "A hand lens",
+        "A telescope",
+        "A light microscope",
+        "A magnifying glass"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of these structures would you expect to find in a plant cell but NOT in an animal cell?",
+      "options": [
+        "Cell wall and vacuole",
+        "Cytoplasm and nucleus",
+        "Cell membrane and mitochondria",
+        "Nucleus and cytoplasm"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "When preparing a slide of plant or animal cells, why might a scientist add a stain?",
+      "options": [
+        "To kill any harmful bacteria on the slide",
+        "To glue the coverslip permanently to the slide",
+        "To make it easier to see some parts of the cells",
+        "To make the cells grow larger under the lens"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What is a key feature of specialised cells in animals and plants?",
+      "options": [
+        "They all have the exact same shape and size.",
+        "They are only found in unicellular organisms.",
+        "They have shapes, sizes, and structures adapted for the specific jobs they do.",
+        "They lose their cell membranes as they mature."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Which of the following is an example of a specialised plant cell?",
+      "options": [
+        "Red blood cell",
+        "Root hair cell",
+        "Muscle cell",
+        "Nerve cell"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Which of the following lists represents actual life processes that happen in all living organisms?",
+      "options": [
+        "Movement, reproduction, sensitivity, growth, respiration, excretion and nutrition",
+        "Thinking, sleeping, talking, walking, breathing and hearing",
+        "Photosynthesis, circulation, digestion, running and crying",
+        "Melting, freezing, evaporating, condensing and dissolving"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "In the context of life processes, when is movement considered a true sign of life?",
+      "options": [
+        "When the organism is blown by the wind",
+        "When the organism is carried by water currents",
+        "When the organism moves itself to achieve something",
+        "When the organism is pushed by an external force"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Which statement is true regarding the common structures of plant cells?",
+      "options": [
+        "Plant cells share no common structures with animal cells.",
+        "Plant cells have some common structures, such as a nucleus and cell membrane.",
+        "Plant cells lack a cytoplasm completely.",
+        "Plant cells only contain chloroplasts and have no other structures."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How should observations of cells from a light microscope be recorded in a scientific report?",
+      "options": [
+        "By drawing a colorful, abstract painting",
+        "By writing a detailed fictional story",
+        "In a clear, scientific line drawing",
+        "By memory without looking at the slide"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    }
+  ]
+}
