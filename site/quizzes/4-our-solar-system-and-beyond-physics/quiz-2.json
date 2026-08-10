@@ -1,0 +1,182 @@
+{
+  "unitKey": "4Our solar system and beyondPhysics",
+  "generatedAt": "2026-08-10T09:51:15.483453+00:00",
+  "questions": [
+    {
+      "question": "Historically, what was the early common belief about the shape of the Earth and the movement of the stars and Sun?",
+      "options": [
+        "The Earth was flat, and the Sun and stars revolved around it.",
+        "The Earth was a sphere orbiting a stationary Sun.",
+        "The Earth was flat, but only the Moon moved around it.",
+        "The Earth was a cylinder, with the stars remaining perfectly still."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Until which century did most people believe that the Earth was situated at the very centre of the universe?",
+      "options": [
+        "The 12th century",
+        "The 16th century",
+        "The 19th century",
+        "The 20th century"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which technological development has been most crucial in providing the observational evidence needed to understand the universe?",
+      "options": [
+        "Navigational compasses",
+        "Hot air balloons",
+        "Telescopes",
+        "Barometers"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the angle at which the Earth's axis of rotation is tilted?",
+      "options": [
+        "12.5 degrees",
+        "23.5 degrees",
+        "45.0 degrees",
+        "90.0 degrees"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In which direction does the gravitational force of a large celestial object, like a planet or star, pull other objects?",
+      "options": [
+        "Towards its outer atmosphere",
+        "Parallel to its equator",
+        "Towards its centre",
+        "Away from its magnetic poles"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How does the mass of an object affect the strength of its gravitational pull?",
+      "options": [
+        "Greater mass results in a stronger gravitational pull.",
+        "Greater mass results in a weaker gravitational pull.",
+        "Mass only affects gravity if the object is spinning rapidly.",
+        "Mass has no effect on the strength of gravitational pull."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is the primary effect of the Earth's gravitational pull on the Moon?",
+      "options": [
+        "It pushes the Moon further away into deep space.",
+        "It causes the Moon to rotate much faster on its own axis.",
+        "It heats up the Moon's surface to create volcanic activity.",
+        "It constantly changes the Moon's direction, keeping it in orbit around the Earth."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What happens to rays of light when they hit a flat surface directly face-on compared to hitting it at an angle?",
+      "options": [
+        "They are more spread out face-on.",
+        "They are less spread out face-on.",
+        "They reflect completely and do not heat the surface.",
+        "They are absorbed only if the surface is highly polished."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following best describes a star?",
+      "options": [
+        "A small solid rock that reflects light from nearby planets",
+        "An extremely large sphere of hot gas that gives out light",
+        "A cold, dense cloud of dust that absorbs light",
+        "A ring of ice particles orbiting a central planet"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which of the following represents the correct collection of objects orbiting the Sun in our solar system?",
+      "options": [
+        "8 planets, dwarf planets, and smaller objects like asteroids",
+        "12 planets, 3 stars, and a single large black hole",
+        "Only 4 planets and a ring of icy comets",
+        "Millions of stars and several galaxies"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What occurs in the Northern and Southern hemispheres during the month of December?",
+      "options": [
+        "Both hemispheres experience summer due to being closest to the Sun.",
+        "The Northern hemisphere is tilted away from the Sun (winter), while the Southern hemisphere is tilted towards it (summer).",
+        "The Northern hemisphere is tilted towards the Sun (summer), while the Southern hemisphere is tilted away from it (winter).",
+        "Both hemispheres experience winter because the Earth's tilt is temporarily reduced to zero."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Why do countries located near the Equator not experience distinct summer and winter seasons?",
+      "options": [
+        "They remain close to 'face-on' to the Sun all year round.",
+        "They are shielded from solar radiation by the Earth's magnetic field.",
+        "The Earth's axis does not tilt in the equatorial region.",
+        "High cloud cover blocks all variations in sunlight throughout the year."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "What is a light-year, and why is it used by astronomers?",
+      "options": [
+        "The time it takes for the Earth to orbit the Sun, used to measure planetary ages.",
+        "The distance light travels in one year, which is suitable for measuring vast distances in space.",
+        "The speed of light in a vacuum, used to calculate the temperature of stars.",
+        "The intensity of light emitted by the Sun in twelve months, used to measure solar energy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "In the universe, how are stars distributed?",
+      "options": [
+        "They are evenly spaced in a perfect grid across empty space.",
+        "They are found in groups called galaxies, which contain billions of stars.",
+        "They are all clustered around a single central super-star.",
+        "They are found only within the boundaries of our solar system."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "How long does it take for the Earth to complete one full orbit around the Sun?",
+      "options": [
+        "24 hours",
+        "27.3 days",
+        "365.25 days",
+        "1000 days"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "How long does the Moon's orbit around the Earth take, and what visible phenomenon does this explain?",
+      "options": [
+        "It takes about 24 hours, explaining day and night.",
+        "It takes about 365.25 days, explaining the change of seasons.",
+        "It takes about 27.3 days, explaining why the Moon appears to change shape.",
+        "It takes exactly 12 hours, explaining the rising and falling of high tides."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 36
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "unitKey": "4Our solar system and beyondPhysics",
+  "generatedAt": "2026-08-10T09:50:15.060276+00:00",
+  "questions": [
+    {
+      "question": "What did historical ancient ideas suggest about the Earth's shape and the movement of astronomical bodies?",
+      "options": [
+        "Earth was flat, with all the stars and the Sun moving around it",
+        "Earth was a sphere that rotated while stars remained stationary",
+        "Earth was a flat disk that orbited a stationary Sun",
+        "Earth was a sphere located at the edge of a flat universe"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Until which century did most people believe that Earth was located at the centre of the universe?",
+      "options": [
+        "The 12th century",
+        "The 14th century",
+        "The 16th century",
+        "The 18th century"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which tool provides crucial observational evidence that helps us to understand the universe?",
+      "options": [
+        "The microscope",
+        "The telescope",
+        "The barometer",
+        "The seismometer"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the approximate angle of tilt of the axis on which the Earth spins?",
+      "options": [
+        "12.5 degrees",
+        "23.5 degrees",
+        "45.0 degrees",
+        "90.0 degrees"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In which direction does gravity pull objects when they are near massive bodies like planets, moons, or stars?",
+      "options": [
+        "Away from the body into deep space",
+        "Towards the centre of the massive object",
+        "In a clockwise direction around the surface",
+        "Towards the magnetic north pole of the object"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What is the relationship between the mass of an object and the strength of its gravity?",
+      "options": [
+        "The greater the mass of an object, the stronger its gravity",
+        "The greater the mass of an object, the weaker its gravity",
+        "The mass of an object does not affect its gravitational strength",
+        "Gravity increases only when the mass of an object decreases"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "How does the gravitational pull of a planet, moon, or star change with distance?",
+      "options": [
+        "It remains completely constant regardless of distance",
+        "It gets stronger the further you travel into space",
+        "It extends far into space, but gets weaker with distance",
+        "It drops to absolute zero immediately outside the atmosphere"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How does Earth's gravity affect the motion of the Moon?",
+      "options": [
+        "It pushes the Moon further away into space every year",
+        "It pulls the Moon towards the centre of Earth, changing its direction and making it orbit",
+        "It causes the Moon to spin much faster on its own axis",
+        "It heats up the surface of the Moon through constant gravitational friction"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What keeps the Earth orbiting around the Sun rather than flying off into deep space?",
+      "options": [
+        "The Sun's magnetic field pushing Earth sideways",
+        "The pressure of light rays acting as a solar sail",
+        "The Sun's gravity pulling Earth towards the centre of the Sun, changing its direction",
+        "Earth's own atmosphere acting as a propeller through space"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How does the effectiveness of heating a surface from directly overhead compare to heating it at an angle?",
+      "options": [
+        "Heating from directly overhead is less effective than heating at an angle",
+        "Heating from directly overhead is more effective than heating at an angle",
+        "There is no difference in heating effectiveness",
+        "Heating at an angle is always twice as effective as heating from directly overhead"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What happens to rays of light when they hit a surface face-on rather than at an angle?",
+      "options": [
+        "They are more spread out over a larger area",
+        "They are less spread out than if they hit at an angle",
+        "They reflect completely and produce no heating effect",
+        "They bend at ninety degrees and travel along the surface"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How do the distances between objects in our solar system compare to the actual physical sizes of the objects themselves?",
+      "options": [
+        "The distances are extremely small compared to the sizes of the objects",
+        "The distances are roughly equal to the diameters of the planets",
+        "The distances are very, very large compared to the sizes of the objects",
+        "The objects are so large that they almost touch each other"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why do countries located near the Equator not experience distinct summer and winter seasons?",
+      "options": [
+        "They stay close to 'face-on' to the Sun all year",
+        "They are tilted away from the Sun during the entire year",
+        "They do not receive any direct sunlight because of cloud cover",
+        "The Earth's tilt does not affect the Equator's distance from the Sun"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "What is a light-year, and why is it used by astronomers?",
+      "options": [
+        "The time it takes for Earth to orbit the Sun, used to measure planetary ages",
+        "The distance light travels in one year, which is suitable for vast distances in space",
+        "The speed at which light travels through the solar system",
+        "The distance from the Earth to the nearest star"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What is a galaxy in the context of the universe?",
+      "options": [
+        "A small cloud of dust orbiting a single star",
+        "A group of stars containing exactly eight planets",
+        "A group of stars, with billions of stars in each group",
+        "A single massive star that has exploded"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Which of the following describes the shape of Earth's orbit around the Sun?",
+      "options": [
+        "A highly elongated, stretched-out oval",
+        "An almost perfect circle",
+        "A perfect square with rounded corners",
+        "A spiral that gets closer to the Sun every year"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    }
+  ]
+}

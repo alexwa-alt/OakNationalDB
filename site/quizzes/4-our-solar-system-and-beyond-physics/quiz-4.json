@@ -1,0 +1,171 @@
+{
+  "unitKey": "4Our solar system and beyondPhysics",
+  "generatedAt": "2026-08-10T09:53:12.786678+00:00",
+  "questions": [
+    {
+      "question": "In ancient times, what shape was Earth once thought to be, and how were the stars and Sun believed to move?",
+      "options": [
+        "Earth was thought to be flat, with all the stars and the Sun moving around it.",
+        "Earth was thought to be a sphere that remained stationary while stars moved in straight lines.",
+        "Earth was thought to be a cylinder, with the Sun and stars fixed in place.",
+        "Earth was thought to be flat, with only the Moon moving around it while the Sun was stationary."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Until which century did most people believe that the Earth was situated at the centre of the universe?",
+      "options": [
+        "The 12th century",
+        "The 14th century",
+        "The 16th century",
+        "The 18th century"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What is the angle of tilt of the axis on which the Earth spins?",
+      "options": [
+        "12.5 degrees",
+        "23.5 degrees",
+        "45.0 degrees",
+        "90.0 degrees"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In which direction does the gravitational force of a planet, moon, or star pull nearby objects?",
+      "options": [
+        "Away from the surface into deep space",
+        "Towards the centre of the large object",
+        "In a circular path parallel to the object's surface",
+        "Towards the magnetic north pole of the object"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How does the mass of an object affect the strength of its gravitational pull?",
+      "options": [
+        "The greater the mass, the weaker its gravity.",
+        "The greater the mass, the stronger its gravity.",
+        "Mass has no effect on the strength of gravity.",
+        "Only objects with low mass have a gravitational pull."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What role does Earth's gravity play in the motion of the Moon?",
+      "options": [
+        "It pushes the Moon away, preventing it from colliding with Earth.",
+        "It pulls the Moon towards the centre of Earth, changing its direction and causing it to orbit.",
+        "It stops the Moon from spinning on its own axis.",
+        "It heats the Moon's surface by pulling its atmosphere closer."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What happens to rays of light when they hit a surface face-on compared to when they hit at an angle?",
+      "options": [
+        "They are completely absorbed and do not reflect.",
+        "They are more spread out over a larger area.",
+        "They are less spread out than if they hit at an angle.",
+        "They bend at a ninety-degree angle upon impact."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following best describes a planet?",
+      "options": [
+        "A small fragment of ice that floats randomly in deep space.",
+        "A very large sphere of rock or gas that orbits a star.",
+        "A giant burning ball of hot gas that emits its own light.",
+        "A collection of billions of stars held together by gravity."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How do the distances between objects in our solar system compare to the actual physical sizes of the objects themselves?",
+      "options": [
+        "The distances are very small, meaning objects are almost touching.",
+        "The distances are roughly equal to the diameters of the objects.",
+        "The distances are very, very large compared to the sizes of the objects.",
+        "The distances are constantly fluctuating between extremely close and extremely far."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why do countries located near the Equator not experience distinct summer and winter seasons?",
+      "options": [
+        "Because they are much closer to the Sun than the polar regions all year.",
+        "Because they stay close to 'face-on' to the Sun all year round.",
+        "Because they spin at a much faster rate than the rest of the Earth.",
+        "Because they are shielded from solar radiation by thick cloud cover."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why do the stars in the night sky look so much smaller and dimmer than our Sun?",
+      "options": [
+        "Because they are much younger and have not reached full brightness.",
+        "Because they are made of different, colder types of gases.",
+        "Because they are much further away from us.",
+        "Because Earth's atmosphere blocks most of their light."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What is a light-year, and why is it used by astronomers?",
+      "options": [
+        "It is the time it takes for Earth to orbit the Sun, used to measure planetary ages.",
+        "It is the distance light travels in one year, making it suitable for measuring vast distances in space.",
+        "It is the speed at which light travels through a vacuum, used to measure the brightness of stars.",
+        "It is the distance from the Earth to the Sun, used to measure local solar system distances."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What is a galaxy in the universe?",
+      "options": [
+        "A solar system containing exactly eight planets and one central star.",
+        "A group in the universe containing billions of stars.",
+        "A cloud of dust and gas where new planets are formed.",
+        "A single massive star surrounded by orbiting comets."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "How long does it take for Earth to complete one full orbit around the Sun?",
+      "options": [
+        "24 hours",
+        "27.3 days",
+        "365.25 days",
+        "100 days"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "What is the shape of Earth's orbit around the Sun?",
+      "options": [
+        "An extremely elongated, narrow oval",
+        "A perfect square with rounded corners",
+        "An almost perfect circle",
+        "A completely irregular spiral"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 35
+    }
+  ]
+}

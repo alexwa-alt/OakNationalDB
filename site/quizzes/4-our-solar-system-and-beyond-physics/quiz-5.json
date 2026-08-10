@@ -1,0 +1,182 @@
+{
+  "unitKey": "4Our solar system and beyondPhysics",
+  "generatedAt": "2026-08-10T09:54:17.579007+00:00",
+  "questions": [
+    {
+      "question": "What historical view of the Earth was common before modern astronomy, regarding its shape and the motion of celestial bodies?",
+      "options": [
+        "It was thought to be a sphere, remaining perfectly still while only the Moon moved around it.",
+        "It was once thought to be flat, with the Sun and all the stars moving around it.",
+        "It was believed to be a cube that rotated on a fixed axis once a year.",
+        "It was thought to be a hollow cylinder orbiting a central fire."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Until which century did most people believe that the Earth was situated at the very centre of the universe?",
+      "options": [
+        "The 12th century",
+        "The 20th century",
+        "The 16th century",
+        "The 18th century"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "At what angle is the axis of the Earth tilted as it spins?",
+      "options": [
+        "12.5 degrees",
+        "23.5 degrees",
+        "45.0 degrees",
+        "90.0 degrees"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "How does the mass of an object affect the strength of its gravitational pull?",
+      "options": [
+        "The greater the mass, the stronger the gravity.",
+        "The greater the mass, the weaker the gravity.",
+        "Mass does not affect gravity, only the object's temperature does.",
+        "Gravity remains completely constant regardless of mass."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What effect does Earth's gravity have on the Moon to keep it in orbit?",
+      "options": [
+        "It pushes the Moon further away into deep space, preventing it from colliding.",
+        "It pulls the Moon towards the centre of Earth, changing its direction and causing it to orbit.",
+        "It heats the Moon's surface, creating a thermal current that propels it.",
+        "It causes the Moon to spin rapidly on its own axis every 24 hours."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How does the angle of heating affect how effectively a surface is warmed?",
+      "options": [
+        "Heating a surface at a shallow angle is far more effective than heating it from directly overhead.",
+        "Heating a surface is equally effective at all angles of contact.",
+        "Heating a surface from directly overhead is more effective than heating it at a different angle.",
+        "Heating is only effective when the source is below the surface."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What happens to rays of light when they hit a surface face-on compared to hitting it at an angle?",
+      "options": [
+        "They are less spread out than if they hit at an angle.",
+        "They are more spread out than if they hit at an angle.",
+        "They disappear completely upon impact.",
+        "They bounce off without transferring any heat energy."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following best describes what a star is?",
+      "options": [
+        "A small solid rock that reflects light from nearby planets.",
+        "An extremely large sphere of hot gas that gives out light.",
+        "A cold, dusty cloud that blocks light from the Sun.",
+        "A frozen liquid sphere orbiting a moon."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What does our solar system consist of?",
+      "options": [
+        "Only the Earth and the Moon.",
+        "A collection of distant galaxies that do not contain stars.",
+        "The Sun and all of the objects that orbit it.",
+        "A cluster of stars that do not have any planets orbiting them."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "How do the distances between objects in our solar system compare to the actual sizes of those objects?",
+      "options": [
+        "The distances are very, very large compared to the sizes of the objects.",
+        "The distances are nearly identical to the diameters of the planets.",
+        "The objects are so close together that they constantly touch.",
+        "The distances are extremely small compared to the sizes of the objects."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why do countries located near the Equator not experience distinct summer and winter seasons?",
+      "options": [
+        "They stay close to 'face-on' to the Sun all year round.",
+        "They are completely shielded from the Sun's rays by the atmosphere.",
+        "They tilt dramatically away from the Sun every six months.",
+        "They orbit a different star than the rest of the Earth."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why do the stars in the night sky appear so much smaller and dimmer than our Sun?",
+      "options": [
+        "They are made of cold solid ice instead of hot gas.",
+        "They are much further away than our Sun.",
+        "They are actually located inside Earth's atmosphere.",
+        "They only emit light during the daytime."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What is a light-year, and why is it used in astronomy?",
+      "options": [
+        "It is the time it takes for Earth to orbit the Sun, used to measure planetary ages.",
+        "It is the distance light travels in one year, making it suitable for measuring vast distances in space.",
+        "It is the brightness of a star over a twelve-month period, used to classify star types.",
+        "It is the distance from the Earth to the Moon, used to measure local orbits."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What is a galaxy?",
+      "options": [
+        "A group of planets orbiting a single dwarf star.",
+        "A collection of billions of stars grouped together in the universe.",
+        "A belt of asteroids located between Mars and Jupiter.",
+        "A single massive star that has run out of fuel."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "What is the shape of Earth's orbit around the Sun?",
+      "options": [
+        "A highly elongated, long oval shape.",
+        "An almost perfect circle.",
+        "A spiral that gets closer to the Sun every year.",
+        "A perfect square with rounded corners."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "Which of the following explains why the Moon appears to change shape over time?",
+      "options": [
+        "The Moon physically expands and contracts due to temperature changes.",
+        "The Moon orbits the Earth about once per month (27.3 days).",
+        "The Moon passes through Earth's atmosphere, which blocks its light.",
+        "The Moon spins on its axis once every hour."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    }
+  ]
+}
