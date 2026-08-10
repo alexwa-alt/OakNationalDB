@@ -1,0 +1,182 @@
+{
+  "unitKey": "3CellsBiology",
+  "generatedAt": "2026-08-09T15:19:29.995855+00:00",
+  "questions": [
+    {
+      "question": "How should we describe the actual physical shape of cells, even though textbook diagrams often make them look flat?",
+      "options": [
+        "They are completely 2D shapes",
+        "They are 3D shapes",
+        "They are perfectly flat squares",
+        "They are single-layer lines"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following lists contains only structures found in typical animal cells?",
+      "options": [
+        "Nucleus, cytoplasm, chloroplasts, cell wall",
+        "Cell membrane, nucleus, vacuole, cell wall",
+        "Cytoplasm, cell membrane, nucleus, mitochondria",
+        "Mitochondria, chloroplasts, large permanent vacuole, nucleus"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which statement correctly describes a unicellular organism?",
+      "options": [
+        "It is made of a single living cell",
+        "It contains exactly two cells working together",
+        "It must have millions of cells to survive",
+        "It is not made of any cells at all"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In multicellular organisms, how are jobs divided among the cells?",
+      "options": [
+        "Every single cell performs every job in the organism",
+        "Different cells take on different jobs to help the organism function",
+        "Cells constantly swap their jobs randomly",
+        "Multicellular organisms only use one active cell while others rest"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is formed in multicellular organisms when cells of the same type join together to perform a specific job?",
+      "options": [
+        "An organ system",
+        "A tissue",
+        "A unicellular organism",
+        "A chloroplast"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following best describes the relationship between tissues, organs, and organ systems?",
+      "options": [
+        "Organ systems join together to form a single tissue",
+        "Tissues are larger than organ systems and contain organs",
+        "An organ is a group of tissues working together, and organs work together in systems",
+        "Organs are made of organ systems, which are made of single cells"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What are the fundamental living building blocks that make up all organisms?",
+      "options": [
+        "Atoms",
+        "Minerals",
+        "Cells",
+        "Tissues"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why are cells typically viewed using scientific equipment rather than just looking at a sample with your eyes?",
+      "options": [
+        "Cells are usually too small to see with the unaided eye",
+        "Cells only exist when they are under a bright light",
+        "Cells are invisible to the human eye under any condition",
+        "Cells change color when looked at directly"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which scientific instrument is commonly used in classrooms to observe the cells that make up a tissue on a slide?",
+      "options": [
+        "An astronomical telescope",
+        "A hand-held magnifying glass only",
+        "A light microscope",
+        "A barometer"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "To observe cell structures clearly under a light microscope, what two adjustments should you make?",
+      "options": [
+        "Adjust the room lighting and tilt the microscope stand",
+        "Change the magnification and adjust the focus",
+        "Move the slide to a different table and change the slide cover",
+        "Increase the room temperature and shake the microscope"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which structures are found in plant cells but are absent in typical animal cells?",
+      "options": [
+        "Cytoplasm and nucleus",
+        "Cell membrane and mitochondria",
+        "Cell wall, vacuole, and sometimes chloroplasts",
+        "Ribosomes and mitochondria"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is the main purpose of adding a chemical stain to a cell sample on a microscope slide?",
+      "options": [
+        "To kill any bacteria so the sample is safe to handle",
+        "To make it easier to see some parts of the cells",
+        "To glue the coverslip permanently to the glass slide",
+        "To change the cells into plant cells"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "How should observations made under a light microscope be recorded in a biology practical?",
+      "options": [
+        "In a colorful abstract painting",
+        "In a detailed, shaded 3D pencil sketch",
+        "In a scientific line drawing",
+        "In a written paragraph only with no diagram"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What is true about specialised cells in animals and plants?",
+      "options": [
+        "They all have the exact same shape and size",
+        "They have shapes, sizes, and structures adapted for the jobs they do",
+        "They can perform any job in the body at any time",
+        "They do not contain a nucleus or cytoplasm"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Which of the following is a pair of specialised cells?",
+      "options": [
+        "Red blood cells in animals and root hair cells in plants",
+        "Skin cells in plants and bone cells in bacteria",
+        "Leaf cells in animals and muscle cells in plants",
+        "Heart cells in fungi and root hair cells in animals"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Which group of processes represents the seven life processes that occur in all living organisms?",
+      "options": [
+        "Movement, reproduction, sensitivity, growth, respiration, excretion, nutrition",
+        "Breeding, sleeping, thinking, eating, walking, running, growing",
+        "Photosynthesis, circulation, digestion, heating, cooling, thinking, moving",
+        "Evolution, mutation, adaptation, selection, extinction, growth, reproduction"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    }
+  ]
+}

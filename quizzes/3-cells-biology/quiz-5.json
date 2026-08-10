@@ -1,0 +1,182 @@
+{
+  "unitKey": "3CellsBiology",
+  "generatedAt": "2026-08-10T09:48:57.940855+00:00",
+  "questions": [
+    {
+      "question": "Although textbooks often depict cells as flat, two-dimensional diagrams, what is the actual spatial nature of a living cell?",
+      "options": [
+        "They are completely flat 2D structures",
+        "They have a three-dimensional (3D) shape",
+        "They have no physical shape at all",
+        "They change between 1D and 2D shapes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following lists contains only structures that are commonly found in animal cells?",
+      "options": [
+        "Cell wall, vacuole, chloroplast",
+        "Cytoplasm, cell membrane, nucleus, mitochondria",
+        "Nucleus, chloroplast, cell wall",
+        "Cytoplasm, capsule, flagellum"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What defines a unicellular organism?",
+      "options": [
+        "An organism consisting of exactly two cells",
+        "An organism made of a single living cell",
+        "An organism that has no cells",
+        "An organism with millions of cells working together"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In a multicellular organism, how are the cells organized to keep the organism alive?",
+      "options": [
+        "Every single cell does exactly the same job and behaves independently",
+        "The organism is made of more than one cell, and different cells take on different jobs",
+        "Cells constantly destroy each other to regulate growth",
+        "Only one cell does all the work while the other cells remain dormant"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "In multicellular organisms, what is formed when a group of similar cells join together to perform a specific job?",
+      "options": [
+        "An organ system",
+        "An organelle",
+        "A tissue",
+        "A unicellular colony"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following correctly describes the relationship between tissues, organs, and organ systems?",
+      "options": [
+        "An organ is a group of tissues working together to do a specific job, and organs work together in an organ system.",
+        "An organ system is made of cells only, bypassing tissues and organs.",
+        "Tissues work together to form cells, which then form organs.",
+        "An organ is a single cell that performs all bodily functions independently."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What are the fundamental living building blocks that make up all organisms?",
+      "options": [
+        "Atoms",
+        "Cells",
+        "Minerals",
+        "Tissues"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why do we normally need a microscope to view cells?",
+      "options": [
+        "Cells are too small to be seen with the unaided eye",
+        "Cells only exist when light shines on them",
+        "Cells are invisible unless they are frozen",
+        "Cells are always covered by a thick layer of soil"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which structures are found in plant cells but are absent in typical animal cells?",
+      "options": [
+        "Cytoplasm and nucleus",
+        "Cell membrane and mitochondria",
+        "Cell wall, vacuole, and sometimes chloroplasts",
+        "Nucleus and cell membrane"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "When preparing a specimen slide to view under a microscope, what is the main purpose of adding a chemical stain?",
+      "options": [
+        "To kill any harmful bacteria on the slide",
+        "To make it easier to see certain parts of the cells",
+        "To glue the coverslip permanently to the slide",
+        "To magnify the cell structures without using lenses"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What is the standard scientific method for recording visual observations made under a light microscope?",
+      "options": [
+        "An abstract oil painting",
+        "A detailed scientific line drawing",
+        "A verbal description only",
+        "A computer-animated 3D model simulation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which of the following are examples of specialized cells found in animals and plants respectively?",
+      "options": [
+        "Red blood cells and root hair cells",
+        "Muscle cells and bark tissues",
+        "Nerve cells and leaf organs",
+        "Skin cells and stem structures"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Which of the following lists the processes that occur in all living organisms?",
+      "options": [
+        "Photosynthesis, talking, hearing, thinking, sleeping, crying",
+        "Movement, reproduction, sensitivity, growth, respiration, excretion, nutrition",
+        "Breathing, walking, eating, sleeping, reading, typing",
+        "Digesting, warming, cooling, moving, thinking, talking"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "In the context of life processes, when is movement considered a sign of life?",
+      "options": [
+        "When the wind blows an organism across a field",
+        "When gravity pulls a dead organism down a hill",
+        "When the organism moves itself to achieve something",
+        "When an organism is carried along by water currents"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "According to biological life processes, how are all living organisms made?",
+      "options": [
+        "They are created spontaneously from non-living chemicals",
+        "They are made from other living organisms when they reproduce",
+        "They assemble automatically from mineral crystals in the soil",
+        "They are formed by wind and rain erosion"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "What must a scientist adjust on a light microscope to clearly observe different cell structures in a tissue sample?",
+      "options": [
+        "The color of the microscope body",
+        "The stage height only",
+        "The magnification and focus",
+        "The length of the power cable"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    }
+  ]
+}

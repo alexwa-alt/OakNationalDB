@@ -1,0 +1,171 @@
+{
+  "unitKey": "3CellsBiology",
+  "generatedAt": "2026-08-10T09:47:55.782829+00:00",
+  "questions": [
+    {
+      "question": "Although cells are often drawn flat on a page in textbooks, what is their actual shape in reality?",
+      "options": [
+        "They are completely flat 2D surfaces",
+        "They have a three-dimensional shape",
+        "They are always perfect cubes",
+        "They are thin 1D threads"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following lists only structures that are commonly found in animal cells?",
+      "options": [
+        "Cytoplasm, cell wall, nucleus, chloroplasts",
+        "Cytoplasm, cell membrane, nucleus, mitochondria",
+        "Cell membrane, vacuole, cell wall, chloroplasts",
+        "Nucleus, cell wall, mitochondria, vacuole"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the defining characteristic of a unicellular organism?",
+      "options": [
+        "It does not contain any genetic material",
+        "It is made of a single living cell",
+        "It is only found in non-living environments",
+        "It is composed of millions of identical cells"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In a multicellular organism, how are the cells organized to carry out life?",
+      "options": [
+        "The organism is made of more than one cell, and different cells take on different jobs",
+        "Every single cell performs every function independently and they do not cooperate",
+        "All cells must have the exact same shape and size to work together",
+        "There is only one cell that does all the work while others remain inactive"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "In multicellular organisms, what is formed when similar cells join together to perform a specific job?",
+      "options": [
+        "An organ system",
+        "A tissue",
+        "A unicellular organism",
+        "A chloroplast"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How is an organ defined in multicellular organisms?",
+      "options": [
+        "A single cell that has grown extremely large",
+        "A group of tissues working together to do a specific job",
+        "A collection of organ systems working independently",
+        "The outer protective layer of a plant cell"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What are the fundamental living building blocks that make up all organisms?",
+      "options": [
+        "Atoms",
+        "Tissues",
+        "Cells",
+        "Organs"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why do we typically need a microscope to observe individual cells?",
+      "options": [
+        "Cells are usually too small to see with the unaided eye",
+        "Cells only exist when light shines on them",
+        "Cells are completely transparent to human eyes",
+        "Cells move too fast to be seen without a lens"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which structures are found in plant cells but are NOT present in animal cells?",
+      "options": [
+        "Cytoplasm and nucleus",
+        "Cell membrane and mitochondria",
+        "Cell wall, vacuole, and sometimes chloroplasts",
+        "Nucleus and cell wall"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is the main purpose of adding a stain to a cell sample on a microscope slide?",
+      "options": [
+        "To kill any bacteria so the cells stop moving",
+        "To make it easier to see some parts of the cells",
+        "To glue the coverslip permanently to the slide",
+        "To increase the magnification power of the lens"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "How should observations of cells made under a light microscope be recorded in a science notebook?",
+      "options": [
+        "Using a highly detailed 3D oil painting",
+        "As a scientific line drawing",
+        "By writing a fictional story about the cells",
+        "With a simple list of chemical formulas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which of the following are examples of specialised cells found in animals and plants?",
+      "options": [
+        "Red blood cells in animals and root hair cells in plants",
+        "Nerve cells in animals and muscle cells in plants",
+        "Chloroplasts in animals and mitochondria in plants",
+        "Cytoplasm in animals and vacuoles in plants"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Which group contains only essential life processes that happen in all living organisms?",
+      "options": [
+        "Movement, reproduction, sensitivity, growth, respiration, excretion, nutrition",
+        "Photosynthesis, circulation, thinking, talking, sleeping, hearing, breathing",
+        "Melting, freezing, evaporating, condensing, dissolving, burning, decaying",
+        "Walking, crying, playing, reading, writing, calculating, sleeping"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "According to the principles of life processes, how are all living organisms made?",
+      "options": [
+        "They spontaneously appear from non-living dirt and water",
+        "They are made from other living organisms when they reproduce",
+        "They are manufactured in factories from raw chemical elements",
+        "They grow directly from minerals deep inside rocks"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "When is movement considered a sign of life in an organism?",
+      "options": [
+        "When the wind blows the organism from one place to another",
+        "When the organism moves itself to achieve something",
+        "When gravity pulls the organism downward",
+        "When water currents wash the organism away"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    }
+  ]
+}

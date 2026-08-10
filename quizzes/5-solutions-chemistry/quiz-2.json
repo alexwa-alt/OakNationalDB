@@ -1,0 +1,193 @@
+{
+  "unitKey": "5SolutionsChemistry",
+  "generatedAt": "2026-08-10T09:56:38.111890+00:00",
+  "questions": [
+    {
+      "question": "What is Brownian motion?",
+      "options": [
+        "The random motion of particles suspended in a medium.",
+        "The movement of particles from high to low concentration.",
+        "The change of state from a liquid to a solid.",
+        "The chemical reaction between an acid and an alkali."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What eventually happens to substances whose particles are free to move in a container?",
+      "options": [
+        "They will settle at the bottom of the container in layers.",
+        "They will reach a random distribution throughout.",
+        "They will clump together at the center of the container.",
+        "They will escape the container even if it is tightly sealed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How does a higher temperature affect the particles in a gas or solution?",
+      "options": [
+        "They move more quickly.",
+        "They stop moving completely.",
+        "They increase in mass.",
+        "They become tightly bonded."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why are suspensions not classified as solutions?",
+      "options": [
+        "Because they are always made of two different liquids.",
+        "Because the solid particles can be seen and will eventually settle over time.",
+        "Because they cannot conduct electricity at room temperature.",
+        "Because they can only be formed at very high temperatures."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What must be overcome for a solute particle to dissolve in a solvent?",
+      "options": [
+        "The forces of attraction between solute particles.",
+        "The atmospheric pressure acting on the beaker.",
+        "The gravity pulling down on the solvent particles.",
+        "The electrical charge of the container walls."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When mixing two different liquids, why might the total volume be less than expected?",
+      "options": [
+        "Some particles are destroyed during the mixing process.",
+        "One type of particle may fit into the spaces between the other type.",
+        "The mass of the mixture decreases significantly.",
+        "The particles expand and push each other out of the container."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which of the following is true regarding dissolving and melting?",
+      "options": [
+        "Dissolving requires a heat source, whereas melting does not.",
+        "They are both chemical reactions that form new substances.",
+        "Dissolving is not the same as melting, but both are physical processes.",
+        "Melting involves a solvent, while dissolving only involves one substance."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "To ensure that an investigation's method is high-quality, how should it be written?",
+      "options": [
+        "Using complex language that only expert scientists can understand.",
+        "So that it is both repeatable and reproducible.",
+        "Containing opinions on what the results should have been.",
+        "Without mentioning any specific equipment or quantities."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How is a solution formed?",
+      "options": [
+        "When an insoluble solid settles at the bottom of a liquid.",
+        "When a soluble solid dissolves in an appropriate solvent.",
+        "When two gases react chemically to produce a new gas.",
+        "When a liquid turns into a gas through boiling."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "If 5 grams of salt is completely dissolved in 100 grams of water, what is the total mass of the mixture?",
+      "options": [
+        "Exactly 105 grams, because mass is conserved.",
+        "Less than 100 grams, because some salt is lost during dissolving.",
+        "Exactly 100 grams, because the salt occupies the spaces between water particles.",
+        "More than 105 grams, because dissolving increases the mass of individual particles."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which of these is a characteristic of a pure material?",
+      "options": [
+        "It melts and boils over a wide range of temperatures.",
+        "It has a fixed melting point and boiling point.",
+        "It is made of at least three different types of substances.",
+        "Its properties change every time it is heated."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What effect do impurities have on the melting and boiling points of a material?",
+      "options": [
+        "They keep the melting and boiling points exactly the same.",
+        "They change the melting and boiling point of the material.",
+        "They make the material unable to ever melt or boil.",
+        "They cause the material to melt and boil at a single, higher fixed temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "At a given temperature, which of the following is true about dissolving a solute in a solvent?",
+      "options": [
+        "An infinite amount of solute can always be dissolved.",
+        "There is a limit to how much solute can dissolve in a solvent.",
+        "Solutes can only dissolve if the solvent is boiling.",
+        "The solute will always float on top of the solvent."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "What can happen to dissolved solutes as a solution cools down?",
+      "options": [
+        "They may become insoluble and precipitate out.",
+        "They will always evaporate into the air.",
+        "They turn into a completely new chemical element.",
+        "They increase the volume of the liquid."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Which of the following sets of factors can affect the solubility of a substance?",
+      "options": [
+        "Only the shape of the beaker and the time of day.",
+        "The size of the solute pieces, the choice of solvent, or the temperature of the solvent.",
+        "Only the color of the solute and the room's humidity.",
+        "The volume of the container and the air pressure."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "What is the independent variable in a scientific investigation?",
+      "options": [
+        "The factor that is kept the same to ensure a fair test.",
+        "The factor that is observed or measured to see the effect.",
+        "The factor that is changed in the investigation.",
+        "The piece of equipment used to record the data."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "What is done in a fair test to ensure we know which variable made a difference to the results?",
+      "options": [
+        "All variables are changed at the same time.",
+        "No variables are allowed to change at all.",
+        "Only the variable being tested is changed.",
+        "Only the control variables are changed during the experiment."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 41
+    }
+  ]
+}

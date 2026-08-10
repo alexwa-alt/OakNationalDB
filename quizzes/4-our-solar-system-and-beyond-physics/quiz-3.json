@@ -1,0 +1,182 @@
+{
+  "unitKey": "4Our solar system and beyondPhysics",
+  "generatedAt": "2026-08-10T09:52:17.189048+00:00",
+  "questions": [
+    {
+      "question": "Historically, what shape was Earth once widely believed to have, alongside the belief that the Sun and stars revolved around it?",
+      "options": [
+        "A perfect cube",
+        "A flat surface",
+        "An elongated cylinder",
+        "A rotating sphere"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Until the 16th century, what did most people believe was located at the very centre of the universe?",
+      "options": [
+        "The Sun",
+        "The Milky Way galaxy",
+        "The Earth",
+        "A massive black hole"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "By how many degrees is the axis on which the Earth spins tilted?",
+      "options": [
+        "0 degrees",
+        "15.0 degrees",
+        "23.5 degrees",
+        "45.2 degrees"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why does the Northern Hemisphere experience summer in the month of June?",
+      "options": [
+        "It is tilted towards the Sun",
+        "It is physically closer to the Sun in its orbit",
+        "The Sun produces more energy in June",
+        "The Southern Hemisphere blocks the cold winds"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How does the mass of an object affect the strength of its gravitational pull?",
+      "options": [
+        "Greater mass results in weaker gravity",
+        "Greater mass results in stronger gravity",
+        "Mass does not affect gravity, only volume does",
+        "Mass only affects gravity if the object is spinning"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What happens to the gravitational force of a planet, moon, or star as you move further away from it into space?",
+      "options": [
+        "It gets weaker with distance",
+        "It gets stronger with distance",
+        "It drops to zero immediately outside the atmosphere",
+        "It remains exactly the same strength"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What is the primary effect of the Earth's gravitational pull on the Moon?",
+      "options": [
+        "It causes the Moon to spin faster on its axis",
+        "It continuously pulls the Moon closer until it crashes",
+        "It changes the Moon's direction, keeping it in orbit around the Earth",
+        "It heats up the core of the Moon through friction"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "At which angle is heating a surface from a light or heat source the most effective?",
+      "options": [
+        "From directly overhead",
+        "From a shallow, low angle",
+        "From a 45-degree angle",
+        "From below the surface"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What happens to rays of light when they strike a surface face-on compared to when they hit at an angle?",
+      "options": [
+        "They are more spread out",
+        "They are less spread out",
+        "They are completely reflected back",
+        "They change colour"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "At what time of day is the heating effect of the Sun greatest at any given place on Earth?",
+      "options": [
+        "At sunrise",
+        "At midday",
+        "At sunset",
+        "At midnight"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which of the following best describes a planet?",
+      "options": [
+        "An extremely large sphere of hot gas that emits light",
+        "A small rocky fragment that orbits a moon",
+        "A very large sphere of rock or gas that orbits a star",
+        "A clump of ice and dust traveling between different galaxies"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How do the distances between objects in our solar system compare to the physical sizes of the objects themselves?",
+      "options": [
+        "The distances are extremely small compared to the sizes of the objects",
+        "The distances are roughly equal to the diameters of the objects",
+        "The distances are very, very large compared to the sizes of the objects",
+        "The distances change so rapidly that they cannot be compared"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why do countries near the Equator not experience distinct summer and winter seasons?",
+      "options": [
+        "They stay close to 'face-on' to the Sun all year round",
+        "They are tilted away from the Sun during the entire year",
+        "They are much closer to the Sun than the polar regions",
+        "Their atmosphere blocks the Sun's rays more effectively"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "What is a light-year, and why is it used by astronomers?",
+      "options": [
+        "The time it takes for Earth to orbit the Sun, used to measure planetary ages",
+        "The distance light travels in one year, suitable for measuring vast space distances",
+        "The speed at which light travels through the vacuum of space",
+        "The brightness of a star compared to our Sun over a twelve-month period"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What do we call the massive groups in the universe that contain billions of stars?",
+      "options": [
+        "Solar systems",
+        "Constellations",
+        "Galaxies",
+        "Nebulae"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "How long does it take for the Earth to complete one full orbit around the Sun?",
+      "options": [
+        "24 hours",
+        "27.3 days",
+        "365.25 days",
+        "1000 days"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 34
+    }
+  ]
+}

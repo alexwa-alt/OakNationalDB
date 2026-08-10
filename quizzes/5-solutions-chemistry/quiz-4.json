@@ -1,0 +1,171 @@
+{
+  "unitKey": "5SolutionsChemistry",
+  "generatedAt": "2026-08-10T09:58:33.270283+00:00",
+  "questions": [
+    {
+      "question": "What is Brownian motion defined as?",
+      "options": [
+        "The random motion of particles suspended in a medium",
+        "The movement of particles down a concentration gradient",
+        "The process of a solid turning into a gas",
+        "The reaction of an acid with a metal"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How does increasing the temperature affect the particles in a gas or solution?",
+      "options": [
+        "They move more slowly",
+        "They stop moving entirely",
+        "They move more quickly",
+        "They clump together and freeze"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why are suspensions not classified as solutions?",
+      "options": [
+        "They are always made of pure substances",
+        "Solid particles can be seen in them and will eventually settle over time",
+        "They can never be separated by filtration",
+        "They have a fixed boiling point like pure materials"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What must be overcome for a solute to dissolve in a solvent?",
+      "options": [
+        "The gravitational pull on the liquid",
+        "The forces of attraction between solute particles",
+        "The chemical bonds within the oxygen atoms",
+        "The atmospheric pressure of the room"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why might the total volume of a mixture of two different liquids be less than expected?",
+      "options": [
+        "Some particles are destroyed during mixing",
+        "The particles expand and take up more space",
+        "One type of particle can fit into the spaces between the other type",
+        "The liquids undergo a gas-producing chemical reaction"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which of the following is true regarding dissolving and melting?",
+      "options": [
+        "Dissolving is a chemical change while melting is a physical change",
+        "They are completely identical processes",
+        "Dissolving is not the same as melting, but both are physical processes",
+        "Melting requires a solvent while dissolving does not"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why should scientific methods be written clearly and concisely?",
+      "options": [
+        "So that they are both repeatable and reproducible",
+        "To prevent other scientists from understanding the results",
+        "To ensure the investigation cannot be copied",
+        "So that they only contain theoretical predictions"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is formed when a soluble solid dissolves in an appropriate solvent?",
+      "options": [
+        "A suspension",
+        "A pure material",
+        "A solution",
+        "An element"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "If you mix 15 g of sugar into 200 g of water, what will be the total mass of the mixture?",
+      "options": [
+        "215 g, because mass is conserved",
+        "Less than 200 g, because sugar loses mass when it dissolves",
+        "Exactly 185 g, because sugar takes up volume",
+        "More than 215 g, because of chemical reactions"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which piece of equipment and unit are typically used to measure liquid volume in a lab?",
+      "options": [
+        "A balance, in grams (g)",
+        "A measuring cylinder, in cm³",
+        "A thermometer, in degrees Celsius (°C)",
+        "A ruler, in millimetres (mm)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What is a characteristic property of a pure material?",
+      "options": [
+        "It has a fixed melting point and boiling point",
+        "It melts and boils over a wide range of temperatures",
+        "It can be easily separated by simple filtration",
+        "It is always made of several different types of substances"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What effect do impurities have on the melting and boiling points of a material?",
+      "options": [
+        "They make the melting and boiling points completely unpredictable",
+        "They change the melting and boiling point of the material",
+        "They have absolutely no effect on either point",
+        "They make the melting and boiling points exactly the same temperature"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What can happen to dissolved solutes as a hot solution cools down?",
+      "options": [
+        "They may become insoluble and settle out",
+        "They will turn into a gas and evaporate",
+        "They will permanently disappear",
+        "They will become more soluble"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "How can a line of best fit on a graph be useful?",
+      "options": [
+        "It shows how to change the independent variable",
+        "It can help to identify and describe relationships between variables",
+        "It is used to make sure the experiment is a fair test",
+        "It indicates the exact mass of the solute used"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "In a fair test, why is only the variable being tested changed?",
+      "options": [
+        "To make the experiment run faster",
+        "So that it is clear that only this variable made a difference to the results",
+        "To keep the temperature of the laboratory constant",
+        "To make the graph easier to plot by hand"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 41
+    }
+  ]
+}
