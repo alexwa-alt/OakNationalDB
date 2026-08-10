@@ -1,0 +1,171 @@
+{
+  "unitKey": "5SolutionsChemistry",
+  "generatedAt": "2026-08-10T09:55:35.913595+00:00",
+  "questions": [
+    {
+      "question": "What is the term used to describe the random motion of particles suspended in a medium?",
+      "options": [
+        "Diffusion",
+        "Brownian motion",
+        "Convection",
+        "Osmosis"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How do suspensions differ from solutions?",
+      "options": [
+        "Suspensions contain visible solid particles that will eventually settle over time",
+        "Suspensions are always perfectly clear and never settle",
+        "Suspensions are formed only when gases dissolve in liquids",
+        "Suspensions cannot be separated by physical means"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What must happen to the forces of attraction between solute particles for dissolving to occur?",
+      "options": [
+        "They must be strengthened",
+        "They must be overcome",
+        "They must remain unchanged",
+        "They must be completely destroyed and turned into energy"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When two different liquids are mixed, why might the total volume be less than expected?",
+      "options": [
+        "Some particles evaporate instantly",
+        "One type of particle may fit into the spaces between another type",
+        "The particles shrink in size upon contact",
+        "Mass is lost during the mixing process"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which of the following statements is true regarding dissolving and melting?",
+      "options": [
+        "They are the exact same chemical process",
+        "Dissolving is a chemical change, while melting is a physical change",
+        "Both are physical processes, but dissolving is not the same as melting",
+        "Melting requires a solvent, whereas dissolving only requires heat"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why is it important to write scientific methods clearly so they are repeatable and reproducible?",
+      "options": [
+        "To ensure other scientists can carry out the investigation and verify the findings",
+        "To guarantee that the experiment is only ever performed once",
+        "To make sure the experiment requires expensive equipment",
+        "To ensure that no variables are kept constant"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is formed when a soluble solid successfully dissolves in an appropriate solvent?",
+      "options": [
+        "A suspension",
+        "A pure material",
+        "A solution",
+        "A precipitate"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "If you mix 15 grams of sugar into 150 grams of water, what will be the total mass of the mixture?",
+      "options": [
+        "135 g",
+        "165 g",
+        "150 g",
+        "More than 165 g"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which apparatus and unit are correctly matched for measuring volume in a school chemistry laboratory?",
+      "options": [
+        "A balance, measured in grams",
+        "A thermometer, measured in degrees Celsius",
+        "A measuring cylinder, measured in cm³",
+        "A beaker, measured in grams"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What is a characteristic property of a pure material?",
+      "options": [
+        "It melts and boils over a wide range of temperatures",
+        "It has a fixed melting point and boiling point",
+        "It consists of multiple types of substances mixed together",
+        "Its physical state cannot be changed by heating"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What effect do impurities have on the melting and boiling points of a material?",
+      "options": [
+        "They have absolutely no effect on either point",
+        "They keep the melting and boiling points completely fixed",
+        "They change the melting and boiling point of the material",
+        "They ensure the material melts and boils at the exact same temperature"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What can happen to solutes in a solution as the solution is cooled down?",
+      "options": [
+        "They may become insoluble and separate from the solvent",
+        "They will dissolve much more quickly",
+        "They will spontaneously turn into gas",
+        "Their total mass in the mixture will decrease to zero"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Which of the following sets of factors can affect the solubility of a substance?",
+      "options": [
+        "Only the shape of the beaker used",
+        "The size of the solute pieces, the choice of solvent, or the temperature of the solvent",
+        "Only the colour of the solute particles",
+        "The room's atmospheric pressure and the height of the workbench"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "In a scientific investigation, what is the independent variable?",
+      "options": [
+        "The factor that is kept the same to ensure a fair test",
+        "The factor that is observed or measured to see how it responds",
+        "The factor that is purposely changed in the investigation",
+        "The unit of measurement used to record the final values"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "Why is only one variable changed at a time in a fair test?",
+      "options": [
+        "To make the practical investigation as slow as possible",
+        "To make sure that the mass of the reactants increases",
+        "So that it is clear that the changed variable made a difference to the results",
+        "To prevent any chemical reactions from occurring"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 41
+    }
+  ]
+}

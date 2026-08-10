@@ -1,0 +1,171 @@
+{
+  "unitKey": "5SolutionsChemistry",
+  "generatedAt": "2026-08-10T09:57:33.807207+00:00",
+  "questions": [
+    {
+      "question": "What is Brownian motion?",
+      "options": [
+        "The random motion of particles suspended in a medium.",
+        "The settling of large solid particles at the bottom of a liquid.",
+        "The chemical reaction between a solute and a solvent.",
+        "The process of a liquid turning into a gas at its boiling point."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How does increasing the temperature affect the movement of particles in a gas or solution?",
+      "options": [
+        "They slow down and eventually stop moving.",
+        "They move more quickly.",
+        "They clump together and form a solid.",
+        "Their movement is completely unaffected by temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why is a suspension not classified as a solution?",
+      "options": [
+        "Because its components can never be separated.",
+        "Because the particles are too small to be seen and never settle.",
+        "Because solid particles can be seen in it and will eventually settle over time.",
+        "Because it always contains only one single pure substance."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What must happen to the forces of attraction between solute particles for a substance to dissolve?",
+      "options": [
+        "They must be strengthened.",
+        "They must remain completely unchanged.",
+        "They must be overcome.",
+        "They must convert into chemical bonds."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What can happen to the total volume of a mixture when two different liquids are mixed together?",
+      "options": [
+        "It is always exactly equal to the sum of the individual volumes.",
+        "It can be less than expected because one type of particle fits into the spaces between another.",
+        "It always doubles because particles push each other further apart.",
+        "It increases because new particles are created during mixing."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which of the following is true regarding dissolving and melting?",
+      "options": [
+        "Dissolving and melting are identical processes.",
+        "Dissolving is a chemical change, while melting is a physical change.",
+        "Dissolving is not the same as melting, but both are physical processes.",
+        "Dissolving requires a chemical reaction, whereas melting does not."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What is formed when a soluble solid dissolves in an appropriate solvent?",
+      "options": [
+        "A suspension",
+        "A solution",
+        "A new element",
+        "A precipitate"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "If 10 g of salt is dissolved in 100 g of water, what is the total mass of the resulting mixture?",
+      "options": [
+        "90 g",
+        "100 g",
+        "110 g",
+        "1000 g"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What piece of equipment and unit would you typically use to measure the volume of a liquid in a school laboratory?",
+      "options": [
+        "A balance, measured in grams",
+        "A thermometer, measured in degrees Celsius",
+        "A measuring cylinder, measured in cm³",
+        "A ruler, measured in centimeters"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following is a characteristic of a pure material?",
+      "options": [
+        "It melts and boils over a wide range of temperatures.",
+        "It has a fixed melting point and boiling point.",
+        "It cannot be heated to its boiling point without decomposing.",
+        "Its melting point changes every time it is measured."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What effect do impurities have on the melting and boiling point of a material?",
+      "options": [
+        "They have no effect whatsoever.",
+        "They make the melting and boiling point completely disappear.",
+        "They change the melting and boiling point of the material.",
+        "They always make the melting point exactly equal to the boiling point."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How do the melting and boiling behaviors of mixtures compare to those of pure substances?",
+      "options": [
+        "Mixtures melt or boil over a range of temperatures.",
+        "Mixtures melt and boil at one exact, fixed temperature.",
+        "Mixtures do not have any melting or boiling points.",
+        "Mixtures only boil and can never be melted."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "At a given temperature, what limit exists when dissolving a solute in a solvent?",
+      "options": [
+        "There is no limit to how much solute can dissolve.",
+        "Only a maximum of 1 gram can ever be dissolved.",
+        "There is a limit to how much solute can dissolve in a solvent.",
+        "Solutes can only dissolve if the solvent is constantly boiling."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "What might happen to the dissolved solute as a hot, saturated solution cools down?",
+      "options": [
+        "The solute will turn into a gas and escape.",
+        "The solute may become insoluble and start to crystallize out.",
+        "The solute will permanently chemically bond with the solvent.",
+        "The volume of the solvent will suddenly double."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Which of the following factors can affect the solubility of a substance?",
+      "options": [
+        "Only the color of the container used.",
+        "The size of the solute pieces, the choice of solvent, or the temperature of the solvent.",
+        "Only the atmospheric pressure in the room.",
+        "The shape of the laboratory bench."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    }
+  ]
+}

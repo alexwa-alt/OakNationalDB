@@ -1,0 +1,204 @@
+{
+  "unitKey": "5SolutionsChemistry",
+  "generatedAt": "2026-08-10T09:59:39.522393+00:00",
+  "questions": [
+    {
+      "question": "What term is used to describe the random motion of tiny particles suspended in a medium?",
+      "options": [
+        "Osmosis",
+        "Brownian motion",
+        "Diffusion",
+        "Filtration"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If a substance has particles that are free to move, what will eventually happen to those particles over time?",
+      "options": [
+        "They will clump together at the center.",
+        "They will sink to the bottom permanently.",
+        "They will reach a random distribution throughout.",
+        "They will immediately evaporate into a gas."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the effect of higher temperatures on the particles in a gas or solution?",
+      "options": [
+        "They move more quickly.",
+        "They move more slowly.",
+        "They stop moving entirely.",
+        "They increase in size."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why are suspensions not classified as solutions?",
+      "options": [
+        "Solid particles cannot be seen at all.",
+        "Solid particles can be seen and will eventually settle over time.",
+        "Suspensions are always pure substances.",
+        "The solid and liquid cannot be separated by filtering."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What must happen to the forces of attraction between solute particles for a substance to dissolve?",
+      "options": [
+        "They must be strengthened.",
+        "They must remain unchanged.",
+        "They have to be overcome.",
+        "They must be converted into chemical bonds."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When mixing two different liquids, why might the total volume of the mixture be less than the sum of the individual volumes?",
+      "options": [
+        "Particles of one type fit into the spaces between the other type.",
+        "Some of the mass is converted into energy.",
+        "The particles react to form larger, heavier atoms.",
+        "Liquid particles completely shrink when mixed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which statement correctly describes dissolving and melting?",
+      "options": [
+        "Dissolving is a chemical change, while melting is a physical change.",
+        "Both are physical processes, but they are not the same thing.",
+        "Dissolving and melting are two words for the exact same process.",
+        "Melting requires a solvent, while dissolving does not."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How is a solution formed?",
+      "options": [
+        "When a soluble solid dissolves in an appropriate solvent",
+        "When an insoluble solid is suspended in water",
+        "When a liquid is cooled down to its freezing point",
+        "When two immiscible liquids are shaken together"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "If you mix 10 g of sugar with 150 g of water, what is the total mass of the mixture?",
+      "options": [
+        "140 g",
+        "150 g",
+        "160 g",
+        "200 g"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which equipment and unit are correctly matched for measuring volume in a laboratory?",
+      "options": [
+        "A balance, in grams",
+        "A measuring cylinder, in cm³",
+        "A thermometer, in degrees Celsius",
+        "A ruler, in centimeters"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What is a key characteristic of a pure material regarding its physical properties?",
+      "options": [
+        "It has a variable boiling point.",
+        "It has a fixed melting point and boiling point.",
+        "It melts over a wide range of temperatures.",
+        "It does not have a measurable melting point."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "How do impurities affect the melting and boiling points of a material?",
+      "options": [
+        "They keep the melting and boiling points completely fixed.",
+        "They change the melting and boiling point of the material.",
+        "They have no effect on either physical property.",
+        "They prevent the material from ever changing state."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What temperature characteristic is observed when mixtures melt or boil?",
+      "options": [
+        "They melt or boil at a single, sharp temperature.",
+        "They melt or boil over a range of temperatures.",
+        "They do not have any melting or boiling points.",
+        "They only change state at absolute zero."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "At a given temperature, what limit exists when dissolving a solute in a solvent?",
+      "options": [
+        "There is a limit to how much solute can dissolve.",
+        "There is no limit to how much solute can dissolve.",
+        "Only exactly one gram of solute can ever dissolve.",
+        "Solutes can only dissolve if the mixture is boiled."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "What can happen to dissolved solutes as a warm solution cools down?",
+      "options": [
+        "They may become insoluble and form crystals.",
+        "They will dissolve even more rapidly.",
+        "They will evaporate out of the container.",
+        "They will turn into a completely new liquid."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Upon what factors could the solubility of a substance depend?",
+      "options": [
+        "The size of the solute pieces, choice of solvent, or temperature.",
+        "The shape of the beaker and the volume of the room.",
+        "The color of the solute and the mass of the stirring rod.",
+        "The air pressure and the humidity of the laboratory."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "In a scientific investigation, what is the independent variable?",
+      "options": [
+        "The variable that is kept the same to make it fair.",
+        "The variable that is measured or observed.",
+        "The variable that is changed by the investigator.",
+        "The equipment used to take measurements."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "What is the dependent variable in an investigation?",
+      "options": [
+        "The factor that is kept constant throughout.",
+        "The factor that is changed on purpose.",
+        "The factor that is observed or measured.",
+        "The method written to repeat the experiment."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 39
+    }
+  ]
+}
