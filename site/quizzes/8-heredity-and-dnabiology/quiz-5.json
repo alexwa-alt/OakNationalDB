@@ -1,0 +1,182 @@
+{
+  "unitKey": "8Heredity and DNABiology",
+  "generatedAt": "2026-08-11T09:31:32.527190+00:00",
+  "questions": [
+    {
+      "question": "What chemical substance is the genetic material in living organisms made of?",
+      "options": [
+        "Protein",
+        "DNA",
+        "Carbohydrate",
+        "Lipid"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the term used to describe all of the DNA contained within a single cell of an organism?",
+      "options": [
+        "The genotype",
+        "The chromosome",
+        "The gene pool",
+        "The genome"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following best describes the shape of a DNA molecule?",
+      "options": [
+        "A single straight chain with branching arms",
+        "A double helix made of two spiralled chains with links across the middle",
+        "A triple-stranded sphere with cross-connections",
+        "A flat, circular ring made of three joined chains"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why can we see DNA during an extraction experiment, even though individual DNA molecules are too small to be seen with the unaided eye?",
+      "options": [
+        "The DNA molecules expand in water to become thousands of times larger",
+        "The chemicals used cause the DNA to glow brightly under normal light",
+        "Many DNA molecules clump together in large numbers when extracted",
+        "The DNA reacts with oxygen to form a solid metallic precipitate"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Inside cells, the genome is wound up into tightly-packed structures. What are these structures called?",
+      "options": [
+        "Chromosomes",
+        "Ribosomes",
+        "Chloroplasts",
+        "Proteins"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How many pairs of chromosomes are typically found in the nucleus of a human body cell, compared to the chromosomes in a bacterium?",
+      "options": [
+        "46 pairs in a human cell; two pairs in the bacterium cytoplasm",
+        "23 pairs in a human cell; one single chromosome in the bacterium cytoplasm",
+        "12 pairs in a human cell; 23 pairs in the bacterium nucleus",
+        "23 pairs in a human cell; none in the bacterium since bacteria do not have DNA"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What name is given to the specific sections of DNA in chromosomes that contain the instructions for inherited features and life processes?",
+      "options": [
+        "Nuclei",
+        "Proteins",
+        "Genes",
+        "Hormones"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is the function of the non-coding sections of DNA found in an organism's genome?",
+      "options": [
+        "They serve as spare parts to replace damaged genes",
+        "They contain instructions that control when the information in genes is used",
+        "They provide energy to the cell when glucose levels are low",
+        "They prevent the DNA from winding into chromosomes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Where is the genetic material stored in a bacterial cell?",
+      "options": [
+        "Inside the nucleus",
+        "In the cell wall",
+        "In the cytoplasm",
+        "Inside the chloroplast"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which term describes the biological process by which organisms pass on physical and physiological features to their offspring?",
+      "options": [
+        "Heredity",
+        "Respiration",
+        "Fertilisation",
+        "Adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Why do offspring typically show a family resemblance, looking similar to both parents and their siblings?",
+      "options": [
+        "They eat the same food and live in the same house",
+        "They inherit genetic features from both parents",
+        "They copy the behaviour and facial expressions of their parents",
+        "They are identical clones of one of their parents"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which of the following types of features can be inherited by offspring from their parents?",
+      "options": [
+        "Only features caused by instructions in the genetic material",
+        "Only features that are learned during the parent's lifetime",
+        "Any physical change that happens to the parent's body after birth",
+        "Only features that are caused by the parent's diet and environment"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Why can a parent not pass on a scar or a suntan to their biological offspring?",
+      "options": [
+        "These features are stored in the non-coding DNA, which is never inherited",
+        "These are features caused by lifestyle and the environment, which cannot be inherited",
+        "The body automatically deletes these features before reproduction",
+        "These features are only passed on if both parents have them"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Which of the following pairs correctly identifies one genetically inherited feature and one environmentally caused feature?",
+      "options": [
+        "Inherited: eye colour; Environmental: scars",
+        "Inherited: language spoken; Environmental: blood group",
+        "Inherited: dyed hair colour; Environmental: natural eye colour",
+        "Inherited: scars; Environmental: lobed earlobes"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "In 1952, Rosalind Franklin's team in London used which technique to produce an image showing the structure of a DNA molecule?",
+      "options": [
+        "Light microscopy",
+        "X-ray diffraction",
+        "Magnetic resonance imaging (MRI)",
+        "Electron scanning"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "How did James Watson and Francis Crick successfully complete their model describing the double helix structure of DNA?",
+      "options": [
+        "By conducting their own X-ray experiments over ten years",
+        "By using the picture evidence produced by Rosalind Franklin's team",
+        "By extracting DNA from fruit cells for the first time",
+        "By using a computer program to generate random chemical models"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    }
+  ]
+}

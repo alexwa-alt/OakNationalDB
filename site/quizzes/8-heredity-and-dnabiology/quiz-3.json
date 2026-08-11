@@ -1,0 +1,171 @@
+{
+  "unitKey": "8Heredity and DNABiology",
+  "generatedAt": "2026-08-11T09:29:35.638521+00:00",
+  "questions": [
+    {
+      "question": "What is the primary chemical substance that makes up the genetic material in living organisms?",
+      "options": [
+        "Proteins",
+        "Carbohydrates",
+        "DNA",
+        "Lipids"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which statement best describes the basic chemical structure of a DNA molecule?",
+      "options": [
+        "A single, straight chain of sugar molecules",
+        "Two chains of smaller chemical units joined together",
+        "A branching network of proteins and lipids",
+        "Three separate rings of carbon atoms connected by bonds"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What term is used to describe the entire collection of DNA found within a single cell of an organism?",
+      "options": [
+        "Genetics",
+        "Chromosome",
+        "Genome",
+        "Gene pool"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the physical shape of a DNA molecule, which consists of two spiralled chains with connecting links?",
+      "options": [
+        "Single strand",
+        "Double helix",
+        "Triple coil",
+        "Circular ring"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why is it possible to see DNA during a fruit extraction experiment even though individual DNA molecules are invisible to the unaided eye?",
+      "options": [
+        "The DNA molecules expand in size when exposed to water",
+        "The extraction process dyes the DNA with bright colours",
+        "Many DNA molecules clump together into a visible mass",
+        "The chemical structure of DNA changes into a solid crystal"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Inside a cell, the genome is wound up into highly organized, tightly-packed structures called what?",
+      "options": [
+        "Chloroplasts",
+        "Chromosomes",
+        "Ribosomes",
+        "Vacuoles"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How many pairs of chromosomes are typically found in the nucleus of a normal human body cell?",
+      "options": [
+        "23 pairs",
+        "46 pairs",
+        "12 pairs",
+        "4 pairs"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What name is given to the specific sections of DNA in chromosomes that contain instructions for inherited features and life processes?",
+      "options": [
+        "Genomes",
+        "Proteins",
+        "Genes",
+        "Nuclei"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is the role of non-coding DNA sections within an organism's genetic material?",
+      "options": [
+        "They only store instructions for making proteins",
+        "They control when the instructions in genes are used",
+        "They are waste products that have no function at all",
+        "They act as physical barriers to protect the nucleus"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Where is the genetic material stored in bacterial cells, since they lack a nucleus?",
+      "options": [
+        "Inside the chloroplast",
+        "Within the cell wall",
+        "In the cytoplasm",
+        "Inside the mitochondria"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which term describes the biological process by which organisms pass on physical and physiological features to their offspring?",
+      "options": [
+        "Evolution",
+        "Heredity",
+        "Respiration",
+        "Metabolism"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Except for identical twins, what is typically true about the appearance of offspring from the same parents?",
+      "options": [
+        "They are exact clones of one of the parents",
+        "They show variation and are not identical to each other or their parents",
+        "They share absolutely no features with either parent",
+        "They look identical to their oldest sibling"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which of the following statements about characteristics acquired from lifestyle or the environment is correct?",
+      "options": [
+        "They are written into our DNA and passed to offspring",
+        "They cannot be inherited by offspring",
+        "They always skip one generation before being inherited",
+        "They are inherited only if both parents have them"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Which of the following correctly pairs a genetically inherited feature with an environmentally caused feature?",
+      "options": [
+        "Eye colour (inherited) and a scar (environmental)",
+        "A scar (inherited) and eye colour (environmental)",
+        "Dyed hair colour (inherited) and natural skin tone (environmental)",
+        "Language spoken (inherited) and blood group (environmental)"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "In 1952, Rosalind Franklin's team in London made a crucial contribution to understanding DNA by using which technique to image the molecule?",
+      "options": [
+        "Electron microscopy",
+        "Light microscopy",
+        "X-ray diffraction",
+        "Magnetic resonance imaging (MRI)"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    }
+  ]
+}
