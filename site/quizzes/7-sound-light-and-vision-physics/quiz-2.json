@@ -1,0 +1,171 @@
+{
+  "unitKey": "7Sound, light and visionPhysics",
+  "generatedAt": "2026-08-11T09:23:02.189304+00:00",
+  "questions": [
+    {
+      "question": "Which of the following describes a luminous object?",
+      "options": [
+        "An object that gives out its own light",
+        "An object that only reflects light from other sources",
+        "An object that allows light to pass directly through it",
+        "An object that absorbs all light that falls on it"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When light enters the human eye, through which part does it enter, and where is it detected?",
+      "options": [
+        "Enters through the retina and is detected by the pupil",
+        "Enters through the pupil and is detected by the retina",
+        "Enters through the iris and is detected by the lens",
+        "Enters through the lens and is detected by the cornea"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is an echo, and how is it produced?",
+      "options": [
+        "An echo is when sound is absorbed completely by a soft surface.",
+        "An echo is when a sound is heard again after reflecting off a hard surface and travelling back.",
+        "An echo is when sound waves bend around a corner in an empty room.",
+        "An echo is when sound travels faster through a solid than through air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why do soft surfaces absorb a large amount of sound?",
+      "options": [
+        "Because they reflect sound waves in many regular directions.",
+        "Because sound waves transfer energy by making the particles in the soft surface vibrate.",
+        "Because soft materials contain no particles, creating a small vacuum.",
+        "Because the strong forces between their particles prevent any movement."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "In a reflection diagram, what is the 'normal'?",
+      "options": [
+        "A line drawn parallel to the mirror's surface",
+        "An imaginary line drawn at 90° to the point of reflection",
+        "The path that the incoming light ray takes",
+        "The angle between the mirror and the reflected ray"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "If a ray of light hits a flat mirror with an angle of incidence of 35° to the normal, what is the angle of reflection?",
+      "options": [
+        "35° on the same side of the normal",
+        "55° on the other side of the normal",
+        "35° on the other side of the normal",
+        "90° to the mirror surface"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "If you stand 2 metres in front of a flat mirror, how far behind the mirror does your reflection appear to be?",
+      "options": [
+        "1 metre",
+        "2 metres",
+        "4 metres",
+        "It appears right on the surface of the mirror"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "When you look at your reflection in a plain mirror, how does the image appear?",
+      "options": [
+        "Upside down and laterally inverted",
+        "Right way up and not inverted at all",
+        "Right way up but laterally inverted",
+        "Upside down and not inverted"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What is the primary difference between transparent and opaque objects?",
+      "options": [
+        "Transparent objects transmit light through them, whereas opaque objects do not.",
+        "Transparent objects reflect all light, whereas opaque objects absorb all light.",
+        "Transparent objects scatter light, whereas opaque objects let it pass cleanly.",
+        "Transparent objects emit their own light, whereas opaque objects do not."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "How is a shadow formed?",
+      "options": [
+        "By a transparent object letting light pass through to a single point.",
+        "When an opaque object blocks light, leaving an unlit area in its shape.",
+        "When light waves bend around a soft object and cancel each other out.",
+        "By regular reflection of light off a highly polished surface."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "How does the amplitude of a vibration affect the sound produced?",
+      "options": [
+        "A greater amplitude results in a higher pitch sound.",
+        "A greater amplitude results in a louder sound.",
+        "A smaller amplitude results in a louder sound.",
+        "Amplitude only affects the speed of the sound, not how loud it is."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What is frequency, and how does it relate to the pitch of a sound?",
+      "options": [
+        "It is a measure of vibration size; a higher frequency produces a louder sound.",
+        "It is a measure of how often vibrations occur; a greater frequency produces a higher pitch.",
+        "It is a measure of sound speed; a lower frequency produces a faster sound.",
+        "It is the distance a sound wave travels; a lower frequency produces a lower volume."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why does sound travel faster through liquids than through gases?",
+      "options": [
+        "The particles in liquids are closer together, so vibrations are passed on more easily.",
+        "Liquid particles are held by much stronger forces than solids.",
+        "Gases absorb all vibration energy, preventing sound from travelling.",
+        "Liquids are much warmer than gases on average, speeding up the sound waves."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Through which state of matter does sound travel the fastest, and why?",
+      "options": [
+        "Gases, because the particles are far apart and can move freely without hitting each other.",
+        "Solids, because strong attractive forces between particles mean many vibrate when one does.",
+        "Liquids, because the particles can slide past each other easily to carry the sound.",
+        "A vacuum, because there are no particles to block the path of the sound wave."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Why is it impossible for sound to travel through a vacuum?",
+      "options": [
+        "Because a vacuum is too cold for sound waves to exist.",
+        "Because there are no particles in a vacuum to vibrate and pass on the sound wave.",
+        "Because light travels too fast in a vacuum and blocks the sound.",
+        "Because the gravitational forces in a vacuum pull the sound waves downwards."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "unitKey": "7Sound, light and visionPhysics",
+  "generatedAt": "2026-08-11T09:22:05.308669+00:00",
+  "questions": [
+    {
+      "question": "Which of the following is the defining characteristic of a luminous object?",
+      "options": [
+        "It reflects light from other sources very well.",
+        "It gives out its own light.",
+        "It lets light pass directly through it.",
+        "It absorbs all light that falls on it."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How does the reflection of light from a mirror-like surface differ from that of a rough brick wall?",
+      "options": [
+        "Only the mirror-like surface reflects light, while the brick wall absorbs all light.",
+        "The mirror-like surface reflects light in a regular way, whereas the brick wall scatters light.",
+        "The mirror-like surface absorbs light, whereas the brick wall reflects light in a regular way.",
+        "The brick wall reflects light in a regular way, whereas the mirror-like surface scatters light."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What must happen for a person to see a non-luminous object like a book?",
+      "options": [
+        "Light from the eye must travel to the book and illuminate it.",
+        "Light emitted or reflected from the book must enter the eye.",
+        "The book must absorb all light that strikes its surface.",
+        "The book must bend light around it so it reaches the retina."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Through which part of the eye does light enter, and where is it detected?",
+      "options": [
+        "Enters through the retina and is detected by the pupil.",
+        "Enters through the pupil and is detected by the retina.",
+        "Enters through the iris and is detected by the lens.",
+        "Enters through the pupil and is detected by the optic nerve."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why can a laser beam travelling through clean, dust-free air usually not be seen from the side?",
+      "options": [
+        "The laser beam is moving too fast for human eyes to detect.",
+        "The light does not hit any particles to reflect or scatter it towards the eye.",
+        "The air particles absorb all of the light from the laser beam.",
+        "Clean air acts as a mirror and reflects the beam away from the eye."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is an echo?",
+      "options": [
+        "A sound that has been absorbed by a soft surface.",
+        "A sound that is heard again after reflecting off a hard surface and travelling back.",
+        "A sound that has its frequency increased when passing through water.",
+        "A vibration that is too fast to be heard by human ears."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why do smooth, flat walls produce clearer echoes than highly irregular rock walls?",
+      "options": [
+        "Smooth surfaces absorb all sound waves, creating silent zones.",
+        "Irregular surfaces reflect sound in many directions, spreading it out, whereas smooth surfaces help produce echoes.",
+        "Smooth surfaces increase the frequency of the sound waves.",
+        "Irregular surfaces act like mirrors and reflect all sound in a single, regular direction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why do soft materials absorb sound waves effectively?",
+      "options": [
+        "Sound waves transfer energy by making the particles in the soft materials vibrate.",
+        "Soft materials reflect sound waves in a single, regular direction.",
+        "The particles in soft materials are held by extremely strong forces that stop all movement.",
+        "Soft materials speed up sound waves until they are too fast to hear."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "In light reflection, what is the 'normal'?",
+      "options": [
+        "A line drawn parallel to the mirror surface.",
+        "An imaginary line drawn at 90 degrees to the point of reflection.",
+        "The path that the incoming light ray takes.",
+        "The path that the reflected light ray takes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "If a ray of light hits a flat mirror with an angle of incidence of 35 degrees, what is the angle of reflection?",
+      "options": [
+        "55 degrees, on the same side of the normal.",
+        "35 degrees, on the other side of the normal.",
+        "90 degrees, along the normal.",
+        "0 degrees, back along the path of incidence."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "If you stand 2 metres in front of a flat mirror, where does your reflection appear to be?",
+      "options": [
+        "4 metres in front of the mirror.",
+        "2 metres behind the mirror, directly opposite you.",
+        "1 metre behind the mirror, shifted to the left.",
+        "Right on the surface of the mirror."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "When you look at your reflection in a plain vertical mirror, how is the image described?",
+      "options": [
+        "Upside down and laterally inverted.",
+        "Right way up but laterally inverted.",
+        "Upside down and not laterally inverted.",
+        "Right way up and not laterally inverted."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How do transparent objects differ from opaque objects regarding light?",
+      "options": [
+        "Transparent objects absorb light, whereas opaque objects transmit it.",
+        "Transparent objects transmit light, whereas opaque objects do not let light travel through them.",
+        "Transparent objects reflect light regularly, whereas opaque objects transmit it.",
+        "Transparent objects create shadows, whereas opaque objects do not."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What is a shadow?",
+      "options": [
+        "An area where light is bent around an object.",
+        "An unlit area in the shape of an object that is blocking light.",
+        "A region where light rays are reflected back to their source.",
+        "A direct image of the light source itself."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What is amplitude, and how does it affect a sound?",
+      "options": [
+        "It is the number of vibrations per second; greater amplitude makes a higher pitch.",
+        "It is a measure of the size of a vibration; greater amplitude makes a louder sound.",
+        "It is the speed of the sound wave; greater amplitude makes the sound travel faster.",
+        "It is a measure of the size of a vibration; greater amplitude makes a quieter sound."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Which of the following correctly describes frequency and its effect on sound?",
+      "options": [
+        "Frequency is how loud a sound is; greater frequency makes a louder sound.",
+        "Frequency measures how often vibrations occur; greater frequency makes a higher pitch.",
+        "Frequency measures the distance of a vibration; greater frequency makes a lower pitch.",
+        "Frequency is how fast a sound travels; greater frequency means it travels faster through solids."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why is it impossible for sound to travel through a vacuum?",
+      "options": [
+        "A vacuum has too much air pressure which stops vibrations.",
+        "Sound waves are vibrations of particles, and a vacuum contains no particles.",
+        "A vacuum absorbs all sound energy and converts it into light.",
+        "Sound waves travel too fast in a vacuum to be detected."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    }
+  ]
+}

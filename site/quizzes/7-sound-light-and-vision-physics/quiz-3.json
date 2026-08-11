@@ -1,0 +1,193 @@
+{
+  "unitKey": "7Sound, light and visionPhysics",
+  "generatedAt": "2026-08-11T09:24:02.181622+00:00",
+  "questions": [
+    {
+      "question": "Which of the following describes a luminous object?",
+      "options": [
+        "An object that absorbs all light hitting it",
+        "An object that gives out its own light",
+        "An object that reflects light from other sources",
+        "An object that lets light pass through it"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How does a mirror-like surface reflect light compared to other, rougher surfaces?",
+      "options": [
+        "It absorbs light instead of reflecting it",
+        "It scatters light in all directions",
+        "It reflects light in a regular way",
+        "It bends light as it passes through"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Through which part of the eye does light enter, and where is it detected?",
+      "options": [
+        "Enters through the retina and is detected by the pupil",
+        "Enters through the pupil and is detected by the retina",
+        "Enters through the iris and is detected by the lens",
+        "Enters through the cornea and is detected by the optic nerve"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Under what condition can a beam of light traveling through the air be seen?",
+      "options": [
+        "Only if the light hits something and reflects or scatters towards an eye",
+        "Only if the light is travelling in a complete vacuum",
+        "Only if the light beam is extremely narrow",
+        "Only if the light has a very high frequency"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is an echo?",
+      "options": [
+        "A sound that travels faster than the speed of light",
+        "A sound heard again after reflecting off a hard surface and travelling back",
+        "A sound that is absorbed completely by a soft material",
+        "A sound that has its frequency increased by a barrier"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why do soft surfaces absorb a large amount of sound?",
+      "options": [
+        "They reflect the sound waves in a single direction",
+        "They increase the speed of the sound waves",
+        "The sound waves transfer energy by making the particles in them vibrate",
+        "They contain a vacuum which prevents sound from travelling"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "In light reflection diagrams, what is the 'normal'?",
+      "options": [
+        "A line drawn parallel to the reflecting surface",
+        "An imaginary line drawn at 90 degrees to the point of reflection",
+        "The actual path that the incoming light ray takes",
+        "The angle between the mirror and the reflected ray"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "If a ray of light hits a flat mirror with an angle of incidence of 35 degrees, what is the angle of reflection?",
+      "options": [
+        "55 degrees, on the same side of the normal",
+        "35 degrees, on the other side of the normal",
+        "90 degrees, along the normal line",
+        "145 degrees, on the other side of the normal"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Where does the reflection of an object in a flat mirror appear to be located?",
+      "options": [
+        "Slightly closer to the mirror than the actual object is",
+        "Directly opposite the object, at the same distance behind the mirror as the object is in front",
+        "Twice as far behind the mirror as the object is in front",
+        "Right on the surface of the mirror glass"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which of the following correctly describes the image seen in a flat mirror?",
+      "options": [
+        "It is upside down and laterally inverted",
+        "It is the right way up and laterally inverted",
+        "It is upside down and not laterally inverted",
+        "It is the right way up and not laterally inverted"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which statement best describes how light travels?",
+      "options": [
+        "In straight lines at an extremely high speed, spreading out as it travels",
+        "In curved lines at a relatively slow speed, staying in a tight beam",
+        "In straight lines at the same speed as sound, without spreading",
+        "In waves that require a solid medium to travel through"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is a shadow?",
+      "options": [
+        "An area of bright light focused by a lens",
+        "A reflection of an object on a rough surface",
+        "An unlit area in the shape of an object that is blocking light",
+        "The path of light as it bends around a transparent obstacle"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "How does the amplitude of a sound vibration affect what we hear?",
+      "options": [
+        "A greater amplitude results in a higher pitch",
+        "A greater amplitude results in a louder sound",
+        "A greater amplitude results in a quieter sound",
+        "A greater amplitude results in a lower pitch"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What is frequency in relation to sound, and how does it affect pitch?",
+      "options": [
+        "It measures the size of a vibration; greater frequency means a louder sound",
+        "It measures how often vibrations occur; greater frequency means a higher pitch",
+        "It measures how far a sound travels; greater frequency means a lower pitch",
+        "It measures the speed of particles; greater frequency means a quieter sound"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why does sound travel fastest through solids?",
+      "options": [
+        "Because solid particles are very far apart and do not collide",
+        "Because solids have no attractive forces between their particles",
+        "Due to strong attractive forces between particles, so many vibrate when one does",
+        "Because sound waves are converted into light waves inside solids"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Why is it impossible for sound to travel through a vacuum?",
+      "options": [
+        "A vacuum absorbs all vibrations and turns them into light",
+        "Sound waves are too fast to be contained in a vacuum",
+        "Sound waves are caused by particle vibrations, and a vacuum has no particles",
+        "The temperature of a vacuum is too low for sound to travel"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Which of the following is true about how sound travels through the air?",
+      "options": [
+        "Air particles travel all the way from the sound source to the listener's ear",
+        "The pattern of vibrating particles creates a sound wave, but the air particles do not travel along with it",
+        "Sound waves travel by shifting vacuum gaps between the air particles",
+        "Air particles are permanently pushed away from the source and never bounce back"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    }
+  ]
+}
