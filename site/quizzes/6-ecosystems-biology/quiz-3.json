@@ -1,0 +1,182 @@
+{
+  "unitKey": "6EcosystemsBiology",
+  "generatedAt": "2026-08-11T09:18:48.407325+00:00",
+  "questions": [
+    {
+      "question": "Which of the following is a common adaptation that helps prey animals avoid being caught by predators?",
+      "options": [
+        "Having large, sharp tearing teeth",
+        "Developing bright colors to attract attention",
+        "Being nocturnal to stay hidden in the dark",
+        "Having a highly developed ability to run fast in open fields"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which physical adaptation is most characteristic of a predator trying to locate and catch prey?",
+      "options": [
+        "Excellent eyesight for spotting targets from a distance",
+        "Dull-colored fur for hiding from larger herbivores",
+        "Edible seeds that can be easily dispersed",
+        "The ability to produce toxic chemicals to deter insects"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What does it mean when a toxic substance in an ecosystem is described as \"persistent\"?",
+      "options": [
+        "It quickly dissolves in water and becomes harmless.",
+        "It remains in the environment for a long time without breaking down.",
+        "It is rapidly excreted by any organism that consumes it.",
+        "It only affects the lowest level of the food chain."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which group of organisms in a food chain is typically most severely damaged by the bioaccumulation of toxic substances?",
+      "options": [
+        "Primary producers",
+        "Decomposers",
+        "Top predators",
+        "Herbivores"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A habitat contains both biotic and abiotic components. Which of the following represents an abiotic part of a habitat?",
+      "options": [
+        "Microorganisms in the soil",
+        "Non-living physical factors like water and temperature",
+        "Small insects living under rocks",
+        "Decaying leaves on the forest floor"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "In an ecosystem, which organisms are classified as producers because they can make their own food?",
+      "options": [
+        "Fungi that decompose leaf litter",
+        "Herbivorous insects that eat leaves",
+        "Plants and some specialized microorganisms",
+        "Carnivorous animals that hunt prey"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why are humans and other animals classified as consumers in a food chain?",
+      "options": [
+        "They synthesize their own food using sunlight.",
+        "They get their food by consuming other organisms.",
+        "They release energy directly into the soil for plants.",
+        "They break down rocks to absorb minerals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What do the arrows in a food chain diagram specifically represent?",
+      "options": [
+        "The direction of movement of the animals",
+        "The transfers of biomass from one organism to another",
+        "The release of oxygen into the atmosphere",
+        "The path of water through the ecosystem"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is represented by a food web diagram?",
+      "options": [
+        "The total number of individual organisms in a single habitat",
+        "Several interconnected food chains within a community",
+        "The stages of decomposition of a single dead organism",
+        "The movement of water through different living things"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What process must occur for plants to produce edible seeds and fruits, involving the transfer of pollen from the anthers to the stigma?",
+      "options": [
+        "Photosynthesis",
+        "Transpiration",
+        "Pollination",
+        "Germination"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "How do plants and animals demonstrate interdependence regarding reproduction and spreading offspring?",
+      "options": [
+        "Plants provide animals with shelter in exchange for water.",
+        "Plants rely on insects for pollination and birds for seed dispersal.",
+        "Animals depend on plants to purify all the drinking water.",
+        "Plants rely on birds to build nests that protect plant roots."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Why are pollinators crucial for human food security?",
+      "options": [
+        "They directly produce meat and dairy products for humans.",
+        "They ensure there is enough food to feed the human population by helping crops reproduce.",
+        "They filter harmful chemicals out of the agricultural soil.",
+        "They eat agricultural pests that would otherwise destroy crops."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What is meant by the term \"biodiversity\" in an ecosystem?",
+      "options": [
+        "The total mass of all living organisms in an area",
+        "The number of different species that live in a place",
+        "The speed at which energy is transferred up a food chain",
+        "The rate of reproduction among a single species of plant"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "How can the genetic diversity of plants be conserved for the future?",
+      "options": [
+        "By only growing a single crop species worldwide",
+        "By using large amounts of chemical fertilizers",
+        "Through the use of seed banks and other gene banks",
+        "By removing all insects from agricultural fields"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "How do certain pesticides help crops grow by targeting other plants, such as weeds?",
+      "options": [
+        "They directly fertilize the soil surrounding the crops.",
+        "They kill competing plants so crops have better access to resources.",
+        "They accelerate the pollination process of the crop plants.",
+        "They increase the genetic diversity of the crops."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "In what ways do humans have a negative impact on biodiversity?",
+      "options": [
+        "By establishing nature reserves and seed banks",
+        "By practicing crop rotation and organic farming",
+        "Through habitat destruction and environmental pollution",
+        "By encouraging the growth of native plant species"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    }
+  ]
+}

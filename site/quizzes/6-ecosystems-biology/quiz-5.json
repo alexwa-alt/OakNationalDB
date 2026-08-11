@@ -1,0 +1,171 @@
+{
+  "unitKey": "6EcosystemsBiology",
+  "generatedAt": "2026-08-11T09:20:45.336742+00:00",
+  "questions": [
+    {
+      "question": "Which of the following is a common adaptation that helps a prey animal avoid being caught by predators?",
+      "options": [
+        "Having large, sharp claws for hunting",
+        "Being nocturnal so they are active in the dark",
+        "Having bright, highly visible colors",
+        "Emitting loud sounds to signal their location to others"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which set of adaptations is most commonly found in predators to help them capture their food?",
+      "options": [
+        "Excellent camouflage and being very slow-moving",
+        "Big teeth, good eyesight, and the ability to run fast",
+        "The ability to produce edible seeds and store water in stems",
+        "Soft bodies, lack of eyes, and feeding on decaying leaves"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What happens to persistent toxic substances when an organism containing them is eaten by a predator?",
+      "options": [
+        "They are instantly broken down into harmless nutrients.",
+        "They are passed up the food chain to the predator.",
+        "They are excreted completely without entering the food chain.",
+        "They block the transfer of all biomass entirely."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which group of organisms is typically most severely damaged by the bioaccumulation of toxic substances in an ecosystem?",
+      "options": [
+        "Primary producers",
+        "Decomposers",
+        "Top predators",
+        "Microorganisms"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What components make up an ecosystem?",
+      "options": [
+        "Only the living animals that hunt each other",
+        "Only the physical factors like temperature and water",
+        "Living organisms interacting and depending on each other, along with their physical environment",
+        "Just the plants and the soil they grow in"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A habitat contains both biotic and abiotic parts. What do these terms mean?",
+      "options": [
+        "Biotic means non-living, and abiotic means living parts",
+        "Biotic means living parts, and abiotic means non-living parts",
+        "Biotic means large organisms, and abiotic means microscopic organisms",
+        "Biotic means predators, and abiotic means prey"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following is the correct definition of producers in an ecosystem?",
+      "options": [
+        "Organisms that must hunt other animals to survive",
+        "Organisms that can make their own food, such as plants and some microorganisms",
+        "Animals that feed only on dead organic matter",
+        "Microscopic organisms that only consume other living things"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How do consumers, such as humans and other animals, obtain their food?",
+      "options": [
+        "By absorbing sunlight directly through their skin",
+        "By making their own food from carbon dioxide and water",
+        "By eating other organisms because they cannot make their own food",
+        "By taking in mineral nutrients directly from the soil"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In a food chain diagram, what do the arrows pointing from one organism to another represent?",
+      "options": [
+        "The direction of movement of the animals",
+        "The transfers of biomass between populations",
+        "The evolutionary relationship between the species",
+        "The amount of sunlight received by each organism"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What does a food web diagram represent in an ecosystem?",
+      "options": [
+        "A single, straight-line feeding pathway starting with a predator",
+        "The physical migration paths of birds during winter",
+        "Several interconnected food chains within a community of organisms",
+        "The genetic relationships between different species of plants"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What occurs during the process of pollination in plants?",
+      "options": [
+        "Seeds are dispersed by wind to new locations",
+        "Water is absorbed by the roots and transported to the leaves",
+        "Pollen is transferred from the anthers of flowers to the stigma",
+        "Fruit is digested by animals to release nutrients"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why are pollinators so important for human food security?",
+      "options": [
+        "They directly destroy agricultural pests that eat crops.",
+        "They help ensure there is enough food to feed the human population by aiding plant reproduction.",
+        "They prevent soil erosion in farming areas.",
+        "They purify the water used to irrigate crops."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What is meant by the term biodiversity?",
+      "options": [
+        "The total number of individual organisms of a single species in an area",
+        "The number of different species that live in a place",
+        "The speed at which a population grows in a habitat",
+        "The physical size of the largest animals in an ecosystem"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "How can genetic diversity of plants be conserved for the future?",
+      "options": [
+        "By using stronger chemical fertilizers on farms",
+        "By removing all predators from natural habitats",
+        "Through seed banks and other forms of gene banks",
+        "By encouraging the rapid growth of weedy plant species"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "How do certain pesticides help crops grow by targeting other plants?",
+      "options": [
+        "They increase the amount of sunlight the crop receives by making weeds grow taller.",
+        "They kill competing plants (weeds) so the crops have less competition to grow.",
+        "They convert weeds into high-quality chemical fertilizers.",
+        "They attract insect pollinators specifically to the crops."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    }
+  ]
+}
