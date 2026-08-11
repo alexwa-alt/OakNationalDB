@@ -1,0 +1,182 @@
+{
+  "unitKey": "6EcosystemsBiology",
+  "generatedAt": "2026-08-11T09:16:44.238646+00:00",
+  "questions": [
+    {
+      "question": "Why do predators and prey have specialized physical or behavioral features?",
+      "options": [
+        "To allow them to hibernate during the winter months",
+        "To help predators capture prey and help prey avoid being hunted",
+        "To ensure they can survive without any water or oxygen",
+        "To help them transition from producers into consumers"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following is a common adaptation that helps prey animals avoid being caught by predators?",
+      "options": [
+        "Having large, sharp tearing teeth",
+        "Being active only during the day with bright, visible colors",
+        "Having good camouflage or being nocturnal",
+        "Developing the ability to photosynthesize"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which set of features represents common adaptations found in predators to help them catch their food?",
+      "options": [
+        "Soft bodies, slow movement, and dull senses",
+        "Big teeth, good eyesight, and the ability to run fast",
+        "Green leaves, deep roots, and seed production",
+        "Bright warning colors, small size, and living underground"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What happens to persistent toxic substances when an organism containing them is eaten by a predator?",
+      "options": [
+        "They are completely broken down and rendered harmless by digestion.",
+        "They are excreted immediately without entering the predator's body.",
+        "They are passed up the food chain into the body of the predator.",
+        "They are converted into useful nutrients and energy."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which group of organisms in an ecosystem is typically most severely damaged by the bioaccumulation of toxic substances?",
+      "options": [
+        "Producers at the start of the food chain",
+        "Decomposers in the soil",
+        "Primary consumers that feed on plants",
+        "Top predators at the end of the food chain"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What components make up a habitat where plants and animals live?",
+      "options": [
+        "Only living (biotic) organisms",
+        "Only non-living (abiotic) physical factors",
+        "Both living (biotic) and non-living (abiotic) parts",
+        "Only human-made structures and concrete foundations"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following describes the role of producers in an ecosystem?",
+      "options": [
+        "They must hunt other animals to obtain energy.",
+        "They make their own food, and include plants and some microorganisms.",
+        "They break down dead matter to return nutrients to the soil.",
+        "They feed exclusively on fruits and seeds produced by other plants."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why are animals, including humans, classified as consumers?",
+      "options": [
+        "Because they can produce food using sunlight and carbon dioxide.",
+        "Because they cannot make their own food and must eat other organisms.",
+        "Because they release oxygen back into the atmosphere for plants.",
+        "Because they convert minerals directly into biomass without eating."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In a food chain diagram, what do the arrows pointing from one organism to another represent?",
+      "options": [
+        "The direction of movement and migration of the species",
+        "The transfers of biomass from one organism to the next",
+        "The relative physical size of each population",
+        "The amount of sunlight absorbed by each level"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What does a food web diagram represent in an ecosystem?",
+      "options": [
+        "The physical pathways animals walk to find water holes",
+        "A single, linear sequence of who eats whom in a habitat",
+        "Several interconnected food chains within a community of organisms",
+        "The genetic relationships and evolutionary history of species"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why do all consumers ultimately depend on producers for survival?",
+      "options": [
+        "Producers release the carbon dioxide needed for consumers to breathe.",
+        "Producers make all of the food for the rest of the food chain.",
+        "Producers act as shelter and protection from all weather elements.",
+        "Producers control the temperature of the local environment."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is pollination, which leads to the production of edible seeds and fruits in plants?",
+      "options": [
+        "The absorption of water and minerals through the root system",
+        "The release of oxygen from leaves during photosynthesis",
+        "The transfer of pollen from the anthers of flowers to the stigma",
+        "The dispersal of mature seeds by wind currents"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why are pollinators vital for human food security?",
+      "options": [
+        "They directly destroy weeds that compete with agricultural crops.",
+        "They ensure there is enough food to feed the human population by helping crops reproduce.",
+        "They purify drinking water reservoirs through their life cycles.",
+        "They add essential nitrates and minerals directly to the agricultural soil."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What is meant by the term 'biodiversity'?",
+      "options": [
+        "The total weight of all living organisms in a specific area",
+        "The rate at which plants produce biomass using photosynthesis",
+        "The number of different species that live in a place",
+        "The variation in climate conditions across different seasons"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "How can genetic diversity of plant species be preserved for the future?",
+      "options": [
+        "By increasing the usage of chemical pesticides on farms",
+        "Through seed banks and other forms of gene banks",
+        "By replacing natural habitats with monoculture crop fields",
+        "By introducing foreign predator species into local ecosystems"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "How do insect-targeting pesticides help crops grow more efficiently?",
+      "options": [
+        "By increasing the amount of sunlight the crop leaves can absorb",
+        "By directly supplying nutrients like nitrogen to the soil",
+        "By killing insects so that the crops are not being eaten",
+        "By encouraging insect pollinators to visit the crop flowers"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 35
+    }
+  ]
+}

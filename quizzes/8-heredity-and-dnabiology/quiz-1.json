@@ -1,0 +1,182 @@
+{
+  "unitKey": "8Heredity and DNABiology",
+  "generatedAt": "2026-08-11T09:27:34.875305+00:00",
+  "questions": [
+    {
+      "question": "What is the genetic material of living organisms made of?",
+      "options": [
+        "Proteins",
+        "DNA",
+        "Carbohydrates",
+        "Lipids"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which statement best describes the structure of a DNA molecule?",
+      "options": [
+        "A single chain of proteins wrapped around lipid molecules",
+        "A long chemical molecule made of two chains of smaller units joined together",
+        "A triple-stranded carbohydrate chain with metallic bonds",
+        "A short, circular ring of amino acids with no links"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What term is used to describe the entire collection of DNA within a cell?",
+      "options": [
+        "The genotype",
+        "The proteome",
+        "The genome",
+        "The chromosome"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How are the two chains in a DNA molecule arranged?",
+      "options": [
+        "They are spiralled around each other in a double helix with cross-links",
+        "They lie completely flat and parallel without any connections",
+        "They are folded into a spherical shape with a single hollow core",
+        "They form a single straight line with branches at each end"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why can we sometimes see DNA during an extraction experiment without using a microscope?",
+      "options": [
+        "Individual DNA molecules are naturally large enough to see with the naked eye",
+        "The extraction process turns the DNA into a bright blue glowing liquid",
+        "Clumps of DNA can be seen when a large amount of it is extracted together",
+        "The DNA reacts with water to form solid, colorful crystals"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What are the tightly-packed structures of wound-up DNA in a genome called?",
+      "options": [
+        "Ribosomes",
+        "Mitochondria",
+        "Chromosomes",
+        "Chloroplasts"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Where are the 23 pairs of chromosomes stored in a human body cell?",
+      "options": [
+        "In the cytoplasm",
+        "In the cell wall",
+        "In the nucleus",
+        "In the vacuole"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What are the specific sections of DNA in chromosomes that store instructions for inherited features called?",
+      "options": [
+        "Genes",
+        "Proteins",
+        "Nuclei",
+        "Cells"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is the main function of non-coding DNA sections?",
+      "options": [
+        "They store instructions that control when gene information is used",
+        "They directly build the cell membrane",
+        "They act as a backup copy of the cell's energy source",
+        "They prevent the DNA from dissolving in water"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "In which part of plant, animal, and fungi cells is the genetic material stored?",
+      "options": [
+        "The cytoplasm",
+        "The cell membrane",
+        "The vacuole",
+        "The nucleus"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Where do bacteria store their genetic material?",
+      "options": [
+        "In the nucleus",
+        "In the cytoplasm",
+        "In the mitochondria",
+        "In the chloroplast"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What biological term describes the process of organisms passing on features to their offspring?",
+      "options": [
+        "Heredity",
+        "Respiration",
+        "Photosynthesis",
+        "Metabolism"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which of the following is true about how offspring compare to their parents and siblings?",
+      "options": [
+        "Offspring are always completely identical to one of their parents",
+        "Offspring usually vary and are not identical to their parents or one another, except for identical twins",
+        "Offspring are always completely identical to all of their siblings",
+        "Offspring show no resemblance at all to their parents"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which types of features can be inherited by offspring?",
+      "options": [
+        "Only features caused by instructions in the genetic material",
+        "Only features acquired through heavy physical exercise",
+        "Any features caused by the surrounding environment",
+        "All features caused by diet and lifestyle choices"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Why can a person not pass a scar they received from an accident on to their children?",
+      "options": [
+        "Scars are kept in the nucleus but are deleted during reproduction",
+        "Features caused by lifestyle and the environment cannot be inherited",
+        "Scars are dominant traits that skip a generation",
+        "The genetic material is temporarily damaged by scars"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What technique did Rosalind Franklin's team use in 1952 to produce an image of a DNA molecule?",
+      "options": [
+        "Electron microscopy",
+        "Light photography",
+        "X-ray imaging",
+        "Magnetic resonance imaging"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "unitKey": "8Heredity and DNABiology",
+  "generatedAt": "2026-08-11T09:28:31.874766+00:00",
+  "questions": [
+    {
+      "question": "What chemical substance is genetic material made of?",
+      "options": [
+        "Protein",
+        "DNA",
+        "Glucose",
+        "Starch"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following best describes the chemical structure of a DNA molecule?",
+      "options": [
+        "A single circular loop of proteins",
+        "Three interlocking rings of sugar",
+        "A long chemical molecule made of two chains of smaller chemical units joined together",
+        "A short, branched chain of lipid molecules"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What term is used to describe all of the DNA found in a cell?",
+      "options": [
+        "The genome",
+        "The cytoplasm",
+        "The nucleus",
+        "The gene pool"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What shape do the two chemical chains of DNA form when they spiral around one another with links across the middle?",
+      "options": [
+        "A triple helix",
+        "A double helix",
+        "A single strand",
+        "A folded sheet"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "While individual DNA molecules cannot usually be seen with the unaided eye, under what condition can DNA become visible without a microscope?",
+      "options": [
+        "When it is stained with bright food dye",
+        "When a lot of it is extracted and clumps together",
+        "When it is heated to boiling point",
+        "When it is dissolved in pure water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Into what tightly-packed structures is the wound-up DNA of a genome organized?",
+      "options": [
+        "Ribosomes",
+        "Chloroplasts",
+        "Chromosomes",
+        "Vacuoles"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How many pairs of chromosomes are typically stored in the nucleus of a human body cell?",
+      "options": [
+        "46 pairs",
+        "23 pairs",
+        "12 pairs",
+        "8 pairs"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What are the sections of DNA in chromosomes called that store instructions for inherited features and life processes?",
+      "options": [
+        "Ribosomes",
+        "Enzymes",
+        "Genes",
+        "Hormones"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is the main role of the non-coding sections of DNA in a chromosome?",
+      "options": [
+        "They contain instructions that control when the information in genes is used",
+        "They store the codes for building eye colour",
+        "They carry out respiration in the cytoplasm",
+        "They form the outer protective cell wall"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "In plant, animal, and fungi cells, where is the genetic material stored?",
+      "options": [
+        "In the cell membrane",
+        "In the cytoplasm",
+        "In the vacuole",
+        "In the nucleus"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Where do bacteria, which lack a nucleus, store their genetic material?",
+      "options": [
+        "In the cell wall",
+        "In the cytoplasm",
+        "In the chloroplast",
+        "In the mitochondria"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is the biological process called where organisms pass on physical and life process features to their offspring?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Heredity",
+        "Evolution"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Except for identical twins, what is usually true about the appearance of offspring?",
+      "options": [
+        "They are completely identical to only one parent",
+        "They vary and are not identical to their parents or one another",
+        "They have completely different species features",
+        "They share zero features with their siblings"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which types of features cannot be passed on to offspring through heredity?",
+      "options": [
+        "Features caused by lifestyle and the environment",
+        "Features stored in the chromosomes",
+        "Features coded by genes in the nucleus",
+        "Features inherited from grandparents"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Which of the following pairs correctly identifies a genetically inherited feature and an environmentally caused feature?",
+      "options": [
+        "Eye colour (genetic) and scars (environmental)",
+        "Hair dye (genetic) and blood group (environmental)",
+        "Tattoos (genetic) and natural skin colour (environmental)",
+        "Height (environmental only) and finger length (environmental only)"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "In 1952, Rosalind Franklin's team in London used which technique to produce an image of a DNA molecule?",
+      "options": [
+        "Light microscopy",
+        "X-rays",
+        "Ultrasound",
+        "Magnetic resonance imaging"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Which scientists used the X-ray picture evidence from Franklin's group to complete a model describing the double helix structure of DNA?",
+      "options": [
+        "Gregor Mendel and Charles Darwin",
+        "Watson and Crick",
+        "Robert Hooke and Louis Pasteur",
+        "Isaac Newton and Galileo Galilei"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    }
+  ]
+}

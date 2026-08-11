@@ -1,0 +1,182 @@
+{
+  "unitKey": "8Heredity and DNABiology",
+  "generatedAt": "2026-08-11T09:30:34.503304+00:00",
+  "questions": [
+    {
+      "question": "What chemical substance is the genetic material in living organisms made of?",
+      "options": [
+        "Protein",
+        "Carbohydrate",
+        "DNA",
+        "Lipid"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What scientific term is used to describe the entire collection of DNA found within a cell?",
+      "options": [
+        "Genetics",
+        "Chromosome",
+        "Genome",
+        "Nucleus"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following best describes the shape of a DNA molecule?",
+      "options": [
+        "A single straight chain",
+        "A double helix with cross-links",
+        "A triple-stranded sphere",
+        "A branched chemical ring"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why can we sometimes see DNA with the unaided eye during a school extraction experiment?",
+      "options": [
+        "DNA molecules are naturally larger than animal cells",
+        "The extraction process dyes the DNA a bright red colour",
+        "Large clumps of DNA are formed when many molecules are extracted together",
+        "A microscope is always required to see any extracted DNA"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "In what tightly-packed structures is a cell's genome stored?",
+      "options": [
+        "Chromosomes",
+        "Ribosomes",
+        "Chloroplasts",
+        "Plasmids"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How many pairs of chromosomes are typically found in the nucleus of a normal human body cell?",
+      "options": [
+        "46 pairs",
+        "23 pairs",
+        "12 pairs",
+        "8 pairs"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What are the specific sections of DNA that contain instructions for inherited features called?",
+      "options": [
+        "Proteins",
+        "Genes",
+        "Chromosomes",
+        "Genomes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is the main function of non-coding DNA?",
+      "options": [
+        "It stores instructions for building structural proteins",
+        "It controls when the information in genes is used",
+        "It converts sugars into usable cellular energy",
+        "It is waste material with no cellular function"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Where is the genetic material stored in plant, animal, and fungi cells?",
+      "options": [
+        "In the cytoplasm",
+        "In the cell membrane",
+        "In the vacuole",
+        "In the nucleus"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Where do bacteria, which lack a nucleus, store their genetic material?",
+      "options": [
+        "In the cell wall",
+        "In the cytoplasm",
+        "In the mitochondria",
+        "In the vacuole"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is the biological process called when features are passed from parents to their offspring?",
+      "options": [
+        "Heredity",
+        "Respiration",
+        "Variation",
+        "Adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which of the following is true about offspring from sexual reproduction (excluding identical twins)?",
+      "options": [
+        "They are always completely identical to one of their parents",
+        "They usually vary and are not identical to their parents or siblings",
+        "They inherit all of their features from only the mother",
+        "They do not share any features with their parents"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Why can features caused by lifestyle or the environment, like a scar, not be inherited by offspring?",
+      "options": [
+        "They are not stored in the genetic material of the parents",
+        "They are too small to be passed on by cells",
+        "The offspring's body automatically repairs environmental changes",
+        "They are only stored in the blood cells"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Which pair of features correctly categorises a genetic feature and an environmental feature?",
+      "options": [
+        "Eye colour (genetic) and a scar (environmental)",
+        "A tattoo (genetic) and hair colour (environmental)",
+        "Language spoken (genetic) and blood group (environmental)",
+        "Height (environmental only) and skin colour (environmental only)"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Whose team in London used X-rays to produce an image of a DNA molecule in 1952?",
+      "options": [
+        "James Watson",
+        "Francis Crick",
+        "Rosalind Franklin",
+        "Gregor Mendel"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Who used the X-ray picture evidence from Franklin's group to complete a model of the double helix structure of DNA?",
+      "options": [
+        "Robert Hooke and Antonie van Leeuwenhoek",
+        "James Watson and Francis Crick",
+        "Charles Darwin and Alfred Russel Wallace",
+        "Louis Pasteur and Robert Koch"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    }
+  ]
+}

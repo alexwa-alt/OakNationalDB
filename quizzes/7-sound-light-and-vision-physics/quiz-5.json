@@ -1,0 +1,204 @@
+{
+  "unitKey": "7Sound, light and visionPhysics",
+  "generatedAt": "2026-08-11T09:26:10.270353+00:00",
+  "questions": [
+    {
+      "question": "Which of the following statements correctly distinguishes between a luminous and a non-luminous object?",
+      "options": [
+        "Luminous objects give out light, whereas non-luminous objects do not.",
+        "Luminous objects absorb all light, whereas non-luminous objects transmit it.",
+        "Luminous objects only reflect light, whereas non-luminous objects give out light.",
+        "Luminous objects refract light, whereas non-luminous objects scatter it."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What must happen for a person to see an object in a room?",
+      "options": [
+        "Light from the object must be absorbed by the surrounding walls.",
+        "Light from the object, either emitted or reflected, must enter the eye.",
+        "The eye must project beams of light onto the object to illuminate it.",
+        "Light must pass directly through the object without reflecting."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How does light enter the eye and where is it detected?",
+      "options": [
+        "It enters through the iris and is detected by the optic nerve at the front.",
+        "It enters through the pupil and is detected by the retina at the back surface.",
+        "It enters through the cornea and is detected by the pupil.",
+        "It enters through the retina and is detected by the pupil at the back."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why can you see a laser beam passing through a dusty room but not in a clean, dust-free room?",
+      "options": [
+        "Dust particles absorb the light beam and make it glow brighter.",
+        "Dust particles block the light beam, causing it to slow down and become visible.",
+        "The light hits the dust particles and scatters towards your eyes.",
+        "The dust particles emit their own light when exposed to the laser."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which statement best describes how an echo is formed?",
+      "options": [
+        "Sound is absorbed by soft surfaces and slowly released back into the room.",
+        "Sound reflects from hard surfaces and is heard again after travelling back.",
+        "Sound passes through solid walls and speeds up as it exits the other side.",
+        "Sound is refracted by the air, causing the pitch to change when it returns."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why do soft materials, like foam or curtains, make good sound absorbers?",
+      "options": [
+        "They reflect sound waves in many regular directions to cancel them out.",
+        "Sound waves transfer energy to them by making the particles in the soft materials vibrate.",
+        "They prevent particles from moving, keeping the sound trapped.",
+        "They increase the frequency of the sound waves until they can no longer be heard."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "In light diagrams, what is the 'normal' line?",
+      "options": [
+        "A line drawn parallel to the mirror's surface.",
+        "An imaginary line drawn at 90 degrees to the point of reflection.",
+        "The path that the reflected ray of light takes.",
+        "A line representing the boundary between two different materials."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How are the angles of incidence and reflection measured?",
+      "options": [
+        "Along the surface of the mirror from the incoming and outgoing rays.",
+        "Between the incoming ray and the reflected ray directly.",
+        "From the normal to the respective incident and reflected rays.",
+        "From the light source to the eye."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A ray of light hits a flat mirror with an angle of incidence of 35 degrees to the normal. What is the angle of reflection?",
+      "options": [
+        "35 degrees, on the other side of the normal.",
+        "55 degrees, on the same side of the normal.",
+        "90 degrees, along the normal line.",
+        "145 degrees, on the other side of the normal."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "If a toy is placed 20 cm in front of a flat mirror, where does its reflection appear to be?",
+      "options": [
+        "10 cm behind the mirror, directly opposite the toy.",
+        "20 cm behind the mirror, directly opposite the toy.",
+        "40 cm behind the mirror, shifted to the side.",
+        "Right on the surface of the mirror."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "When you look at your image in a flat mirror, how does it compare to you?",
+      "options": [
+        "It is upside down and flipped left-to-right.",
+        "It is the right way up and exactly identical with no changes.",
+        "It is the right way up but is laterally inverted (left and right are swapped).",
+        "It is upside down but otherwise has the same orientation."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How do transparent and opaque objects differ in how they affect light?",
+      "options": [
+        "Transparent objects reflect all light, while opaque objects transmit it.",
+        "Transparent objects transmit light through them, while opaque objects do not.",
+        "Transparent objects scatter light, while opaque objects let it pass cleanly.",
+        "Transparent objects absorb all light, while opaque objects reflect it."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What is a shadow and how is it formed?",
+      "options": [
+        "An area where light bends around an object to form a dark pattern.",
+        "A region where reflected light from a mirror is focused.",
+        "An unlit area in the shape of an object that is blocking light.",
+        "A glowing area created behind an object when it absorbs energy."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What is amplitude, and how does it affect how we hear a sound?",
+      "options": [
+        "It is the speed of the wave, and a higher amplitude makes the pitch higher.",
+        "It is the distance or size of a vibration, and a greater amplitude makes the sound louder.",
+        "It is the number of vibrations per second, and a lower amplitude makes the sound quieter.",
+        "It is the wavelength of a sound wave, and a greater amplitude makes the pitch lower."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "If the frequency of a sound wave is increased, what change will you hear in the sound?",
+      "options": [
+        "The sound will become louder.",
+        "The sound will have a higher pitch.",
+        "The sound will become quieter.",
+        "The sound will have a lower pitch."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why does sound travel fastest through solids compared to liquids or gases?",
+      "options": [
+        "Solids have no particles, which allows sound waves to travel without any resistance.",
+        "The particles in solids are very far apart, so they have more room to vibrate.",
+        "Solids have strong attractive forces between particles, causing many to vibrate when one does.",
+        "Solids are colder than liquids and gases, which increases the speed of vibrations."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Why can sound not travel through a vacuum, such as outer space?",
+      "options": [
+        "Because a vacuum is too cold for sound waves to survive.",
+        "Because sound waves require particles to vibrate, and there are no particles in a vacuum.",
+        "Because light waves in a vacuum block sound waves from moving.",
+        "Because gravity is too weak in a vacuum to pull the sound waves forward."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "When a sound wave travels through the air from a speaker to your ear, what actually moves?",
+      "options": [
+        "Air particles travel all the way from the speaker into your ear.",
+        "A pattern of vibrating particles creates a sound wave, but individual air particles do not travel with the wave.",
+        "Heat energy travels through the air without affecting the particles.",
+        "Light rays carry the sound particles through the air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "unitKey": "6EcosystemsBiology",
+  "generatedAt": "2026-08-11T09:17:47.658116+00:00",
+  "questions": [
+    {
+      "question": "Which statement correctly describes how predators and prey are generally adapted to their roles?",
+      "options": [
+        "Predators adapt to help them escape, while prey adapt to capture food.",
+        "Prey have adaptations to help them avoid being hunted, while predators are adapted to help them capture prey.",
+        "Only predators have physical adaptations, while prey rely solely on changing their behaviors.",
+        "Both predators and prey adapt to ignore each other and share the same resources."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following is a common adaptation that helps a prey animal avoid being caught by predators?",
+      "options": [
+        "Having a highly developed sense of smell for tracking trails",
+        "Being active during the night (nocturnal) or having effective camouflage",
+        "Possessing large, sharp claws and teeth for tearing flesh",
+        "Having a loud call that alerts other predators to their location"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which set of physical features is most commonly associated with predator adaptations?",
+      "options": [
+        "Dull colors, underground burrowing, and high water retention",
+        "A complex stomach for digesting grass and wide, flat grinding teeth",
+        "Sharp teeth, excellent eyesight, and the ability to run at high speeds",
+        "Bright warning coloration and the ability to produce sweet nectar"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What happens to persistent toxic substances when they enter a food chain?",
+      "options": [
+        "They are broken down instantly by producers into harmless minerals.",
+        "They can be passed up the food chain when organisms are consumed.",
+        "They are excreted completely by herbivores and do not reach carnivores.",
+        "They disappear from the ecosystem within a few hours of consumption."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which group of organisms is typically most severely affected by the bioaccumulation of persistent toxic substances?",
+      "options": [
+        "Producers, because they absorb the toxins directly from the soil.",
+        "Decomposers, because they only break down dead organic matter.",
+        "Top predators, because toxins build up in higher concentrations at each stage of the food chain.",
+        "Primary consumers, because they eat the largest volume of plant material."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What is an ecosystem composed of?",
+      "options": [
+        "Only the non-living physical features of a specific geographic area",
+        "A single population of one species interacting with its immediate family",
+        "Living organisms interacting with each other and with their physical environment",
+        "Only the plants and trees that produce oxygen in a forest"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A habitat contains both biotic and abiotic components. Which of the following is an example of an abiotic part of a woodland habitat?",
+      "options": [
+        "The temperature of the air and the dampness of the soil",
+        "The earthworms decomposing fallen leaves",
+        "The oak trees providing nesting sites for birds",
+        "The fungi growing on decaying tree trunks"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following groups of organisms is classified as producers because they can make their own food?",
+      "options": [
+        "Fungi and earthworms",
+        "Plants and some microorganisms",
+        "Herbivorous insects and caterpillars",
+        "Predatory birds and mammals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why are humans and other animals classified as consumers in an ecosystem?",
+      "options": [
+        "They make their own food inside their bodies using sunlight.",
+        "They cannot make their own food and must get energy by eating other organisms.",
+        "They absorb minerals directly from the soil through their skin.",
+        "They break down rocks to release chemical energy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In a food chain diagram, what do the arrows pointing from one organism to another represent?",
+      "options": [
+        "The movement of organisms from one habitat to another",
+        "The transfer of biomass from the eaten to the eater",
+        "The physical path that a predator takes when hunting its prey",
+        "The genetic relationships between different animal families"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What does a food web diagram represent in an ecological community?",
+      "options": [
+        "The physical structures built by spiders to catch flying insects",
+        "A single linear sequence showing only one producer and one consumer",
+        "Several interconnected food chains showing feeding relationships in a community",
+        "The classification of organisms based on their physical size"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How do many flowering plants rely on animals to complete their life cycles?",
+      "options": [
+        "They rely on insects for pollination and birds for seed dispersal.",
+        "They rely on predators to dig holes in the soil for planting seeds.",
+        "They rely on herbivores to eat all their leaves so they can grow new ones.",
+        "They rely on aquatic animals to filter toxic chemicals from their roots."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Why are insect pollinators directly important for human food security?",
+      "options": [
+        "They eat crop pests, reducing the need for chemical sprays.",
+        "They ensure that crops produce fruits and seeds, providing enough food to feed the human population.",
+        "They break down dead leaves to fertilize agricultural fields.",
+        "They produce honey which is the primary source of carbohydrates for humans."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What is meant by the term 'biodiversity' in a particular environment?",
+      "options": [
+        "The total weight of all the living organisms in that area",
+        "The number of different species that live in that place",
+        "The rate at which plants grow during the spring season",
+        "The number of non-living factors like water and temperature"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Which of the following is a method used to conserve the genetic diversity of plant species?",
+      "options": [
+        "Applying high concentrations of chemical fertilizers",
+        "Storing plant seeds in specialized seed banks",
+        "Clearing forests to make room for single-crop farming",
+        "Introducing invasive species to new environments"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "How do certain pesticides that target weeds help agricultural crops to grow?",
+      "options": [
+        "They supply the crops with extra nitrogen and phosphorus.",
+        "They kill competing plants (weeds) so the crops have more resources to grow.",
+        "They attract useful pollinating insects to the crop flowers.",
+        "They increase the amount of sunlight that reaches the field."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    }
+  ]
+}

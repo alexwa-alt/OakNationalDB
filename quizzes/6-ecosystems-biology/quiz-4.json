@@ -1,0 +1,193 @@
+{
+  "unitKey": "6EcosystemsBiology",
+  "generatedAt": "2026-08-11T09:19:48.980725+00:00",
+  "questions": [
+    {
+      "question": "Which of the following is a common adaptation that helps prey animals avoid being hunted by predators?",
+      "options": [
+        "Having very large, sharp tearing teeth",
+        "Being active only at night (nocturnal)",
+        "Having extremely bright and easy-to-spot colors",
+        "Being unable to run or move quickly"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which set of physical features is most commonly associated with predator adaptations?",
+      "options": [
+        "Good camouflage and being entirely herbivorous",
+        "Dull senses, slow movement, and thick shells",
+        "Big teeth, excellent eyesight, and fast running speed",
+        "Large flat grinding teeth and underground nesting habits"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why does the bioaccumulation of toxic substances pose the greatest danger to top predators in an ecosystem?",
+      "options": [
+        "Top predators have weaker immune systems than producers.",
+        "Toxins build up in higher concentrations as they are passed up the food chain.",
+        "Toxins are only manufactured inside the bodies of top predators.",
+        "Top predators absorb toxins directly from the air much faster than other species."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which agricultural practice is a major contributor to the bioaccumulation of toxic chemicals in food chains?",
+      "options": [
+        "Crop rotation with legumes",
+        "Using organic compost on soil",
+        "Hand-weeding crop fields",
+        "Applying synthetic pesticides to protect crops"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A habitat is best described as a place where plants and animals live, containing which two components?",
+      "options": [
+        "Only living (biotic) organisms",
+        "Only non-living (abiotic) elements",
+        "Both living (biotic) and non-living (abiotic) parts",
+        "Only plants and soil nutrients"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What is a likely consequence if the physical environment of a habitat undergoes a rapid, drastic change?",
+      "options": [
+        "Organisms will immediately evolve new genes to thrive.",
+        "It may become much harder for resident organisms to survive there.",
+        "All species in the habitat will immediately become producers.",
+        "The habitat's biodiversity will automatically double to compensate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why are humans and other animals classified as consumers in an ecosystem?",
+      "options": [
+        "They cannot make their own food and must eat other organisms.",
+        "They produce their own food using sunlight through photosynthesis.",
+        "They only break down dead matter in the soil without eating.",
+        "They do not require any energy to survive and grow."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In a food chain diagram, what do the pointing arrows directly represent?",
+      "options": [
+        "The direction in which animals migrate during winter",
+        "The transfer of biomass from one organism to another",
+        "The physical movement of predators chasing prey",
+        "The release of oxygen into the atmosphere"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What does a food web diagram represent within an ecological community?",
+      "options": [
+        "A single linear sequence of who eats whom",
+        "Several interconnected food chains showing complex feeding relationships",
+        "The physical nests made by spiders to trap flying insects",
+        "The total number of trees present in a single forest habitat"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why are all consumers ultimately dependent on producers for survival?",
+      "options": [
+        "Producers clean the water supply for the consumers to drink.",
+        "Producers make all the food that supports the rest of the food chain.",
+        "Producers hunt down predators to keep consumers safe.",
+        "Producers provide consumers with shelter from harsh weather."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is the correct sequence of events leading to a plant producing edible seeds and fruits?",
+      "options": [
+        "Photosynthesis occurs, then pollen is transferred from stigma to anthers.",
+        "Pollen is transferred from the anthers of flowers to the stigma.",
+        "Seeds are dispersed by birds before flowers are formed.",
+        "Roots absorb minerals, which instantly transform into ripe fruit."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "How do plants and animals show mutual dependence when it comes to reproduction and survival?",
+      "options": [
+        "Plants hunt animals for nutrients, while animals use plants for camouflage.",
+        "Plants provide oxygen, while animals provide carbon dioxide only.",
+        "Plants rely on animals like insects for pollination and birds for seed dispersal.",
+        "Animals rely on plants to clean their fur, while plants rely on animals to dig soil."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Why are pollinators critical for ensuring human food security?",
+      "options": [
+        "They directly consume agricultural pests that destroy crops.",
+        "They fertilize the soil with essential mineral nutrients.",
+        "They ensure that enough crops are pollinated to produce food for the human population.",
+        "They increase the amount of rainfall in farming regions."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What is the definition of biodiversity?",
+      "options": [
+        "The total number of individual plants in a single square meter",
+        "The number of different species that live in a particular place",
+        "The rate at which energy is transferred up a food chain",
+        "The process of animals migrating to warmer climates"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Which of the following explains why maintaining biodiversity is important for humans?",
+      "options": [
+        "It guarantees that the climate will never change.",
+        "It keeps habitats healthy and provides resources like food and medicines.",
+        "It reduces the number of predators in the wild.",
+        "It allows farmers to grow crops without using any water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "How can humans conserve the genetic diversity of plants for the future?",
+      "options": [
+        "By replacing all wild habitats with uniform crop fields",
+        "By storing seeds in seed banks and other gene banks",
+        "By cross-breeding only a single species of flower worldwide",
+        "By removing all insects from agricultural areas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Some pesticides used by farmers are designed to kill weeds. How does this help crops grow?",
+      "options": [
+        "It increases the amount of shade over the crops.",
+        "It removes competing plants so crops get more resources like light and water.",
+        "It directly injects mineral nutrients into the crop roots.",
+        "It attracts more insect pollinators to the crops."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    }
+  ]
+}
