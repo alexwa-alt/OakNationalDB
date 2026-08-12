@@ -1,0 +1,171 @@
+{
+  "unitKey": "14Climate change and biodiversityBiologyChemistry",
+  "generatedAt": "2026-08-12T05:51:24.329249+00:00",
+  "questions": [
+    {
+      "question": "What is the primary raw material used to produce most traditional plastic food packaging?",
+      "options": [
+        "Fossil fuels",
+        "Biomass",
+        "Recycled paper",
+        "Geothermal energy"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why is plastic waste in oceans and landfills considered a significant environmental hazard?",
+      "options": [
+        "It degrades too quickly, releasing toxic gases",
+        "It takes a very long time to degrade and can harm wildlife",
+        "It absorbs solar radiation and heats the water directly",
+        "It prevents marine plants from performing cellular respiration"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What makes biodegradable bioplastics a more sustainable alternative to traditional plastics for packaging?",
+      "options": [
+        "They are manufactured using coal and natural gas",
+        "They are made from renewable resources and can break down naturally",
+        "They never decompose, allowing them to be reused indefinitely",
+        "They are completely impermeable to greenhouse gases"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following is a primary benefit of using plastic packaging for food items?",
+      "options": [
+        "It increases the nutritional value of the food",
+        "It helps prevent food spoilage and reduces food waste",
+        "It absorbs excess greenhouse gases from the air",
+        "It speeds up the ripening process of fruits"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is one of the main human activities driving global deforestation?",
+      "options": [
+        "Urban vertical farming",
+        "Converting forest land for agricultural use",
+        "Establishing national parks",
+        "Recreational hiking and camping"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is a direct consequence of deforestation on forest-dwelling wildlife?",
+      "options": [
+        "An increase in available nesting sites",
+        "Rapid adaptation to urban environments",
+        "Habitat loss for many different species",
+        "An expansion of their geographical range"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How does global warming directly threaten human food security?",
+      "options": [
+        "It increases the rate of soil formation globally",
+        "It puts global food production at risk due to changing climates",
+        "It makes all crops grow significantly faster and larger",
+        "It eliminates the need for agricultural pests"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why does the increase in extreme weather events due to climate change make farming more difficult?",
+      "options": [
+        "It stabilizes seasonal temperatures year-round",
+        "It reduces the global demand for agricultural crops",
+        "It makes it much more challenging to reliably produce food",
+        "It increases the predictability of rainfall patterns"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What contributes to the carbon footprint of the food we eat?",
+      "options": [
+        "Only the respiration of the crops during their growth",
+        "Greenhouse gas emissions from multiple stages of food production",
+        "The heat released when food is cooked at home",
+        "The amount of water absorbed by plant roots"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How does the clearing of forests disrupt the carbon cycle?",
+      "options": [
+        "It stops plants from releasing oxygen during respiration",
+        "It increases the rate of nitrogen fixation in the soil",
+        "Less carbon dioxide is absorbed from the atmosphere for photosynthesis",
+        "It prevents decomposers from breaking down organic matter"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What role does carbon dioxide play when its concentration increases in the atmosphere?",
+      "options": [
+        "It acts as a greenhouse gas, enhancing the greenhouse effect and driving climate change",
+        "It thins the atmosphere, allowing harmful cosmic rays to reach the surface",
+        "It cools the planet by reflecting all incoming sunlight back into space",
+        "It directly blocks plants from performing aerobic respiration"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why does deforestation have a major impact on the water cycle?",
+      "options": [
+        "It increases the total volume of water on the Earth's surface",
+        "Less water is absorbed by tree roots and transpired into the atmosphere",
+        "It stops all rainfall from occurring worldwide",
+        "It converts groundwater directly into water vapor"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How can deforestation lead to increased flooding and threaten our food supply?",
+      "options": [
+        "By decreasing the amount of surface runoff on agricultural land",
+        "By causing more water to run off the land surface, increasing flooding",
+        "By permanently lowering the sea level near coastal farms",
+        "By drying up all natural rivers and streams instantly"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What is a major consequence of climate change altering the environmental conditions of a habitat?",
+      "options": [
+        "Species instantly mutate to become perfectly adapted",
+        "Species may become less well adapted to live in their changing habitat",
+        "The habitat becomes completely immune to ecological disruptions",
+        "All native species automatically increase their reproduction rates"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "How do some species survive when climate change alters their original habitat's conditions?",
+      "options": [
+        "They stop requiring energy and enter permanent dormancy",
+        "They migrate to a new habitat with suitable conditions",
+        "They learn to photosynthesize to avoid searching for food",
+        "They merge with other species to form new hybrid organisms"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    }
+  ]
+}

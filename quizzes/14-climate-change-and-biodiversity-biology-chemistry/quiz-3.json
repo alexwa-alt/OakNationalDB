@@ -1,0 +1,193 @@
+{
+  "unitKey": "14Climate change and biodiversityBiologyChemistry",
+  "generatedAt": "2026-08-12T05:51:21.643483+00:00",
+  "questions": [
+    {
+      "question": "What is the primary non-renewable resource used to produce most traditional plastic food packaging?",
+      "options": [
+        "Fossil fuels",
+        "Biomass",
+        "Geothermal energy",
+        "Solar radiation"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why is traditional plastic waste in landfills and oceans considered a major pollutant?",
+      "options": [
+        "It degrades extremely quickly and releases excessive heat",
+        "It takes a long time to degrade and can harm organisms",
+        "It dissolves instantly in water and causes extreme acidification",
+        "It acts as a fertilizer and causes runaway algal blooms"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What is a sustainable alternative to traditional plastic packaging that is made from renewable resources and breaks down naturally?",
+      "options": [
+        "Polystyrene foam",
+        "Polyethylene wrappers",
+        "Biodegradable bioplastics",
+        "Synthetic nylon wraps"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is a key benefit of using plastic packaging for food items?",
+      "options": [
+        "It prevents food spoilage and reduces food waste",
+        "It permanently removes the need for refrigeration",
+        "It increases the vitamin content of the food",
+        "It makes the food completely calorie-free"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When deciding whether to use plastic packaging, what must we weigh its benefits against?",
+      "options": [
+        "The taste of the food and consumer preferences",
+        "Emissions from production and damage to biodiversity",
+        "The cost of transporting the food by electric vehicles",
+        "The availability of solar-powered refrigeration units"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is one of the major causes of global deforestation?",
+      "options": [
+        "Converting land for agricultural use",
+        "Building offshore wind farms",
+        "Natural volcanic eruptions",
+        "The natural migration of forest animals"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is a direct consequence of deforestation for many animal and plant species?",
+      "options": [
+        "Increased availability of nesting sites",
+        "Habitat loss",
+        "A sudden decrease in global temperature",
+        "An increase in species diversity"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following is a land-use mitigation strategy that helps combat biodiversity loss and climate change?",
+      "options": [
+        "Converting wetlands into housing estates",
+        "Reforestation and rewilding",
+        "Increasing the use of chemical fertilizers",
+        "Clearing forests for livestock grazing"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "How does climate change make food production more challenging?",
+      "options": [
+        "By decreasing the overall carbon footprint of farm vehicles",
+        "By making extreme weather events more common",
+        "By permanently removing all insect pests from crops",
+        "By increasing the amount of land available for farming"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How can individuals adjust their diet to help limit climate change?",
+      "options": [
+        "By eating only foods imported from far away",
+        "By choosing food options that reduce emissions from production",
+        "By consuming more foods with high carbon footprints",
+        "By eating only foods packaged in non-recyclable plastic"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why does deforestation disrupt the carbon cycle?",
+      "options": [
+        "Fewer trees are available to release carbon dioxide into the soil",
+        "Less carbon dioxide is absorbed from the atmosphere for photosynthesis",
+        "It causes trees to absorb excessive amounts of oxygen",
+        "It stops animals from breathing out carbon dioxide"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What role does carbon dioxide (CO2) play in climate change?",
+      "options": [
+        "It destroys the ozone layer directly to let in cosmic rays",
+        "It is a greenhouse gas that enhances the greenhouse effect",
+        "It cools the atmosphere by reflecting all incoming sunlight",
+        "It prevents clouds from forming in the upper atmosphere"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How does deforestation disrupt the water cycle?",
+      "options": [
+        "Less water is absorbed and transpired by trees",
+        "It increases the overall level of atmospheric humidity globally",
+        "It prevents rain from falling anywhere on the planet",
+        "It forces plants to produce water through photosynthesis"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Why does the increased surface runoff caused by deforestation put food security at risk?",
+      "options": [
+        "It increases flooding, which can damage crops",
+        "It causes all agricultural soils to turn into deserts instantly",
+        "It prevents rivers from flowing into the oceans",
+        "It reduces the amount of carbon dioxide available to crops"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why might species be less well adapted to live in their current habitats due to climate change?",
+      "options": [
+        "Climate change is changing the conditions in their habitats",
+        "Climate change is preventing species from reproducing at all",
+        "Species are choosing to lose their beneficial adaptations",
+        "Habitats are becoming completely isolated from the atmosphere"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "How do some, but not all, species survive changes in environmental conditions caused by climate change?",
+      "options": [
+        "By migrating to a new habitat",
+        "By instantly mutating to eat plastic waste",
+        "By entering permanent hibernation",
+        "By stopping their need for water and food"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What can be a direct result of climate change, including more frequent extreme weather events, on ecosystems?",
+      "options": [
+        "An increase in the total number of new species created",
+        "Biodiversity loss",
+        "The complete elimination of the greenhouse effect",
+        "A reduction in agricultural land requirements"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    }
+  ]
+}
