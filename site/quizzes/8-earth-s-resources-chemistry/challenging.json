@@ -1,6 +1,6 @@
 {
   "unitKey": "8Earth's resourcesChemistry",
-  "generatedAt": "2026-08-12T06:17:47.513823+00:00",
+  "generatedAt": "2026-08-12T06:45:31.598357+00:00",
   "questions": [
     {
       "question": "A geologist finds a specimen of rock that formed from liquid rock cooling within a deep fissure beneath a volcano. What was the liquid rock called before it solidified, and why?",
@@ -218,6 +218,226 @@
         "Granite is ideal for durable construction and kitchen countertops, while chalk is useful for writing or marking because it wears away easily.",
         "Granite is used for water filtration systems because of its high porosity, while chalk is used to build waterproof dams.",
         "Both rocks are interchangeable and can be used for the exact same engineering purposes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "A geologist studies a volcanic region and collects two samples of melted rock. Sample A was collected from a subterranean chamber 2 km deep, while Sample B was collected from an active surface flow. How should the geologist classify these samples?",
+      "options": [
+        "Sample A is lava and Sample B is magma.",
+        "Sample A is magma and Sample B is lava.",
+        "Both samples are magma because they originate from the same deep source.",
+        "Both samples are lava because they are in a molten state."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "An explorer finds a rock formation containing large, visible mineral crystals deep inside a mountain cave. In contrast, the rock on the outer slopes of the mountain has a smooth, glassy texture. What can be inferred about how these rocks formed?",
+      "options": [
+        "The rock inside the cave is an intrusive igneous rock, while the rock on the outer slopes is an extrusive igneous rock.",
+        "The rock inside the cave is an extrusive igneous rock, while the rock on the outer slopes is an intrusive igneous rock.",
+        "Both rocks are intrusive because they are part of the same mountain.",
+        "Both rocks are extrusive because they cooled in contact with air."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Two identical compositions of magma cool under different conditions. Magma X cools extremely slowly deep underground over thousands of years, while Magma Y is erupted into the cold ocean water and cools within minutes. How will their crystals compare?",
+      "options": [
+        "Magma X will form larger crystals than Magma Y because it had more time to cool.",
+        "Magma Y will form larger crystals because the rapid cooling forces particles together quickly.",
+        "Both will have the same crystal size because they started with the same chemical composition.",
+        "Magma X will not form any crystals, while Magma Y will form giant crystals due to the pressure of ocean water."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A geologist discovers a rock layer containing intact marine shells and fossilised trilobites, but no mineral crystals. What is the most reasonable conclusion the geologist can draw about this rock's history?",
+      "options": [
+        "It formed from molten magma that cooled very slowly underground millions of years ago.",
+        "It formed in a marine environment and is likely of a similar age to the trilobite species found.",
+        "It was subjected to extreme heat and pressure that aligned its crystals near a tectonic plate boundary.",
+        "It is a young igneous rock that formed during a recent volcanic eruption on land."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why do mineral crystals grow with flat, geometric faces and sharp angles rather than forming irregular, random shapes?",
+      "options": [
+        "Because the atoms inside the crystal are arranged in a highly regular, repeating pattern.",
+        "Because high pressure from surrounding rocks forces all crystals to become perfectly round.",
+        "Because crystals can only form when molten rock cools instantly upon contact with water.",
+        "Because the atoms are randomly distributed, allowing them to fill any available space evenly."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "At a boundary where two tectonic plates are colliding, a solid block of rock deep underground undergoes physical changes without melting. What geological phenomenon is likely to occur under these conditions?",
+      "options": [
+        "The rock will melt completely into lava and erupt onto the surface.",
+        "Large crystals will grow inside the solid rock due to the high temperature and pressure.",
+        "The rock will break down into loose sand grains and fossils.",
+        "The rock will lose all of its crystalline structure and become highly porous."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A limestone rock containing visible fossil fragments is buried deep near a mountain-building zone. Over millions of years, it experiences intense heat and pressure but does not melt. What is the most likely outcome of this process?",
+      "options": [
+        "It turns into a metamorphic rock, altering its original limestone structure and likely destroying or distorting the fossils.",
+        "It becomes an extrusive igneous rock with large, well-defined crystals pointing in random directions.",
+        "It breaks down into loose sand and pebbles that immediately cement together to form a new sedimentary rock.",
+        "It remains completely unchanged because limestone is completely resistant to temperature and pressure."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Slate is a metamorphic rock that is widely used for roofing tiles because it can easily be split into thin, flat sheets. What microscopic feature of slate explains this useful property?",
+      "options": [
+        "It contains large, rounded sand grains that are loosely held together by clay.",
+        "Its crystals are aligned in parallel layers due to extreme pressure during its formation.",
+        "It has a highly porous structure with randomly oriented, interlocking crystals.",
+        "It contains no crystals and is held together only by fossilised shells."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A scientist is testing a solid substance found in nature. To classify it specifically as a mineral, which set of characteristics must it possess?",
+      "options": [
+        "It must be a man-made mixture of various rock fragments and organic matter.",
+        "It must be a naturally occurring pure substance (an element or compound) with a crystal structure.",
+        "It must contain fossils and be formed strictly by the accumulation of shells on the seabed.",
+        "It must be a liquid compound that lacks any regular arrangement of atoms."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A student is given two gold-coloured specimens. Specimen A is genuine gold, while Specimen B is pyrite (\"fool's gold\"). How can the student scientifically distinguish between these two minerals?",
+      "options": [
+        "By comparing their crystal structure, chemical composition, and physical properties like hardness.",
+        "By checking which one contains fossils, as only true gold can contain organic remains.",
+        "By measuring their temperature, because minerals do not have a fixed chemical composition.",
+        "By seeing which one is porous, as all pure elements are highly porous while compounds are not."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which of the following best describes the structure of the Earth's core starting from the innermost part and moving outwards?",
+      "options": [
+        "A liquid metallic inner core surrounded by a solid rock outer core.",
+        "A solid metallic inner core surrounded by a liquid outer core.",
+        "A hollow central chamber surrounded by a dense, muddy outer layer.",
+        "A gaseous helium inner core surrounded by a solid silicon outer core."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Despite being extremely hot (thousands of degrees Celsius), the Earth's inner core remains solid. Why is the inner core solid while the outer core is liquid?",
+      "options": [
+        "The pressure increases greatly towards the centre, keeping the particles of the inner core tightly packed in a solid state.",
+        "The temperature drops drastically at the very centre of the Earth, freezing the metals.",
+        "The inner core is made of ice, while the outer core is made of molten lava.",
+        "The inner core is protected from heat by a thick layer of liquid water."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What do global patterns of volcanic eruptions and deep earthquakes tell scientists about the nature of the Earth's interior layers?",
+      "options": [
+        "The Earth's internal layers are completely static and never change position.",
+        "The Earth's layers are dynamic and constantly interact with each other.",
+        "Earthquakes and volcanoes are superficial events that have no connection to deeper layers.",
+        "The mantle is entirely hollow, allowing tectonic plates to float freely without friction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "How does finding identical fossils of a freshwater reptile in both South America and western Africa support geological theories about Earth's history?",
+      "options": [
+        "It proves that these reptiles were excellent ocean swimmers that crossed the Atlantic.",
+        "It provides evidence that these two continents were once joined together.",
+        "It shows that both continents formed at the exact same time from a single volcanic eruption.",
+        "It indicates that the Earth's crust is made of a single, solid, unmoving piece of rock."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "GPS measurements show that North America and Europe are moving away from each other at a rate of about 2.5 centimetres per year. Which statement best explains this observation?",
+      "options": [
+        "Earth's crust is broken into tectonic plates that move very, very slowly.",
+        "Strong ocean currents are physically pushing the continental landmasses apart.",
+        "The Earth's radius is expanding rapidly every year, pushing all continents outwards.",
+        "Wind erosion is gradually wearing down the coastlines, making them appear further apart."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "If you examine a sample of sandstone under a magnifying glass, you see individual, rounded quartz grains with tiny gaps between them filled with mineral cement. This texture is characteristic of which rock type?",
+      "options": [
+        "Intrusive igneous rock, because the grains are perfectly interlocking.",
+        "Sedimentary rock, because it consists of distinct grains stuck together.",
+        "Metamorphic rock, because the grains are highly aligned and flattened.",
+        "Extrusive igneous rock, because the grains cooled instantly in water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A student finds a rock specimen containing large, rounded pebbles and coarse grit bound together by a fine-grained matrix. How should this rock be classified?",
+      "options": [
+        "As an intrusive igneous rock, because pebbles only form deep underground in magma chambers.",
+        "As a sedimentary rock, because it is made of larger pieces of grit and pebbles cemented together.",
+        "As a metamorphic rock, because pebbles cannot survive in sedimentary environments.",
+        "As a pure mineral, because it has a uniform crystal structure throughout."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Under a microscope, Rock Sample A shows crystals oriented randomly in many different directions. Rock Sample B shows crystals that are mostly aligned parallel to one another. What can you conclude about these rocks?",
+      "options": [
+        "Sample A is metamorphic and Sample B is igneous.",
+        "Sample A is igneous and Sample B is metamorphic.",
+        "Both samples are sedimentary because they contain crystals.",
+        "Sample A is extrusive igneous and Sample B is intrusive igneous."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Why is granite (an igneous rock with interlocking crystals) highly resistant to absorbing water, whereas sandstone (a sedimentary rock with rounded grains) absorbs water easily?",
+      "options": [
+        "Granite is non-porous because of its interlocking crystals, while sandstone is porous because its grains do not interlock.",
+        "Granite is porous because its crystals are aligned, while sandstone is non-porous because it contains cement.",
+        "Sandstone contains large crystal structures that actively pump water into the rock.",
+        "Granite has high porosity because it formed deep underground under high pressure."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Why is hard, non-porous granite frequently chosen for kitchen worktops, while soft, porous chalk is never used for this purpose?",
+      "options": [
+        "The chemical composition of chalk makes it highly radioactive when exposed to food.",
+        "The physical properties of a rock direct its practical uses; granite is durable and water-resistant, whereas chalk wears down and absorbs liquids.",
+        "Granite is much easier to carve into thin sheets than chalk.",
+        "Chalk is an igneous rock that contains toxic crystals pointing in many directions."
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 31
