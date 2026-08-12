@@ -61,19 +61,24 @@
       "challenging": "challenging.json"
     },
     "3BiodiversityBiology": {
-      "path": "3-biodiversity-biology"
+      "path": "3-biodiversity-biology",
+      "challenging": "challenging.json"
     },
     "4Understanding chemical reactionsChemistry": {
-      "path": "4-understanding-chemical-reactions-chemistry"
+      "path": "4-understanding-chemical-reactions-chemistry",
+      "challenging": "challenging.json"
     },
     "5Moving by forcePhysics": {
-      "path": "5-moving-by-force-physics"
+      "path": "5-moving-by-force-physics",
+      "challenging": "challenging.json"
     },
     "6Species and classification (differences between species)Biology": {
-      "path": "6-species-and-classification-differences-between-species-biology"
+      "path": "6-species-and-classification-differences-between-species-biology",
+      "challenging": "challenging.json"
     },
     "7Variation (differences within species)Biology": {
-      "path": "7-variation-differences-within-species-biology"
+      "path": "7-variation-differences-within-species-biology",
+      "challenging": "challenging.json"
     },
     "8Earth's resourcesChemistry": {
       "path": "8-earth-s-resources-chemistry"

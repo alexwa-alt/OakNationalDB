@@ -1,0 +1,226 @@
+{
+  "unitKey": "3BiodiversityBiology",
+  "generatedAt": "2026-08-12T06:17:06.624543+00:00",
+  "questions": [
+    {
+      "question": "A scientist measures the biodiversity of two different fields. Field A has 100 dandelions and 1 poppy. Field B has 10 different wildflower species, with 10 individuals of each species. Which field has higher biodiversity, and why?",
+      "options": [
+        "Field A, because the total population size of plants is much larger, providing more food.",
+        "Field B, because there is a wider range of different living organisms present.",
+        "Field A, because having a dominant species makes the habitat more stable.",
+        "Both have the same biodiversity because they are both fields containing plants."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "An arctic hare has thick white fur in winter, whereas a desert jackrabbit has very large ears with many blood vessels. How do these physical adaptations specifically help each animal survive in its environment?",
+      "options": [
+        "The hare's fur traps air to reduce heat loss, while the rabbit's large ears increase heat loss to the surroundings.",
+        "The hare's fur increases heat loss, while the rabbit's ears absorb heat from the desert sun.",
+        "Both adaptations are designed to increase the animal's surface-area-to-volume ratio to trap body heat.",
+        "The hare's fur helps it absorb sunlight, while the rabbit's ears help it camouflage against sand."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Kangaroo rats in the desert spend the hot day inside deep, cool burrows and only emerge at night to forage. How is this behavioural adaptation distinguished from a physical adaptation?",
+      "options": [
+        "It is a feature of the animal's body structure that cannot be changed.",
+        "It is an action the organism performs to survive, rather than a structural body feature.",
+        "It is a metabolic process that occurs automatically inside the cells of the kidneys.",
+        "It is a feature passed down through learned teaching rather than being genetically inherited."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A lake's average temperature rises by 3 degrees Celsius due to industrial warm-water runoff. This causes a sensitive species of cold-water fish to die out, which in turn leads to an overpopulation of the insects they used to eat. What is the overall impact of this environmental change on the lake's animal biodiversity?",
+      "options": [
+        "Biodiversity increases because there are now far more insects than before.",
+        "Biodiversity remains constant because the loss of one species is balanced by the increase of another.",
+        "Biodiversity decreases because a species was lost, disrupting the balance of the ecosystem.",
+        "Biodiversity decreases because warm water contains more oxygen, allowing only plants to survive."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why does a forest with high biodiversity tend to recover much better from a severe drought than a single-species pine plantation?",
+      "options": [
+        "In a highly biodiverse forest, all species respond identically to drought, meaning they all survive together.",
+        "A single-species plantation has no competition for water, making it much healthier than a biodiverse forest.",
+        "The diverse forest is more likely to contain some drought-resistant species that survive and maintain soil and habitat structure.",
+        "Biodiverse forests prevent any water from evaporating from the soil because of the dense variety of leaves."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A population of cheetahs went through a severe near-extinction event, leaving only a few individuals to rebuild the species. Today, they have very low genetic diversity. What does this mean for their gene pool, and why is it a problem?",
+      "options": [
+        "Their gene pool is very small, meaning they have a limited range of DNA, making them highly vulnerable to a single disease.",
+        "Their gene pool is very large, meaning their DNA is constantly mutating into new species.",
+        "Their gene pool is small, which is beneficial because it ensures all cheetahs are perfectly identical and healthy.",
+        "Their gene pool has disappeared entirely, meaning they can no longer pass on physical traits to offspring."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A conservation group stores seeds from endangered wild plants in a sub-zero vault (a seed bank) and also protects the natural forest where these plants grow. How do these two methods work together to maintain biodiversity?",
+      "options": [
+        "The seed bank replaces the natural forest entirely, allowing the forest to be cleared for farming.",
+        "The seed bank preserves genetic diversity safely offline, while habitat protection allows the wild population to survive and evolve.",
+        "The seed bank genetically modifies the seeds so they no longer need soil or water to grow in the wild.",
+        "Habitat protection is only used for animals, while seed banks are the only way to conserve plant species."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "An ecologist wants to know the population of clover plants in a 10,000 square metre meadow. Why do they count clovers in ten 1-metre quadrats instead of counting every single clover in the whole meadow?",
+      "options": [
+        "Counting every clover would take too long and be practically impossible, so sampling provides a representative estimate.",
+        "Sampling is more accurate than counting every single individual because it avoids human counting errors.",
+        "Quadrats physically trap the clovers so they cannot escape or move around while being counted.",
+        "The law requires ecologists to use sampling methods to avoid damaging the meadow's biodiversity."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "An ecological survey needs to sample both crawling ground beetles and dandelion plants in a woodland. Which combination of sampling equipment would be most appropriate for each?",
+      "options": [
+        "Pitfall traps for the crawling beetles, and quadrats for the dandelion plants.",
+        "Pooter for the dandelion plants, and sweep nets for the crawling beetles.",
+        "Tree beating for the crawling beetles, and pitfall traps for the dandelion plants.",
+        "Quadrats for the crawling beetles, and line transects with sweep nets for the dandelion plants."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "For which of the following organisms would a quadrat be the most appropriate tool to estimate population density?",
+      "options": [
+        "Fast-flying dragonflies around a garden pond.",
+        "Limpets tightly attached to rocks on a seashore.",
+        "Field mice nesting in a tall grassland.",
+        "Trout swimming in a fast-flowing stream."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A student wants to estimate the abundance of daisies in a school field. They decide to throw the quadrat only in areas where they can see lots of white flowers because 'it makes counting easier'. Why is this sampling method flawed?",
+      "options": [
+        "It introduces bias, leading to an overestimation of the total daisy population in the field.",
+        "It is too random, meaning the results will not be repeatable by other students.",
+        "It introduces bias, leading to an underestimation of the total daisy population in the field.",
+        "It is incorrect because daisies cannot be sampled using a quadrat."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A student finds an unknown insect in a leaf litter sample. It has six legs, wings, and a metallic green body. How does a dichotomous classification key help them identify the exact species?",
+      "options": [
+        "By asking a series of yes/no questions based on the insect's observable physical features to narrow down the choices.",
+        "By measuring the chemical DNA sequence of the insect in a laboratory.",
+        "By comparing the weight of the insect to a standard database of insect masses.",
+        "By predicting how many offspring the insect is likely to produce in its lifetime."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following descriptions represents a complete ecosystem rather than just a community or a population?",
+      "options": [
+        "All the oak trees growing inside a specific woodland.",
+        "All the different plants, animals, and fungi interacting within a woodland.",
+        "The temperature, rainfall, soil pH, and wind speed of a woodland.",
+        "All the plants, animals, and microbes in a woodland interacting with each other and the soil, water, and air."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In an oak woodland, oak trees provide nesting sites for birds, caterpillars eat the oak leaves, and birds eat the caterpillars. If a disease kills all the oak trees, how does this demonstrate the concept of interdependence?",
+      "options": [
+        "Only the oak trees are affected, because birds and caterpillars can easily switch to eating rocks and soil.",
+        "The caterpillars lose their food source and die, which then deprives the birds of their food source, showing how species depend on each other.",
+        "The birds will immediately become producers to make food for the caterpillars, keeping the ecosystem balanced.",
+        "The ecosystem becomes healthier because there is less competition for space without the oak trees."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "If all decomposers (like bacteria and fungi) were suddenly removed from a forest ecosystem, what would be the long-term consequence for the living plants?",
+      "options": [
+        "Plants would grow much larger because they would not have to compete with fungi for sunlight.",
+        "Dead leaves and logs would pile up, and plants would eventually starve as vital mineral nutrients locked in dead matter are not recycled.",
+        "Plants would stop photosynthesising because they rely on decomposers to produce oxygen for them.",
+        "The soil would become extremely rich in nutrients because no decomposers are there to consume the soil minerals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A houseplant placed on a windowsill begins to bend its stem significantly towards the window over a couple of weeks. What type of adaptation is this, and why is it advantageous?",
+      "options": [
+        "A physical adaptation that strengthens the stem to protect it from wind.",
+        "A behavioural adaptation that maximises the light energy the leaves can absorb for photosynthesis.",
+        "A physiological adaptation that allows the plant to absorb carbon dioxide faster through its roots.",
+        "A behavioural adaptation designed to help the plant catch insect prey near the window."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Why do ecologists usually dry out biological samples (removing all water) before measuring their dry biomass to compare different trophic levels?",
+      "options": [
+        "Water content in organisms fluctuates constantly and does not represent stored biological material.",
+        "Dry biomass is always larger than wet biomass, making it easier to weigh on cheap scales.",
+        "Removing water makes the dead organisms come back to life for more accurate counts.",
+        "Water contains high levels of carbon which would falsely increase the estimated energy content."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "In a food chain: Grass -> Rabbit -> Fox, how does the total biomass change at each level, and what shape does this create in a pyramid of biomass?",
+      "options": [
+        "Biomass increases at each level, creating an inverted pyramid with a wide top and narrow bottom.",
+        "Biomass decreases at each level, creating a pyramid shape that is always widest at the bottom (grass) and narrowest at the top (fox).",
+        "Biomass stays exactly the same at each level, creating a perfectly rectangular column.",
+        "Biomass decreases then increases, creating a diamond-shaped pyramid with rabbits having the most biomass."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "In an oak forest, hundreds of caterpillars feed on a single large oak tree, and ten blue tits feed on those caterpillars. What would the pyramid of numbers look like for this food chain?",
+      "options": [
+        "It would be a true pyramid shape, widest at the bottom because the oak tree is the largest organism.",
+        "It would have a narrow base (one oak tree), a very wide middle (hundreds of caterpillars), and a narrower top (ten blue tits).",
+        "It would be completely inverted, with the blue tits at the bottom and the oak tree at the top.",
+        "It would be a straight vertical column because the number of organisms does not affect a pyramid of numbers."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "An ecologist wants to compare how much of the ground is covered by moss versus grass in a damp field, where individual moss plants are too small and numerous to count. Which quadrat measurement method is best suited for this study?",
+      "options": [
+        "Counting the exact number of individual moss plants.",
+        "Measuring the average height of the grass stems in centimetres.",
+        "Estimating the percentage cover of both moss and grass within the quadrat grid.",
+        "Weighing the wet mass of the quadrat frame itself before and after placing it."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    }
+  ]
+}

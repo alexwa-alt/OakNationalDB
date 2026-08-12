@@ -1,0 +1,226 @@
+{
+  "unitKey": "7Variation (differences within species)Biology",
+  "generatedAt": "2026-08-12T06:17:07.598624+00:00",
+  "questions": [
+    {
+      "question": "A student monitors a population of snails and groups them based on whether they have a banded shell or an unbanded shell. What type of variation is this, and what is its defining characteristic?",
+      "options": [
+        "Continuous variation, because shell patterns can change over the snail's lifetime depending on diet.",
+        "Discontinuous variation, because the snails fall into distinct, separate categories with no intermediate states.",
+        "Continuous variation, because there is an infinite range of band widths that can be measured.",
+        "Discontinuous variation, because the feature is only determined by the soil chemistry of their habitat."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why is the exact surface area of leaves on an oak tree classified as showing continuous variation rather than discontinuous variation?",
+      "options": [
+        "Because leaf surface area can be grouped into small, medium, and large categories.",
+        "Because it is controlled by a single gene with two possible alleles.",
+        "Because leaf area can take any numerical value within a wide range, rather than fitting into distinct categories.",
+        "Because leaf area is completely unaffected by the amount of sunlight the tree receives."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following pairs correctly identifies a continuous variation feature in a plant and a discontinuous variation feature in a human?",
+      "options": [
+        "Plant: Number of petals on a daisy; Human: Body mass",
+        "Plant: Height of a sunflower; Human: ABO blood group",
+        "Plant: Seed coat texture (wrinkled or smooth); Human: Height",
+        "Plant: Chlorophyll presence; Human: Skin colour"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A class wants to collect primary data to investigate variation in human hand span. To ensure the data is reliable and displays a continuous pattern, how should they measure and record it?",
+      "options": [
+        "Group students into 'small', 'medium', and 'large' hands by visual inspection.",
+        "Measure the distance from the thumb tip to the pinky tip of a fully stretched hand to the nearest millimeter.",
+        "Classify hand span based on whether the student can palm a basketball or not.",
+        "Count the number of creases on the palm of the dominant hand."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A biologist measures the body lengths of 150 adult frogs in a pond. Which type of graph is most appropriate to display the distribution of this continuous data, and why?",
+      "options": [
+        "A bar chart with gaps, because each individual frog represents a distinct category.",
+        "A pie chart, because it shows the percentage of frogs of different species.",
+        "A histogram, because the data is continuous and should be grouped into continuous intervals without gaps between bars.",
+        "A line graph plotting length against time, because the frogs grow continuously over their lifespan."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When plotting a histogram for the heights of 100 pea plants, which of the following rules must be followed to correctly represent the continuous nature of the data?",
+      "options": [
+        "Leave equal spaces between the vertical bars to show that each plant is separate.",
+        "Plot the frequency of plants on the x-axis and the height categories on the y-axis.",
+        "Ensure the bars touch each other and represent continuous intervals of height, such as 10-14.9 cm and 15-19.9 cm.",
+        "Draw a single smooth line connecting each individual plant's raw height measurement."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A histogram showing the birth mass of 1000 newborn puppies shows a bell-shaped curve. What does this shape tell us about the continuous variation of birth mass in this population?",
+      "options": [
+        "Most puppies have either extremely low or extremely high birth masses, with very few in the middle.",
+        "Birth mass is a discontinuous feature with only three distinct, separate categories.",
+        "Most puppies have a birth mass near the average, with fewer puppies having extremely high or extremely low masses.",
+        "The birth mass of each puppy increases at a steady, linear rate as time goes on."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "The adult height of identical twins can sometimes differ by a few centimeters. Which statement best explains this observation?",
+      "options": [
+        "Height is a discontinuous trait determined solely by a single gene that mutated in one twin.",
+        "Height is a continuous trait influenced by both genetic potential and environmental factors like nutrition during childhood.",
+        "Identical twins do not share any genetic material, so their heights are independent.",
+        "Environmental factors like exercise can change the underlying DNA sequence of the height genes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A student collects data on the natural eye colours of people in a theater. Why must this data be displayed using a bar chart with gaps between the bars?",
+      "options": [
+        "Because eye colour is a continuous variable that can take any value.",
+        "Because eye colour is discontinuous, representing distinct, non-overlapping categories.",
+        "Because the gaps show that eye colour changes gradually as a person ages.",
+        "Because the total number of people surveyed is too small for a histogram."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "When plotting a bar chart to show the frequency of different blood groups (A, B, AB, O) in a school class, which drafting decision is correct?",
+      "options": [
+        "Merge the bars for A and AB because they share similar letters.",
+        "Place the blood group categories on the horizontal x-axis and leave gaps between the vertical bars.",
+        "Connect the top of each bar with a continuous line graph to show the trend.",
+        "Force the bars to touch to show that blood can be mixed during transfusions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "You are analyzing a bar chart displaying the ability of students to roll their tongue (Rollers vs. Non-rollers). The chart has two tall, separate bars. What is the most accurate conclusion you can draw?",
+      "options": [
+        "Most students are slowly learning how to roll their tongues over time.",
+        "Tongue rolling is a continuous trait with many intermediate levels of rolling ability.",
+        "The population is divided into two distinct groups, indicating tongue rolling is a discontinuous trait.",
+        "The environment has caused a gradual shift in the tongue-rolling capacity of the students."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A person trains hard, eats a highly nutritious diet, and moves to a sunny climate. Which of their following features will remain completely unaffected by these lifestyle and environmental changes?",
+      "options": [
+        "Their muscle mass",
+        "Their skin tone",
+        "Their ABO blood group",
+        "Their resting heart rate"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A pair of robins builds a nest and hatches eggs. Even though the chicks look very different from the adults at first, they grow up to be robins rather than blackbirds. Why does this occur?",
+      "options": [
+        "Organisms always reproduce to make offspring of their same kind due to species resemblance.",
+        "The chicks learn to mimic the behavior of blackbirds if they share the same woodland.",
+        "The food provided by the parents chemically converts the chicks into robins.",
+        "Robins can choose which species of bird they want their offspring to become."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A puppy is born with the floppy ears of its mother and the spotted coat pattern of its father. What biological concept does this pattern of features best demonstrate?",
+      "options": [
+        "The puppy only inherits features from the male parent.",
+        "The puppy is a clone of its parents.",
+        "Offspring inherit genetic features from both parents, resulting in family resemblance.",
+        "The puppy's features are entirely shaped by the environment of the kennel."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How are inherited features, such as natural hair color or lobed ears, physically passed from parents to their offspring during reproduction?",
+      "options": [
+        "Through the transmission of learned behaviors during early childhood.",
+        "By passing DNA molecules containing genetic instructions from parents to offspring.",
+        "Through nutrients shared in the environment where the offspring grow.",
+        "By the physical restructuring of the offspring's cells to match the parent's cells."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A green plant is grown in complete darkness. Over two weeks, its leaves turn yellow and its stem grows unusually long and thin. What does this demonstrate about plant features?",
+      "options": [
+        "The plant has mutated its DNA to become a different species.",
+        "Some features are caused or modified by the organism's environment.",
+        "Light levels have no impact on the physical features of growing plants.",
+        "The plant is passing these newly acquired yellow leaves directly to its seeds."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A cat gives birth to a litter of five kittens. They all have the same mother and father, yet some are black, some are ginger, and they have different temperaments. Why is this?",
+      "options": [
+        "Sexual reproduction produces identical offspring unless mutations occur in every generation.",
+        "There is usually variation between offspring; they are not identical to their parents or to one another.",
+        "The kittens have different fathers because they were born at different times of the day.",
+        "Environmental temperature in the womb determines the coat colour of each individual kitten."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Compare the differences between a German Shepherd dog and a Poodle dog, versus the differences between a German Shepherd dog and a Red Fox. What does this comparison illustrate?",
+      "options": [
+        "Differences within a species (dogs) are greater than differences between different species (dog and fox).",
+        "Differences between different species (dog and fox) are greater than differences within the same species (dogs).",
+        "There are no measurable differences between individuals of the same species.",
+        "The German Shepherd is more closely related to the Red Fox than to the Poodle."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "When looking at a field of daisies, you notice some have slightly wider petals, some are taller, and some have pale pink edges. What is the scientific term for these differences among individuals of the same species?",
+      "options": [
+        "Speciation",
+        "Adaptation",
+        "Variation",
+        "Evolution"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following human characteristics is determined solely by inherited genetic information in the genome and cannot be altered by lifestyle or environmental factors?",
+      "options": [
+        "ABO blood type",
+        "Body mass",
+        "Scar tissue on skin",
+        "Spoken language accent"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    }
+  ]
+}
