@@ -1,0 +1,226 @@
+{
+  "unitKey": "4Our solar system and beyondPhysics",
+  "generatedAt": "2026-08-12T06:04:25.665378+00:00",
+  "questions": [
+    {
+      "question": "In ancient times, people observed the Sun rising and setting, and stars shifting across the night sky. Based on these immediate, unfiltered sensory observations, which of the following models of the universe did they construct?",
+      "options": [
+        "A flat Earth that remains stationary while the Sun and all stars move around it.",
+        "A spherical Earth that spins on its axis once every 24 hours while stars remain fixed.",
+        "A flat Earth that orbits the Sun while the stars are fixed on a giant dome.",
+        "A spherical Earth at the center of the universe with other planets orbiting the Sun."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why did the geocentric model (Earth at the center of the universe) persist as the dominant belief for many centuries until the 16th century?",
+      "options": [
+        "It aligned with everyday experiences of a stationary ground and the observable motion of celestial bodies.",
+        "Detailed telescopic observations of the phases of Venus supported it.",
+        "Scientists had accurately measured the gravitational pull of the Earth on the Sun.",
+        "Stellar parallax was easily observed with the naked eye, proving Earth's central position."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "During a typical summer day in the UK, how do the path of the Sun and the day length compare to a winter day?",
+      "options": [
+        "The Sun rises earlier, reaches a higher maximum angle above the horizon, sets later, and provides more hours of daylight.",
+        "The Sun rises later, reaches a higher maximum angle above the horizon, sets earlier, but provides more hours of daylight.",
+        "The Sun rises earlier, stays at a lower angle to the horizon, sets later, and provides fewer hours of daylight.",
+        "The Sun rises at the same time but travels faster through a higher path, resulting in equal daylight hours."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A scientist in London (Northern Hemisphere) is enjoying a warm, long summer day in July. At the exact same time, what conditions would a scientist in Stanley (Falkland Islands, Southern Hemisphere) most likely experience?",
+      "options": [
+        "Short daylight hours and cold winter conditions because their hemisphere is tilted away from the Sun.",
+        "Long daylight hours and warm summer conditions because the Earth is closer to the Sun in July.",
+        "Equal day and night hours with mild spring conditions due to the Earth's orbit.",
+        "Continuous 24-hour darkness because the Southern Hemisphere receives no light in July."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "If the tilt of Earth’s rotational axis were suddenly reduced from 23.5 degrees to 0 degrees, how would this affect the seasons on Earth?",
+      "options": [
+        "Seasonal variations in temperature and daylight hours would practically disappear.",
+        "The seasons would become much more extreme, with hotter summers and colder winters.",
+        "The Northern Hemisphere would experience permanent summer, and the Southern Hemisphere permanent winter.",
+        "The year would become twice as long because the orbit around the Sun would slow down."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When an apple falls from a tree, we say it falls 'down.' What does 'down' actually mean in terms of gravity on a spherical Earth?",
+      "options": [
+        "It means the object is being pulled directly towards the geometric centre of the Earth.",
+        "It means the object is being pushed by atmospheric pressure towards the Earth's crust.",
+        "It means the object is moving towards the South Pole due to magnetic alignment.",
+        "It means the object is falling in a straight line towards the flat surface beneath it."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Planet X has twice the mass of Planet Y, but they are the same physical size. How would the gravitational pull at the surface of Planet X compare to Planet Y?",
+      "options": [
+        "The gravitational pull at the surface of Planet X would be stronger because of its greater mass.",
+        "The gravitational pull would be the same because their volumes and sizes are identical.",
+        "Planet Y would have a stronger gravitational pull because it is less dense.",
+        "Neither planet would exert a gravitational pull because gravity only exists for stars."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "An astronaut travels from the surface of the Earth to a space station orbiting high above the atmosphere. Which statement best describes the Earth's gravitational pull on the astronaut during this journey?",
+      "options": [
+        "The gravitational pull exists at the space station but is weaker than it was on the Earth's surface.",
+        "The gravitational pull completely disappears as soon as the astronaut exits the Earth's atmosphere.",
+        "The gravitational pull increases because there is no air to block the gravity.",
+        "The gravitational pull remains exactly the same strength regardless of how far the astronaut travels."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "The Moon travels in a continuous orbit around the Earth. What prevents the Moon from flying off in a straight line into deep space?",
+      "options": [
+        "The Earth's gravitational force constantly pulls the Moon towards the Earth's centre, changing its direction of motion.",
+        "The magnetic attraction between the iron cores of the Earth and the Moon.",
+        "The push from the solar wind originating from the Sun which keeps the Moon trapped.",
+        "A physical layer of dark matter that binds the Moon to the Earth's atmosphere."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "If the Sun's gravity were to suddenly be 'switched off,' what would happen to the motion of the Earth?",
+      "options": [
+        "It would fly off in a straight line, tangent to its orbit, at a constant speed.",
+        "It would immediately fall directly into the center of where the Sun used to be.",
+        "It would continue orbiting the empty space where the Sun was due to momentum.",
+        "It would begin spinning much faster on its axis and spiral outwards in a perfect circle."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why does a solar panel generate more electricity when it is positioned perpendicular (at 90 degrees) to the incoming sunlight compared to when it is tilted at a shallow angle?",
+      "options": [
+        "The energy is concentrated on a smaller area when the light hits directly overhead, making heating and energy absorption more effective.",
+        "The solar panel reflects less light when tilted at a shallow angle, reducing its efficiency.",
+        "The light travels a shorter distance through the solar panel material when hitting at a shallow angle.",
+        "The Earth's magnetic field blocks light that hits the panel at a 90-degree angle."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A flashlight is shone directly at a wall from straight ahead (face-on), and then tilted to shine at an angle. How does the area of the illuminated spot change when tilted?",
+      "options": [
+        "The spot becomes larger and the light spreads out over a wider area, making the illumination dimmer.",
+        "The spot becomes smaller and more concentrated, making the illumination brighter.",
+        "The spot remains the exact same size but changes shape from a circle to a square.",
+        "The spot disappears because light cannot reflect when hitting a surface at an angle."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "During a clear day, why does the ground feel much warmer at midday (12:00 PM) compared to just after sunrise (6:00 AM)?",
+      "options": [
+        "At midday, the Sun is highest in the sky, meaning its rays hit the ground most directly and are least spread out.",
+        "At midday, the Earth is physically closer to the Sun than it is at sunrise.",
+        "At sunrise, the Sun's nuclear fusion reactions are weaker and emit less heat energy.",
+        "At midday, the Earth stops spinning for a brief moment, allowing heat to build up."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "As you observe a shadow of a vertical stick on a sunny day from 8:00 AM to 6:00 PM, the shadow length changes. What physical process on Earth causes this change in shadow length?",
+      "options": [
+        "The Earth's rotation on its axis, which changes the apparent height of the Sun and the angle of its incoming rays.",
+        "The Earth moving closer to and further from the Sun in its daily orbit.",
+        "The tilt of the Earth's axis changing continuously back and forth throughout the day.",
+        "The Sun physically moving up and down in a straight vertical line above the Earth."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Many diagrams of the solar system show the planets crowded close together next to a large Sun. Why are these diagrams misleading?",
+      "options": [
+        "In reality, the distances between the planets are vast, making the physical sizes of the planets tiny specks by comparison.",
+        "In reality, the planets are actually much larger than the Sun and cannot fit close together.",
+        "In reality, the planets all orbit inside the Sun's outer atmosphere.",
+        "In reality, the planets are arranged in a straight vertical column rather than horizontal orbits."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "As the Earth orbits the Sun over 12 months, its axis of rotation points in the same direction in space. What is the direct consequence of this fixed tilt direction?",
+      "options": [
+        "Different parts of the Earth are tilted towards the Sun at different points in the orbit, causing the seasons to change.",
+        "The Earth spins in opposite directions during summer and winter.",
+        "The Sun's gravity pulls harder on the Northern Hemisphere in June than in December.",
+        "The Earth's distance from the Sun changes dramatically, causing global temperature shifts."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Why do countries located near the Equator, such as Ecuador or Kenya, not experience distinct summer and winter seasons like countries further north or south?",
+      "options": [
+        "Because the Equator remains nearly face-on to the incoming solar rays throughout the entire orbit, keeping temperatures stable.",
+        "Because the Equator is always the closest point on Earth to the Sun regardless of the tilt.",
+        "Because the Earth's tilt only affects the polar regions and does not tilt the Equator.",
+        "Because the Equator spins much faster than the poles, generating its own constant heat."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "To an observer on Earth, Sirius (the Dog Star) appears as a tiny, twinkling dot of light, whereas our Sun appears as a giant, blindingly bright disc. What is the main reason for this extreme difference in appearance?",
+      "options": [
+        "Sirius is located vastly further away from Earth than the Sun, making it appear much smaller and dimmer.",
+        "Sirius is a cold planet that does not emit its own light, only reflecting distant starlight.",
+        "The Earth's atmosphere blocks 99% of the light from all stars except the Sun.",
+        "Sirius is physically only the size of a small asteroid compared to the massive Sun."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Why do astronomers use the unit 'light-year' to describe the distance to nearby stars rather than using kilometres or miles?",
+      "options": [
+        "Kilometres would result in numbers so incredibly large they are impractical to write or comprehend.",
+        "A light-year measures the age of a star, which is more important than its physical distance.",
+        "Light travels at different speeds in space, so kilometres are not constant.",
+        "Stars are constantly moving, so a unit of time is more stable than a unit of distance."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "If you observe the Moon over a four-week period, it appears to change from a thin crescent to a full circle and back again. What causes this regular cycle of phases?",
+      "options": [
+        "As the Moon orbits the Earth, we see different amounts of its sunlit half from our position on Earth.",
+        "The Earth's shadow blocks different amounts of the Moon's light each night.",
+        "The Moon physically expands and contracts as it gets closer to and further from the Sun.",
+        "Clouds in the upper atmosphere permanently block parts of the Moon in a monthly cycle."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 36
+    }
+  ]
+}

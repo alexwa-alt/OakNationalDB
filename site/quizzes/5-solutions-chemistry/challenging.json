@@ -1,0 +1,226 @@
+{
+  "unitKey": "5SolutionsChemistry",
+  "generatedAt": "2026-08-12T06:04:33.173453+00:00",
+  "questions": [
+    {
+      "question": "A student observes pollen grains dancing randomly under a microscope when suspended in water. If the water is replaced by a slightly thicker liquid at the same temperature, what is the best explanation of what happens to this motion?",
+      "options": [
+        "The motion stops completely because the water molecules have disappeared.",
+        "The motion continues but becomes slower because the thicker liquid's particles collide with the pollen differently.",
+        "The motion accelerates because thicker liquids contain more energetic particles.",
+        "The pollen grains dissolve completely, meaning no motion can be observed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If a drop of blue food dye is carefully placed at the bottom of a still beaker of water, it slowly spreads out without being stirred. Which statement best describes the final state of the mixture?",
+      "options": [
+        "The dye particles will eventually settle back at the bottom due to gravity.",
+        "The dye particles will eventually achieve a completely uniform, random distribution throughout the water.",
+        "The dye particles will cluster in the middle where there is less water pressure.",
+        "The dye particles will only spread if the water is heated to its boiling point."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "In an experiment, a student adds a drop of ink to hot water and another drop to cold water. The ink spreads much faster in the hot water. Why does this happen?",
+      "options": [
+        "The particles in the hot water move more quickly, colliding with and dispersing the ink faster.",
+        "Hot water particles are larger, which pushes the ink particles further apart.",
+        "The hot water has less gravity acting on it, allowing the ink to rise.",
+        "The cold water particles have stopped moving entirely, blocking the ink."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A student mixes a spoonful of flour into water and stirs it. Initially, the liquid looks cloudy. After leaving it on the desk for an hour, they notice a layer of flour at the bottom and clear water above. What does this tell us about the mixture?",
+      "options": [
+        "It is a solution, because the flour has completely dissolved into the water.",
+        "It is a suspension, because the solid particles were visible and eventually settled over time.",
+        "It is a pure substance, because the flour and water have chemically combined.",
+        "It is a solution, because the particles have reached a permanent random distribution."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why does a solid lump of sugar not dissolve instantly the moment it touches water?",
+      "options": [
+        "The water molecules must first freeze the sugar to break it apart.",
+        "The forces of attraction holding the sugar particles together must be overcome by interactions with the water.",
+        "The sugar particles are too heavy to be moved by the lightweight water molecules.",
+        "The sugar must melt into a liquid before it can mix with any solvent."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A student measures 50 cm³ of ethanol and 50 cm³ of water. When they mix them together in a measuring cylinder, the total volume is recorded as 97 cm³ instead of 100 cm³. What is the most scientifically accurate explanation for this observation?",
+      "options": [
+        "Some of the liquid particles evaporated instantly due to a chemical reaction.",
+        "One type of particle is smaller and fits into the spaces between the other type of particle.",
+        "The measuring cylinder shrunk when the two liquids were mixed together.",
+        "Mass was lost during the physical mixing process, reducing the volume."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which of the following scenarios describes a key difference between the process of melting and the process of dissolving?",
+      "options": [
+        "Melting requires only heat to change state, whereas dissolving requires interaction with a solvent.",
+        "Melting is a chemical change that creates new substances, while dissolving is a physical change.",
+        "Dissolving requires heat to break chemical bonds, while melting can happen at any temperature without energy.",
+        "Melting only happens to pure substances, whereas dissolving only happens to mixtures."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A student dissolves 15 g of salt into 100 g of water in a sealed flask. What will be the total mass of the resulting salt solution?",
+      "options": [
+        "Exactly 115 g, because the masses of the mixed substances add together and mass is conserved.",
+        "Slightly less than 115 g, because the salt particles fit into the spaces between water particles.",
+        "Slightly more than 115 g, because the salt particles react and gain mass from the air.",
+        "Exactly 100 g, because the dissolved salt no longer has any measurable mass."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A student wants to measure exactly 12.5 cm³ of acid for a titration where precision is critical. Why should they choose a burette instead of a beaker?",
+      "options": [
+        "A beaker is designed for heating liquids, so it cannot hold acid safely.",
+        "A burette is designed for precise volume delivery, and using the wrong equipment impacts the quality of results.",
+        "A beaker cannot hold volumes of liquid that are not whole numbers.",
+        "A burette chemically reacts with the acid to make it easier to see."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A chemist heats a clear liquid and observes that it begins to boil at exactly 100°C, and the temperature remains constant at 100°C until all of it has boiled away. What does this tell them about the liquid?",
+      "options": [
+        "The liquid is a mixture because it boiled at a single temperature.",
+        "The liquid is a pure material because it has a fixed boiling point.",
+        "The liquid is an unstable compound that is decomposing.",
+        "The liquid must be a solution of salt and water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Road grit (salt) is spread on icy roads in winter. How does this help clear the ice, based on physical properties?",
+      "options": [
+        "The salt acts as a blanket, keeping the ice warm so it melts.",
+        "The salt acts as an impurity, lowering the melting point of the water so it melts at a lower temperature.",
+        "The salt reacts chemically with the ice, releasing heat that melts it.",
+        "The salt absorbs the water, turning the ice directly into a gas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A sample of wax is heated slowly, and its temperature is recorded. The wax begins to melt at 45°C, but does not completely turn into a liquid until the temperature reaches 52°C. What does this indicate about the wax?",
+      "options": [
+        "The wax is a pure material that has a high heat capacity.",
+        "The wax is a mixture, which causes it to melt over a range of temperatures.",
+        "The thermometer being used is faulty and cannot read a fixed temperature.",
+        "The wax is undergoing a chemical decomposition rather than melting."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "A student keeps adding spoonfuls of sugar to 100 ml of water at room temperature. After 5 spoonfuls, no more sugar dissolves, even after stirring for 10 minutes. Why did the sugar stop dissolving?",
+      "options": [
+        "The sugar molecules have bonded with each other to form an indestructible solid.",
+        "At a given temperature, there is a limit to how much solute can dissolve in a solvent.",
+        "The water molecules have evaporated, leaving no room for the sugar.",
+        "The student did not stir fast enough to break the water's chemical bonds."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A hot, saturated solution of copper sulfate is left on a windowsill to cool down. After several hours, blue crystals are seen at the bottom of the beaker. What process explains this?",
+      "options": [
+        "The copper sulfate reacted with the glass beaker to form a new compound.",
+        "As the solution cooled, the solute became less soluble and crystallized out.",
+        "The solvent expanded, pushing the solute out of the solution.",
+        "The cooling process melted the copper sulfate, turning it back into a solid."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "After plotting points for solubility versus temperature on a scatter graph, a student draws a smooth curve that passes close to most of the points. What is the primary purpose of drawing this line of best fit?",
+      "options": [
+        "To connect every single data point directly to show experimental errors.",
+        "To help identify and describe the overall relationship between the two variables.",
+        "To change the actual experimental values to make the data look perfect.",
+        "To show that the independent variable did not affect the dependent variable."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "A student investigates how the temperature of water affects the solubility of salt. Which of the following is the most complete and scientifically sound conclusion for this investigation?",
+      "options": [
+        "'The temperature of the water increased as I heated it with the Bunsen burner.'",
+        "'As the temperature of the water (independent variable) increased, the amount of salt that dissolved (dependent variable) also increased.'",
+        "'Salt dissolves very well in water because water is a good solvent.'",
+        "'The amount of salt dissolved stayed at 35 grams because we used a balance to measure it.'"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "A student wants to dissolve a tablet of medicine as quickly as possible. Based on scientific principles, which combination of changes would most likely increase the rate and amount of dissolving?",
+      "options": [
+        "Crush the tablet into a powder and use hot water instead of cold water.",
+        "Keep the tablet whole and use cold oil instead of warm water.",
+        "Crush the tablet and use a smaller volume of cold water.",
+        "Keep the tablet whole and stir it very slowly in a saturated solution."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "In an experiment to find out how the type of solvent affects how much sugar can dissolve, a student uses water, ethanol, and propanol. What is the independent variable in this investigation?",
+      "options": [
+        "The mass of sugar that dissolves.",
+        "The type of solvent used.",
+        "The temperature of the room.",
+        "The volume of solvent used."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "A student measures how long it takes for 5 grams of salt to dissolve in water at different temperatures. What is the dependent variable in this investigation?",
+      "options": [
+        "The temperature of the water.",
+        "The time taken for the salt to dissolve.",
+        "The mass of the salt used.",
+        "The volume of the water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 39
+    },
+    {
+      "question": "A student wants to test if stirring speed affects how fast sugar dissolves. They set up two beakers: Beaker A has 100 ml of hot water and is stirred quickly; Beaker B has 50 ml of cold water and is stirred slowly. Why is this not a fair test?",
+      "options": [
+        "Because they used two different beakers which made the measurement of time impossible.",
+        "Because they changed multiple variables (temperature, volume, and stirring speed) instead of only changing the stirring speed.",
+        "Because stirring speed cannot be measured with standard school laboratory equipment.",
+        "Because sugar dissolves at the same rate regardless of temperature or volume."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 41
+    }
+  ]
+}
