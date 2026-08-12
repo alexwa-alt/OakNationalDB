@@ -1,0 +1,193 @@
+{
+  "unitKey": "8Earth's resourcesChemistry",
+  "generatedAt": "2026-08-12T05:49:40.562155+00:00",
+  "questions": [
+    {
+      "question": "Why do rocks remain solid under normal surface conditions on Earth?",
+      "options": [
+        "Their melting points are extremely high.",
+        "They contain high amounts of water.",
+        "They are constantly cooled by wind.",
+        "Their chemical composition prevents heating."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the correct terminology for melted rock depending on its location?",
+      "options": [
+        "Melted rock is called magma on Earth's surface and lava underground.",
+        "Melted rock is called lava on Earth's surface and magma underground.",
+        "Melted rock is called silt on Earth's surface and magma underground.",
+        "Melted rock is called lava on Earth's surface and granite underground."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How do extrusive and intrusive igneous rocks differ in where they form?",
+      "options": [
+        "Extrusive forms inside the crust, while intrusive forms outside.",
+        "Extrusive forms in the mantle, while intrusive forms on the surface.",
+        "Extrusive forms outside Earth's crust, while intrusive forms inside the crust.",
+        "Extrusive forms in the core, while intrusive forms in the oceans."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the main factor that determines the size of crystals in an igneous rock?",
+      "options": [
+        "The volume of melted rock available.",
+        "The rate at which the melted rock cools.",
+        "The amount of water dissolved in the melt.",
+        "The density of the surrounding air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following describes the shape arrangements of grains that can be found in rocks?",
+      "options": [
+        "Grains can be round or interlocking.",
+        "Grains are always perfectly square.",
+        "Grains can only be metallic or gaseous.",
+        "Grains are always liquid or hollow."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How are atoms arranged inside a crystal structure?",
+      "options": [
+        "In a completely random and disorganized way.",
+        "In a very regular, repeating pattern.",
+        "In layers of liquid that flow past each other.",
+        "In clusters that change shape constantly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What conditions are required to alter original rock structures to form metamorphic rocks?",
+      "options": [
+        "Extreme pressure and high temperature.",
+        "Rapid cooling at the surface and low pressure.",
+        "Complete melting followed by slow crystallization.",
+        "Dissolving in rainwater and evaporation."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What are rocks primarily made of?",
+      "options": [
+        "Pure liquid water and dissolved gases.",
+        "Minerals and rock fragments.",
+        "Only organic plant matter.",
+        "Pure metallic elements from the core."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following best defines a mineral?",
+      "options": [
+        "A man-made mixture of metals with no repeating structure.",
+        "A naturally occurring pure substance (element or compound) with a crystal structure.",
+        "Any liquid found deep within the Earth's mantle.",
+        "A soft organic substance derived only from decayed trees."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which statement accurately describes the general structure of the planet Earth?",
+      "options": [
+        "It is a flat, gaseous planet covered entirely in thick ice.",
+        "It is a spherical, rocky planet with a thin crust, partially covered in water.",
+        "It is a hollow metallic planet with a thick crust and no water.",
+        "It is a perfectly square planet made of pure volcanic glass."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is the name of the dense, rocky layer located directly beneath Earth's crust?",
+      "options": [
+        "The outer core",
+        "The inner core",
+        "The mantle",
+        "The atmosphere"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What is the structure of Earth's core at the very centre of the planet?",
+      "options": [
+        "A liquid metallic core surrounded by a gas layer.",
+        "A solid rocky core surrounded by a plastic mantle.",
+        "A solid metallic core surrounded by a liquid outer core.",
+        "A hollow sphere filled with pressurized magma."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Which evidence supports the scientific idea that the continents were once joined together?",
+      "options": [
+        "Similar rock formations and fossils found across different oceans.",
+        "The fact that all oceans have the exact same depth.",
+        "Artificial satellite signals sent through the Earth.",
+        "The identical weather patterns experienced globally."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What are the giant pieces of Earth's broken crust called, and how do they move?",
+      "options": [
+        "Magma currents, which move at the speed of sound.",
+        "Tectonic plates, which move very, very slowly.",
+        "Continental shelves, which remain completely stationary.",
+        "Mantle plumes, which spin rapidly clockwise."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which of the following is a key feature of sedimentary rocks?",
+      "options": [
+        "They are made of massive interlocking crystals that grew under high pressure.",
+        "They contain distinct grains that are stuck together.",
+        "They are formed purely from liquid metal cooling on the surface.",
+        "They have no structure and flow like a liquid when touched."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "How does the alignment of crystals differ between igneous and metamorphic rocks?",
+      "options": [
+        "Igneous rock crystals line up, while metamorphic rock crystals point in many directions.",
+        "Igneous rock crystals point in many directions, while metamorphic rock crystals mostly line up.",
+        "Igneous rocks have no crystals, while metamorphic rocks are made entirely of aligned crystals.",
+        "Both rock types have crystals that are perfectly aligned in the same horizontal direction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What determines whether a rock is porous (able to absorb water) or non-porous?",
+      "options": [
+        "Non-porous rocks have interlocking grains or crystals, while porous rocks do not.",
+        "Porous rocks contain heavy metals, while non-porous rocks only contain sand.",
+        "Non-porous rocks are formed only in water, while porous rocks form in dry deserts.",
+        "Porous rocks have aligned crystals, while non-porous rocks have random crystals."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "unitKey": "10Reproduction in humansBiology",
+  "generatedAt": "2026-08-12T05:49:30.582855+00:00",
+  "questions": [
+    {
+      "question": "What scientific term is used to describe the human sex cells (sperm and egg cells)?",
+      "options": [
+        "Zygotes",
+        "Gametes",
+        "Embryos",
+        "Hormones"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In human sexual reproduction, what proportion of the offspring's genetic material is inherited from each parent?",
+      "options": [
+        "A quarter from each",
+        "All of it from one parent",
+        "Half from each parent",
+        "Three-quarters from one parent"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Where does fertilisation typically take place in the female reproductive system when gametes fuse?",
+      "options": [
+        "In the uterus",
+        "In the ovaries",
+        "In the cervix",
+        "In the fallopian tubes"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "After a zygote is formed, it divides repeatedly to form a ball of cells. What is this ball of cells called?",
+      "options": [
+        "An embryo",
+        "A gamete",
+        "A placenta",
+        "A hormone"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is the typical duration of the human gestation period?",
+      "options": [
+        "About 20 weeks",
+        "About 30 weeks",
+        "About 40 weeks",
+        "About 50 weeks"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the primary purpose of the amniotic fluid surrounding the growing foetus?",
+      "options": [
+        "To transfer oxygen to the blood",
+        "To protect the foetus from damage",
+        "To digest nutrients for the baby",
+        "To produce hormones"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which organ allows the transfer of nutrients from the mother to the foetus and the removal of waste products?",
+      "options": [
+        "The ovary",
+        "The placenta",
+        "The cervix",
+        "The fallopian tube"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following harmful substances can cross the placenta from the mother's blood to the developing foetus?",
+      "options": [
+        "Only large protein molecules",
+        "Red blood cells and platelets",
+        "Chemicals in cigarette smoke and alcohol",
+        "Stomach acid and digestive enzymes"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What is a potential short-term consequence for the baby if harmful substances like alcohol or cigarette chemicals pass through the placenta during pregnancy?",
+      "options": [
+        "High blood pressure in adulthood",
+        "Low birth weight or premature birth",
+        "Slowing of the mother's digestion",
+        "Genetic mutation of the parents' gametes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of the following is a potential long-term consequence of alcohol consumption during pregnancy?",
+      "options": [
+        "Foetal alcohol spectrum disorder",
+        "Temporary morning sickness",
+        "Immediate twin development",
+        "Decreased gestation period to 10 weeks"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In the male reproductive system, where are sperm cells produced and stored?",
+      "options": [
+        "In the glands",
+        "In the bladder",
+        "In the testes",
+        "In the urethra"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which statement about egg cells in human females is correct?",
+      "options": [
+        "Females make new egg cells daily throughout life",
+        "Females are born with all their eggs inside their ovaries",
+        "Eggs are produced only after a woman reaches 30",
+        "Eggs are stored in the uterus until fertilisation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What causes the physical changes that occur in males and females during puberty?",
+      "options": [
+        "A sudden change in diet",
+        "The production of sex hormones",
+        "An increase in water intake",
+        "The rapid division of red blood cells"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "How are physical features inherited by offspring during reproduction?",
+      "options": [
+        "Through the sharing of nutrients in the womb",
+        "By copying the physical activities of the parents",
+        "When genetic material (DNA) is passed from parents",
+        "Through the action of environmental hormones"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "What is the average length of the human menstrual cycle?",
+      "options": [
+        "14 days",
+        "28 days",
+        "40 days",
+        "7 days"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "What happens during menstruation if fertilisation does not occur after ovulation?",
+      "options": [
+        "The egg immediately implants in the fallopian tube",
+        "The uterus lining breaks down and leaves the body",
+        "The ovaries produce more sperm cells",
+        "The gestation period begins immediately"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    }
+  ]
+}

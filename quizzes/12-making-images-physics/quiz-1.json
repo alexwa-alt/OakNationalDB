@@ -1,0 +1,182 @@
+{
+  "unitKey": "12Making imagesPhysics",
+  "generatedAt": "2026-08-12T05:49:34.869124+00:00",
+  "questions": [
+    {
+      "question": "What basic components make up a pinhole camera?",
+      "options": [
+        "A lens at the front, a mirror at the back, and a closed box",
+        "An empty, closed box with a tiny hole on the front face and a screen on the back face",
+        "Two parallel glass plates inside a hollow tube with an eyepiece",
+        "A transparent triangular prism inside a dark cylinder"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What are the characteristics of the image produced by a standard pinhole camera, and what happens if you add more holes?",
+      "options": [
+        "The image is bright and upright; adding more holes makes it larger.",
+        "The image is dim and inverted; adding more holes produces multiple images.",
+        "The image is bright and inverted; adding more holes makes it sharper.",
+        "The image is dim and upright; adding more holes makes it disappear."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the effect of making the hole in a pinhole camera larger?",
+      "options": [
+        "The image becomes brighter but blurred because more light passes through in more directions.",
+        "The image becomes dimmer but sharper because fewer light rays overlap.",
+        "The image becomes smaller and inverted because of increased diffraction.",
+        "The image disappears completely because the light rays cancel each other out."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following statements is true about how light from an object passes through a lens?",
+      "options": [
+        "Light only passes through the very centre of a lens to form an image.",
+        "Some light from every point on an object passes through every part of a lens.",
+        "Only light from the top of an object passes through the upper half of a lens.",
+        "Light must pass through both the front and back surfaces at the exact same spot to be focused."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How does a convex lens affect light rays, and what is the meeting point of these rays called?",
+      "options": [
+        "It refracts light rays so they travel away from each other; the point they diverge from is called the normal.",
+        "It reflects light rays back to the source; the point they return to is called the origin.",
+        "It refracts light rays so they travel more towards each other; the point where they meet is called a focus.",
+        "It absorbs light rays to prevent scattering; the point of maximum absorption is called the shadow."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following correctly describes the size, orientation, and position of a reflection in a plane mirror compared to the object?",
+      "options": [
+        "It is smaller, inverted, and closer to the mirror than the object.",
+        "It is larger, upright, and twice as far behind the mirror as the object is in front.",
+        "It is the same size, upright, and the same distance behind the mirror as the object is in front.",
+        "It is the same size, inverted, and located directly on the surface of the mirror."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "When an object is facing us, how does its reflection in a plane mirror appear?",
+      "options": [
+        "It appears vertically upside down.",
+        "It appears laterally inverted (left and right are swapped).",
+        "It appears completely unchanged in orientation.",
+        "It appears magnified and rotated by 90 degrees."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why are mirror reflections classified as virtual images?",
+      "options": [
+        "They can be projected onto a screen placed behind the mirror.",
+        "They appear where light rays actually cross and meet in physical space.",
+        "They are produced by light rays that only travel in straight lines after reflecting.",
+        "They appear where light rays seem to have come from, not where they actually come from."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What determines the colour an object appears to be when viewed in white or coloured light?",
+      "options": [
+        "The chemical temperature of the light source hitting its surface.",
+        "The speed at which light reflects off the object's surface.",
+        "The amounts of red, green, and blue light it is reflecting.",
+        "The total amount of light that passes directly through the object."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why does a white object look red when red light is shone on it?",
+      "options": [
+        "It absorbs all red light and reflects other colours.",
+        "It reflects all colours of light, so it looks the same colour as the incident light.",
+        "It converts the incident red light into white light.",
+        "White objects can only reflect light when the room is completely dark."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which statement correctly describes what happens to light that is not reflected by an object, and how black objects behave?",
+      "options": [
+        "Unreflected light is scattered; black objects scatter all colours of light.",
+        "Unreflected light is refracted; black objects refract all colours of light.",
+        "Unreflected light is absorbed; black objects absorb all colours of light.",
+        "Unreflected light is transmitted; black objects transmit all colours of light."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What happens to a ray of light when it enters a transparent material (like glass) from air at an angle to the normal?",
+      "options": [
+        "It turns towards the normal.",
+        "It turns away from the normal.",
+        "It continues in a straight line without changing direction.",
+        "It is completely reflected back into the air."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "When light leaves a transparent material and re-enters the air at an angle, how does its path change?",
+      "options": [
+        "It bends directly along the normal line.",
+        "It turns towards the normal.",
+        "It turns away from the normal.",
+        "It stops refracting and travels in a circle."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What is the path of a light ray that enters and leaves a block of glass with parallel sides?",
+      "options": [
+        "It is bent at a right angle and leaves perpendicular to its original path.",
+        "It ends up in its original direction, but is displaced to the side.",
+        "It is completely absorbed inside the glass and does not exit.",
+        "It exits in a random direction depending on the thickness of the glass."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "How can you create a secondary colour of light, and what happens when all three primary colours of light are mixed in equal amounts?",
+      "options": [
+        "Mix unequal amounts of three primary colours; they make black.",
+        "Mix equal amounts of two primary colours; all three mixed in equal amounts makes white.",
+        "Mix a primary colour with black; all three mixed in equal amounts makes yellow.",
+        "Mix any colour with white light; all three mixed in equal amounts makes a shadow."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "How do display screens produce a wide range of different colours?",
+      "options": [
+        "They contain tiny liquid prisms that rotate to filter white light.",
+        "They use tiny red, green, and blue lights (pixels) that vary in brightness.",
+        "They reflect ambient light using miniature mirrors of different shapes.",
+        "They dynamically paint chemical dyes onto the glass surface."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    }
+  ]
+}

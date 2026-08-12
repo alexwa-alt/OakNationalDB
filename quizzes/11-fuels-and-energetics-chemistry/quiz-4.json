@@ -1,0 +1,204 @@
+{
+  "unitKey": "11Fuels and energeticsChemistry",
+  "generatedAt": "2026-08-12T05:49:36.747988+00:00",
+  "questions": [
+    {
+      "question": "When a fuel undergoes combustion, how does it primarily transfer energy to its environment?",
+      "options": [
+        "By heating its surroundings",
+        "By cooling its surroundings",
+        "By absorbing thermal energy",
+        "By magnetic radiation"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which laboratory method is used to compare the amounts of energy transferred by different fuels?",
+      "options": [
+        "Measuring the volume of gas released during combustion",
+        "Heating water in a boiling tube and comparing the temperature changes",
+        "Weighing the ash remaining after burning",
+        "Measuring the height of the flame produced"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "To ensure a fair test when comparing the energy output of different fuels, what must be kept identical for each fuel sample?",
+      "options": [
+        "The shape of the container storing the fuel",
+        "The color and smell of the fuel",
+        "The mass of the fuel used for each measurement",
+        "The time of day the fuel is burned"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "In a fuel-comparison experiment using heated water, what variables regarding the water must be kept constant?",
+      "options": [
+        "Its boiling point and chemical formula",
+        "Its starting temperature and volume",
+        "Its density and state of matter only",
+        "Its mass and purity only"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How do state changes appear on a cooling curve graph of a substance?",
+      "options": [
+        "As steep downward diagonal lines",
+        "As sharp, vertical drops",
+        "As flat, horizontal plateaus",
+        "As sudden upward spikes"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What happens when a substance cools down and undergoes a physical change?",
+      "options": [
+        "It absorbs energy from the surroundings and may melt or boil",
+        "It transfers energy into the surroundings by heating and may condense or freeze",
+        "It maintains constant internal energy and may evaporate",
+        "It creates new energy and may sublime"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What temperature change is observed in the surroundings during an exothermic chemical reaction?",
+      "options": [
+        "The temperature decreases",
+        "The temperature remains completely unchanged",
+        "The temperature increases",
+        "The temperature drops to freezing point"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "If a chemical reaction in a beaker is endothermic, what happens to the temperature of the surroundings?",
+      "options": [
+        "It increases",
+        "It decreases",
+        "It fluctuates wildly up and down",
+        "It stays exactly at room temperature"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "In an exothermic reaction, how is energy transferred between the system and its surroundings?",
+      "options": [
+        "Energy is transferred from the surroundings to the products",
+        "Energy is transferred from the reactants to the surroundings",
+        "Energy is created directly inside the products",
+        "Energy is destroyed within the reactants"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How is energy transferred during an endothermic chemical reaction?",
+      "options": [
+        "From the surroundings to the products",
+        "From the reactants to the surroundings",
+        "From the products to the surroundings",
+        "From the container to the air only"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which set of phase changes consists entirely of endothermic processes?",
+      "options": [
+        "Condensing, freezing, and melting",
+        "Freezing, condensing, and evaporating",
+        "Melting, evaporation, and boiling",
+        "Boiling, condensing, and freezing"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which changes of state release energy to the surroundings and are therefore classified as exothermic?",
+      "options": [
+        "Melting and evaporating",
+        "Condensing and freezing",
+        "Boiling and melting",
+        "Subliming and evaporating"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which renewable sources generate more than half of the UK's electricity?",
+      "options": [
+        "Geothermal, biomass, and tidal power",
+        "Nuclear, coal, and oil",
+        "The Sun, wind, and falling water",
+        "Natural gas, wave power, and wood"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How is electricity produced using steam in a typical power station?",
+      "options": [
+        "Moving steam pushes turbines, which drive electric generators",
+        "Steam directly heats the generator to create electricity",
+        "Turbines heat the water to create steam, which powers the generator",
+        "Generators spin the turbines, which turns steam back into water"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is the current status of fossil fuels used in UK power stations?",
+      "options": [
+        "Coal and oil are used, while natural gas has been completely banned",
+        "Natural gas and oil are used, but coal is no longer used",
+        "Only coal and natural gas are used; oil is never used",
+        "All fossil fuels, including coal, oil, and gas, are used equally"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of these fuels release both greenhouse gases and pollutants when they are burned?",
+      "options": [
+        "Natural gas, oil, waste, and wood",
+        "Wind, solar, falling water, and waves",
+        "Hydrogen, oxygen, and nitrogen gases",
+        "Geothermal heat, tidal energy, and uranium"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why are renewable energy resources considered inexhaustible and unable to run out?",
+      "options": [
+        "They are artificial and can be manufactured in a lab",
+        "They are replenished more quickly than they are used up",
+        "They do not release any energy when utilized",
+        "They exist in infinite quantities deep inside the Earth's core"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which of the following electricity-generating devices functions without using an electric generator?",
+      "options": [
+        "Wind turbines",
+        "Hydroelectric dams",
+        "Steam-driven turbines",
+        "Solar panels"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 24
+    }
+  ]
+}

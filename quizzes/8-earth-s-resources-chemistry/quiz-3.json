@@ -1,0 +1,171 @@
+{
+  "unitKey": "8Earth's resourcesChemistry",
+  "generatedAt": "2026-08-12T05:49:33.995658+00:00",
+  "questions": [
+    {
+      "question": "Which of the following is a key physical property of rock regarding its transition to a liquid state?",
+      "options": [
+        "Its melting point is extremely high.",
+        "Its melting point is identical to that of water.",
+        "It easily melts at room temperature.",
+        "Its melting point is extremely low, below 0 degrees Celsius."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is molten rock called when it is located underground beneath the Earth's surface?",
+      "options": [
+        "Lava",
+        "Magma",
+        "Obsidian",
+        "Basalt"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Where does intrusive igneous rock form?",
+      "options": [
+        "On the surface of the Earth's crust",
+        "Inside the Earth's crust",
+        "On top of glaciers",
+        "Inside the liquid outer core"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What factor directly determines the size of the crystals that form in a cooling rock?",
+      "options": [
+        "The rate at which the melted rock cools",
+        "The amount of water present in the atmosphere",
+        "The color of the surrounding soil",
+        "The volume of air above the volcano"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Rocks are composed of grains, which can have what types of shapes or arrangements?",
+      "options": [
+        "Liquid or gaseous",
+        "Round or interlocking",
+        "Square or hollow",
+        "Metallic or fibrous"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How are the atoms arranged inside a crystal substance?",
+      "options": [
+        "In a completely random and chaotic manner",
+        "In a very regular, repeating pattern",
+        "In loose, moving liquid droplets",
+        "In a hollow sphere with no internal bonds"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Under what conditions do metamorphic rocks form, causing their original structures to alter?",
+      "options": [
+        "Freezing temperatures and low atmospheric pressure at sea level",
+        "Extreme pressure and high temperature",
+        "Rapid cooling in ocean water with no pressure",
+        "Dissolving in rainwater over a very short time"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What are the primary constituents that make up a rock?",
+      "options": [
+        "Minerals and rock fragments",
+        "Water and organic leaves",
+        "Pure liquid metals and gases",
+        "Plastic fibers and synthetic chemicals"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What is a mineral?",
+      "options": [
+        "A man-made mixture of various liquid elements",
+        "A naturally occurring pure substance with a crystal structure",
+        "Any rock that contains fossils of ancient animals",
+        "A liquid compound found only in the Earth's atmosphere"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which dense, rocky layer lies directly beneath the Earth's thin crust?",
+      "options": [
+        "The inner core",
+        "The outer core",
+        "The mantle",
+        "The atmosphere"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What is the structure of the Earth's core at the very centre of the planet?",
+      "options": [
+        "A liquid metallic core surrounded by a solid outer core",
+        "A solid metallic core surrounded by a liquid outer core",
+        "A completely gaseous chamber surrounded by solid rock",
+        "A hollow sphere filled with liquid water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why is the inner core of the Earth solid despite its extremely high temperature?",
+      "options": [
+        "Because temperature decreases towards the centre",
+        "Because pressure decreases towards the centre",
+        "Because temperature and pressure both increase towards the centre",
+        "Because the inner core is made of frozen ice"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "How is the Earth's crust structured, and how do its pieces behave?",
+      "options": [
+        "It is a single, solid, immovable shell.",
+        "It is broken into tectonic plates that move very, very slowly.",
+        "It is made of liquid plates that flow like rivers.",
+        "It is broken into plates that spin rapidly every day."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What is a key structural feature of sedimentary rocks?",
+      "options": [
+        "They contain distinct grains that are stuck together.",
+        "They are made of liquid metal that has cooled instantly.",
+        "They consist entirely of perfectly aligned large crystals.",
+        "They are formed from rapidly cooled lava on the Earth's surface."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "How do the crystal arrangements of igneous and metamorphic rocks compare?",
+      "options": [
+        "Both rock types contain crystals that align perfectly in one direction.",
+        "Igneous rocks have crystals pointing in many directions, while metamorphic rocks contain crystals that mostly line up.",
+        "Metamorphic rocks have crystals pointing in many directions, while igneous rocks contain crystals that mostly line up.",
+        "Neither rock type contains any crystal structures."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    }
+  ]
+}

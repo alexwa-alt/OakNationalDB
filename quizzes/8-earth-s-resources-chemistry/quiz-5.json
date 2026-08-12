@@ -1,0 +1,171 @@
+{
+  "unitKey": "8Earth's resourcesChemistry",
+  "generatedAt": "2026-08-12T05:49:33.465889+00:00",
+  "questions": [
+    {
+      "question": "Which of the following statements about the melting point of rock is correct?",
+      "options": [
+        "Rock melts at a very high temperature.",
+        "Rock melts at the same temperature as water freezes.",
+        "Rock has a very low melting point and melts easily in the sun.",
+        "Rock never melts because it is always solid."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the correct term for melted rock depending on its location?",
+      "options": [
+        "It is called magma on Earth's surface and lava underground.",
+        "It is called lava on Earth's surface and magma underground.",
+        "It is called crust on the surface and mantle underground.",
+        "It is called sediment on the surface and core underground."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Where do extrusive and intrusive igneous rocks form?",
+      "options": [
+        "Extrusive forms inside Earth's crust; intrusive forms outside Earth's crust.",
+        "Extrusive forms in water; intrusive forms in the atmosphere.",
+        "Extrusive forms outside Earth's crust; intrusive forms inside the crust.",
+        "Both form exclusively in the core of the Earth."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What determines the size of crystals in igneous rocks?",
+      "options": [
+        "The color of the melted rock.",
+        "The rate at which the melted rock cools.",
+        "The weight of the air above the rock.",
+        "The amount of water present in the surroundings."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "How are atoms arranged in a crystal?",
+      "options": [
+        "In a completely random and disorganized way.",
+        "In a very regular, ordered pattern.",
+        "In layers that constantly move past each other.",
+        "In liquid droplets that never solidify."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Under what conditions do metamorphic rocks form?",
+      "options": [
+        "Under extreme pressure and temperature, altering original structures.",
+        "By the rapid freezing of surface water.",
+        "By the slow accumulation of sand in a desert.",
+        "When magma cools instantly in the ocean."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is a mineral?",
+      "options": [
+        "A mixture of organic materials like plants and soil.",
+        "A liquid fuel found deep underground.",
+        "A naturally occurring pure substance with a crystal structure.",
+        "Any artificial compound made in a laboratory."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which of the following best describes the shape and outer surface of Earth?",
+      "options": [
+        "A flat, dry disk with no water.",
+        "A perfect cube with a very thick crust.",
+        "A spherical, rocky planet with a thin crust, partially covered in water.",
+        "A gas giant with a thick atmosphere and no rocky surface."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is the name of the dense rocky layer situated directly underneath Earth's crust?",
+      "options": [
+        "The outer core",
+        "The mantle",
+        "The inner core",
+        "The atmosphere"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What is located at the very centre of the Earth, and what surrounds it?",
+      "options": [
+        "A liquid metallic core surrounded by a solid outer core.",
+        "A solid metallic core surrounded by a liquid outer core.",
+        "A pocket of high-pressure gas surrounded by magma.",
+        "A hollow sphere surrounded by water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "How do temperature and pressure change towards the centre of the Earth, and how does this affect the inner core?",
+      "options": [
+        "They decrease, making the inner core cold and gaseous.",
+        "They increase, making the inner core extremely hot and solid.",
+        "They remain constant, keeping the inner core in a liquid state.",
+        "Temperature increases but pressure decreases, making the inner core a vacuum."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which statement correctly describes tectonic plates?",
+      "options": [
+        "They are giant clouds of dust in the atmosphere.",
+        "They are pieces of Earth's crust that move very, very slowly.",
+        "They are liquid layers of the outer core that flow rapidly.",
+        "They are fixed, immovable blocks that form the ocean floor."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What is a key feature of sedimentary rocks?",
+      "options": [
+        "They consist of aligned crystals that grew at high temperatures.",
+        "They contain distinct grains that are stuck together.",
+        "They are made of rapidly cooled, glassy lava.",
+        "They are entirely liquid and never solidify."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "How do the crystal arrangements differ between igneous and metamorphic rocks?",
+      "options": [
+        "Igneous rocks have crystals pointing in many directions; metamorphic rocks have crystals that mostly line up.",
+        "Igneous rocks have aligned crystals; metamorphic rocks have crystals pointing in many directions.",
+        "Igneous rocks have no crystals; metamorphic rocks are made entirely of large crystals pointing in one direction.",
+        "Both rock types have crystals that are arranged in a perfectly random liquid state."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What determines whether a rock is porous or non-porous?",
+      "options": [
+        "Non-porous rocks have interlocking grains or crystals; porous rocks do not.",
+        "Non-porous rocks are light-colored; porous rocks are dark-colored.",
+        "Non-porous rocks contain fossils; porous rocks contain none.",
+        "Porous rocks contain interlocking crystals; non-porous rocks do not."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "unitKey": "10Reproduction in humansBiology",
+  "generatedAt": "2026-08-12T05:49:32.553515+00:00",
+  "questions": [
+    {
+      "question": "What is the scientific term used to describe the human sex cells, specifically the sperm and egg cells?",
+      "options": [
+        "Zygotes",
+        "Gametes",
+        "Embryos",
+        "Hormones"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Where does fertilisation typically take place in the female reproductive system when a sperm joins with an egg?",
+      "options": [
+        "In the uterus",
+        "In the cervix",
+        "In the fallopian tubes",
+        "In the ovaries"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How does the amount of genetic material in a human gamete compare to that in a zygote?",
+      "options": [
+        "A gamete has half the genetic material, whereas a zygote has a full set.",
+        "A gamete has a full set of genetic material, while a zygote has twice the normal amount.",
+        "Both gametes and zygotes contain identical amounts of genetic material.",
+        "A gamete has double the genetic material compared to a zygote."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "After fertilisation, the zygote undergoes cell division. What is the correct sequence of stages in development?",
+      "options": [
+        "Embryo -> Foetus -> Baby",
+        "Foetus -> Embryo -> Baby",
+        "Baby -> Embryo -> Foetus",
+        "Embryo -> Baby -> Foetus"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is the typical duration of the human gestation period from fertilisation to birth?",
+      "options": [
+        "About 28 weeks",
+        "About 32 weeks",
+        "About 40 weeks",
+        "About 48 weeks"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the primary function of the amniotic fluid surrounding the developing foetus?",
+      "options": [
+        "To provide nutrients and oxygen directly to the foetus's blood",
+        "To protect the foetus from physical impacts and bumps",
+        "To carry waste products away from the foetus",
+        "To stimulate the production of sex hormones"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which organ is responsible for transferring nutrients and oxygen from the mother to the foetus and removing waste products?",
+      "options": [
+        "The amniotic sac",
+        "The placenta",
+        "The cervix",
+        "The ovary"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following statements is true regarding the placenta's ability to filter substances?",
+      "options": [
+        "The placenta completely blocks all harmful substances from reaching the foetus.",
+        "Only beneficial nutrients can pass through the placenta.",
+        "Harmful substances like alcohol, some drugs, and cigarette chemicals can pass through the placenta.",
+        "Only gaseous substances can pass through the placenta to the foetus."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What is a possible short-term consequence of harmful substances, such as alcohol or cigarette chemicals, passing to the foetus during pregnancy?",
+      "options": [
+        "Low birth weight or premature birth",
+        "Immediate development of adult features",
+        "Sudden acceleration of normal growth",
+        "Complete immunity to childhood diseases"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Where are sperm cells produced and stored within the male reproductive system?",
+      "options": [
+        "In the prostate gland",
+        "In the testes",
+        "In the bladder",
+        "In the scrotum"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which statement correctly describes how egg cells are present and released in the human female reproductive system?",
+      "options": [
+        "Females produce new egg cells every month inside their fallopian tubes.",
+        "Females are born with all their eggs in their ovaries, and one is typically released each month.",
+        "Eggs are made in the uterus and released into the vagina once a year.",
+        "Eggs are produced continuously after puberty within the cervix."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "While human reproduction involves producing a baby, how does the reproduction stage of the life cycle differ in many plants?",
+      "options": [
+        "They produce a zygote that immediately forms a mature flower.",
+        "They produce a seed that can grow into a new plant.",
+        "They rely entirely on binary fission to make clones.",
+        "They release gametes directly into the air to grow independently without fertilisation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What triggers the physical and reproductive changes that occur in males and females during puberty?",
+      "options": [
+        "The production of sex hormones",
+        "A sudden change in diet and nutrition",
+        "Physical exercises and environmental temperature",
+        "The shedding of the uterine lining"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why do offspring look similar to their parents and to one another, showcasing family resemblance?",
+      "options": [
+        "Because they are exposed to the same environment during early growth",
+        "Because they inherit features from both parents through genetic material",
+        "Because their cells divide at exactly the same rate",
+        "Because they learn to mimic their parents' physical appearance"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "On average, how long is the human female menstrual cycle?",
+      "options": [
+        "14 days",
+        "21 days",
+        "28 days",
+        "40 days"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "During the menstrual cycle, what happens during the phase known as menstruation?",
+      "options": [
+        "An egg is released from the ovary into the fallopian tube.",
+        "The uterus lining breaks down and leaves the body.",
+        "A sperm fertilises an egg to form a zygote.",
+        "The uterus lining thickens to prepare for a fertilised egg."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "unitKey": "8Earth's resourcesChemistry",
+  "generatedAt": "2026-08-12T05:49:37.616286+00:00",
+  "questions": [
+    {
+      "question": "What is the correct terminology for melted rock depending on its location?",
+      "options": [
+        "It is called magma on Earth's surface and lava underground.",
+        "It is called lava on Earth's surface and magma underground.",
+        "It is called magma in both locations.",
+        "It is called lava in both locations."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What is the main difference in formation location between extrusive and intrusive igneous rocks?",
+      "options": [
+        "Extrusive igneous rock forms inside the crust, while intrusive forms outside Earth's crust.",
+        "Extrusive igneous rock forms outside Earth's crust, while intrusive forms inside the crust.",
+        "Extrusive igneous rock forms in the mantle, while intrusive forms in the core.",
+        "Extrusive igneous rock forms in water, while intrusive forms on dry land."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What primary factor determines the size of the crystals that form in a cooling igneous rock?",
+      "options": [
+        "The rate at which the melted rock cools.",
+        "The total volume of melted rock present.",
+        "The depth at which the rock is buried after cooling.",
+        "The atmospheric pressure above the rock."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "How are the atoms arranged inside any crystal structure?",
+      "options": [
+        "In random, constantly shifting positions.",
+        "In small, isolated clumps with no repeating structure.",
+        "In a very regular, repeating pattern.",
+        "In concentric circular layers that do not touch."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Under what conditions do metamorphic rocks form, leading to the alteration of their original structures?",
+      "options": [
+        "Rapid cooling at Earth's surface in the presence of water.",
+        "Extreme pressure and temperature deep underground.",
+        "Slow evaporation of mineral-rich water at room temperature.",
+        "Low pressure and freezing temperatures in glacial areas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the scientific definition of a mineral?",
+      "options": [
+        "A man-made mixture of different organic materials.",
+        "A naturally occurring pure substance with a crystal structure.",
+        "Any rock that contains visible fossils of ancient organisms.",
+        "A liquid fuel source extracted from deep within Earth's crust."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is the name of the dense rocky layer located directly beneath Earth's crust?",
+      "options": [
+        "The inner core.",
+        "The atmosphere.",
+        "The outer core.",
+        "The mantle."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which statement correctly describes the structure of Earth's core?",
+      "options": [
+        "A liquid inner core surrounded by a solid metallic outer core.",
+        "A completely gaseous core made of hydrogen and helium.",
+        "A solid metallic core surrounded by a liquid outer core.",
+        "A hollow core containing dense volcanic gases."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What scientific evidence supports the idea that Earth's continents were once joined together in a single landmass?",
+      "options": [
+        "Matching rock formations and fossils found across different continents.",
+        "The identical temperature of the oceans surrounding each continent.",
+        "Historical written records from early human civilizations.",
+        "The uniform depth of the crust under all the continents."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which of the following is true regarding Earth's tectonic plates?",
+      "options": [
+        "They are large, unbroken solid shells that never move.",
+        "They are pieces of the crust that move very, very slowly.",
+        "They are rapidly spinning metallic plates in the outer core.",
+        "They are soft, muddy layers directly beneath the oceans."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which feature is characteristic of the structure of sedimentary rocks?",
+      "options": [
+        "They consist of large, aligned crystals that grew from magma.",
+        "They are made of liquid metal layers that cooled slowly.",
+        "They contain distinct grains that are stuck together.",
+        "They are completely uniform with no visible grains or particles."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "How do the crystal arrangements of igneous and metamorphic rocks typically differ?",
+      "options": [
+        "Igneous crystals mostly line up, while metamorphic crystals point in many directions.",
+        "Igneous crystals point in many directions, while metamorphic crystals mostly line up.",
+        "Igneous rocks have no crystals, while metamorphic rocks are made entirely of large crystals.",
+        "Both rock types have crystals that are perfectly aligned in parallel rows."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What determines whether a rock is porous or non-porous?",
+      "options": [
+        "Rocks with interlocking grains or crystals are non-porous; those without are porous.",
+        "Rocks with interlocking grains or crystals are porous; those without are non-porous.",
+        "Rocks containing fossils are always non-porous; all other rocks are porous.",
+        "Rocks formed underwater are non-porous; rocks formed on land are porous."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Which of the following is true about the melting point of rock?",
+      "options": [
+        "It is very low, allowing rocks to melt easily at room temperature.",
+        "It is very high, requiring extreme heat for rocks to melt.",
+        "It is exactly the same as the boiling point of water.",
+        "It depends only on the amount of light shining on the rock."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why are the aligned crystals in some metamorphic rocks useful for practical applications?",
+      "options": [
+        "They allow the rocks to dissolve very quickly in rainwater.",
+        "They make the rocks highly elastic so they can bend like rubber.",
+        "They give them properties like being easily separated into flat sheets.",
+        "They cause the rocks to glow brightly in the dark."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What geological condition between tectonic plates allows large crystals to grow inside solid rock?",
+      "options": [
+        "High pressure and temperature.",
+        "Extremely rapid cooling by ocean currents.",
+        "Intense exposure to ultraviolet solar radiation.",
+        "Complete absence of gravitational forces."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    }
+  ]
+}

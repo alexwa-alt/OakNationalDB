@@ -1,0 +1,171 @@
+{
+  "unitKey": "11Fuels and energeticsChemistry",
+  "generatedAt": "2026-08-12T05:49:32.100657+00:00",
+  "questions": [
+    {
+      "question": "When a fuel undergoes combustion, what is the primary way energy is transferred to the environment?",
+      "options": [
+        "By cooling the surrounding air",
+        "By heating its surroundings",
+        "By absorbing light from the environment",
+        "By creating new mass in the container"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In a school laboratory, how can a student compare the amount of energy transferred by different burning fuels?",
+      "options": [
+        "By measuring the volume of gas produced in a syringe",
+        "By heating a fixed amount of water in a boiling tube",
+        "By weighing the ashes left behind on a balance",
+        "By checking the color of the flame with a spectroscope"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "To ensure a fair comparison of energy released by different fuels, which variable regarding the fuel must be kept constant?",
+      "options": [
+        "The starting temperature of the fuel",
+        "The volume of the fuel container",
+        "The mass of fuel used in each test",
+        "The chemical formula of the fuel"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "When comparing the energy output of different fuels by heating water, what must be kept the same for the water at the start of each test?",
+      "options": [
+        "Only its chemical purity and pH level",
+        "Both its starting temperature and its volume",
+        "The material of the beaker and its depth",
+        "The rate at which the water is stirred"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How do state changes appear when analyzing a cooling curve graph of a substance?",
+      "options": [
+        "As sharp, vertical drops in temperature",
+        "As flat, horizontal plateaus on the curve",
+        "As a continuous, steady diagonal line",
+        "As a series of random upward spikes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What occurs as a gas or liquid cools down and transfers energy to its surroundings?",
+      "options": [
+        "It may condense or freeze",
+        "It always increases its internal temperature",
+        "It will sublimate into a gas",
+        "It absorbs thermal energy from the air"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "If a chemical reaction is described as exothermic, what observable change occurs in the surroundings?",
+      "options": [
+        "The temperature of the surroundings decreases",
+        "The surroundings turn into a solid state",
+        "The temperature of the surroundings increases",
+        "The surrounding air pressure drops instantly"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What is the characteristic temperature change of the surroundings during an endothermic chemical reaction?",
+      "options": [
+        "The temperature remains exactly the same",
+        "The temperature decreases",
+        "The temperature rises rapidly",
+        "The temperature fluctuates up and down randomly"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which statement correctly describes the energy transfer in an exothermic reaction?",
+      "options": [
+        "Energy is transferred from the surroundings to the reactants",
+        "Energy is destroyed as the products form",
+        "Energy is transferred from the reactants to the surroundings",
+        "Energy is created within the nucleus of the atoms"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "During an endothermic reaction, where is the energy transferred?",
+      "options": [
+        "From the surroundings to the products",
+        "From the products to the reactants",
+        "From the reactants to the surroundings",
+        "From the container directly to the air"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of the following groups of state changes are all classified as endothermic processes?",
+      "options": [
+        "Condensing, freezing, and melting",
+        "Melting, evaporation, and boiling",
+        "Freezing, boiling, and condensing",
+        "Sublimation, condensing, and freezing"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why are condensing and freezing classified as exothermic processes?",
+      "options": [
+        "They absorb heat from the surroundings to break bonds",
+        "They transfer energy out to the surroundings",
+        "They increase the temperature of the substance being cooled",
+        "They require an electrical spark to initiate"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Where does over half of the electricity in the UK come from?",
+      "options": [
+        "Nuclear power plants and imported coal",
+        "The Sun, wind, and falling water",
+        "Burning natural gas and domestic wood",
+        "Geothermal energy and tidal barrages alone"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which fossil fuel is no longer used to generate electricity in UK power stations?",
+      "options": [
+        "Natural gas",
+        "Oil",
+        "Coal",
+        "Biomass"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following technologies produces electricity without using an electric generator?",
+      "options": [
+        "Wind turbines",
+        "Hydroelectric dams",
+        "Solar panels",
+        "Biomass power stations"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    }
+  ]
+}
