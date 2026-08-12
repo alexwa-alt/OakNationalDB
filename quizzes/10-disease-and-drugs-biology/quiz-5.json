@@ -1,0 +1,193 @@
+{
+  "unitKey": "10Disease and drugsBiology",
+  "generatedAt": "2026-08-12T05:50:56.527608+00:00",
+  "questions": [
+    {
+      "question": "What type of disease is asthma, and what is its primary effect on the body?",
+      "options": [
+        "It is an infectious disease that causes joint inflammation.",
+        "It is a non-infectious disease that causes breathing difficulties.",
+        "It is an infectious disease that affects digestion.",
+        "It is a non-infectious disease that blocks blood flow to the kidneys."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "During an asthma attack, what happens to the breathing (bronchial) tubes?",
+      "options": [
+        "They widen to let more air in.",
+        "They remain completely unchanged.",
+        "They narrow, making it harder to breathe.",
+        "They dissolve and reform later."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following is a recognized risk factor for developing asthma?",
+      "options": [
+        "Eating too much dietary fibre.",
+        "Having an allergy.",
+        "Regular hand washing.",
+        "Spending time in high-altitude clean air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is a defining characteristic of an infectious disease?",
+      "options": [
+        "It can only be inherited from parents.",
+        "It cannot be passed from one person to another.",
+        "It can be passed from one organism to another.",
+        "It is always caused by an unbalanced diet."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which statement is true regarding non-infectious diseases?",
+      "options": [
+        "They are spread by coughing and sneezing.",
+        "They cannot be passed from one organism to another.",
+        "They are always caused by viruses.",
+        "They can be cured by taking a single dose of antibiotics."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How do eating an unbalanced diet and not getting enough exercise affect health?",
+      "options": [
+        "They decrease the chance of catching a common cold.",
+        "They increase the risk of developing lifestyle diseases.",
+        "They make the breathing tubes wider.",
+        "They prevent any genetic conditions from developing."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which of the following lifestyle habits is known to increase the risk of developing lifestyle diseases?",
+      "options": [
+        "Doing regular aerobic exercise.",
+        "Drinking plenty of water daily.",
+        "Smoking, drinking alcohol and using drugs.",
+        "Eating a high-fibre balanced diet."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What are medicines?",
+      "options": [
+        "Any illegal substances used for recreation.",
+        "Drugs that people take when they are ill.",
+        "Chemicals used only to make food taste better.",
+        "Solvents used for household cleaning."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Into which two broad categories can recreational drugs be classified based on their general effects on the nervous system?",
+      "options": [
+        "Antibiotics and pain relief.",
+        "Legal and natural.",
+        "Depressants and stimulants.",
+        "Solvents and inhalants."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How do depressants affect a person's nervous system?",
+      "options": [
+        "They speed up thoughts and improve reaction speeds.",
+        "They slow down thinking and reaction times.",
+        "They increase physical strength and coordination.",
+        "They have no effect on brain activity."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What type of drug is alcohol, and what are the long-term risks of using it?",
+      "options": [
+        "It is a legal stimulant that damages the lungs.",
+        "It is a legal depressant that can damage the brain and liver over time.",
+        "It is an illegal depressant that has no long-term health risks.",
+        "It is a medicine used to treat bacterial infections."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is a typical effect of a stimulant on the human body?",
+      "options": [
+        "It makes you feel sleepy and slows down reactions.",
+        "It reduces your heart rate and numbs pain.",
+        "It makes you feel more alert and can give you quicker thinking and reaction times.",
+        "It causes immediate loss of consciousness and permanent memory loss."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What substance is found in tobacco leaves that makes smoking highly addictive?",
+      "options": [
+        "Tar",
+        "Carbon monoxide",
+        "Nicotine",
+        "Caffeine"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What is solvent abuse?",
+      "options": [
+        "Swallowing prescription medications with water.",
+        "Inhaling chemicals from substances like glue or paint thinner to become intoxicated.",
+        "Injecting recreational drugs into blood vessels.",
+        "Overusing household cleaning liquids on kitchen surfaces."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "What are the potential consequences of solvent abuse?",
+      "options": [
+        "Only minor temporary coughs with no long-term effects.",
+        "Improved concentration and respiratory health.",
+        "Risks of long-term health problems and it can lead to death.",
+        "Complete immunity to bacterial infections."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "In what way is vaping similar to traditional smoking?",
+      "options": [
+        "It involves burning tobacco leaves directly in the mouth.",
+        "It involves consuming nicotine, which is detrimental to health.",
+        "It produces identical yellow ash and tar stains.",
+        "It has been proven to be completely harmless to the lungs."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "What is currently true about the long-term health effects of vaping?",
+      "options": [
+        "They are fully known and documented to be completely safe.",
+        "They are identical in every way to the effects of drinking alcohol.",
+        "They are not yet fully known.",
+        "They are proven to prevent asthma attacks."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 37
+    }
+  ]
+}

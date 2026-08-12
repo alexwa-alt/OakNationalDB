@@ -1,0 +1,171 @@
+{
+  "unitKey": "9WavesPhysics",
+  "generatedAt": "2026-08-12T05:51:00.908444+00:00",
+  "questions": [
+    {
+      "question": "Which of the following correctly lists the parts of the ear in the order they are vibrated by sound waves?",
+      "options": [
+        "Eardrum, tiny bones, and cochlea",
+        "Cochlea, tiny bones, and eardrum",
+        "Eardrum, auditory nerve, and brain",
+        "Cochlea, auditory nerve, and tiny bones"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the role of the specialized cells in the cochlea?",
+      "options": [
+        "They block high-frequency sounds from entering the brain.",
+        "They vibrate to produce new sound waves inside the ear.",
+        "They sense vibrations and cause electrical signals to be sent along a nerve.",
+        "They directly create the physical sensation of hearing."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What is the normal frequency range of hearing for human ears, and at which frequencies are they most sensitive?",
+      "options": [
+        "20 Hz to 20 kHz, being most sensitive to 2–5 kHz waves.",
+        "2 Hz to 200 Hz, being most sensitive to 20–50 Hz waves.",
+        "200 Hz to 200 kHz, being most sensitive to 2–5 kHz waves.",
+        "20 Hz to 20 kHz, being most sensitive to 10–15 kHz waves."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "As a sound wave travels through a medium, what is the motion of each bit of air?",
+      "options": [
+        "It travels continuously forward alongside the wave energy.",
+        "It vibrates parallel to the direction of wave travel, without travelling forwards.",
+        "It moves in circles, gradually moving forward.",
+        "It oscillates up and down at 90 degrees to the direction of travel."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What makes sound waves longitudinal waves?",
+      "options": [
+        "The direction of vibration is perpendicular to the direction of energy transfer.",
+        "The direction of vibration is parallel to the direction of energy transfer.",
+        "They can only travel through extremely long distances in air.",
+        "They do not require any particles or medium to transfer energy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why does sound travel faster in solids and liquids than in gases?",
+      "options": [
+        "The particles are further apart, giving the sound wave more room to move.",
+        "The particles are very close together, so vibrations are easily passed on.",
+        "Solids and liquids are always at a much higher temperature than gases.",
+        "The particles in solids and liquids vibrate at a much lower frequency naturally."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What explains why sound waves travel faster in solids than in liquids?",
+      "options": [
+        "The strong forces between particles in solids mean vibrations travel even faster.",
+        "The particles in solids are much lighter than those in liquids.",
+        "Solids have large gaps between their particles.",
+        "Liquids absorb all vibrations and prevent them from spreading."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which statement correctly describes the speed of sound?",
+      "options": [
+        "It is about 340 m/s in air, slower in liquids, and slowest in solids.",
+        "It is about 340 m/s in air, faster in liquids, and faster still in solids.",
+        "It is about 1500 m/s in air, and cannot travel through solids.",
+        "It is constant at 340 m/s regardless of whether it is in a solid, liquid, or gas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is the name of the sound heard when sound waves reflect from hard surfaces and travel back to the listener?",
+      "options": [
+        "An echo",
+        "A refraction",
+        "An ultrasound",
+        "A superposition"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "In an experiment to measure the speed of sound, why is it better to measure longer distances and times?",
+      "options": [
+        "It ensures that any errors are a smaller proportion of the measurements.",
+        "It changes the speed of sound so that it is easier to calculate.",
+        "It prevents sound waves from reflecting off nearby objects.",
+        "It allows sound waves to travel faster than their normal speed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What are sound waves with a frequency above 20,000 Hz called, and can humans hear them?",
+      "options": [
+        "Infrasound, and they are easily heard by humans.",
+        "Ultrasound, and they usually cannot be heard by humans.",
+        "Infrasound, and they usually cannot be heard by humans.",
+        "Ultrasound, and they are extremely loud to human ears."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How is ultrasound used to produce images of structures inside the body?",
+      "options": [
+        "It reflects from the boundaries between different tissues.",
+        "It passes completely through all tissues without any change.",
+        "It is absorbed by bones and heats them up to make them glow.",
+        "It changes the frequency of the body's cells to make them visible."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why are water waves classified as transverse waves?",
+      "options": [
+        "The direction of oscillation is parallel to the direction of energy transfer.",
+        "The direction of oscillation is 90 degrees to the direction of energy transfer.",
+        "The water particles travel all the way forward with the wave.",
+        "They do not involve any oscillation of water particles."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What is the definition of the amplitude of a water wave?",
+      "options": [
+        "The greatest distance water moves above and below the rest position.",
+        "The distance between two consecutive wave crests.",
+        "The number of waves that pass a certain point in one second.",
+        "The total speed at which the wave moves forward."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What is the term for when waves pass through each other and either 'add up' or 'cancel out'?",
+      "options": [
+        "Wave refraction",
+        "Wave superposition",
+        "Wave reflection",
+        "Wave absorption"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    }
+  ]
+}

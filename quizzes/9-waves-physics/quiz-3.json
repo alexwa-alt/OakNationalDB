@@ -1,0 +1,171 @@
+{
+  "unitKey": "9WavesPhysics",
+  "generatedAt": "2026-08-12T05:51:04.562766+00:00",
+  "questions": [
+    {
+      "question": "Which parts of the ear are set into vibration when a sound wave enters?",
+      "options": [
+        "The outer ear canal and the auditory nerve",
+        "The eardrum, the tiny bones inside the ear, and the cochlea",
+        "Only the brainstem and outer cartilage",
+        "The nerve endings in the skin of the outer ear"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How are sound vibrations converted into electrical signals that travel to the brain?",
+      "options": [
+        "The eardrum acts as an electrical generator sending current directly to the brain.",
+        "The tiny bones in the middle ear produce magnetic pulses.",
+        "Specialised cells in the cochlea sense the vibrations and send signals along a nerve.",
+        "Air pressure changes bypass the nerves and go straight to the brain."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What is the typical frequency range detected by human ears, and which frequencies are they most sensitive to?",
+      "options": [
+        "10 Hz to 10 kHz, being most sensitive to 1–2 kHz",
+        "20 Hz to 20 kHz, being most sensitive to 2–5 kHz",
+        "50 Hz to 50 kHz, being most sensitive to 5–10 kHz",
+        "2 Hz to 200 Hz, being most sensitive to 20–50 Hz"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What names are given to sound waves with frequencies below 20 Hz and above 20 kHz, respectively?",
+      "options": [
+        "Ultrasound and infrasound",
+        "Subsonic and supersonic",
+        "Micro-waves and macro-waves",
+        "Infrasound and ultrasound"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "As a sound wave travels through the air, how do individual air particles move?",
+      "options": [
+        "Each bit of air vibrates parallel to the wave travel direction without moving permanently forward.",
+        "The air particles are pushed all the way from the sound source to the listener's ear.",
+        "Each bit of air vibrates perpendicular to the direction of the wave travel.",
+        "The air particles spin in tiny circles and drift slowly backwards."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why is sound classified as a longitudinal wave?",
+      "options": [
+        "The direction of vibration is perpendicular to the direction of energy transfer.",
+        "The direction of vibration is parallel to the direction of energy transfer.",
+        "The wave can only travel over extremely long distances.",
+        "The particles of the medium do not vibrate at all."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why does sound travel faster in solids and liquids compared to gases?",
+      "options": [
+        "Liquids and solids contain special magnetic fields that speed up sound.",
+        "The particles in gases are too heavy to vibrate.",
+        "Solids and liquids are always much hotter than gases.",
+        "The particles are very close together, making it easy to pass on vibrations."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why do sound waves travel even faster in solids than in liquids?",
+      "options": [
+        "Solids have larger gaps between their particles than liquids.",
+        "Liquids have much stronger chemical bonds than solids.",
+        "The strong forces between particles in solids mean vibrations travel even faster.",
+        "Solids are transparent to sound waves, which prevents absorption."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which of the following is true regarding the speed of sound in air compared to other states of matter?",
+      "options": [
+        "It is about 340 m/s in air, faster in liquids, and faster still in solids.",
+        "It is about 1500 m/s in air, slower in liquids, and slowest in solids.",
+        "It is about 300,000,000 m/s in air and does not change in liquids or solids.",
+        "It is about 340 m/s in air, slower in liquids, and fastest in solids."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What occurs when a sound wave reflects from a hard surface, travels back, and is heard again?",
+      "options": [
+        "Refraction",
+        "An echo",
+        "Dispersion",
+        "Absorption"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which equation is used to calculate the speed or distance of sound waves?",
+      "options": [
+        "speed = distance × time",
+        "speed = time ÷ distance",
+        "speed = distance ÷ time",
+        "speed = distance + time"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In an experiment measuring the speed of sound, what is the benefit of using longer distances and longer times?",
+      "options": [
+        "It guarantees that the speed of sound will increase during the experiment.",
+        "It reduces the humidity of the air so that sound travels faster.",
+        "It completely eliminates the need to use a stopwatch or timing device.",
+        "Any measurement errors make up a smaller proportion of the measurements."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How is ultrasound used to image structures inside the human body?",
+      "options": [
+        "It reflects from the boundaries between different types of tissues.",
+        "It burns away outer tissues so that inner tissues can be photographed.",
+        "It uses high-energy radiation to dye the bones a different color.",
+        "It causes the organs to emit visible light that is captured by a camera."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why are water waves described as transverse waves?",
+      "options": [
+        "The direction of oscillation is parallel to the direction of energy transfer.",
+        "They can only travel through solid barriers.",
+        "The direction of oscillation is 90° to the direction of energy transfer.",
+        "They do not transfer any energy as they move."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What does the amplitude of a water wave represent?",
+      "options": [
+        "The total distance from the start of the wave to its very end.",
+        "The greatest distance water moves above and below the rest position.",
+        "The number of complete wave cycles that pass a point each second.",
+        "The speed at which the wave crest travels across the water's surface."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    }
+  ]
+}

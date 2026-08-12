@@ -1,0 +1,193 @@
+{
+  "unitKey": "13Reproduction in plantsBiology",
+  "generatedAt": "2026-08-12T05:51:00.592440+00:00",
+  "questions": [
+    {
+      "question": "Which of the following is a common type of seed used in school laboratories that can easily germinate on wet cotton wool under the right conditions?",
+      "options": [
+        "Cress seeds",
+        "Acorn seeds",
+        "Coconut seeds",
+        "Sunflower seeds"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "How do flowering plants primarily reproduce?",
+      "options": [
+        "Asexually through budding",
+        "Sexually, involving male and female sex cells",
+        "Solely by producing identical clones from roots",
+        "Through binary fission"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which of the following statements about flowers is correct?",
+      "options": [
+        "They contain only female reproductive structures.",
+        "They contain only male reproductive structures.",
+        "They contain both male and female sex organs and gametes.",
+        "They lack sex organs and reproduce using spores."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the name of the female gamete in a flowering plant?",
+      "options": [
+        "Pollen grain",
+        "Egg cell (ovum)",
+        "Anther",
+        "Filament"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What do pollen grains carry in flowering plants?",
+      "options": [
+        "Female gametes",
+        "Male gametes",
+        "Nutrients for the growing fruit",
+        "Seeds to be dispersed"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What are the three main components that make up a seed, and where is the seed formed?",
+      "options": [
+        "Embryo, food store, and a tough outer coat; formed in the ovary",
+        "Pollen, nectar, and a shell; formed in the anther",
+        "Root, stem, and leaf; formed in the stigma",
+        "Spore, capsule, and stalk; formed in the petal"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What biological structure does a fruit develop from?",
+      "options": [
+        "The ripened pollen tube",
+        "The mature and ripened ovary of a seed-producing plant",
+        "The swollen petals of the flower after pollination",
+        "The sepals that have fused together"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is the primary role of a pollinator in plant reproduction?",
+      "options": [
+        "To consume the seeds of the plant so they can be digested",
+        "To transfer pollen from one flower to another, enabling sexual reproduction",
+        "To release carbon dioxide near the leaves to increase photosynthesis",
+        "To protect the flower buds from wind damage"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Which group of animals makes up the majority of pollinators, and which specific group within them is the largest?",
+      "options": [
+        "Birds, with hummingbirds being the largest group",
+        "Mammals, with bats being the largest group",
+        "Insects, with bees being the largest group",
+        "Reptiles, with lizards being the largest group"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What does the term \"food security\" mean for a population?",
+      "options": [
+        "Having advanced locking systems on agricultural warehouses",
+        "Ensuring all food produced is organic and GMO-free",
+        "Having enough affordable and nutritious food in an area or country",
+        "Having a backup supply of canned food for a minimum of ten years"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What is pollination?",
+      "options": [
+        "The fusion of male and female nuclei in the ovary",
+        "The transfer of pollen from the male anther to the female stigma",
+        "The release of seeds from a manual fruit into the wind",
+        "The process of water moving up the stem to the flower"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What is a major advantage of cross-pollination compared to self-pollination?",
+      "options": [
+        "It requires fewer pollinators to be present.",
+        "It increases genetic variation in a species.",
+        "It guarantees that offspring will be exact clones of the parent.",
+        "It takes less time to complete fertilisation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "In plant reproduction, what occurs during the process of fertilisation?",
+      "options": [
+        "The pollen grain lands on the sticky surface of the stigma.",
+        "The fusion of the nuclei from the male and the female gametes.",
+        "The dispersal of seeds away from the parent plant by the wind.",
+        "The splitting open of the anther to release pollen."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "When presenting experimental data, how should you choose between drawing a line graph and a bar chart?",
+      "options": [
+        "Use a line graph for categoric independent variables and a bar chart for continuous ones.",
+        "Use a line graph for continuous independent variables and a bar chart for categoric ones.",
+        "Use a line graph when there are more than ten results and a bar chart for fewer than ten.",
+        "Use a line graph for temperature changes and a bar chart for time measurements."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Why do plants disperse their seeds using different mechanisms?",
+      "options": [
+        "To increase the chance of seed survival by reducing competition.",
+        "To ensure all seeds land in the exact same spot.",
+        "To allow the seeds to undergo self-pollination before they grow.",
+        "To prevent the parent plant from producing any more flowers."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "How is a seed adapted for wind dispersal?",
+      "options": [
+        "It is heavy with a small surface area to sink quickly.",
+        "It is covered in sharp hooks to cling to passing animals.",
+        "It is light with a large surface area to catch the breeze.",
+        "It is surrounded by a tasty, fleshy fruit to attract birds."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "Why is it important to repeat measurements for each value when investigating seed dispersal?",
+      "options": [
+        "To change the independent variable halfway through the experiment.",
+        "To identify anomalous results and calculate a mean.",
+        "To guarantee that every single trial gives the exact same measurement.",
+        "To increase the total time the investigation takes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    }
+  ]
+}

@@ -104,6 +104,21 @@
     },
     "8Carbon cycle and climate changeChemistry": {
       "path": "8-carbon-cycle-and-climate-change-chemistry"
+    },
+    "9WavesPhysics": {
+      "path": "9-waves-physics"
+    },
+    "10Disease and drugsBiology": {
+      "path": "10-disease-and-drugs-biology"
+    },
+    "11Patterns in the periodic tableChemistry": {
+      "path": "11-patterns-in-the-periodic-table-chemistry"
+    },
+    "12Resistance and parallel circuitsPhysics": {
+      "path": "12-resistance-and-parallel-circuits-physics"
+    },
+    "13Reproduction in plantsBiology": {
+      "path": "13-reproduction-in-plants-biology"
     }
   }
 }

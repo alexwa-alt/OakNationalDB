@@ -1,0 +1,182 @@
+{
+  "unitKey": "13Reproduction in plantsBiology",
+  "generatedAt": "2026-08-12T05:50:55.994978+00:00",
+  "questions": [
+    {
+      "question": "How do flowering plants reproduce?",
+      "options": [
+        "Asexually only, by forming spores",
+        "Sexually, involving male and female gametes",
+        "Only through vegetative propagation of roots",
+        "By budding off new independent structures"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why is plant reproduction vital for life on Earth?",
+      "options": [
+        "Plants are producers that provide the primary food source for all animals.",
+        "It keeps the soil temperature stable across different climates.",
+        "It is the only way that carbon dioxide is released into the atmosphere.",
+        "Plants require animals to reproduce in order to clean the water supply."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What name is given to the female gametes in plants?",
+      "options": [
+        "Pollen grains",
+        "Anthers",
+        "Egg cells (ova)",
+        "Ovary walls"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which plant structures carry the male gametes?",
+      "options": [
+        "Egg cells",
+        "Pollen grains",
+        "Stigmas",
+        "Petals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What are the three main components of a seed, and where are seeds formed?",
+      "options": [
+        "Embryo, food store, and tough outer coat; formed in the ovary",
+        "Pollen, nectar, and petals; formed in the anther",
+        "Root, stem, and leaf; formed in the pollen tube",
+        "Spores, chlorophyll, and cell wall; formed in the stigma"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which of the following best describes what a fruit is?",
+      "options": [
+        "The dried up petals of a pollinated flower",
+        "The mature and ripened ovary of a seed-producing plant",
+        "The swollen root system of a flowering plant",
+        "A collection of pollen grains bonded together by nectar"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is the primary role of a pollinator in plant reproduction?",
+      "options": [
+        "To disperse mature seeds away from the parent plant",
+        "To transfer pollen from one flower to another to enable sexual reproduction",
+        "To digest nectar and convert it into plant hormones",
+        "To provide warmth to the soil surrounding the plant roots"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Which group of animals constitutes the majority of pollinators, and which specific group within them is the largest?",
+      "options": [
+        "Birds, with hummingbirds being the largest group",
+        "Insects, with bees being the largest group",
+        "Mammals, with bats being the largest group",
+        "Reptiles, with lizards being the largest group"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What is meant by the term 'food security'?",
+      "options": [
+        "Having enough affordable and nutritious food in an area or country",
+        "The lockable storage of food supplies to prevent theft",
+        "The chemical preservation of food to increase its shelf life",
+        "Restricting food consumption to only locally grown crops"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Why must pollinating insects be protected from pesticides, climate change, and habitat loss?",
+      "options": [
+        "To prevent them from mutating into new species",
+        "To ensure global food security by maintaining crop pollination",
+        "To stop them from eating too many agricultural crops",
+        "To allow them to produce more honey for international trade"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What is pollination?",
+      "options": [
+        "The release of seeds from the mature fruit into the wind",
+        "The fusion of the nuclei of the male and female gametes",
+        "The transfer of pollen from the male anther to the female stigma",
+        "The growth of a pollen tube down through the style"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What are the two types of pollination, and which type increases variation in a species?",
+      "options": [
+        "Wind pollination and animal pollination; wind pollination increases variation",
+        "Self-pollination and cross-pollination; cross-pollination increases variation",
+        "Internal pollination and external pollination; internal pollination increases variation",
+        "Direct pollination and indirect pollination; direct pollination increases variation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What occurs during plant fertilisation?",
+      "options": [
+        "Pollen is transferred from the anther to the stigma of the flower.",
+        "The seed coat hardens to protect the embryo inside.",
+        "The nuclei of the male and female gametes fuse together.",
+        "The flower petals drop off to allow the fruit to ripen."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "When analyzing experimental data, under what condition should a bar chart be used instead of a line graph?",
+      "options": [
+        "When the independent variable is categoric rather than continuous",
+        "When there are more than fifty data points to plot",
+        "When the dependent variable is measured in seconds or minutes",
+        "When the experiment has only one control variable"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "How are wind-dispersed seeds typically adapted to their method of dispersal?",
+      "options": [
+        "They are heavy and shaped like hooks to catch on passing animals.",
+        "They have fleshy, sweet-tasting coats to attract birds.",
+        "They are light and have a large surface area.",
+        "They are waterproof and float easily on streams."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "Why is it important to repeat measurements for each value in an investigation?",
+      "options": [
+        "To ensure the independent variable changes automatically",
+        "To identify anomalous results and calculate a mean",
+        "To prove that no control variables are needed",
+        "To convert categoric data directly into continuous data"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    }
+  ]
+}

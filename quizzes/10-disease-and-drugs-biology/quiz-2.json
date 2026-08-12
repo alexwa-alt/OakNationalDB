@@ -1,0 +1,182 @@
+{
+  "unitKey": "10Disease and drugsBiology",
+  "generatedAt": "2026-08-12T05:50:55.364414+00:00",
+  "questions": [
+    {
+      "question": "Which of the following is a key characteristic of asthma?",
+      "options": [
+        "It is a non-infectious disease that can cause breathing difficulties.",
+        "It is an infectious disease passed on by a bacterial pathogen.",
+        "It is a lifestyle disease caused primarily by eating a high-fat diet.",
+        "It is an illness that only affects the digestive system."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What physical change occurs in the respiratory system during an asthma attack?",
+      "options": [
+        "The alveoli expand and lose their elasticity.",
+        "The breathing (bronchial) tubes narrow.",
+        "The diaphragm becomes completely paralyzed.",
+        "The trachea increases in diameter."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How is the medication for treating the symptoms of an asthma attack typically delivered?",
+      "options": [
+        "Through an injection into a vein",
+        "By taking a liquid syrup orally",
+        "Using an inhaler to breathe it directly into the lungs",
+        "Applying a medicated patch to the skin."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the defining feature of an infectious disease?",
+      "options": [
+        "It can only be caused by a poor diet or lack of exercise.",
+        "It can be passed from one organism to another.",
+        "It is always inherited from a parent through genes.",
+        "It cannot be transmitted between different individuals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which statement correctly describes non-infectious diseases?",
+      "options": [
+        "They are spread easily by coughing or sneezing.",
+        "They cannot be passed from one organism to another.",
+        "They are always caused by harmful bacteria in the air.",
+        "They can only infect younger people."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which combination of factors increases the risk of developing lifestyle diseases?",
+      "options": [
+        "Eating an unbalanced diet and not getting enough exercise.",
+        "Washing hands frequently and drinking clean water.",
+        "Getting regular vaccinations and plenty of sleep.",
+        "Eating a high-fiber diet and walking daily."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which of these sets of behaviors is known to increase the risk of developing lifestyle diseases?",
+      "options": [
+        "Drinking water, sleeping eight hours, and stretching daily.",
+        "Smoking, drinking alcohol, and using recreational drugs.",
+        "Eating fresh vegetables, cycling, and taking vitamins.",
+        "Reducing salt intake, meditating, and swimming."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of the following is a list of substances commonly consumed as recreational drugs?",
+      "options": [
+        "Paracetamol, penicillin, and aspirin",
+        "Insulin, ibuprofen, and throat lozenges",
+        "Caffeine, nicotine, and alcohol",
+        "Salbutamol, codeine, and antacids."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How do depressant drugs affect the human body's nervous system?",
+      "options": [
+        "They speed up reflexes and make the heart beat faster.",
+        "They slow down thinking and reaction times.",
+        "They prevent any sensory information from reaching the brain.",
+        "They immediately improve memory and focus."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is a typical effect of a stimulant drug on a person?",
+      "options": [
+        "It causes drowsiness and slows down physical coordination.",
+        "It makes them feel more alert and can give them quicker thinking and reaction times.",
+        "It acts as an anesthetic and numbs all physical pain.",
+        "It slows down their breathing and heart rate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following are examples of illegal stimulants used as recreational drugs?",
+      "options": [
+        "Cocaine and ecstasy",
+        "Caffeine and nicotine",
+        "Aspirin and ibuprofen",
+        "Alcohol and paracetamol."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is the primary addictive substance found in tobacco leaves?",
+      "options": [
+        "Carbon monoxide",
+        "Tar",
+        "Nicotine",
+        "Caffeine"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Smoking tobacco increases the likelihood of developing which set of diseases?",
+      "options": [
+        "Diabetes, osteoporosis, and appendicitis",
+        "Asthma, COPD, lung cancer, and heart disease",
+        "Measles, mumps, rubella, and chickenpox",
+        "Malaria, cholera, tuberculosis, and polio"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What is the term used for inhaling household chemicals, such as glues or gases, to become intoxicated?",
+      "options": [
+        "Solvent abuse",
+        "Depressant simulation",
+        "Vaping therapy",
+        "Vaccine administration"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "How is vaping generally classified in relation to traditional smoking?",
+      "options": [
+        "It is a completely risk-free medical cure for asthma.",
+        "It is an alternative to smoking that still involves consuming nicotine.",
+        "It is a type of solvent abuse using paint thinners.",
+        "It is an infectious disease of the gas exchange system."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "Why might scientific guidance or ideas about the health risks of new substances, like e-cigarettes, change over time?",
+      "options": [
+        "Because scientific facts are completely rewritten every year regardless of data.",
+        "Because scientific ideas are updated as new evidence emerges.",
+        "Because government laws are always based on random choices rather than facts.",
+        "Because older scientific theories are automatically considered wrong after ten years."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 38
+    }
+  ]
+}

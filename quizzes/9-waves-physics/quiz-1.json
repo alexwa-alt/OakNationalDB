@@ -1,0 +1,193 @@
+{
+  "unitKey": "9WavesPhysics",
+  "generatedAt": "2026-08-12T05:50:56.113294+00:00",
+  "questions": [
+    {
+      "question": "Which parts of the human ear are caused to vibrate by incoming sound waves?",
+      "options": [
+        "Only the outer ear flap and the ear canal",
+        "The eardrum, tiny bones within the ear, and the cochlea",
+        "The auditory nerve and the brain tissue",
+        "The outer ear and the auditory canal only"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the role of the specialised cells inside the cochlea?",
+      "options": [
+        "To direct sound waves from the air into the auditory canal",
+        "To amplify sound vibrations mechanically before they reach the eardrum",
+        "To sense vibrations and send electrical signals along a nerve to the brain",
+        "To block out high-frequency noises to prevent damage"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How does the brain create the sensation of hearing a sound?",
+      "options": [
+        "By physically vibrating at the same frequency as the sound wave",
+        "By receiving electrical signals from the ear through a nerve",
+        "By pumping fluid directly into the cochlea",
+        "By reflecting sound waves back to the eardrum"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the range of sound frequencies that human ears can detect, and which range are they most sensitive to?",
+      "options": [
+        "20 Hz to 20 kHz, being most sensitive to 2–5 kHz",
+        "10 Hz to 10 kHz, being most sensitive to 1–2 kHz",
+        "50 Hz to 50 kHz, being most sensitive to 5–10 kHz",
+        "20 Hz to 20 kHz, being most sensitive to 10–15 kHz"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What are sound waves with frequencies below 20 Hz and above 20 kHz called, respectively?",
+      "options": [
+        "Ultrasound and infrasound",
+        "Megasound and microsound",
+        "Infrasound and ultrasound",
+        "Hypersound and hyposound"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When a sound wave travels through the air, how do the air particles move?",
+      "options": [
+        "They travel continuously forwards from the source to the listener's ear",
+        "They vibrate parallel to the direction of wave travel, without travelling forwards",
+        "They vibrate perpendicular to the direction of wave travel",
+        "They spin in small circles and move slowly backwards"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why is sound classified as a longitudinal wave?",
+      "options": [
+        "Because the direction of vibration is parallel to the direction of energy transfer",
+        "Because the direction of vibration is perpendicular to the direction of energy transfer",
+        "Because it can only travel through very long distances",
+        "Because it does not require a medium to travel through"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why do sound waves travel faster in solids and liquids compared to gases?",
+      "options": [
+        "Because solids and liquids have higher temperatures than gases",
+        "Because the particles are very close together, so vibrations are easily passed on",
+        "Because sound waves only consist of transverse vibrations in gases",
+        "Because gas particles block the passage of sound waves"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why does sound travel even faster in solids than in liquids?",
+      "options": [
+        "Because solids contain larger air gaps between their particles",
+        "Because the strong forces between particles in a solid mean vibrations travel faster",
+        "Because solids are colder than liquids",
+        "Because particles in a solid are free to move around and carry the sound"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which of the following correctly describes the speed of sound in different media?",
+      "options": [
+        "It is about 340 m/s in air, faster in liquids, and faster still in solids",
+        "It is fastest in air, slower in liquids, and slowest in solids",
+        "It is about 1500 m/s in air, 340 m/s in liquids, and slowest in solids",
+        "It is the same in all materials because sound speed is constant"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What causes an echo to occur?",
+      "options": [
+        "Sound waves absorbing completely into a soft, carpeted surface",
+        "Sound waves reflecting from hard surfaces, travelling back, and being heard again",
+        "Sound waves refracting as they pass from air into water",
+        "Sound waves vibrating the air particles in a circular path"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "An echo from a distant wall is heard 2 seconds after a sound is made. If the distance to the wall is 340 metres (making the total travel distance 680 metres), which equation would you use to find the speed of the sound wave?",
+      "options": [
+        "speed = distance + time",
+        "speed = distance × time",
+        "speed = distance ÷ time",
+        "speed = time ÷ distance"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why is it better to measure longer distances and times when designing an experiment to measure the speed of sound?",
+      "options": [
+        "It ensures the sound wave changes frequency as it travels",
+        "It makes the sound travel faster, which is easier to record",
+        "Any measurement errors will make up a smaller proportion of the total measurements",
+        "It eliminates the effect of reflection entirely"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How is ultrasound used to create images of structures inside the human body?",
+      "options": [
+        "It heats up different tissues to different temperatures to show them on a thermal camera",
+        "It reflects from the boundaries between different tissues",
+        "It passes straight through all tissues and is captured on an X-ray plate",
+        "It damages unwanted cells so that healthy cells stand out"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why are water waves described as transverse waves?",
+      "options": [
+        "The direction of oscillation is parallel to the direction of energy transfer",
+        "The direction of oscillation is at 90° to the direction of energy transfer",
+        "The waves cannot reflect off hard barriers",
+        "The wave does not transfer any energy as it moves"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What occurs during wave superposition when two waves pass through each other?",
+      "options": [
+        "The waves will always bounce off each other and reverse their directions",
+        "The waves can 'add up' or 'cancel out'",
+        "One wave will always absorb the other wave's energy completely",
+        "Both waves immediately stop vibrating and disappear"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What is the amplitude of a water wave?",
+      "options": [
+        "The total distance a water particle travels horizontally in one second",
+        "The greatest distance water moves above and below the rest position",
+        "The distance from one wave crest to the very next wave crest",
+        "The speed at which the wave crest moves across the surface"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "unitKey": "12Resistance and parallel circuitsPhysics",
+  "generatedAt": "2026-08-12T05:50:56.660078+00:00",
+  "questions": [
+    {
+      "question": "How does the brightness of two bulbs connected in parallel compare to the same two bulbs connected in series, using the same battery?",
+      "options": [
+        "The bulbs in parallel are dimmer than the bulbs in series.",
+        "The bulbs in parallel are brighter than the bulbs in series.",
+        "The bulbs in parallel have the exact same brightness as the bulbs in series.",
+        "The bulbs in parallel do not light up at all, while the series ones do."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When comparing two bulbs in parallel to two bulbs in series with the same battery, what is true about the current through them?",
+      "options": [
+        "The current through the parallel bulbs is smaller than through the series bulbs.",
+        "No current flows through the parallel bulbs, only through the series bulbs.",
+        "The current through the parallel bulbs is bigger than through the series bulbs.",
+        "The current through both circuits is exactly the same."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "If you have two circuits, one with two bulbs in parallel and another with two bulbs in series connected to identical batteries, what will happen to the batteries?",
+      "options": [
+        "The battery lighting the parallel circuit will run out faster.",
+        "The battery lighting the series circuit will run out faster.",
+        "Both batteries will run out at exactly the same time.",
+        "Neither battery will ever run out because the bulbs share the voltage."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "In physics, what is the definition of electrical resistance?",
+      "options": [
+        "A measure of the total amount of energy stored in a battery.",
+        "A measure of how difficult it is for an electric current to flow.",
+        "The speed at which electrons travel around a closed loop.",
+        "The total number of electrons present in a wire."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How does the length of a wire affect its electrical resistance?",
+      "options": [
+        "The longer the wire, the greater its resistance.",
+        "The longer the wire, the smaller its resistance.",
+        "The length of a wire has no effect on its resistance.",
+        "A longer wire only has resistance if it is coiled."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "If you double the length of a piece of uniform wire, what happens to its resistance?",
+      "options": [
+        "The resistance is halved.",
+        "The resistance remains unchanged.",
+        "The resistance doubles.",
+        "The resistance becomes four times greater."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which statement describes the relationship between the resistance of a uniform wire and its length?",
+      "options": [
+        "The resistance of a wire is proportional to its length.",
+        "The resistance of a wire is inversely proportional to its length.",
+        "The resistance of a wire is equal to the square of its length.",
+        "There is no mathematical relationship between resistance and length."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "In a parallel circuit, what is each individual loop equivalent to when connected to the same battery?",
+      "options": [
+        "A series circuit connected to the same battery.",
+        "A short circuit that bypasses the battery completely.",
+        "An open circuit with infinitely high resistance.",
+        "An electrostatic field with no current flow."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What does the electrical power of a device measure?",
+      "options": [
+        "The total quantity of charge stored within the device.",
+        "The amount of energy used by or supplied to the device in one second.",
+        "The maximum current that can flow through the device without damaging it.",
+        "The total electrical resistance of the device's internal components."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What is the unit used to measure electrical power?",
+      "options": [
+        "Joules (J)",
+        "Ohms (Ω)",
+        "Amps (A)",
+        "Watts (W)"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "How can you calculate the energy used by an electrical device in kilowatt-hours (kWh)?",
+      "options": [
+        "Divide the power in watts by the time in seconds.",
+        "Multiply the power in kilowatts (kW) by the time in hours (h).",
+        "Multiply the current in amps by the resistance in ohms.",
+        "Divide the voltage in volts by the power in kilowatts."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Which of the following best defines a parallel circuit?",
+      "options": [
+        "A circuit that has only one continuous pathway from one end of a battery to the other.",
+        "A circuit with more than one complete loop, from one end of a battery to the other end.",
+        "A circuit that only contains voltmeters and no bulbs or resistors.",
+        "A circuit that is completely disconnected so that no current can flow."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "In a parallel circuit, how does the current in the individual branches relate to the total current through the battery?",
+      "options": [
+        "The current through each branch is always double the total current through the battery.",
+        "The current through each branch adds up to the total current through the battery.",
+        "The current through each branch is completely independent and has no relation to the battery current.",
+        "The current through the battery is divided by the number of branches squared."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "How does the thickness of a wire affect its electrical resistance?",
+      "options": [
+        "The thicker the wire, the smaller its resistance.",
+        "The thicker the wire, the greater its resistance.",
+        "Thickness has no effect on resistance, only the length of the wire does.",
+        "A thicker wire has zero resistance regardless of its material."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "What happens to the resistance of a wire if its cross-sectional area is doubled?",
+      "options": [
+        "The resistance doubles.",
+        "The resistance halves.",
+        "The resistance remains exactly the same.",
+        "The resistance decreases to one-quarter of its original value."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "In a parallel circuit, how does the voltage across each branch compare to the voltage across the cell or battery?",
+      "options": [
+        "The voltage across each branch is the same as the voltage across the cell or battery.",
+        "The voltage across each branch is divided by the number of branches in the circuit.",
+        "The voltage across each branch is always zero.",
+        "The voltage across each branch is doubled compared to the battery voltage."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 41
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "unitKey": "10Disease and drugsBiology",
+  "generatedAt": "2026-08-12T05:50:59.936249+00:00",
+  "questions": [
+    {
+      "question": "Which of the following statements about asthma is correct?",
+      "options": [
+        "It is a non-infectious disease that can cause breathing difficulties.",
+        "It is an infectious disease passed easily from person to person.",
+        "It is a bacterial infection that can be cured with antibiotics.",
+        "It is a disease that only affects the digestive system."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What happens to a person's airways during an asthma attack?",
+      "options": [
+        "The bronchial tubes expand and fill with excess oxygen.",
+        "The bronchial tubes become wider to let more air in.",
+        "The bronchial tubes narrow, making it harder to breathe.",
+        "The bronchial tubes temporarily disappear."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following is a recognized risk factor for developing asthma?",
+      "options": [
+        "Eating too many sugary foods.",
+        "Low birth weight and exposure to air pollution.",
+        "Lacking physical exercise.",
+        "Drinking unpasteurized milk."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What are infectious diseases caused by?",
+      "options": [
+        "Poor lifestyle choices such as a lack of exercise.",
+        "Inherited genetic mutations from parents.",
+        "Pathogens such as viruses and some bacteria.",
+        "Exposure to extreme cold temperatures."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which of the following is a defining characteristic of non-infectious diseases?",
+      "options": [
+        "They are always caused by viruses.",
+        "They cannot be passed from one organism to another.",
+        "They can be cured rapidly using antibiotics.",
+        "They are highly contagious through coughing and sneezing."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which set of habits is most likely to increase a person's risk of developing lifestyle diseases?",
+      "options": [
+        "Drinking plenty of water and eating a balanced diet.",
+        "Smoking, drinking alcohol, and using recreational drugs.",
+        "Exercising regularly and getting enough sleep.",
+        "Washing hands frequently and getting vaccinated."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is the primary definition of medicines?",
+      "options": [
+        "Legal substances used solely to improve athletic performance.",
+        "Harmful chemical compounds that are always illegal.",
+        "Drugs that people take to treat or manage illness.",
+        "Plants that are eaten to provide daily vitamins and minerals."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Recreational drugs are typically classified into which two main groups based on their effects on the nervous system?",
+      "options": [
+        "Solvents and antibiotics.",
+        "Nutrients and minerals.",
+        "Depressants and stimulants.",
+        "Painkillers and vaccines."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What effect do depressant drugs have on the human body?",
+      "options": [
+        "They make you feel highly energetic and increase your heart rate.",
+        "They slow down thinking and reaction times.",
+        "They improve physical strength and muscle growth.",
+        "They cure infections by killing pathogens."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "While alcohol is a legal depressant, what are the potential consequences of long-term alcohol abuse?",
+      "options": [
+        "Damage to the brain and liver.",
+        "Improved memory and faster reflexes.",
+        "Permanent strengthening of the immune system.",
+        "A reduction in the risk of all lifestyle diseases."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How do stimulant drugs affect a person's mental state and reaction times?",
+      "options": [
+        "They make you sleepy and slow down your reactions.",
+        "They make you feel more alert and can give you quicker reaction times.",
+        "They cause temporary memory loss and reduce alertness.",
+        "They have absolutely no effect on reaction times or alertness."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following are examples of illegal stimulants used as recreational drugs?",
+      "options": [
+        "Caffeine and aspirin.",
+        "Cocaine and ecstasy.",
+        "Nicotine and paracetamol.",
+        "Alcohol and penicillin."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What substance is found in tobacco leaves that makes smoking highly addictive?",
+      "options": [
+        "Caffeine.",
+        "Tar.",
+        "Carbon monoxide.",
+        "Nicotine."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What is the term used for the practice of inhaling chemicals to become intoxicated?",
+      "options": [
+        "Vaping.",
+        "Solvent abuse.",
+        "Respiration.",
+        "Asthma therapy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Which of the following lists contains substances commonly associated with solvent abuse?",
+      "options": [
+        "Paint thinner, glue, and nitrous oxide.",
+        "Cough syrup, water, and fruit juice.",
+        "Alcohol, tobacco, and caffeine.",
+        "Aspirin, ibuprofen, and paracetamol."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "What are the primary risks associated with solvent abuse?",
+      "options": [
+        "Improved lung function and high energy levels.",
+        "Long-term health problems and the risk of death.",
+        "Minor digestive issues that disappear quickly.",
+        "Increased immunity against infectious diseases."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Why is vaping considered detrimental to health, similar to traditional smoking?",
+      "options": [
+        "It contains high amounts of tar that coat the digestive system.",
+        "It involves consuming nicotine, which is a harmful and addictive substance.",
+        "It completely stops the body from absorbing any oxygen.",
+        "It is an infectious disease that spreads through the air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "Which statement best describes our current understanding of the health effects of vaping?",
+      "options": [
+        "The health effects of vaping are fully understood and proven to be completely safe.",
+        "The health effects of vaping are not yet fully known.",
+        "Vaping has been proven to cure existing lung conditions like asthma.",
+        "Scientists have confirmed that vaping has identical long-term effects to drinking alcohol."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    }
+  ]
+}
