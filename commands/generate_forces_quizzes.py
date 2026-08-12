@@ -78,6 +78,7 @@ def parse_arguments() -> argparse.Namespace:
     parser.add_argument("--workers", type=int, default=1)
     parser.add_argument("--overwrite", action="store_true")
     parser.add_argument("--required-requests", action="store_true")
+    parser.add_argument("--challenging", action="store_true")
     return parser.parse_args()
 
 
@@ -112,18 +113,29 @@ def unit_paths(units: dict[str, list[str]]) -> dict[str, str]:
     return paths
 
 
-def prompt_for(unit_key: str, points: list[str], variation: int) -> str:
+def prompt_for(
+    unit_key: str, points: list[str], variation: int, challenging: bool
+) -> str:
     numbered_points = "\n".join(
         f"{index}. {point}" for index, point in enumerate(points)
     )
+    difficulty = (
+        """Make every question challenging: require careful application, comparison,
+multi-step reasoning, identifying misconceptions, or interpreting unfamiliar
+contexts. Do not make questions difficult through obscure vocabulary."""
+        if challenging
+        else "Use age-appropriate KS3 difficulty."
+    )
     return f"""Create a distinct KS3 science multiple-choice quiz about {unit_key}.
 
-Use only the supplied learning points. Produce 15 to 20 questions. Each question
+Use only the supplied learning points. Produce exactly 20 questions. Each question
 must have exactly four plausible, distinct options, one correct answer, and a
 learningPointIndex matching the zero-based index of a supplied learning point it
 assesses. Do not use "all of the above", "none of the above", or questions that
 depend on information outside these points. Vary concepts and wording from other
 possible quizzes; this is variation {variation}.
+
+{difficulty}
 
 Learning points:
 {numbered_points}
@@ -138,10 +150,14 @@ def response_text(response: dict[str, Any]) -> str:
         raise ValueError("Gemini response did not contain candidate text") from error
 
 
-def validate_quiz(payload: Any, point_count: int) -> list[dict[str, Any]]:
+def validate_quiz(
+    payload: Any, point_count: int, exact_question_count: int | None = None
+) -> list[dict[str, Any]]:
     if not isinstance(payload, dict) or not isinstance(payload.get("questions"), list):
         raise ValueError("Quiz payload must contain a questions array")
     questions = payload["questions"]
+    if exact_question_count is not None and len(questions) != exact_question_count:
+        raise ValueError(f"Quiz must contain exactly {exact_question_count} questions")
     if not 15 <= len(questions) <= 20:
         raise ValueError("Quiz must contain 15 to 20 questions")
 
@@ -181,7 +197,12 @@ def validate_quiz(payload: Any, point_count: int) -> list[dict[str, Any]]:
 
 
 def generate_quiz(
-    api_key: str, model: str, unit_key: str, points: list[str], variation: int
+    api_key: str,
+    model: str,
+    unit_key: str,
+    points: list[str],
+    variation: int,
+    challenging: bool,
 ) -> list[dict[str, Any]]:
     for attempt in range(1, MAX_ATTEMPTS + 1):
         try:
@@ -192,7 +213,13 @@ def generate_quiz(
                     "contents": [
                         {
                             "role": "user",
-                            "parts": [{"text": prompt_for(unit_key, points, variation)}],
+                            "parts": [
+                                {
+                                    "text": prompt_for(
+                                        unit_key, points, variation, challenging
+                                    )
+                                }
+                            ],
                         }
                     ],
                     "generationConfig": {
@@ -221,7 +248,9 @@ def generate_quiz(
                 payload = json.loads(response_text(response.json()))
             except json.JSONDecodeError as error:
                 raise ValueError("Gemini response was not valid JSON") from error
-            return validate_quiz(payload, len(points))
+            return validate_quiz(
+                payload, len(points), 20 if challenging else None
+            )
         if response.status_code != 429 and not 500 <= response.status_code < 600:
             raise RuntimeError(
                 f"Gemini request failed with HTTP {response.status_code}: {response.text[:500]}"
@@ -247,9 +276,15 @@ def write_json(path: Path, value: Any) -> None:
     temporary_path.replace(path)
 
 
-def valid_quiz_file(path: Path, point_count: int) -> bool:
+def valid_quiz_file(
+    path: Path, point_count: int, exact_question_count: int | None = None
+) -> bool:
     try:
-        validate_quiz(json.loads(path.read_text(encoding="utf-8")), point_count)
+        validate_quiz(
+            json.loads(path.read_text(encoding="utf-8")),
+            point_count,
+            exact_question_count,
+        )
     except (OSError, ValueError, json.JSONDecodeError):
         return False
     return True
@@ -288,14 +323,20 @@ def required_request_count(
     paths: dict[str, str],
     count: int,
     overwrite: bool,
+    challenging: bool,
 ) -> int:
     required = 0
     for unit_key in selected_keys:
         points = units[unit_key]
         directory = QUIZZES_DIRECTORY / paths[unit_key]
-        for variation in range(1, count + 1):
-            output_path = directory / f"quiz-{variation}.json"
-            if overwrite or not valid_quiz_file(output_path, len(points)):
+        filenames = ["challenging.json"] if challenging else [
+            f"quiz-{variation}.json" for variation in range(1, count + 1)
+        ]
+        for filename in filenames:
+            output_path = directory / filename
+            if overwrite or not valid_quiz_file(
+                output_path, len(points), 20 if challenging else None
+            ):
                 required += 1
     return required
 
@@ -315,7 +356,12 @@ def main() -> int:
     if arguments.required_requests:
         print(
             required_request_count(
-                selected_keys, units, paths, arguments.count, arguments.overwrite
+                selected_keys,
+                units,
+                paths,
+                arguments.count,
+                arguments.overwrite,
+                arguments.challenging,
             )
         )
         return 0
@@ -330,10 +376,13 @@ def main() -> int:
     for unit_key in selected_keys:
         points = units[unit_key]
         directory = QUIZZES_DIRECTORY / paths[unit_key]
-        for variation in range(1, arguments.count + 1):
-            output_path = directory / f"quiz-{variation}.json"
+        filenames = ["challenging.json"] if arguments.challenging else [
+            f"quiz-{variation}.json" for variation in range(1, arguments.count + 1)
+        ]
+        for variation, filename in enumerate(filenames, start=1):
+            output_path = directory / filename
             if output_path.exists() and not arguments.overwrite and valid_quiz_file(
-                output_path, len(points)
+                output_path, len(points), 20 if arguments.challenging else None
             ):
                 print(f"Keeping existing {output_path}")
             else:
@@ -343,7 +392,9 @@ def main() -> int:
         unit_key: str, points: list[str], variation: int, output_path: Path
     ) -> None:
         print(f"Generating {unit_key} quiz {variation}/{arguments.count} with {model}")
-        questions = generate_quiz(api_key, model, unit_key, points, variation)
+        questions = generate_quiz(
+            api_key, model, unit_key, points, variation, arguments.challenging
+        )
         write_json(
             output_path,
             {
@@ -369,9 +420,14 @@ def main() -> int:
 
     for unit_key in selected_keys:
         directory = QUIZZES_DIRECTORY / paths[unit_key]
-        files = [f"quiz-{variation}.json" for variation in range(1, arguments.count + 1)]
-        write_json(directory / "index.json", {"quizzes": files})
-        manifest_units[unit_key] = {"path": paths[unit_key]}
+        entry = manifest_units.setdefault(unit_key, {"path": paths[unit_key]})
+        if arguments.challenging:
+            entry["challenging"] = "challenging.json"
+        else:
+            files = [
+                f"quiz-{variation}.json" for variation in range(1, arguments.count + 1)
+            ]
+            write_json(directory / "index.json", {"quizzes": files})
         write_json(QUIZZES_DIRECTORY / "index.json", manifest)
         print(f"Published cache manifest entry for {unit_key}")
     return 0
