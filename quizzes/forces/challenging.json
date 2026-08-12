@@ -1,0 +1,226 @@
+{
+  "unitKey": "1ForcesPhysics",
+  "generatedAt": "2026-08-12T06:04:29.797558+00:00",
+  "questions": [
+    {
+      "question": "A toy boat is pulled northwards with a force of 12 N by a string, while the water current pushes it southwards with a force of 4 N, and the wind blows it southwards with a force of 3 N. What is the resultant force on the boat?",
+      "options": [
+        "19 N Northwards",
+        "5 N Northwards",
+        "5 N Southwards",
+        "9 N Northwards"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A sledge is pulled to the right with a force of 45 N by a child, while a friction force of 30 N acts to the left. In which direction will the resultant force act, and why?",
+      "options": [
+        "To the right, because the pulling force is greater than the friction force.",
+        "To the left, because friction always overcomes pulling forces.",
+        "It will not act in any direction because the forces are balanced.",
+        "To the right, because the sledge is already moving to the right."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Four identical toy cars (A, B, C, and D) are pushed along a frictionless track with different resultant forces. Car A has a resultant force of 2 N, Car B has 5 N, Car C has 1.5 N, and Car D has 4 N. Which car's speed will change most rapidly?",
+      "options": [
+        "Car C",
+        "Car A",
+        "Car D",
+        "Car B"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A raised heavy hammer has gravitational potential energy store. In physics terms, what does having this energy store fundamentally mean for the hammer before it is released?",
+      "options": [
+        "It contains a physical fluid called energy that will spill out upon impact.",
+        "It possesses properties that allow it to interact with and cause changes to a nail when dropped.",
+        "It is guaranteed to stay suspended indefinitely without any external support.",
+        "It has lost its mass and became pure force ready to do work."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A student slides a heavy wooden block across a smooth ice rink and then across a concrete playground with the same initial push. Why does the block stop much sooner on the concrete?",
+      "options": [
+        "Concrete exerts a larger gravitational pull on the block than ice does.",
+        "The concrete surface provides a much larger friction force that opposes and slows down the block's movement.",
+        "The block's mass decreases as it slides on concrete, reducing its forward momentum.",
+        "Air resistance is significantly higher over concrete surfaces than over ice."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "At a microscopic level, even highly polished metal sheets have tiny bumps and ridges. How does this microscopic structure explain the origin of friction when two such sheets slide over each other?",
+      "options": [
+        "The microscopic ridges interlock and collide, resisting the relative movement between the surfaces.",
+        "The ridges create pocket vacuums that suck the two sheets together.",
+        "The air trapped between the ridges acts as a strong glue.",
+        "The rough ridges generate electrostatic repulsion that pushes the plates apart."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A bicycle chain is squeaking and stiff. After applying a thin layer of oil, the pedals turn much more easily. Which statement best explains how the oil achieved this effect?",
+      "options": [
+        "The oil reacts chemically with the metal to make the chain lighter.",
+        "The oil fills the microscopic gaps and separates the rough surfaces, reducing the friction between them.",
+        "The oil increases the contact area to increase the grip between the chain and the gears.",
+        "The oil acts as an adhesive that binds the chain links tightly together."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A student notices that when a newton meter is hanging empty, the pointer rests at the 0.5 N mark instead of 0 N. If they use this meter to measure a 4.0 N weight without adjusting it, what will the scale read, and how should they fix this?",
+      "options": [
+        "It will read 3.5 N; they should subtract 0.5 N from all readings.",
+        "It will read 4.5 N; they should adjust the zero calibration screw to align the pointer with 0 N before measuring.",
+        "It will read 4.5 N; they must buy a new meter as this one is permanently damaged.",
+        "It will read 4.0 N; the error automatically corrects itself when a load is added."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A student wants to measure a force that they estimate to be around 2.4 N. They have three newton meters available: Meter X (range 0–1 N, divisions of 0.1 N), Meter Y (range 0–5 N, divisions of 0.1 N), and Meter Z (range 0–100 N, divisions of 5 N). Which meter is the most appropriate choice?",
+      "options": [
+        "Meter X, because it has the smallest divisions and will be highly precise.",
+        "Meter Z, because its large scale ensures it will not break under any circumstances.",
+        "Meter Y, because its scale accommodates the force and offers detailed divisions for an accurate reading.",
+        "Either Meter Y or Meter Z, as the total range of the meter does not affect readability."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A group of students tests how much force is needed to slide a wooden block across different floor coverings: carpet, vinyl, wood, and concrete. What type of chart should they use to display their results, and why?",
+      "options": [
+        "A line graph, because both the floor covering and the force are continuous variables.",
+        "A bar chart, because the independent variable (type of floor covering) is categoric.",
+        "A scatter graph, because there are multiple trials for each floor type.",
+        "A pie chart, because they need to show the proportion of total force used on each floor."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "To investigate how the surface area of a parachute affects its fall time, students drop parachutes of different sizes. To ensure this is a fair test, what must they do regarding the variables?",
+      "options": [
+        "Change both the surface area and the mass of the parachutes at the same time.",
+        "Change only the surface area of the parachute, keeping all other variables like mass and drop height the same.",
+        "Keep the surface area constant and change the material of each parachute.",
+        "Change the drop height for each different parachute size."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A student measures the friction force of a shoe on wood three times, getting results of 4.2 N, 4.1 N, and 8.9 N. What is the value of repeating this measurement, and how should they handle the 8.9 N result?",
+      "options": [
+        "It confirms all results are reliable, so they should calculate the mean of all three values.",
+        "It helps identify the 8.9 N reading as an anomaly, which should be investigated and excluded before calculating the mean.",
+        "It shows that the shoe grew heavier during the third test, so the third reading is the most accurate.",
+        "It proves that the equipment is broken, so they should discard all results and start a different experiment."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A magnet is held 2 cm above a steel paperclip, causing the paperclip to jump up and stick to the magnet. Which statement correctly describes the magnetic force during this event?",
+      "options": [
+        "It is a contact force because the paperclip eventually touches the magnet.",
+        "It is a non-contact force because it pulled the paperclip upwards before they were touching.",
+        "It is only a force once the physical contact is established.",
+        "It is a contact force that acts through the air molecules pushing the paperclip."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A skydiver is falling through the air before opening their parachute. What is the nature of the drag force acting on the skydiver?",
+      "options": [
+        "It is a non-contact force of gravity pulling the skydiver upwards.",
+        "It is a contact force caused by the skydiver's body colliding with and pushing through air particles.",
+        "It is an electromagnetic force field generated by the rapid motion.",
+        "It is a constant downward force that increases their speed of descent."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "In a force diagram of a rising hot air balloon, the upward thrust arrow is drawn 6 cm long, while the downward gravity arrow is drawn 4 cm long. What do these lengths tell us about the forces?",
+      "options": [
+        "The downward force of gravity is larger because it is more concentrated.",
+        "The upward thrust force is larger than the downward gravity force.",
+        "Both forces are equal because they are acting on the same balloon.",
+        "The balloon is moving horizontally because the arrows have different lengths."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "A book rests quietly on a wooden table. How should the upward support force acting on the book be labeled according to scientific standards?",
+      "options": [
+        "The force acting on the table by the book.",
+        "The force acting on the book by gravity.",
+        "The force acting on the book by the table.",
+        "The force acting on the table by the floor."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "Two grocery trolleys are in a supermarket. Trolley X is empty, while Trolley Y is fully loaded with heavy canned goods. Why is Trolley Y much harder to suddenly turn around a corner than Trolley X?",
+      "options": [
+        "Trolley Y has a greater mass, so it requires a greater force to change its direction of motion.",
+        "Trolley Y experiences less friction from the floor, making it slide out of control.",
+        "Trolley X has more chemical energy, which assists the shopper in steering it.",
+        "Trolley Y is subject to a stronger magnetic field from the floor."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 39
+    },
+    {
+      "question": "A tennis ball is flying through the air. In which of the following situations is a force NOT being applied to the ball?",
+      "options": [
+        "The ball hits the racket, causing it to compress and change shape.",
+        "The ball strikes the court surface and bounces upward, changing its direction.",
+        "The ball continues to fly in a straight line at a completely constant speed in deep, empty space.",
+        "The ball slows down as it travels through the air due to air resistance."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 41
+    },
+    {
+      "question": "A cyclist travels along a straight, flat road. The forward force from their pedaling is exactly 40 N, and the backward drag force is exactly 40 N. Which of the following describes the cyclist's motion?",
+      "options": [
+        "The cyclist will gradually slow down and eventually come to a stop.",
+        "The cyclist will continue moving forward at a constant speed because there is no resultant force.",
+        "The cyclist will instantly stop moving because the forces cancel out.",
+        "The cyclist will accelerate forward because the pedaling force was applied first."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "An archer pulls back a bowstring, bending the bow. In terms of energy and forces, what is happening during this process?",
+      "options": [
+        "The force applied by the archer's hands transfers energy into the elastic store of the bow by changing its shape.",
+        "Energy is destroyed by the force of friction as the string moves backward.",
+        "The bow creates new energy because of the tension force within its material.",
+        "No energy is transferred because the bow is not yet moving through the air."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 32
+    }
+  ]
+}

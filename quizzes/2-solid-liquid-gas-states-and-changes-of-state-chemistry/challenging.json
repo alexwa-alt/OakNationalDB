@@ -1,0 +1,226 @@
+{
+  "unitKey": "2Solid, liquid, gas states and changes of stateChemistry",
+  "generatedAt": "2026-08-12T06:04:26.984109+00:00",
+  "questions": [
+    {
+      "question": "If pure water is heated until it boils at 100°C, at what temperature will the resulting steam begin to condense back into liquid water if it is cooled under the same atmospheric pressure?",
+      "options": [
+        "100°C",
+        "0°C",
+        "50°C",
+        "101°C"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A closed, flexible container holds 10 ml of liquid water. If this water is completely boiled into steam, what happens to the volume of the container?",
+      "options": [
+        "It decreases significantly because gas particles are smaller.",
+        "It increases significantly because the substance expands in the gas state.",
+        "It remains exactly the same because the mass of water has not changed.",
+        "It increases slightly by about 10% because of thermal expansion of the liquid."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following best describes the behavior of water particles as steam cools and condenses into liquid water?",
+      "options": [
+        "The particles stop moving entirely and lock into fixed positions.",
+        "The particles move further apart and gain kinetic energy.",
+        "The particles move closer together as they transition to the liquid state.",
+        "The individual particles shrink in size to occupy less space."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A student notices that their Bunsen burner is producing a yellow, sooty flame that is leaving black marks on a beaker. How can they adjust the burner to get a hotter, cleaner flame?",
+      "options": [
+        "Close the air hole completely to restrict the oxygen flow.",
+        "Open the air hole to allow more air to mix with the gas.",
+        "Turn the gas tap down to reduce the gas flow.",
+        "Turn the gas tap up to increase the gas pressure."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the safest way to carry a lit wooden splint across a science laboratory to light a Bunsen burner?",
+      "options": [
+        "Hold it vertically upwards to keep the flame away from your hand.",
+        "Hold it horizontally and walk as quickly as possible to prevent it from going out.",
+        "Hold it with the flame angled slightly downwards, shielding the flame with your other hand.",
+        "Hold it angled upwards at 45 degrees, blowing gently on it to keep it lit."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Equal masses of a substance exist in solid, liquid, and gas states. Which state has the highest amount of energy, and which has the lowest?",
+      "options": [
+        "Gas state has the most energy; solid state has the least energy.",
+        "Solid state has the most energy; gas state has the least energy.",
+        "Liquid state has the most energy; solid state has the least energy.",
+        "Gas state has the most energy; liquid state has the least energy."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A puddle of water on a playground disappears after a few hours on a cool day when the temperature is only 15°C. Why does this happen?",
+      "options": [
+        "Water can only transition to a gas when it reaches its boiling point of 100°C, so the water must have soaked entirely into the ground.",
+        "Liquid water can evaporate into a gas at temperatures well below its boiling point.",
+        "The sun must have heated the puddle to exactly 100°C locally for a fraction of a second.",
+        "The air pressure must have dropped to zero to allow the water to boil at 15°C."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Two identical dishes contain equal amounts of water. Dish A is kept at 20°C, and Dish B is kept at 40°C. Which dish will dry out first, and why?",
+      "options": [
+        "Dish A, because cooler water particles are more tightly packed and push each other out.",
+        "Dish B, because hotter water evaporates more quickly.",
+        "Both dishes will dry out at the exact same rate because evaporation is independent of temperature.",
+        "Dish B, because the water in Dish B has reached its boiling point."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Wet laundry is hung outside on a cloudy day when the temperature is 12°C. Which statement is correct regarding the drying of the clothes?",
+      "options": [
+        "The clothes will not dry because water requires a temperature of 100°C to evaporate.",
+        "The clothes will dry because water evaporates at temperatures lower than 100°C.",
+        "The clothes will only dry if the air temperature rises to at least 50°C.",
+        "The clothes will dry because the water freezes and then falls off as ice."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A pure sample of a metal is found to melt at exactly 660°C. At what temperature will this liquid metal begin to freeze back into a solid?",
+      "options": [
+        "0°C",
+        "330°C",
+        "660°C",
+        "100°C"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why does a solid block of iron maintain a fixed shape and refuse to flow when placed into a large bowl?",
+      "options": [
+        "The particles are free to move around each other, but they are extremely heavy.",
+        "The forces of attraction between the particles hold them in fixed positions.",
+        "There are no forces of attraction, but the particles are packed so tightly they cannot move.",
+        "The particles are constantly expanding and contracting to fill the volume."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "When water is poured from a beaker into a graduated cylinder, it changes its shape to match the cylinder but does not expand to fill the entire room. What does this tell us about the particles in a liquid?",
+      "options": [
+        "They are held in rigid, fixed positions but can rotate slightly.",
+        "They have completely overcome all forces of attraction and move independently.",
+        "They are held together but have enough energy to break free and move around each other.",
+        "They have no forces of attraction between them but are held down by gravity alone."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Substance X melts at -182°C, while Substance Y melts at 1538°C. What can you infer about the forces of attraction between the particles in these two substances?",
+      "options": [
+        "The forces of attraction between particles in Substance X are much stronger than in Substance Y.",
+        "The forces of attraction between particles in Substance Y are much stronger than in Substance X.",
+        "Both substances have identical forces of attraction, but Substance Y has larger particles.",
+        "Substance X has no forces of attraction, while Substance Y has only gravitational attraction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A thermometer is placed in a beaker of melting ice, then held in a room, and finally held in a healthy human's hand. What sequence of temperatures would you expect to read?",
+      "options": [
+        "0°C, then about 20°C, then about 37°C",
+        "0°C, then about 37°C, then about 20°C",
+        "100°C, then about 20°C, then about 37°C",
+        "-10°C, then about 25°C, then about 98°C"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Why can a large volume of air inside a bicycle pump be easily squeezed into a much smaller volume, whereas water inside a syringe cannot?",
+      "options": [
+        "Water particles are much harder than air particles.",
+        "In the gas state, a substance can be compressed because there are large gaps between particles, unlike in the liquid state.",
+        "Air particles are constantly shrinking when pressure is applied.",
+        "Liquid water has stronger magnetic forces that push back against the syringe."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Why do gas particles spread out to completely fill any container they are placed in, rather than settling at the bottom like a liquid?",
+      "options": [
+        "Gas particles have enough energy to be free of the attractive forces between them.",
+        "Gas particles are lighter than gravity, so they float upwards.",
+        "Gas particles are repelled by the bottom of the container.",
+        "The forces of attraction between gas particles actually push them away from each other."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "If you could zoom in to look at the space between the nitrogen and oxygen particles in clean, dry air, what would you find in those gaps?",
+      "options": [
+        "Tiny particles of water vapor and dust.",
+        "Nothing at all (a vacuum).",
+        "A thin, weightless fluid that carries heat.",
+        "Compressed liquid air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "The melting point of gallium is 29.76°C. If a sample of gallium is kept in a freezer at -10°C, what state of matter will it be in?",
+      "options": [
+        "Liquid state",
+        "Solid state",
+        "Gas state",
+        "A mixture of liquid and gas states"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "The freezing point of mercury is -38.83°C, and its boiling point is 356.7°C. If a sample of mercury is at 20°C, what state of matter is it in?",
+      "options": [
+        "Solid state",
+        "Gas state",
+        "Liquid state",
+        "It is transitioning from gas to solid"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "When steam inside a sealed, flexible balloon cools down and condenses back into liquid water, what happens to the volume occupied by the water substance?",
+      "options": [
+        "The volume increases because liquid particles take up more space than gas particles.",
+        "The volume decreases because the substance occupies less space in its liquid state.",
+        "The volume remains unchanged because the number of particles is the same.",
+        "The volume increases slightly because of the expansion of liquid water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "unitKey": "3CellsBiology",
+  "generatedAt": "2026-08-12T06:04:36.474964+00:00",
+  "questions": [
+    {
+      "question": "A student looks at a cheek cell under a microscope and describes it as a flat circle. Why is this description incomplete?",
+      "options": [
+        "Cheek cells are only flat when they are dead; living cheek cells are always perfect cylinders.",
+        "Real cells are three-dimensional, like a spherical or irregular bag, but microscopes only show a two-dimensional slice or view.",
+        "The cell membrane has a varying thickness that causes the cell to change between flat and spherical states every few seconds.",
+        "Cheek cells are actually shaped like rigid cuboids with sharp edges."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In a laboratory experiment, a poison is introduced that specifically stops mitochondria from working. What is the most direct consequence for an animal cell?",
+      "options": [
+        "The cell will immediately lose its structure and collapse because the cytoplasm liquefies.",
+        "The cell will be unable to control what substances enter and exit through its membrane.",
+        "The cell will run out of usable energy because it can no longer perform aerobic respiration.",
+        "The cell will immediately stop producing new proteins in its nucleus."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why might a 3D physical model of a cell be more useful to a scientist than a traditional 2D textbook diagram?",
+      "options": [
+        "It shows that cell structures have depth and can surround or sit next to each other in different planes.",
+        "It is the only way to accurately represent the movement of water molecules through the cell membrane.",
+        "It proves that cells do not contain any liquid, which is a common misconception caused by 2D drawings.",
+        "It shows the exact, real-life size of the cell without needing magnification."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "An unknown organism is found in a pond. Scientists observe that it can move, feed, and reproduce, yet it consists of only a single cell. How should this organism be classified?",
+      "options": [
+        "It is a multicellular organism because it performs multiple life processes.",
+        "It is a non-living entity because living things must be made of millions of cells.",
+        "It is a unicellular organism that carries out all necessary life functions within its one cell.",
+        "It is a specialized cell that has escaped from a larger plant or animal."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In multicellular organisms like humans, different cells perform different functions. Why is this division of labour advantageous compared to having identical cells?",
+      "options": [
+        "It allows individual cells to become highly efficient at one job, rather than trying to perform every life process poorly.",
+        "It ensures that if one cell dies, all other cells of different types can instantly change their job to replace it.",
+        "It means that only a small fraction of the organism's cells need to carry out respiration to survive.",
+        "It allows cells to survive completely independently of each other if they are separated from the body."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which of the following best describes the relationship between cells and tissues in a multicellular organism?",
+      "options": [
+        "A tissue is made of completely different types of organs that have joined together.",
+        "A tissue is a group of similar cells working together to perform a shared, specific function.",
+        "A tissue is a protective outer layer that prevents cells from dividing.",
+        "A tissue is formed when unicellular organisms clump together to share nutrients."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "The stomach contains muscle tissue, epithelial tissue, and glandular tissue working together to digest food. How should the stomach be classified?",
+      "options": [
+        "As an organ system, because it contains different types of tissues.",
+        "As an organ, because it is made of different tissues working together for a specific job.",
+        "As a tissue, because all its cells have the exact same structure.",
+        "As an organism, because it can digest food independently of the rest of the body."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "The Euglena is a unicellular organism that lives in water and has a flagellum (a tail-like structure). What is the main adaptation and purpose of this structure?",
+      "options": [
+        "It acts as a cell wall to prevent the Euglena from bursting in freshwater.",
+        "It allows the Euglena to swim towards light so it can make its own food.",
+        "It is used to inject genetic material into host cells to reproduce.",
+        "It absorbs nutrients directly from the water by increasing surface area."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Most animal and plant cells have diameters between 10 and 100 micrometers. Why does this require us to use microscopes to study them?",
+      "options": [
+        "They are too small to be resolved by the human eye, which generally cannot see objects smaller than about 0.1 millimetres.",
+        "Cells are transparent, and light microscopes are the only devices that can add artificial colour to them.",
+        "Unmagnified cells move too fast for the human eye to track.",
+        "Cells only exist in a solid state when they are placed under a microscope lens."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When preparing a slide of onion epidermal cells to view under a light microscope, why is it important to peel a layer that is only one cell thick?",
+      "options": [
+        "Thicker samples will block the light, making it impossible to see the individual cell structures clearly.",
+        "A single layer of cells is necessary to prevent the cover slip from sliding off.",
+        "If the layer is too thick, the cells will quickly run out of oxygen and die on the slide.",
+        "The stain will only react with cells that are in direct contact with the glass slide."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A student is looking at a plant tissue slide under a microscope. They can see faint outlines of cells but cannot distinguish any internal structures. What should they do first?",
+      "options": [
+        "Increase the light intensity to maximum and turn off the microscope.",
+        "Adjust the fine focus knob slowly to bring the image into sharp focus, then increase the magnification if needed.",
+        "Replace the light bulb with a blue light to change the wavelength.",
+        "Wipe the slide with a dry paper towel while it is still on the stage."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "If you compare a plant cell from a leaf with a plant cell from a root, which structure would you expect to find in the leaf cell but NOT in the root cell?",
+      "options": [
+        "A cell wall, because root cells do not need structural support.",
+        "A large permanent vacuole, because root cells do not store water.",
+        "Chloroplasts, because root cells are underground and do not receive light for photosynthesis.",
+        "A cell membrane, because root cells absorb water through simple diffusion without a barrier."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What would happen to a plant cell if its permanent vacuole were to completely lose its water content?",
+      "options": [
+        "The cell would swell and eventually burst because of the increased internal pressure.",
+        "The cell would lose its internal pressure (turgor), causing the cell to go soft and the plant to wilt.",
+        "The cell would immediately stop performing photosynthesis because the vacuole is where glucose is made.",
+        "The cell wall would dissolve, converting the plant cell into an animal cell."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Why do scientists often add a chemical stain like iodine solution or methylene blue to a cell sample before viewing it under a microscope?",
+      "options": [
+        "To kill any harmful bacteria so the slide is safe to touch.",
+        "To bind to specific cell structures like the nucleus, making them stand out from the transparent cytoplasm.",
+        "To glue the cover slip down so that the cells cannot move around.",
+        "To provide nutrients to the cells so they stay alive longer under the hot microscope light."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "When creating a scientific line drawing of cells observed under a microscope, which of the following is a key rule to follow?",
+      "options": [
+        "Use heavy shading and sketch lines to make the drawing look as artistic and three-dimensional as possible.",
+        "Draw only what you actually see using clear, single, unbroken lines, and do not include shading.",
+        "Always draw what you think the cell should look like from textbook diagrams, even if you cannot see those parts.",
+        "Use multiple coloured pens to represent the different organelles you can see."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "While animal cells generally contain a nucleus, mature human red blood cells do not have one. What is the evolutionary benefit of this modification?",
+      "options": [
+        "It allows the cell to divide much faster to replace damaged blood vessels.",
+        "It provides more space inside the cell to carry oxygen bound to haemoglobin.",
+        "It prevents the red blood cell from being targeted and destroyed by viruses.",
+        "It reduces the cell's energy requirement so it does not need any glucose."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Ciliated epithelial cells in the human respiratory tract have tiny hair-like projections called cilia. How does this structure adapt them for their specific job?",
+      "options": [
+        "The cilia sweep mucus containing dust and microbes away from the lungs.",
+        "The cilia absorb oxygen directly from the air into the bloodstream.",
+        "The cilia help the cell swim through the bloodstream to fight infections.",
+        "The cilia act as sensory receptors to detect changes in air temperature."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "How is the structure of a plant's root hair cell adapted to its function of absorbing water and mineral ions?",
+      "options": [
+        "It has a long, thin extension that greatly increases the surface area in contact with the soil.",
+        "It contains many chloroplasts to produce energy for active transport underground.",
+        "It has a thick, impermeable cell wall to prevent water from leaking back into the soil.",
+        "It has a highly flexible shape that allows it to crawl between soil particles."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Which of the following scenarios is the best example of 'movement' as a characteristic life process of an organism?",
+      "options": [
+        "A dead leaf blowing across a field in a strong gust of wind.",
+        "A pollen grain dancing randomly in a drop of water due to collisions with water molecules.",
+        "A sunflower seedling bending its stem over several days to face towards a light source.",
+        "A piece of seaweed being carried up a beach by the incoming tide."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "A student argues that because a tree does not walk or eat food, it does not share the same life processes as a tiger. Why is this student incorrect?",
+      "options": [
+        "Trees actually do walk and ingest food, but they only do so during the night when humans cannot observe them.",
+        "Trees perform all the same fundamental life processes, such as nutrition (via photosynthesis) and movement (growth towards light), just in different ways.",
+        "Trees are not classified as living organisms; they are complex organic structures that support living ecosystems.",
+        "The student is correct; trees only share the process of respiration with animals, while all other processes are completely different."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    }
+  ]
+}

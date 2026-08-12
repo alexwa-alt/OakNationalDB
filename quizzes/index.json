@@ -1,19 +1,24 @@
 {
   "units": {
     "1ForcesPhysics": {
-      "path": "forces"
+      "path": "forces",
+      "challenging": "challenging.json"
     },
     "2Solid, liquid, gas states and changes of stateChemistry": {
-      "path": "2-solid-liquid-gas-states-and-changes-of-state-chemistry"
+      "path": "2-solid-liquid-gas-states-and-changes-of-state-chemistry",
+      "challenging": "challenging.json"
     },
     "3CellsBiology": {
-      "path": "3-cells-biology"
+      "path": "3-cells-biology",
+      "challenging": "challenging.json"
     },
     "4Our solar system and beyondPhysics": {
-      "path": "4-our-solar-system-and-beyond-physics"
+      "path": "4-our-solar-system-and-beyond-physics",
+      "challenging": "challenging.json"
     },
     "5SolutionsChemistry": {
-      "path": "5-solutions-chemistry"
+      "path": "5-solutions-chemistry",
+      "challenging": "challenging.json"
     },
     "6EcosystemsBiology": {
       "path": "6-ecosystems-biology"
