@@ -21,19 +21,24 @@
       "challenging": "challenging.json"
     },
     "6EcosystemsBiology": {
-      "path": "6-ecosystems-biology"
+      "path": "6-ecosystems-biology",
+      "challenging": "challenging.json"
     },
     "7Sound, light and visionPhysics": {
-      "path": "7-sound-light-and-vision-physics"
+      "path": "7-sound-light-and-vision-physics",
+      "challenging": "challenging.json"
     },
     "8Heredity and DNABiology": {
-      "path": "8-heredity-and-dnabiology"
+      "path": "8-heredity-and-dnabiology",
+      "challenging": "challenging.json"
     },
     "9Separation techniquesChemistry": {
-      "path": "9-separation-techniques-chemistry"
+      "path": "9-separation-techniques-chemistry",
+      "challenging": "challenging.json"
     },
     "10Human skeleton and musclesBiology": {
-      "path": "10-human-skeleton-and-muscles-biology"
+      "path": "10-human-skeleton-and-muscles-biology",
+      "challenging": "challenging.json"
     },
     "11Heating and coolingPhysics": {
       "path": "11-heating-and-cooling-physics"

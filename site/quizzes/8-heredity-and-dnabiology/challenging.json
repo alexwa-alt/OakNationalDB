@@ -1,0 +1,226 @@
+{
+  "unitKey": "8Heredity and DNABiology",
+  "generatedAt": "2026-08-12T06:13:32.330939+00:00",
+  "questions": [
+    {
+      "question": "DNA is described as a long chemical molecule made of two chains of smaller units. If a scientist breaks all the chemical bonds holding the two chains together but leaves the bonds within each chain intact, what would they observe?",
+      "options": [
+        "The DNA would break down into individual small chemical units.",
+        "The DNA would separate into two distinct, intact single chains.",
+        "The DNA would remain a double helix but lose its chemical code.",
+        "The DNA would immediately form a single, longer continuous chain."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A student extracts all of the genetic material from a single muscle cell of a mouse. Which of the following terms correctly describes the entire collection of DNA that has been extracted?",
+      "options": [
+        "A gene",
+        "The genome",
+        "A chromosome",
+        "A double helix"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If you look at the structure of DNA as a ladder, what represents the \"rungs\" (links across the middle) and what represents the \"sides\" of the ladder?",
+      "options": [
+        "The sides are the single chemical units; the rungs are the double helix spiral bonds.",
+        "The sides are the nuclear membranes; the rungs are the tightly packed chromosome fibres.",
+        "The sides are the two spiralled chemical chains; the rungs are the chemical links connecting them.",
+        "The sides are the genes; the rungs are the non-coding sections of DNA."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A physical model of DNA made of plastic pieces is useful for showing how the two chains connect, but what is a limitation or weakness of using such a physical model?",
+      "options": [
+        "It cannot show that DNA is composed of two chains spiralled in a double helix.",
+        "It cannot show the dynamic, chemical processes and reactions that occur when DNA is used by the cell.",
+        "It cannot represent the fact that DNA is stored inside the nucleus of eukaryotic cells.",
+        "It fails to show that genes contain instructions for inherited features."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When extracting DNA from a kiwi fruit, why can we see the extracted DNA in our test tube with the naked eye, even though individual DNA molecules are far too small to be seen?",
+      "options": [
+        "The DNA molecules expand and grow larger when they come into contact with cold alcohol.",
+        "The extraction process causes millions of microscopic DNA molecules to clump together.",
+        "The DNA molecules absorb the green pigment of the kiwi fruit, making them visible.",
+        "The filter paper aligns the individual strands so they reflect light together."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How are the genome, DNA, and chromosomes physically organized within a eukaryotic cell?",
+      "options": [
+        "The genome is a single gene that is divided into chromosomes made of small DNA molecules.",
+        "Chromosomes are made of tightly wound DNA molecules, which together make up the genome.",
+        "DNA is made of chromosomes that are packed together to form a genome.",
+        "Chromosomes are small units of the genome that are connected by DNA chains."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "If we compare the genetic material in a human skin cell to that in a bacterium, which of the following describes a key structural difference in how they are stored?",
+      "options": [
+        "Human cells store 23 pairs of chromosomes in the nucleus, whereas bacteria store a single chromosome in the cytoplasm.",
+        "Human cells store 23 single chromosomes in the nucleus, whereas bacteria store 23 pairs in the cytoplasm.",
+        "Human cells store one chromosome in the nucleus, whereas bacteria store 23 pairs in the cytoplasm.",
+        "Human cells store chromosomes in the cytoplasm, whereas bacteria store them in the nucleus."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which statement best describes the relationship between a chromosome, a gene, and their functions?",
+      "options": [
+        "A gene is a packed chromosome that controls the cell membrane's structure.",
+        "A chromosome is a small section of a gene that contains instructions for one specific feature.",
+        "A gene is a specific section of DNA on a chromosome that stores instructions for a particular feature or process.",
+        "A chromosome is the chemical unit that links the two chains of a gene together."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "If a scientist removes a section of \"non-coding DNA\" from an organism's genome, what is the most likely direct consequence?",
+      "options": [
+        "The organism will completely lose the ability to inherit any traits from its parents.",
+        "The cell may lose the ability to control when or how specific genes are turned on and used.",
+        "The cell will immediately stop producing all chemical units that form the DNA chains.",
+        "The chromosomes will instantly unwind and spill out of the nucleus."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A student is looking under a microscope at an unknown cell. They observe that the cell has a cytoplasm and a cell membrane, but no nucleus. Where would they find the genetic material of this organism?",
+      "options": [
+        "Free-floating inside the cytoplasm, because it is a bacterium.",
+        "Bound inside a vacuole, because it is an animal cell.",
+        "Within the cell membrane, because it is a fungus.",
+        "No genetic material exists because cells without a nucleus do not have DNA."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How does DNA act as an \"instruction manual\" for an organism's life processes and features?",
+      "options": [
+        "The physical weight of the DNA molecules determines which features develop.",
+        "The specific sequence of smaller molecules along the DNA chains forms a code that the cell decodes to build features.",
+        "DNA molecules physically move to different parts of the body to form physical tissues like muscle and bone.",
+        "The double helix shape acts as a physical template that directly shapes the cells of the organism."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why do brothers and sisters from the same biological parents look similar to each other and to their parents, but are not identical?",
+      "options": [
+        "They inherit genetic material from only one parent, but which parent they inherit it from is completely random.",
+        "They inherit different mixtures of genetic material from both parents, leading to shared but unique combinations of features.",
+        "They inherit all their features from their father, and their environment makes them look like their mother.",
+        "They inherit genetic material from both parents, but the material is identical for every child."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Except in the case of identical twins, offspring of the same parents show variation. What is the biological reason for this variation among offspring?",
+      "options": [
+        "Offspring receive different combinations of genes from their parents, creating unique genetic instructions.",
+        "Offspring change their genetic material after birth based on their environment.",
+        "Only one parent passes on genetic material, and it changes depending on the age of the parent.",
+        "The non-coding DNA completely overrides the genes during growth."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "During fertilisation, an egg cell and a sperm cell fuse. How does this process relate to heredity?",
+      "options": [
+        "It allows environmental changes from the parents' lives to be copied into the offspring's cells.",
+        "It combines genetic material from both parents, passing on the instructions that determine the offspring's biological features.",
+        "It destroys the parents' original DNA so that the offspring can develop entirely new, random traits.",
+        "It converts non-coding DNA into active genes to ensure the offspring is a new species."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A professional athlete trains hard and develops extremely strong muscles. If they have a child, why won't the child automatically be born with extremely strong muscles?",
+      "options": [
+        "Muscle strength is not controlled by any genetic material.",
+        "Only features programmed by instructions in the genetic material can be inherited, not traits acquired through training.",
+        "Acquired traits are only passed on from the mother, not the father.",
+        "The child will inherit the strength, but only after they reach adulthood."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Which of the following features is caused entirely by environmental factors and cannot be passed on to offspring?",
+      "options": [
+        "A scar on a person's arm from a childhood accident",
+        "The natural colour of a person's eyes",
+        "The shape of a person's earlobes",
+        "Having a hereditary blood group"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A group of scientists is studying a plant. They find some plants have red flowers and some have green leaves with spots caused by a leaf-mining insect. How should these two features be classified?",
+      "options": [
+        "Red flowers are genetic; insect spots are genetic.",
+        "Red flowers are environmental; insect spots are genetic.",
+        "Red flowers are genetic; insect spots are environmental.",
+        "Red flowers are environmental; insect spots are environmental."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Why did it take from the discovery of DNA in 1869 until 1953 for scientists to work out its double helix structure?",
+      "options": [
+        "Scientists had to wait until the 1950s for the technology to extract DNA from cells to be invented.",
+        "It required scientists to share different pieces of evidence, collaborate, and build physical models to interpret the clues.",
+        "No one believed DNA was important until 1953, so no research was conducted on it.",
+        "The structure of DNA actually changed over time due to evolution."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "What crucial evidence did Rosalind Franklin's team in London contribute to the discovery of the structure of DNA in 1952?",
+      "options": [
+        "They built the first three-dimensional cardboard model of the double helix.",
+        "They proved that bacteria do not have a nucleus.",
+        "They used X-rays to capture an image that indicated the helical shape of DNA.",
+        "They extracted DNA from fruit for the very first time."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "How did James Watson and Francis Crick use the scientific work of others to complete their model of DNA?",
+      "options": [
+        "They used the X-ray picture taken by Franklin's team to work out and build a physical model of the double helix structure.",
+        "They proved that Rosalind Franklin's X-ray images were completely incorrect and built a different model.",
+        "They used the image to show that DNA is a single straight chain without any links.",
+        "They used it to discover that DNA is stored in the cytoplasm of human cells."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 34
+    }
+  ]
+}
