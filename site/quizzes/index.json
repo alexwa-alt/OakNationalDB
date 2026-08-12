@@ -29,6 +29,21 @@
     },
     "10Human skeleton and musclesBiology": {
       "path": "10-human-skeleton-and-muscles-biology"
+    },
+    "11Heating and coolingPhysics": {
+      "path": "11-heating-and-cooling-physics"
+    },
+    "12DiffusionBiology": {
+      "path": "12-diffusion-biology"
+    },
+    "13Climate change and living sustainablyBiologyChemistryPhysics": {
+      "path": "13-climate-change-and-living-sustainably-biology-chemistry-physics"
+    },
+    "1Human digestive systemBiology": {
+      "path": "1-human-digestive-system-biology"
+    },
+    "2Atoms, elements and compoundsChemistry": {
+      "path": "2-atoms-elements-and-compounds-chemistry"
     }
   }
 }

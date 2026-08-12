@@ -1,0 +1,193 @@
+{
+  "unitKey": "12DiffusionBiology",
+  "generatedAt": "2026-08-12T05:48:50.665745+00:00",
+  "questions": [
+    {
+      "question": "What property must a material have for particles of a liquid to move through it by diffusion?",
+      "options": [
+        "It must be completely solid and non-porous.",
+        "It must be permeable.",
+        "It must be magnetic.",
+        "It must be impermeable."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following is an observation made when a liquid diffuses into a jelly cube?",
+      "options": [
+        "The liquid evaporates immediately upon touching the jelly.",
+        "The liquid moves into and spreads through the jelly cube.",
+        "The jelly cube instantly dissolves into a gas.",
+        "The jelly cube expands to ten times its original size."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What is the expected effect of a higher temperature on the diffusion of a liquid into a jelly cube?",
+      "options": [
+        "Diffusion slows down.",
+        "Diffusion stops completely.",
+        "Diffusion happens faster.",
+        "The temperature has no effect on diffusion."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How does the size of a jelly cube affect the observed diffusion of a liquid into its center?",
+      "options": [
+        "The liquid reaches the center of a smaller cube faster than a larger cube.",
+        "The liquid reaches the center of a larger cube faster than a smaller cube.",
+        "Cube size has no effect on how long it takes to reach the center.",
+        "Diffusion only occurs in the largest possible cubes."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Using the particle model, why does a higher temperature increase the rate of diffusion into a jelly cube?",
+      "options": [
+        "Particles gain kinetic energy and move faster.",
+        "Particles lose mass and become lighter.",
+        "Particles stop colliding with each other.",
+        "The jelly cube particles become larger."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why are particles of some substances able to pass through a selectively-permeable membrane?",
+      "options": [
+        "They are attracted by magnetic forces in the membrane.",
+        "They are small enough to pass through the holes in the membrane.",
+        "They are made of a different state of matter.",
+        "They dissolve the membrane to create large openings."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In which direction do particles of a substance move through a selectively-permeable membrane?",
+      "options": [
+        "They move only from the outside to the inside.",
+        "They move only from the inside to the outside.",
+        "They move in both directions across the membrane.",
+        "They only travel along the outer surface without entering."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "If there is a higher concentration of a substance on one side of a selectively-permeable membrane than the other, what is the predicted direction of net movement?",
+      "options": [
+        "From the area of lower concentration to higher concentration.",
+        "From the area of higher concentration to lower concentration.",
+        "There will be no movement of particles at all.",
+        "Particles will move sideways only, avoiding the membrane."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "In an experiment using Visking tubing to observe diffusion, what can typically be seen when starch-indicator iodine is placed outside the tubing?",
+      "options": [
+        "The iodine particles remain completely stationary outside.",
+        "The iodine particles diffuse through the tubing, turning the inside solution blue-black.",
+        "The starch particles diffuse out and turn the outer solution blue-black.",
+        "The tubing completely dissolves due to the iodine."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which statement is true regarding the composition of the cell cytoplasm and its substances?",
+      "options": [
+        "They are continuous fluids that are not made of particles.",
+        "They are made up of particles, just like all other substances.",
+        "They contain only energy waves and no matter.",
+        "They are made of a single giant macromolecule with no individual parts."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How do particles of certain substances enter and leave a cell?",
+      "options": [
+        "By passing through small holes in the cell membrane.",
+        "By destroying the cell membrane.",
+        "By being actively pulled through solid lipids.",
+        "By turning into a gas to bypass the membrane."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why are some substances unable to diffuse through the holes in a cell membrane?",
+      "options": [
+        "Their particles are too small to be noticed.",
+        "The particles that make them up are too big.",
+        "They do not have enough magnetic charge.",
+        "Their particles are converted into water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why is the cell membrane described as selectively-permeable?",
+      "options": [
+        "It allows all substances to pass through without any restriction.",
+        "Only some substances can diffuse through it.",
+        "It completely blocks all substances from entering or leaving.",
+        "It only allows liquids to pass through, blocking all gases."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is the direction of the net movement of particles through a cell membrane?",
+      "options": [
+        "Up a concentration gradient.",
+        "Down a concentration gradient.",
+        "Against the concentration gradient.",
+        "Sideways along the membrane gradient."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How do particles of a substance behave during diffusion?",
+      "options": [
+        "They move in a perfectly synchronized straight line.",
+        "They move in random directions and collide all the time.",
+        "They remain stationary and vibrate in fixed positions.",
+        "They only move when a force of gravity pulls them."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In science, how is 'concentration' defined?",
+      "options": [
+        "The physical size of a single particle.",
+        "The total speed of particles moving in a container.",
+        "The number of particles in a volume of liquid or gas.",
+        "The strength of the chemical bonds inside a molecule."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which of the following describes the process of diffusion?",
+      "options": [
+        "The active transport of particles using cellular energy.",
+        "The passive movement of particles from an area of higher to lower concentration.",
+        "The evaporation of water from a semi-permeable surface.",
+        "The chemical bonding of two different substances."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    }
+  ]
+}

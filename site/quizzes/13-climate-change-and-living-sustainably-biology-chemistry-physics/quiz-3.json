@@ -1,0 +1,171 @@
+{
+  "unitKey": "13Climate change and living sustainablyBiologyChemistryPhysics",
+  "generatedAt": "2026-08-12T05:48:42.637938+00:00",
+  "questions": [
+    {
+      "question": "What is meant by the term \"climate\" when discussing a specific location?",
+      "options": [
+        "The daily changes in wind speed and cloud cover",
+        "The average weather conditions over a long period of time",
+        "The atmospheric pressure recorded at any single moment",
+        "The immediate temperature and precipitation on a given day"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Based on scientific data, what trend is predicted for extreme weather events as the global temperature continues to rise?",
+      "options": [
+        "They will become less frequent but much longer in duration",
+        "They will happen with an increased frequency",
+        "They will cease to occur entirely in equatorial regions",
+        "They will maintain a perfectly stable, predictable cycle"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which of the following stages in the life cycle of food contributes to its total carbon footprint?",
+      "options": [
+        "Only the cooking process in domestic kitchens",
+        "Land-use change, farming, processing, transport, retail, and packaging",
+        "Only the final decomposition of leftovers in domestic compost bins",
+        "None, as carbon footprint is only associated with heavy industrial manufacturing"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "When comparing food types, what is generally true about the carbon footprints of meat products and plant-based products?",
+      "options": [
+        "They are exactly identical because all organic matter contains carbon",
+        "Meat products and plant-based products have different carbon footprints",
+        "Plant-based products always have a higher footprint because plants respire carbon dioxide",
+        "Soil quality is the only factor, making the food type itself irrelevant"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How can changing our dietary choices and reducing food waste help us eat more sustainably?",
+      "options": [
+        "By increasing the total amount of plastic packaging required",
+        "By lowering greenhouse gas emissions associated with food production",
+        "By forcing farmers to use more synthetic fertilisers to meet demand",
+        "By ensuring that food transport distances are maximised"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What do temperature data from the last century or so show about the Earth's average surface temperature?",
+      "options": [
+        "A steady and predictable decrease in temperatures worldwide",
+        "An unusual, rapid increase in the average surface temperature",
+        "Absolutely no change from the temperatures of previous millennia",
+        "Fluctuations that only occur in the southern hemisphere"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What relationship has been observed between historical temperature data and data on greenhouse gas emissions?",
+      "options": [
+        "There is a correlation showing that as greenhouse gas emissions increase, temperatures also increase",
+        "There is a negative correlation, meaning higher emissions lead to colder surface temperatures",
+        "There is no observable relationship or correlation between the two sets of data",
+        "The data show that temperature rises happen centuries before emissions begin to change"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How do thermal insulators help make a building more energy-efficient?",
+      "options": [
+        "They generate extra heat energy through chemical reactions in the walls",
+        "They reduce the energy needed to heat the building by slowing down heat loss",
+        "They convert solar radiation directly into electrical energy",
+        "They increase the rate at which warm air is ventilated out of the rooms"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How do thermostats contribute to reducing energy use in a home?",
+      "options": [
+        "They automatically turn off all electrical appliances when not in use",
+        "They control temperature automatically in different rooms to help reduce unnecessary heating",
+        "They physically block draughts from entering through windows and doors",
+        "They convert cold air into warm air without using any energy"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why do renewable energy resources not run out?",
+      "options": [
+        "Because they are replenished faster than they are used up",
+        "Because they are stored in infinite quantities deep inside the Earth's core",
+        "Because humans have banned the consumption of these resources",
+        "Because they only exist in countries near the equator where the sun is strongest"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Under what condition is a resource like wood considered renewable?",
+      "options": [
+        "It is always renewable under any circumstances because trees grow naturally",
+        "Only if it is used sustainably, ensuring new trees are grown to replace those cut down",
+        "Only if it is chemically treated to prevent decomposition",
+        "It is never renewable because once a tree is cut down, that wood cannot be reused"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why is it impossible to have a sustainable transport system that relies on petrol or diesel fuel?",
+      "options": [
+        "Because petrol and diesel engines are too quiet to be safe for pedestrians",
+        "Because petrol and diesel are fossil fuels that release greenhouse gases and cannot be replenished",
+        "Because petrol and diesel vehicles cannot travel long distances",
+        "Because these fuels are too expensive for local councils to purchase"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What is the main benefit of the natural greenhouse effect for life on Earth?",
+      "options": [
+        "It blocks all solar radiation from reaching the surface of the planet",
+        "It maintains an optimal temperature range for life to survive and thrive",
+        "It prevents the formation of storms and other extreme weather events",
+        "It keeps the atmosphere completely free of carbon dioxide and water vapour"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why do waste management sites, such as landfills and incinerators, contribute to climate change?",
+      "options": [
+        "They release large amounts of oxygen which cools the atmosphere too quickly",
+        "They are sources of greenhouse gases",
+        "They absorb solar radiation and trap it permanently in the soil",
+        "They prevent the natural cycle of rain from occurring in local areas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What is the primary long-term goal of using resources sustainably?",
+      "options": [
+        "To ensure that resources are available for future generations",
+        "To use up all available resources as quickly as possible to boost the economy",
+        "To replace all natural resources with synthetic, man-made materials",
+        "To prevent any future scientific development or industrial progress"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 31
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "unitKey": "1Human digestive systemBiology",
+  "generatedAt": "2026-08-12T05:48:51.013374+00:00",
+  "questions": [
+    {
+      "question": "What is the primary purpose of digesting carbohydrates, proteins, and fats in our food?",
+      "options": [
+        "To convert them directly into carbon dioxide inside the mouth",
+        "To break them down into smaller molecules that can be absorbed",
+        "To store them as large, unchanged molecules in the stomach lining",
+        "To allow them to pass through the digestive system without being absorbed"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How are absorbed nutrients transported to the cells where they are needed by the body?",
+      "options": [
+        "They travel through the air passages of the lungs",
+        "They are carried through the body by the blood",
+        "They move along the nervous system pathways",
+        "They are pumped directly from the kidneys"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "By what process do some nutrient molecules pass into the blood because they are small enough?",
+      "options": [
+        "Active pumping",
+        "Osmosis of proteins",
+        "Diffusion",
+        "Filtration by the liver"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following is an adaptation of the small intestine lining that increases nutrient absorption?",
+      "options": [
+        "A thick, smooth muscular layer that prevents molecules from escaping",
+        "A highly folded surface with tiny projections called villi",
+        "A highly acidic lining that quickly destroys large food particles",
+        "A completely waterproof barrier that only allows gases to pass"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which statement correctly describes the structure of a single bacterium?",
+      "options": [
+        "It is a non-living particle containing only genetic material",
+        "It is a multicellular organism with specialized tissues",
+        "It is a microorganism made of a single living cell",
+        "It is a complex animal cell without a cell membrane"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following statements is true regarding bacteria and human health?",
+      "options": [
+        "All bacteria are harmful pathogens that cause infectious diseases",
+        "Some bacteria cause diseases, but many are harmless and some are helpful",
+        "Bacteria are entirely inert and have no effect on human health",
+        "All bacteria are helpful and none can cause disease in humans"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In which part of the human body do helpful bacteria live to assist with digestion?",
+      "options": [
+        "The respiratory system",
+        "The circulatory system",
+        "The digestive system",
+        "The nervous system"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How do helpful bacteria in the human digestive system assist in digesting foods we cannot break down ourselves?",
+      "options": [
+        "They release enzymes that digest these foods",
+        "They use mechanical teeth to chew the food particles",
+        "They produce strong mineral acids that dissolve the food",
+        "They absorb the food and transport it directly to our cells"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How do helpful digestive bacteria protect the body against invading pathogens?",
+      "options": [
+        "By producing red blood cells to attack them",
+        "By competing against the pathogens",
+        "By lowering the body temperature to freeze them",
+        "By releasing antibodies into the bloodstream"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following describes mechanical digestion and where it occurs?",
+      "options": [
+        "It involves enzymes breaking chemical bonds in the small intestine",
+        "It is the transport of nutrients through blood vessels in the liver",
+        "It involves the physical breaking of food, such as chewing in the mouth",
+        "It is the chemical breakdown of starch into sugar in the stomach"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What are the three major food groups that make up the solid nutrients we eat?",
+      "options": [
+        "Vitamins, minerals, and water",
+        "Carbohydrates, proteins, and fats",
+        "Acids, alkalis, and enzymes",
+        "Fiber, glucose, and oxygen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What is the function of enzymes during the chemical digestion of food?",
+      "options": [
+        "They slow down digestion to allow better water absorption",
+        "They act as biological catalysts to speed up the chemical breakdown of food",
+        "They mechanically grind food in the stomach into a fine paste",
+        "They transport digested food molecules across the intestinal wall"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Into what smaller molecules are proteins digested by enzymes?",
+      "options": [
+        "Starch and glucose",
+        "Fatty acids and glycerol",
+        "Amino acids",
+        "Water and mineral salts"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of the following large food molecules can be tested for using chemical reagents?",
+      "options": [
+        "Carbon dioxide, oxygen, and water",
+        "Glucose, amino acids, and fatty acids",
+        "Protein, fat, and carbohydrates like starch",
+        "Saliva, bile, and gastric juices"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which small food molecules, produced from breaking down starch, can be identified with chemical reagents?",
+      "options": [
+        "Proteins",
+        "Sugars",
+        "Large fats",
+        "Insoluble minerals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A student performs a food test and notices the reagent turns blue-black. Which nutrient is present?",
+      "options": [
+        "Protein",
+        "Sugar",
+        "Starch",
+        "Fat"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is the correct order of major organs that food passes through during digestion?",
+      "options": [
+        "Mouth -> Stomach -> Small Intestine -> Large Intestine",
+        "Mouth -> Large Intestine -> Stomach -> Small Intestine",
+        "Stomach -> Mouth -> Small Intestine -> Large Intestine",
+        "Mouth -> Small Intestine -> Large Intestine -> Stomach"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How is the stomach adapted to perform its function in the digestive system?",
+      "options": [
+        "It contains villi to absorb nutrients directly into the bloodstream",
+        "It has muscular walls to churn food and produces acid and enzymes",
+        "It is a long, highly folded tube designed primarily for water absorption",
+        "It uses teeth to grind food mechanically before it is swallowed"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What happens to food material that cannot be digested by the human body?",
+      "options": [
+        "It is absorbed into the blood and exhaled from the lungs",
+        "It is converted into digestive enzymes by the pancreas",
+        "It is passed out of the body as faeces",
+        "It is permanently stored in the stomach to aid future digestion"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    }
+  ]
+}

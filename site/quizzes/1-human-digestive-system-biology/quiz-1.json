@@ -1,0 +1,171 @@
+{
+  "unitKey": "1Human digestive systemBiology",
+  "generatedAt": "2026-08-12T05:48:45.363696+00:00",
+  "questions": [
+    {
+      "question": "Why must large food molecules like carbohydrates, proteins, and fats be broken down during digestion?",
+      "options": [
+        "To allow them to be absorbed into the body",
+        "To convert them into water and carbon dioxide",
+        "To prevent them from entering the blood",
+        "To turn them into larger storage polymers"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the main role of the blood in relation to digested nutrients?",
+      "options": [
+        "To break down nutrients into simpler elements",
+        "To transport absorbed nutrients around the body to where cells need them",
+        "To filter out and excrete unused nutrients directly from the body",
+        "To produce enzymes that help digest nutrients in the bloodstream"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "By what process do some small nutrient molecules move from the digestive system into the blood?",
+      "options": [
+        "Active filtration",
+        "Osmotic suction",
+        "Diffusion",
+        "Phagocytosis"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How is the lining of the small intestine adapted to increase the amount of nutrient absorption?",
+      "options": [
+        "It is completely smooth to allow food to slide quickly",
+        "It has a very small surface area to concentrate nutrients",
+        "It is covered in microscopic folds called villi that increase the surface area",
+        "It has a thick, impermeable muscular wall that prevents leaks"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which statement best describes the nature of bacteria?",
+      "options": [
+        "All bacteria are pathogens that cause harmful diseases in humans",
+        "All bacteria are completely harmless and have no effect on other organisms",
+        "Some bacteria are pathogens that cause disease, but many are harmless or helpful",
+        "Bacteria are non-living particles that only become alive inside a host"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Where in the human body do helpful, beneficial bacteria live in large numbers to assist with digestion?",
+      "options": [
+        "Inside the acid-filled stomach",
+        "Inside the digestive system",
+        "Within the salivary glands of the mouth",
+        "In the muscular walls of the oesophagus"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How do helpful bacteria inside our digestive system assist in digesting foods that we cannot digest on our own?",
+      "options": [
+        "They physically chew the food particles into smaller pieces",
+        "They release enzymes that break down these foods",
+        "They absorb the food whole and destroy it inside their cells",
+        "They produce strong stomach acid to dissolve the food"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How do helpful bacteria in the digestive system help protect us against harmful pathogens?",
+      "options": [
+        "They produce antibodies that destroy all foreign cells",
+        "They raise the temperature of the gut to kill harmful invaders",
+        "They compete against the pathogens for resources and space",
+        "They engulf the pathogens through phagocytosis"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following correctly pairs a digestion type with its description and location?",
+      "options": [
+        "Chemical digestion uses muscular churning to grind food in the mouth",
+        "Chemical digestion involves physically breaking down food and occurs only in the oesophagus",
+        "Mechanical digestion physically breaks food into smaller pieces, such as chewing in the mouth",
+        "Mechanical digestion involves chemical enzymes and occurs only in the large intestine"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is the biological function of enzymes in the digestive system?",
+      "options": [
+        "They act as structural components of cell walls",
+        "They act as catalysts to speed up the chemical digestion of food molecules",
+        "They store energy for later use by the body's cells",
+        "They transport oxygen to the digestive organs"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What are proteins broken down into during chemical digestion?",
+      "options": [
+        "Fatty acids and glycerol",
+        "Starch and simple sugars",
+        "Amino acids",
+        "Carbon dioxide and water"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which chemical reagent is commonly used to test for the presence of the large carbohydrate starch?",
+      "options": [
+        "Biuret reagent",
+        "Iodine solution",
+        "Benedict's solution",
+        "Ethanol emulsion test"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which reagent can be used to test for smaller sugar molecules, such as glucose, produced from the breakdown of starch?",
+      "options": [
+        "Iodine solution",
+        "Biuret reagent",
+        "Benedict's solution",
+        "Acidified water"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following shows the correct order in which food moves through the major organs of the digestive system?",
+      "options": [
+        "Mouth -> Stomach -> Oesophagus -> Large intestine -> Small intestine",
+        "Mouth -> Oesophagus -> Stomach -> Small intestine -> Large intestine",
+        "Oesophagus -> Mouth -> Stomach -> Large intestine -> Small intestine",
+        "Mouth -> Stomach -> Small intestine -> Oesophagus -> Large intestine"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What happens to food material that cannot be digested by the human body?",
+      "options": [
+        "It is completely absorbed into the bloodstream to be filtered by the kidneys",
+        "It is converted into fat and stored under the skin",
+        "It is passed out of the body as faeces",
+        "It is breathed out through the lungs as carbon dioxide gas"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    }
+  ]
+}

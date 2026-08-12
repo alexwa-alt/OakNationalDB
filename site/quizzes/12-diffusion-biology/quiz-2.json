@@ -1,0 +1,204 @@
+{
+  "unitKey": "12DiffusionBiology",
+  "generatedAt": "2026-08-12T05:48:44.079097+00:00",
+  "questions": [
+    {
+      "question": "What property must a material have to allow particles of a liquid to move through it by diffusion?",
+      "options": [
+        "It must be permeable.",
+        "It must be magnetic.",
+        "It must be opaque.",
+        "It must be highly reflective."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When conducting an experiment with a jelly cube placed in a coloured liquid, what process is observed as the liquid spreads into the jelly?",
+      "options": [
+        "Evaporation",
+        "Diffusion",
+        "Filtration",
+        "Condensation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "If you increase the temperature of the liquid surrounding a jelly cube, what is the expected effect on the rate of diffusion into the cube?",
+      "options": [
+        "Diffusion will stop completely.",
+        "Diffusion will speed up.",
+        "Diffusion will slow down.",
+        "Diffusion rate will remain exactly the same."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If you compare diffusion into a small jelly cube versus a large jelly cube, which cube will have its centre reached by the diffusing liquid first?",
+      "options": [
+        "The small cube, because the distance to the centre is shorter.",
+        "The large cube, because it has a larger surface area to attract the liquid.",
+        "Both cubes at exactly the same time.",
+        "Neither cube, as liquid cannot reach the centre of a jelly cube."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Using particle theory, why does a higher temperature increase the rate of diffusion into a jelly cube?",
+      "options": [
+        "Particles have more kinetic energy and move faster.",
+        "Particles become larger and take up more space.",
+        "Particles lose all their energy and settle down.",
+        "Particles break apart into smaller atoms."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why can only some substances diffuse through a selectively-permeable membrane?",
+      "options": [
+        "Only some particles are small enough to pass through the tiny holes in the membrane.",
+        "Only magnetic particles can pass through the membrane.",
+        "Only particles with a positive electrical charge can pass.",
+        "Only liquid particles can pass, while all gas particles are blocked."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When particles diffuse through a selectively-permeable membrane, in which direction do they move?",
+      "options": [
+        "Only out of the membrane, never into it.",
+        "Only into the membrane, never out of it.",
+        "In both directions across the membrane.",
+        "They do not move through the membrane at all."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "If there is a higher concentration of a substance outside a selectively-permeable membrane than inside, what is the predicted direction of net movement of the particles?",
+      "options": [
+        "Net movement will be into the membrane.",
+        "Net movement will be out of the membrane.",
+        "There will be no movement of particles at all.",
+        "Particles will only move along the outer surface without entering."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "In an experiment using Visking tubing to represent a cell, what indicates the net movement of water into the tubing?",
+      "options": [
+        "The volume or mass of the liquid inside the tubing increases.",
+        "The Visking tubing dissolves completely.",
+        "The liquid inside the tubing changes colour to bright blue.",
+        "The tubing shrinks to half its original length."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following statements is true about the cytoplasm inside a cell?",
+      "options": [
+        "It is a continuous solid block that contains no individual particles.",
+        "It is made up of particles, just like all other substances.",
+        "It is made of empty space with no matter in it.",
+        "It is the only substance in a cell that is not made of particles."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How do necessary substances like oxygen diffuse into a cell?",
+      "options": [
+        "By passing through small holes in the cell membrane.",
+        "By melting the cell wall.",
+        "By being actively pushed by microscopic cellular pumps.",
+        "By converting into energy before entering."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why are some substances unable to diffuse into a cell through the cell membrane?",
+      "options": [
+        "Their particles are too large to pass through the holes in the membrane.",
+        "Their particles are moving too quickly.",
+        "They do not have any chemical energy.",
+        "They are completely repelled by the cell's magnetic field."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What does it mean when we say a cell membrane is 'selectively-permeable'?",
+      "options": [
+        "It allows all substances to pass through freely.",
+        "It allows only some substances to diffuse through it.",
+        "It prevents any substances from entering or leaving.",
+        "It is made entirely of water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How do particles move during the process of diffusion?",
+      "options": [
+        "In straight, organized lines without colliding.",
+        "In random directions, colliding with each other constantly.",
+        "They only move in a clockwise circular path.",
+        "They remain completely stationary."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is meant by the term 'concentration' in science?",
+      "options": [
+        "The total mass of a single particle.",
+        "The number of particles in a given volume of liquid or gas.",
+        "The speed at which particles vibrate.",
+        "The temperature of a gas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What does it mean for particles to move 'down a concentration gradient'?",
+      "options": [
+        "Moving from an area of higher concentration to an area of lower concentration.",
+        "Moving from an area of lower concentration to an area of higher concentration.",
+        "Moving upwards against gravity.",
+        "Moving only in a liquid state, never in a gas."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which of the following is the correct definition of diffusion?",
+      "options": [
+        "The active transport of particles requiring energy.",
+        "The passive movement of particles from an area of higher to lower concentration.",
+        "The chemical reaction between two different liquids.",
+        "The freezing of a liquid into a solid."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "If starch solution is inside a Visking tubing bag and iodine is outside, iodine particles diffuse in and turn the starch blue-black, but starch does not diffuse out. How is this explained?",
+      "options": [
+        "Iodine particles are small enough to pass through the membrane, but starch particles are too large.",
+        "Starch is attracted to the inside of the bag by gravity.",
+        "Iodine particles are actively pumped by the Visking tubing.",
+        "The Visking tubing has no holes at all."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    }
+  ]
+}

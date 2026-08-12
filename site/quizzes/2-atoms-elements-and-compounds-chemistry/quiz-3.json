@@ -1,0 +1,171 @@
+{
+  "unitKey": "2Atoms, elements and compoundsChemistry",
+  "generatedAt": "2026-08-12T05:48:42.810815+00:00",
+  "questions": [
+    {
+      "question": "In a chemical reaction, what name is given to the starting chemicals that react together?",
+      "options": [
+        "Catalysts",
+        "Reactants",
+        "Products",
+        "Solvents"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What are the chemicals that are newly formed as a result of a chemical reaction called?",
+      "options": [
+        "Reactants",
+        "Catalysts",
+        "Products",
+        "Elements"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "During a chemical reaction, what happens to the atoms present in the reactants?",
+      "options": [
+        "They are destroyed and replaced by new atoms",
+        "They are rearranged and bonded differently in the products",
+        "They turn into a completely different element",
+        "They remain bonded in exactly the same way"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which of the following describes Dalton's historical model of an atom?",
+      "options": [
+        "A sphere that cannot be broken up",
+        "A positive sphere with embedded negative electrons",
+        "A dense nucleus surrounded by orbiting electrons",
+        "A cloud of empty space containing moving neutrons"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following best describes an element?",
+      "options": [
+        "A substance made of two or more types of atoms chemically joined",
+        "A substance made up of only one type of atom",
+        "A mixture of different metal atoms",
+        "A compound of non-metals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "In a chemical formula, what do the small subscript numbers next to the chemical symbols represent?",
+      "options": [
+        "The number of electrons in the outer shell",
+        "The number of chemical bonds",
+        "The number of each type of atom in the compound",
+        "The temperature at which the compound forms"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "How can carbon monoxide (CO) and carbon dioxide (CO2) be different compounds if they contain the same elements?",
+      "options": [
+        "They contain the same elements but in a different ratio",
+        "One is an element and the other is a mixture",
+        "Carbon dioxide has different types of carbon atoms",
+        "Carbon monoxide is not chemically bonded"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is a metalloid element?",
+      "options": [
+        "An element that has only the properties of non-metals",
+        "An element that has some properties of metals and some of non-metals",
+        "A metal that is highly magnetic",
+        "A liquid non-metal"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How do the properties of a compound compare to the properties of the individual elements it is made from?",
+      "options": [
+        "They are always a direct average of the elements' properties",
+        "They are identical to the properties of the metal element",
+        "They may be completely different from those of the elements",
+        "They are always intermediate between a solid and a liquid"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which of the following is a non-metal element that is an excellent conductor of electricity and heat?",
+      "options": [
+        "Sulfur",
+        "Phosphorus",
+        "Graphite",
+        "Oxygen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Where are metals and non-metals positioned in the periodic table?",
+      "options": [
+        "Metals are on the right side; non-metals are on the left side",
+        "Metals are on the left and in the middle; non-metals are on the right side",
+        "Metals are in the top half; non-metals are in the bottom half",
+        "Metals are in the bottom half; non-metals are in the top half"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is meant when a non-metal gas like oxygen (O2) is described as forming a diatomic molecule?",
+      "options": [
+        "The molecule contains two different elements",
+        "The molecule contains two atoms",
+        "The molecule cannot react with other elements",
+        "The molecule is made of two compounds"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Where in the periodic table are the noble gases found, and how do they exist?",
+      "options": [
+        "In the left-hand column, as diatomic molecules",
+        "In the right-hand column, as monatomic atoms",
+        "In the middle section, as giant structures",
+        "In the bottom row, as diatomic molecules"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What does the ending '-ide' in a compound name like 'sodium chloride' indicate?",
+      "options": [
+        "The compound contains oxygen atoms",
+        "A simple metal and non-metal have chemically bonded",
+        "The substance is a liquid at room temperature",
+        "The compound contains three different elements"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "If a compound consists of metal atoms chemically bonded to an -SO4 group, what type of compound is it?",
+      "options": [
+        "A metal carbonate",
+        "A metal nitrate",
+        "A metal sulfate",
+        "A metal oxide"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    }
+  ]
+}

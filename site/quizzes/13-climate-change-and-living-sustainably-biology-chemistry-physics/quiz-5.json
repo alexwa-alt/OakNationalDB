@@ -1,0 +1,182 @@
+{
+  "unitKey": "13Climate change and living sustainablyBiologyChemistryPhysics",
+  "generatedAt": "2026-08-12T05:48:47.729264+00:00",
+  "questions": [
+    {
+      "question": "How is \"climate\" defined in environmental science?",
+      "options": [
+        "The daily atmospheric conditions like rain, wind, and temperature in a specific city.",
+        "The average weather conditions for a particular location over a long period of time.",
+        "The highest and lowest temperatures recorded in a country over a single year.",
+        "The seasonal changes in wind patterns that occur over a few weeks."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following is a direct consequence of climate change regarding weather patterns?",
+      "options": [
+        "An increase in the frequency of extreme weather events such as droughts, storms and floods.",
+        "A complete stabilization of global temperatures making seasons highly predictable.",
+        "A sudden, permanent decrease in global rainfall levels across all continents.",
+        "The complete elimination of wind storms and hurricanes in tropical regions."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why does producing food for humans and other animals contribute to climate change?",
+      "options": [
+        "It relies entirely on natural processes that absorb carbon dioxide from the air.",
+        "It uses resources and releases greenhouse gases that lead to climate change.",
+        "It always reduces the amount of water vapor present in the local atmosphere.",
+        "It cools the surrounding soil, which alters regional wind patterns."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following stages in the food supply chain adds to the carbon footprint of our food?",
+      "options": [
+        "Only the retail and packaging stages, as farming has no carbon footprint.",
+        "Only the transport stage, because vehicles use fuel.",
+        "Land-use change, farming, processing, transport, retail and packaging all add to the carbon footprint of food.",
+        "Only the initial stage of buying seeds, while farming itself is carbon-neutral."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "When comparing meat and plant-based food products, what is a key difference in their environmental impact?",
+      "options": [
+        "Plant-based products and meat products always have identical carbon footprints.",
+        "Meat products have a carbon footprint, whereas plant-based products have zero carbon footprint.",
+        "Meat and plant-based products have different carbon footprints.",
+        "Plant-based products always require more fossil fuels to transport than meat products."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What does historical temperature data reveal about the Earth's average surface temperature over the last century or so?",
+      "options": [
+        "A gradual, steady cooling trend across all continents.",
+        "An unusual, rapid increase in the Earth's average surface temperature over the last century or so.",
+        "Constant fluctuations with absolutely no net change in the average temperature.",
+        "A rapid decrease followed by a complete stabilization of global temperatures."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What term is specifically used to describe the recent increase in average surface temperature?",
+      "options": [
+        "Thermal insulation",
+        "The solar cycle",
+        "Global warming",
+        "Atmospheric convection"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is the general agreement among most scientists regarding the cause of global warming?",
+      "options": [
+        "Emissions from human activities are increasing the greenhouse effect, causing global warming.",
+        "Natural changes in the Earth's orbit are the sole reason for the rising temperatures.",
+        "Increased volcanic activity is the primary driver of the greenhouse effect.",
+        "Global warming is a temporary cycle that is not influenced by greenhouse gas emissions."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How can thermal insulators help make a building more sustainable?",
+      "options": [
+        "By generating clean, renewable electrical energy for the building.",
+        "By completely stopping air from entering or leaving the building.",
+        "Thermal insulators can reduce the energy needed to heat a building.",
+        "By converting heat energy directly into chemical energy."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What is the main function of thermostats in different rooms of a building to help the environment?",
+      "options": [
+        "They generate renewable solar energy to heat the rooms.",
+        "Thermostats can control temperature automatically in different rooms and help reduce unnecessary heating.",
+        "They increase the rate of thermal conduction through the walls.",
+        "They filter out greenhouse gases from the indoor air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How does the temperature difference between the inside and outside of a house affect how it warms up or cools down?",
+      "options": [
+        "The temperature difference has no effect on the rate of heating or cooling.",
+        "The greater the temperature difference between the inside and outside of a house, the faster it warms up or cools down.",
+        "The smaller the temperature difference between the inside and outside of a house, the faster it warms up or cools down.",
+        "A house only cools down when the temperature difference is exactly zero."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Why are some energy and material resources classified as \"renewable\"?",
+      "options": [
+        "Renewable resources do not run out because they are replenished faster than they are used up.",
+        "Because they can only be used once before they are permanently destroyed.",
+        "Because they are created by human industrial chemical reactions.",
+        "Because they release zero greenhouse gases when they are burned."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Under what condition is a resource like wood considered to be renewable?",
+      "options": [
+        "Wood is always renewable, regardless of how quickly forests are cleared.",
+        "Wood is only renewable if it is burned at very high temperatures.",
+        "Some resources, such as wood, are only renewable if they are used sustainably.",
+        "Wood is never renewable because trees take hundreds of years to grow."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Which of the following is true regarding sustainable transport and fossil fuels?",
+      "options": [
+        "Sustainable transport can easily rely on diesel fuel if the engines are efficient.",
+        "Petrol-powered vehicles are sustainable as long as they are driven slowly.",
+        "We cannot have sustainable transport that uses petrol or diesel fuel.",
+        "Only heavy transport trucks can sustainably use diesel fuel."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What is the role of the natural greenhouse effect on Earth?",
+      "options": [
+        "It causes extreme global warming that makes the planet uninhabitable.",
+        "A natural greenhouse effect maintains optimal temperature range for life on Earth.",
+        "It prevents any solar radiation from reaching the Earth's surface.",
+        "It cools the Earth's atmosphere to prevent oceans from boiling."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why do waste disposal methods like landfill sites and incinerators contribute to climate change?",
+      "options": [
+        "They use up all the oxygen in the atmosphere, preventing plant growth.",
+        "They cool the surrounding air too rapidly, causing localized storms.",
+        "Waste is often sent to incinerators or landfill sites, which are sources of greenhouse gases.",
+        "They block solar radiation from reaching the Earth's surface."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 29
+    }
+  ]
+}

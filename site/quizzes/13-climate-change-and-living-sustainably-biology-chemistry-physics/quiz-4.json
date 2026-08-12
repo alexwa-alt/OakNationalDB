@@ -1,0 +1,193 @@
+{
+  "unitKey": "13Climate change and living sustainablyBiologyChemistryPhysics",
+  "generatedAt": "2026-08-12T05:48:42.809215+00:00",
+  "questions": [
+    {
+      "question": "What is the definition of climate?",
+      "options": [
+        "The daily changes in wind speed and rainfall in a specific town",
+        "The atmospheric conditions recorded at a single moment in time",
+        "The average weather conditions for a particular location over a long period of time",
+        "The seasonal variation in temperature from one month to the next"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following is the primary cause of modern global warming and climate change?",
+      "options": [
+        "Natural changes in the Earth's orbit around the Sun",
+        "Emissions of greenhouse gases from human activities",
+        "Shifts in the magnetic field of the Earth",
+        "Heat released from deep-ocean volcanic eruptions"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How does climate change affect the occurrence of extreme weather events like droughts, storms, and floods?",
+      "options": [
+        "It causes an increase in their frequency",
+        "It leads to a complete elimination of these events",
+        "It has no measurable effect on how often they happen",
+        "It decreases their frequency while making them last longer"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is required of global communities to successfully limit climate change?",
+      "options": [
+        "Relying solely on natural ecosystems to absorb all emissions",
+        "We all need to work together to reduce greenhouse gas emissions",
+        "Moving all agricultural production indoors",
+        "Stopping all scientific research into alternative energy sources"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following stages of food production contributes to its overall carbon footprint?",
+      "options": [
+        "Only the transportation of food from farms to shops",
+        "Only the packaging used to display the food in retail stores",
+        "Land-use change, farming, processing, transport, retail, and packaging",
+        "Only the chemical processing that happens in food factories"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "When comparing meat and plant-based food products, what is a key difference regarding their environmental impact?",
+      "options": [
+        "They have identical carbon footprints regardless of how they are produced",
+        "Meat and plant-based products have different carbon footprints",
+        "Plant-based products always have a higher carbon footprint than meat",
+        "Neither meat nor plant-based products contribute to carbon emissions"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How can individuals alter their daily habits to help eat more sustainably and lower greenhouse gas emissions?",
+      "options": [
+        "By increasing food waste and eating more processed meats",
+        "By purchasing only imported foods wrapped in heavy plastic",
+        "By making changes in diet and reducing food waste",
+        "By consuming larger portions of food than necessary"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What do temperature data from the last century or so reveal about the Earth's average surface temperature?",
+      "options": [
+        "It has remained completely stable with no notable fluctuations",
+        "It shows an unusual, rapid increase",
+        "It shows a steady, gradual decline towards a new ice age",
+        "It has fluctuated wildly up and down with no overall trend"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What relationship is observed when comparing historical temperature data with data on greenhouse gas emissions?",
+      "options": [
+        "There is a correlation showing that as greenhouse gas emissions increase, temperature also increases",
+        "There is an inverse relationship where higher emissions correspond to lower temperatures",
+        "There is no correlation or patterns observable between the two datasets",
+        "The two datasets show completely opposite trends in different hemispheres"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How do thermal insulators help make buildings more energy-efficient?",
+      "options": [
+        "They generate extra heat energy when the building gets too cold",
+        "They reduce the energy needed to heat a building",
+        "They convert solar energy directly into electricity",
+        "They eliminate the need for any ventilation systems inside the house"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What is the function of thermostats in a household heating system?",
+      "options": [
+        "They increase the rate of heat loss through the windows",
+        "They generate electricity using waste heat from appliances",
+        "They can control temperature automatically in different rooms and help reduce unnecessary heating",
+        "They automatically switch the home's energy source from fossil fuels to solar power"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why do renewable resources not run out?",
+      "options": [
+        "Because they are completely synthetic and made in laboratories",
+        "Because they are replenished faster than they are used up",
+        "Because humans have an infinite supply of them stored underground",
+        "Because their physical properties prevent them from being degraded"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Under what condition is wood considered a renewable resource?",
+      "options": [
+        "Wood is always renewable, regardless of how quickly forests are cleared",
+        "Wood is only renewable if it is used sustainably",
+        "Wood is only renewable if it is imported from tropical regions",
+        "Wood is never renewable because trees take hundreds of years to grow"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why is it impossible to have a sustainable transport system that relies on petrol or diesel fuel?",
+      "options": [
+        "Petrol and diesel fuels are extremely expensive to refine",
+        "Engines using these fuels cannot travel long distances",
+        "We cannot have sustainable transport that uses petrol or diesel fuel",
+        "These fuels cause too much friction on road surfaces"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What is the primary benefit of the Earth's natural greenhouse effect?",
+      "options": [
+        "It prevents all UV radiation from reaching the surface of the planet",
+        "A natural greenhouse effect maintains optimal temperature range for life on Earth",
+        "It keeps the oceans from rising above sea level",
+        "It stops the atmosphere from escaping into outer space"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why are waste disposal methods like landfill sites and incinerators environmental concerns regarding climate change?",
+      "options": [
+        "They absorb too much solar radiation, heating up the local ground",
+        "They are sources of greenhouse gases",
+        "They prevent rainwater from returning to the natural water cycle",
+        "They destroy the ozone layer directly through mechanical friction"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What is the recommended approach to minimise waste and its impact on the environment?",
+      "options": [
+        "Burn all domestic waste in open fires",
+        "Bury all waste deep underground in sealed containers",
+        "Reuse, reduce, recycle is what we can do to minimise waste",
+        "Ship all waste to other countries for disposal"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    }
+  ]
+}
