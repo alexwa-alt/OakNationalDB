@@ -1,0 +1,226 @@
+{
+  "unitKey": "12Resistance and parallel circuitsPhysics",
+  "generatedAt": "2026-08-12T06:19:34.610295+00:00",
+  "questions": [
+    {
+      "question": "Two identical bulbs are first connected in series to a 6V battery, and then reconnected in parallel to the same 6V battery. Why do the bulbs shine brighter in the parallel configuration?",
+      "options": [
+        "Because each bulb in the parallel configuration receives the full voltage of the battery, unlike in the series configuration where they share it.",
+        "Because the parallel configuration increases the total resistance of the circuit, which forces more current through the bulbs.",
+        "Because the battery generates more voltage when it detects a parallel branch.",
+        "Because the electrons travel faster in series circuits, which reduces the time they spend inside the bulb."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A student compares two circuits powered by identical 9V batteries. Circuit A has two identical bulbs in series. Circuit B has two identical bulbs in parallel. If we measure the voltage across a single bulb in each circuit, what would we observe?",
+      "options": [
+        "The voltage across a bulb in Circuit A is 9V, while the voltage across a bulb in Circuit B is 4.5V.",
+        "The voltage across a bulb in Circuit B is 9V, while the voltage across a bulb in Circuit A is 4.5V.",
+        "The voltage across a bulb in both circuits is exactly 9V.",
+        "The voltage across a bulb in both circuits is exactly 4.5V."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Two identical toy cars are powered by identical, fully charged batteries. Car X has two headlights connected in parallel. Car Y has two identical headlights connected in series. If both cars are left switched on continuously, which car's battery will run out first and why?",
+      "options": [
+        "Car Y, because series circuits draw more current from the battery than parallel circuits.",
+        "Car Y, because its bulbs have a higher total resistance which uses up the chemical energy of the battery faster.",
+        "Car X, because the parallel circuit has a lower total resistance, causing a larger current to flow and depleting the battery faster.",
+        "Both batteries will run out at the exact same time because they are powering the same number of bulbs."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A technician wants to increase the resistance of a copper connection in a circuit without changing the type of metal or the thickness of the wire. What modification should they make?",
+      "options": [
+        "They should make the wire longer, because a longer wire increases the resistance to current flow.",
+        "They should make the wire shorter, because a shorter path forces electrons to compress, increasing resistance.",
+        "They should coil the wire tightly, because bending the wire creates physical obstacles for the electrons.",
+        "They should cool the wire down, because lower temperatures always increase resistance."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "An engineer measures the resistance of a 1.5-meter metal test wire to be 4 ohms. If they cut a piece of the exact same wire that is 3.0 meters long, what will its resistance be?",
+      "options": [
+        "2 ohms, because doubling the length halves the resistance.",
+        "4 ohms, because resistance is a property of the material and does not change with length.",
+        "8 ohms, because doubling the length of the wire doubles its resistance.",
+        "16 ohms, because resistance increases quadratically with length."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "At the microscopic level, why does doubling the length of a uniform metal wire result in doubling its electrical resistance?",
+      "options": [
+        "It doubles the speed at which free electrons travel, causing more frequent collisions.",
+        "It doubles the number of positive metal ions ('atoms') in the path of the flowing electrons, doubling the obstacles they encounter.",
+        "It halves the number of free electrons available to carry the charge through the wire.",
+        "It doubles the electrostatic pull from the positive terminal, which holds the electrons back."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following statements best describes how a parallel circuit can be conceptually analyzed by splitting it?",
+      "options": [
+        "It can be split into a number of series circuits, where each separate loop acts as an independent series circuit connected to the ends of the same battery.",
+        "It can be split into separate open circuits, where each loop depends on the current flowing through the other loops to function.",
+        "It can be split into a set of series circuits that must share the total voltage of the battery proportionally.",
+        "It can be split into two half-circuits, one containing only the positive terminals and the other containing only the negative terminals."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "An industrial heater rated at 2.5 kW is operated continuously for 4 hours. How much electrical energy does it consume during this period?",
+      "options": [
+        "0.625 kWh",
+        "1.6 kWh",
+        "10.0 kWh",
+        "10,000 kWh"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A household electricity bill shows a consumption of 150 'units' of electricity for a given month. What does this consumption represent in terms of standard energy measurements?",
+      "options": [
+        "150 kW of maximum power drawn at any single moment.",
+        "150 kWh of energy, where 1 unit is equal to 1 kilowatt-hour.",
+        "150 Joules of energy consumed over the entire month.",
+        "150 Amps of current flowing continuously through the main fuse."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A student wants to measure the current flowing specifically through branch B of a parallel circuit containing three branches (A, B, and C). Where must they connect the ammeter?",
+      "options": [
+        "Directly next to the battery before the circuit splits into branches.",
+        "Between the main junctions, so that all current from branches A and B passes through it.",
+        "Within branch B itself, between its connection points to the rest of the circuit.",
+        "In parallel with branch B, by connecting the ammeter leads to either side of the branch B component."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "In a parallel circuit with three branches connected to a battery, the current through Branch 1 is 0.5 A, through Branch 2 is 1.2 A, and through Branch 3 is 0.8 A. What is the total current passing through the battery?",
+      "options": [
+        "0.5 A, because the current is determined by the branch with the lowest flow.",
+        "1.2 A, because the total current is equal to the current in the branch with the highest flow.",
+        "2.5 A, because the current through each branch adds up to the total current through the battery.",
+        "0.8 A, because the current splits equally and averages out across the branches."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "How does changing the thickness of a wire affect its electrical resistance, assuming the material and length remain constant?",
+      "options": [
+        "A greater cross-sectional area increases resistance because there are more metal ions in the wire.",
+        "A greater cross-sectional area decreases resistance because there is more space for electrons to flow.",
+        "A smaller cross-sectional area decreases resistance because electrons can travel in a more direct line.",
+        "Changing the thickness has no effect on resistance as long as the length is kept constant."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "A manufacturer replaces a heating element wire of cross-sectional area 0.5 mm² with a new wire made of the same material and length, but with a cross-sectional area of 1.0 mm². What is the resistance of the new wire compared to the old one?",
+      "options": [
+        "It is four times larger.",
+        "It is twice as large.",
+        "It is half as large.",
+        "It is one-quarter as large."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "At the microscopic level, why does doubling the cross-sectional area of a uniform wire halve its electrical resistance?",
+      "options": [
+        "It doubles the speed of each individual electron as it passes through the wire.",
+        "It doubles the number of electrons that can flow through the wire at any one time.",
+        "It halves the total number of metal ions ('atoms') present in the entire wire.",
+        "It prevents the metal ions from vibrating, allowing electrons to pass through without colliding."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "Three different resistors are connected in parallel across a 12V car battery. If we measure the voltage across each of the three individual resistors, what will the readings show?",
+      "options": [
+        "Each resistor will have a voltage of exactly 12V across it.",
+        "The voltage will be split, with each resistor having exactly 4V across it.",
+        "The voltage across each resistor will depend on its resistance, adding up to 12V in total.",
+        "The voltage across each resistor will be 0V because the current splits between them."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 41
+    },
+    {
+      "question": "If you connect two identical bulbs to a 6V battery in series, and then connect the same two bulbs to the same battery in parallel, how does the current flowing through the battery compare between the two setups?",
+      "options": [
+        "The current through the battery is larger in the parallel setup than in the series setup.",
+        "The current through the battery is larger in the series setup than in the parallel setup.",
+        "The current through the battery is exactly the same in both setups because the battery voltage is constant.",
+        "No current flows through the battery in the parallel setup because the branches cancel each other out."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A student connects two bulbs in series to a battery, then reconnects them in parallel to the same battery. In which arrangement is energy transferred from the battery more quickly, and why?",
+      "options": [
+        "In the series arrangement, because the current has to travel a longer path through both bulbs.",
+        "In the parallel arrangement, because the overall resistance is lower, resulting in a larger current and faster energy transfer.",
+        "In the series arrangement, because the voltage is shared, causing more energy to be stored in the wires.",
+        "They transfer energy at the same rate because the battery has a fixed amount of total energy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which of the following best describes the microscopic nature of electric current in a metallic wire?",
+      "options": [
+        "It is a flow of positive metal ions moving through a sea of fixed electrons.",
+        "It is a flow of electrons moving through the spaces between the fixed metal ions ('atoms').",
+        "It is a wave of energy that passes through the metal ions without any physical particles moving.",
+        "It is the vibration of metal atoms passing energy to neighboring atoms from the negative to the positive terminal."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A physics student plots a graph of resistance (y-axis) against length (x-axis) for a uniform piece of constantan wire. What shape should the graph be, and why?",
+      "options": [
+        "A horizontal line, because resistance is independent of the length of the wire.",
+        "A curve that starts steep and flattens out, because resistance is inversely proportional to length.",
+        "A straight line passing through the origin, because the resistance of a uniform wire is directly proportional to its length.",
+        "A downward-sloping straight line, because longer wires have less resistance."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What does the voltage across a battery or cell physically represent in an electrical circuit?",
+      "options": [
+        "The total number of electrons stored inside the battery waiting to be released.",
+        "The rate at which electrons are currently flowing past a single point in the circuit.",
+        "The strength with which the battery can 'push' current around the circuit.",
+        "The physical resistance of the internal chemicals inside the battery."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 39
+    }
+  ]
+}
