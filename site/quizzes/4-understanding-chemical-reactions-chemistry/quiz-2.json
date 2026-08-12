@@ -1,0 +1,171 @@
+{
+  "unitKey": "4Understanding chemical reactionsChemistry",
+  "generatedAt": "2026-08-12T05:49:08.301952+00:00",
+  "questions": [
+    {
+      "question": "Which of the following is a common indicator that a chemical reaction has taken place?",
+      "options": [
+        "The mixture is stirred",
+        "The volume remains exactly constant",
+        "A change in colour or temperature",
+        "The state of matter stays identical"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What happens to atoms during a chemical reaction?",
+      "options": [
+        "They are destroyed and replaced by new atoms",
+        "They rearrange themselves to form new substances",
+        "They melt into a single large super-atom",
+        "They remain in the exact same bonds but change their elements"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following is generally true about chemical reactions?",
+      "options": [
+        "They can easily be reversed by freezing",
+        "They are irreversible",
+        "They always happen instantly in under a second",
+        "They only occur when metals are mixed together"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What three components are required to initiate a combustion reaction?",
+      "options": [
+        "Fuel, carbon dioxide, and water",
+        "Fuel, oxygen, and an initial heat source",
+        "Nitrogen, oxygen, and a spark",
+        "Carbon, hydrogen, and an electrical current"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What does the term 'burning' commonly describe in chemistry?",
+      "options": [
+        "The reaction of substances with oxygen, typically producing visible flames",
+        "The decomposition of a substance using strong electrical currents",
+        "The physical melting of a solid into a liquid without chemical change",
+        "The process of dissolving a metal in a highly concentrated acid"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "If a chemical reaction involves reactants containing carbon and oxygen atoms, which gas is commonly formed?",
+      "options": [
+        "Hydrogen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Sulfur dioxide"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What occurs during a decomposition reaction?",
+      "options": [
+        "Two elements combine to form a single complex compound",
+        "A single compound breaks down into two or more products",
+        "An insoluble solid forms when two clear liquids are mixed",
+        "A fuel reacts rapidly with oxygen to release heat and light"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "When a metal carbonate is heated and undergoes decomposition, what are the typical products?",
+      "options": [
+        "A metal oxide and carbon dioxide gas",
+        "Pure metal and oxygen gas",
+        "Metal hydroxide and hydrogen gas",
+        "Metal chloride and water vapour"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is the term for a chemical reaction where a substance combines with oxygen?",
+      "options": [
+        "Decomposition",
+        "Reduction",
+        "Oxidation",
+        "Precipitation"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following are both examples of oxidation reactions?",
+      "options": [
+        "Combustion and rusting",
+        "Melting and boiling",
+        "Neutralisation and filtration",
+        "Evaporation and condensation"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What type of reaction occurs when two solutions are mixed together and form an insoluble solid?",
+      "options": [
+        "Combustion reaction",
+        "Precipitation reaction",
+        "Decomposition reaction",
+        "Oxidation reaction"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why are precipitation reactions useful in water treatment facilities?",
+      "options": [
+        "They increase the temperature of the water to kill all bacteria",
+        "They remove unwanted dissolved substances by turning them into solids",
+        "They add oxygen gas to the water to make it fizzy",
+        "They dissolve large plastic objects into harmless liquids"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "In any chemical reaction, how does the total mass of the products compare to the total mass of the reactants?",
+      "options": [
+        "The mass of the products is always slightly less due to energy loss",
+        "The mass of the products is always double the mass of the reactants",
+        "The mass of the products is exactly the same as the mass of the reactants",
+        "The mass of the products is always greater because new atoms are made"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What do chemical equations represent about a reaction?",
+      "options": [
+        "How long the reaction will take to complete",
+        "The safety precautions needed during the experiment",
+        "How the atoms in the reactants rearrange to form the products",
+        "The exact cost of the chemicals used in the laboratory"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What is the meaning of the arrow symbol in a chemical equation?",
+      "options": [
+        "Equals the cost of",
+        "Changes into",
+        "Is added to",
+        "Remains identical to"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    }
+  ]
+}

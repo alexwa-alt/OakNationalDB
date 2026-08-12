@@ -1,0 +1,193 @@
+{
+  "unitKey": "7Variation (differences within species)Biology",
+  "generatedAt": "2026-08-12T05:49:08.458278+00:00",
+  "questions": [
+    {
+      "question": "What type of variation is characterized by features that fall into distinct, limited categories with no intermediates?",
+      "options": [
+        "Continuous variation",
+        "Discontinuous variation",
+        "Environmental variation",
+        "Clinal variation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which statement best describes continuous variation?",
+      "options": [
+        "Features can take any value within a range",
+        "Features are limited to distinct, non-overlapping groups",
+        "Features are only influenced by a single gene and never by environment",
+        "Features are always identical between parents and offspring"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following is an example of discontinuous variation in humans?",
+      "options": [
+        "Body mass",
+        "ABO blood group",
+        "Height",
+        "Skin color"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the most appropriate type of chart or graph to display continuous data, such as a range of plant heights?",
+      "options": [
+        "Bar chart",
+        "Pie chart",
+        "Histogram",
+        "Pictogram"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following is a key characteristic of continuous variation?",
+      "options": [
+        "It is determined by a single gene and is unaffected by the environment.",
+        "It is usually influenced by many factors, including genetics, environment, and lifestyle.",
+        "It is only caused by accidental physical injuries.",
+        "It divides a population into distinct, non-overlapping categories."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "When displaying discontinuous data, such as eye color in a classroom, which type of graph should be used?",
+      "options": [
+        "Histogram",
+        "Line graph",
+        "Bar chart",
+        "Scatter graph"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why is discontinuous variation, such as whether a person can roll their tongue, unaffected by a person's lifestyle or environment?",
+      "options": [
+        "It has only a genetic cause",
+        "It is acquired during a person's lifetime",
+        "It is controlled entirely by diet",
+        "It changes as a person gets older"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When a pair of dogs reproduces, they produce puppies rather than kittens. Which concept does this illustrate?",
+      "options": [
+        "Environmental adaptation",
+        "Discontinuous variation",
+        "Species resemblance",
+        "Acquired characteristics"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why do offspring typically show a family resemblance, looking similar to their parents and siblings?",
+      "options": [
+        "They live in the exact same location and eat the same food",
+        "They inherit features from both parents",
+        "They copy the behavior of older family members",
+        "They are clones of one of their parents"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How are inherited features passed from parents to offspring during reproduction?",
+      "options": [
+        "Through the transmission of learned behaviors",
+        "By physical contact after birth",
+        "Through DNA passed from parents to offspring",
+        "Via environmental nutrients in the womb"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following is an example of a feature changed primarily by an organism's lifestyle and environment?",
+      "options": [
+        "Naturally occurring blood type",
+        "The ability to speak a specific language fluently",
+        "Having detached earlobes",
+        "The natural color of a person's eyes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In sexual reproduction, which of the following is true about the offspring?",
+      "options": [
+        "They are always identical clones of the mother.",
+        "They are usually identical to their siblings.",
+        "There is usually variation between offspring, and they are not identical to their parents.",
+        "They always look exactly like the father."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How do differences between different species compare to differences within the same species?",
+      "options": [
+        "Differences within a species are much larger than differences between species.",
+        "Differences between species are greater than differences within species.",
+        "There are no differences between individuals of the same species.",
+        "The differences are exactly equal in all cases."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is the term used to describe the differences in features between individuals of the same species?",
+      "options": [
+        "Classification",
+        "Variation",
+        "Inheritance",
+        "Evolution"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following variations is caused solely by the environment?",
+      "options": [
+        "Having a scar from an injury",
+        "Having blue eyes",
+        "Having blood type O",
+        "Being biologically male or female"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Which variation is determined strictly by inherited genetic information in the genome?",
+      "options": [
+        "A tan from sun exposure",
+        "The ability to play the piano",
+        "A person's ABO blood type",
+        "Muscle mass built from weightlifting"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Why is human body mass considered a product of both genetic and environmental factors?",
+      "options": [
+        "It is decided purely by a single gene at birth and never changes.",
+        "It is only affected by the number of hours spent sleeping.",
+        "It is influenced by inherited genes as well as diet and exercise lifestyle.",
+        "It is an injury-based variation with no biological basis."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    }
+  ]
+}

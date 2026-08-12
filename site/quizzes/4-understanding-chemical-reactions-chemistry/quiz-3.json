@@ -1,0 +1,182 @@
+{
+  "unitKey": "4Understanding chemical reactionsChemistry",
+  "generatedAt": "2026-08-12T05:49:10.683909+00:00",
+  "questions": [
+    {
+      "question": "Which of these observations is a characteristic sign that a chemical reaction has occurred?",
+      "options": [
+        "The substance changes state from solid to liquid",
+        "There is a change in colour, bubbling, or a change of temperature",
+        "The volume of a liquid decreases due to evaporation",
+        "A solid dissolves completely in water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is happening when you see bubbles appearing during a chemical reaction?",
+      "options": [
+        "The liquid reactant is boiling",
+        "Air is being trapped from the room",
+        "A gas is being produced",
+        "The mixture is cooling down rapidly"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "During a chemical reaction, what happens to the atoms of the reactants?",
+      "options": [
+        "They are destroyed to make room for new elements",
+        "They rearrange themselves to form new substances",
+        "They remain in the exact same structure but change colour",
+        "They turn into energy and disappear"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which statement generally describes the reversibility of chemical reactions?",
+      "options": [
+        "Chemical reactions are easily reversed by physical means",
+        "Chemical reactions are irreversible",
+        "Chemical reactions can only be reversed by freezing",
+        "Chemical reactions are always reversible if you add water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What three things are required for combustion to start?",
+      "options": [
+        "Carbon dioxide, water, and heat",
+        "Fuel, oxygen, and an initial source of energy like heat",
+        "Nitrogen, fuel, and a cooling agent",
+        "Hydrogen, helium, and a spark"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "If oxygen and carbon atoms are present in the reactants, which gas is often formed during the reaction?",
+      "options": [
+        "Carbon dioxide",
+        "Hydrogen",
+        "Sulfur dioxide",
+        "Nitrogen"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What occurs during a decomposition reaction?",
+      "options": [
+        "Two different elements combine to form a single compound",
+        "A single compound breaks down into two or more products",
+        "An acid and an alkali react to form a neutral solution",
+        "A solid substance dissolves completely in a liquid solvent"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "When metal carbonates are heated and undergo decomposition, what products are typically formed?",
+      "options": [
+        "Metal oxides and carbon dioxide gas",
+        "Metal hydroxides and oxygen gas",
+        "Pure metals and hydrogen gas",
+        "Metal chlorides and water vapour"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What term is used to describe a reaction where a substance combines with oxygen?",
+      "options": [
+        "Reduction",
+        "Decomposition",
+        "Oxidation",
+        "Neutralisation"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following are both examples of oxidation reactions?",
+      "options": [
+        "Combustion and rusting",
+        "Melting and evaporating",
+        "Neutralisation and filtration",
+        "Decomposition and dissolving"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Under what conditions does a precipitation reaction occur?",
+      "options": [
+        "When a liquid boils and turns into a gas",
+        "When two solutions combine to form an insoluble solid",
+        "When a solid dissolves completely in water",
+        "When a gas condenses into a liquid"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How is the appearance of a precipitate used as evidence in chemistry?",
+      "options": [
+        "It shows that the reaction has reached boiling point",
+        "It proves that all reactants have evaporated",
+        "It is evidence that a chemical reaction has occurred",
+        "It indicates that the reaction has absorbed heat from the surroundings"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Why are precipitation reactions useful in water treatment processes?",
+      "options": [
+        "They help to dissolve large rocks in the water supply",
+        "They remove unwanted substances from water by forming insoluble solids",
+        "They add oxygen bubbles to make the water taste better",
+        "They raise the temperature of the water to kill bacteria"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "In a chemical reaction, how does the mass of the products compare to the mass of the reactants?",
+      "options": [
+        "The mass of the products is always greater than the mass of the reactants",
+        "The mass of the products is always less than the mass of the reactants",
+        "The mass of the products is the same as the mass of the reactants",
+        "The mass of the products depends on whether the reaction was fast or slow"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is represented by a chemical equation?",
+      "options": [
+        "How the atoms in the reactants rearrange to form the products",
+        "The time taken for the reactants to change state",
+        "The physical appearance and colour of the reactants",
+        "The volume of gas produced during a reaction"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What is the meaning of the arrow in a chemical equation?",
+      "options": [
+        "It indicates that the reaction is reversible",
+        "It represents the words 'changes into'",
+        "It shows that the reaction requires cooling",
+        "It represents the words 'dissolves in'"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    }
+  ]
+}

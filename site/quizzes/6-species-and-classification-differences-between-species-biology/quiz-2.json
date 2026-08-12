@@ -1,0 +1,171 @@
+{
+  "unitKey": "6Species and classification (differences between species)Biology",
+  "generatedAt": "2026-08-12T05:49:09.707186+00:00",
+  "questions": [
+    {
+      "question": "How do scientists classify living organisms into groups within larger groups?",
+      "options": [
+        "By looking at the similarities and differences in their physical and genetic features.",
+        "By sorting them solely by their geographic location and habitat.",
+        "By grouping them based only on their size and weight.",
+        "By arranging them randomly to make them easier to study."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the correct hierarchy of classification groups from the largest to the smallest?",
+      "options": [
+        "Species down to kingdom",
+        "Kingdom down to species",
+        "Genus down to kingdom",
+        "Family down to phylum"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following is true about larger classification groups, such as kingdoms, compared to smaller groups?",
+      "options": [
+        "They contain fewer organisms with many similarities in their features.",
+        "They contain more organisms with fewer similarities in their features.",
+        "They contain fewer organisms with no features in common.",
+        "They contain more organisms that are genetically identical to each other."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What defines a group of organisms as belonging to the same species?",
+      "options": [
+        "They live in the same area and eat the exact same food.",
+        "They have similar features and genes, and can reproduce to make fertile offspring.",
+        "They look identical and have exactly the same life expectancy.",
+        "They can reproduce together, even if their offspring are always infertile."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "In the binomial system of naming organisms, what two classification groups do the names represent?",
+      "options": [
+        "Kingdom and Phylum",
+        "Class and Order",
+        "Genus and Species",
+        "Family and Genus"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Besides visible external features, how else can scientists classify organisms into groups?",
+      "options": [
+        "By measuring their heart rate in different weather conditions.",
+        "By studying their characteristics at the microscopic, cellular level.",
+        "By observing their behavior only during the night.",
+        "By comparing their speed of movement over long distances."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following cellular features is found in plant, fungi, and bacterial cells, but is always absent in animal cells?",
+      "options": [
+        "A cell wall",
+        "A nucleus",
+        "Cytoplasm",
+        "A cell membrane"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "If a scientist discovers a new single-celled organism that has no nucleus, which kingdom does it most likely belong to?",
+      "options": [
+        "Animals",
+        "Plants",
+        "Fungi",
+        "Bacteria"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What is the main purpose of using a classification key in biology?",
+      "options": [
+        "To count the total number of organisms in a specific ecosystem.",
+        "To find out which groups different organisms are classified into.",
+        "To measure the rate of photosynthesis in green plants.",
+        "To predict how a species will evolve over millions of years."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What describes a classification key?",
+      "options": [
+        "A list of definitions of scientific terms in alphabetical order.",
+        "A series of questions about the features of organisms.",
+        "A set of diagrams showing the internal organs of animals.",
+        "A table showing the chemical composition of different cell walls."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why is classification an important tool for scientists studying biodiversity?",
+      "options": [
+        "It helps us organise and make sense of the vast variety of living things.",
+        "It allows us to change the DNA of organisms to make them more useful.",
+        "It guarantees that no more species will go extinct in the future.",
+        "It simplifies the process of naming new chemical elements."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "When carrying out fieldwork to study organisms, what is a key scientific process that should be performed?",
+      "options": [
+        "Relying entirely on memory to recall the organisms seen.",
+        "Making, recording, and interpreting observations of organisms.",
+        "Collecting all organisms and keeping them in a laboratory permanently.",
+        "Modifying the physical features of the organisms to see how they adapt."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How can a student identify an unknown wild plant while working in the field?",
+      "options": [
+        "By guessing its name based on its flower colour alone.",
+        "By using a classification key to identify and classify it.",
+        "By comparing its size to a standard domestic houseplant.",
+        "By waiting for it to grow fruit before making any decision."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "When studying organisms in their natural habitat, which practice represents working safely and responsibly?",
+      "options": [
+        "Removing entire plants and nests to study them back at home.",
+        "Minimising harm to living organisms and avoiding disruption to ecosystems.",
+        "Introducing new species to see how the native species react.",
+        "Clearing away all surrounding vegetation to get a better view."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A horse and a donkey can mate to produce a mule, but mules are sterile. What does this tell us about horses and donkeys?",
+      "options": [
+        "They belong to the same species because they can mate.",
+        "They belong to different species because their offspring is not fertile.",
+        "They belong to different kingdoms because they have different features.",
+        "They are the same species because they share many similar genes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    }
+  ]
+}

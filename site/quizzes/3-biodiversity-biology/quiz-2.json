@@ -1,0 +1,182 @@
+{
+  "unitKey": "3BiodiversityBiology",
+  "generatedAt": "2026-08-12T05:49:09.120598+00:00",
+  "questions": [
+    {
+      "question": "Why do animals have specific adaptations, such as webbed feet or camouflage?",
+      "options": [
+        "To make them look different from other species",
+        "To help them survive in their particular environment",
+        "To allow them to change their DNA during their lifetime",
+        "To prevent them from interacting with other species"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following is an example of a behavioural adaptation in animals?",
+      "options": [
+        "Having thick, insulating fur",
+        "Possessing sharp claws for catching prey",
+        "Being nocturnal to avoid daytime heat and predators",
+        "Having a streamlined body shape for swimming"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why is maintaining a high level of biodiversity crucial for ecosystems?",
+      "options": [
+        "It ensures that all habitats eventually become identical.",
+        "It is important for maintaining healthy and resilient habitats.",
+        "It prevents any evolutionary changes from occurring in species.",
+        "It reduces the total number of organisms that can live in an area."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is meant by the term 'gene pool' in biology?",
+      "options": [
+        "The physical location where aquatic organisms reproduce",
+        "The total number of different species in a single ecosystem",
+        "The range of DNA and genetic variation within a species",
+        "A database storing the locations of endangered animals"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of these is a method used by scientists to help maintain and protect global biodiversity?",
+      "options": [
+        "Introduction of invasive species to all habitats",
+        "Clearing natural forests for agricultural use",
+        "Using conservation, protection, and gene banks",
+        "Encouraging the overexploitation of natural resources"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why do ecologists use sampling rather than counting every individual when estimating a population size?",
+      "options": [
+        "It is impossible to count every single organism in an entire area.",
+        "Sampling is guaranteed to be 100% accurate without any estimation.",
+        "Counting individual organisms damages the habitat permanently.",
+        "Organisms cannot be identified if they are counted individually."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What are quadrats, and what are they typically used to sample?",
+      "options": [
+        "Large nets used to catch fast-flying birds and bats",
+        "Square frames used to sample plants or slow-moving animals",
+        "Traps designed to temporarily hold small nocturnal mammals",
+        "Chemical solutions used to extract organisms from soil samples"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why is it important that quadrat sampling is usually done randomly?",
+      "options": [
+        "To ensure that only the rarest species are counted",
+        "To make the fieldwork more physically challenging",
+        "To avoid bias in the results of the investigation",
+        "To guarantee that every single organism in the habitat is sampled"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the primary purpose of a classification key in ecological studies?",
+      "options": [
+        "To estimate the total biomass of a selected population",
+        "To help identify different species based on their characteristics",
+        "To measure changes in the temperature of a habitat",
+        "To map the boundaries of an endangered species' territory"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What components make up an ecosystem?",
+      "options": [
+        "Only the physical, non-living parts of a habitat",
+        "Only the animal species that live in a particular area",
+        "A community of organisms interacting with each other and their non-living surroundings",
+        "A group of identical organisms that do not interact with other species"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Why are organisms in an ecosystem described as interdependent?",
+      "options": [
+        "Because they depend upon each other for the resources they need to survive",
+        "Because they can survive completely independently of any other living thing",
+        "Because they all share the exact same genetic information",
+        "Because they only interact with non-living parts of their environment"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What vital role do decomposers play in sustaining life within an ecosystem?",
+      "options": [
+        "They are the primary producers that generate energy from sunlight.",
+        "They break down dead organisms and recycle useful substances for reuse.",
+        "They actively hunt and control the population of top predators.",
+        "They prevent any energy from escaping the food chain."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What does the term 'biodiversity' measure?",
+      "options": [
+        "The total mass of all non-living matter in an ecosystem",
+        "The average life expectancy of animals in a habitat",
+        "The range of different living organisms present",
+        "The speed at which energy flows through a food chain"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which of the following is a physical adaptation of a plant?",
+      "options": [
+        "Growing towards a source of light",
+        "Having spines to deter consumers from eating it",
+        "Opening flowers only at specific times of day",
+        "Releasing seeds only when temperature rises"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What does a pyramid of biomass represent?",
+      "options": [
+        "The total number of individual organisms at each stage of a food chain",
+        "The geographical distribution of different species in a habitat",
+        "The mass of living material in organisms at each stage of a food chain",
+        "The rate of reproduction of producers over a calendar year"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "How is a pyramid of number constructed for a food chain?",
+      "options": [
+        "By measuring the total dry mass of organisms at each level",
+        "By using the number of organisms at each trophic level",
+        "By counting only the number of different plant species present",
+        "By calculating the percentage of energy lost at each stage"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    }
+  ]
+}

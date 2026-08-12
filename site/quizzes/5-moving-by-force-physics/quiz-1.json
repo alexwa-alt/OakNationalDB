@@ -1,0 +1,193 @@
+{
+  "unitKey": "5Moving by forcePhysics",
+  "generatedAt": "2026-08-12T05:49:11.727740+00:00",
+  "questions": [
+    {
+      "question": "If two cars travel the exact same distance of 10 miles, but Car A travels at a higher speed than Car B, how does Car A's travel time compare to Car B's?",
+      "options": [
+        "Both cars take the same amount of time.",
+        "Car A takes a shorter time.",
+        "Car A takes a longer time.",
+        "Car A's time is always double Car B's time."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If two runners jog for exactly 30 minutes, but Runner X has a greater speed than Runner Y, what can be concluded about the distance they covered?",
+      "options": [
+        "Runner Y travels a greater distance in that time.",
+        "Both runners travel the exact same distance.",
+        "Runner X travels a greater distance in that time.",
+        "Speed does not affect the distance traveled in a fixed time."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following formulas is used to calculate the speed of a moving object?",
+      "options": [
+        "Speed = distance × time",
+        "Speed = time ÷ distance",
+        "Speed = distance ÷ time",
+        "Speed = force ÷ distance"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following is a correct set of units used to measure speed?",
+      "options": [
+        "m/s, km/h, miles/h",
+        "m/s², kg, Newtons",
+        "metres, kilometres, miles",
+        "seconds, hours, minutes"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "On a distance-time graph, what does a steeper line (greater gradient) represent?",
+      "options": [
+        "An object moving backwards at a constant slow pace",
+        "A faster movement",
+        "A slower movement",
+        "An object that has stopped moving"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "When an object falls through the air, it eventually reaches a constant speed called terminal velocity. Under what condition does this happen?",
+      "options": [
+        "When gravitational force becomes zero",
+        "When there is no air resistance acting on the object",
+        "When drag force is twice the gravitational force",
+        "When the drag and gravitational forces are equal"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How does increasing the surface area of a parachute affect the drag force acting on it?",
+      "options": [
+        "It decreases the drag force.",
+        "It increases the drag force.",
+        "It has no effect on the drag force.",
+        "It makes the drag force drop to zero."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A skydiver has reached their top speed (terminal velocity) while falling with an open parachute. How does the drag force compare to the force of gravity?",
+      "options": [
+        "The drag force is the same size as the force of gravity.",
+        "The drag force is much larger than the force of gravity.",
+        "The force of gravity is much larger than the drag force.",
+        "Both forces have dropped to zero."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What does a flat, level horizontal line represent on a distance-time graph?",
+      "options": [
+        "An object moving at a constant high speed",
+        "A stationary object that is not moving",
+        "An object that is accelerating rapidly",
+        "An object returning to its starting position"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "On a distance-time graph, what do upward and downward sloping lines indicate?",
+      "options": [
+        "Movement in opposite directions",
+        "Movement at the exact same constant speed",
+        "The object is speeding up in both cases",
+        "The object has stopped moving"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is the main reason for taking repeat readings during an experiment in science?",
+      "options": [
+        "To change the independent variable automatically",
+        "To guarantee that no anomalies will ever occur",
+        "To reduce the effect of random errors",
+        "To make the experiment take longer to complete"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What should you do with an anomalous reading when calculating the average of your experimental results?",
+      "options": [
+        "Exclude it and do not use it in calculations of averages.",
+        "Include it and treat it with double the weight of other values.",
+        "Add it only if it makes the average higher.",
+        "Replace all other readings with the anomalous value."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "In which direction does the force of friction always act on a moving object?",
+      "options": [
+        "In the same direction as the movement",
+        "Directly downwards towards the center of the Earth",
+        "Perpendicularly upwards from the surface",
+        "Against the direction of movement"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "According to the laws of motion, what will happen to an object moving at a steady speed in a straight line if there is no resultant force acting on it?",
+      "options": [
+        "It will continue to move at a steady speed in a straight line.",
+        "It will immediately slow down and come to a complete stop.",
+        "It will begin to accelerate rapidly.",
+        "It will veer off into a circular path."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What is the primary physical benefit of streamlining an object, such as a vehicle?",
+      "options": [
+        "It increases gravitational pull.",
+        "It reduces drag.",
+        "It increases the weight of the vehicle.",
+        "It eliminates friction entirely."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "Why does streamlining reduce the drag force on an object moving through a fluid?",
+      "options": [
+        "It increases the surface area exposed to the fluid.",
+        "It decreases the gravitational pull on the object.",
+        "It reduces how much fluid needs to be pushed out of the way.",
+        "It causes the fluid to become completely solid."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "As an object moves faster and faster through a fluid (such as water or air), what happens to the drag force acting on it?",
+      "options": [
+        "The drag force remains completely constant.",
+        "The drag force decreases with speed.",
+        "The drag force increases with speed.",
+        "The drag force drops instantly to zero."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 37
+    }
+  ]
+}

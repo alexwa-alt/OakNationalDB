@@ -1,0 +1,182 @@
+{
+  "unitKey": "6Species and classification (differences between species)Biology",
+  "generatedAt": "2026-08-12T05:49:14.721642+00:00",
+  "questions": [
+    {
+      "question": "When scientists classify organisms, how do they assign them into groups?",
+      "options": [
+        "By looking only at where they live geographically",
+        "By analyzing similarities and differences in their physical and biological features",
+        "By arranging them purely by how useful they are to humans",
+        "By grouping them only by their size and weight"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the correct order of classification groups from the largest, most inclusive group down to the most specific group?",
+      "options": [
+        "Species, Genus, Family, Order, Class, Phylum, Kingdom",
+        "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "Genus, Species, Kingdom, Phylum, Class, Order, Family",
+        "Kingdom, Class, Phylum, Genus, Family, Order, Species"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Compared to a smaller classification group like a genus, what is true about a larger group like a kingdom?",
+      "options": [
+        "It contains fewer organisms which share more similarities.",
+        "It contains more organisms which share more similarities.",
+        "It contains fewer organisms which share fewer similarities.",
+        "It contains more organisms which share fewer similarities."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the scientific definition of a species?",
+      "options": [
+        "A group of organisms that look identical but cannot reproduce.",
+        "A group of individuals with similar features and genes that can breed to produce fertile offspring.",
+        "A collection of organisms that live in the same habitat and eat the exact same food.",
+        "A set of organisms that share the same lifespan and growth rate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "In the binomial system of naming organisms, what do the two parts of the scientific name represent?",
+      "options": [
+        "The kingdom and the phylum",
+        "The family and the order",
+        "The genus and the species",
+        "The class and the family"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why do scientists sometimes examine organisms under a microscope to classify them?",
+      "options": [
+        "Because some organisms can only be classified based on features at the microscopic, cellular level.",
+        "Because larger organisms cannot be classified using external features.",
+        "Because all organisms look identical from the outside.",
+        "Because cells always change their shape depending on the habitat."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following features is correctly matched with the cell type where it is commonly found?",
+      "options": [
+        "Animal cells - contain chloroplasts",
+        "Bacteria cells - lack a membrane-bound nucleus",
+        "Plant cells - lack a cell wall",
+        "Fungi cells - contain chlorophyll for photosynthesis"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How can cell features be used to distinguish a plant from a fungus?",
+      "options": [
+        "Plant cells have a cell wall made of cellulose and contain chloroplasts, whereas fungi cells do not contain chloroplasts.",
+        "Plant cells lack a nucleus, while fungi cells have a prominent nucleus.",
+        "Fungi cells have chloroplasts for making food, while plant cells must absorb nutrients from the soil.",
+        "Plant cells are always prokaryotic, whereas fungi cells are always eukaryotic."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What is the main purpose of using a classification key in biology?",
+      "options": [
+        "To estimate the total population of an endangered species",
+        "To find out which taxonomic groups an unknown organism belongs to",
+        "To measure the rate of photosynthesis in different plants",
+        "To determine the evolutionary age of a fossil"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What does a classification key consist of to help identify organisms?",
+      "options": [
+        "A list of Latin names arranged in alphabetical order",
+        "A series of questions about the characteristics and features of the organisms",
+        "A map showing the global distribution of different species",
+        "A diagram showing the internal organs of a dissected animal"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "How does the classification system help scientists in their study of life on Earth?",
+      "options": [
+        "It allows them to predict the weather patterns of different ecosystems.",
+        "It helps organise and make sense of the vast biodiversity of living things.",
+        "It prevents species from going extinct by changing their genes.",
+        "It provides a way to grow crops without using soil or water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "When studying organisms in their natural habitat, what is a key practice for scientists?",
+      "options": [
+        "Removing all organisms from the site to study them in a laboratory",
+        "Making, recording, and interpreting detailed observations of the organisms in the field",
+        "Changing the environment to see how organisms react to stress",
+        "Replacing native species with exotic ones to compare them"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "If you are in the field and encounter an unfamiliar wildflower, what tool would be most helpful to identify and classify it?",
+      "options": [
+        "A classification key",
+        "A measuring tape",
+        "A light intensity meter",
+        "A pH indicator solution"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "When conducting fieldwork to observe living things, which safety and ethical practice is most important?",
+      "options": [
+        "Collecting as many rare plants as possible to keep as souvenirs",
+        "Clearing away large areas of vegetation to make pathways",
+        "Working in a way that minimises harm to living organisms and disruption of ecosystems",
+        "Introducing new food sources to wild animals to attract them"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why is a mule (the offspring of a male donkey and a female horse) not considered a distinct species?",
+      "options": [
+        "Because it is much larger than both of its parents.",
+        "Because it cannot reproduce to make fertile offspring.",
+        "Because it does not share any genes with its parents.",
+        "Because it has a different diet from horses and donkeys."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "As you move down the classification hierarchy from Kingdom to Species, what happens to the organisms in each group?",
+      "options": [
+        "There are fewer organisms, and they share more similarities in their features.",
+        "There are more organisms, and they share fewer similarities in their features.",
+        "The number of organisms stays the same, but they grow larger.",
+        "The organisms become completely unrelated to each other."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    }
+  ]
+}

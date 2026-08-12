@@ -1,0 +1,204 @@
+{
+  "unitKey": "3BiodiversityBiology",
+  "generatedAt": "2026-08-12T05:49:12.052295+00:00",
+  "questions": [
+    {
+      "question": "Which of the following is a behavioural adaptation that helps an animal survive in its environment?",
+      "options": [
+        "Having thick fur to trap heat",
+        "Being active only at night (nocturnal)",
+        "Having sharp claws to catch prey",
+        "Possessing large ears to lose heat"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why is maintaining a high level of biodiversity crucial for ecosystems?",
+      "options": [
+        "It ensures that only one dominant species survives.",
+        "It helps to maintain healthy, stable habitats.",
+        "It decreases the overall mass of living organisms.",
+        "It makes food chains much shorter and simpler."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is meant by the term \"gene pool\" in a species?",
+      "options": [
+        "The total number of individuals living in a specific habitat.",
+        "The range of DNA and genetic information within a species.",
+        "The physical area where a species goes to find water.",
+        "The artificial storage of seeds in a seed bank."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following is a method used to maintain and protect global biodiversity?",
+      "options": [
+        "Encouraging deforestation for new farmland.",
+        "Introducing invasive species to new habitats.",
+        "Using gene banks to store genetic material.",
+        "Increasing the usage of chemical pesticides."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why do scientists use sampling to study populations in a large area rather than counting every individual?",
+      "options": [
+        "Sampling takes more time but is always 100% accurate.",
+        "It would be practically impossible to count every single organism in an area.",
+        "Sampling guarantees that no organisms are harmed during the study.",
+        "It is only done when there are no living animals in the habitat."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which piece of equipment is a square frame used to sample plants or slow-moving animals?",
+      "options": [
+        "A pitfall trap",
+        "A quadrat",
+        "A sweep net",
+        "A pooter"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why is it important that quadrat sampling is usually done randomly?",
+      "options": [
+        "To ensure that only the rarest plants are counted.",
+        "To avoid bias in the results.",
+        "To make the physical work easier for researchers.",
+        "To guarantee that every single quadrat contains organisms."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What tool can be used by scientists and students to identify different, unfamiliar species in a habitat?",
+      "options": [
+        "A classification key",
+        "A quadrat frame",
+        "A pyramid of biomass",
+        "A gene bank database"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "An ecosystem is best described as which of the following?",
+      "options": [
+        "Only the non-living parts of an environment like rocks and water.",
+        "A community of organisms interacting with each other and their non-living surroundings.",
+        "A collection of animals of the same species living together in a zoo.",
+        "The total number of plants growing in a specific region without any animals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What ecological role do the remains of dead organisms and waste products play in a habitat?",
+      "options": [
+        "They have no purpose and must be removed to keep the habitat healthy.",
+        "They act as a direct barrier to prevent new plants from growing.",
+        "They provide a vital source of food for other organisms.",
+        "They are only used by carnivores to build shelters."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why do all living organisms depend on decomposers?",
+      "options": [
+        "Decomposers produce oxygen through photosynthesis.",
+        "Decomposers are the primary source of prey for top predators.",
+        "Decomposers break down dead material and recycle useful substances for reuse.",
+        "Decomposers prevent herbivores from eating too many producers."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What does the term \"biodiversity\" measure?",
+      "options": [
+        "The total mass of a single species in an area.",
+        "The range of different living organisms in an area.",
+        "The speed at which energy moves through a food chain.",
+        "The physical size of the largest organism in a habitat."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which of the following is a physical adaptation of a plant designed to deter consumers?",
+      "options": [
+        "Having wide, flat leaves to capture maximum sunlight.",
+        "Growing roots deep into the ground to find water.",
+        "The presence of sharp spines on the stems or leaves.",
+        "Releasing seeds that can float away in the wind."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which of these is a behavioural adaptation shown by plants?",
+      "options": [
+        "Growing towards a light source.",
+        "Having thick bark to survive cold winters.",
+        "Growing long taproots to reach deep water.",
+        "Producing poisonous chemicals in their leaves."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What is meant by the term \"biomass\"?",
+      "options": [
+        "The total number of individual organisms in a habitat.",
+        "The mass of living material in one or more organisms.",
+        "The speed at which energy is transferred between trophic levels.",
+        "The volume of water contained within a single plant cell."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "What does a pyramid of biomass represent?",
+      "options": [
+        "The number of individual organisms at each stage of a food chain.",
+        "The mass of living material at each stage of a food chain.",
+        "The height of different plants in a forest ecosystem.",
+        "The amount of non-living material in a habitat."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "In a pyramid of biomass, which organism is always represented by the bar at the very bottom?",
+      "options": [
+        "The top predator",
+        "The secondary consumer",
+        "The primary consumer",
+        "The producer"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What is represented by a pyramid of number?",
+      "options": [
+        "The estimated mass of all living things at each trophic level.",
+        "The physical size of each organism in a food chain.",
+        "The number of organisms at each trophic level in a food chain.",
+        "The number of different species in a whole country."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    }
+  ]
+}

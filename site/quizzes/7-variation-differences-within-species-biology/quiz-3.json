@@ -1,0 +1,215 @@
+{
+  "unitKey": "7Variation (differences within species)Biology",
+  "generatedAt": "2026-08-12T05:49:11.705484+00:00",
+  "questions": [
+    {
+      "question": "What type of variation is characterized by features that fall into distinct, separate categories with no intermediates?",
+      "options": [
+        "Continuous variation",
+        "Discontinuous variation",
+        "Environmental variation",
+        "Graduated variation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which statement best describes a feature that shows continuous variation?",
+      "options": [
+        "It can only be grouped into distinct, non-overlapping categories.",
+        "It can take any value within a specific range.",
+        "It is entirely unaffected by environmental factors.",
+        "It is controlled by only a single gene with two alleles."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following pairs of human features correctly lists one discontinuous feature followed by one continuous feature?",
+      "options": [
+        "Blood group and eye colour",
+        "Height and body mass",
+        "Blood group and height",
+        "Lobeless ears and ability to roll tongue"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which type of chart is most appropriate for displaying continuous data, such as the heights of 100 oak trees?",
+      "options": [
+        "Bar chart",
+        "Pie chart",
+        "Histogram",
+        "Pictogram"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When plotting a histogram to show continuous variation in human body mass, how should the data on the horizontal axis (x-axis) be structured?",
+      "options": [
+        "In discrete categories with spaces between bars",
+        "In continuous, adjacent intervals or ranges",
+        "As individual names of the participants",
+        "As percentages of the total population"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In a normal distribution histogram representing the heights of adult humans, what shape does the data typically form?",
+      "options": [
+        "A flat, horizontal straight line",
+        "A bell-shaped curve with most people near the average",
+        "An upward sloping diagonal line from left to right",
+        "Two separate, isolated peaks with nothing in the middle"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why do features like human skin colour or height show continuous variation rather than discontinuous variation?",
+      "options": [
+        "They are controlled by a single gene and unaffected by the environment.",
+        "They are influenced by multiple genes as well as environmental and lifestyle factors.",
+        "They are only affected by lifestyle choices and have no genetic basis.",
+        "They are determined solely by the climate in which a person lives."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why is a bar chart with gaps between the columns used to display data for discontinuous variation?",
+      "options": [
+        "To show that the data can take any value within a range",
+        "To represent the continuous flow of the categories",
+        "To emphasize that the categories are distinct and separate",
+        "To indicate that the values are measured on a continuous scale"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "When plotting blood groups (A, B, AB, O) on a bar chart, how should the bars be drawn?",
+      "options": [
+        "Touching each other to show a continuous range",
+        "With equal gaps between them to show distinct categories",
+        "As a single line connecting all data points",
+        "As a circular pie slice for each blood group"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "If you look at a bar chart showing the frequency of different tongue-rolling abilities in a classroom, what does each individual bar represent?",
+      "options": [
+        "A range of different tongue lengths",
+        "The percentage of students of different heights",
+        "A distinct, separate category of tongue-rolling ability",
+        "The average age of students who can roll their tongues"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which of the following is true regarding the causes of discontinuous variation in humans, such as having hitchhiker's thumb?",
+      "options": [
+        "It is heavily influenced by diet and daily exercise.",
+        "It usually has only a genetic cause and is unaffected by lifestyle.",
+        "It changes gradually throughout an individual's life due to environmental factors.",
+        "It is caused entirely by the geographic location where a person is raised."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why do human siblings often look similar to each other and to their parents, but are not identical?",
+      "options": [
+        "They inherit all their features from only one parent.",
+        "They inherit a unique mix of genetic features from both parents.",
+        "They are raised in completely different environments.",
+        "They copy each other's physical appearance as they grow up."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How are inherited features, such as natural eye colour, passed from parents to their offspring?",
+      "options": [
+        "Through the transmission of DNA during reproduction",
+        "Through learned behaviours in early childhood",
+        "Through nutrients shared in the environment",
+        "Through physical contact after birth"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following is an example of a feature in an organism that is directly changed by its lifestyle or environment?",
+      "options": [
+        "An individual's blood group",
+        "The presence of a scar from an injury",
+        "The natural colour of a person's eyes",
+        "The biological sex of a mammal"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "When comparing a group of domestic dogs and a group of domestic cats, how do the differences between these two species compare to the differences within the dog species itself?",
+      "options": [
+        "Differences within the dog species are much greater than between dogs and cats.",
+        "Differences between the species are equal to the differences within the dog species.",
+        "Differences between the species are greater than differences within the species.",
+        "There are no measurable differences between dogs and cats."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What scientific term is used to describe the differences in features between individuals of the same species?",
+      "options": [
+        "Classification",
+        "Variation",
+        "Adaptation",
+        "Inheritance"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following variations is caused solely by environmental factors and has no genetic basis?",
+      "options": [
+        "Having a tattoo on your arm",
+        "Having naturally curly hair",
+        "Having blue eyes",
+        "Having Type O blood"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Which variation in humans is determined solely by inherited genetic information and cannot be changed by lifestyle?",
+      "options": [
+        "Body mass",
+        "ABO blood group",
+        "Language spoken",
+        "Muscle strength"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Human body mass is a feature that is determined by which of the following?",
+      "options": [
+        "Only genetic information passed from parents",
+        "Only the amount of daily exercise a person gets",
+        "A combination of genetic factors and environmental/lifestyle factors",
+        "Only the altitude of the environment where a person lives"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    }
+  ]
+}
