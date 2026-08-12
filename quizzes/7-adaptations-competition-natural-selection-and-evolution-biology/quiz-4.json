@@ -1,0 +1,193 @@
+{
+  "unitKey": "7Adaptations, competition, natural selection and evolutionBiology",
+  "generatedAt": "2026-08-12T05:50:31.082341+00:00",
+  "questions": [
+    {
+      "question": "In a classroom model of natural selection, students try to pick up green and white cocktail sticks from a green lawn. What does this simple model demonstrate?",
+      "options": [
+        "How green sticks reproduce faster than white sticks.",
+        "How camouflage affects the survival rate of individuals due to predation.",
+        "How plants absorb nutrients from different types of soil.",
+        "How human activities cause the extinction of various grass species."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Using the cocktail stick model on a green lawn, if predators (students) repeatedly feed on the most visible sticks, what prediction can be made about the population over time?",
+      "options": [
+        "The proportion of green sticks in the population will decrease.",
+        "The proportion of white sticks in the population will increase.",
+        "The proportion of green sticks in the population will increase.",
+        "All sticks will eventually turn blue due to environmental pressure."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "In the cocktail stick model, how would the prediction change if the green lawn became covered in a heavy layer of white frost or snow?",
+      "options": [
+        "Green sticks would now be harder to see and more likely to survive.",
+        "White sticks would now have a survival advantage as they blend in with the snow.",
+        "Both green and white sticks would become equally easy for predators to find.",
+        "The predators would stop eating sticks altogether because of the temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following best describes why polar bears have thick fur and a layer of blubber?",
+      "options": [
+        "They are features that make them well suited to survive in their freezing environment.",
+        "They are features they chose to grow to help them swim faster in warm water.",
+        "They are features caused by a disease common in cold geographic regions.",
+        "They are features designed to help them escape from larger forest predators."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What scientific term is used to describe the biological features that make an organism well suited to survive and reproduce in its environment?",
+      "options": [
+        "Variations",
+        "Habitats",
+        "Adaptations",
+        "Classifications"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why must all living organisms obtain resources such as food, water, and shelter from their habitat?",
+      "options": [
+        "To enable them to survive and successfully reproduce.",
+        "To change the climate of their local ecosystem.",
+        "To prevent other species from ever entering their habitat.",
+        "To make sure they can undergo artificial selection."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why are individual organisms of the same or different species in constant competition with one another?",
+      "options": [
+        "Because resources in a habitat are limited.",
+        "Because organisms naturally prefer to fight than to cooperate.",
+        "Because their genes force them to destroy their environment.",
+        "Because there is an infinite supply of food and space for everyone."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What can happen to the common characteristics of a species over many generations as a result of natural selection?",
+      "options": [
+        "They will remain exactly the same forever, regardless of environmental changes.",
+        "They can change over generations, a process known as evolution.",
+        "They will instantly change within a single individual's lifetime.",
+        "They will become less suited to the environment until the species dies out."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "In science, what is a \"scientific theory\", such as the theory of evolution by natural selection?",
+      "options": [
+        "An uneducated guess that has not yet been tested by any scientists.",
+        "A general explanation, developed from evidence, that explains many different examples.",
+        "A set of rigid rules that cannot be changed even if new evidence is found.",
+        "An individual opinion held by a single scientist without any supporting data."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How do new advantageous features first appear in a population during the process of evolution?",
+      "options": [
+        "They are planned in advance by the organisms to solve a specific future problem.",
+        "They appear randomly and are then maintained over generations by natural selection.",
+        "They are actively trained and developed by parents to pass on to their offspring.",
+        "They are given to the organisms by other species in the same habitat."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "An athlete works out regularly and develops very large, strong muscles during their lifetime. Why is this change not considered evolution?",
+      "options": [
+        "Because muscles are not physical features of an organism.",
+        "Because changes in the features of an individual within its lifetime are not evolution.",
+        "Because the athlete did not train hard enough to alter their species' characteristics.",
+        "Because evolution only happens to plants and microorganisms, not humans."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which of the following is the most accurate definition of a fossil?",
+      "options": [
+        "Any ancient bone that has remained completely unchanged and organic since death.",
+        "The mineralised remains of once-living organisms or of traces left behind by them.",
+        "A drawing made by early humans on cave walls representing ancient animals.",
+        "A modern rock that has been carved by wind and rain to look like a plant leaf."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A tree loses one of its branches during a severe storm. Why will the offspring grown from its seeds not be missing this branch?",
+      "options": [
+        "Because environmental variation is not heritable and cannot be passed on.",
+        "Because the tree will repair its genetic code before producing seeds.",
+        "Because only positive changes can be passed on to offspring.",
+        "Because seeds are unaffected by any type of variation."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which of the following is an example of genetic variation that can be passed on to offspring?",
+      "options": [
+        "A scar on a dog's leg from an old injury.",
+        "The ability of a human to speak a second language.",
+        "The inherited instructions for making camouflaged skin in lizards.",
+        "The increased muscle mass a horse gains from daily training."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "In the context of natural selection, what does it mean when we say certain individuals are \"the fittest\"?",
+      "options": [
+        "They can run the fastest and jump the highest compared to all other animals.",
+        "They are the individuals that are better adapted to their environment and thus more likely to survive to reproduce.",
+        "They have spent the most time exercising and building up their physical strength.",
+        "They are the largest and most aggressive individuals in the population."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "According to scientific evidence, approximately how long ago was the Earth formed?",
+      "options": [
+        "4.5 million years ago",
+        "450 thousand years ago",
+        "4.5 billion years ago",
+        "3.8 billion years ago"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Based on scientific evidence, when did the first living organisms (microorganisms) appear on Earth?",
+      "options": [
+        "Around 4.5 billion years ago",
+        "Around 3.8 billion years ago",
+        "Around 500 million years ago",
+        "Around 200 million years ago"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    }
+  ]
+}

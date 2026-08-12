@@ -1,0 +1,193 @@
+{
+  "unitKey": "7Adaptations, competition, natural selection and evolutionBiology",
+  "generatedAt": "2026-08-12T05:50:31.074754+00:00",
+  "questions": [
+    {
+      "question": "In a classroom model of natural selection, students pick up green and white cocktail sticks from a patch of green grass. What does this simple model demonstrate?",
+      "options": [
+        "How different fertilizers affect grass growth",
+        "How camouflage affects an organism's chance of being captured",
+        "How physical exercise increases muscle mass in animals",
+        "How plants compete for sunlight in a dense forest"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If green and white cocktail sticks are used to model natural selection on a green lawn, the green ones are picked up less. How would the prediction change if the lawn became covered in white frost?",
+      "options": [
+        "Both colors would be picked up at exactly the same rate as before.",
+        "Green sticks would now be harder to see and less likely to be picked up.",
+        "White sticks would now be harder to see and less likely to be picked up.",
+        "All sticks would immediately dissolve in the frost."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the scientific term for the biological features that make an organism well suited to survive in its specific environment?",
+      "options": [
+        "Adaptations",
+        "Lifespans",
+        "Acquisitions",
+        "Variations"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why must individuals of the same or different species compete with each other in an ecosystem?",
+      "options": [
+        "Because ecosystems have unlimited space and energy",
+        "Because resources like food, water, and shelter are limited",
+        "Because predators always share their food voluntarily",
+        "Because organisms choose to compete to gain new genes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How does variation within a species affect the outcome of competition for limited resources?",
+      "options": [
+        "It ensures that all individuals survive and reproduce equally.",
+        "It means some individuals are better adapted and will compete more successfully.",
+        "It causes all individuals to suddenly change their DNA during their lifetime.",
+        "It stops competition completely by creating different niches for every single individual."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What is the definition of a scientific theory, such as the theory of evolution by natural selection?",
+      "options": [
+        "A temporary guess made by a single scientist without any data",
+        "A general explanation, developed from evidence, that explains many different examples",
+        "A set of laws that cannot be modified or updated under any circumstances",
+        "An untested idea that only applies to a single specific organism"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following statements is true regarding how new advantageous features arise in a population?",
+      "options": [
+        "They are planned in advance by organisms to prepare for future climates.",
+        "They appear randomly and are maintained over generations by natural selection.",
+        "They are actively created by an animal's desire to change its body shape.",
+        "They only appear when an organism decides to move to a new habitat."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "An individual dog exercises heavily and develops very strong muscles during its lifetime. Why is this change not considered evolution?",
+      "options": [
+        "Because evolution only occurs in plants, not in animals.",
+        "Because changes in the features of an individual within its lifetime are not evolution.",
+        "Because muscle growth is not an advantageous feature for survival.",
+        "Because the dog did not change its diet to match its new muscles."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What exactly are all fossils?",
+      "options": [
+        "Preserved tissue that has remained completely soft and unchanged",
+        "Rocks that have been carved by ancient humans to look like animals",
+        "The mineralised remains of once-living organisms or of traces left behind by organisms",
+        "Living organisms that have hibernated underground for millions of years"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "When scientists study fossils to understand the history of life, what must they keep in mind?",
+      "options": [
+        "There are limitations to the conclusions and explanations that can be made from fossil evidence.",
+        "Fossils are 100% complete and always show every soft tissue of every creature that ever lived.",
+        "Fossils can only be found in areas where active volcanoes are currently erupting.",
+        "Fossils only preserve organisms that died less than one hundred years ago."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A tree loses a branch in a severe storm, leaving a scar. Why will its offspring, grown from its seeds, not have this same scar?",
+      "options": [
+        "Because the scar is genetic variation, which is never passed on.",
+        "Because environmental variation is not heritable and cannot be passed on.",
+        "Because seeds are only produced by trees that have never been damaged.",
+        "Because scars are repaired by natural selection before the seeds can form"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which type of variation can be passed on from parents to their offspring?",
+      "options": [
+        "Variation caused by physical injuries during life",
+        "Variation caused by learning a new trick or behavior",
+        "Genetic variation, which is heritable",
+        "Environmental variation caused by sun exposure"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "In a population, what is the consequence of certain individuals being better adapted to their environment?",
+      "options": [
+        "They are more likely to migrate to another planet.",
+        "They are more likely to pass on heritable, advantageous features to their offspring.",
+        "They will stop reproducing to allow less-adapted individuals to catch up.",
+        "They lose their genetic variation and become identical to other species."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Based on scientific evidence, approximately how long ago was the Earth formed?",
+      "options": [
+        "4.5 million years ago",
+        "4.5 billion years ago",
+        "350 thousand years ago",
+        "500 million years ago"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "According to fossil evidence, what is the approximate age range of the oldest and newest fossils found?",
+      "options": [
+        "Oldest are 10 thousand years old; newest are 100 years old",
+        "Oldest are 3.5 billion years old; newest are around 10 thousand years old",
+        "Oldest are 500 million years old; newest are 200 million years old",
+        "Oldest are 4.5 billion years old; newest are 3.8 billion years old"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "Which of the following correctly matches the estimated appearance of groups of organisms according to scientific evidence?",
+      "options": [
+        "Land plants 200mya, mammals 500mya, modern humans 10 thousand years ago",
+        "Land plants 500mya, mammals 200mya, modern humans 350k years ago",
+        "Land plants 3.8 billion years ago, mammals 3.5 billion years ago, modern humans 500mya",
+        "Land plants 350k years ago, mammals 200mya, modern humans 10 thousand years ago"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "How do scientists divide the vast history of the Earth to make it easier to study and understand?",
+      "options": [
+        "Into weeks, months, and decades",
+        "Into eons, periods, and epochs",
+        "Into lightyears, parsecs, and miles",
+        "Into ancient, middle, and modern days of the week"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    }
+  ]
+}

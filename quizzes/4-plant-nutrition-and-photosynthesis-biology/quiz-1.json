@@ -1,0 +1,226 @@
+{
+  "unitKey": "4Plant nutrition and photosynthesisBiology",
+  "generatedAt": "2026-08-12T05:50:26.320440+00:00",
+  "questions": [
+    {
+      "question": "Which structures inside plant leaf cells are responsible for absorbing light and hosting the process of photosynthesis?",
+      "options": [
+        "Vacuoles",
+        "Chloroplasts",
+        "Mitochondria",
+        "Ribosomes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Inside which part of a plant cell does the process of photosynthesis take place?",
+      "options": [
+        "The cell wall",
+        "The nucleus",
+        "The cytoplasm",
+        "The chloroplasts"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What is the name of the green pigment found inside chloroplasts that absorbs light energy for photosynthesis?",
+      "options": [
+        "Chlorophyll",
+        "Carotene",
+        "Hemoglobin",
+        "Melanin"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why are plant leaves typically very thin?",
+      "options": [
+        "To help the plant float in water",
+        "To allow light to easily pass through to chloroplast-containing cells",
+        "To prevent water from evaporating too quickly",
+        "To make the leaves weigh less so branches do not break"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How does having a large surface area benefit a plant's leaves?",
+      "options": [
+        "It helps them absorb more light for photosynthesis",
+        "It prevents insects from landing on the leaf",
+        "It allows the leaf to store excess water",
+        "It makes the leaf look greener to attract pollinators"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which gas do plant leaves absorb from the surrounding air to use as a reactant in photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What gas is produced during photosynthesis and released from the leaves into the air?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Water vapor",
+        "Nitrogen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the biological term for the process of absorbing carbon dioxide and releasing oxygen through the leaves?",
+      "options": [
+        "Transpiration",
+        "Respiration",
+        "Gas exchange",
+        "Osmosis"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What are the tiny pores or holes found on the surface of leaves that facilitate gas exchange called?",
+      "options": [
+        "Pores",
+        "Stomata",
+        "Tracheids",
+        "Vessels"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "By which physical process do gas molecules move through open stomata into and out of the leaf?",
+      "options": [
+        "Active transport",
+        "Osmosis",
+        "Capillary action",
+        "Diffusion"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Organisms that make their own food using a process like photosynthesis are known as what?",
+      "options": [
+        "Decomposers",
+        "Consumers",
+        "Producers",
+        "Predators"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Under what condition can the chemical process of photosynthesis take place?",
+      "options": [
+        "Only when there is light",
+        "Only during the night",
+        "Only when the temperature is below freezing",
+        "Only in the absence of oxygen"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Photosynthesis is best described as which of the following?",
+      "options": [
+        "A physical change that occurs on the leaf surface",
+        "A single, simple physical process",
+        "A series of chemical reactions taking place inside cells",
+        "A mechanical process driven by wind"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What are the reactants and products of photosynthesis?",
+      "options": [
+        "Reactants: oxygen and glucose; Products: water and carbon dioxide",
+        "Reactants: water and carbon dioxide; Products: oxygen and glucose",
+        "Reactants: oxygen and water; Products: carbon dioxide and glucose",
+        "Reactants: glucose and carbon dioxide; Products: oxygen and water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why is a word equation showing the reactants and products of photosynthesis useful?",
+      "options": [
+        "It serves as a model of the chemical reactions involved in the process",
+        "It lists all the minerals the plant absorbs from the soil",
+        "It describes the physical structure of the chloroplast",
+        "It explains how water climbs up the stem of the plant"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What do plants, as living organisms, need to stay alive and grow?",
+      "options": [
+        "Only water and soil",
+        "Light, air, water and minerals",
+        "Oxygen, glucose and warmth only",
+        "Insects, soil and carbon dioxide"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How do plants take in different essential substances from their environment?",
+      "options": [
+        "They take in light, gases, water, and minerals all through their roots",
+        "They take in light, gases, water, and minerals all through their leaves",
+        "They take in light and gases through their leaves, and water and minerals through their roots",
+        "They take in water and gases through their leaves, and light and minerals through their roots"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which of the following statements is true regarding a plant's nutrition?",
+      "options": [
+        "Water and minerals are food, so plants do not need to make anything else",
+        "Water and minerals are not food, but plants still need food to stay alive and grow",
+        "Plants do not need food at all, they only require water and minerals",
+        "Plants absorb ready-made food from the soil along with water and minerals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How do plants obtain the food they need to survive and grow?",
+      "options": [
+        "They absorb digested food from the soil around their roots",
+        "They capture small insects and digest them",
+        "They take in food from their surroundings through their leaves",
+        "They do not take in food from their surroundings; they make their own food"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What type of food do plants make during photosynthesis, and what is it used for?",
+      "options": [
+        "Carbohydrate, which they use for growth and as an energy source",
+        "Proteins, which they use to build cell walls",
+        "Fats, which they store in their roots to keep warm",
+        "Vitamins, which they release into the air to help other plants"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    }
+  ]
+}

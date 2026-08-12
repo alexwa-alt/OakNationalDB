@@ -1,0 +1,171 @@
+{
+  "unitKey": "8Carbon cycle and climate changeChemistry",
+  "generatedAt": "2026-08-12T05:50:28.096870+00:00",
+  "questions": [
+    {
+      "question": "What gas is commonly produced when fuels containing carbon are burned?",
+      "options": [
+        "Nitrogen",
+        "Carbon dioxide",
+        "Carbon monoxide only",
+        "Hydrogen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which statement correctly describes the chemical composition of a carbon dioxide molecule?",
+      "options": [
+        "Two carbon atoms and one oxygen atom",
+        "One carbon atom and one oxygen atom",
+        "One carbon atom and two oxygen atoms",
+        "Two carbon atoms and two oxygen atoms"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Approximately what percentage of Earth's atmosphere is made up of carbon dioxide?",
+      "options": [
+        "0.04 %",
+        "0.40 %",
+        "4.00 %",
+        "21.0 %"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following is classified as a greenhouse gas?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Helium"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the primary consequence of having too many greenhouse gases in the Earth's atmosphere?",
+      "options": [
+        "An increase in average global temperature, known as global warming",
+        "A decrease in average global temperature, leading to a new ice age",
+        "A sudden increase in atmospheric oxygen levels",
+        "The complete destruction of the ozone layer within a year"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why does coal burn so easily?",
+      "options": [
+        "It is a sedimentary rock made mostly of carbon, with some impurities",
+        "It is a metamorphic rock composed entirely of pure sulfur",
+        "It is an igneous rock formed directly from volcanic lava",
+        "It is a liquid hydrocarbon that ignites at very low temperatures"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What organic matter is coal originally formed from?",
+      "options": [
+        "Prehistoric marine plankton",
+        "Deep sediments of organic matter made of prehistoric plants",
+        "Ancient animal bones buried in desert sand dunes",
+        "Molten magma that cooled down slowly underground"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "From what material did oil and natural gas form millions of years ago?",
+      "options": [
+        "Prehistoric trees and land plants",
+        "Volcanic ash mixed with mineral salts",
+        "Dead plankton mixed in with sediments",
+        "Bones of large dinosaurs buried in mud"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How is sedimentary rock formed over geological time?",
+      "options": [
+        "When molten rock cools down and solidifies on the surface",
+        "When sediment is buried and compressed, and salts from fluids cement the grains together",
+        "When existing rock is changed by intense heat and pressure without melting",
+        "When minerals crystallize directly from boiling water in geysers"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In which type of rock are fossils exclusively found?",
+      "options": [
+        "Igneous rock only",
+        "Metamorphic rock only",
+        "Sedimentary rock, but not in other types of rock",
+        "Any type of rock, including igneous and metamorphic"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What are the two main gases that make up the vast majority of Earth's atmosphere?",
+      "options": [
+        "78% carbon dioxide and 21% oxygen",
+        "78% nitrogen and 21% carbon dioxide",
+        "78% nitrogen and 21% oxygen",
+        "78% oxygen and 21% hydrogen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is the chemical test used to identify carbon dioxide gas?",
+      "options": [
+        "It relights a glowing splint.",
+        "It turns damp red litmus paper blue.",
+        "It burns with a squeaky pop sound.",
+        "It forms a white precipitate that turns limewater milky."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "How does the process of combustion affect the atmosphere?",
+      "options": [
+        "It decreases the amount of nitrogen.",
+        "It increases the amount of carbon dioxide.",
+        "It increases the amount of oxygen.",
+        "It decreases the amount of water vapor."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Which of the following processes reduces the amount of carbon dioxide in the atmosphere?",
+      "options": [
+        "Respiration by animals",
+        "Combustion of fossil fuels",
+        "Photosynthesis by plants, phytoplankton and some bacteria",
+        "Decomposition of dead organic matter"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "What happens to carbon dioxide when it interacts with the oceans?",
+      "options": [
+        "It can dissolve in the oceans.",
+        "It immediately evaporates into space.",
+        "It reacts with water to form solid coal.",
+        "It is converted entirely into pure nitrogen gas."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    }
+  ]
+}

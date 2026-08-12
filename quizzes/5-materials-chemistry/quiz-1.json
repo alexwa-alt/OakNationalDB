@@ -1,0 +1,204 @@
+{
+  "unitKey": "5MaterialsChemistry",
+  "generatedAt": "2026-08-12T05:50:27.016042+00:00",
+  "questions": [
+    {
+      "question": "What is the main characteristic of a catalyst in a chemical reaction?",
+      "options": [
+        "It slows down the reaction and is chemically altered.",
+        "It speeds up the reaction and is completely used up.",
+        "It speeds up the reaction without being used up or chemically changed.",
+        "It initiates a reaction but changes into a different substance."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following statements about catalysts is true?",
+      "options": [
+        "A single catalyst can speed up any chemical reaction.",
+        "Different reactions require different, specific catalysts.",
+        "Catalysts only work for reactions involving gases.",
+        "Catalysts must be liquids to function properly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What are enzymes?",
+      "options": [
+        "Biological catalysts that speed up reactions in living cells.",
+        "Synthetic chemicals used to harden plastics.",
+        "Non-reactive proteins that slow down digestion.",
+        "Minerals found in metal ores."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "In a displacement reaction in solution, what occurs when a more reactive metal is added?",
+      "options": [
+        "It displaces a less reactive metal from its salt.",
+        "It combines with a less reactive metal to form an alloy.",
+        "It dissolves without any chemical change.",
+        "It prevents any other chemical reactions from happening."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What are the products when magnesium is added to copper sulfate solution?",
+      "options": [
+        "Magnesium oxide and copper sulfate",
+        "Magnesium sulfate and copper",
+        "Copper magnesium and sulfur",
+        "Magnesium hydroxide and copper oxide"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "How can displacement reactions be useful in studying metals?",
+      "options": [
+        "They are used to determine the melting point of metals.",
+        "They can confirm the position of a metal in the reactivity series.",
+        "They are the only way to turn non-metals into metals.",
+        "They allow metals to be stretched into thin wires."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When can carbon be used to extract a metal from its ore?",
+      "options": [
+        "Only when carbon is more reactive than the metal.",
+        "Only when the metal is extremely unreactive like gold.",
+        "Only when carbon is less reactive than the metal.",
+        "When the metal ore is a liquid at room temperature."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following describes the typical properties of metals?",
+      "options": [
+        "Poor conductors of heat, brittle, and dull.",
+        "High density, gaseous at room temperature, and highly acidic.",
+        "Good thermal and electrical conductors, strong, shiny, and malleable.",
+        "Soft substances that become brittle only when heated."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How are ceramics made, and how do their properties change?",
+      "options": [
+        "They are made from liquid polymers that become flexible when cooled.",
+        "They are made from soft substances that become hard and brittle when heated.",
+        "They are made by mixing metals to form a flexible alloy.",
+        "They are made from gases that solidify into highly conductive sheets."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is an alloy?",
+      "options": [
+        "Pure metal elements with no impurities.",
+        "A mixture of elements including at least one metal.",
+        "A composite material made entirely of plastics.",
+        "A compound formed when a metal reacts with oxygen."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is the primary purpose of creating a composite material?",
+      "options": [
+        "To combine materials to create a new material with improved properties.",
+        "To break down polymers into their original monomers.",
+        "To make a material more reactive with acids.",
+        "To turn a metal into a highly brittle ceramic."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What are polymers made of?",
+      "options": [
+        "Small molecules called monomers that join together to form very long chains of atoms.",
+        "Large metallic crystals held together by ionic bonds.",
+        "Mixtures of different metals melted together.",
+        "Soft clay particles heated to high temperatures."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What effect does a plasticiser have when added to a polymer?",
+      "options": [
+        "It creates strong cross-links, making the polymer extremely rigid.",
+        "It gets between polymer molecules and allows them to move over each other more easily.",
+        "It causes the polymer to break down rapidly into individual monomers.",
+        "It increases the melting point by making molecules harder to separate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How do cross-links between polymer molecules affect a polymer's properties?",
+      "options": [
+        "They make the polymer much softer and easier to melt.",
+        "They make the polymer harder and less flexible.",
+        "They turn the polymer into an electrical conductor.",
+        "They allow the molecules to slide past each other very easily."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is produced when certain metals react with an acid?",
+      "options": [
+        "A metal hydroxide and oxygen gas.",
+        "A metal oxide and water.",
+        "A metal salt and hydrogen gas.",
+        "A carbonate and nitrogen gas."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What products are formed when some metals react with water?",
+      "options": [
+        "A metal hydroxide and hydrogen gas.",
+        "A metal oxide and carbon dioxide.",
+        "A metal salt and oxygen gas.",
+        "A pure non-metal and steam."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What does the reactivity series for metals show?",
+      "options": [
+        "How much heat a metal can conduct compared to others.",
+        "How vigorously metals react, compared to each other.",
+        "The order of metals by their density.",
+        "The year in which each metal was discovered."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "How does a metal's position in the reactivity series relate to its reactions?",
+      "options": [
+        "The higher the position of a metal, the more vigorously it is likely to react.",
+        "The higher the position of a metal, the less likely it is to react.",
+        "The lower the position of a metal, the faster it reacts with cold water.",
+        "The position of a metal has no relationship to how it reacts."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    }
+  ]
+}

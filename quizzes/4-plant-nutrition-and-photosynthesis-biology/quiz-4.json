@@ -1,0 +1,171 @@
+{
+  "unitKey": "4Plant nutrition and photosynthesisBiology",
+  "generatedAt": "2026-08-12T05:50:24.554881+00:00",
+  "questions": [
+    {
+      "question": "Which structures within plant leaf cells are responsible for carrying out photosynthesis?",
+      "options": [
+        "Mitochondria",
+        "Chloroplasts",
+        "Vacuoles",
+        "Ribosomes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Where precisely does the process of photosynthesis take place inside a plant cell?",
+      "options": [
+        "In the cytoplasm",
+        "In the nucleus",
+        "In the chloroplasts",
+        "In the cell wall"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What is the function of chlorophyll found inside chloroplasts?",
+      "options": [
+        "To absorb light energy for photosynthesis",
+        "To absorb water from the soil",
+        "To release carbon dioxide into the air",
+        "To store glucose molecules"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How does the thinness of a plant leaf help it perform photosynthesis efficiently?",
+      "options": [
+        "It prevents water from evaporating too quickly",
+        "It allows light to easily pass through to the chloroplast-containing cells",
+        "It makes the leaf lighter so it can float on water",
+        "It stops insects from eating the plant cells"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the main advantage of plant leaves having a large surface area?",
+      "options": [
+        "To maximize the absorption of light for photosynthesis",
+        "To store extra water during dry periods",
+        "To protect the plant from strong winds",
+        "To increase the rate of mineral absorption from soil"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which gas do plant leaves take in from the surrounding air to use in photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What gas is produced during photosynthesis and released from the leaves into the air?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Water vapour",
+        "Nitrogen"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What are the small holes on the surface of leaves that allow gas exchange to happen?",
+      "options": [
+        "Pores",
+        "Stomata",
+        "Chloroplasts",
+        "Veins"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "By which process do gas molecules move into and out of the leaf through open stomata?",
+      "options": [
+        "Osmosis",
+        "Active transport",
+        "Diffusion",
+        "Transpiration"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Under which condition can the process of photosynthesis take place?",
+      "options": [
+        "Only in complete darkness",
+        "Only when there is light",
+        "Only when the plant is submerged in water",
+        "At any time, regardless of light levels"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What are the chemical reactants required for photosynthesis, and what are its products?",
+      "options": [
+        "Reactants: oxygen and glucose; Products: water and carbon dioxide",
+        "Reactants: water and carbon dioxide; Products: oxygen and glucose",
+        "Reactants: oxygen and water; Products: carbon dioxide and glucose",
+        "Reactants: carbon dioxide and glucose; Products: oxygen and water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How do plants obtain the water and minerals they need to stay alive?",
+      "options": [
+        "They absorb them from the air through their leaves",
+        "They absorb them from the soil through their roots",
+        "They produce them inside their chloroplasts",
+        "They take them in from sunlight"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which of the following statements is true regarding water, minerals, and plant nutrition?",
+      "options": [
+        "Water and minerals are the food that plants eat",
+        "Plants do not need water or minerals to survive",
+        "Water and minerals are not food, but plants still need them to stay alive and grow",
+        "Water and minerals are converted directly into light energy"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Why are plants classified as producers?",
+      "options": [
+        "Because they take in food from their surroundings",
+        "Because they make their own food instead of taking it in from their surroundings",
+        "Because they produce carbon dioxide for other animals to breathe",
+        "Because they decay and produce soil minerals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What type of food do plants produce during photosynthesis, and what do they use it for?",
+      "options": [
+        "Proteins, used to build cell walls",
+        "Fats, used for long-term water storage",
+        "Carbohydrate, used for growth and as a source of energy",
+        "Minerals, used to strengthen the stem"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    }
+  ]
+}

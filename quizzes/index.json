@@ -89,6 +89,21 @@
     },
     "3Magnets and electromagnetsPhysics": {
       "path": "3-magnets-and-electromagnets-physics"
+    },
+    "4Plant nutrition and photosynthesisBiology": {
+      "path": "4-plant-nutrition-and-photosynthesis-biology"
+    },
+    "5MaterialsChemistry": {
+      "path": "5-materials-chemistry"
+    },
+    "6Hidden forcesPhysics": {
+      "path": "6-hidden-forces-physics"
+    },
+    "7Adaptations, competition, natural selection and evolutionBiology": {
+      "path": "7-adaptations-competition-natural-selection-and-evolution-biology"
+    },
+    "8Carbon cycle and climate changeChemistry": {
+      "path": "8-carbon-cycle-and-climate-change-chemistry"
     }
   }
 }

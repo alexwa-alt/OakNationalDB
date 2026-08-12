@@ -1,0 +1,193 @@
+{
+  "unitKey": "5MaterialsChemistry",
+  "generatedAt": "2026-08-12T05:50:26.874340+00:00",
+  "questions": [
+    {
+      "question": "What is the function of a catalyst in a chemical reaction?",
+      "options": [
+        "It slows down the reaction and is chemically changed at the end.",
+        "It speeds up the reaction and is completely used up.",
+        "It speeds up the reaction without being used up or chemically changed.",
+        "It has no effect on the speed of the reaction but changes the products."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following is true about catalysts?",
+      "options": [
+        "Any catalyst can be used to speed up any chemical reaction.",
+        "Catalysts are specific to particular reactions.",
+        "Catalysts can only be used in reactions involving gases.",
+        "A single catalyst works for all oxidation and reduction reactions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What do we call biological catalysts that speed up chemical reactions inside living cells?",
+      "options": [
+        "Polymers",
+        "Monomers",
+        "Hormones",
+        "Enzymes"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What occurs during a displacement reaction in an aqueous solution?",
+      "options": [
+        "A more reactive metal displaces a less reactive metal from its salt.",
+        "A less reactive metal displaces a more reactive metal from its salt.",
+        "Two metals of equal reactivity swap places in their salt solutions.",
+        "A metal reacts with water to form a metal oxide and hydrogen gas."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When magnesium is added to copper sulfate solution, magnesium sulfate and copper are formed. What type of reaction is this?",
+      "options": [
+        "Neutralisation",
+        "Thermal decomposition",
+        "Displacement",
+        "Combustion"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which statement best describes a metal ore?",
+      "options": [
+        "A pure block of metal found deep underground.",
+        "A rock that contains a metal in a form that can be extracted.",
+        "A mixture of two or more metals melted together.",
+        "A synthetic material designed to mimic the properties of metals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Under what condition can carbon be used to extract a metal from its ore?",
+      "options": [
+        "When the metal is more reactive than carbon.",
+        "When carbon is more reactive than the metal.",
+        "Only if the metal ore is a liquid at room temperature.",
+        "Only when the metal is extremely unreactive, like gold."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following is a typical physical property of metals?",
+      "options": [
+        "They are poor thermal conductors and very brittle.",
+        "They are soft substances that harden only when heated.",
+        "They are good electrical conductors, shiny, and malleable.",
+        "They have low melting points and easily dissolve in water."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What happens to the soft substances used to make ceramics when they are heated?",
+      "options": [
+        "They melt into a flexible, stretchy liquid.",
+        "They become hard and brittle.",
+        "They dissolve and release hydrogen gas.",
+        "They turn into polymers with low melting points."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is an alloy?",
+      "options": [
+        "A pure metal element that has been highly polished.",
+        "A mixture of elements that includes at least one metal.",
+        "A chemical compound made of non-metals only.",
+        "A long chain of small molecules joined together."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why are materials combined to create a composite material?",
+      "options": [
+        "To ensure the material can be easily dissolved in acid.",
+        "To produce a material that has a single, unchanged property.",
+        "To create a new material with improved properties.",
+        "To make the material react more vigorously with oxygen."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which statement correctly describes how polymers are formed?",
+      "options": [
+        "Large metal atoms are split into smaller fragments called monomers.",
+        "Small molecules called monomers join together to form very long chains.",
+        "Ceramics are heated until they form flexible crystalline structures.",
+        "Carbon reacts with metal ores to form long molecular sheets."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is the effect of adding a plasticiser to a polymer?",
+      "options": [
+        "It creates strong cross-links that make the polymer completely rigid.",
+        "It causes the polymer to undergo a displacement reaction.",
+        "It gets between polymer molecules, allowing them to move over each other more easily.",
+        "It turns the synthetic polymer into a natural ceramic."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How do cross-links between polymer molecules affect the properties of a polymer?",
+      "options": [
+        "They make the polymer harder and less flexible.",
+        "They make the polymer much softer and highly soluble in water.",
+        "They lower the melting point so it melts at room temperature.",
+        "They allow the polymer molecules to slide past each other much more easily."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "When a reactive metal reacts with an acid, what are the products?",
+      "options": [
+        "A metal oxide and water",
+        "A metal hydroxide and hydrogen gas",
+        "A metal salt and hydrogen gas.",
+        "A metal carbonate and oxygen gas"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What are the products when a reactive metal reacts with water?",
+      "options": [
+        "A metal hydroxide and hydrogen gas.",
+        "A metal salt and carbon dioxide",
+        "A metal oxide and nitrogen gas",
+        "A metal sulfate and oxygen gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What does the reactivity series for metals show?",
+      "options": [
+        "The different temperatures at which metals turn into ceramics.",
+        "How vigorously metals react compared to each other.",
+        "The exact number of monomers in a metal polymer.",
+        "How easily metals can be dissolved to make plasticisers."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    }
+  ]
+}

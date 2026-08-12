@@ -1,0 +1,204 @@
+{
+  "unitKey": "6Hidden forcesPhysics",
+  "generatedAt": "2026-08-12T05:50:37.160260+00:00",
+  "questions": [
+    {
+      "question": "How can you tell if the whole of an object is floating on water?",
+      "options": [
+        "If some of its volume is visible above the surface of the water.",
+        "If the entire object is completely submerged.",
+        "If it sinks all the way to the bottom.",
+        "If it dissolves completely in the water."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A wooden block floats in a shallow tray of water. If we move it to a very deep swimming pool filled with the same water, how does its ability to float change?",
+      "options": [
+        "It floats better because there is more space.",
+        "It does not float as well because the depth has increased.",
+        "It floats exactly the same because floating does not depend on the depth of the liquid.",
+        "It sinks because deeper water exerts less upward force."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Under what condition will an object float in water?",
+      "options": [
+        "If its shape can push its own mass of water out of the way without going under.",
+        "Only if its mass is greater than 100 kilograms.",
+        "If its shape allows it to absorb all the water around it.",
+        "Only if it is completely flat and has no volume."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Approximately how much upward force is required to lift a 1 kg object on Earth?",
+      "options": [
+        "1 N",
+        "10 N",
+        "100 N",
+        "0.1 N"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What force does a 1 kg mass exert downwards when resting on a table on Earth?",
+      "options": [
+        "About 1 N",
+        "About 5 N",
+        "About 10 N",
+        "About 100 N"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which equation is used to calculate gravitational force (weight, W) using mass (m) and gravitational field strength (g)?",
+      "options": [
+        "W = m x g",
+        "W = m / g",
+        "W = g / m",
+        "W = m + g"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "If a spring has a regular elastic behavior, what happens to its extension for each equal-sized increase in force applied?",
+      "options": [
+        "The extension increases by a larger amount each time.",
+        "The extension increases by a smaller amount each time.",
+        "The extension increases by the same amount each time.",
+        "The extension remains completely zero."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why is a spring described as being elastic?",
+      "options": [
+        "It permanently changes its shape after a small pull.",
+        "It returns to its original length when a force is removed.",
+        "It can only be stretched once before snapping.",
+        "It becomes warmer when a force is applied to it."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is a useful function of a lever regarding force?",
+      "options": [
+        "Levers can multiply a small force into a larger force.",
+        "Levers always reduce the force to zero.",
+        "Levers can destroy force completely.",
+        "Levers can only work without any force."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following best defines pressure?",
+      "options": [
+        "It is a measure of the total weight of an object.",
+        "It is a measure of how concentrated a force is.",
+        "It is the speed at which an object is pushed.",
+        "It is the energy stored inside a stretched material."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How is pressure calculated?",
+      "options": [
+        "Pressure = force x area",
+        "Pressure = force / area",
+        "Pressure = area / force",
+        "Pressure = force + area"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is another name for the unit of pressure 'newtons per square metre' (N/m2)?",
+      "options": [
+        "The joule (J)",
+        "The watt (W)",
+        "The pascal (Pa)",
+        "The newton (N)"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why does pressure in a liquid increase as you go deeper?",
+      "options": [
+        "Because the liquid gets warmer at the bottom.",
+        "Because there is more liquid pushing down from above.",
+        "Because the density of the liquid decreases.",
+        "Because the liquid particles stop moving."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why does atmospheric pressure decrease as you climb a high mountain?",
+      "options": [
+        "Because there is less air pushing down from above.",
+        "Because the gravity of the Earth increases with height.",
+        "Because the air temperature is always constant.",
+        "Because the speed of wind decreases."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What happens to a horizontal support beam as you place a bigger mass on it?",
+      "options": [
+        "The beam bends more.",
+        "The beam completely straightens out.",
+        "The beam's mass decreases.",
+        "The beam does not change its shape at all."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "How does the force a beam pushes back with change as it bends more?",
+      "options": [
+        "The force it pushes back with decreases.",
+        "The force it pushes back with increases.",
+        "The force it pushes back with becomes zero.",
+        "The force it pushes back with remains constant."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "When an object squashes the particles in a floor closer together, what is the effect on the force they push back with?",
+      "options": [
+        "They push back with a greater force.",
+        "They stop pushing back entirely.",
+        "They push back with a smaller force.",
+        "The upward force remains completely unchanged."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "How is the moment of a force calculated?",
+      "options": [
+        "Moment = force / perpendicular distance from the pivot",
+        "Moment = force x perpendicular distance from the pivot",
+        "Moment = perpendicular distance / force",
+        "Moment = force + perpendicular distance from the pivot"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    }
+  ]
+}

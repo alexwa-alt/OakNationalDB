@@ -1,0 +1,171 @@
+{
+  "unitKey": "6Hidden forcesPhysics",
+  "generatedAt": "2026-08-12T05:50:26.638630+00:00",
+  "questions": [
+    {
+      "question": "A student tests how a wooden block floats in a shallow tray of water and then in a deep swimming pool. What will they observe about how well it floats?",
+      "options": [
+        "It floats much better in the deep pool than in the shallow tray.",
+        "It floats better in the shallow tray due to less water pressure.",
+        "How well it floats is exactly the same because it does not depend on the depth of the liquid.",
+        "It will sink in the deep swimming pool but float in the tray."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "On Earth, approximately how much force is required to lift a mass of 1 kg?",
+      "options": [
+        "1 N",
+        "10 N",
+        "100 N",
+        "0.1 N"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following formulas correctly represents how to calculate gravitational force (W)?",
+      "options": [
+        "W = m × g",
+        "W = m ÷ g",
+        "W = m + g",
+        "W = g ÷ m"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "If a spring's extension increases by 2 cm when a 1 N force is added, how much will its extension increase when another equal 1 N force is added?",
+      "options": [
+        "1 cm",
+        "2 cm",
+        "4 cm",
+        "0.5 cm"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is the relationship between the extension of a spring and the force applied to it?",
+      "options": [
+        "The extension is directly proportional to the force applied.",
+        "The extension is inversely proportional to the force applied.",
+        "The extension is independent of the force applied.",
+        "The extension decreases as the force applied increases."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why is a metal spring classified as an elastic material?",
+      "options": [
+        "It is very shiny and can conduct electricity well.",
+        "It returns to its original length when the force stretching it is removed.",
+        "It permanently deforms as soon as any small force is applied.",
+        "It breaks easily when a pulling force is applied."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is one major advantage of using a lever when trying to move a heavy load?",
+      "options": [
+        "It can multiply a small force into a larger force.",
+        "It completely eliminates the effect of gravity on the load.",
+        "It decreases the distance needed to lift the load.",
+        "It converts chemical energy directly into electrical energy."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which equation is used to calculate pressure?",
+      "options": [
+        "Pressure = force × area",
+        "Pressure = area ÷ force",
+        "Pressure = force ÷ area",
+        "Pressure = force + area"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is another name for the unit of pressure 'newtons per square metre'?",
+      "options": [
+        "Joule",
+        "Watt",
+        "Pascal",
+        "Newton"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why does a boat with a very wide hull have a greater maximum upthrust than a narrow boat of the same weight?",
+      "options": [
+        "The bigger surface area of the hull allows a bigger upthrust to act on it.",
+        "The larger surface area increases the gravitational pull on the boat.",
+        "The wide hull decreases the volume of water displaced.",
+        "Wide boats are made of lighter materials."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Why does pressure in a liquid increase as you dive deeper?",
+      "options": [
+        "The temperature of the water increases at greater depths.",
+        "There is more liquid pushing down from above.",
+        "The density of the liquid decreases rapidly with depth.",
+        "Gravitational force is significantly stronger at the bottom of a pool."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why does atmospheric pressure reduce as you climb higher up a mountain?",
+      "options": [
+        "There is less air pushing down from above.",
+        "The temperature of the air is much lower.",
+        "Wind speeds are higher at high altitudes.",
+        "The Earth's gravity becomes zero at mountain peaks."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "How does the extension of a rubber band behave when equal-sized increases in force are applied to it?",
+      "options": [
+        "The extension remains absolutely constant for all forces.",
+        "The extension increases by the same amount for each equal increase in force.",
+        "The extension increases by different amounts for each equal increase in force.",
+        "The rubber band does not extend at all when force is applied."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "When a very heavy box is placed on a floor, what happens to the particles within the floor directly under the box?",
+      "options": [
+        "The particles spread further apart from each other.",
+        "The particles disappear and are replaced by air.",
+        "The particles are squashed closer together.",
+        "The particles start to rotate rapidly in place."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "How is the moment of a force calculated?",
+      "options": [
+        "Moment = force ÷ perpendicular distance from the pivot",
+        "Moment = force × perpendicular distance from the pivot",
+        "Moment = force + perpendicular distance from the pivot",
+        "Moment = perpendicular distance ÷ force"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    }
+  ]
+}

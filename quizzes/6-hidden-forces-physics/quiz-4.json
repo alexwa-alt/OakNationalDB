@@ -1,0 +1,182 @@
+{
+  "unitKey": "6Hidden forcesPhysics",
+  "generatedAt": "2026-08-12T05:50:30.382772+00:00",
+  "questions": [
+    {
+      "question": "Under what condition is an entire object considered to be floating on water?",
+      "options": [
+        "If the whole object is completely submerged under the water",
+        "If any part of the object remains above the surface of the water",
+        "Only if exactly half of the object is above the water",
+        "If the object sinks to the bottom but does not touch the floor"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If you place a toy boat in a shallow pond and then in a deep lake, how does the depth of the water affect how well it floats?",
+      "options": [
+        "It floats better in the deep lake because there is more water.",
+        "It floats better in the shallow pond because the bottom is closer.",
+        "The depth of the liquid does not affect how well the object floats.",
+        "It will only float in water that is deeper than the height of the boat."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What condition must be met for an object's shape to allow it to float in water?",
+      "options": [
+        "Its shape must push its own mass of water out of the way without going under.",
+        "Its shape must be completely hollow and spherical.",
+        "Its shape must minimize contact with the water surface.",
+        "Its shape must trap air beneath it at all times."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Approximately how much force is required to lift a 1 kg mass vertically on Earth?",
+      "options": [
+        "1 N",
+        "10 N",
+        "100 N",
+        "0.1 N"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What happens to the extension of a spring when you increase the force applied to it by equal-sized increments?",
+      "options": [
+        "The extension increases by a larger amount with each step.",
+        "The extension increases by a smaller amount with each step.",
+        "The extension increases by the same amount for each equal-sized increase in force.",
+        "The extension remains constant regardless of the force applied."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "When a spring behaves elastically, what is the relationship between the force applied and its extension?",
+      "options": [
+        "The extension is directly proportional to the force applied.",
+        "The extension is inversely proportional to the force applied.",
+        "The extension is equal to the square of the force applied.",
+        "There is no mathematical relationship between the force and extension."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What makes a spring 'elastic'?",
+      "options": [
+        "It can be stretched to twice its length without breaking.",
+        "It returns to its original length when the stretching force is removed.",
+        "It is made of a polymer material like rubber.",
+        "It requires a very small force to start stretching."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is a key function of a lever when used as a force multiplier?",
+      "options": [
+        "It can multiply a small force into a larger force.",
+        "It can eliminate the need for a pivot entirely.",
+        "It reduces the distance over which a force must be applied.",
+        "It converts gravitational potential energy directly into kinetic energy."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following best describes the concept of pressure?",
+      "options": [
+        "The total amount of force acting on an entire object",
+        "A measure of how concentrated a force is",
+        "The speed at which a force is applied to a surface",
+        "The mass of an object divided by its volume"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How is pressure calculated from force and area?",
+      "options": [
+        "Pressure = force * area",
+        "Pressure = force / area",
+        "Pressure = area / force",
+        "Pressure = force + area"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is another name for the unit 'newtons per square metre' (N/m²)?",
+      "options": [
+        "Joule (J)",
+        "Watt (W)",
+        "Pascal (Pa)",
+        "Newton-metre (Nm)"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why does water pressure increase as you dive deeper into a swimming pool?",
+      "options": [
+        "Because the temperature of the water decreases.",
+        "Because there is more liquid pushing down.",
+        "Because the density of the water increases rapidly with depth.",
+        "Because the gravitational pull is stronger at the bottom of the pool."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why does atmospheric pressure reduce as you climb a high mountain?",
+      "options": [
+        "Because there is less air pushing down.",
+        "Because the air temperature becomes much colder.",
+        "Because gravity is significantly weaker at high altitudes.",
+        "Because the speed of the wind increases with height."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "How does the extension of a rubber band behave compared to a spring when equal-sized increases in force are applied?",
+      "options": [
+        "It increases by the same amount for each equal increase in force.",
+        "It increases by different amounts for each equal-sized increase in force.",
+        "It does not extend at all until a threshold force is reached.",
+        "It decreases in length as more force is applied."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How is the moment of a force calculated?",
+      "options": [
+        "Moment = force / distance from the pivot",
+        "Moment = force * perpendicular distance from the pivot",
+        "Moment = mass * acceleration due to gravity",
+        "Moment = force * area of the surface"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "What is the standard unit of measurement for a moment?",
+      "options": [
+        "Newtons (N)",
+        "Newton-metres (Nm)",
+        "Pascals (Pa)",
+        "Joules (J)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 38
+    }
+  ]
+}

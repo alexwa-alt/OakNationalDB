@@ -1,0 +1,204 @@
+{
+  "unitKey": "6Hidden forcesPhysics",
+  "generatedAt": "2026-08-12T05:50:30.951274+00:00",
+  "questions": [
+    {
+      "question": "A block of wood is placed in a tub of water, and its top half remains visible above the water level. What can we say about the whole block?",
+      "options": [
+        "Only the top half is floating",
+        "Only the submerged half is floating",
+        "The whole block is floating",
+        "The block is sinking slowly"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A toy boat floats perfectly in a shallow tray filled with 5 cm of water. If the boat is moved to a deep swimming pool, how will its floating behaviour change?",
+      "options": [
+        "It will float much higher because there is more water underneath",
+        "It will float at the exact same level because depth does not affect how well it floats",
+        "It will sink to the bottom because the water pressure is greater",
+        "It will tip over easily due to the increased depth of the liquid"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Under what condition will a shaped object, like a hollow metal bowl, float in water?",
+      "options": [
+        "If its shape allows it to push aside a volume of water that has a mass equal to its own mass without submerging completely",
+        "If it is made of a material that is completely waterproof and cannot absorb any liquid",
+        "If the air trapped inside the bowl has a greater mass than the metal itself",
+        "If it has a perfectly flat bottom to distribute the downward gravitational force"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Approximately how much upward force is required to lift a 1 kg bag of flour vertically on Earth?",
+      "options": [
+        "1 N",
+        "10 N",
+        "100 N",
+        "0.1 N"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "How many grams are there in a standard mass of 1 kilogram?",
+      "options": [
+        "10 g",
+        "100 g",
+        "1000 g",
+        "10000 g"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which of the following formulas correctly shows how to calculate the gravitational force (weight, W) acting on an object?",
+      "options": [
+        "W = m $$\\div$$ g",
+        "W = g $$\\div$$ m",
+        "W = m $$\\times$$ g",
+        "W = m + g"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "If a spring extends by 2 cm when a force of 1 N is added, how much further will it extend when a second, identical 1 N force is added (within its elastic limit)?",
+      "options": [
+        "It will extend by another 2 cm",
+        "It will extend by another 1 cm",
+        "It will extend by another 4 cm",
+        "It will not extend any further"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What does it mean to say that the extension of a spring is directly proportional to the force applied?",
+      "options": [
+        "As the force increases, the extension decreases by the same ratio",
+        "Doubling the force results in doubling the extension of the spring",
+        "The extension remains constant regardless of how much force is applied",
+        "The spring will permanently deform as soon as any force is applied"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why is a steel spring described as being elastic?",
+      "options": [
+        "It can be stretched to many times its original length without breaking",
+        "It returns to its original length once the stretching force is removed",
+        "It becomes stiffer and harder to stretch the more force you apply to it",
+        "It conducts electricity when it is stretched out"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of the following describes a key mechanical function of a lever when used as a force multiplier?",
+      "options": [
+        "It reduces the distance the load travels to zero",
+        "It multiplies a small input force into a larger output force",
+        "It decreases the force needed by increasing the mass of the object",
+        "It eliminates the need for a pivot point"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How do the different types of levers mainly differ from one another?",
+      "options": [
+        "They are made of different materials like wood, plastic, or metal",
+        "They have the pivot, load, and effort in different relative positions",
+        "Some require gravity to work while others do not",
+        "They can only be used to lift objects of different weights"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is the correct formula used to calculate pressure?",
+      "options": [
+        "Pressure = force $$\\times$$ area",
+        "Pressure = area $$\\div$$ force",
+        "Pressure = force $$\\div$$ area",
+        "Pressure = force + area"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is another name for the unit of pressure 'newtons per square metre' (N/m$$^2$$)?",
+      "options": [
+        "Joule (J)",
+        "Watt (W)",
+        "Pascal (Pa)",
+        "Newton (N)"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why does a deep-sea diver experience much greater pressure at a depth of 100 metres than at 10 metres?",
+      "options": [
+        "The water is colder at greater depths, which squeezes the diver more",
+        "There is a greater weight of liquid pushing down from above at that depth",
+        "The density of the water decreases as you go deeper",
+        "The gravitational pull is significantly stronger at the bottom of the ocean"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why does atmospheric pressure decrease as an airplane climbs higher into the sky?",
+      "options": [
+        "The air is moving much faster at higher altitudes",
+        "The temperature drops, causing the air molecules to disappear",
+        "There is less air above the airplane pushing down",
+        "The Earth's gravity becomes zero at typical flight altitudes"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "How does the stretching behaviour of a rubber band differ from that of a standard metal spring?",
+      "options": [
+        "The rubber band does not extend at all when a force is applied",
+        "The extension of a rubber band increases by different amounts for each equal sized increase in force",
+        "The rubber band extends by the exact same amount for every equal addition of force",
+        "The rubber band can only extend when it is heated up"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What happens to the microscopic particles inside a solid floor when a very heavy cabinet is placed on it?",
+      "options": [
+        "The particles expand in size to support the weight",
+        "The particles are squashed closer together",
+        "The particles start sliding past one another and become liquid",
+        "The particles disappear to make room for the cabinet"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "How do you calculate the moment of a force?",
+      "options": [
+        "Moment = force $$\\div$$ perpendicular distance from the pivot",
+        "Moment = force $$\\times$$ perpendicular distance from the pivot",
+        "Moment = force + perpendicular distance from the pivot",
+        "Moment = perpendicular distance $$\\div$$ force"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    }
+  ]
+}

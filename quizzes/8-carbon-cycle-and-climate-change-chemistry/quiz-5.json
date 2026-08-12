@@ -1,0 +1,171 @@
+{
+  "unitKey": "8Carbon cycle and climate changeChemistry",
+  "generatedAt": "2026-08-12T05:50:24.436835+00:00",
+  "questions": [
+    {
+      "question": "What is a common product when carbon-containing fuels undergo combustion?",
+      "options": [
+        "Carbon dioxide",
+        "Pure hydrogen",
+        "Nitrogen gas",
+        "Helium"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following describes the chemical structure of a molecule of carbon dioxide?",
+      "options": [
+        "One carbon atom and one oxygen atom",
+        "One carbon atom and two oxygen atoms",
+        "Two carbon atoms and one oxygen atom",
+        "Two carbon atoms and two oxygen atoms"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Approximately what percentage of Earth's atmosphere is made up of carbon dioxide?",
+      "options": [
+        "21%",
+        "0.04%",
+        "78%",
+        "4.0%"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following gases is classified as a greenhouse gas?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Argon"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the primary consequence of an excessive accumulation of greenhouse gases in the atmosphere?",
+      "options": [
+        "A decrease in average global temperature",
+        "An increase in average global temperature, known as global warming",
+        "An increase in the concentration of atmospheric nitrogen",
+        "The complete depletion of the ozone layer"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why is coal, a sedimentary rock, able to burn?",
+      "options": [
+        "It is made mostly of carbon, with some impurities.",
+        "It contains high levels of trapped oxygen gas.",
+        "It is composed primarily of liquid petroleum.",
+        "It consists of radioactive elements that generate heat."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following describes how coal originally formed?",
+      "options": [
+        "From the cooling of molten volcanic lava under high pressure",
+        "From deep sediments of organic matter made of prehistoric plants",
+        "From the accumulation of mineral salts in shallow desert basins",
+        "From ancient meteorites that impacted Earth's crust"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What organic material originally formed oil and gas millions of years ago when mixed with sediments?",
+      "options": [
+        "Prehistoric land trees",
+        "Dead plankton",
+        "Volcanic ash",
+        "Calcified dinosaur bones"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Where are oil and natural gas typically located within the Earth's crust?",
+      "options": [
+        "In large hollow caverns of igneous rock",
+        "Inside the crystal structures of metamorphic rock",
+        "In the pores of sedimentary rock",
+        "Dissolved completely within magma chambers"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How does sedimentary rock form from buried and compressed sediment?",
+      "options": [
+        "Magma cools down and crystallizes slowly over thousands of years",
+        "High heat and pressure recrystallize minerals without melting them",
+        "Salts from fluids cement the sediment grains together",
+        "Wind blows loose sand until it melts into solid glass sheets"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In which type of rock are fossils exclusively found?",
+      "options": [
+        "Igneous rock",
+        "Metamorphic rock",
+        "Sedimentary rock",
+        "Volcanic rock"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What are the two major gases that make up 78% and 21% of Earth's atmosphere respectively?",
+      "options": [
+        "Carbon dioxide and Oxygen",
+        "Nitrogen and Oxygen",
+        "Hydrogen and Nitrogen",
+        "Argon and Carbon dioxide"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is the standard chemical test for identifying carbon dioxide gas?",
+      "options": [
+        "It relights a glowing splint.",
+        "It turns blue cobalt chloride paper pink.",
+        "It squeaks when exposed to a lighted splint.",
+        "It forms a white precipitate that turns limewater milky."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "How does the process of combustion affect the Earth's atmosphere?",
+      "options": [
+        "It decreases the amount of oxygen while having no effect on carbon dioxide.",
+        "It increases the amount of carbon dioxide.",
+        "It significantly reduces the amount of greenhouse gases.",
+        "It produces large amounts of ozone in the troposphere."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Which process actively reduces the amount of carbon dioxide in the atmosphere?",
+      "options": [
+        "Respiration by animals",
+        "Combustion of fossil fuels",
+        "Photosynthesis by plants and phytoplankton",
+        "Decomposition of dead organic matter"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    }
+  ]
+}
