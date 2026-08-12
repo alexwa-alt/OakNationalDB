@@ -101,19 +101,24 @@
       "challenging": "challenging.json"
     },
     "13Diet and exerciseBiology": {
-      "path": "13-diet-and-exercise-biology"
+      "path": "13-diet-and-exercise-biology",
+      "challenging": "challenging.json"
     },
     "14Climate change and greenhouse gasesChemistryPhysics": {
-      "path": "14-climate-change-and-greenhouse-gases-chemistry-physics"
+      "path": "14-climate-change-and-greenhouse-gases-chemistry-physics",
+      "challenging": "challenging.json"
     },
     "1Breathing and respirationBiology": {
-      "path": "1-breathing-and-respiration-biology"
+      "path": "1-breathing-and-respiration-biology",
+      "challenging": "challenging.json"
     },
     "2Acids and basesChemistry": {
-      "path": "2-acids-and-bases-chemistry"
+      "path": "2-acids-and-bases-chemistry",
+      "challenging": "challenging.json"
     },
     "3Magnets and electromagnetsPhysics": {
-      "path": "3-magnets-and-electromagnets-physics"
+      "path": "3-magnets-and-electromagnets-physics",
+      "challenging": "challenging.json"
     },
     "4Plant nutrition and photosynthesisBiology": {
       "path": "4-plant-nutrition-and-photosynthesis-biology"

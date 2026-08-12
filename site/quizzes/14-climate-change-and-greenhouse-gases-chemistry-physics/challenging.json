@@ -1,0 +1,226 @@
+{
+  "unitKey": "14Climate change and greenhouse gasesChemistryPhysics",
+  "generatedAt": "2026-08-12T06:18:18.921687+00:00",
+  "questions": [
+    {
+      "question": "When scientists calculate the global average surface temperature, how do they ensure the result is reliable despite local weather extremes?",
+      "options": [
+        "They use a small number of highly accurate thermometers placed only in cities.",
+        "They average tens of thousands of measurements taken from stations worldwide.",
+        "They ignore any measurements that show temperatures below freezing.",
+        "They rely solely on satellite estimates of the upper atmosphere."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If a scientist says that a region's temperature anomaly is +1.5 °C, what are they comparing the current temperature to?",
+      "options": [
+        "The temperature of the closest neighbouring country on that specific day.",
+        "The global average temperature of the entire Earth in the year 1850.",
+        "The long-term average temperature calculated specifically for that region.",
+        "The maximum theoretical temperature that the region's climate can support."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How have overall global surface temperatures behaved since the start of the industrial revolution in the 1850s?",
+      "options": [
+        "They have remained completely stable with brief annual fluctuations.",
+        "They have shown a clear, overall increasing trend.",
+        "They have steadily decreased due to increased atmospheric particulate blockages.",
+        "They have fluctuated randomly without any identifiable long-term trend."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How do scientists obtain data about Earth's atmospheric temperature from thousands of years before thermometers were invented?",
+      "options": [
+        "By analyzing the thickness of ancient tree rings and gas bubbles trapped in deep ice cores.",
+        "By studying written diaries and cave paintings from early human civilizations.",
+        "By calculating the decay rate of nitrogen gas in the modern atmosphere.",
+        "By measuring the magnetic field strength of deep ocean trenches."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why is a release of 1 tonne of methane gas of greater immediate concern for global warming than a release of 1 tonne of carbon dioxide?",
+      "options": [
+        "Methane remains in the atmosphere for thousands of years longer than carbon dioxide.",
+        "Methane is a more potent greenhouse gas than carbon dioxide.",
+        "Methane directly destroys the ozone layer, allowing more UV radiation to heat the ground.",
+        "Methane reacts with nitrogen to form highly reflective clouds that trap heat."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What would the temperature of Earth's atmosphere be like if it contained absolutely no greenhouse gases?",
+      "options": [
+        "It would be significantly warmer because solar radiation could pass through more easily.",
+        "It would be much colder than it is now because heat would easily escape back into space.",
+        "It would remain exactly the same because only solar activity controls atmospheric heat.",
+        "It would fluctuate wildly between extreme heat during the day and absolute zero at night."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why does the melting of land-based ice sheets, like those on Greenland, cause a rise in global sea levels while melting sea ice does not?",
+      "options": [
+        "Land-based ice sheets contain saltier water which expands when it mixes with the ocean.",
+        "Melting ice sheets move water that was stored on land into the sea, adding to its volume.",
+        "Land-based ice sheets are much warmer than sea ice, causing immediate thermal expansion.",
+        "Ice sheets melt into rivers which flow faster than ocean currents."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "During the summer, large areas of Arctic sea ice melt. What direct impact does this specific melting process have on global sea levels?",
+      "options": [
+        "It causes a rapid rise because ice occupies less volume than liquid water.",
+        "It causes a minor drop in sea level because liquid water is more dense than ice.",
+        "It does not raise sea levels because the ice was already floating and displacing its own weight.",
+        "It causes sea levels to rise only in the Southern Hemisphere due to ocean currents."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Aside from melting land ice, what is another major physical process that causes sea levels to rise as global temperatures increase?",
+      "options": [
+        "Warmer oceans and seas physically expand, taking up more volume.",
+        "Increased evaporation makes the air heavier, pushing the ocean water upwards.",
+        "Warmer water becomes more acidic, which chemically expands the volume of salt molecules.",
+        "Underwater volcanic activity increases due to atmospheric pressure changes."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "When petrol or diesel is burned in a car engine, what mixture of substances is released into the air?",
+      "options": [
+        "Only carbon dioxide and pure water vapour.",
+        "Greenhouse gases, other pollutant gases, and tiny solid particulates.",
+        "Oxygen, nitrogen, and harmless carbon soot particles only.",
+        "Liquid fuel droplets and heat energy with no gas emissions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Why might driving an electric vehicle still indirectly contribute to greenhouse gas emissions?",
+      "options": [
+        "Electric vehicles release small amounts of carbon dioxide directly from their battery vents.",
+        "The electricity used to charge the vehicle's battery may have been generated by burning fossil fuels.",
+        "Electric motors produce heat which directly warms the surrounding greenhouse gases.",
+        "The friction of electric vehicle tyres produces methane gas on tarmac."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which of the following best describes the process of carbon capture and storage (CCS)?",
+      "options": [
+        "Planting vast forests to naturally absorb carbon dioxide from the open atmosphere.",
+        "Converting carbon dioxide into solid carbon blocks to be used as building materials.",
+        "Separating carbon dioxide from industrial emissions and storing it deep underground.",
+        "Filtering carbon dioxide out of ocean water and releasing it into space."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is a major limitation of using carbon capture and storage (CCS) technology to reduce global carbon dioxide emissions?",
+      "options": [
+        "It can only capture carbon dioxide from natural sources like volcanic eruptions.",
+        "It is a highly expensive technology to implement and operate.",
+        "It actually increases the amount of carbon dioxide in the local atmosphere during storage.",
+        "It requires temperatures close to absolute zero to keep the gas underground."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Approximately what percentage of global greenhouse gas emissions is produced by the energy sector (which includes electricity, heating, transport, and manufacturing)?",
+      "options": [
+        "Around 25%",
+        "Around 50%",
+        "Around 75%",
+        "Around 95%"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Why does a heavy SUV traveling at 120 km/h use significantly more energy per kilometre than a light hatchback traveling at 80 km/h?",
+      "options": [
+        "Heavier vehicles require more energy to overcome inertia, and higher speeds greatly increase air resistance.",
+        "Light hatchbacks use a different chemical reaction to burn fuel that is 100% efficient.",
+        "Faster vehicles experience less gravity, which reduces their grip on the road.",
+        "Heavier vehicles are designed to have lower tyre pressure to support their weight."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "How does ensuring car tyres are inflated to the correct pressure help to reduce a vehicle's energy consumption?",
+      "options": [
+        "It decreases the surface area of the tyre in contact with the road, reducing unnecessary rolling resistance.",
+        "It increases the weight of the vehicle, allowing it to coast further without using the engine.",
+        "It cools down the engine by allowing air to circulate through the wheels.",
+        "It makes the car more aerodynamic by lifting it higher off the ground."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why are energy sources like wind and solar classified as 'renewable' while coal and oil are not?",
+      "options": [
+        "Renewable sources produce twice as much electricity per second as fossil fuels.",
+        "Renewable sources are replenished more quickly than we can use them up.",
+        "Renewable sources do not require any manufacturing energy to set up.",
+        "Renewable sources can store electricity indefinitely without batteries."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "In most traditional power stations, how is electricity physically generated?",
+      "options": [
+        "By chemically combining hydrogen and oxygen inside a large storage battery.",
+        "By spinning coils of wire inside a magnetic field using an electric generator connected to a turbine.",
+        "By heating up copper plates until they release high-energy electrons directly into cables.",
+        "By using static electricity generated by friction on conveyor belts."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "How is a turbine made to spin in a power station that burns biomass, oil, or gas?",
+      "options": [
+        "The fuel is burned to create high-pressure steam, which is directed to spin the turbine.",
+        "The fuel is exploded directly inside the turbine blades to force them to turn.",
+        "The heat from the fuel creates strong wind currents inside the building to turn the turbine.",
+        "Liquid fuel is poured directly over the turbine blades to make them slide faster."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "How does electricity generation using solar panels differ from generation using wind turbines?",
+      "options": [
+        "Solar panels generate electricity directly without using an electric generator or spinning turbine.",
+        "Solar panels use miniature turbines that are spun by light particles instead of wind.",
+        "Solar panels require a constant supply of steam to keep their cells warm.",
+        "Solar panels must be connected to a burning biomass source to function at night."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    }
+  ]
+}
