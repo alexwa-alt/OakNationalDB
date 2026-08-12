@@ -1,0 +1,226 @@
+{
+  "unitKey": "10Reproduction in humansBiology",
+  "generatedAt": "2026-08-12T06:46:11.980488+00:00",
+  "questions": [
+    {
+      "question": "What are the male and female sex cells in humans called?",
+      "options": [
+        "Hormones",
+        "Gametes (sperm and egg)",
+        "Zygotes",
+        "Embryos"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following describes how humans reproduce?",
+      "options": [
+        "Asexual reproduction, where offspring are identical to one parent.",
+        "Sexual reproduction, with half of the genetic material from each parent.",
+        "Cloning, where genetic material is copied from a single parent.",
+        "Regeneration, where a new organism grows from a body fragment."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Where does fertilisation normally take place in the female reproductive system?",
+      "options": [
+        "In the uterus",
+        "In the ovaries",
+        "In the fallopian tubes",
+        "In the cervix"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How does the amount of genetic material in a human gamete compare to a zygote?",
+      "options": [
+        "A gamete has a full set, while a zygote has a half set.",
+        "Both a gamete and a zygote have a half set.",
+        "A gamete has half the genetic material, while a zygote has a full set.",
+        "Both a gamete and a zygote have a full set."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which of the following shows the correct sequence of development after fertilisation?",
+      "options": [
+        "Embryo to Zygote to Foetus to Baby",
+        "Zygote to Embryo to Foetus to Baby",
+        "Foetus to Zygote to Embryo to Baby",
+        "Zygote to Foetus to Embryo to Baby"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "How long is the average human gestation period (pregnancy)?",
+      "options": [
+        "About 9 weeks",
+        "About 20 weeks",
+        "About 40 weeks",
+        "About 52 weeks"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the function of the amniotic fluid inside the amniotic sac?",
+      "options": [
+        "To provide nutrients to the developing foetus",
+        "To protect the developing foetus from bumps and knocks",
+        "To carry waste away from the foetus",
+        "To supply oxygen to the foetus"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How does the developing foetus obtain nutrients and get rid of waste?",
+      "options": [
+        "Directly through the amniotic fluid",
+        "Through the mother's stomach",
+        "Through the placenta",
+        "By breathing through its lungs"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What happens to the cervix and uterus during the birth of a baby?",
+      "options": [
+        "The cervix closes and the uterus wall relaxes.",
+        "The cervix opens and the uterus wall contracts.",
+        "The cervix opens and the uterus wall relaxes.",
+        "The cervix closes and the uterus wall contracts."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which of these harmful substances can cross the placenta from the mother to the foetus?",
+      "options": [
+        "Digestive enzymes",
+        "Only vitamins and minerals",
+        "Large protein molecules",
+        "Alcohol, nicotine, and some drugs"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What is a short-term consequence of harmful substances like alcohol or cigarette smoke passing to the foetus during pregnancy?",
+      "options": [
+        "Higher birth weight",
+        "Low birth weight or premature birth",
+        "Immediate onset of puberty",
+        "Faster growth rate"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of the following is a potential long-term consequence for a baby if the mother drinks alcohol during pregnancy?",
+      "options": [
+        "Foetal alcohol spectrum disorder",
+        "Higher risk of childhood chickenpox",
+        "Immediate development of adult features",
+        "Increased height in adulthood"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Where are sperm cells produced and stored in the male reproductive system?",
+      "options": [
+        "In the glands",
+        "In the ovaries",
+        "In the sperm duct",
+        "In the testes"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which of the following statements about egg cells in human females is true?",
+      "options": [
+        "Females make new egg cells daily throughout their lives.",
+        "Females are born with all their eggs inside their ovaries.",
+        "Egg cells are produced in the fallopian tubes.",
+        "Dozens of egg cells are released at the same time every week."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "In addition to producing gametes, what else do the testes and ovaries produce?",
+      "options": [
+        "Red blood cells",
+        "Hormones",
+        "Amniotic fluid",
+        "Urine"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What occurs during puberty in human males and females?",
+      "options": [
+        "Their bodies undergo physical changes and their reproductive systems mature.",
+        "Their bodies stop growing taller completely.",
+        "Their digestive systems completely change how they function.",
+        "They lose the ability to produce hormones."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What triggers the physical changes that occur during puberty?",
+      "options": [
+        "A change in the type of food eaten",
+        "The production of sex hormones",
+        "The rapid growth of the skeleton only",
+        "Exposure to sunlight and fresh air"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why do human offspring often look similar to, but not exactly like, their parents?",
+      "options": [
+        "They inherit features from only one parent.",
+        "They inherit features from both parents.",
+        "They mimic their parents' facial expressions.",
+        "They share the same environment but different nutrients."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "On average, how long is the human menstrual cycle?",
+      "options": [
+        "7 days",
+        "14 days",
+        "28 days",
+        "40 days"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "What happens during menstruation in the menstrual cycle?",
+      "options": [
+        "An egg cell is fertilised by a sperm cell.",
+        "The lining of the uterus breaks down and leaves the body.",
+        "A new egg cell is released from the ovary.",
+        "The uterus lining grows thicker to prepare for a zygote."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    }
+  ]
+}

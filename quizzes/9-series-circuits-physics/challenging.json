@@ -1,6 +1,6 @@
 {
   "unitKey": "9Series circuitsPhysics",
-  "generatedAt": "2026-08-12T06:17:45.406212+00:00",
+  "generatedAt": "2026-08-12T06:45:58.087165+00:00",
   "questions": [
     {
       "question": "A scientist compares two different series circuits. Circuit A uses a 9V battery and Circuit B uses a 1.5V battery. Both circuits are otherwise identical. Why does Circuit A have a larger current flowing through it?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 38
+    },
+    {
+      "question": "In a series circuit, a 9V battery is connected to three identical bulbs. What is the voltage across each bulb, and why?",
+      "options": [
+        "3V, because the total voltage supplied by the battery is shared equally among the three identical components.",
+        "9V, because the voltage from the battery is delivered in full to every component in a series circuit.",
+        "27V, because the voltage of each component multiplies to match the source.",
+        "0V, because the voltage only exists at the terminals of the battery."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A student connects four 1.5V cells in series, but accidentally connects one of them backward. What is the total voltage of this battery combination?",
+      "options": [
+        "6.0 V",
+        "3.0 V",
+        "4.5 V",
+        "1.5 V"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following statements best describes the state of the copper wire in a circuit before the switch is closed?",
+      "options": [
+        "The wire contains no electric charges at all until the battery connected to it is turned on.",
+        "The wire contains only positive charges, as negative charges are only provided by the battery.",
+        "The wire contains both positive and negative charges inside its atoms, even when no current is flowing.",
+        "The wire contains static charge on its outer surface, but no charges inside its atomic structure."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "When you flip a switch to turn on a light bulb, the bulb lights up almost instantly. What is the reason for this rapid response?",
+      "options": [
+        "Electrons travel from the switch to the bulb at the speed of light.",
+        "Electrons already present everywhere in the circuit start moving at the same time.",
+        "The battery increases its voltage instantaneously, which forces new electrons to enter the wire at high speed.",
+        "The wire acts as a vacuum, allowing the first electron from the battery to reach the bulb with zero resistance."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "If electrons in a typical household circuit move at a drift speed of only a few millimetres per second, how can we explain the continuous flow of current?",
+      "options": [
+        "The slow speed is compensated for by the massive number of electrons that are all moving together throughout the circuit.",
+        "The electrons accelerate to near-light speed once they pass through the filament of the bulb.",
+        "The battery continuously pushes new electrons into the wire at extremely high speeds, which push the slow ones out of the way.",
+        "The slow movement only occurs in the battery; inside the wires, electrons move much faster."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A student sets up a series circuit with two bulbs. One bulb has a broken filament. What will be observed, and why?",
+      "options": [
+        "Both bulbs remain unlit because the broken filament creates an open gap, preventing current from flowing anywhere in the circuit.",
+        "Only the working bulb lights up because current can still pass through the outer casing of the faulty bulb.",
+        "Both bulbs light up dimly because the current finds an alternative path through the glass of the faulty bulb.",
+        "Only the faulty bulb glows because all the energy from the battery accumulates at the break in the filament."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "In a series circuit containing three bulbs, one bulb has a broken filament, causing all lights to go out. How can you make the other two bulbs light up without replacing the broken bulb?",
+      "options": [
+        "Connect a bypass wire across the terminals of the faulty bulb to complete the path for the current.",
+        "Connect a wire from the positive terminal of the battery directly to the negative terminal of the battery.",
+        "Shake the faulty bulb to force the broken filament pieces to touch each other temporarily.",
+        "Add another battery in series to increase the voltage enough to jump the gap in the broken filament."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Why must an ideal ammeter have a very low resistance when connected in a series circuit?",
+      "options": [
+        "To ensure it can measure the current flowing through it without significantly reducing or affecting the circuit's overall current.",
+        "To prevent the ammeter from drawing too much voltage from the battery, which would cause the battery to overheat.",
+        "To allow the ammeter to store charge and act as a temporary power source if the battery fails.",
+        "To ensure that it forces all the electrons to move at a much faster rate through the circuit."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "An ammeter is placed before a bulb in a simple series circuit and reads 0.4 A. If the ammeter is moved to a position after the bulb, what will the reading be, and why?",
+      "options": [
+        "It will read 0.4 A because the electric current is not 'used up' by the bulb and remains the same everywhere in a series circuit.",
+        "It will read less than 0.4 A because the bulb uses up some of the current to produce light and heat.",
+        "It will read 0.0 A because all the current is converted into light energy inside the bulb's filament.",
+        "It will read more than 0.4 A because the bulb compresses the charge, making it flow faster after leaving."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A second identical bulb is added in series to a circuit that already has one bulb lit. What happens to the current flowing through the wire connected directly to the positive terminal of the battery?",
+      "options": [
+        "The current decreases everywhere in the circuit, including the wire near the positive terminal, because the overall resistance has increased.",
+        "The current increases because the battery must push harder to light up both bulbs.",
+        "The current remains the same near the positive terminal but decreases after passing through the first bulb.",
+        "The current increases only between the two bulbs as they share the electric charge."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How should a voltmeter be connected to measure the voltage across a specific bulb in a series circuit?",
+      "options": [
+        "In parallel, by connecting its terminals across the terminals of the bulb.",
+        "In series, by breaking the circuit loop and inserting the voltmeter next to the bulb.",
+        "In series, between the battery's positive terminal and the first bulb only.",
+        "In parallel, by connecting one terminal to the bulb and the other to the ground."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "When a plastic rod is rubbed with a woolen cloth, the rod becomes negatively charged. What is the mechanism behind this charging process?",
+      "options": [
+        "Negative electrons are transferred from the atoms of the woolen cloth to the plastic rod.",
+        "Positive protons are transferred from the plastic rod to the woolen cloth.",
+        "Friction creates new negative charges on the surface of the plastic rod.",
+        "The rubbing action destroys positive charges in the plastic rod, leaving only negative charges."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "Why is it difficult to charge a copper rod by holding it in your hand and rubbing it with a dry cloth?",
+      "options": [
+        "Copper is a conductor, so any transferred charge immediately flows through the rod and your body to the earth.",
+        "Copper atoms do not contain any electrons that can be transferred by rubbing.",
+        "Friction cannot generate heat on a metal surface, which is required to release charges.",
+        "Copper is highly magnetic, which cancels out any electrostatic charges that try to form."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "What does a high voltage rating on a battery physically represent regarding its behavior in an electrical circuit?",
+      "options": [
+        "It indicates a stronger 'push' with which the battery can drive electric current through the circuit.",
+        "It indicates that the battery contains a larger total number of electrons stored inside it.",
+        "It means the battery will always discharge at a slower rate regardless of the connected circuit.",
+        "It represents the physical speed at which individual electrons travel through the battery itself."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If the voltage across a resistor in a series circuit increases, what does this tell us about the 'push' required to move current through it?",
+      "options": [
+        "A larger 'push' is being used to move the electric current through that resistor.",
+        "The resistor is now pushing current back toward the battery with greater force.",
+        "The physical size of the resistor has expanded to block more electrons.",
+        "The current has stopped flowing because the 'push' has become zero."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What is the primary effect of the chemical reactions inside a battery when it is connected to a complete circuit?",
+      "options": [
+        "They continuously push electric charge (electrons) in a single direction around the circuit.",
+        "They cause electrons to vibrate back and forth without any net movement.",
+        "They create new electrons and destroy old ones to keep the current flowing.",
+        "They pump positive charges in one direction and negative charges in the opposite direction simultaneously."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A student wants to test if an unmarked black component is a conductor or an insulator. What is the most reliable method to find out?",
+      "options": [
+        "Place the component into a simple series circuit with a battery and a bulb, and observe if the bulb lights up.",
+        "Connect the component directly to both terminals of a voltmeter without a battery.",
+        "Rub the component with a cloth and see if it can pick up small pieces of paper.",
+        "Submerge the component in water to see if it bubbles or changes color."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following is the defining characteristic of a series circuit?",
+      "options": [
+        "It consists of a single, continuous loop for current to flow from one terminal of the battery to the other.",
+        "It must contain at least three bulbs and two switches connected in parallel branches.",
+        "It allows current to split into multiple separate pathways that never meet again.",
+        "It requires a voltmeter to be connected inline to complete the main loop."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A charged balloon can attract small, neutral scraps of paper on a table without actually touching them first. What does this demonstrate?",
+      "options": [
+        "The electrostatic force is a non-contact force that acts at a distance.",
+        "The paper scraps must have a strong magnetic field that pulls the balloon.",
+        "Air currents are created by the static charge which blow the paper towards the balloon.",
+        "The balloon must touch the paper to transfer its charge before any force can exist."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Two suspended plastic rods are both rubbed with the same woolen cloth. When they are brought close to each other, what behavior will be observed and why?",
+      "options": [
+        "They will push away from each other because they have acquired the same type of electric charge.",
+        "They will pull towards each other because they have acquired opposite charges.",
+        "They will not interact at all because plastic cannot hold an electric charge.",
+        "They will spin rapidly because rubbing them creates magnetic poles."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 34
     }
   ]
 }

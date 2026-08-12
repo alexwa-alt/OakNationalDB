@@ -1,6 +1,6 @@
 {
   "unitKey": "7Variation (differences within species)Biology",
-  "generatedAt": "2026-08-12T06:17:07.598624+00:00",
+  "generatedAt": "2026-08-12T06:44:56.592017+00:00",
   "questions": [
     {
       "question": "A student monitors a population of snails and groups them based on whether they have a banded shell or an unbanded shell. What type of variation is this, and what is its defining characteristic?",
@@ -220,6 +220,226 @@
         "Spoken language accent"
       ],
       "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "A scientist is classifying different characteristics of a plant species. Which of the following features represents discontinuous variation because it falls into distinct, non-overlapping categories?",
+      "options": [
+        "The concentration of chlorophyll in the leaves measured in mg/g.",
+        "The presence or absence of stripes on the flower petals.",
+        "The height of the stem at maturity.",
+        "The total surface area of the leaves."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why is the mass of a group of domestic rabbits classified as showing continuous variation rather than discontinuous variation?",
+      "options": [
+        "Rabbit masses can only be represented by integers and have no intermediate values.",
+        "Rabbit masses are determined entirely by a single gene with two alleles.",
+        "Rabbit masses can take any numerical value within a range and do not fit into distinct categories.",
+        "Rabbit masses are fixed at birth and do not change throughout the rabbit's life."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following correctly pairs a feature showing continuous variation with one showing discontinuous variation in humans?",
+      "options": [
+        "Continuous: Eye colour; Discontinuous: Body mass",
+        "Continuous: Height; Discontinuous: ABO blood group",
+        "Continuous: Lobed or lobeless ears; Discontinuous: Hand span",
+        "Continuous: Biological sex; Discontinuous: Skin pigmentation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A class of students wants to collect primary data to investigate discontinuous variation in their school. Which protocol would be most appropriate?",
+      "options": [
+        "Measuring each student's height using a tape measure to the nearest millimetre.",
+        "Recording the exact time in seconds each student can hold their breath.",
+        "Surveying classmates to record who can and cannot roll their tongue into a U-shape.",
+        "Weighing school bags using a digital balance to find the average mass."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Students have gathered data on the lengths of 150 oak leaves collected from a single tree. Why is a histogram or line graph, rather than a bar chart, the correct way to display this data?",
+      "options": [
+        "Leaf length is a discontinuous variable with fixed categories.",
+        "Leaf length is a continuous variable that can take any value within a range, requiring a continuous scale.",
+        "A bar chart cannot display more than ten data points at a time.",
+        "Oak leaf length is purely determined by genetics and has no environmental influence."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When plotting a histogram to show the continuous variation of plant heights in a garden, how should the data on the horizontal axis (x-axis) be structured?",
+      "options": [
+        "Each individual plant should have its own separate, named bar.",
+        "The data must be grouped into continuous, equal-sized intervals (bins) with no gaps between them.",
+        "The heights should be listed from tallest to shortest with gaps between each distinct height value.",
+        "Only the minimum, maximum, and average heights should be plotted as three separate points."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A histogram representing the heights of 200 adult sunflower plants shows a single, broad peak centered around 1.8 meters, with very few plants under 1.2 meters or over 2.4 meters. What is the most accurate interpretation of this graph?",
+      "options": [
+        "There are two distinct, non-overlapping height categories of sunflowers in this population.",
+        "Sunflowers only grow to exactly 1.8 meters, and any other measurement is an experimental error.",
+        "The heights show continuous variation, with most plants clustered around an average height and fewer at the extremes.",
+        "The height of these sunflowers is determined by a single gene that prevents growth beyond 2.4 meters."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Identical twin calves are separated at birth. Calf A is fed a nutrient-rich diet in a warm barn, while Calf B is fed a restricted diet in a cold, exposed field. As adults, Calf A has a much larger body mass than Calf B. What does this demonstrate about continuous variation?",
+      "options": [
+        "Continuous variation is determined solely by the calves' identical genetic code.",
+        "Continuous variation is unaffected by lifestyle or environmental conditions like diet and temperature.",
+        "Continuous variation is usually influenced by a combination of genetics, environment, and lifestyle.",
+        "Environmental factors can completely alter an organism's species identity."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A biologist is displaying data on the different blood groups (A, B, AB, and O) found within a population of chimpanzees. Why is a bar chart, with gaps between the bars, the most suitable choice for this data?",
+      "options": [
+        "Blood group data is continuous and has infinite intermediate values.",
+        "Blood group data is discontinuous, meaning the categories are distinct and there are no intermediate values.",
+        "The biologist did not collect enough primary data to make a histogram.",
+        "Chimpanzee blood groups are determined entirely by environmental factors."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "When plotting discontinuous variation data, such as human eye colour, on a bar chart, which of the following rules must be followed?",
+      "options": [
+        "The bars must touch each other to show that eye colours merge into one another.",
+        "The horizontal axis must show a continuous numerical scale from lowest to highest value.",
+        "The bars representing the distinct categories (e.g., Blue, Brown, Green) should have gaps between them.",
+        "The height of each bar must represent the age of the individuals surveyed."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "An analyst examines a bar chart displaying the frequency of four different leaf shapes found in a forest understory. The bars are labelled 'Ovate', 'Lanceolate', 'Lobate', and 'Cordate'. What can the analyst correctly conclude from this chart?",
+      "options": [
+        "Leaf shape is a continuous variable because the leaves can be any intermediate length.",
+        "The leaf shapes are distinct categories of discontinuous variation, and the chart shows the frequency of each category.",
+        "The chart proves that environmental factors like sunlight are the sole cause of these leaf shapes.",
+        "Leaf shape changes gradually along a scale and cannot be grouped into discrete categories."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A child is born with attached earlobes, which is a feature of discontinuous variation. Despite moving to a different climate and changing their diet as they grow up, their earlobes remain attached. Why is this?",
+      "options": [
+        "Discontinuous variation is heavily influenced by changes in diet and physical activity.",
+        "Discontinuous variation usually has only a genetic cause and is not affected by environment or lifestyle.",
+        "The environment can only change discontinuous features during adulthood.",
+        "Earlobe shape is a continuous feature that takes many years to show environmental effects."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When two golden retrievers mate, their offspring are always recognizable as golden retrievers rather than another dog breed or species. Which fundamental biological principle does this demonstrate?",
+      "options": [
+        "Offspring inherit genetic material only from the female parent.",
+        "When organisms reproduce, they make offspring of the same kind (species resemblance).",
+        "Environmental factors prevent dogs from producing offspring with any variation.",
+        "Genetic mutation always makes offspring completely identical to their ancestors."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A puppy has its mother's floppy ears but its father's coat colour. Why does the puppy show this family resemblance?",
+      "options": [
+        "The puppy inherited all of its genes from its mother and none from its father.",
+        "The puppy's features were determined entirely by the environment in which it was raised.",
+        "Offspring inherit features from both parents, so they look similar to their parents and to one another.",
+        "Floppy ears and coat colour are acquired characteristics that the parents developed during their lifetime."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How are inherited features, such as natural eye colour or blood group, physically transmitted from parents to their offspring?",
+      "options": [
+        "Through nutrients passed in food during early development.",
+        "Through the transmission of DNA from parents to offspring during reproduction.",
+        "By offspring mimicking the physical movements and lifestyle of their parents.",
+        "Via hormones released into the shared environment of the family."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Two genetically identical strawberry plants are grown in different conditions. Plant X is grown in nutrient-rich soil with plenty of sunlight, while Plant Y is grown in poor soil in the shade. Plant X grows many large strawberries, whereas Plant Y grows only a few small ones. What does this experiment demonstrate?",
+      "options": [
+        "Strawberry size is determined solely by inherited DNA and cannot be altered.",
+        "Some features are caused or changed by an organism's lifestyle and environment.",
+        "Identical genetic information guarantees identical physical features regardless of the environment.",
+        "Plant Y has underwent a genetic mutation that changed its species."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A cat gives birth to a litter of five kittens. Although they share the same parents, some kittens are black, some are ginger, and they have different patterns. What does this illustrate about reproduction?",
+      "options": [
+        "Offspring are always exact genetic clones of the mother.",
+        "Environmental differences in the womb make offspring completely unrelated to each other.",
+        "There is usually variation between offspring; they are not usually identical to their parents or one another.",
+        "Kittens change their fur patterns as a lifestyle choice after birth."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "If you compare a domestic dog, a grey wolf, and a red fox, which statement about their differences is biologically correct?",
+      "options": [
+        "The differences between individual domestic dogs (within-species variation) are greater than the differences between a dog and a red fox.",
+        "Differences between distinct species are greater than the differences within a single species.",
+        "All members of different species are physically identical, whereas members of the same species have vast differences.",
+        "There are no measurable physical differences between a domestic dog and a grey wolf."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "In a field of wild daisies, some flowers have 20 petals while others have 24 petals, even though they belong to the same species. What is the correct term for these differences among individuals of the same species?",
+      "options": [
+        "Speciation",
+        "Mutation",
+        "Variation",
+        "Classification"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following human characteristics is caused only by inherited genetic information in the genome and cannot be altered by lifestyle or environment?",
+      "options": [
+        "Body mass",
+        "ABO blood type",
+        "Skin tone after sun exposure",
+        "Physical fitness level"
+      ],
+      "correctAnswerIndex": 1,
       "learningPointIndex": 20
     }
   ]
