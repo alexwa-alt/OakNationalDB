@@ -1,6 +1,6 @@
 {
   "unitKey": "9Series circuitsPhysics",
-  "generatedAt": "2026-08-12T06:45:58.087165+00:00",
+  "generatedAt": "2026-08-12T09:37:30.087826+00:00",
   "questions": [
     {
       "question": "A scientist compares two different series circuits. Circuit A uses a 9V battery and Circuit B uses a 1.5V battery. Both circuits are otherwise identical. Why does Circuit A have a larger current flowing through it?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 34
+    },
+    {
+      "question": "A student connects a 9V battery to a series circuit. How should they describe the physical meaning of this 9V battery's voltage?",
+      "options": [
+        "It represents the total amount of electric charge stored inside the battery.",
+        "It measures the strength with which the battery can 'push' electric current around the circuit.",
+        "It represents the constant speed at which individual electrons travel through the wires.",
+        "It is the physical force exerted on the copper atoms in the wire to melt them."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A series circuit consists of a 12V battery and three resistors. If a voltmeter measures 3V across the first resistor and 5V across the second resistor, what is the voltage across the third resistor?",
+      "options": [
+        "12V",
+        "8V",
+        "4V",
+        "20V"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A toy car requires a 6V battery. If you construct this battery using 1.5V cells connected in series, how many cells are needed and why?",
+      "options": [
+        "Three cells, because connecting cells in series reduces the total resistance of the battery.",
+        "Four cells, because the voltage of a battery made of cells in series equals the voltages of the cells added together.",
+        "Eight cells, because cells connected in series have their individual voltages halved.",
+        "Two cells, because the voltage multiplies exponentially when cells are connected in series."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Before a switch in a circuit is closed, which statement correctly describes the electric charges inside the copper connecting wires?",
+      "options": [
+        "There are no electric charges in the wires because they are only created when the battery is active.",
+        "The wires only contain positive charges, as negative charges must be supplied by the battery.",
+        "There are electric charges in all atoms of the wires, even when the circuit is not turned on.",
+        "The wires only contain neutral particles that convert into charges when current begins to flow."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "When a switch in a series circuit is closed, a bulb far away from the battery lights up almost instantaneously. What is the explanation for this rapid response?",
+      "options": [
+        "A single electron travels from the battery terminal to the bulb at the speed of light.",
+        "Electrons everywhere in the circuit start moving at the same time when it is turned on.",
+        "The battery pulls all the positive charges out of the bulb instantly, creating a vacuum.",
+        "Air inside the wire carries the electrical signal much faster than the electrons can move."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which statement correctly describes the physical movement of individual electrons in a copper wire when a series circuit is active?",
+      "options": [
+        "They travel at nearly the speed of light to ensure the current is uniform.",
+        "They move round the circuit very slowly, at a speed of just a few millimetres each second.",
+        "They vibrate in fixed positions and do not actually travel along the loop of wire.",
+        "They move at several hundred meters per second, constantly colliding and bouncing backwards."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A student sets up a series circuit containing a battery and two filament bulbs. When switched on, neither bulb lights up. If one bulb is faulty, what is the physical reason why the other bulb also remains unlit?",
+      "options": [
+        "The faulty bulb's glass is cracked, which allows electricity to escape into the surrounding air.",
+        "The faulty bulb's filament is broken, leaving a physical gap so current cannot flow through it.",
+        "The faulty bulb has absorbed all of the voltage from the battery, leaving nothing for the other bulb.",
+        "The faulty bulb's filament has melted into a thick wire, which blocks the flow of electric charge."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "In a series circuit with three bulbs (X, Y, and Z), bulb Y has a broken filament, causing all three bulbs to go out. How can you make bulbs X and Z light up without replacing bulb Y?",
+      "options": [
+        "By reversing the connections on the battery terminals.",
+        "By connecting a wire directly from the positive to the negative terminal of the battery.",
+        "By using a wire to bypass bulb Y, connecting it from the input to the output of bulb Y.",
+        "By adding another switch in series right before bulb X."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following describes the essential path of current in a series circuit?",
+      "options": [
+        "It contains multiple alternative branches that allow current to split and take different routes.",
+        "It is an electric circuit with one complete loop from one end of a battery to the other end.",
+        "It consists of separate loops that do not connect back to the same battery.",
+        "It requires a ground connection to allow current to flow out of the loop into the earth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "An ammeter is placed in a series circuit to measure current. What is a key design feature of a practical ammeter?",
+      "options": [
+        "It has a high resistance to force the current to increase in speed as it passes through.",
+        "It consumes most of the circuit's energy to display the reading on its screen.",
+        "It measures the current flowing through it without affecting the current in the circuit it is connected into.",
+        "It acts as an additional battery to boost the flow of charge around the loop."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A student measures a current of 0.4 A entering a resistor in a single-loop series circuit. What is the current leaving a bulb that is connected further along the same loop?",
+      "options": [
+        "0.2 A, because the resistor and bulb share the current equally.",
+        "0.0 A, because the current is completely used up by the bulb to produce light.",
+        "0.4 A, because the current in a series circuit is the same everywhere.",
+        "0.8 A, because the battery pushes harder as the current gets closer to it."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "If a second bulb is added in series to a circuit that already has one bulb lit, what is the effect on the electrical current?",
+      "options": [
+        "The current decreases only in the section of wire after the second bulb.",
+        "The current increases on both sides of the original bulb to compensate for the new load.",
+        "The current remains exactly the same because the battery is the sole source of current.",
+        "The current changes everywhere in the circuit, on both sides of the newly added component."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How must a voltmeter be connected to measure the potential difference across a bulb in a series circuit?",
+      "options": [
+        "It must be connected in series, breaking the circuit loop to let current flow through it.",
+        "It must be connected across the terminals of the bulb, in parallel with it.",
+        "It must be connected directly between the positive terminal of the battery and the switch.",
+        "It must be connected to the metal casing of the battery only."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A student notices that a rubbed plastic ruler can attract small pieces of paper from several centimeters away without touching them. What does this demonstrate about the electrostatic force?",
+      "options": [
+        "It only works when the objects are made of the exact same material.",
+        "The electrostatic force acts at a distance without requiring physical contact.",
+        "It is a contact force that only activates once the objects touch.",
+        "It requires air currents to carry the electrical charges between the objects."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "An object with a positive static charge is brought close to an object with a negative static charge. How do these two objects interact?",
+      "options": [
+        "They repel each other because they both have static charges.",
+        "They exert no force on each other because they are oppositely charged.",
+        "They attract each other because objects with opposite electric charges attract.",
+        "They will continuously rotate around each other without getting closer."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "If two balloons are both rubbed with the same wool cloth, they both acquire a negative static charge. What happens when they are brought close together?",
+      "options": [
+        "They attract each other because they have both been rubbed by the same cloth.",
+        "They repel each other because objects with the same electric charge repel each other.",
+        "They neutralize each other instantly and fall straight down.",
+        "They display no force because they are both made of insulating rubber."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "Which particles within an atom carry a negative electric charge and are responsible for static electrical effects?",
+      "options": [
+        "Protons",
+        "Neutrons",
+        "Electrons",
+        "Nuclei"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "When a plastic rod is rubbed with a cloth, the rod becomes negatively charged. What actually happens during this charging process?",
+      "options": [
+        "Protons are created on the surface of the plastic rod by the heat of friction.",
+        "Electrons are transferred from the cloth to the plastic rod.",
+        "The atoms in the plastic rod are converted entirely into negative charges.",
+        "Positive charges flow out of the rod and escape into the surrounding air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "Why is it very difficult to charge an iron rod by holding it in your hand and rubbing it with a woolen cloth?",
+      "options": [
+        "Iron does not contain any electrons or protons to be charged.",
+        "Metals are difficult to charge because electric charge flows through them, preventing charge from building up.",
+        "The friction between wool and metal always destroys the existing charges.",
+        "Metals can only hold positive charges, which are easily repelled by the air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "When measuring the voltage across a bulb in a circuit, what physical quantity are you actually determining?",
+      "options": [
+        "The total volume of electric charge that has accumulated inside the bulb's filament.",
+        "The speed at which electrons are entering the positive terminal of the bulb.",
+        "The size of the 'push' that is moving electric current through that bulb.",
+        "The magnetic field strength produced by the wire connections of the bulb."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
     }
   ]
 }
