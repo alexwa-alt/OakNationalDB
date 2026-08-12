@@ -1,0 +1,226 @@
+{
+  "unitKey": "4Plant nutrition and photosynthesisBiology",
+  "generatedAt": "2026-08-12T06:18:59.649179+00:00",
+  "questions": [
+    {
+      "question": "A student examines a plant cell under a microscope and identifies small, green structures within the cytoplasm. What are these structures, and in which part of the plant are they most abundant?",
+      "options": [
+        "Mitochondria, found mostly in the root cells",
+        "Chloroplasts, found mostly in the leaf cells",
+        "Vacuoles, found mostly in the stem cells",
+        "Ribosomes, found mostly in the flower cells"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If a chemical inhibitor specifically blocks all metabolic activity within the chloroplasts of a plant cell, which of the following cellular processes will directly stop first?",
+      "options": [
+        "Active transport of mineral ions",
+        "Cellular respiration using glucose",
+        "Synthesis of proteins on ribosomes",
+        "The process of photosynthesis"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Some mutant plants have pale yellow leaves because they lack the pigment chlorophyll inside their chloroplasts. What primary difficulty will these plants experience?",
+      "options": [
+        "They will be unable to absorb water from the soil.",
+        "They will be unable to absorb light energy needed for photosynthesis.",
+        "They will be unable to release carbon dioxide into the air.",
+        "They will be unable to transport sugar to their roots."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How does the thinness of a typical deciduous plant leaf directly facilitate the process of photosynthesis?",
+      "options": [
+        "It allows light to penetrate all the way through to the cells containing chloroplasts.",
+        "It prevents water from evaporating too quickly from the upper surface.",
+        "It provides mechanical flexibility to prevent the leaf from snapping in the wind.",
+        "It maximizes the storage space for excess starch within the leaf."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Lily pads float flat on the surface of a pond and have very broad, wide leaves. What is the main evolutionary advantage of this large surface area?",
+      "options": [
+        "To maximize the absorption of light for photosynthesis",
+        "To increase the rate of water absorption from the pond",
+        "To allow the plant to float more easily on the water surface",
+        "To prevent herbivorous fish from eating the leaf tissue"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A scientist seals a healthy green plant in a glass jar under bright light. After several hours, the concentration of carbon dioxide inside the jar decreases significantly. What is the reason for this change?",
+      "options": [
+        "The plant is releasing carbon dioxide as a waste product of photosynthesis.",
+        "The plant is taking in carbon dioxide from the air to use in photosynthesis.",
+        "Carbon dioxide is condensing into liquid water on the leaves.",
+        "The plant is converting carbon dioxide into mineral salts in the soil."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "During an experiment, bubbles of gas are seen escaping from the leaves of an underwater Elodea plant exposed to light. What gas is being released, and what is its source?",
+      "options": [
+        "Carbon dioxide, produced as a waste product of respiration",
+        "Oxygen, produced during photosynthesis and released into the surroundings",
+        "Nitrogen, absorbed by the roots and excreted through the leaves",
+        "Water vapor, produced by transpiration from the leaf surface"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "In plants, carbon dioxide enters the leaf while oxygen and water vapor exit. What is the scientific term used to describe this dual process of gases moving in and out of the leaf?",
+      "options": [
+        "Osmosis",
+        "Translocation",
+        "Gas exchange",
+        "Respiration"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "If a researcher applies a thick, impermeable layer of petroleum jelly to the underside of a leaf where most of the small holes called stomata are located, what will be the immediate effect on the plant?",
+      "options": [
+        "Gas exchange will be severely restricted, reducing photosynthesis.",
+        "The leaf will absorb more light energy because of the shiny surface.",
+        "The roots will stop taking up water due to increased pressure.",
+        "The plant will produce more glucose to compensate for the sealed holes."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "By what physical mechanism do carbon dioxide molecules move from an area of higher concentration in the atmosphere into the lower concentration inside an open stoma of a leaf?",
+      "options": [
+        "Active transport requiring cellular energy",
+        "Diffusion, where molecules move randomly down a concentration gradient",
+        "Osmosis through a semi-permeable membrane",
+        "Capillary action driven by water surface tension"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "In a terrestrial food web, oak trees are classified as producers. What biological characteristic defines them as producers?",
+      "options": [
+        "They consume decomposing organic matter from the soil.",
+        "They make their own food using the process of photosynthesis.",
+        "They rely on insects to provide them with essential sugars.",
+        "They absorb organic food molecules directly through their bark."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A farmer moves potted tomato plants into a completely dark shed for several days. What will happen to the process of photosynthesis during this time?",
+      "options": [
+        "It will continue at the same rate using heat energy from the shed.",
+        "It will switch to using soil nutrients instead of atmospheric gases.",
+        "It will stop completely because photosynthesis can only happen in the presence of light.",
+        "It will speed up because the plants do not have to contend with UV radiation."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of the following statements best describes the nature of photosynthesis inside a plant cell?",
+      "options": [
+        "It is a single, instantaneous physical change that occurs on the leaf surface.",
+        "It is a series of chemical reactions that take place inside specific plant cells.",
+        "It is a passive physical filtration process that cleans the air.",
+        "It is a purely mechanical process of water transport driven by evaporation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "If you were to group the substances involved in photosynthesis into starting materials (reactants) and resulting substances (products), which group is correct?",
+      "options": [
+        "Reactants: oxygen and glucose; Products: water and carbon dioxide",
+        "Reactants: water and glucose; Products: carbon dioxide and oxygen",
+        "Reactants: water and carbon dioxide; Products: oxygen and glucose",
+        "Reactants: carbon dioxide and oxygen; Products: water and glucose"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "We often write 'carbon dioxide + water -> glucose + oxygen' to describe photosynthesis. Why is this word equation considered a scientific 'model'?",
+      "options": [
+        "It is a simplified word summary representing a complex series of many chemical reactions.",
+        "It is an exact, physical replica of a chloroplast that can be viewed under a microscope.",
+        "It is a hypothetical guess that has not yet been proven by experiments.",
+        "It lists only the toxic waste products that the plant must get rid of."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A student grows four identical plants under different conditions. Plant A gets light, air, water, and minerals. Plant B gets no light. Plant C gets no water. Plant D gets no air. Which plant is most likely to survive and grow healthy over a long period?",
+      "options": [
+        "Plant B, because darkness stimulates root growth.",
+        "Plant C, because plants can make their own water from gases.",
+        "Plant A, because plants need light, air, water, and minerals to stay alive.",
+        "Plant D, because plants only need soil minerals to grow."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How do the different parts of a plant cooperate to obtain the necessary resources for survival?",
+      "options": [
+        "Roots take in light and water, while leaves take in minerals and gases.",
+        "Leaves take in light and gases from the air, while roots take in water and minerals from the soil.",
+        "Leaves take in minerals and water, while roots absorb light from the darkness of the soil.",
+        "Both leaves and roots can absorb light, air, water, and minerals equally."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why can we not classify the water and dissolved minerals absorbed by a plant's roots as 'food' for the plant?",
+      "options": [
+        "Because water and minerals are not organic nutrients that provide energy, yet plants still need food to survive and grow.",
+        "Because plants only use water and minerals to anchor themselves in the soil.",
+        "Because water and minerals are toxic to plants in large quantities.",
+        "Because plants convert water and minerals directly into carbon dioxide."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Unlike animals, which must eat other organisms, how do green plants obtain their food?",
+      "options": [
+        "They absorb pre-made sugar molecules directly from the surrounding soil.",
+        "They are producers that make their own food rather than taking it in from their surroundings.",
+        "They capture and ingest microscopic insects through microscopic pores in their roots.",
+        "They absorb organic humus from decaying leaf litter through their leaves."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Once a plant has successfully performed photosynthesis, what is the nature and purpose of the food it has produced?",
+      "options": [
+        "It is a mineral salt used to increase water absorption in the roots.",
+        "It is a carbohydrate, which the plant uses for growth and as a source of energy.",
+        "It is a gaseous oxygen molecule used to repel herbivorous pests.",
+        "It is a protein used exclusively to form the outer waxy cuticle of the leaf."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    }
+  ]
+}

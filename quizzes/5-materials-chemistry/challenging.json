@@ -1,0 +1,226 @@
+{
+  "unitKey": "5MaterialsChemistry",
+  "generatedAt": "2026-08-12T06:19:03.626477+00:00",
+  "questions": [
+    {
+      "question": "A student measures the mass of a black powder before adding it to hydrogen peroxide. After the reaction, she filters, dries, and weighs the powder again. If the powder acted as a catalyst, what will she observe?",
+      "options": [
+        "The mass of the powder has decreased because it was consumed to speed up the reaction.",
+        "The mass of the powder remains the same, but its chemical properties have permanently changed.",
+        "The mass of the powder remains the same, and its chemical identity is unchanged.",
+        "The mass of the powder has increased because it bonded with the hydrogen peroxide."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In a school lab, manganese dioxide is used to speed up the decomposition of hydrogen peroxide. However, when the same powder is added to a reaction between zinc and hydrochloric acid, the rate of reaction does not change. Why is this?",
+      "options": [
+        "Zinc is too unreactive to be affected by any catalyst.",
+        "Catalysts are specific to particular reactions, so manganese dioxide cannot speed up the zinc-acid reaction.",
+        "The zinc-acid reaction produces hydrogen gas, which deactivates all catalysts.",
+        "Manganese dioxide only works at temperatures above 100 degrees Celsius."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Amylase is a protein found in human saliva that breaks down starch into sugars. If amylase is boiled before being mixed with starch, the starch is not broken down. What does this tell us about amylase?",
+      "options": [
+        "Boiling converts amylase from a biological catalyst into a non-biological catalyst.",
+        "Amylase is an enzyme whose structure is altered by high heat, stopping it from catalysing the reaction.",
+        "Amylase is a non-biological catalyst that only works when cooled down below freezing.",
+        "Boiling increases the activation energy of the starch, making it impossible to break down."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Metal X is placed into a blue solution of metal Y sulfate. After a few minutes, a reddish-brown solid forms on metal X, and the blue color of the solution begins to fade. Which statement correctly explains this observation?",
+      "options": [
+        "Metal Y is more reactive than metal X and has displaced it from the solution.",
+        "Metal X is more reactive than metal Y and has displaced it from its salt solution.",
+        "Both metals are of equal reactivity, causing them to form a new alloy in the solution.",
+        "Metal X has dissolved, and metal Y has evaporated from the solution."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When grey magnesium ribbon is added to a blue solution of copper sulfate, a reaction occurs. Which of the following describes the correct observations and chemical changes for this reaction?",
+      "options": [
+        "The solution turns dark blue, and a grey solid is deposited as copper displaces magnesium.",
+        "The solution remains blue, and bubbles of hydrogen gas are the only product.",
+        "The blue solution fades to colorless, and a brown solid of copper is formed.",
+        "The magnesium ribbon melts, and a green solution of copper sulfate remains unchanged."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A scientist wants to determine the relative reactivity of three metals: Lead, Iron, and Silver. Which experimental method would provide the most direct evidence to order these metals in a reactivity series?",
+      "options": [
+        "Measuring the electrical conductivity of each metal in its solid state.",
+        "Placing each metal into solutions of the other metals' nitrate salts to observe if displacement occurs.",
+        "Heating each metal in a vacuum to see which one melts at the lowest temperature.",
+        "Comparing the density of each metal by measuring their mass and volume."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why is a rock containing iron compounds considered an iron \"ore\" only if the iron can be extracted from it economically?",
+      "options": [
+        "All rocks on Earth contain iron, but only those that are magnetic are called ores.",
+        "An ore is defined as a rock containing a high enough concentration of a metal compound to make extraction viable.",
+        "An ore must contain pure, uncombined iron metal that can be physically shaken out of the rock.",
+        "Rocks are only called ores if they contain metals that are more reactive than carbon."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Copper can be extracted from copper oxide by heating it with carbon powder, but aluminium cannot be extracted from aluminium oxide using carbon. What is the reason for this difference?",
+      "options": [
+        "Aluminium is more reactive than carbon, so carbon cannot displace it; copper is less reactive than carbon, so carbon can displace it.",
+        "Copper oxide is a gas at room temperature, while aluminium oxide is a liquid.",
+        "Carbon is a metal that can only displace other metals that have a higher melting point than itself.",
+        "Aluminium oxide does not contain oxygen, so carbon cannot react with it."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Copper is widely used to make both electrical wiring and cooking pans. Which pair of physical properties makes copper suitable for both of these specific applications?",
+      "options": [
+        "It is low density and brittle.",
+        "It is a good electrical conductor and a good thermal conductor.",
+        "It is highly reactive with water and has a dull appearance.",
+        "It is an insulator of heat but conducts electricity very well."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Clay is a soft, moldable material when wet, but after being fired in a high-temperature kiln, it becomes a hard ceramic vase. Which of the following describes a key property of the finished ceramic vase?",
+      "options": [
+        "It is highly flexible and can be easily bent without breaking.",
+        "It is hard but brittle, meaning it will crack or shatter easily under a sharp impact.",
+        "It is an excellent electrical conductor that can be used for wiring.",
+        "It reverts back to a soft, moldable clay as soon as water is added to it."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Polyethene is used to make flexible plastic bags, while poly(tetrafluoroethene) or PTFE is used as a non-stick coating on frying pans. What does this diversity of applications demonstrate about plastics?",
+      "options": [
+        "All plastics have identical properties because they are made of the same chemical element.",
+        "Plastics are made of polymers, and different polymer structures result in materials with widely different properties.",
+        "Non-stick plastics are natural polymers, while flexible plastics are always metals.",
+        "Plastics can easily be converted into ceramics by heating them in a domestic oven."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Pure gold is very soft and easily scratched, so jewellers often mix it with small amounts of silver and copper to make 9-carat gold. What type of material is 9-carat gold?",
+      "options": [
+        "A pure elemental metal",
+        "A composite material made of polymers",
+        "An alloy, which is a mixture of elements containing at least one metal",
+        "A ceramic compound formed by heating clay"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Carbon-fibre reinforced plastic (CFRP) consists of thin carbon fibres embedded within a plastic matrix. Why is CFRP used in high-performance racing cars instead of using plastic or carbon alone?",
+      "options": [
+        "Combining them creates a composite material that is both extremely strong and lightweight, improving on the individual properties.",
+        "The plastic chemically reacts with the carbon to create a completely new, pure metal.",
+        "It makes the car much heavier, which increases the grip of the tyres on the track.",
+        "The carbon fibres melt into the plastic to make a highly flexible ceramic."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of the following statements best describes the chemical structure and formation of a polymer?",
+      "options": [
+        "It is a giant metallic lattice formed by sharing delocalised electrons.",
+        "It consists of small, independent gas molecules that repel each other.",
+        "It is made of small molecules called monomers that link together to form very long chains of atoms.",
+        "It is a mixture of clay and sand that has been fired at high temperatures."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Kevlar is a polymer used in bulletproof vests that does not melt or decompose until it reaches temperatures above 450 degrees Celsius. Why do some polymers like Kevlar have such high melting points?",
+      "options": [
+        "Their polymer chains are very short, allowing them to slide around freely.",
+        "They are made of single metal atoms held together by weak electrostatic forces.",
+        "Strong forces of attraction exist between their long polymer molecules, making them very hard to separate.",
+        "They contain large amounts of water trapped inside their structure which cools them down."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A student classifies starch, DNA, and proteins as polymers. Her classmate claims that polymers can only be man-made in factories. Who is correct, and why?",
+      "options": [
+        "The classmate, because all natural substances are classified as ceramics or metals.",
+        "The student, because polymers can exist naturally (like starch and proteins) as well as being made synthetically.",
+        "Neither, because starch, DNA, and proteins are simple monomers, not polymers.",
+        "The student, because synthetic polymers like polyethene are the only true polymers."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Pure polyvinyl chloride (PVC) is a rigid, stiff plastic used for water pipes. However, when a substance called a plasticiser is added, PVC becomes flexible enough to make artificial leather. How does the plasticiser achieve this change?",
+      "options": [
+        "It chemically bonds the PVC chains together so tightly that they cannot move.",
+        "It gets between the polymer molecules, reducing the attraction between them and allowing them to slide past each other more easily.",
+        "It dissolves the polymer chains, turning the plastic into a permanent liquid.",
+        "It converts the polymer chains into rigid metal atoms."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Vulcanised rubber, which contains sulfur cross-links between the polymer chains, is much harder and less flexible than natural rubber. Why do these cross-links change the properties of the rubber?",
+      "options": [
+        "They allow the polymer chains to slide past each other much more easily.",
+        "They chemically bind the polymer chains together, preventing them from moving freely relative to one another.",
+        "They break the long polymer chains down into small, volatile monomer gas molecules.",
+        "They coat the rubber in a layer of slippery grease that prevents friction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "When a piece of magnesium ribbon is dropped into a beaker of dilute hydrochloric acid, rapid bubbling is observed. If the gas produced is collected and tested with a burning splint, it makes a 'squeaky pop'. What are the products of this reaction?",
+      "options": [
+        "Magnesium chloride and oxygen gas",
+        "Magnesium chloride and hydrogen gas",
+        "Magnesium hydroxide and chlorine gas",
+        "Magnesium oxide and carbon dioxide gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "When a small piece of sodium metal is added to water, it fizzes rapidly, melts into a ball, and moves across the surface. The resulting solution turns universal indicator purple. Which products are responsible for these observations?",
+      "options": [
+        "Sodium oxide and oxygen gas",
+        "Sodium chloride and chlorine gas",
+        "Sodium hydroxide (making the solution alkaline) and hydrogen gas (causing the fizzing)",
+        "Sodium sulfate and carbon dioxide gas"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    }
+  ]
+}
