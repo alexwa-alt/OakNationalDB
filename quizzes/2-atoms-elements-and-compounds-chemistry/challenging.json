@@ -1,0 +1,226 @@
+{
+  "unitKey": "2Atoms, elements and compoundsChemistry",
+  "generatedAt": "2026-08-12T06:16:33.014738+00:00",
+  "questions": [
+    {
+      "question": "During a reaction, methane gas burns in oxygen to form carbon dioxide and water. If we analyze the atoms before and after the reaction, what must be true about the total collection of atoms?",
+      "options": [
+        "There are more oxygen atoms after the reaction because combustion adds oxygen.",
+        "Some carbon atoms are converted into oxygen and hydrogen atoms during the heating process.",
+        "The total number and identity of each atom remain exactly the same, but they have rearranged.",
+        "The total mass decreases because some of the atoms are destroyed to release heat."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "When hydrogen gas reacts with oxygen gas to form liquid water, which of the following describes what happens to the bonding of the atoms?",
+      "options": [
+        "The atoms change their internal structures to become different elements that do not require bonds.",
+        "The bonds between hydrogen atoms and between oxygen atoms break, and new bonds form between hydrogen and oxygen atoms.",
+        "The existing bonds in the hydrogen and oxygen molecules are strengthened without breaking.",
+        "The hydrogen and oxygen atoms mix physically but do not change how they are bonded to each other."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "If a scientist in the 19th century used John Dalton's model of the atom to describe a sample of gold, how would they picture each individual gold atom?",
+      "options": [
+        "As a tiny, solid sphere that cannot be split into smaller pieces.",
+        "As a central positive nucleus surrounded by orbiting negative electrons.",
+        "As a cloud of positive charge with negative electrons scattered throughout like raisins.",
+        "As a hollow shell that can easily be broken open to release subatomic particles."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A cylinder contains a gas. Analysis shows that every single atom in the cylinder has 8 protons in its nucleus. What can you conclude about the contents of the cylinder?",
+      "options": [
+        "It contains a compound made of identical atoms.",
+        "It contains a mixture of different elements with the same mass.",
+        "It contains a single chemically pure element.",
+        "It contains a metalloid substance that has decomposed."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "The formula for sulfuric acid is H2SO4. What specific information does this formula provide about the types of elements present in this substance?",
+      "options": [
+        "It contains hydrogen, sodium, and oxygen.",
+        "It contains hydrogen, sulfur, and oxygen.",
+        "It contains helium, sulfur, and osmium.",
+        "It contains hydrogen, selenium, and oxygen."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A molecule of phosphoric acid has the chemical formula H3PO4. If you have two molecules of phosphoric acid, what is the total number of oxygen (O) atoms present?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "16"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Carbon monoxide (CO) is a toxic, odorless gas, while carbon dioxide (CO2) is a gas we exhale that is used by plants. How do these two compounds compare in terms of their composition?",
+      "options": [
+        "They contain different elements but in the exact same ratio.",
+        "They contain the same elements, but in carbon dioxide, the ratio of carbon to oxygen is 1:2, whereas in carbon monoxide it is 1:1.",
+        "They contain the same elements in the same ratio, but their atoms are arranged in different shapes.",
+        "Carbon monoxide is an element, while carbon dioxide is a compound containing carbon and oxygen."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Copper is a reddish-brown, highly ductile metal that conducts electricity exceptionally well. Why can we not find another element in the periodic table with these exact same physical and chemical properties?",
+      "options": [
+        "Every element has its own distinct set of properties that differ from all other elements.",
+        "Elements in the same column share identical physical and chemical properties.",
+        "Copper's properties are temporary and change into those of zinc when heated.",
+        "Elements only show distinct properties when they are converted into compounds."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Silicon is shiny and looks like a metal, but it is brittle and is only a moderate conductor of electricity (a semiconductor). How should silicon be classified?",
+      "options": [
+        "As a typical alkali metal.",
+        "As a transition metal.",
+        "As a metalloid.",
+        "As a noble gas."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Iron filings and sulfur powder are mixed together in a beaker at room temperature. A magnet is brought close, and it easily pulls the iron filings out of the mixture. The mixture is then heated strongly until it glows, forming iron sulfide. Why can the magnet no longer pull the iron out after heating?",
+      "options": [
+        "The heat has destroyed the magnetic properties of the iron permanently.",
+        "A compound has formed where iron and sulfur are now chemically bonded, creating a new substance.",
+        "The sulfur has melted and coated the iron, blocking the magnetic field.",
+        "The iron has evaporated during the heating process, leaving only sulfur."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Sodium is a highly reactive metal that explodes in water, and chlorine is a toxic green gas. When they react, they form sodium chloride (table salt), which we eat. Which concept explains this dramatic change?",
+      "options": [
+        "A compound always retains the average properties of the elements that form it.",
+        "A compound can have entirely different properties from the elements it is made from.",
+        "Sodium and chlorine atoms are destroyed to create salt atoms.",
+        "The elements have simply been diluted by water, making them safe."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "An engineer is looking for a material to make electrical wiring that needs to be bent into tight loops without breaking, and must also transfer heat away quickly. What class of material should they choose?",
+      "options": [
+        "A non-metal, because it is brittle and non-conductive.",
+        "A noble gas, because it is unreactive and stable.",
+        "A metal, because it is malleable, ductile, and a good conductor of electricity and heat.",
+        "A metalloid, because it acts as an electrical insulator under all conditions."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Most non-metals are poor conductors of electricity. However, a specific form of carbon called graphite is used to make electrodes in batteries. Why is graphite unusual for a non-metal?",
+      "options": [
+        "It is a non-metal that is a good conductor of electricity and heat.",
+        "It is a metal that behaves like a non-metal when cold.",
+        "It is a liquid at room temperature that conducts electricity.",
+        "It is extremely ductile and can be drawn into wires like copper."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "If you are looking at the periodic table, where would you expect to find the elements that are typically shiny, malleable, and good conductors of heat, compared to those that are dull, brittle, and poor conductors?",
+      "options": [
+        "Shiny conductors are on the right side; dull insulators are on the left side and middle.",
+        "Shiny conductors are in the middle and left side; dull insulators are on the right side.",
+        "Both types are scattered randomly across all columns of the periodic table.",
+        "Shiny conductors are only in the top row; dull insulators are only in the bottom row."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Oxygen gas in our atmosphere does not exist as single, isolated atoms, but as pairs of oxygen atoms bonded together (O2). What term describes this type of molecule?",
+      "options": [
+        "Monatomic molecule",
+        "Diatomic molecule",
+        "Triatomic compound",
+        "Ionic crystal lattice"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "When magnesium metal burns in oxygen gas, a white powder is formed. What is the correct name of this new simple metal-non-metal compound, and what does the ending indicate?",
+      "options": [
+        "Magnesium oxygen, indicating they are mixed.",
+        "Magnesium oxygenate, indicating they are dissolved.",
+        "Magnesium oxide, indicating that chemical bonding has occurred.",
+        "Magnesium sulfate, indicating that sulfur was added."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A student heats a green powder, and it releases carbon dioxide gas, leaving a black copper oxide residue. The original green powder was copper carbonate. Which group of atoms must have been bonded to copper in this compound?",
+      "options": [
+        "-SO4",
+        "-NO3",
+        "-CO3",
+        "-Cl"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "You are analyzing a white crystalline substance in the lab. Chemical tests show it contains copper atoms bonded to -SO4 groups. What is the correct name of this compound?",
+      "options": [
+        "Copper carbonate",
+        "Copper nitrate",
+        "Copper sulfate",
+        "Copper sulfide"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A scientist has two unlabeled liquid samples. Sample A boils at exactly 100 degrees Celsius and freezes at 0 degrees Celsius consistently. Sample B boils gradually between 80 and 95 degrees Celsius. What can you infer about the purity of Sample A compared to Sample B?",
+      "options": [
+        "Sample A is a mixture because it has a single fixed boiling point, while Sample B is an element.",
+        "Sample A behaves like a pure substance because each element has a fixed melting and boiling point, while Sample B is a mixture.",
+        "Both samples are pure elements because elements do not have specific melting or boiling points.",
+        "Sample B is a pure element because its boiling point changes depending on the volume."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Helium gas consists of individual, isolated helium atoms. When we observe a balloon filled with helium, we notice it has a low density and does not conduct electricity. How do these physical properties of helium gas compare to a single helium atom?",
+      "options": [
+        "A single helium atom has the exact same density and state of matter (gas) as a large group of them.",
+        "The physical properties of a bulk element are only exhibited by groups of atoms, and are different from the properties of a single atom.",
+        "A single helium atom is a gas at room temperature, but a balloon of helium is a solid.",
+        "Individual atoms have no chemical identity until they form a visible bulk sample."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    }
+  ]
+}

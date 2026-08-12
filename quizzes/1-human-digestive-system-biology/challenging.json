@@ -1,0 +1,226 @@
+{
+  "unitKey": "1Human digestive systemBiology",
+  "generatedAt": "2026-08-12T06:16:31.174088+00:00",
+  "questions": [
+    {
+      "question": "Why must large molecules like proteins and fats be broken down during digestion?",
+      "options": [
+        "Because cells can only use them if they are split into smaller molecules first.",
+        "To allow them to be absorbed through the gut wall into the body.",
+        "To prevent them from being attacked by helpful bacteria in the stomach.",
+        "To make sure they can dissolve in the water inside the mouth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Once nutrients are absorbed into the blood, what is their primary destination and purpose?",
+      "options": [
+        "They are stored permanently in the blood vessels to keep the blood thick.",
+        "They are transported around the body to cells that need them.",
+        "They are carried directly to the kidneys to be filtered out of the body immediately.",
+        "They are taken to the lungs to be mixed with oxygen before entering any cells."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Some nutrients can move from the small intestine into the blood by diffusion. Which statement best describes how this happens?",
+      "options": [
+        "Particles move from an area of lower concentration in the intestine to a higher concentration in the blood, requiring energy.",
+        "Particles are actively pumped through specialized valves in the intestine wall.",
+        "Particles move from an area of higher concentration in the intestine to a lower concentration in the blood.",
+        "Particles are carried by water currents through large pores without any concentration difference."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following describes how the lining of the small intestine is adapted to maximize the absorption of nutrients?",
+      "options": [
+        "It is perfectly smooth and thick to prevent nutrients from escaping too quickly.",
+        "It has a very large surface area due to finger-like projections called villi.",
+        "It is covered in a thick layer of acid-resistant mucus that slows down digestion.",
+        "It is extremely short, allowing food to pass through as quickly as possible."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which of the following is the most accurate description of a bacterium?",
+      "options": [
+        "A non-living particle made of proteins and genetic material.",
+        "A multicellular organism that lacks a true cellular structure.",
+        "A microorganism made of a single living cell.",
+        "A specialized human cell designed to fight off infections."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which statement best represents the diversity of bacteria in relation to human health?",
+      "options": [
+        "All bacteria are pathogens that cause harmful infectious diseases.",
+        "Some bacteria cause disease, but many are harmless and some are actually helpful.",
+        "Bacteria are only helpful to humans and never cause any kind of illness.",
+        "Bacteria only become harmful when they are inside the stomach acid."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Where in the human body would you find a large population of helpful bacteria that assist with digestion?",
+      "options": [
+        "Inside the salivary glands in the mouth.",
+        "Inside the human digestive system.",
+        "Inside the windpipe and lungs.",
+        "On the dry outer surface of the teeth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How do the helpful bacteria living in our digestive system assist in digesting foods that we cannot digest ourselves?",
+      "options": [
+        "They physically grind the food into smaller pieces using cellular teeth.",
+        "They release enzymes that break down these complex food molecules.",
+        "They absorb the food whole and carry it directly into our bloodstream.",
+        "They produce acid that dissolves the food instantly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "In what way do helpful gut bacteria protect us against harmful pathogens that enter our digestive system?",
+      "options": [
+        "They produce antibodies that destroy all foreign cells.",
+        "They build physical walls around the pathogens to trap them.",
+        "They compete against the pathogens for resources and space.",
+        "They signal the brain to raise the body's temperature immediately."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Compare mechanical and chemical digestion. Which of the following correctly describes a difference between them?",
+      "options": [
+        "Mechanical digestion only occurs in the stomach, while chemical digestion only occurs in the mouth.",
+        "Mechanical digestion physically breaks food into smaller pieces, whereas chemical digestion uses enzymes to break chemical bonds.",
+        "Mechanical digestion turns food into completely new substances, while chemical digestion only changes its shape.",
+        "Chemical digestion is carried out by muscles, while mechanical digestion is carried out by hormones."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What are the three main groups of molecules that make up the food we eat?",
+      "options": [
+        "Minerals, vitamins, and water.",
+        "Carbohydrates, proteins, and fats.",
+        "Sugars, starches, and fiber.",
+        "Enzymes, acids, and saliva."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What is the primary role of enzymes during the chemical digestion of carbohydrates, proteins, and fats?",
+      "options": [
+        "They act as fuel to provide energy for the digestive organs.",
+        "They act as biological catalysts to speed up the breakdown of these molecules.",
+        "They physically squeeze the food to break it into smaller parts.",
+        "They lower the temperature of the stomach to prevent burning."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "According to the digestive processes of the body, what are proteins and fats broken down into, respectively?",
+      "options": [
+        "Sugars and starch.",
+        "Fatty acids/glycerol and amino acids.",
+        "Amino acids and fatty acids/glycerol.",
+        "Carbohydrates and proteins."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A student wants to test a food sample to see if it contains starch (a large carbohydrate molecule). Which chemical reagent should they use?",
+      "options": [
+        "Benedict's solution.",
+        "Iodine solution.",
+        "Biuret reagent.",
+        "Ethanol."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "To test for the presence of simple sugars (small molecules) resulting from the breakdown of starch, which reagent and condition should be used?",
+      "options": [
+        "Iodine solution at room temperature.",
+        "Benedict's solution with heating.",
+        "Biuret reagent with shaking.",
+        "Ethanol mixed with cold water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "During a food test experiment, a student adds Biuret reagent to a liquid food sample and observes a color change from blue to lilac/purple. What does this result indicate?",
+      "options": [
+        "The food sample contains a high amount of starch.",
+        "The food sample contains protein.",
+        "The food sample contains simple sugars.",
+        "The food sample contains lipids/fats."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which of the following represents the correct sequence of major organs that food passes through after it is swallowed?",
+      "options": [
+        "Oesophagus -> Stomach -> Small Intestine -> Large Intestine.",
+        "Stomach -> Oesophagus -> Large Intestine -> Small Intestine.",
+        "Oesophagus -> Small Intestine -> Stomach -> Large Intestine.",
+        "Stomach -> Small Intestine -> Oesophagus -> Large Intestine."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How is the stomach specifically adapted to carry out its function in the digestive system?",
+      "options": [
+        "It has thin, transparent walls to let light in for chemical reactions.",
+        "It has a muscular wall to churn food and produces acid and enzymes to break down food.",
+        "It is lined with villi to absorb the majority of digested nutrients into the blood.",
+        "It produces bile to neutralize acid before the food enters the mouth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What happens to the parts of the food we eat that cannot be digested by our enzymes or bacteria?",
+      "options": [
+        "They are absorbed into the blood and filtered out by the lungs.",
+        "They are converted into liquid urine in the kidneys.",
+        "They are passed out of the body as faeces.",
+        "They remain in the stomach permanently to help digest future food."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A student adds iodine solution to a piece of bread and it turns blue-black. They also heat a sample of milk with Benedict's solution and it remains blue. What can be concluded about the bread and milk?",
+      "options": [
+        "The bread contains starch, and the milk does not contain detectable reducing sugars.",
+        "The bread contains protein, and the milk contains starch.",
+        "The bread has no starch, and the milk has a high sugar content.",
+        "Both the bread and the milk contain large amounts of fat."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    }
+  ]
+}
