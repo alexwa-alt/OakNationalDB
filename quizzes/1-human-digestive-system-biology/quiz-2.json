@@ -1,0 +1,215 @@
+{
+  "unitKey": "1Human digestive systemBiology",
+  "generatedAt": "2026-08-12T05:48:48.058498+00:00",
+  "questions": [
+    {
+      "question": "Why must large food molecules like proteins and fats be broken down during digestion?",
+      "options": [
+        "To turn them into energy before they enter the bloodstream",
+        "To convert them into smaller molecules that can be absorbed by the body",
+        "To allow them to pass directly through the windpipe",
+        "To help them mix with water in the stomach"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Once nutrients are absorbed into the blood, how do they reach the cells that need them?",
+      "options": [
+        "They are stored in the liver and transported only when sleeping",
+        "They travel through the nervous system to the brain",
+        "They are transported around the body by the blood circulatory system",
+        "They move through air pockets in the skeletal system"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "By what process do some small nutrient molecules move from the digestive system into the blood?",
+      "options": [
+        "Active muscular pumping",
+        "Osmosis of proteins",
+        "Diffusion",
+        "Filtration by gravity"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which feature of the small intestine lining is an adaptation that increases the amount of nutrient absorption?",
+      "options": [
+        "Highly folded surface area with tiny projections called villi",
+        "A thick, smooth layer of impermeable fat",
+        "A dry surface that prevents water from entering",
+        "A system of muscular valves that block blood flow"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is a bacterium?",
+      "options": [
+        "A multicellular fungus that feeds on waste",
+        "A microscopic virus that cannot replicate on its own",
+        "A tiny particle made only of protein strands",
+        "A microorganism made of a single living cell"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following statements about bacteria is correct?",
+      "options": [
+        "All bacteria cause disease in humans.",
+        "Bacteria are not living organisms because they lack cells.",
+        "Many bacteria are harmless and some are actually helpful.",
+        "Helpful bacteria only exist outside the human body."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Where do helpful bacteria that assist in human digestion primarily live?",
+      "options": [
+        "Inside the human digestive system",
+        "Inside the lungs and windpipe",
+        "In the acid-filled chamber of the heart",
+        "On the dry outer surface of our nails"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How do helpful bacteria in our digestive system assist in digesting foods that we cannot digest ourselves?",
+      "options": [
+        "They physically chew the food using microscopic teeth.",
+        "They release enzymes that break down these foods.",
+        "They heat up the stomach to dissolve the food.",
+        "They absorb the food whole and carry it to the liver."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How do helpful bacteria protect us from harmful pathogens that enter our digestive system?",
+      "options": [
+        "By producing white blood cells to attack them",
+        "By competing against them for resources and space",
+        "By raising our body temperature to cause a fever",
+        "By physically blocking the entrance to the stomach"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following correctly pairs a digestion type with its description and location?",
+      "options": [
+        "Mechanical digestion involves enzymes and occurs only in the large intestine.",
+        "Chemical digestion involves physically breaking food into smaller pieces in the stomach only.",
+        "Mechanical digestion physically breaks down food (like chewing in the mouth), while chemical digestion uses chemicals/enzymes to break bonds.",
+        "Chemical digestion physically grinds food and occurs only in the esophagus."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What are the three main types of large nutrient molecules that make up our food?",
+      "options": [
+        "Carbohydrates, proteins, and fats",
+        "Vitamins, minerals, and water only",
+        "Sugars, starches, and fiber only",
+        "Enzymes, acids, and hormones"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What is the primary role of enzymes during chemical digestion?",
+      "options": [
+        "They act as biological catalysts to speed up the breakdown of carbohydrates, proteins, and fats.",
+        "They slow down digestion so that nutrients are absorbed over several days.",
+        "They act as structural blocks to build muscle tissue directly in the stomach.",
+        "They line the esophagus to lubricate the passage of dry food."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "According to how enzymes break down nutrients, which of the following is correct?",
+      "options": [
+        "Proteins are digested into fatty acids and glycerol.",
+        "Fats are digested into starch and simple sugars.",
+        "Proteins are digested into amino acids, and fats are digested into fatty acids and glycerol.",
+        "Carbohydrates are digested into amino acids."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which reagent is commonly used to test for the presence of the large carbohydrate starch in food?",
+      "options": [
+        "Biuret solution",
+        "Iodine solution",
+        "Benedict's solution",
+        "Ethanol emulsion"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which chemical reagent and conditions are used to test for smaller sugar molecules resulting from the breakdown of starch?",
+      "options": [
+        "Cold iodine solution",
+        "Benedict's solution heated in a water bath",
+        "Biuret reagent at room temperature",
+        "Acidic ethanol mixed with cold water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A student adds Biuret reagent to a food sample, and the color changes from blue to purple. What does this qualitative result indicate?",
+      "options": [
+        "The food sample contains a high concentration of starch.",
+        "The food sample contains protein.",
+        "The food sample contains simple sugars.",
+        "The food sample contains lipids/fats."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is the correct order of major organs that food passes through after entering the mouth?",
+      "options": [
+        "Mouth -> Stomach -> Esophagus -> Large Intestine -> Small Intestine",
+        "Mouth -> Esophagus -> Stomach -> Small Intestine -> Large Intestine",
+        "Mouth -> Stomach -> Small Intestine -> Esophagus -> Large Intestine",
+        "Mouth -> Esophagus -> Large Intestine -> Small Intestine -> Stomach"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How is the stomach adapted to perform its function in the digestive system?",
+      "options": [
+        "It has a thin, dry lining that absorbs gases directly into the blood.",
+        "It contains muscular walls to churn food and glands that release acid and digestive enzymes.",
+        "It is completely smooth to allow food to slide quickly into the large intestine.",
+        "It contains villi to absorb most of the digested fats."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What happens to food material that cannot be digested as it passes through the digestive tract?",
+      "options": [
+        "It is completely dissolved by stomach acid and exhaled as carbon dioxide.",
+        "It is converted into white blood cells by the liver.",
+        "It is stored permanently in the small intestine.",
+        "It is passed out of the body as faeces."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 18
+    }
+  ]
+}

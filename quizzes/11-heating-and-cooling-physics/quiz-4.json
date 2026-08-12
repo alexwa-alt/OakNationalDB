@@ -1,0 +1,171 @@
+{
+  "unitKey": "11Heating and coolingPhysics",
+  "generatedAt": "2026-08-12T05:48:43.868361+00:00",
+  "questions": [
+    {
+      "question": "If a wooden chair, a metal coin, and a plastic cup are left in a sealed room at 20ºC for several days, what can we say about their temperatures?",
+      "options": [
+        "The metal coin will be colder than the wooden chair and plastic cup.",
+        "The wooden chair will be warmer than the plastic cup and metal coin.",
+        "All three objects will have reached the same temperature of 20ºC.",
+        "Only the plastic cup will reach 20ºC while the others stay at different temperatures."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What happens to the spacing between particles when a liquid is heated?",
+      "options": [
+        "The separation between the particles increases.",
+        "The separation between the particles decreases.",
+        "The particles get closer together while becoming smaller.",
+        "The spacing remains completely unchanged."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why does the metal lid of a glass jar often become easier to unscrew after being placed under hot running water?",
+      "options": [
+        "The hot water causes the metal lid to expand.",
+        "The hot water causes the glass jar to contract.",
+        "The hot water makes the metal particles shrink.",
+        "The hot water dissolves the glue holding the lid."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Under which condition will a cup of boiling hot tea (at 95ºC) transfer energy to the surrounding air at the fastest initial rate?",
+      "options": [
+        "When placed in a warm room at 30ºC.",
+        "When placed in a comfortable room at 20ºC.",
+        "When placed in a cool room at 15ºC.",
+        "When placed in a freezing cold room at 2ºC."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why do different substances of the same mass require different amounts of heating to reach the exact same target temperature?",
+      "options": [
+        "Different substances have different properties, requiring different amounts of heating to reach the same temperature.",
+        "Some substances have particles that never move or vibrate.",
+        "All substances require the exact same amount of heating regardless of their composition.",
+        "Only liquids require heating, while solids reach temperatures automatically."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "If Substance X has a higher specific heat capacity than Substance Y, what does this tell us about 1 kg of each substance at 50ºC?",
+      "options": [
+        "Substance X has more energy in its thermal store than Substance Y.",
+        "Substance Y has more energy in its thermal store than Substance X.",
+        "Both substances have the exact same amount of energy in their thermal stores.",
+        "Substance X has heavier particles than Substance Y."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In which states of matter do the particles move or vibrate in random directions?",
+      "options": [
+        "Only in gases.",
+        "Only in liquids and gases.",
+        "In solids, liquids, and gases.",
+        "Only in solids."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Consider two identical copper blocks: Block A is at 80ºC and Block B is at 30ºC. Which block has more energy in its thermal store?",
+      "options": [
+        "Block B, because its particles are more tightly packed.",
+        "Block A, because it is at a higher temperature.",
+        "Both blocks have the same energy because they are identical in size.",
+        "Neither block has any energy because they are both solids."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Two buckets contain pure water at exactly 40ºC. Bucket 1 contains 10 litres of water and Bucket 2 contains 1 litre of water. Which bucket contains more thermal energy?",
+      "options": [
+        "Bucket 1, because it has more particles.",
+        "Bucket 2, because the particles are more compressed.",
+        "Both have the same thermal energy because they are at the same temperature.",
+        "Neither has thermal energy because 40ºC is too cold."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How must you position your eye to get an accurate reading when using a glass thermometer?",
+      "options": [
+        "Look down at the thermometer from directly above.",
+        "Look up at the thermometer from directly below.",
+        "Ensure your eye is level with the top of the coloured liquid.",
+        "Hold the thermometer at an angle of 45 degrees to your face."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What are the melting point of pure ice and the boiling point of pure water under standard conditions?",
+      "options": [
+        "Melts at 10ºC, boils at 90ºC.",
+        "Melts at 0ºC, boils at 100ºC.",
+        "Melts at -5ºC, boils at 105ºC.",
+        "Melts at 100ºC, boils at 0ºC."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "If you mix 5 litres of boiling hot water with 1 litre of ice-cold water, what will the final temperature be closest to?",
+      "options": [
+        "Exactly halfway between the hot and cold temperatures.",
+        "It will be closer to the temperature of the cold water.",
+        "It will be closer to the temperature of the hot water.",
+        "It will boil instantly and evaporate."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What happens to the particles when a hot metal bolt is placed into a beaker of cold water?",
+      "options": [
+        "Water particles move more quickly, and metal particles move more slowly.",
+        "Water particles move more slowly, and metal particles move more quickly.",
+        "Both water and metal particles begin to move more slowly.",
+        "Both water and metal particles begin to move more quickly."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "When one end of a thermal insulator is heated, what happens to the temperature along the rest of the insulator?",
+      "options": [
+        "It increases very rapidly.",
+        "It increases very slowly.",
+        "It drops immediately to absolute zero.",
+        "It stays completely at 0ºC forever."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Why does a fleece jacket containing trapped pockets of air keep you warm in winter?",
+      "options": [
+        "Trapped air conducts thermal energy away from your body very rapidly.",
+        "Gases are very poor thermal conductors, making trapped air a good insulator.",
+        "Trapped air increases the mass of the jacket, producing its own heat.",
+        "Gases are excellent thermal conductors that attract heat from the environment."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    }
+  ]
+}

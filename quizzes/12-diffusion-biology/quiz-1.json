@@ -1,0 +1,193 @@
+{
+  "unitKey": "12DiffusionBiology",
+  "generatedAt": "2026-08-12T05:48:43.068337+00:00",
+  "questions": [
+    {
+      "question": "What property must a material have for liquid particles to be able to move through it by diffusion?",
+      "options": [
+        "It must be impermeable",
+        "It must be permeable",
+        "It must be magnetic",
+        "It must be completely solid and dense"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When conducting an experiment to observe a liquid diffusing into a jelly cube, what is typically seen over time?",
+      "options": [
+        "The liquid changes color only on the very outer surface and never penetrates deeper",
+        "The liquid moves from the outside into the center of the jelly cube, changing its color",
+        "The jelly cube dissolves instantly and disappears",
+        "The liquid remains completely separate and forms a solid layer around the cube"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How does increasing the temperature affect the rate at which a liquid diffuses into a jelly cube?",
+      "options": [
+        "It slows down the rate of diffusion",
+        "It speeds up the rate of diffusion",
+        "It has no effect whatsoever on the rate of diffusion",
+        "It stops diffusion completely because particles freeze"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If you compare diffusion in a small jelly cube and a large jelly cube, which one will have its center reached by the diffusing liquid first?",
+      "options": [
+        "The small jelly cube, because the liquid has a shorter distance to travel to reach the center",
+        "The large jelly cube, because it has a larger surface area to attract the liquid",
+        "Both cubes will have their centers reached at the exact same time",
+        "Neither cube, because diffusion only occurs on the surface of the jelly"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Using particle theory, why does a higher temperature increase the rate of diffusion of a liquid into a jelly cube?",
+      "options": [
+        "Particles have less energy and move more slowly",
+        "Particles gain energy and move faster, colliding and spreading quicker",
+        "The jelly particles expand and block the pathways",
+        "The liquid particles become larger and heavier"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why can only certain substance particles pass through a selectively-permeable membrane?",
+      "options": [
+        "Only particles that are small enough can fit through the tiny holes in the membrane",
+        "Only particles that are magnetic can pass through the membrane",
+        "Only particles with a negative charge are allowed to pass",
+        "Only water particles are physically capable of movement"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When particles of a substance diffuse through a selectively-permeable membrane, in which direction do they move?",
+      "options": [
+        "Only from the outside to the inside",
+        "Only from the inside to the outside",
+        "In both directions across the membrane",
+        "They do not move through the membrane at all"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "If there is a high concentration of glucose particles outside a selectively-permeable membrane and a low concentration inside, what is the predicted net movement of glucose?",
+      "options": [
+        "Net movement will be out of the membrane",
+        "Net movement will be into the membrane",
+        "There will be no movement of particles at all",
+        "Particles will move out of the membrane until it is empty"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "In an experiment using Visking tubing to represent a selectively-permeable membrane, what would you observe if starch is inside the tubing and water is outside?",
+      "options": [
+        "Starch quickly diffuses out because starch particles are very small",
+        "Starch does not diffuse out because starch particles are too large to pass through the tubing pores",
+        "Water cannot enter the tubing at all",
+        "The tubing completely dissolves in the water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following statements is true regarding cell cytoplasm and the substances within it?",
+      "options": [
+        "They are continuous fluids with no individual particles",
+        "They are made up of tiny particles that are constantly in motion",
+        "They consist only of empty space with no particles",
+        "They are made up of a single, giant, unbreakable particle"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How do small substance particles, like oxygen, move into and out of a cell?",
+      "options": [
+        "By being actively pushed by microscopic cellular pumps",
+        "By diffusing through small holes in the cell membrane",
+        "By dissolving the cell membrane entirely to pass through",
+        "By passing through the cell wall only, ignoring the membrane"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why are some substances, such as large proteins, unable to diffuse into a cell?",
+      "options": [
+        "They are too large to fit through the holes in the cell membrane",
+        "They are rejected by the cell's electrical charge",
+        "They can only move through the cell membrane when it is damaged",
+        "They travel too fast to be caught by the cell membrane"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What makes a cell membrane 'selectively-permeable'?",
+      "options": [
+        "It allows all substances to pass through freely without restriction",
+        "It only allows certain substances to diffuse through it while blocking others",
+        "It is completely impermeable to all substances under any conditions",
+        "It only allows substances to leave the cell but never enter"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is the net movement of particles through a cell membrane?",
+      "options": [
+        "Up a concentration gradient, from low to high concentration",
+        "Down a concentration gradient, from high to low concentration",
+        "Randomly, always resulting in more particles on one side",
+        "Only in the direction of gravity"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following best describes the movement and interaction of particles in a fluid?",
+      "options": [
+        "They move in straight, organized lines without ever touching",
+        "They move in random directions and collide with each other all the time",
+        "They remain stationary until a force is applied to them",
+        "They only move when heated above boiling point"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In scientific terms, what is meant by the 'concentration' of a substance in a liquid or gas?",
+      "options": [
+        "The total mass of the container holding the liquid or gas",
+        "The number of particles of that substance in a given volume",
+        "The speed at which the particles are moving",
+        "The temperature of the liquid or gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is the definition of diffusion?",
+      "options": [
+        "The active transport of particles requiring energy from the cell",
+        "The passive movement of particles from an area of higher concentration to an area of lower concentration",
+        "The movement of water molecules from a low solute concentration to a high solute concentration only",
+        "The chemical reaction that occurs when two different liquids are mixed together"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    }
+  ]
+}

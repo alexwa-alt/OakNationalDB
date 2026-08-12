@@ -1,0 +1,171 @@
+{
+  "unitKey": "2Atoms, elements and compoundsChemistry",
+  "generatedAt": "2026-08-12T05:48:40.704859+00:00",
+  "questions": [
+    {
+      "question": "What is the term used to describe the starting chemicals that undergo change in a chemical reaction?",
+      "options": [
+        "Products",
+        "Reactants",
+        "Catalysts",
+        "Mixtures"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In a chemical reaction, what do we call the newly created substances that are formed?",
+      "options": [
+        "Elements",
+        "Reactants",
+        "Atoms",
+        "Products"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "If we compare the reactants and products in a closed chemical reaction, what can be said about their atoms?",
+      "options": [
+        "The products contain entirely new atoms that were created during the reaction.",
+        "The products contain fewer atoms because some are destroyed by heat.",
+        "The products and reactants contain exactly the same atoms.",
+        "The products contain more atoms than the reactants."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How did John Dalton describe the model of an atom?",
+      "options": [
+        "A solid sphere that cannot be broken up.",
+        "A cloud of negative charge with a positive center.",
+        "A sphere of positive charge with embedded electrons.",
+        "A hollow shell containing smaller orbiting particles."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following describes an element?",
+      "options": [
+        "A substance made up of only one type of atom.",
+        "A mixture of different types of molecules.",
+        "A substance made of different atoms chemically bonded together.",
+        "A liquid containing dissolved metal ions."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "In the chemical formula H₂O, what does the subscript number 2 represent?",
+      "options": [
+        "The number of hydrogen atoms in the compound.",
+        "The number of oxygen atoms in the compound.",
+        "The total number of molecules.",
+        "The chemical state of the compound."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Carbon monoxide (CO) and carbon dioxide (CO₂) both contain carbon and oxygen. What is the difference between them?",
+      "options": [
+        "They contain different elements.",
+        "They contain the same elements, but in a different ratio.",
+        "One is an element and the other is a mixture.",
+        "They have identical physical and chemical properties."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is a key characteristic of metalloid elements?",
+      "options": [
+        "They behave exactly like gases at room temperature.",
+        "They are highly reactive liquid metals.",
+        "They have some properties of metals and some properties of non-metals.",
+        "They only consist of diatomic molecules."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Sodium is a highly reactive metal and chlorine is a toxic gas. When they react, they form sodium chloride (table salt). What does this demonstrate?",
+      "options": [
+        "A compound has the exact same properties as its constituent elements.",
+        "A compound may have different properties to each of the elements that it is made from.",
+        "Chemical reactions only change the physical state of elements.",
+        "Sodium chloride remains highly toxic and explosive."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which non-metal is an exception to the general rule and is a good electrical and thermal conductor?",
+      "options": [
+        "Sulfur",
+        "Helium",
+        "Graphite",
+        "Phosphorus"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Where are metals generally located on the periodic table?",
+      "options": [
+        "Only in the top row.",
+        "On the right side.",
+        "On the left side and in the middle.",
+        "In the right-hand column only."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Oxygen (O₂) and nitrogen (N₂) are gases. What term describes molecules that contain exactly two atoms?",
+      "options": [
+        "Monatomic molecules",
+        "Diatomic molecules",
+        "Triatomic molecules",
+        "Polyatomic molecules"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which group of elements is monatomic and found in the right-hand column of the periodic table?",
+      "options": [
+        "Alkaline earth metals",
+        "Halogens",
+        "Transition metals",
+        "Noble gases"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What name is given to compounds containing metal atoms bonded to a -CO₃ group?",
+      "options": [
+        "Metal sulfates",
+        "Metal nitrates",
+        "Metal carbonates",
+        "Metal hydroxides"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "If a compound consists of metal atoms chemically bonded to a -SO₄ group, what is it called?",
+      "options": [
+        "A metal sulfate",
+        "A metal sulfite",
+        "A metal nitrate",
+        "A metal carbonate"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    }
+  ]
+}

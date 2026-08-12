@@ -1,0 +1,182 @@
+{
+  "unitKey": "13Climate change and living sustainablyBiologyChemistryPhysics",
+  "generatedAt": "2026-08-12T05:48:43.503239+00:00",
+  "questions": [
+    {
+      "question": "How is \"climate\" scientifically defined?",
+      "options": [
+        "The daily atmospheric conditions like rain, temperature, and wind in a town.",
+        "The average weather conditions for a particular location over a long period of time.",
+        "The highest temperature recorded in a region during a single summer season.",
+        "The seasonal changes in weather that happen from month to month."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following is a direct consequence of climate change regarding weather patterns?",
+      "options": [
+        "A steady decrease in the occurrence of all storms and wind events worldwide.",
+        "Weather patterns remaining completely constant and predictable year after year.",
+        "An increase in the frequency of extreme weather events such as droughts, storms, and floods.",
+        "A complete elimination of seasonal temperature variations across the globe."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which stages in the life cycle of food contribute to its overall carbon footprint?",
+      "options": [
+        "Only the transport phase when food is moved from farms to shops.",
+        "Only the cooking phase in the consumer's home.",
+        "Land-use change, farming, processing, transport, retail, and packaging.",
+        "Only the initial packaging and retail stages in supermarkets."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is generally true about the carbon footprints of meat products compared to plant-based products?",
+      "options": [
+        "Meat and plant-based products have identical carbon footprints.",
+        "Plant-based products always have a much higher carbon footprint than meat.",
+        "Meat and plant-based products have different carbon footprints, with meat generally having a higher impact.",
+        "Carbon footprints only apply to meat products, while plant-based products have none."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How can individuals adjust their eating habits to eat more sustainably?",
+      "options": [
+        "By eating more imported food and increasing the amount of food thrown away.",
+        "By changing their diet and reducing food waste to lower greenhouse gas emissions.",
+        "By consuming only processed foods that require extensive packaging.",
+        "By purchasing larger portions of meat and discarding any leftovers."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What trend does scientific temperature data show for the Earth's average surface temperature over the last century?",
+      "options": [
+        "A gradual and steady cooling trend across all continents.",
+        "No significant change in average temperature since records began.",
+        "An unusual, rapid increase in the Earth's average surface temperature.",
+        "A highly predictable cycle that returns to normal every ten years."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What relationship is observed between global temperature data and greenhouse gas emissions data?",
+      "options": [
+        "There is a correlation showing that as greenhouse gas emissions increase, temperatures also increase.",
+        "The data show that increasing greenhouse gas emissions lead to cooler global temperatures.",
+        "There is absolutely no relationship or pattern between the two sets of data.",
+        "Global temperatures are decreasing while greenhouse gas emissions are rapidly rising."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How does installing thermal insulators affect the energy consumption of a building?",
+      "options": [
+        "It increases the speed of air circulation, requiring more heating energy.",
+        "It reduces the energy needed to heat the building by slowing down heat loss.",
+        "It has no impact on energy use but makes the building look more modern.",
+        "It completely eliminates the need for any ventilation systems."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What is the main environmental benefit of using thermostats to control room temperatures?",
+      "options": [
+        "They ensure that all rooms are permanently kept at the maximum possible temperature.",
+        "They convert electrical energy directly into renewable solar energy.",
+        "They control temperature automatically and help reduce unnecessary heating.",
+        "They filter greenhouse gases directly out of the air inside the house."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why are resources like wind and solar energy classified as renewable?",
+      "options": [
+        "Because they are stored in underground reservoirs that never leak.",
+        "Because they do not run out as they are replenished faster than they are used up.",
+        "Because they can only be used once before they turn into waste.",
+        "Because they are manufactured artificially in laboratories."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Under what condition is a resource like wood considered renewable?",
+      "options": [
+        "It is always renewable, regardless of how quickly forests are cleared.",
+        "Only if it is chemically treated to prevent decomposition.",
+        "Only if it is used sustainably, ensuring new trees are grown to replace those cut down.",
+        "Only if it is burned in high-tech industrial power stations."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why is transport that relies on petrol or diesel fuel considered unsustainable?",
+      "options": [
+        "Because these fuels are replenished in the ground within a few years.",
+        "Because we cannot have sustainable transport that uses petrol or diesel fuel.",
+        "Because vehicles using these fuels are too quiet to be safe in cities.",
+        "Because petrol and diesel engines do not produce any thermal energy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What is the primary role of the natural greenhouse effect?",
+      "options": [
+        "To block all sunlight from reaching the Earth's surface.",
+        "To maintain an optimal temperature range for life on Earth.",
+        "To cause constant volcanic eruptions across the planet.",
+        "To prevent the formation of clouds in the atmosphere."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "How are human activities affecting the Earth's greenhouse effect?",
+      "options": [
+        "They are decreasing the amount of greenhouse gases, weakening the greenhouse effect.",
+        "They have no effect because the atmosphere is too large to be influenced by humans.",
+        "They are increasing the amount of greenhouse gases in the atmosphere, increasing the greenhouse effect.",
+        "They are replacing greenhouse gases with nitrogen, cooling the Earth."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Why does sending waste to landfill sites or incinerators contribute to climate change?",
+      "options": [
+        "Because these sites release large quantities of oxygen that cool the atmosphere.",
+        "Because they are major sources of greenhouse gases.",
+        "Because they physically block the Earth from rotating properly.",
+        "Because they absorb all the heat from the sun and prevent it from reaching plants."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What waste management hierarchy can we follow to help minimise waste?",
+      "options": [
+        "Discard, replace, incinerate.",
+        "Collect, export, bury.",
+        "Reuse, reduce, recycle.",
+        "Purchase, consume, landfill."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "unitKey": "1Human digestive systemBiology",
+  "generatedAt": "2026-08-12T05:48:44.283517+00:00",
+  "questions": [
+    {
+      "question": "Why must large food molecules like carbohydrates, proteins, and fats be digested?",
+      "options": [
+        "To allow them to be converted directly into water.",
+        "To break them down into smaller molecules that can be absorbed by the body.",
+        "To convert them into toxic substances that the body can easily excrete.",
+        "To build them into larger structures before they enter the bloodstream."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How are absorbed nutrients transported to the cells where they are needed?",
+      "options": [
+        "Through the lymphatic system only",
+        "Through the nervous system",
+        "Through the blood",
+        "Through the digestive tract itself"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "By what process do small, soluble nutrient molecules pass directly into the blood?",
+      "options": [
+        "Diffusion",
+        "Active filtration",
+        "Osmotic suction",
+        "Condensation"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following is an adaptation of the small intestine lining that increases the absorption of nutrients?",
+      "options": [
+        "A thick layer of muscular tissue that slows down food movement",
+        "A very small surface area to concentrate the nutrients",
+        "Microvilli and villi that greatly increase the surface area",
+        "A smooth, waterproof lining that prevents liquids from escaping"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is a bacterium?",
+      "options": [
+        "A non-living chemical compound found in digestive juices",
+        "A multicellular fungus that decomposes food",
+        "A microscopic living organism made of a single cell",
+        "A virus that only lives inside animal cells"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which statement best describes the role of bacteria in relation to human health?",
+      "options": [
+        "All bacteria are harmful pathogens that cause diseases.",
+        "All bacteria are completely harmless to humans.",
+        "Some bacteria cause diseases, but many are harmless and some are helpful.",
+        "Bacteria can only survive outside the human body."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Where in the human body do helpful bacteria live to assist with digestive processes?",
+      "options": [
+        "Inside the lungs",
+        "Inside the digestive system",
+        "Inside the kidneys",
+        "Inside the heart muscle"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How do helpful bacteria in our digestive system help us digest food that we cannot break down ourselves?",
+      "options": [
+        "They produce acid that dissolves the food.",
+        "They physically chew the food inside the intestines.",
+        "They release enzymes that break down these foods.",
+        "They absorb the food whole and destroy it."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How do helpful bacteria protect us from harmful pathogens in the digestive system?",
+      "options": [
+        "By competing against them",
+        "By producing white blood cells",
+        "By raising the temperature of the gut",
+        "By building physical walls around them"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following correctly pairs a type of digestion with its description and location?",
+      "options": [
+        "Chemical digestion involves physical churning in the mouth only.",
+        "Mechanical digestion involves enzymes breaking bonds, which occurs in the blood.",
+        "Mechanical digestion physically breaks food into smaller pieces (e.g., chewing in the mouth), while chemical digestion uses enzymes to break chemical bonds (e.g., in the stomach and small intestine).",
+        "Both mechanical and chemical digestion refer only to the action of stomach acid."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What are the three main groups of large molecules that make up the food we eat?",
+      "options": [
+        "Minerals, vitamins, and water",
+        "Carbohydrates, proteins, and fats",
+        "Sugars, amino acids, and lactic acid",
+        "Oxygen, carbon dioxide, and nitrogen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What is the main role of enzymes in chemical digestion?",
+      "options": [
+        "To act as biological catalysts that speed up the breakdown of carbohydrates, proteins, and fats",
+        "To provide energy to the muscle walls of the stomach",
+        "To physically grind food into smaller particles in the mouth",
+        "To transport nutrients from the small intestine to the liver"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What are proteins broken down into during chemical digestion?",
+      "options": [
+        "Fatty acids and glycerol",
+        "Amino acids",
+        "Starch and simple sugars",
+        "Water and mineral salts"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which chemical reagent is commonly used to test for the presence of the large carbohydrate starch?",
+      "options": [
+        "Ethanol",
+        "Iodine solution",
+        "Biuret reagent",
+        "Benedict's solution"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which reagent is used to test for small sugar molecules resulting from the breakdown of starch?",
+      "options": [
+        "Iodine solution",
+        "Benedict's reagent",
+        "Biuret reagent",
+        "Ethanol emulsion"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "If a food sample is tested with Biuret reagent and the colour changes from blue to purple, what does this qualitative result indicate?",
+      "options": [
+        "The presence of starch",
+        "The presence of lipids (fats)",
+        "The presence of sugar",
+        "The presence of protein"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which of the following lists the major organs of the digestive system in the correct order that food passes through them?",
+      "options": [
+        "Mouth -> Stomach -> Small Intestine -> Large Intestine",
+        "Mouth -> Large Intestine -> Stomach -> Small Intestine",
+        "Stomach -> Mouth -> Large Intestine -> Small Intestine",
+        "Mouth -> Small Intestine -> Stomach -> Large Intestine"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is a major function of the stomach in the digestive system?",
+      "options": [
+        "To absorb water and solidify waste into faeces",
+        "To release bile to emulsify fats",
+        "To churn food and release acidic gastric juices to begin protein digestion",
+        "To absorb digested nutrients directly into the brain"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What happens to food material that cannot be digested by the human body?",
+      "options": [
+        "It is completely dissolved into gas and exhaled.",
+        "It is absorbed into the bloodstream and stored in bones.",
+        "It is passed out of the body as faeces.",
+        "It is converted into urine by the kidneys."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    }
+  ]
+}

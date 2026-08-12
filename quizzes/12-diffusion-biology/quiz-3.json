@@ -1,0 +1,193 @@
+{
+  "unitKey": "12DiffusionBiology",
+  "generatedAt": "2026-08-12T05:48:46.322977+00:00",
+  "questions": [
+    {
+      "question": "What property must a solid material have to allow liquid particles to diffuse through it?",
+      "options": [
+        "It must be impermeable",
+        "It must be permeable",
+        "It must be completely solid without any spaces",
+        "It must be magnetized"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When observing a colored liquid diffusing into a clear jelly cube, what would you expect to see over time?",
+      "options": [
+        "The color remains only on the very outer surface of the cube",
+        "The color spreads from the outside toward the center of the cube",
+        "The cube turns completely color-free as the liquid is repelled",
+        "The cube instantly dissolves and disappears"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "If you increase the temperature of the liquid surrounding a jelly cube, how does this affect the rate of diffusion into the cube?",
+      "options": [
+        "Diffusion slows down because particles lose energy",
+        "Diffusion stops completely because the jelly melts",
+        "Diffusion speeds up because the particles have more kinetic energy",
+        "Temperature has no effect on the rate of diffusion"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If you compare a large jelly cube with a small jelly cube, which one will have its center reached by a diffusing liquid first?",
+      "options": [
+        "The large cube, because it has more surface area",
+        "The small cube, because the liquid has a shorter distance to travel to the center",
+        "Both cubes at the exact same time",
+        "Neither, as diffusion only occurs on the surface of any object"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which particle-based explanation best describes why diffusion happens faster at higher temperatures in a jelly cube?",
+      "options": [
+        "Particles move slower and clump together",
+        "Particles gain kinetic energy, move faster, and collide more frequently",
+        "The jelly particles expand and block the diffusing liquid",
+        "The liquid particles shrink in size at higher temperatures"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why can only certain substances diffuse through a selectively-permeable membrane?",
+      "options": [
+        "Only magnetic substances can pass through",
+        "Their particles are small enough to fit through the tiny holes in the membrane",
+        "The membrane has active pumps that grab only large particles",
+        "Only gas particles can ever pass through a membrane"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When particles diffuse through a selectively-permeable membrane, in which direction do they move?",
+      "options": [
+        "They only move from the inside to the outside",
+        "They only move from the outside to the inside",
+        "They move through the membrane in both directions",
+        "They stop moving once they hit the membrane"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "If there is a high concentration of glucose particles outside a selectively-permeable membrane and a low concentration inside, what is the predicted net movement of glucose?",
+      "options": [
+        "Net movement of glucose into the membrane",
+        "Net movement of glucose out of the membrane",
+        "No net movement of glucose in either direction",
+        "Glucose particles will stick to the membrane and not enter"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "In an experiment using Visking tubing filled with starch solution placed in a beaker of water, why does starch not diffuse out into the water?",
+      "options": [
+        "Water molecules block the starch from leaving",
+        "Starch particles are too large to pass through the pores of the Visking tubing",
+        "The temperature of the water is too low for starch to move",
+        "Starch is attracted to the inner surface of the tubing and cannot leave"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following is true regarding cell cytoplasm and the substances dissolved within it?",
+      "options": [
+        "They are continuous liquids with no individual particles",
+        "They are made up of tiny particles that are constantly in motion",
+        "They consist only of empty space with no particles",
+        "They are solid blocks that cannot move"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How do essential substances like oxygen enter a cell through the cell membrane?",
+      "options": [
+        "They are pushed through by the cell's muscles",
+        "They diffuse through tiny holes in the cell membrane",
+        "They dissolve the cell membrane to create large openings",
+        "They are converted into energy before passing through"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why are some large molecules, such as proteins, unable to diffuse into a cell?",
+      "options": [
+        "They are repelled by the electrical charge of the cell membrane",
+        "They are too big to fit through the holes in the cell membrane",
+        "They travel too fast to be caught by the membrane",
+        "They are only found in solid form and cannot diffuse"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What makes a cell membrane selectively-permeable?",
+      "options": [
+        "It allows all substances to pass through freely",
+        "It blocks all substances from entering or leaving the cell",
+        "It only allows certain substances to diffuse through it based on properties like particle size",
+        "It only lets water in but never lets anything out"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How do particles in a liquid or gas move during diffusion?",
+      "options": [
+        "In straight, organized lines directly to their destination",
+        "In random directions, colliding with each other all the time",
+        "Only in a downward direction due to gravity",
+        "They remain completely still and do not move"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is the definition of concentration in the context of liquids or gases?",
+      "options": [
+        "The total weight of the container holding the substance",
+        "The number of particles in a specific volume of liquid or gas",
+        "The speed at which particles are moving",
+        "The temperature of the liquid or gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is meant by particles moving down a concentration gradient?",
+      "options": [
+        "Moving from an area of lower concentration to an area of higher concentration",
+        "Moving from an area of higher concentration to an area of lower concentration",
+        "Moving upwards against gravity",
+        "Moving only when heat is applied to the system"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which of the following best defines diffusion?",
+      "options": [
+        "The active pumping of particles from low to high concentration requiring energy",
+        "The passive movement of particles from an area of higher to lower concentration",
+        "The chemical reaction between two different liquids",
+        "The settling of solid particles at the bottom of a container"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "unitKey": "2Atoms, elements and compoundsChemistry",
+  "generatedAt": "2026-08-12T05:48:41.015256+00:00",
+  "questions": [
+    {
+      "question": "In a chemical reaction, what do we call the starting chemical substances that undergo the reaction?",
+      "options": [
+        "Catalysts",
+        "Products",
+        "Reactants",
+        "Solvents"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the scientific term for the new substances that are formed as a result of a chemical reaction?",
+      "options": [
+        "Reactants",
+        "Products",
+        "Mixtures",
+        "Elements"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "When a chemical reaction occurs, how do the atoms in the products compare to the atoms in the reactants?",
+      "options": [
+        "They contain completely new and different atoms.",
+        "They contain exactly the same atoms.",
+        "Some atoms are destroyed, and new ones are made.",
+        "They contain twice as many atoms."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following describes John Dalton’s early model of an atom?",
+      "options": [
+        "A ball of positive charge containing negative electrons",
+        "A small positive nucleus surrounded by orbiting electrons",
+        "A sphere that cannot be broken up",
+        "A cloud of waves containing particles"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which statement correctly describes the composition of a chemical element?",
+      "options": [
+        "It is made up of only one type of atom.",
+        "It contains a mixture of different compounds.",
+        "It is made of two different types of metal.",
+        "It can easily be broken down into simpler elements."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "In a chemical formula, what do the small subscript numbers written next to chemical symbols represent?",
+      "options": [
+        "The temperature required for the reaction",
+        "The state of matter of each substance",
+        "The number of each type of atom in the compound",
+        "The relative electrical charge of the atoms"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Water (H₂O) and hydrogen peroxide (H₂O₂) are different compounds containing hydrogen and oxygen. What makes them different compounds?",
+      "options": [
+        "They contain completely different elements.",
+        "One is a mixture and the other is a compound.",
+        "They contain the same elements, but in a different ratio.",
+        "They have the exact same chemical properties."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is the main purpose of hazard symbols on chemical containers?",
+      "options": [
+        "To indicate how expensive a chemical is",
+        "To describe the potential dangers of the substances",
+        "To show the state of matter at room temperature",
+        "To identify who manufactured the chemical"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What are metalloids?",
+      "options": [
+        "Elements that have only the properties of metals",
+        "Elements that have some properties of metals and some of non-metals",
+        "Man-made elements that do not occur in nature",
+        "Elements that are highly explosive when wet"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How do the properties of a compound compare to the properties of the individual elements that formed it?",
+      "options": [
+        "They are always a simple mathematical average of the elements.",
+        "They must be identical to the properties of the metal element.",
+        "They can be completely different from each of the individual elements.",
+        "They are always the same as the gaseous element involved."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which non-metal is an exception to the rule because it is a good conductor of both electricity and heat?",
+      "options": [
+        "Sulfur",
+        "Graphite",
+        "Oxygen",
+        "Helium"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Where on the periodic table are metals and non-metals typically located?",
+      "options": [
+        "Metals on the right side, non-metals on the left side",
+        "Metals in the top row, non-metals in the bottom row",
+        "Metals in the middle columns, non-metals in the outer rows",
+        "Metals on the left side and in the middle, non-metals on the right side"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which group of elements is monatomic (exists as single atoms) and is found in the far-right column of the periodic table?",
+      "options": [
+        "Halogens",
+        "Alkali metals",
+        "Noble gases",
+        "Transition metals"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "When naming a simple compound made of a metal and a non-metal, how does the name of the non-metal change to show bonding has occurred?",
+      "options": [
+        "It ends with '-ate'",
+        "It ends with '-ide'",
+        "It ends with '-ite'",
+        "It ends with '-ic'"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "If a compound consists of metal atoms chemically bonded to -SO₄, what is the group name for this compound?",
+      "options": [
+        "Metal carbonate",
+        "Metal nitrate",
+        "Metal sulfate",
+        "Metal chloride"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    }
+  ]
+}

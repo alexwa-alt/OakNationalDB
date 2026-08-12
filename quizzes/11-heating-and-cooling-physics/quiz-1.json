@@ -1,0 +1,182 @@
+{
+  "unitKey": "11Heating and coolingPhysics",
+  "generatedAt": "2026-08-12T05:48:42.696130+00:00",
+  "questions": [
+    {
+      "question": "If a metal spoon and a wooden book are left on a table in a room for several hours, what can we say about their temperatures?",
+      "options": [
+        "The metal spoon will be colder than the wooden book.",
+        "The wooden book will be colder than the metal spoon.",
+        "Both objects will reach the same temperature as the room.",
+        "Both objects will slowly warm up to be hotter than the room air."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What happens to the particles in a solid metal bar when it is heated?",
+      "options": [
+        "They stop moving completely.",
+        "They vibrate more quickly.",
+        "They start flowing past each other.",
+        "They gain mass and grow larger."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "When a solid or liquid is heated, how does the physical spacing between its particles change?",
+      "options": [
+        "The separation of its particles increases.",
+        "The particles pack much closer together.",
+        "The separation remains exactly the same.",
+        "The particles merge into single giant particles."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which of the following occurs as a direct result of heating a solid or liquid?",
+      "options": [
+        "It contracts and takes up less space.",
+        "It undergoes a temporary increase in mass.",
+        "It expands and takes up more space.",
+        "It becomes completely weightless."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Under which condition will a hot mug of tea transfer thermal energy to the surrounding room at the fastest rate?",
+      "options": [
+        "When the tea is only slightly warmer than the room air.",
+        "When the tea is at the exact same temperature as the room.",
+        "When the temperature difference between the tea and the air is greatest.",
+        "When the tea has been left to cool down for several hours."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why do some materials reach a higher temperature much faster than others when supplied with the same amount of heat energy?",
+      "options": [
+        "Some materials are completely immune to temperature changes.",
+        "It is easier to increase the temperature of some materials than others.",
+        "All materials require identical energy to change temperature.",
+        "Liquid materials can never change temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "If we have the same mass of water and copper at the same high temperature, why might they cause different amounts of heating to other objects?",
+      "options": [
+        "Because copper has no thermal store.",
+        "Because the same amount of different materials at the same temperature can cause different amounts of heating.",
+        "Because water is a solid at room temperature and copper is a gas.",
+        "Because temperature is the only factor that determines how much thermal energy can be transferred."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What does a higher specific heat capacity indicate about 1 kg of a substance at a given temperature?",
+      "options": [
+        "It contains less energy in its thermal store.",
+        "It contains more energy in its thermal store.",
+        "It has a much lower boiling point.",
+        "Its particles have stopped moving entirely."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In which states of matter do the particles move in completely random directions?",
+      "options": [
+        "Only in gases.",
+        "Only in liquids and gases.",
+        "Only in solids.",
+        "In solids, liquids, and gases."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Two blocks of iron are both at a temperature of 50ºC. Block A is twice the size and mass of Block B. Which block has more energy in its thermal store?",
+      "options": [
+        "Block B, because it has fewer particles.",
+        "Block A, because the one with more particles has more energy.",
+        "Both have the same energy because they are at the same temperature.",
+        "Neither block has any energy in its thermal store."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How should you position your eyes to get an accurate reading when using a glass liquid-in-glass thermometer?",
+      "options": [
+        "Your eye must be level with the top of the coloured liquid.",
+        "You must look down on the thermometer from directly above.",
+        "You must look up at the thermometer from a low angle.",
+        "The position of your eye does not affect the accuracy of the scale."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "At what temperatures do pure ice melt and pure water boil under standard conditions?",
+      "options": [
+        "Ice melts at 10ºC and water boils at 50ºC.",
+        "Ice melts at 0ºC and water boils at 100ºC.",
+        "Ice melts at -100ºC and water boils at 0ºC.",
+        "Ice melts at 100ºC and water boils at 0ºC."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "If you mix 1 litre of boiling water (100ºC) with 10 litres of cold water (10ºC), what can you predict about the final temperature?",
+      "options": [
+        "It will be exactly 55ºC, the midway point.",
+        "It will be closer to the temperature of the cold water, because there was more of it.",
+        "It will be closer to the temperature of the boiling water, because hot water dominates.",
+        "It will instantly drop below 0ºC."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What happens to the temperature along a thermal insulator when one end of it is heated?",
+      "options": [
+        "The temperature increases extremely quickly along the insulator.",
+        "The temperature increases very slowly along the insulator.",
+        "The temperature instantly drops to absolute zero.",
+        "The temperature remains exactly at 100ºC at all points."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Which statement describes how heat travels through a solid thermal conductor at the particle level?",
+      "options": [
+        "Vibrating particles quickly cause the particles near to them to vibrate as well.",
+        "Particles travel from the hot end to the cold end in a continuous flow of matter.",
+        "Particles stop vibrating entirely, allowing heat to pass through the gaps.",
+        "Particles in a conductor do not interact with each other at all."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Why are materials that contain trapped air exceptionally good thermal insulators?",
+      "options": [
+        "Because trapped air creates a complete vacuum.",
+        "Because gases are very poor thermal conductors.",
+        "Because air molecules are packed extremely tightly.",
+        "Because air particles cannot vibrate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    }
+  ]
+}

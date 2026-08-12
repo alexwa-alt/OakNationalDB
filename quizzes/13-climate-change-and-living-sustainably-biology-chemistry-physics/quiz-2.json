@@ -1,0 +1,182 @@
+{
+  "unitKey": "13Climate change and living sustainablyBiologyChemistryPhysics",
+  "generatedAt": "2026-08-12T05:48:46.535185+00:00",
+  "questions": [
+    {
+      "question": "What is the scientific definition of \"climate\"?",
+      "options": [
+        "The current weather conditions measured over a single day.",
+        "The average weather conditions for a particular location over a long period of time.",
+        "The daily variation in temperature and rainfall in a specific town.",
+        "The changes in seasons that occur over the course of one year."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is one expected consequence of climate change on weather patterns?",
+      "options": [
+        "An increase in the frequency of extreme weather events such as droughts, storms and floods.",
+        "A complete stabilization of global wind speeds and precipitation levels.",
+        "A steady decrease in the occurrence of heavy rainfall and flooding worldwide.",
+        "The elimination of seasonal changes across all continents."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following stages in food production contributes to the carbon footprint of food?",
+      "options": [
+        "Only the transportation stage from farm to shop.",
+        "Only the final packaging and retail stage.",
+        "Land-use change, farming, processing, transport, retail and packaging.",
+        "None of them, as carbon is only released during domestic cooking."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "When comparing meat and plant-based food products, what is true about their carbon footprints?",
+      "options": [
+        "They have identical carbon footprints because both require farming.",
+        "Plant-based products always have a higher carbon footprint than meat.",
+        "Meat and plant-based products have different carbon footprints.",
+        "Neither meat nor plant-based products have any carbon footprint."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How can changes in diet and a reduction in food waste help us eat more sustainably?",
+      "options": [
+        "By lowering greenhouse gas emissions.",
+        "By increasing the land area needed for farming.",
+        "By encouraging the transport of foods over longer distances.",
+        "By increasing the amount of packaging required for retail."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is the recent, rapid increase in the Earth's average surface temperature called?",
+      "options": [
+        "The carbon footprint.",
+        "Global warming.",
+        "Thermal insulation.",
+        "Sustainable development."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What relationship do scientific data show between global temperatures and greenhouse gas emissions?",
+      "options": [
+        "There is a correlation between data showing increasing temperature and data showing increasing greenhouse gas emissions.",
+        "There is no relationship at all between temperature and greenhouse gas emissions.",
+        "Temperatures are decreasing as greenhouse gas emissions increase.",
+        "Greenhouse gas emissions have decreased while temperatures have rapidly increased."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How do thermal insulators help make a building more energy efficient?",
+      "options": [
+        "They increase the amount of draft entering the building.",
+        "They generate extra heat energy inside the rooms automatically.",
+        "They reduce the energy needed to heat a building.",
+        "They prevent any light from entering through the windows."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Why does improving a building's insulation help in using renewable resources for heating?",
+      "options": [
+        "It eliminates the need for any heating system entirely.",
+        "Improving a building's insulation makes it easier to heat it using only renewable resources.",
+        "It converts non-renewable energy sources directly into solar energy.",
+        "It lowers the efficiency of solar panels and wind turbines."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is the primary role of thermostats in helping to reduce unnecessary heating in a home?",
+      "options": [
+        "They increase the temperature difference between inside and outside.",
+        "They can control temperature automatically in different rooms and help reduce unnecessary heating.",
+        "They convert electrical energy directly into thermal insulation.",
+        "They measure the humidity levels of the outside air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why do renewable resources not run out?",
+      "options": [
+        "Because they are used in extremely small quantities.",
+        "Because they are replenished faster than they are used up.",
+        "Because they are created in laboratories by scientists.",
+        "Because they are completely unaffected by human consumption."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Under what condition is wood considered a renewable resource?",
+      "options": [
+        "Only if it is burned at extremely high temperatures.",
+        "Only if it is imported from tropical rainforests.",
+        "Some resources, such as wood, are only renewable if they are used sustainably.",
+        "Wood is always renewable, regardless of how it is used."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why is it impossible to have sustainable transport that relies on petrol or diesel fuel?",
+      "options": [
+        "Because petrol and diesel cannot be purchased in large quantities.",
+        "We cannot have sustainable transport that uses petrol or diesel fuel.",
+        "Because petrol and diesel vehicles do not have any carbon emissions.",
+        "Because these fuels are replenished faster than they are used up."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What is the role of the natural greenhouse effect on Earth?",
+      "options": [
+        "It causes the surface temperature of the planet to freeze.",
+        "A natural greenhouse effect maintains optimal temperature range for life on Earth.",
+        "It prevents solar radiation from reaching the atmosphere.",
+        "It stops plants from undergoing photosynthesis."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why are landfill sites and incinerators major concerns for climate change?",
+      "options": [
+        "They prevent the natural greenhouse effect from happening.",
+        "They are sources of greenhouse gases.",
+        "They absorb all the heat from the atmosphere.",
+        "They reduce the carbon footprint of human food production."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What actions can we take to minimise the amount of waste we produce?",
+      "options": [
+        "Increase, replace, and incinerate.",
+        "Landfill, burn, and export.",
+        "Reuse, reduce, recycle is what we can do to minimise waste.",
+        "Consume, discard, and purchase."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    }
+  ]
+}

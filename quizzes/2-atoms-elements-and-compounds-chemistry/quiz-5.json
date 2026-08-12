@@ -1,0 +1,193 @@
+{
+  "unitKey": "2Atoms, elements and compoundsChemistry",
+  "generatedAt": "2026-08-12T05:48:41.222157+00:00",
+  "questions": [
+    {
+      "question": "In a chemical reaction, what name is given to the starting chemicals that undergo a reaction?",
+      "options": [
+        "Catalysts",
+        "Reactants",
+        "Products",
+        "Solutes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What do we call the chemicals that are newly formed as a result of a chemical reaction?",
+      "options": [
+        "Reactants",
+        "Solvents",
+        "Products",
+        "Elements"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following is true about the atoms in the products of a chemical reaction compared to the reactants?",
+      "options": [
+        "The products contain completely new atoms that were created during the reaction.",
+        "The products contain exactly the same atoms as the reactants.",
+        "The products contain fewer atoms because some are destroyed.",
+        "The products contain more atoms than the reactants."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What happens to the bonding of atoms during a chemical reaction when products are formed?",
+      "options": [
+        "The atoms remain bonded in exactly the same way.",
+        "The atoms are bonded differently in the products compared to the reactants.",
+        "The atoms lose all of their chemical bonds permanently.",
+        "The atoms are merged together into a single giant atom."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How did John Dalton model an atom in his scientific theory?",
+      "options": [
+        "As a cloud of negative charge containing a positive nucleus",
+        "As a sphere that cannot be broken up",
+        "As a hollow ring containing smaller particles",
+        "As a liquid droplet that can split easily"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What is a defining feature of a chemical element?",
+      "options": [
+        "It is made up of at least three different types of atoms.",
+        "It is made up of only one type of atom.",
+        "It can easily be split into other simpler substances by physical means.",
+        "It is always a mixture of metals and non-metals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What information do the chemical symbols in a substance's chemical formula provide?",
+      "options": [
+        "The temperature at which the substance melts",
+        "The speed of the chemical reaction",
+        "Each element (each type of atom) that the substance contains",
+        "The state of matter of the substance at room temperature"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "In a chemical formula, what do the small subscript numbers written next to the chemical symbols represent?",
+      "options": [
+        "The charge of each atom",
+        "The number of each type of atom in the compound",
+        "The number of chemical reactions needed to make it",
+        "The physical state of each element"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Carbon monoxide (CO) and carbon dioxide (CO2) both consist of carbon and oxygen. How do they differ?",
+      "options": [
+        "They contain the same elements but in a different ratio.",
+        "One is a pure element and the other is a mixture.",
+        "They contain different types of carbon atoms.",
+        "They have the exact same chemical and physical properties."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which statement best describes metalloid elements?",
+      "options": [
+        "They only have the properties of highly reactive non-metals.",
+        "They have some properties of metals and some properties of non-metals.",
+        "They are metals that can never conduct electricity.",
+        "They are completely inert gases found on the far right of the periodic table."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Sodium is a highly reactive metal and chlorine is a toxic gas, but together they form sodium chloride (table salt). What does this demonstrate about compounds?",
+      "options": [
+        "A compound always retains the exact physical properties of its constituent elements.",
+        "A compound may have completely different properties to the elements it is made from.",
+        "A compound is a simple physical mixture where elements do not bond.",
+        "Compounds always have properties that are the average of their elements."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Although it is a non-metal, which of the following is an excellent conductor of both electricity and heat?",
+      "options": [
+        "Sulfur",
+        "Helium",
+        "Graphite",
+        "Phosphorus"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Where are metals and non-metals generally located on the periodic table?",
+      "options": [
+        "Metals are on the right side, non-metals are on the left side and in the middle.",
+        "Metals are on the left side and in the middle, non-metals are on the right side.",
+        "Metals are only at the top, non-metals are only at the bottom.",
+        "Metals and non-metals are randomly scattered with no organized pattern."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is meant by a diatomic molecule, such as oxygen (O2) or nitrogen (N2)?",
+      "options": [
+        "A molecule containing three different elements",
+        "A molecule that contains two atoms bonded together",
+        "An atom that cannot bond with any other atom",
+        "A compound made of a metal and a non-metal"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "When a simple compound is formed between a metal and a non-metal, how does its name typically end?",
+      "options": [
+        "-ate",
+        "-ide",
+        "-ite",
+        "-ic"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What is the name given to compounds that consist of metal atoms bonded to a -CO3 group?",
+      "options": [
+        "Metal sulfates",
+        "Metal nitrates",
+        "Metal carbonates",
+        "Metal chlorides"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Which group of compounds is formed when metal atoms are bonded to -SO4?",
+      "options": [
+        "Metal sulfates",
+        "Metal nitrates",
+        "Metal carbonates",
+        "Metal oxides"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "unitKey": "11Heating and coolingPhysics",
+  "generatedAt": "2026-08-12T05:48:48.681086+00:00",
+  "questions": [
+    {
+      "question": "If you leave a metal spoon, a plastic cup, and a wooden block on a table in a room for 24 hours, what will be true about their temperatures?",
+      "options": [
+        "The metal spoon will be colder than the room, and the wooden block will be warmer.",
+        "All three objects will reach the exact same temperature as the room.",
+        "The plastic cup will have the highest temperature because plastic is an insulator.",
+        "Only the wooden block will reach the room's temperature because wood is natural."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What happens to the particles inside a solid iron bar when the bar is heated?",
+      "options": [
+        "The particles begin to flow freely past each other.",
+        "The particles start to vibrate more quickly.",
+        "The particles stop moving entirely to absorb the heat.",
+        "The particles break apart into smaller subatomic elements."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "When you heat a solid or a liquid, what happens to the average distance between its particles?",
+      "options": [
+        "The separation between the particles increases.",
+        "The separation between the particles decreases.",
+        "The particles clump together into a single point.",
+        "The distance between the particles remains exactly the same."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How does the temperature of a hot cup of tea relate to the motion of its particles?",
+      "options": [
+        "The higher the temperature, the faster its particles are moving.",
+        "The higher the temperature, the slower its particles are moving.",
+        "Temperature does not affect the speed of the liquid's particles.",
+        "The tea particles stop moving completely at high temperatures."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Under which condition will a freshly brewed mug of coffee cool down the fastest?",
+      "options": [
+        "When the temperature difference between the coffee and the surrounding air is very small.",
+        "When the coffee is placed in a room that is at the exact same temperature.",
+        "When the temperature difference between the coffee and the surrounding air is very large.",
+        "When the coffee is covered with a thick thermal insulator."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why do different materials behave differently when heated, even if they have the same volume?",
+      "options": [
+        "Because all substances have identical particles, but some are older than others.",
+        "Because the mass of particles and the attractive forces between them differ in different substances.",
+        "Because some substances contain no particles at all.",
+        "Because the particles in metals are always twice as large as those in liquids."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which statement is true about 1 kg of a substance with a high specific heat capacity compared to 1 kg of another substance with a lower specific heat capacity at the same temperature?",
+      "options": [
+        "The substance with the higher specific heat capacity has more energy in its thermal store.",
+        "The substance with the lower specific heat capacity has more energy in its thermal store.",
+        "Both substances have the exact same amount of energy in their thermal stores.",
+        "Neither substance has any energy in its thermal store at that temperature."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In which states of matter do the particles move in completely random directions?",
+      "options": [
+        "Only in gases.",
+        "Only in liquids and gases.",
+        "In solids, liquids, and gases.",
+        "Only in solids and liquids."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "If you have two identical copper blocks, but Block A is at 80 degrees Celsius and Block B is at 20 degrees Celsius, which block contains more energy?",
+      "options": [
+        "Block B, because colder objects store energy more densely.",
+        "Block A, because the identical object at a higher temperature has more energy.",
+        "Both blocks have the same energy because they are made of the same material.",
+        "Neither block has energy because energy is only present during a state change."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "There are two beakers of pure water, both at exactly 50 degrees Celsius. Beaker X contains 500 mL of water, and Beaker Y contains 100 mL of water. Which statement is correct?",
+      "options": [
+        "Beaker Y has more energy because its particles are more packed together.",
+        "Both beakers have the same amount of energy because their temperatures are identical.",
+        "Beaker X has more energy because it contains more particles of the substance.",
+        "Neither beaker has thermal energy because they are not boiling."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "To obtain an accurate reading from a glass thermometer, how should you position your eyes?",
+      "options": [
+        "Look down at the thermometer from directly above it.",
+        "Look up at the thermometer from a low angle.",
+        "Position your eye so that it is level with the top of the coloured liquid.",
+        "Tilt the thermometer at a 45-degree angle to read it from the side."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "If you mix 500 mL of cold water at 10 degrees Celsius with 50 mL of hot water at 90 degrees Celsius, what will be true about the final temperature of the mixture?",
+      "options": [
+        "The final temperature will be closer to 90 degrees Celsius because hot water has more thermal energy.",
+        "The final temperature will be closer to 10 degrees Celsius because there was much more cold water.",
+        "The final temperature will be exactly 50 degrees Celsius, which is the perfect average.",
+        "The final temperature will drop below 0 degrees Celsius because of mixing."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What happens to the motion of particles when a cold metal spoon is placed into a bowl of hot soup?",
+      "options": [
+        "The soup particles move more slowly, while the spoon particles move more quickly.",
+        "Both the soup particles and the spoon particles move more slowly.",
+        "Both the soup particles and the spoon particles move more quickly.",
+        "The soup particles move more quickly, while the spoon particles move more slowly."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why does heat travel very slowly through a thermal insulator?",
+      "options": [
+        "Because thermal insulators contain no particles at all to transfer heat.",
+        "Because it is hard for vibrating particles to cause nearby particles to vibrate as well.",
+        "Because the particles in an insulator move in straight lines rather than vibrating.",
+        "Because heating an insulator causes its particles to completely freeze in place."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Why do materials that contain trapped air provide good insulation?",
+      "options": [
+        "Because air particles are packed extremely tightly together.",
+        "Because gases are very poor thermal conductors.",
+        "Because trapped air causes the material to generate its own heat.",
+        "Because gases have a high density which blocks all particle vibration."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "What is the effect of wrapping an object in a good thermal insulator?",
+      "options": [
+        "It only keeps hot objects warm, but makes cold objects warm up faster.",
+        "It keeps a hot object warm and a cold object cool.",
+        "It cools down hot objects and heats up cold objects.",
+        "It has no effect on the temperature change of either hot or cold objects."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    }
+  ]
+}

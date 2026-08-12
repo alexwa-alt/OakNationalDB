@@ -1,0 +1,193 @@
+{
+  "unitKey": "1Human digestive systemBiology",
+  "generatedAt": "2026-08-12T05:48:42.389717+00:00",
+  "questions": [
+    {
+      "question": "Why must large food molecules like carbohydrates, proteins, and fats be digested?",
+      "options": [
+        "To make them taste better",
+        "To break them down into smaller molecules that can be absorbed",
+        "To convert them directly into water and carbon dioxide",
+        "To allow them to pass through the stomach without being changed"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How are absorbed nutrients transported to the cells where they are needed?",
+      "options": [
+        "By travelling through the nervous system",
+        "By dissolving in the water of the lymphatic system only",
+        "By being carried in the blood flow around the body",
+        "By moving through the digestive tract again"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "By what process do nutrient molecules that are small enough enter the blood from the digestive system?",
+      "options": [
+        "Active transport only",
+        "Osmosis of solids",
+        "Diffusion",
+        "Filtration through pores"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following is an adaptation of the small intestine lining that increases the amount of absorption?",
+      "options": [
+        "A very thick muscular wall to squeeze food",
+        "A large surface area provided by many tiny villi",
+        "A smooth, slippery mucus coating that prevents absorption",
+        "A highly acidic environment that kills all bacteria"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which statement best describes a single bacterium?",
+      "options": [
+        "A non-living particle made of proteins",
+        "A multicellular organism with complex tissues",
+        "A microorganism made of a single living cell",
+        "A microscopic fungus that reproduces by spores"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following statements about bacteria is true?",
+      "options": [
+        "All bacteria are pathogens that cause serious disease.",
+        "Many bacteria are harmless and some are even helpful.",
+        "No bacteria can survive inside the human body.",
+        "Bacteria are only helpful when they are dead."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Where in the human body do helpful bacteria live to assist with digestion?",
+      "options": [
+        "Inside the stomach cavity",
+        "Inside the human digestive system",
+        "On the surface of the tongue",
+        "Inside the salivary glands"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How do helpful bacteria in our digestive system help us digest food that we cannot digest ourselves?",
+      "options": [
+        "They physically chew the food in the gut",
+        "They release enzymes that break down the food",
+        "They produce acid that dissolves the food",
+        "They absorb the food whole and digest it inside their own cells"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How do helpful gut bacteria protect us against harmful pathogens that enter our digestive system?",
+      "options": [
+        "By producing white blood cells to attack them",
+        "By competing against them for resources and space",
+        "By building a physical barrier made of calcium",
+        "By increasing the temperature of the digestive tract"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What is a key difference between mechanical and chemical digestion?",
+      "options": [
+        "Mechanical digestion uses enzymes, while chemical digestion uses teeth.",
+        "Mechanical digestion physically breaks food into smaller pieces, while chemical digestion uses enzymes to break chemical bonds.",
+        "Mechanical digestion only happens in the small intestine, while chemical digestion only happens in the mouth.",
+        "Mechanical digestion creates new substances, while chemical digestion does not change the molecules."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What role do enzymes play in the chemical digestion of carbohydrates, proteins, and fats?",
+      "options": [
+        "They act as physical grinders to crush the food.",
+        "They act as biological catalysts to speed up the process.",
+        "They increase the temperature of the stomach to melt the food.",
+        "They dissolve the food by making the environment highly alkaline."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Enzymes digest proteins into which smaller molecules?",
+      "options": [
+        "Fatty acids",
+        "Glycerol",
+        "Amino acids",
+        "Simple sugars"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which chemical reagent is commonly used to test for the presence of the large carbohydrate molecule starch?",
+      "options": [
+        "Biuret reagent",
+        "Iodine solution",
+        "Ethanol",
+        "Benedict's solution"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which chemical reagent is used to test for small sugar molecules, such as those produced from the breakdown of starch?",
+      "options": [
+        "Iodine solution",
+        "Benedict's reagent",
+        "Biuret solution",
+        "Ethanol"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following lists the major organs of the digestive system in the correct order that food moves through them?",
+      "options": [
+        "Mouth, stomach, oesophagus, small intestine, large intestine",
+        "Mouth, oesophagus, stomach, small intestine, large intestine",
+        "Mouth, oesophagus, stomach, large intestine, small intestine",
+        "Oesophagus, mouth, stomach, small intestine, large intestine"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which organ is adapted to produce acid and enzymes to chemically digest proteins while churning food into a liquid mixture?",
+      "options": [
+        "The mouth",
+        "The stomach",
+        "The large intestine",
+        "The pancreas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What happens to food that cannot be digested by the body?",
+      "options": [
+        "It is absorbed into the blood and exhaled by the lungs.",
+        "It is converted into urine by the kidneys.",
+        "It is passed out of the body as faeces.",
+        "It is stored permanently in the liver."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    }
+  ]
+}

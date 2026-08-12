@@ -1,0 +1,171 @@
+{
+  "unitKey": "11Heating and coolingPhysics",
+  "generatedAt": "2026-08-12T05:48:41.027410+00:00",
+  "questions": [
+    {
+      "question": "If a metal spoon and a wooden bowl are left in a classroom overnight, what will be true about their temperatures in the morning?",
+      "options": [
+        "The metal spoon will be much colder than the wooden bowl",
+        "The wooden bowl will be warmer than the room",
+        "Both objects will have reached the exact same temperature as the room",
+        "The metal spoon will have a higher temperature than the room"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When you heat a solid block of copper, what happens to the motion of its particles?",
+      "options": [
+        "They begin to move freely from place to place",
+        "They vibrate more quickly about their fixed positions",
+        "They stop moving entirely",
+        "They slow down their vibrations"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What is the primary physical consequence of heating a solid or a liquid?",
+      "options": [
+        "Its mass increases",
+        "It contracts in volume",
+        "It causes the substance to expand",
+        "Its particles become tightly bound together"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Under which condition will a freshly brewed mug of hot tea cool down at the fastest rate?",
+      "options": [
+        "When placed in a room that is very cold",
+        "When placed in a room that is almost as hot as the tea",
+        "When wrapped in a thick woollen sleeve",
+        "When the temperature of the tea is close to the room temperature"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why do different substances behave differently when heated, in terms of particle interactions?",
+      "options": [
+        "All substances have identical particle masses but different temperatures",
+        "The mass of particles and the attractive forces between them vary across different substances",
+        "Particles in some substances do not experience any attractive forces",
+        "Only liquids have attractive forces between their particles"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "If Substance A has a higher specific heat capacity than Substance B, what does this mean for 1 kg of each substance at 50ºC?",
+      "options": [
+        "Substance A has less energy in its thermal store than Substance B",
+        "Substance A has more energy in its thermal store than Substance B",
+        "Both substances store the exact same amount of thermal energy",
+        "Substance A will instantly cool down to 0ºC"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In which states of matter do the particles move or vibrate in random directions?",
+      "options": [
+        "Only in gases",
+        "Only in liquids and gases",
+        "Solids, liquids, and gases",
+        "Only in solids"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Two copper blocks are both at a temperature of 80ºC. Block X has a mass of 2 kg, while Block Y has a mass of 1 kg. Which block has more energy in its thermal store?",
+      "options": [
+        "Block Y, because smaller objects retain heat better",
+        "They both have the same energy because their temperatures are equal",
+        "Block X, because it contains more particles",
+        "Neither block has any thermal energy because they are solids"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "To ensure an accurate reading when using a glass thermometer, how should you position your eyes?",
+      "options": [
+        "Look down at the thermometer from directly above",
+        "Look up at the thermometer from a low angle",
+        "Position your eye level with the top of the coloured liquid",
+        "Hold the thermometer at arm's length and look at it sideways"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What are the melting point of pure ice and the boiling point of pure water under standard conditions?",
+      "options": [
+        "Melting point is 0ºC, boiling point is 50ºC",
+        "Melting point is 10ºC, boiling point is 100ºC",
+        "Melting point is 0ºC, boiling point is 100ºC",
+        "Melting point is -5ºC, boiling point is 95ºC"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "If you mix a very large bucket of cold water at 10ºC with a small cup of hot water at 90ºC, what will the final temperature of the mixture be closest to?",
+      "options": [
+        "Exactly 50ºC",
+        "The temperature of the hot water (90ºC)",
+        "The temperature of the cold water (10ºC)",
+        "It will freeze instantly to 0ºC"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What happens to the movement of particles when a cold metal spoon is placed into a bowl of hot water?",
+      "options": [
+        "The water particles move more slowly, and the spoon particles move more quickly",
+        "The water particles move more quickly, and the spoon particles move more slowly",
+        "Particles in both the water and the spoon stop moving",
+        "Only the spoon particles change their speed, while the water particles remain unaffected"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "If you heat one end of a thermal insulator, how does the temperature change along its length?",
+      "options": [
+        "It increases very rapidly to match the heat source",
+        "It increases very slowly along the insulator",
+        "The temperature decreases instantly below room temperature",
+        "It remains completely frozen and never changes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Why does thermal insulation prevent the rapid transfer of heat at a particle level?",
+      "options": [
+        "Insulators do not contain any particles that can vibrate",
+        "Particles in insulators move from one end to the other instantly",
+        "It is difficult for vibrating particles in an insulator to make neighbouring particles vibrate",
+        "Insulators absorb all vibrating particles and destroy them"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Why are materials containing trapped air, like wool or foam, exceptionally good thermal insulators?",
+      "options": [
+        "Air is a dense solid that blocks all particle movement",
+        "Gases like air are very poor thermal conductors",
+        "Trapped air causes the object's temperature to rise on its own",
+        "Air particles are tightly bound and cannot vibrate at all"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    }
+  ]
+}
