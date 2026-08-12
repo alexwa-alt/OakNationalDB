@@ -1,0 +1,226 @@
+{
+  "unitKey": "9WavesPhysics",
+  "generatedAt": "2026-08-12T06:19:32.490683+00:00",
+  "questions": [
+    {
+      "question": "When a sound wave reaches the human ear, which sequence of structures is set into vibration first, second, and third?",
+      "options": [
+        "Cochlea, then tiny bones, then eardrum",
+        "Eardrum, then tiny bones, then cochlea",
+        "Eardrum, then cochlea, then tiny bones",
+        "Tiny bones, then eardrum, then cochlea"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the specific role of the specialised cells located inside the cochlea during the hearing process?",
+      "options": [
+        "They vibrate to directly strike the auditory nerve.",
+        "They convert mechanical vibrations into electrical signals.",
+        "They amplify the sound waves before they reach the tiny bones.",
+        "They filter out sounds that are below 20 Hz."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A person with a fully functioning eardrum, bones, and cochlea still cannot hear anything because their auditory nerve is damaged. Why does this prevent the sensation of hearing?",
+      "options": [
+        "The brain cannot receive the electrical signals required to create the sensation of hearing.",
+        "The cochlea cannot vibrate without the nerve sending energy back to it.",
+        "The sound waves are reflected out of the ear instead of being absorbed.",
+        "The tiny bones cannot pass vibrations to the cochlea without nerve impulses."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A sound engineer wants to play a sound that is extremely easy for a typical human with healthy hearing to detect, even at a low volume. Which frequency should they choose?",
+      "options": [
+        "15 Hz",
+        "1,000 Hz",
+        "3,500 Hz",
+        "25,000 Hz"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A speaker emits two sound waves: Wave X at 12 Hz and Wave Y at 25,000 Hz. If a person with healthy hearing stands nearby in a quiet room, what will they hear?",
+      "options": [
+        "Only Wave X, because it is at a lower frequency.",
+        "Only Wave Y, because it has higher energy.",
+        "Both Wave X and Wave Y, as they are within the hearing range.",
+        "Neither Wave X nor Wave Y, because both frequencies are outside the human hearing range."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When a whistle is blown, sound travels to a listener 100 meters away. Which statement best describes the physical movement of the air particles between the whistle and the listener?",
+      "options": [
+        "The air particles near the whistle travel all the way to the listener's ear.",
+        "The air particles vibrate back and forth, parallel to the sound's path, without moving permanently forward.",
+        "The air particles move up and down perpendicularly to the direction of the sound.",
+        "The air particles spin in tiny circles, transferring their energy to neighbouring particles."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why is a sound wave classified as a longitudinal wave?",
+      "options": [
+        "The vibrations of the medium's particles are parallel to the direction of the wave's energy transfer.",
+        "The particles of the medium vibrate at right angles to the direction the wave travels.",
+        "The wave can travel through a vacuum where there are no particles to vibrate.",
+        "The speed of the wave increases as the length of the wave increases."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "If you submerge your head in water, you might notice that underwater sounds seem to reach you faster than they do in the air. What is the physical explanation for this?",
+      "options": [
+        "Water particles are much lighter than air particles, allowing them to oscillate faster.",
+        "Water is a liquid where particles are closer together than in a gas, allowing vibrations to be passed on more quickly.",
+        "The pressure underwater forces sound waves to compress and travel with greater force.",
+        "Water particles can travel long distances to carry the sound directly to your ears."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why does sound travel faster through a solid steel rod than through liquid water?",
+      "options": [
+        "Steel particles are free to slide past one another, reducing friction.",
+        "The strong forces between particles in a solid allow vibrations to be passed along more rapidly.",
+        "Steel is denser, which always decreases the resistance to sound wave propagation.",
+        "Steel contains tiny air pockets that act as conduits for the sound wave."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Sound travels through three different materials: fresh water, air, and an iron bar. Which of the following lists these materials in order of increasing sound speed (slowest to fastest)?",
+      "options": [
+        "Air, then fresh water, then iron bar",
+        "Iron bar, then fresh water, then air",
+        "Fresh water, then air, then iron bar",
+        "Air, then iron bar, then fresh water"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A person stands in front of a large, flat, hard concrete wall and claps their hands. A short moment later, they hear the clap again. What wave phenomenon explains this occurrence?",
+      "options": [
+        "Refraction of the sound wave as it enters the concrete wall.",
+        "Reflection of the sound wave off the hard surface, creating an echo.",
+        "Absorption of the sound wave, which vibrates the wall.",
+        "Diffraction of the sound wave around the edges of the wall."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A ship uses a sonar pulse to measure the depth of the seabed. The sound wave travels straight down, reflects off the seabed, and is detected 2.0 seconds later. If the speed of sound in water is 1500 m/s, how deep is the seabed?",
+      "options": [
+        "3000 meters",
+        "1500 meters",
+        "750 meters",
+        "6000 meters"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Students are measuring the speed of sound in air by clapping hands near a wall and timing the echo with a stopwatch. Why is it better to stand 150 meters away from the wall rather than 10 meters away?",
+      "options": [
+        "At 150 meters, the sound wave travels faster, reducing the time delay.",
+        "A longer distance and time means that timing errors are a smaller proportion of the total measurement.",
+        "Sound waves do not reflect off walls if the distance is less than 50 meters.",
+        "Air resistance is lower over longer distances, making the speed calculation more accurate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "An industrial whistle produces sound waves at a frequency of 22,000 Hz. How would this sound be classified, and can a human with normal hearing hear it?",
+      "options": [
+        "Infrasound, and it cannot be heard by humans.",
+        "Ultrasound, and it can be heard easily by humans.",
+        "Ultrasound, and it cannot be heard by humans.",
+        "Audible sound, and it can be heard by humans."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why is ultrasound considered safe for imaging a developing baby inside a mother's womb?",
+      "options": [
+        "It does not transfer any energy to the tissues of the body.",
+        "It is a low-frequency sound that does not cause cells to vibrate.",
+        "It transfers energy by causing vibrations, but does not cause harm to the human body.",
+        "It passes completely through the body without interacting with any tissues."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How does an ultrasound machine create an image of internal organs on a monitor?",
+      "options": [
+        "It measures how much the ultrasound waves speed up as they cross different organs.",
+        "It detects ultrasound waves that reflect back from the boundaries between different types of body tissues.",
+        "It uses the heat generated by the vibrating tissues to construct a thermal map.",
+        "It captures the light emitted when ultrasound waves collide with bones."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A toy duck is floating on a pond. A wave travels across the pond from left to right. What is the actual movement of the toy duck as the wave passes?",
+      "options": [
+        "It is carried by the wave from the left side of the pond to the right side.",
+        "It moves up and down in its position, with very little net forward movement.",
+        "It sinks to the bottom of the pond and then rises back up.",
+        "It spins in a continuous clockwise circle along the water surface."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which statement correctly explains why water waves are classified as transverse waves?",
+      "options": [
+        "The water particles oscillate parallel to the direction of energy transfer.",
+        "The water particles move in the same direction as the wave's travel.",
+        "The direction of the water's oscillation is at 90 degrees (perpendicular) to the direction of energy transfer.",
+        "Water waves can only travel through a solid medium."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A calm sea level is at 0 meters. When waves start, the crests of the waves reach +1.5 meters, and the troughs drop to -1.5 meters. What is the amplitude of these waves?",
+      "options": [
+        "0.75 meters",
+        "1.5 meters",
+        "3.0 meters",
+        "4.5 meters"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Two water waves of equal amplitude meet. At one point, a crest of one wave aligns perfectly with a trough of the other wave. What happens to the water surface at this point, and what is this effect called?",
+      "options": [
+        "The water surface becomes flat because the waves cancel out; this is called wave superposition.",
+        "The water surface rises twice as high because the waves add up; this is called wave reflection.",
+        "The water surface starts to spin rapidly; this is called wave refraction.",
+        "The water surface becomes flat because the waves absorb each other; this is called wave diffraction."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    }
+  ]
+}

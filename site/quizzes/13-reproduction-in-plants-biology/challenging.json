@@ -1,0 +1,226 @@
+{
+  "unitKey": "13Reproduction in plantsBiology",
+  "generatedAt": "2026-08-12T06:19:42.840079+00:00",
+  "questions": [
+    {
+      "question": "In flowering plants, which of the following events marks the exact moment fertilisation occurs?",
+      "options": [
+        "When a pollen grain lands on the sticky surface of the stigma.",
+        "When the nuclei of the male gamete and the female egg cell fuse together.",
+        "When the pollen tube begins growing down through the style.",
+        "When the ripened ovary wall begins to expand and develop into a fleshy fruit."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A plant breeder wants to increase the genetic diversity of a rare flower species to help it adapt to climate change. Which pollination method should they encourage, and why?",
+      "options": [
+        "Self-pollination, because it ensures that only successful parent traits are preserved without modification.",
+        "Cross-pollination, because it combines genetic material from two different plants, increasing variation.",
+        "Self-pollination, because it reduces the chance of harmful mutations from external pollen sources.",
+        "Cross-pollination, because it guarantees that every seed produced will be genetically identical to the stronger parent."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "During an observation of a cherry blossom, a student notices a bee brushing against the anther and then flying to the stigma of another flower. What process did the student observe, and what are the specific parts involved?",
+      "options": [
+        "Fertilisation; the transfer of female gametes from the stigma to the male anther.",
+        "Germination; the activation of the embryo inside the seed coat via the style.",
+        "Pollination; the transfer of pollen grains from the male anther to the female stigma.",
+        "Seed dispersal; the movement of fertilised ovules from the ovary to the stigma."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How does the widespread loss of wild insect habitats directly threaten global food security?",
+      "options": [
+        "It reduces the rate of photosynthesis in wild plants, causing a global drop in oxygen levels.",
+        "It disrupts the pollination of major food crops, leading to lower yields of fruits, vegetables, and nuts.",
+        "It prevents plants from absorbing minerals through their roots due to a lack of soil aeration.",
+        "It increases the number of plant diseases because insects are no longer present to eat harmful fungi."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A farmer notices a significant decline in the yield of their almond and apple orchards but sees no change in their wheat crop. What is the most likely ecological reason for this difference?",
+      "options": [
+        "Wheat crops are self-pollinated only, whereas almonds and apples require wind dispersal of their seeds.",
+        "Almonds and apples rely heavily on animal pollinators, whereas wheat is wind-pollinated and does not need animal vectors.",
+        "Almonds and apples are non-flowering plants that reproduce via spores, which are highly sensitive to soil moisture.",
+        "Wheat requires insect pollination, but its flowering cycle occurs during a time when insect activity is naturally at its lowest."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "An ecologist finds a seed that is covered in tiny, curved hooks. Which mechanism of dispersal is this seed most likely adapted for, and what is the biological advantage?",
+      "options": [
+        "Wind dispersal; the hooks act like sails to catch light air currents.",
+        "Water dispersal; the hooks anchor the seed to floating debris to prevent it from sinking.",
+        "Animal dispersal; the hooks cling to animal fur, carrying the seed far from the parent plant to reduce competition.",
+        "Self-dispersal; the hooks contract and expand to pull the seed along the soil surface."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A botanist slices open a fresh tomato and explains to a class that, scientifically, it is a fruit. Which biological definition of a fruit supports this statement?",
+      "options": [
+        "A structure that develops from the roots to store excess starch and glucose.",
+        "The mature, ripened ovary of a flower that encloses the seeds.",
+        "A specialised leaf structure that has adapted to photosynthesise more efficiently.",
+        "The pollen-producing organ of a flower that has swelled after fertilisation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "If a seed's tough outer coat is damaged before dispersal, but the embryo and food store remain intact, what is the most likely consequence for the seed's survival?",
+      "options": [
+        "The seed will grow faster because water can reach the food store without any resistance.",
+        "The embryo will immediately starve because the food store depends on the outer coat to release nutrients.",
+        "The embryo is highly vulnerable to decay by soil microbes and physical damage before germination can occur.",
+        "The seed will be unable to carry out photosynthesis because the outer coat contains the chlorophyll."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Under a microscope, a student observes a pollen grain. What is the primary biological role of this structure in plant reproduction?",
+      "options": [
+        "To carry the male gametes from the male parts of a flower to the female parts.",
+        "To provide a protective food store for the developing zygote in the ovary.",
+        "To absorb nutrients and water from the stigma to nourish the growing pollen tube.",
+        "To develop directly into the embryo of a new plant once it lands on a suitable surface."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Why is the successful reproduction of flowering plants considered fundamental to the survival of terrestrial animals?",
+      "options": [
+        "Flowering plants are the only organisms that can convert nitrogen gas into usable nitrates.",
+        "Plant reproduction releases carbon dioxide, which is essential for animal respiration.",
+        "Flowering plants are primary producers that form the base of food chains, providing energy and nutrients for consumers.",
+        "Pollination directly purifies water sources by filtering out heavy metals."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A student investigates how temperature affects the germination rate of cress seeds on wet cotton wool. Which of the following sets of variables must be kept constant to ensure a valid conclusion?",
+      "options": [
+        "The volume of water, the type of seeds, the light intensity, and the material of the substrate.",
+        "The temperature of the surroundings, the number of seeds, and the volume of water.",
+        "The duration of the experiment, the temperature, and the independent variable.",
+        "The type of seeds, the temperature of each incubator, and the size of the petri dish."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "To investigate how soil acidity affects the early growth of mustard seeds, a student sets up five trays with different pH levels. What would be the most appropriate dependent variable to measure to conclude on the effect?",
+      "options": [
+        "The pH level of the soil in each tray.",
+        "The percentage of seeds that germinate and the height of the shoots after ten days.",
+        "The volume of water added to each tray daily.",
+        "The starting mass of the seeds before planting."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "In an investigation into how salinity affects seed germination, a student decides to change the concentration of salt in the watering solution. Which of the following represents the correct identification of the independent variable and an appropriate range of values?",
+      "options": [
+        "The independent variable is salt concentration; values could be 0%, 1%, 2%, 3%, and 4% salt solutions.",
+        "The dependent variable is salt concentration; values should be 10g, 20g, and 30g.",
+        "The control variable is water volume; values should be 5 ml, 10 ml, and 15 ml.",
+        "The independent variable is the number of germinated seeds; values should be from 0 to 50 seeds."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "In an experiment, seeds placed in a sealed jar with an oxygen absorber failed to germinate, while seeds in a jar with normal air germinated successfully. All other conditions were identical. Which of the following is the most valid conclusion?",
+      "options": [
+        "Oxygen is produced by germinating seeds during photosynthesis.",
+        "Seeds can only germinate when they are kept in completely open containers.",
+        "Oxygen is a required factor for the germination of these seeds.",
+        "High levels of oxygen prevent seeds from absorbing water."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A student records the number of germinated seeds daily at different temperatures:\n- 5°C: Day 3 = 0, Day 6 = 2, Day 9 = 5\n- 15°C: Day 3 = 4, Day 6 = 18, Day 9 = 20\n- 25°C: Day 3 = 12, Day 6 = 24, Day 9 = 25\n\nWhich pattern is shown by these results?",
+      "options": [
+        "Germination is completely inhibited at temperatures above 15°C.",
+        "Higher temperatures, up to 25°C, increase both the speed and the overall rate of germination.",
+        "The total number of germinated seeds is always lowest on Day 6 across all temperatures.",
+        "Temperature has no effect on how quickly seeds begin to germinate, only on final numbers."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A student is choosing how to display data from two different plant investigations.\n\nInvestigation A: The effect of different soil types (clay, sand, loam) on seed germination.\nInvestigation B: The effect of temperature (10°C, 20°C, 30°C, 40°C) on the rate of pollen tube growth.\n\nWhich types of charts or graphs should they use?",
+      "options": [
+        "Investigation A: Line graph; Investigation B: Bar chart.",
+        "Investigation A: Bar chart; Investigation B: Line graph.",
+        "Both investigations should use line graphs because they both measure plant growth.",
+        "Both investigations should use bar charts because soil type and temperature are both categoric variables."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "A student compares two seeds: Seed X has a large, wing-like structure and is extremely lightweight, while Seed Y is heavy and surrounded by a sweet, fleshy outer layer. What are the most likely dispersal mechanisms for these seeds?",
+      "options": [
+        "Seed X is adapted for wind dispersal; Seed Y is adapted for animal dispersal.",
+        "Seed X is adapted for animal dispersal; Seed Y is adapted for wind dispersal.",
+        "Both seeds are adapted for water dispersal because of their surface area.",
+        "Seed X is adapted for self-dispersal; Seed Y is adapted for wind dispersal."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "In an experiment testing how the surface area of a model seed affects its flight, students drop paper seed models with different wing lengths in front of a fan. What is the dependent variable in this investigation?",
+      "options": [
+        "The horizontal distance the model seed travels from the release point.",
+        "The speed of the fan.",
+        "The wing length of the paper seed model.",
+        "The mass of the paper used to make the models."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "When investigating the dispersal distance of model seeds, why is it important to drop each model template five times and calculate a mean, rather than taking just one measurement?",
+      "options": [
+        "To ensure that the model seeds become lighter with each successive drop.",
+        "To identify any anomalous results and improve the reliability of the calculated average distance.",
+        "To change the independent variable gradually throughout the testing process.",
+        "To guarantee that the wind speed from the fan increases systematically."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "A group of seeds was incubated in three conditions:\n- Condition A: wet cotton wool in a dark cupboard (20°C).\n- Condition B: dry cotton wool on a sunny windowsill (20°C).\n- Condition C: wet cotton wool in a refrigerator (4°C) with light.\n\nOnly the seeds in Condition A germinated. What do these results indicate about the factors required for germination of these seeds?",
+      "options": [
+        "They require light and warmth, but water is not necessary.",
+        "They require water and warmth, but light is not required for germination.",
+        "They require cold temperatures and dry conditions to break dormancy.",
+        "They require light, water, and cold temperatures to stimulate growth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    }
+  ]
+}

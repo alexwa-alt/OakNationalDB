@@ -1,0 +1,226 @@
+{
+  "unitKey": "10Disease and drugsBiology",
+  "generatedAt": "2026-08-12T06:19:43.323911+00:00",
+  "questions": [
+    {
+      "question": "A patient experiencing an asthma attack finds it much harder to move air into and out of their lungs. Which of the following physical changes in the respiratory system directly explains this sudden difficulty?",
+      "options": [
+        "The alveoli fuse together, reducing the total surface area for gas exchange.",
+        "The bronchial tubes become constricted and narrower, increasing resistance to airflow.",
+        "The diaphragm muscle becomes temporarily paralyzed, preventing chest expansion.",
+        "The trachea completely collapses due to a lack of cartilage support."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why is a spacer device often recommended to be used alongside a metered-dose inhaler for delivering asthma medication?",
+      "options": [
+        "It chemically alters the medication to make it more potent before it reaches the lungs.",
+        "It slows down the aerosol spray, helping more of the active medication reach the bronchial tubes instead of hitting the back of the throat.",
+        "It increases the volume of gas in the lungs, forcing the narrow airways to physically expand.",
+        "It filters out harmful air pollution and pathogens while the medicine is being inhaled."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Consider four children with different profiles. Which child has the highest combination of recognized risk factors for developing asthma?",
+      "options": [
+        "Child A: Born at a high birth weight, lives in a rural area with low pollution, and has no family history of allergies.",
+        "Child B: Born at a normal birth weight, lives in a city, and plays sports daily.",
+        "Child C: Born at a low birth weight, has a parent with asthma, and is regularly exposed to second-hand cigarette smoke.",
+        "Child D: Born at a normal birth weight, has a food allergy, and lives in a smoke-free home in the countryside."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Malaria is caused by a protozoan parasite and is transmitted between humans by mosquitoes. Influenza is caused by a virus and spread through airborne droplets. Why are both classified as infectious diseases?",
+      "options": [
+        "Because they both damage the lungs and circulatory system of the host.",
+        "Because they both can be transmitted from one host organism to another, either directly or via a vector.",
+        "Because they are both caused by non-living environmental toxins that enter the body.",
+        "Because they can both be treated and cured using the exact same type of antibiotic medication."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A doctor treats two patients: one has tuberculosis (caused by Mycobacterium tuberculosis) and the other has chickenpox (caused by the Varicella-zoster virus). What do the causative agents of these two diseases have in common?",
+      "options": [
+        "They are both cellular organisms that can replicate independently outside of a host.",
+        "They are both pathogens that invade host organisms and disrupt normal body functions.",
+        "They are both susceptible to standard antibacterial drugs like penicillin.",
+        "They are both non-living genetic particles wrapped in a protein coat."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A person diagnosed with Type 1 diabetes (a non-infectious autoimmune condition) lives with their family. Why is there no risk of the family members catching diabetes from close contact with this person?",
+      "options": [
+        "The family members must have already developed immunity to the diabetes pathogen.",
+        "Diabetes is caused by a virus that can only be transmitted through blood transfusions, not casual contact.",
+        "Non-infectious diseases do not involve a transmissible pathogen that can replicate and pass between hosts.",
+        "The medication used to treat diabetes completely sterilizes any pathogens before they can spread."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Two individuals have the same genetic background. Individual X eats a diet high in saturated fats and sugar and has a sedentary desk job. Individual Y eats a balanced diet and jogs three times a week. How do their lifestyles affect their long-term health risks?",
+      "options": [
+        "Individual X has a higher risk of developing infectious cardiovascular diseases than Individual Y.",
+        "Individual X's sedentary lifestyle and unbalanced diet increase their risk of developing non-infectious conditions like Type 2 diabetes.",
+        "Individual Y's high activity level completely eliminates any genetic risk of disease.",
+        "Individual Y is more susceptible to viral infections because of the physiological stress of exercise."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which of the following statements best describes how substance use (such as smoking or heavy alcohol consumption) contributes to the development of lifestyle diseases?",
+      "options": [
+        "It introduces beneficial pathogens that strengthen the immune system against chronic conditions.",
+        "It causes immediate, temporary physiological changes that leave no long-term chemical footprints in tissues.",
+        "It introduces harmful chemicals that can cause cumulative damage to organs and alter metabolic processes over time.",
+        "It guarantees that a person will develop a chronic disease within a predictable five-year window."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A public health campaign aims to reduce the incidence of coronary heart disease and liver disease in a population. Which combination of lifestyle recommendations would be most effective?",
+      "options": [
+        "Increasing the consumption of processed foods while reducing daily physical activity to rest the heart.",
+        "Avoiding tobacco smoke, limiting or avoiding alcohol intake, and maintaining a balanced diet with regular physical activity.",
+        "Replacing all water intake with caffeinated energy drinks and focusing solely on anaerobic weight training.",
+        "Relying entirely on daily vitamin supplements while continuing to smoke and drink heavily."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why are substances like caffeine in coffee, nicotine in tobacco, and alcohol in beer classified as recreational drugs?",
+      "options": [
+        "They are consumed primarily for non-medical, personal pleasure or social reasons and affect the way the body or mind works.",
+        "They are only capable of producing positive health outcomes without any risk of side effects or addiction.",
+        "They are synthesized in laboratories specifically to treat infectious bacterial diseases.",
+        "They do not alter brain chemistry or affect a person's central nervous system."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How do the primary effects of stimulants and depressants on the central nervous system compare?",
+      "options": [
+        "Stimulants and depressants both speed up the transmission of electrical impulses, but stimulants target the muscles while depressants target the brain.",
+        "Stimulants increase neurotransmitter activity to speed up body systems, whereas depressants reduce neurotransmitter activity to slow down body systems.",
+        "Stimulants slow down heart rate to increase mental focus, while depressants speed up digestion to promote relaxation.",
+        "Stimulants physically block nerve pathways, while depressants create new synaptic connections between neurons."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In a reaction-time test, a volunteer who has consumed a depressant substance takes significantly longer to press a button when a red light flashes. What is the cellular explanation for this observation?",
+      "options": [
+        "The nerve impulses travel faster along the sensory neurons but are blocked at the muscles.",
+        "The depressant slows down the transmission of signals across synapses in the brain and spinal cord.",
+        "The depressant causes the light receptors in the eyes to stop functioning temporarily.",
+        "The skeletal muscles of the finger have been temporarily depleted of glucose."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A person who has consumed excessive amounts of alcohol over many years is diagnosed with cirrhosis of the liver and cognitive decline. Why are these specific organs severely affected?",
+      "options": [
+        "The liver is responsible for breaking down toxic alcohol, leading to long-term tissue scarring, while the brain's delicate neural pathways are damaged by chronic exposure to this depressant.",
+        "The liver and brain are the only organs in the body that contain receptors for alcohol molecules.",
+        "Alcohol physically blocks the blood vessels leading directly to the brain and liver, causing oxygen deprivation.",
+        "The liver converts alcohol into a nutrient that over-nourishes brain cells, causing them to grow out of control."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A driver drinks a strong cup of black coffee containing caffeine before a long night drive. How does this stimulant chemically benefit the driver's immediate performance?",
+      "options": [
+        "It dilates the pupils to allow infrared light in, improving night vision.",
+        "It increases alertness and shortens reaction times, allowing the driver to process hazards and brake more quickly.",
+        "It acts as a pain reliever, preventing muscle fatigue in the legs and hands.",
+        "It slows down heart rate, helping the driver stay calm and meditative during traffic."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Cocaine and ecstasy are classified as illegal stimulants. What is a key physiological risk associated with these substances due to their stimulant properties?",
+      "options": [
+        "They can cause a dangerous drop in blood pressure and slow the heart rate to a stop.",
+        "They can cause severe over-stimulation of the cardiovascular system, leading to abnormally high heart rates and blood pressure.",
+        "They put the user into a deep, unresponsive sleep by suppressing the respiratory center in the brain.",
+        "They destroy the body's ability to produce adrenaline, leaving the user permanently fatigued."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Why do many people find it extremely difficult to stop smoking tobacco, even when they are fully aware of the severe damage it causes to their lungs?",
+      "options": [
+        "Tobacco smoke contains physical fibers that bind tightly to the alveoli, creating a physical dependency.",
+        "Nicotine in the tobacco leaves triggers chemical changes in the brain's reward system, making it highly addictive.",
+        "The tar in cigarettes acts as a sedative that relaxes the chest muscles, making breathing without it feel painful.",
+        "Carbon monoxide in the smoke is required by the red blood cells to transport oxygen efficiently."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "How does long-term exposure to tobacco smoke contribute to the development of both respiratory diseases (like COPD) and circulatory diseases (like heart disease)?",
+      "options": [
+        "Tobacco smoke contains pathogens that infect both the alveoli and the heart valves directly.",
+        "Toxic chemicals in smoke damage the airways and alveoli, while also damaging blood vessels and increasing plaque build-up in arteries.",
+        "Carbon monoxide in smoke converts oxygen into carbon dioxide before it can reach the body's vital organs.",
+        "Smoking causes the lungs to expand so much that they physically compress and damage the surrounding heart tissue."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Why is inhaling the fumes of substances like glue or spray paint (solvent abuse) considered highly dangerous, even from the very first use?",
+      "options": [
+        "Solvents contain heavy bacterial loads that cause immediate, severe lung infections.",
+        "The inhaled chemicals can cause sudden heart failure, suffocation, or permanent brain damage due to their toxic effects on the body.",
+        "Solvents are highly acidic and immediately dissolve the cartilage of the trachea upon contact.",
+        "They cause the body to rapidly lose water, leading to fatal dehydration within minutes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Many people switch from smoking traditional cigarettes to vaping, believing it to be entirely harmless. What is a key health concern that remains when a person vapes?",
+      "options": [
+        "Vaping still delivers nicotine, which is highly addictive and has negative cardiovascular and neurological effects on the body.",
+        "E-cigarettes contain the exact same concentration of tar and carbon monoxide as burning tobacco leaves.",
+        "Vaping completely destroys the user's immune system within a few days of use.",
+        "The water vapor from e-cigarettes causes the alveoli to fill up with liquid, simulating drowning."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "In the mid-20th century, smoking was often marketed as healthy, but today it is strictly regulated due to its known health risks. How does this shift reflect the nature of scientific inquiry?",
+      "options": [
+        "Scientific facts are completely random and change based on which political party is in power.",
+        "As new, rigorous evidence from long-term health studies emerged, scientists updated their understanding of smoking's harmful effects.",
+        "The chemical composition of tobacco plants naturally mutated over time to become toxic to humans.",
+        "Early scientists were not allowed to perform experiments, so they had to guess the health effects of smoking."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 38
+    }
+  ]
+}

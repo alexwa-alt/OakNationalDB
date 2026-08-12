@@ -141,19 +141,24 @@
       "challenging": "challenging.json"
     },
     "9WavesPhysics": {
-      "path": "9-waves-physics"
+      "path": "9-waves-physics",
+      "challenging": "challenging.json"
     },
     "10Disease and drugsBiology": {
-      "path": "10-disease-and-drugs-biology"
+      "path": "10-disease-and-drugs-biology",
+      "challenging": "challenging.json"
     },
     "11Patterns in the periodic tableChemistry": {
-      "path": "11-patterns-in-the-periodic-table-chemistry"
+      "path": "11-patterns-in-the-periodic-table-chemistry",
+      "challenging": "challenging.json"
     },
     "12Resistance and parallel circuitsPhysics": {
-      "path": "12-resistance-and-parallel-circuits-physics"
+      "path": "12-resistance-and-parallel-circuits-physics",
+      "challenging": "challenging.json"
     },
     "13Reproduction in plantsBiology": {
-      "path": "13-reproduction-in-plants-biology"
+      "path": "13-reproduction-in-plants-biology",
+      "challenging": "challenging.json"
     },
     "14Climate change and biodiversityBiologyChemistry": {
       "path": "14-climate-change-and-biodiversity-biology-chemistry"

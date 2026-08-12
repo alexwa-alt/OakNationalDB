@@ -1,0 +1,226 @@
+{
+  "unitKey": "11Patterns in the periodic tableChemistry",
+  "generatedAt": "2026-08-12T06:19:29.599478+00:00",
+  "questions": [
+    {
+      "question": "Why is helium, a Group 0 element, used to fill balloons rather than hydrogen, despite being slightly heavier?",
+      "options": [
+        "Helium is highly reactive and forms a protective barrier.",
+        "Helium is in Group 0, meaning it is unreactive and safe from burning.",
+        "Helium is a solid at room temperature and does not leak.",
+        "Helium reacts with air to produce water vapour."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If you have a sealed container of neon and argon at 25°C (room temperature), what state of matter will both elements be in?",
+      "options": [
+        "They will both be liquids.",
+        "One will be a gas and the other will be a liquid.",
+        "They will both be gases.",
+        "One will be a solid and the other will be a gas."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why do noble gases rarely form chemical bonds with other elements?",
+      "options": [
+        "They have an incomplete outer electron shell, which repels other atoms.",
+        "They have complete outer electron shells, making them exceptionally stable.",
+        "They are too heavy to collide with other elements.",
+        "Their protons are located outside the nucleus, preventing reactions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Helium, neon, argon, and krypton are noble gases listed in order down Group 0. Which of the following trends is correct as you go from helium to krypton?",
+      "options": [
+        "The boiling point decreases.",
+        "The density decreases.",
+        "The atomic mass decreases.",
+        "The boiling point and density both increase."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When analyzing the physical properties of elements within a specific group of the periodic table, what general trend is observed?",
+      "options": [
+        "Properties change randomly and unpredictably.",
+        "Properties remain absolutely identical for all elements in that group.",
+        "Properties change gradually down the group.",
+        "Properties alternate between metal and non-metal characteristics."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following describes the physical properties and reactivity of Group 1 metals?",
+      "options": [
+        "They are hard, dense, and become less reactive down the group.",
+        "They are soft, have lower densities than most other metals, and become more reactive down the group.",
+        "They are soft, dense, and become less reactive down the group.",
+        "They are hard, low density, and become more reactive down the group."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Lithium is added to water containing universal indicator. The indicator turns purple. Which products of the reaction explain this observation and the fizzing?",
+      "options": [
+        "Lithium oxide and oxygen gas.",
+        "An alkaline solution of lithium hydroxide and hydrogen gas.",
+        "An acidic solution of lithium hydride and hydrogen gas.",
+        "Neutral water and lithium gas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A student adds a piece of magnesium (a Group 2 metal) to a test tube of dilute hydrochloric acid. What are the products of this chemical reaction?",
+      "options": [
+        "A salt and hydrogen gas.",
+        "An alkaline oxide and oxygen gas.",
+        "Water and chlorine gas.",
+        "Metal hydroxide and carbon dioxide."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Calcium and potassium are in the same period, but potassium is in Group 1 and calcium is in Group 2. How do their reactivities compare?",
+      "options": [
+        "Calcium is more reactive than potassium, and calcium becomes less reactive down its group.",
+        "Calcium is less reactive than potassium, and calcium becomes more reactive down its group.",
+        "Calcium and potassium have identical reactivities.",
+        "Calcium is more reactive than potassium, but becomes more reactive down its group."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "If a flask of chlorine gas is opened in a fume cupboard, what would you expect to see, and why must this be done safely?",
+      "options": [
+        "A colourless, harmless vapour that smells like water.",
+        "A coloured, toxic vapour that must not be inhaled.",
+        "A bright purple solid that melts instantly.",
+        "A red liquid that evaporates into an odourless, safe gas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Chlorine, bromine, and iodine are halogens in Group 7, ordered from top to bottom. What are their physical states at room temperature?",
+      "options": [
+        "Chlorine is a solid, bromine is a liquid, iodine is a gas.",
+        "Chlorine is a gas, bromine is a liquid, iodine is a solid.",
+        "All three elements are gases at room temperature.",
+        "All three elements are solids at room temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "When investigating the displacement reactions of Group 7 elements (halogens), we find that fluorine is extremely reactive, while iodine is much less reactive. What is the trend in reactivity down Group 7?",
+      "options": [
+        "Reactivity increases down the group.",
+        "Reactivity remains constant down the group.",
+        "Reactivity decreases down the group.",
+        "Reactivity decreases then increases down the group."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When sodium (Group 1) is heated and placed in a jar of chlorine gas (Group 7), a vigorous reaction occurs to produce a white powder. What is this product?",
+      "options": [
+        "A metal hydride.",
+        "A metal halide.",
+        "A metal oxide.",
+        "A noble gas compound."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A student prepares a sample of potassium chloride, which is a metal halide. What will happen if they stir this solid compound into a beaker of water?",
+      "options": [
+        "It will react violently to produce hydrogen gas.",
+        "It will dissolve completely because metal halides are soluble in water.",
+        "It will remain as an insoluble white precipitate at the bottom.",
+        "It will float on top of the water without dissolving."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In the modern periodic table, how are columns and rows distinguished?",
+      "options": [
+        "Each column is called a period, and each row is called a group.",
+        "Columns and rows are both called groups.",
+        "Each column is called a group, and each row is called a period.",
+        "Columns are called families, and rows are called categories."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Who is credited with the historical development of the periodic table, organizing elements by their atomic weights and properties?",
+      "options": [
+        "Albert Einstein, a German physicist.",
+        "Dimitri Mendeleev, a Russian scientist.",
+        "Marie Curie, a Polish chemist.",
+        "John Dalton, an English schoolteacher."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How does the periodic table organize the known chemical elements?",
+      "options": [
+        "Alphabetically by their English names.",
+        "Chronologically by the date they were discovered.",
+        "Into groups and periods, according to their chemical and physical properties.",
+        "Solely by their state of matter at absolute zero."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why are lithium, sodium, and potassium placed in the same column (Group 1) of the periodic table?",
+      "options": [
+        "They have completely different physical properties but identical masses.",
+        "They are in the same group because they have similar properties.",
+        "They were all discovered in the same year by Mendeleev.",
+        "They are all gases that do not react with water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Beyond the numbered vertical groups, how can the elements of the periodic table be broadly categorized?",
+      "options": [
+        "Only into synthetic elements and natural gases.",
+        "Into non-metals and metals, which include the transition metals.",
+        "Into liquids, solids, and plasma groups.",
+        "Into acidic elements and alkaline gases only."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A block of an unknown metal can be easily cut with a butter knife and floats on water before reacting rapidly. Which part of the periodic table does this metal most likely belong to?",
+      "options": [
+        "Transition metals, because they are soft and dense.",
+        "Group 2 alkaline earth metals, because they have high densities.",
+        "Group 1 alkali metals, because they are soft and have low densities.",
+        "Group 7 halogens, because they are soft metals."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    }
+  ]
+}
