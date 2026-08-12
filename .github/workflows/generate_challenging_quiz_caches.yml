@@ -41,7 +41,15 @@ jobs:
             if [ "$OVERWRITE" = "true" ]; then
               arguments+=(--overwrite)
             fi
-            python commands/generate_forces_quizzes.py "${arguments[@]}"
+            if ! python commands/generate_forces_quizzes.py "${arguments[@]}"; then
+              git add site/quizzes
+              if ! git diff --staged --quiet; then
+                git commit -m "Save partial challenging quiz cache [skip ci]"
+                git pull --rebase origin main
+                git push origin HEAD:main
+              fi
+              exit 1
+            fi
             git add site/quizzes
             if ! git diff --staged --quiet; then
               git commit -m "Generate challenging quiz cache [skip ci]"
