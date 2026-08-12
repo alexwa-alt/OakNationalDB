@@ -1,0 +1,171 @@
+{
+  "unitKey": "4Understanding chemical reactionsChemistry",
+  "generatedAt": "2026-08-12T05:49:07.060451+00:00",
+  "questions": [
+    {
+      "question": "Which of the following is a common physical or visual indicator that a chemical reaction has taken place?",
+      "options": [
+        "The mixture remains completely unchanged in appearance and temperature.",
+        "A change in colour, bubbling, or a change of temperature occurs.",
+        "The total volume of liquid increases without any other changes.",
+        "The container becomes instantly heavier without adding anything."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What happens to atoms during a chemical reaction to create new substances?",
+      "options": [
+        "They are destroyed and replaced by completely new elements.",
+        "They rearrange themselves into different combinations.",
+        "They turn into energy and disappear from the system.",
+        "They merge together to form one giant, single atom."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following is generally true about chemical reactions?",
+      "options": [
+        "They can always be easily reversed by cooling the mixture.",
+        "They are generally irreversible.",
+        "They never produce any new chemical substances.",
+        "They only happen when substances are frozen."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What three components are necessary to initiate a combustion reaction?",
+      "options": [
+        "Fuel, carbon dioxide, and water",
+        "Fuel, nitrogen, and a catalyst",
+        "Fuel, oxygen, and an initial source of energy like heat",
+        "Fuel, hydrogen, and high pressure"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Under what conditions is water often formed as a product in a chemical reaction?",
+      "options": [
+        "Only when nitrogen and oxygen atoms are present in the reactants.",
+        "When hydrogen and oxygen atoms are present in the reactants.",
+        "When carbon and hydrogen atoms are heated in a vacuum.",
+        "Only when water is used as the solvent for the reaction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why are carbon dioxide and water very common products in many chemical reactions?",
+      "options": [
+        "They consist of large, complex polymers that decompose slowly.",
+        "They consist of small molecules that form easily with strong bonds.",
+        "They are the only substances that can contain oxygen.",
+        "They have weak bonds that break apart at room temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which statement best describes a decomposition reaction?",
+      "options": [
+        "Two elements combine to form a single, larger compound.",
+        "A single compound breaks down into two or more products.",
+        "An insoluble solid forms when two clear solutions are mixed.",
+        "Oxygen reacts with a metal to form a metal oxide."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What are the typical products when a metal carbonate is heated and undergoes decomposition?",
+      "options": [
+        "A metal and pure oxygen gas",
+        "A metal oxide and carbon dioxide gas",
+        "Hydrogen gas and a metal hydroxide",
+        "Carbon monoxide and water vapour"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is the scientific term used when a substance reacts and combines with oxygen?",
+      "options": [
+        "Reduction",
+        "Decomposition",
+        "Hydration",
+        "Oxidation"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following processes are both examples of oxidation?",
+      "options": [
+        "Combustion and rusting",
+        "Thermal decomposition and neutralization",
+        "Melting and evaporation",
+        "Filtration and precipitation"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What defines a precipitation reaction when two solutions are mixed together?",
+      "options": [
+        "A gas is rapidly released with a loud pop.",
+        "The solutions turn into a single solid block of ice.",
+        "An insoluble solid is formed from the combination.",
+        "The temperature of the mixture drops to absolute zero."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why are precipitation reactions practically useful in municipal water treatment?",
+      "options": [
+        "They increase the oxygen level in drinking water.",
+        "They help to dissolve solid plastic waste.",
+        "They are used to remove unwanted substances from water by forming solids.",
+        "They turn the liquid water into a steam phase for distillation."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How does the total mass of the products in a chemical reaction compare to the total mass of the reactants?",
+      "options": [
+        "The products always have a much higher mass than the reactants.",
+        "The products always have a lower mass because atoms are destroyed.",
+        "The mass of the products is exactly the same as the mass of the reactants.",
+        "The mass changes unpredictably depending on the temperature."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What information is represented by a chemical formula?",
+      "options": [
+        "The speed at which a chemical reaction occurs.",
+        "The physical state (solid, liquid, or gas) of the substance.",
+        "The numbers of each type of atom in a reactant or product.",
+        "The cost and availability of the chemicals used."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What does the arrow represent in a written chemical equation?",
+      "options": [
+        "‘changes into’",
+        "‘is equal to’",
+        "‘reverses back to’",
+        "‘dissolves in’"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    }
+  ]
+}

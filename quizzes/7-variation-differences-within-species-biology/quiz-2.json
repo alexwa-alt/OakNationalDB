@@ -1,0 +1,193 @@
+{
+  "unitKey": "7Variation (differences within species)Biology",
+  "generatedAt": "2026-08-12T05:49:08.073839+00:00",
+  "questions": [
+    {
+      "question": "What defines discontinuous variation in living organisms?",
+      "options": [
+        "Features that can take any numerical value within a range.",
+        "Features that have limited variations falling into distinct, separate categories.",
+        "Features that only change as an organism grows older.",
+        "Features that are determined entirely by the climate they live in."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following best describes continuous variation?",
+      "options": [
+        "Features that can only be classified into yes or no answers.",
+        "Features that can take any value within a range.",
+        "Features that are passed down only from the maternal parent.",
+        "Features that do not change from generation to generation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of these features in humans represents discontinuous variation?",
+      "options": [
+        "Height",
+        "Body mass",
+        "ABO blood group",
+        "Foot length"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which type of graph is most appropriate for displaying continuous data, such as the heights of a group of students?",
+      "options": [
+        "Bar chart",
+        "Histogram or line graph",
+        "Pie chart",
+        "Pictogram"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What factors usually influence continuous variation in organisms?",
+      "options": [
+        "Genetics, environment, and lifestyle factors.",
+        "Only the temperature of the surroundings.",
+        "Purely genetic factors with no environmental influence.",
+        "Only the diet of the organism during early development."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What is the most appropriate way to display discontinuous data, such as eye colour or blood group?",
+      "options": [
+        "A line graph",
+        "A scatter graph",
+        "A bar chart",
+        "A histogram"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What is the primary cause of discontinuous variation in organisms?",
+      "options": [
+        "It is usually caused only by genetics and is not affected by environment or lifestyle.",
+        "It is determined purely by the nutrient intake of the organism.",
+        "It is shaped entirely by physical exercise and lifestyle choices.",
+        "It is caused by accidental injuries sustained during an organism's life."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When organisms reproduce, what is the term for them producing offspring of the same kind?",
+      "options": [
+        "Species resemblance",
+        "Environmental adaptation",
+        "Continuous variation",
+        "Natural selection"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why do offspring tend to look similar to their parents and to each other (family resemblance)?",
+      "options": [
+        "Because they inherit features from both parents.",
+        "Because they live in the exact same environment.",
+        "Because they copy the behaviors of their siblings.",
+        "Because they have identical environmental exposure."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How are inherited features passed from parents to offspring during reproduction?",
+      "options": [
+        "Through the transfer of nutrients in food.",
+        "Through DNA passed from parents to offspring.",
+        "Through the copy of learned physical skills.",
+        "Through environmental exposure in the womb."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following is a feature that is primarily caused or changed by an organism's lifestyle and environment?",
+      "options": [
+        "Biological sex",
+        "Blood type",
+        "Speaking a specific language",
+        "Eye colour"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which statement is true regarding variation between offspring?",
+      "options": [
+        "Offspring are always genetically identical to their parents.",
+        "There is usually variation between offspring; they are not usually identical to their parents or each other.",
+        "Offspring only show variation if they are raised in different countries.",
+        "Offspring of the same parents have no physical differences."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How do differences between species compare to differences within species?",
+      "options": [
+        "Differences between species are smaller than differences within species.",
+        "Differences between species are greater than differences within species.",
+        "There are no differences between species.",
+        "Differences within species are always identical to differences between species."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is the term for the differences in features between individuals of the same species?",
+      "options": [
+        "Evolution",
+        "Adaptation",
+        "Variation",
+        "Inheritance"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following features is caused ONLY by environmental factors?",
+      "options": [
+        "Having a physical scar from a bicycle fall",
+        "Having curly hair",
+        "Having blood group O",
+        "Having naturally brown eyes"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Which of the following variations is caused ONLY by inherited genetic information?",
+      "options": [
+        "Body mass",
+        "Blood type",
+        "Accidental scars",
+        "Language spoken"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which of the following features results from a combination of both genetic and environmental/lifestyle factors?",
+      "options": [
+        "Blood group",
+        "Eye colour",
+        "Body mass",
+        "Biological sex"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    }
+  ]
+}

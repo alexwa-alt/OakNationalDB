@@ -1,0 +1,182 @@
+{
+  "unitKey": "5Moving by forcePhysics",
+  "generatedAt": "2026-08-12T05:49:08.067822+00:00",
+  "questions": [
+    {
+      "question": "If two cars travel the exact same distance, how does the speed of the faster car affect its travel time compared to the slower car?",
+      "options": [
+        "The faster car takes more time.",
+        "The faster car takes a shorter time.",
+        "The faster car takes the same amount of time.",
+        "The faster car's time depends on its weight."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which formula is used to calculate the speed of an object?",
+      "options": [
+        "Speed = distance x time",
+        "Speed = time / distance",
+        "Speed = distance / time",
+        "Speed = distance + time"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the effect of a resultant force acting on a moving object?",
+      "options": [
+        "It can change the speed of the object.",
+        "It always keeps the object at a constant speed.",
+        "It has no effect on the object's speed.",
+        "It instantly reduces the object's mass to zero."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "On a distance-time graph, what does a steeper line with a greater gradient represent?",
+      "options": [
+        "The object is moving slower.",
+        "The object is stationary.",
+        "The object is moving faster.",
+        "The object is moving backwards only."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "When does a falling object reach its terminal velocity?",
+      "options": [
+        "When gravity becomes zero.",
+        "When the drag force is greater than gravity.",
+        "When the drag and gravitational forces are equal.",
+        "When it first starts to fall."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How does increasing the surface area of a parachute affect its drag force?",
+      "options": [
+        "It makes the drag force bigger.",
+        "It makes the drag force smaller.",
+        "It has no effect on the drag force.",
+        "It reduces the gravity acting on it."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "When a skydiver with a parachute is falling at top speed, how does the force of drag compare to the force of gravity on the jumper?",
+      "options": [
+        "Drag is much smaller than gravity.",
+        "Drag is the same size as gravity.",
+        "Drag is twice as large as gravity.",
+        "Drag is zero."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What does a horizontal, level line on a distance-time graph represent?",
+      "options": [
+        "The object is moving at a steady high speed.",
+        "The object is accelerating.",
+        "The object is stationary with no movement.",
+        "The object is moving backwards."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "On a distance-time graph, what is indicated by upward sloping lines compared to downward sloping lines?",
+      "options": [
+        "Movement in opposite directions.",
+        "Movement at the exact same constant speed only.",
+        "That the object is stationary in both cases.",
+        "That the object is gaining mass."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is meant by the instantaneous speed of an object?",
+      "options": [
+        "The speed of the object over an entire journey.",
+        "The speed of the object at a particular moment in time.",
+        "The maximum speed the object can possibly reach.",
+        "The speed of an object when it is at rest."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why is it beneficial to take repeat readings during an experiment?",
+      "options": [
+        "To make the experiment take longer.",
+        "To reduce the effect of random errors.",
+        "To eliminate systematic errors completely.",
+        "To guarantee that all readings are anomalous."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What should you do with anomalous readings when calculating average values?",
+      "options": [
+        "Include them normally in the calculation.",
+        "Double their value before adding them.",
+        "Exclude them so they are not used in calculations of averages.",
+        "Replace all other readings with the anomalous reading."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "In which direction does friction act on a moving object?",
+      "options": [
+        "In the same direction as the movement.",
+        "Against the direction of movement of the object.",
+        "Upwards, perpendicular to the movement.",
+        "Downwards, in the direction of gravity."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "If no resultant force is acting on a moving object, what will happen to its motion?",
+      "options": [
+        "It will slowly come to a stop.",
+        "It will continue to move at a steady speed in a straight line.",
+        "It will instantly speed up.",
+        "It will begin to move in a circle."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What is the primary physical effect of streamlining an object?",
+      "options": [
+        "It increases the gravitational pull on the object.",
+        "It reduces the drag force on the object.",
+        "It increases the mass of the object.",
+        "It makes the object stationary."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "How does the speed of an object moving through a fluid affect the drag force acting on it?",
+      "options": [
+        "The drag force increases with speed.",
+        "The drag force decreases as speed increases.",
+        "The drag force remains completely constant at all speeds.",
+        "The drag force immediately drops to zero once the object moves."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 37
+    }
+  ]
+}

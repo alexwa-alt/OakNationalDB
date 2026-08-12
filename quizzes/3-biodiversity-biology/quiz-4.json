@@ -1,0 +1,193 @@
+{
+  "unitKey": "3BiodiversityBiology",
+  "generatedAt": "2026-08-12T05:49:11.587758+00:00",
+  "questions": [
+    {
+      "question": "Which of the following is a physical adaptation that can help an animal survive in a cold environment?",
+      "options": [
+        "Being active only at night",
+        "Having thick fur for insulation",
+        "Migrating to warmer areas in winter",
+        "Hibernating in an underground burrow"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following is a behavioural adaptation that helps an animal avoid daytime predators?",
+      "options": [
+        "Having camouflaged scales",
+        "Possessing sharp claws",
+        "Being nocturnal and active at night",
+        "Having a layer of blubber"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why is maintaining a high level of biodiversity crucial for a habitat?",
+      "options": [
+        "It ensures that only one dominant species survives.",
+        "It helps to maintain healthy, stable habitats.",
+        "It decreases the need for any producers in the food web.",
+        "It prevents any natural evolution from occurring."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is meant by the term \"gene pool\" in a species?",
+      "options": [
+        "The total physical volume of water where a species breeds",
+        "The range of DNA and genetic variation within that species",
+        "The physical adaptations used to swim in aquatic environments",
+        "The artificial selection of organisms in captivity"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why do ecologists use sampling to estimate the size of a population in a large field?",
+      "options": [
+        "Because it is impossible to count every single individual in the entire area.",
+        "Because sampling guarantees that every organism is physically captured.",
+        "Because sampling is only done when there are no organisms present.",
+        "Because they want to change the genetic makeup of the population."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What type of equipment is a quadrat, and what is it typically used to sample?",
+      "options": [
+        "A long net used to catch fast-flying insects",
+        "A square frame used to sample plants or slow-moving animals",
+        "A sensor used to measure the temperature of soil",
+        "A glass trap used to collect nocturnal mammals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why is it important that quadrat sampling is usually carried out randomly?",
+      "options": [
+        "To ensure that only the rarest species are counted",
+        "To avoid bias in the results",
+        "To make sure every single organism in the habitat is sampled",
+        "To select the areas with the highest number of plants deliberately"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which scientific tool is designed specifically to help identify different species based on their characteristics?",
+      "options": [
+        "A classification key",
+        "A quadrat frame",
+        "A pyramid of biomass",
+        "A gene bank"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why are organisms in an ecosystem described as being interdependent?",
+      "options": [
+        "Because they can survive completely on their own without other species.",
+        "Because they depend upon each other for the resources they need to survive.",
+        "Because they all belong to the exact same species.",
+        "Because they do not interact with their physical environment."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is the fundamental role of producers in a food chain?",
+      "options": [
+        "They break down dead organisms to recycle minerals.",
+        "They make the food that all other organisms in the food chain depend upon.",
+        "They consume primary consumers to control their population.",
+        "They absorb organic matter from dead animals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Why do all living organisms depend on decomposers in an ecosystem?",
+      "options": [
+        "Because they are the primary source of light energy.",
+        "Because they break down dead organisms and recycle useful substances for reuse.",
+        "Because they hunt and control the numbers of top predators.",
+        "Because they are the only organisms that can photosynthesise."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "How is biodiversity defined?",
+      "options": [
+        "The total number of non-living components in an ecosystem",
+        "A measure of the range of living organisms",
+        "The speed at which energy flows through a food chain",
+        "The physical size of the largest organism in a habitat"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which of the following is a physical adaptation of a plant designed to deter herbivores?",
+      "options": [
+        "Growing its leaves towards a light source",
+        "Flowering only during the night",
+        "The presence of sharp spines",
+        "Shedding its leaves in the autumn"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What is an example of a behavioural adaptation in plants?",
+      "options": [
+        "Developing a thick, waxy cuticle on leaves",
+        "Growing towards light sources",
+        "Having deep taproots to reach water",
+        "Producing sharp thorns on stems"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What do pyramids of biomass represent?",
+      "options": [
+        "The total number of individual organisms at each stage in a food chain",
+        "The biomass of organisms at each stage in a food chain",
+        "The speed of reproduction of the organisms in a habitat",
+        "The amount of water contained within the non-living surroundings"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Where is the producer always located in a pyramid of biomass?",
+      "options": [
+        "At the very top level",
+        "At the bottom level",
+        "In the middle level",
+        "It is excluded from the pyramid"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What data is used to construct a pyramid of number?",
+      "options": [
+        "The total dry mass of all organisms at each level",
+        "The number of organisms at each trophic level in a food chain",
+        "The amount of energy lost as heat at each stage",
+        "The depth of the soil in which the plants grow"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    }
+  ]
+}

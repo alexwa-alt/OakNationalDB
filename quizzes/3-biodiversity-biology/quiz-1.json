@@ -1,0 +1,193 @@
+{
+  "unitKey": "3BiodiversityBiology",
+  "generatedAt": "2026-08-12T05:49:15.550931+00:00",
+  "questions": [
+    {
+      "question": "Why do animals have adaptations?",
+      "options": [
+        "To help them survive in their environment",
+        "To allow them to change their DNA structure at will",
+        "To prevent them from interacting with other species",
+        "To make them look identical to all other species"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following is an example of a physical adaptation in an animal?",
+      "options": [
+        "Hunting only during the coolest parts of the night",
+        "Thick fur to provide insulation in cold climates",
+        "Migrating to warmer areas during winter",
+        "Living in underground burrows to avoid heat"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following describes a behavioural adaptation in an animal?",
+      "options": [
+        "Having a layer of blubber under the skin",
+        "Being nocturnal to avoid daytime heat",
+        "Having sharp claws to catch prey",
+        "Having large ears to radiate heat away"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why is high biodiversity important for ecosystems?",
+      "options": [
+        "It reduces the need for plants to photosynthesise",
+        "It ensures only one dominant species survives",
+        "It is important to maintain healthy habitats",
+        "It prevents natural environmental changes from occurring"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is a gene pool?",
+      "options": [
+        "The physical area of water where organisms reproduce",
+        "The range of DNA in a species",
+        "A database used by scientists to store genetic codes",
+        "The physical traits expressed by a single organism"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following is a way that biodiversity can be maintained?",
+      "options": [
+        "Introducing invasive species to new habitats",
+        "Monoculture farming of a single crop",
+        "Conservation, protection and gene banks",
+        "Building urban developments over wild areas"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why is sampling used to estimate animal and plant populations in an area?",
+      "options": [
+        "Because it would be impossible to count them all",
+        "Because sampling changes the DNA of the organisms",
+        "Because organisms can only be identified if they are captured",
+        "Because sampling always gives a completely error-free count"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What are quadrats and what are they used to sample?",
+      "options": [
+        "Circular nets used to capture flying insects",
+        "Square frames used to sample plants or slow-moving animals",
+        "Digital sensors used to measure soil temperature",
+        "Chemicals used to identify different tree species"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why is most sampling using quadrats carried out randomly?",
+      "options": [
+        "To ensure only rare species are counted",
+        "To make the fieldwork faster to complete",
+        "To avoid bias in your results",
+        "To ensure every quadrat contains the exact same number of organisms"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the primary function of a classification key in ecology?",
+      "options": [
+        "To calculate the total biomass of a habitat",
+        "To identify different species",
+        "To randomly place quadrats in an area",
+        "To measure the flow of energy through a food chain"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why are organisms in an ecosystem described as interdependent?",
+      "options": [
+        "They are completely independent of their surroundings",
+        "They depend upon each other for the things they need to survive",
+        "They can produce their own energy without any external resources",
+        "They all belong to the exact same species"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What role do producers play for other organisms in a food chain?",
+      "options": [
+        "They break down dead organic matter",
+        "They are the top predators that control populations",
+        "All organisms depend upon them to make the food that moves through food chains",
+        "They feed on primary consumers to recycle nutrients"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Why do living organisms depend upon decomposers?",
+      "options": [
+        "They produce oxygen through photosynthesis",
+        "They break down dead organisms and recycle useful substances for reuse",
+        "They act as the primary consumers in all food chains",
+        "They provide physical shelter for smaller animals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What does the term biodiversity measure?",
+      "options": [
+        "The total mass of living material in an ecosystem",
+        "The rate of photosynthesis in a specific habitat",
+        "The range of living organisms",
+        "The temperature and weather patterns of an area"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which of the following is a physical adaptation of a plant?",
+      "options": [
+        "Growing towards light",
+        "Opening flowers only in the daytime",
+        "Spines to deter consumers",
+        "Releasing seeds only after a fire"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What is biomass?",
+      "options": [
+        "The total number of species in an area",
+        "The mass of living material in one or more organisms",
+        "The energy lost at each trophic level",
+        "The non-living surroundings of an ecosystem"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Where is the producer always positioned in a pyramid of biomass?",
+      "options": [
+        "At the very top",
+        "In the middle",
+        "At the bottom",
+        "It is excluded from the pyramid"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 29
+    }
+  ]
+}

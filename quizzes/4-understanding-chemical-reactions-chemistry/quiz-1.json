@@ -1,0 +1,182 @@
+{
+  "unitKey": "4Understanding chemical reactionsChemistry",
+  "generatedAt": "2026-08-12T05:49:13.303829+00:00",
+  "questions": [
+    {
+      "question": "Which of the following is a common indicator that a chemical reaction has taken place?",
+      "options": [
+        "A change in the container's volume",
+        "A change in colour, bubbling, or a change of temperature",
+        "The complete evaporation of a liquid",
+        "A change in the shape of the container"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why do bubbles typically appear during a chemical reaction?",
+      "options": [
+        "Because a solid is dissolving into a liquid",
+        "Because a gas is being produced",
+        "Because the liquid is boiling due to external heat",
+        "Because the substances are turning into a plasma"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What occurs to the atoms of reactants during a chemical reaction?",
+      "options": [
+        "They are destroyed and brand new atoms are created",
+        "They rearrange themselves to form new substances",
+        "They change into different chemical elements",
+        "They melt into a single large nucleus"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Generally, what is a key characteristic of chemical reactions regarding their reversibility?",
+      "options": [
+        "They can easily be reversed by cooling them down",
+        "They are irreversible",
+        "They always produce liquid water",
+        "They only occur at room temperature"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which three components are required to start a combustion reaction?",
+      "options": [
+        "Fuel, carbon dioxide, and a cooling agent",
+        "Fuel, oxygen, and an initial source of energy, usually heat",
+        "Water, carbon dioxide, and light",
+        "Nitrogen, oxygen, and electricity"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What process does the term 'burning' describe in chemistry?",
+      "options": [
+        "The reaction of substances with oxygen, commonly referring to visible flames",
+        "The physical melting of a solid into a liquid",
+        "The breaking down of water into hydrogen and oxygen gases",
+        "The cooling of a substance until it solidifies"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which gas is often formed in a chemical reaction when both oxygen and carbon atoms are present?",
+      "options": [
+        "Nitrogen dioxide",
+        "Carbon dioxide",
+        "Hydrogen gas",
+        "Sulfur dioxide"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What occurs during a decomposition reaction?",
+      "options": [
+        "Two elements combining to make a single compound",
+        "A single compound breaking down into two or more products",
+        "An insoluble solid forming from two solutions",
+        "A substance reacting rapidly with oxygen to produce heat"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What do metal carbonates typically form when they decompose upon heating?",
+      "options": [
+        "Metal oxides and carbon dioxide gas",
+        "Metal hydroxides and hydrogen gas",
+        "Pure metals and oxygen gas",
+        "Metal chlorides and water vapour"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is the chemical term for a reaction where a substance combines with oxygen?",
+      "options": [
+        "Reduction",
+        "Decomposition",
+        "Oxidation",
+        "Precipitation"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following are common examples of oxidation reactions?",
+      "options": [
+        "Melting and freezing",
+        "Combustion and rusting",
+        "Evaporation and condensation",
+        "Filtering and dissolving"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What happens when a precipitation reaction occurs?",
+      "options": [
+        "A solid melts into a liquid when heated",
+        "Two solutions combine to form an insoluble solid",
+        "A gas condenses to form a liquid",
+        "A single compound breaks down into simpler gases"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why are precipitation reactions important in the process of water treatment?",
+      "options": [
+        "To boil the water and kill all bacteria",
+        "To remove unwanted substances from water",
+        "To increase the oxygen level of drinking water",
+        "To convert salt water into fresh water through evaporation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "According to the conservation of mass, how does the mass of the products compare to the mass of the reactants?",
+      "options": [
+        "The mass of the products is always greater",
+        "The mass of the products is the same as the mass of the reactants",
+        "The mass of the products is always less",
+        "The mass can increase or decrease depending on the temperature"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is the primary purpose of using word equations in chemistry?",
+      "options": [
+        "To calculate the exact mass of the atoms involved",
+        "They are a simple way of describing chemical reactions",
+        "To list the physical state of every chemical",
+        "To show the speed of a reaction"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "In a chemical equation, what does the arrow represent?",
+      "options": [
+        "The speed of the reaction",
+        "The words 'changes into'",
+        "The temperature at which the reaction occurs",
+        "The physical state of the products"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    }
+  ]
+}

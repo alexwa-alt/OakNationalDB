@@ -1,0 +1,182 @@
+{
+  "unitKey": "3BiodiversityBiology",
+  "generatedAt": "2026-08-12T05:49:08.690347+00:00",
+  "questions": [
+    {
+      "question": "Which of the following is classified as a behavioural adaptation in animals?",
+      "options": [
+        "Having a thick layer of blubber under the skin",
+        "Being nocturnal and active only at night",
+        "Possessing sharp claws for catching prey",
+        "Having striped fur for camouflage"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why is maintaining high biodiversity crucial for an ecosystem?",
+      "options": [
+        "It ensures that only the strongest species can survive",
+        "It is important for keeping habitats healthy and stable",
+        "It decreases the overall number of food chains",
+        "It prevents any natural changes from occurring in the environment"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is meant by the term 'gene pool' in biology?",
+      "options": [
+        "The physical location where frogs and insects breed",
+        "The total number of individual organisms in a habitat",
+        "The range of DNA present within a species",
+        "The collection of physical adaptations in an ecosystem"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why do ecologists use sampling to estimate populations in an area rather than counting every single organism?",
+      "options": [
+        "Because sampling is the only way to find out what species eat",
+        "Because counting every individual organism would be impossible",
+        "Because sampling automatically prevents any animals from migrating",
+        "Because animals cannot be seen without specialized sampling traps"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What are quadrats, and what are they primarily used to sample?",
+      "options": [
+        "Square frames used to sample plants or slow-moving animals",
+        "Long nets used to capture fast-flying birds",
+        "Deep traps used to collect nocturnal burrowing mammals",
+        "Sensors used to measure the moisture level of soil"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why is most sampling using quadrats carried out randomly?",
+      "options": [
+        "To make sure the sampling takes as much time as possible",
+        "To avoid bias in the results",
+        "To ensure that only the rarest plants are counted",
+        "To guarantee that every quadrat contains the same number of organisms"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the main purpose of using a classification key in ecological studies?",
+      "options": [
+        "To measure the biomass of a population",
+        "To count the number of decomposers in the soil",
+        "To identify different species of organisms",
+        "To randomly place quadrats in a field"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What makes up an ecosystem?",
+      "options": [
+        "Only the non-living surroundings in a specific habitat",
+        "A community of organisms interacting with each other and their non-living surroundings",
+        "A single species of animal and the food it eats",
+        "The weather conditions and temperature of an area over a year"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Organisms in an ecosystem are described as interdependent. What does this mean?",
+      "options": [
+        "They do not require any resources from their environment to survive",
+        "They rely on different habitats during different times of the year",
+        "They depend upon each other for the things they need to survive",
+        "They compete so fiercely that only one species can survive"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why are decomposers essential for the survival of other living organisms in an ecosystem?",
+      "options": [
+        "They make food directly from sunlight for the herbivores",
+        "They break down dead organisms and recycle useful substances for reuse",
+        "They control the population of large predators",
+        "They provide shade for young plants to grow"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What is the definition of biodiversity?",
+      "options": [
+        "The study of how animals behave in the wild",
+        "The total mass of all plants in a specific ecosystem",
+        "A measure of the range of living organisms",
+        "The speed at which energy flows through a food chain"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which of the following is a physical adaptation of a plant?",
+      "options": [
+        "Growing towards a source of light",
+        "Releasing seeds only during autumn",
+        "Opening flowers only during the daytime",
+        "Having spines to deter consumers"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which of the following is a behavioural adaptation in plants?",
+      "options": [
+        "Having shallow or deep roots to absorb water",
+        "Growing towards light",
+        "Developing thick waxy leaves to reduce water loss",
+        "Producing toxic chemicals in their stems"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What is biomass?",
+      "options": [
+        "The total volume of water stored inside a plant's roots",
+        "The mass of living material in one or more organisms",
+        "The number of organisms at the top of a food chain",
+        "The energy lost as heat to the surroundings"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "What do pyramids of biomass show?",
+      "options": [
+        "The number of individual organisms at each stage in a food chain",
+        "The speed at which food is digested by consumers",
+        "The biomass of organisms at each stage in a food chain",
+        "The physical height of plants in a habitat"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "What do the scaled bars in a pyramid of numbers represent?",
+      "options": [
+        "The total dry mass of all organisms in the habitat",
+        "The number of organisms at each trophic level",
+        "The amount of energy transferred between levels",
+        "The physical size of the individual organisms"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    }
+  ]
+}

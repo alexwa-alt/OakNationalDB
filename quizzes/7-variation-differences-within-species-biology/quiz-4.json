@@ -1,0 +1,182 @@
+{
+  "unitKey": "7Variation (differences within species)Biology",
+  "generatedAt": "2026-08-12T05:49:10.955460+00:00",
+  "questions": [
+    {
+      "question": "Which of the following is a characteristic of discontinuous variation?",
+      "options": [
+        "The feature can take any numerical value within a continuous range.",
+        "The feature falls into distinct, limited categories with no intermediates.",
+        "The feature is displayed using a line graph instead of a bar chart.",
+        "The feature is only ever influenced by the surrounding environment."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How is continuous variation best described?",
+      "options": [
+        "Features that can be grouped into a small number of distinct categories.",
+        "Features that are either completely present or completely absent.",
+        "Features that can take any value within a wide, unbroken range.",
+        "Features that are determined solely by a single gene and do not change."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following pairs correctly identifies a continuous feature followed by a discontinuous feature in humans?",
+      "options": [
+        "Height and blood group",
+        "Blood group and eye colour",
+        "Lobed ears and height",
+        "Eye colour and weight"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which type of chart is most appropriate for displaying continuous data, such as the body mass of a population of mice?",
+      "options": [
+        "A pie chart",
+        "A bar chart with gaps between bars",
+        "A histogram",
+        "A Venn diagram"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following best explains what influences a continuous variation feature like a person's height?",
+      "options": [
+        "It is determined entirely by a single gene inherited from the mother.",
+        "It is influenced by a combination of genetics, nutrition, and general lifestyle.",
+        "It is affected only by the physical environment after birth.",
+        "It is determined solely by the lifestyle choices made during adulthood."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "When displaying data for a discontinuous feature, such as blood groups in a classroom, which type of chart should be used?",
+      "options": [
+        "A line graph with a line of best fit",
+        "A scatter graph",
+        "A histogram with touching bars",
+        "A bar chart with gaps between the bars"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What is typically true about the cause of discontinuous variation?",
+      "options": [
+        "It is usually caused only by genetic factors and is unaffected by lifestyle.",
+        "It is heavily influenced by diet, exercise, and climate.",
+        "It changes constantly throughout an organism's lifetime.",
+        "It is caused entirely by environmental conditions during development."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When a pair of domestic cats reproduce, they always produce kittens rather than puppies or rabbit kits. What is this concept known as?",
+      "options": [
+        "Discontinuous variation",
+        "Species resemblance",
+        "Environmental adaptation",
+        "Continuous distribution"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why do siblings in a human family often look similar to each other and to their parents?",
+      "options": [
+        "Because they inherit genetic features from both parents, leading to family resemblance.",
+        "Because they share the exact same environmental influences throughout their entire lives.",
+        "Because siblings are genetically identical to their father.",
+        "Because children only inherit physical features from their mother."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What molecule is passed from parents to offspring during reproduction to transmit inherited features?",
+      "options": [
+        "Glucose",
+        "DNA",
+        "Haemoglobin",
+        "Hormones"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following is true regarding variation among offspring from the same parents?",
+      "options": [
+        "Offspring are always exact clones of one of their parents.",
+        "Offspring from the same parents are completely identical to one another.",
+        "There is usually variation, meaning offspring are not typically identical to their parents or siblings.",
+        "Offspring never share any features with their parents."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How do differences between individuals of different species compare to differences between individuals of the same species?",
+      "options": [
+        "Differences within a species are always much greater than differences between species.",
+        "There are absolutely no differences between individuals of different species.",
+        "Differences between species are greater than differences within species.",
+        "The level of difference is exactly the same in both cases."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is the biological term used to describe the differences in features between individuals belonging to the same species?",
+      "options": [
+        "Variation",
+        "Classification",
+        "Resemblance",
+        "Adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following features is an example of variation caused solely by the environment?",
+      "options": [
+        "Having natural blue eyes",
+        "Having an O-positive blood group",
+        "Having a scar from a childhood injury",
+        "Having curly hair"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Which variation in humans is determined solely by inherited genetic information in the genome?",
+      "options": [
+        "Having a suntan",
+        "Your blood group",
+        "Body weight",
+        "Speaking a particular language"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which of the following features is determined by a combination of both genetic inheritance and environmental or lifestyle factors?",
+      "options": [
+        "ABO blood group",
+        "Biological sex",
+        "Body mass",
+        "Presence of earlobes"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    }
+  ]
+}

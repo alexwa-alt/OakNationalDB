@@ -1,0 +1,171 @@
+{
+  "unitKey": "6Species and classification (differences between species)Biology",
+  "generatedAt": "2026-08-12T05:49:12.030412+00:00",
+  "questions": [
+    {
+      "question": "How do scientists decide how to place different organisms into groups within larger groups?",
+      "options": [
+        "By comparing similarities and differences in their physical and biological features.",
+        "By looking at the size of the organisms and where they live.",
+        "By sorting them based on whether they are useful to humans or not.",
+        "By naming them in alphabetical order based on their common names."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following lists classification groups in the correct order from the largest group down to the smallest, most specific group?",
+      "options": [
+        "Species, Genus, Family, Order, Class, Phylum, Kingdom",
+        "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "Kingdom, Genus, Species, Family, Class, Order, Phylum",
+        "Genus, Species, Kingdom, Phylum, Class, Order, Family"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Compared to smaller, more specific classification groups like families, what is true about larger groups like kingdoms?",
+      "options": [
+        "They contain fewer organisms with more similarities in their features.",
+        "They contain more organisms with more similarities in their features.",
+        "They contain fewer organisms with fewer similarities in their features.",
+        "They contain more organisms with fewer similarities in their features."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the biological definition of a species?",
+      "options": [
+        "A group of organisms that look completely identical and live in the exact same habitat.",
+        "A group of organisms with similar features and genes that can breed to produce fertile offspring.",
+        "Any group of organisms that share a common predator in an ecosystem.",
+        "A group of organisms that reproduce only through asexual division to make clones."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "In the binomial system of naming organisms, what two classification groups do the two parts of the scientific name represent?",
+      "options": [
+        "Kingdom and Phylum",
+        "Genus and Species",
+        "Class and Order",
+        "Family and Genus"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Besides looking at large visible features, how can scientists classify organisms into precise groups?",
+      "options": [
+        "By studying their characteristics at the microscopic, cellular level.",
+        "By measuring their speed and movement styles in the wild.",
+        "By counting the total number of individuals in a local population.",
+        "By observing their feeding times during day and night."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following is a key cellular feature that distinguishes plant cells from animal cells?",
+      "options": [
+        "Animal cells have chloroplasts, while plant cells do not.",
+        "Plant cells have a cell wall and chloroplasts, which animal cells lack.",
+        "Plant cells lack a nucleus, while animal cells have one.",
+        "Fungi and bacteria are the only cells that contain cytoplasm."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "If a scientist discovers a new single-celled organism that has a cell wall but no membrane-bound nucleus, into which kingdom would it be classified?",
+      "options": [
+        "Animals",
+        "Plants",
+        "Fungi",
+        "Bacteria"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What is the primary purpose of using a classification key in biology?",
+      "options": [
+        "To determine how many organisms are currently endangered in a specific habitat.",
+        "To find out which groups organisms are classified into.",
+        "To measure the rate of photosynthesis in different plant leaves.",
+        "To predict the future evolution of a newly discovered species."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How is a standard biological classification key structured to help identify organisms?",
+      "options": [
+        "As a random list of facts about different animal behaviours.",
+        "As a series of questions about the features of organisms.",
+        "As a map showing where different species are distributed.",
+        "As a timeline showing when different organisms first evolved."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why is the scientific classification of organisms so important?",
+      "options": [
+        "It helps us organise and make sense of biodiversity.",
+        "It allows us to control the weather patterns in different ecosystems.",
+        "It guarantees that no more species will go extinct.",
+        "It makes it possible to breed entirely new kingdoms of life in laboratories."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "When studying organisms in their natural habitat, what is a key task that students or scientists must do?",
+      "options": [
+        "Make, record, and interpret observations of the organisms in the field.",
+        "Collect as many live specimens as possible to keep in glass jars permanently.",
+        "Relocate the organisms to a different ecosystem to see if they survive.",
+        "Alter the temperature of the habitat to test how the organisms react."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What tool is most useful when you are in the field and need to quickly identify and classify an unknown plant or insect?",
+      "options": [
+        "A microscope to sequence its DNA immediately.",
+        "A classification key designed for that habitat.",
+        "A measuring tape to measure the height of nearby trees.",
+        "An estimation of the total population size."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "When carrying out fieldwork to study living things, what is the most important safety and environmental consideration?",
+      "options": [
+        "Finding ways to capture and domesticate rare wild animals.",
+        "Removing all plants from the area to clear a path for walking.",
+        "Working safely in a way that minimises harm to organisms and ecosystem disruption.",
+        "Clearing the soil down to the bedrock to find hidden insects."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A horse and a donkey can mate to produce a mule, but mules are sterile and cannot reproduce. What does this tell us about horses and donkeys?",
+      "options": [
+        "They belong to the exact same species.",
+        "They belong to different species.",
+        "They do not share any genes or physical features.",
+        "They belong to different kingdoms."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    }
+  ]
+}

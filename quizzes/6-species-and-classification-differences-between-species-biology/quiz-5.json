@@ -1,0 +1,182 @@
+{
+  "unitKey": "6Species and classification (differences between species)Biology",
+  "generatedAt": "2026-08-12T05:49:09.543674+00:00",
+  "questions": [
+    {
+      "question": "How do scientists decide how to group organisms into smaller sub-groups within larger ones?",
+      "options": [
+        "By looking at similarities and differences in their physical and genetic features",
+        "By sorting them alphabetically by their common names",
+        "By grouping them solely by where they live in the world",
+        "By the order in which they were first discovered"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the correct hierarchy of groups used by scientists to classify organisms, from the largest to the smallest?",
+      "options": [
+        "Kingdom down to species",
+        "Species up to kingdom",
+        "Phylum down to genus",
+        "Family up to order"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following is true about larger classification groups, such as kingdoms, compared to smaller groups like species?",
+      "options": [
+        "They contain fewer organisms with more similarities in their features",
+        "They contain more organisms with fewer similarities in their features",
+        "They contain only organisms that look identical to one another",
+        "They contain organisms that can all interbreed to produce fertile offspring"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What biological definition describes a group of organisms belonging to the same species?",
+      "options": [
+        "A group of individuals with similar features and genes that can reproduce to make fertile offspring",
+        "A group of organisms that share the exact same habitat and eat the same food",
+        "A collection of organisms that look identical but cannot breed with one another",
+        "A group of animals that live in the same geographic region and have the same life span"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What do the two parts of a species' binomial scientific name represent?",
+      "options": [
+        "The kingdom and the phylum",
+        "The family and the order",
+        "The genus and the species",
+        "The class and the family"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Besides observable macroscopic features like body shape, what other level of characteristics do scientists use to classify organisms?",
+      "options": [
+        "The size of their ecological footprint on land",
+        "Their characteristics at the microscopic, cellular level",
+        "The speed at which they can run, swim, or fly",
+        "Their behavioral preference for day or night activity"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of these is a key cellular difference used to distinguish and group animals, plants, fungi, and bacteria?",
+      "options": [
+        "The presence of mitochondria in all bacterial cells",
+        "The presence or absence of a cell wall and a nucleus",
+        "The colour of the cytoplasm under a magnifying glass",
+        "The total number of proteins in the cell membrane"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "If an organism's cells contain chloroplasts and cellulose cell walls, into which kingdom would it be classified?",
+      "options": [
+        "Animals",
+        "Fungi",
+        "Plants",
+        "Bacteria"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What is the primary purpose of using a classification key in biology?",
+      "options": [
+        "To calculate the exact population size of an endangered species",
+        "To find out which groups organisms are classified into",
+        "To measure the physical growth rate of a plant over time",
+        "To clone an organism in a laboratory setting"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What does a classification key consist of to help identify an unknown organism?",
+      "options": [
+        "A series of questions about the features of organisms",
+        "A list of all historical scientists who studied the organism",
+        "A set of chemical formulas representing cellular respiration",
+        "A map showing global migration patterns of animals"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why is biological classification so useful to scientists?",
+      "options": [
+        "It helps us organise and make sense of biodiversity",
+        "It allows us to predict the weather patterns of different biomes",
+        "It prevents new species from evolving in the wild",
+        "It reduces the number of species that need to be protected"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "When conducting fieldwork, what is a key task that scientists must do to study local biodiversity?",
+      "options": [
+        "Take wild organisms back to keep as domestic pets",
+        "Make, record and interpret observations of organisms in the field",
+        "Change the physical habitat to make it easier to see animals",
+        "Keep all findings secret from other researchers"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How can a researcher quickly identify and classify an unknown insect while working directly in its natural habitat?",
+      "options": [
+        "By guessing its name based on its colour",
+        "By using a classification key in the field",
+        "By sequencing its entire genome on-site without tools",
+        "By waiting to see if it mates with a known species"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which practice demonstrates working safely in the field while minimising harm to living organisms?",
+      "options": [
+        "Leaving rubbish behind to provide shelter for small insects",
+        "Carefully returning turned-over rocks to their original positions",
+        "Collecting as many live specimens as possible to store in plastic bags",
+        "Clearing away all plants in an area to get a clearer view of the soil"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "If two organisms mate but their offspring is sterile (incapable of reproducing), what does this tell us?",
+      "options": [
+        "The parents belong to different species",
+        "The parents belong to different kingdoms",
+        "The parents do not have any cell walls",
+        "The parents did not share a common habitat"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "An organism is multicellular, has cell walls made of chitin, but lacks chloroplasts. Which kingdom does it belong to?",
+      "options": [
+        "Animals",
+        "Plants",
+        "Fungi",
+        "Bacteria"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    }
+  ]
+}

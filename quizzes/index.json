@@ -44,6 +44,21 @@
     },
     "2Atoms, elements and compoundsChemistry": {
       "path": "2-atoms-elements-and-compounds-chemistry"
+    },
+    "3BiodiversityBiology": {
+      "path": "3-biodiversity-biology"
+    },
+    "4Understanding chemical reactionsChemistry": {
+      "path": "4-understanding-chemical-reactions-chemistry"
+    },
+    "5Moving by forcePhysics": {
+      "path": "5-moving-by-force-physics"
+    },
+    "6Species and classification (differences between species)Biology": {
+      "path": "6-species-and-classification-differences-between-species-biology"
+    },
+    "7Variation (differences within species)Biology": {
+      "path": "7-variation-differences-within-species-biology"
     }
   }
 }
