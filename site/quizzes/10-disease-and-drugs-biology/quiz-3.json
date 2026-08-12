@@ -1,0 +1,193 @@
+{
+  "unitKey": "10Disease and drugsBiology",
+  "generatedAt": "2026-08-12T05:50:52.823898+00:00",
+  "questions": [
+    {
+      "question": "Which of the following is a correct description of asthma?",
+      "options": [
+        "A highly infectious disease spread by water droplets",
+        "A common non-infectious disease that can cause breathing difficulties",
+        "A genetic disease that only affects the liver and kidneys",
+        "An infectious bacterial disease of the digestive system"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What happens to the bronchial tubes (breathing tubes) during an asthma attack?",
+      "options": [
+        "They widen significantly to allow more air in",
+        "They become longer and stiffer",
+        "They narrow, making it harder to breathe",
+        "They fill with stomach acid"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which pair of symptoms is commonly associated with an asthma attack?",
+      "options": [
+        "High fever and skin rash",
+        "Wheezing and shortness of breath",
+        "Joint swelling and memory loss",
+        "Nausea and muscle cramps"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following is identified as a risk factor for developing asthma?",
+      "options": [
+        "Overexposure to direct sunlight",
+        "A diet high in vitamin C",
+        "Having an allergy",
+        "Lack of mental exercise"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which statement correctly describes how infectious diseases behave?",
+      "options": [
+        "They can only be inherited from parents",
+        "They can be passed from one organism to another",
+        "They are exclusively caused by poor dietary choices",
+        "They cannot be transmitted under any circumstances"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Infectious diseases are caused by pathogens. Which of these are examples of pathogens?",
+      "options": [
+        "Tar and carbon monoxide",
+        "Vitamins and minerals",
+        "Viruses and some bacteria",
+        "Pollen and dust mites"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is a key characteristic of non-infectious diseases?",
+      "options": [
+        "They are highly contagious and spread through the air",
+        "They cannot be passed from one organism to another",
+        "They are always cured using standard antibiotics",
+        "They are only found in plants, not humans"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How do eating an unbalanced diet and not getting enough exercise affect human health?",
+      "options": [
+        "They directly cause infectious diseases to spread faster",
+        "They can increase the risk of developing lifestyle diseases",
+        "They guarantee immunity to respiratory infections",
+        "They have no impact on long-term physical health"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What name is given to the group of drugs that people take specifically when they are ill?",
+      "options": [
+        "Stimulants",
+        "Recreational drugs",
+        "Medicines",
+        "Solvents"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What are the two main classes used to group recreational drugs based on their effects on the nervous system?",
+      "options": [
+        "Infectious and non-infectious",
+        "Depressants and stimulants",
+        "Soluble and insoluble",
+        "Synthetic and natural"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How do depressant drugs affect the body's functioning?",
+      "options": [
+        "They speed up physical movement and increase alertness",
+        "They slow down thinking and reaction times",
+        "They cure bacterial infections within the respiratory system",
+        "They improve memory retention and muscle strength"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is a typical effect of a stimulant drug on a person's body?",
+      "options": [
+        "It makes them feel sleepy and reduces their heart rate",
+        "It slows down their reaction times",
+        "It makes them feel more alert and can give them quicker reaction times",
+        "It acts as a painkiller to numb physical sensations"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which chemical found in tobacco leaves is highly addictive and affects the body?",
+      "options": [
+        "Caffeine",
+        "Carbon monoxide",
+        "Nicotine",
+        "Tar"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What is the term used for inhaling chemicals, such as those in glue or paint thinner, to become intoxicated?",
+      "options": [
+        "Vaping",
+        "Solvent abuse",
+        "Smoking",
+        "Caffeine consumption"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "What is a major risk associated with solvent abuse?",
+      "options": [
+        "Improved lung capacity over time",
+        "Long-term health problems and potential death",
+        "Temporary increase in memory capacity",
+        "Immediate immunity to common viruses"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Which substance is consumed during both smoking and vaping, posing a detriment to health?",
+      "options": [
+        "Tar",
+        "Nicotine",
+        "Carbon monoxide",
+        "Ethanol"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "Which statement best describes what we currently know about the health effects of vaping?",
+      "options": [
+        "They are fully known and proven to be completely harmless",
+        "They are not yet fully known",
+        "They are identical in every way to smoking tobacco",
+        "They only affect the digestive system"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    }
+  ]
+}

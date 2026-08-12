@@ -1,0 +1,171 @@
+{
+  "unitKey": "9WavesPhysics",
+  "generatedAt": "2026-08-12T05:51:00.718878+00:00",
+  "questions": [
+    {
+      "question": "What parts of the ear are caused to vibrate when a sound wave enters?",
+      "options": [
+        "Only the eardrum and the brain",
+        "The eardrum, the tiny bones inside the ear, and the cochlea",
+        "Just the auditory nerve and the outer ear lobe",
+        "Only the specialized cells in the brain"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the role of the specialized cells inside the cochlea?",
+      "options": [
+        "To block loud noises from entering the brain",
+        "To vibrate the tiny bones of the middle ear",
+        "To sense vibrations and send electrical signals along a nerve to the brain",
+        "To pump fluid to the outer ear to keep it clean"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which frequency range represents the normal limits of human hearing, and where is it most sensitive?",
+      "options": [
+        "20 Hz to 20 kHz, being most sensitive to 2-5 kHz",
+        "10 Hz to 10 kHz, being most sensitive to 1-2 kHz",
+        "50 Hz to 50 kHz, being most sensitive to 10-15 kHz",
+        "200 Hz to 20,000 kHz, being most sensitive to 5-10 kHz"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When a sound wave travels through the air, how do the individual air particles behave?",
+      "options": [
+        "They travel continuously forward with the wave from the source to the listener",
+        "They spin in small circles without any back-and-forth movement",
+        "They vibrate parallel to the direction of the wave travel, rather than travelling forward",
+        "They vibrate up and down at a 90-degree angle to the wave's path"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why is sound classified as a longitudinal wave?",
+      "options": [
+        "Because the vibrations are perpendicular to the direction of energy transfer",
+        "Because the vibrations are parallel to the direction of energy transfer",
+        "Because it can travel through a vacuum like light waves",
+        "Because it travels slower in solids than in gases"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why do sound waves travel faster in solids than in liquids?",
+      "options": [
+        "Because solids have larger gaps between particles than liquids",
+        "Because the strong forces between particles in solids allow vibrations to travel even faster",
+        "Because solids are always warmer than liquids",
+        "Because particles in a solid travel along with the sound wave"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which of the following is the approximate speed of sound in air, and how does it compare to its speed in other states of matter?",
+      "options": [
+        "About 340 m/s, being faster in liquids and faster still in solids",
+        "About 300,000,000 m/s, being slower in liquids and solids",
+        "About 1500 m/s, being slower in solids but faster in liquids",
+        "About 340 m/s, being slower in liquids and slowest in solids"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What happens when a sound wave reflects off a hard surface and is heard again?",
+      "options": [
+        "It undergoes refraction and becomes high-pitched",
+        "It creates an echo",
+        "It is absorbed and disappears completely",
+        "It turns into a transverse wave"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A sound wave travels 680 meters in 2 seconds. What equation is used to find its speed?",
+      "options": [
+        "speed = distance + time",
+        "speed = distance * time",
+        "speed = distance / time",
+        "speed = time / distance"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why is it beneficial to measure longer distances and times when designing an experiment to find the speed of sound?",
+      "options": [
+        "It completely eliminates all sources of human reaction time",
+        "Any errors become a smaller proportion of the overall measurements",
+        "It causes the speed of sound to increase, making it easier to record",
+        "It changes the sound wave from longitudinal to transverse"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which statement is true regarding the safety and physical effect of ultrasound waves on the human body?",
+      "options": [
+        "They cause harmful cell mutations because they carry ionizing radiation",
+        "They can cause objects to vibrate and transfer energy, but do not harm the human body",
+        "They damage tissues by raising body temperature to dangerous levels",
+        "They cannot transfer any energy to physical structures"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How is ultrasound used to create images of structures inside the human body?",
+      "options": [
+        "It ionizes the tissues to reveal their chemical makeup",
+        "It reflects from the boundaries between different types of body tissues",
+        "It passes straight through all tissues without any reflection",
+        "It converts the body tissues into light-emitting sources"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Describe the motion of a small portion of water as a water wave passes through it.",
+      "options": [
+        "It travels forward across the surface along with the wave crest",
+        "It moves up and down (oscillates) rather than moving forward",
+        "It sinks to the bottom of the pool and stays there",
+        "It moves in a continuous straight line in the opposite direction of the wave"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Why are water waves classified as transverse waves?",
+      "options": [
+        "Because the direction of oscillation is parallel to the direction of energy transfer",
+        "Because the direction of oscillation is at 90 degrees to the direction of energy transfer",
+        "Because they can travel through a complete vacuum",
+        "Because they carry matter rather than energy"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What is wave superposition?",
+      "options": [
+        "The process of a wave changing its frequency as it enters a new medium",
+        "The bending of waves as they pass around a sharp barrier",
+        "The effect where waves passing through each other can 'add up' or 'cancel out'",
+        "The complete loss of energy as a wave travels over a long distance"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    }
+  ]
+}

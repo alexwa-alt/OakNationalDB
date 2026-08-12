@@ -1,0 +1,193 @@
+{
+  "unitKey": "10Disease and drugsBiology",
+  "generatedAt": "2026-08-12T05:50:58.778994+00:00",
+  "questions": [
+    {
+      "question": "Which of the following is a correct description of asthma?",
+      "options": [
+        "An infectious disease caused by a viral infection of the throat",
+        "A non-infectious disease that can cause breathing difficulties",
+        "A bacterial disease that can be treated with antibiotics",
+        "A lifestyle disease caused solely by a lack of exercise"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What physically happens to the respiratory system during an asthma attack?",
+      "options": [
+        "The breathing (bronchial) tubes narrow",
+        "The alveoli completely fill with blood",
+        "The diaphragm becomes permanently paralyzed",
+        "The trachea expands to let in excess air"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How can the symptoms of asthma be treated when someone experiences breathing difficulties?",
+      "options": [
+        "By injecting insulin into the muscle",
+        "By taking medication using an inhaler",
+        "By taking a course of oral antibiotics",
+        "By applying a topical skin ointment"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Infectious diseases are passed from one organism to another. What are they caused by?",
+      "options": [
+        "Vitamins and minerals",
+        "Genes and inherited chromosomes",
+        "Pathogens including viruses and some bacteria",
+        "Tar and carbon monoxide"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which of the following is true about non-infectious diseases?",
+      "options": [
+        "They are always spread through airborne droplets.",
+        "They cannot be passed from one organism to another.",
+        "They are exclusively caused by bacterial infections.",
+        "They can be cured rapidly using antibiotics."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following increases the risk of developing lifestyle diseases?",
+      "options": [
+        "Eating a balanced diet and exercising regularly",
+        "Eating an unbalanced diet and not getting enough exercise",
+        "Getting plenty of sleep and drinking water",
+        "Avoiding processed foods and walking daily"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which set of lifestyle factors can increase the risk of developing lifestyle diseases?",
+      "options": [
+        "Reading, sleeping, and maintaining a balanced diet",
+        "Regular handwashing, vaccination, and outdoor walking",
+        "Smoking, drinking alcohol and using drugs",
+        "Stretching, drinking water, and taking vitamins"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Recreational drugs can be classified into which two main groups?",
+      "options": [
+        "Infectious and non-infectious",
+        "Curative and preventative",
+        "Depressants or stimulants",
+        "Solvents and antibiotics"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What effect do depressants have on the body?",
+      "options": [
+        "They speed up breathing and increase heart rate.",
+        "They slow down thinking and reaction times.",
+        "They cause immediate physical numbness in the limbs.",
+        "They increase alertness and physical strength."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is alcohol classified as, and what are the long-term health risks of its use?",
+      "options": [
+        "A stimulant; causes lung cancer and asthma",
+        "A legal depressant; long-term use can damage the brain and liver",
+        "A solvent; causes immediate tooth decay",
+        "An antibiotic; destroys beneficial gut bacteria"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is the effect of stimulants on a person's body?",
+      "options": [
+        "They slow down heart rate and make the person drowsy.",
+        "They make you feel more alert and can give you quicker thinking and reaction times.",
+        "They act as pain relief medication to reduce swelling.",
+        "They induce deep sleep and lower body temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which highly addictive substance is found in tobacco leaves?",
+      "options": [
+        "Tar",
+        "Caffeine",
+        "Nicotine",
+        "Ethanol"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Smoking tobacco significantly increases the risk of developing which diseases?",
+      "options": [
+        "Asthma, COPD, lung cancer and heart disease",
+        "Type 1 diabetes, hemophilia, and Down's syndrome",
+        "Malaria, cholera, and tuberculosis",
+        "Arthritis, food allergies, and eczema"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What is the term for inhaling chemicals, such as from glue or paint thinner, to become intoxicated?",
+      "options": [
+        "Substance injection",
+        "Solvent abuse",
+        "Vaping therapy",
+        "Nicotine replacement"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "What are the risks associated with solvent abuse?",
+      "options": [
+        "Only short-term coughing with no lasting health risks",
+        "Improved lung capacity but mild headaches",
+        "Long-term health problems and a risk of death",
+        "Instant immunity to respiratory infections"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Which harmful, highly addictive substance is consumed when vaping, similar to smoking?",
+      "options": [
+        "Carbon monoxide",
+        "Tar",
+        "Nicotine",
+        "Ethanol"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "Which statement is true regarding the health effects of vaping?",
+      "options": [
+        "They are fully understood and proven to be completely harmless.",
+        "The health effects of vaping are not yet fully known.",
+        "They have been shown to cure asthma and COPD.",
+        "They are identical in every way to drinking alcohol."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    }
+  ]
+}

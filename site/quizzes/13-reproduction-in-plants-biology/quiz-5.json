@@ -1,0 +1,182 @@
+{
+  "unitKey": "13Reproduction in plantsBiology",
+  "generatedAt": "2026-08-12T05:50:54.266170+00:00",
+  "questions": [
+    {
+      "question": "What type of reproduction is typically carried out by flowering plants?",
+      "options": [
+        "Asexual reproduction only",
+        "Sexual reproduction",
+        "Binary fission",
+        "Budding"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why is plant reproduction vital for all animal life on Earth?",
+      "options": [
+        "Plants consume carbon dioxide and directly heat the planet.",
+        "Plants are producers that form the base of food chains and provide food.",
+        "Plants release minerals into the atmosphere for animals to breathe.",
+        "Plants actively clean water sources through pollination."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What are the female gametes in flowering plants called?",
+      "options": [
+        "Pollen grains",
+        "Anthers",
+        "Egg cells (ova)",
+        "Stigmas"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which structures in flowering plants carry the male gametes?",
+      "options": [
+        "Pollen grains",
+        "Ovules",
+        "Petals",
+        "Sepals"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Where are seeds formed in a flowering plant?",
+      "options": [
+        "In the anther",
+        "In the pollen tube",
+        "In the ovary",
+        "On the petals"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Botanically speaking, what is a fruit?",
+      "options": [
+        "A mature and ripened ovary of a seed-producing plant",
+        "A modified leaf used for attracting animal pollinators",
+        "The swollen tip of a stem that stores water",
+        "An enlarged pollen grain containing multiple embryos"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What are the three primary agents that seeds are adapted to be dispersed by?",
+      "options": [
+        "Animals, wind, and water",
+        "Insects, soil, and sunlight",
+        "Gravity, temperature, and rocks",
+        "Fungi, fire, and oxygen"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What is the main role of a pollinator in plant sexual reproduction?",
+      "options": [
+        "To digest the seeds and spread them in their droppings",
+        "To transfer pollen from one flower to another",
+        "To absorb nutrients from the soil for the roots",
+        "To protect the flower buds from wind damage"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What does the term \"food security\" mean?",
+      "options": [
+        "Locking up food supplies in secure vaults to prevent theft",
+        "Having enough affordable and nutritious food in an area or country",
+        "Controlling the DNA of crops to make them pest-resistant",
+        "Ensuring food is packaged in sterile, airtight containers"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What is the definition of pollination?",
+      "options": [
+        "The fusion of male and female gamete nuclei",
+        "The transfer of pollen from the male anther to the female stigma",
+        "The growth of a seed into a young seedling",
+        "The release of seeds from a ripened fruit"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which type of pollination increases genetic variation within a plant species?",
+      "options": [
+        "Self-pollination",
+        "Cross-pollination",
+        "Wind pollination only",
+        "Insect pollination only"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What is fertilisation in plants?",
+      "options": [
+        "The transfer of pollen from anther to stigma",
+        "The dispersal of seeds away from the parent plant",
+        "The fusion of the nuclei from the male and female gametes",
+        "The absorption of nutrients from the soil by roots"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "In a plant growth investigation, when should you use a line graph instead of a bar chart to display data?",
+      "options": [
+        "When the independent variable is categoric",
+        "When the independent variable is continuous",
+        "When you have fewer than five total measurements",
+        "When the dependent variable is qualitative"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Which of the following is a type of seed that will successfully germinate on moist cotton wool under the right conditions?",
+      "options": [
+        "Cress seeds",
+        "Oak acorns",
+        "Coconut seeds",
+        "Pine nuts"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why must control variables be kept the same during an investigation into seed germination?",
+      "options": [
+        "To ensure the independent variable can be easily changed",
+        "To ensure the results are recorded in a bar chart",
+        "To ensure a valid conclusion can be drawn",
+        "To make the seeds germinate as quickly as possible"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is the main reason for repeating measurements for each value in a seed dispersal investigation?",
+      "options": [
+        "To change the independent variable halfway through",
+        "To identify anomalous results and calculate a mean",
+        "To ensure that the seed template does not get damaged",
+        "To prove that the hypothesis is always correct"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    }
+  ]
+}

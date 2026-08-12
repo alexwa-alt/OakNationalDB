@@ -1,0 +1,171 @@
+{
+  "unitKey": "9WavesPhysics",
+  "generatedAt": "2026-08-12T05:50:54.142356+00:00",
+  "questions": [
+    {
+      "question": "What parts of the human ear are caused to vibrate by incoming sound waves?",
+      "options": [
+        "Only the outer ear flap and the ear canal",
+        "The eardrums, the tiny bones within our ears, and the cochlea",
+        "Just the brain and the auditory nerve",
+        "The vocal cords and the throat muscles"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Where in the human ear are the specialised cells that sense vibrations and send electrical signals to the brain?",
+      "options": [
+        "The outer ear",
+        "The eardrum",
+        "The cochlea",
+        "The middle ear bones"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How does the brain create the sensation of hearing a sound?",
+      "options": [
+        "By receiving physical vibrations directly from the skull bones",
+        "By detecting changes in blood pressure in the inner ear",
+        "By receiving electrical signals from the ear through a nerve",
+        "By sending sound waves back out into the ear canal"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the typical frequency range of sound waves that a human ear can detect?",
+      "options": [
+        "20 Hz to 20 kHz",
+        "2 Hz to 200 Hz",
+        "200 kHz to 20 MHz",
+        "50 Hz to 50 kHz"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How are sound waves originally created by an object?",
+      "options": [
+        "The object heats up, causing radiation to spread through space",
+        "The object vibrates, causing nearby air particles to vibrate too",
+        "The object absorbs light, releasing electrical charges",
+        "The object moves in a straight line at a constant speed"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When a sound wave travels through the air, how do the air particles move?",
+      "options": [
+        "They travel all the way from the sound source to the listener's ear",
+        "They move in circular loops in the direction of the wave",
+        "They vibrate parallel to the direction of wave travel, without travelling forwards",
+        "They remain completely still and do not vibrate at all"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What type of wave is sound, and how do its vibrations relate to the direction of energy transfer?",
+      "options": [
+        "Transverse wave, vibrating at 90 degrees to energy transfer",
+        "Longitudinal wave, vibrating parallel to energy transfer",
+        "Electromagnetic wave, vibrating in all directions",
+        "Circular wave, vibrating only in a clockwise direction"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why does sound travel faster in solid materials than in liquids?",
+      "options": [
+        "Solids have weaker forces between particles, allowing particles to move more freely",
+        "Solids have strong forces between particles, which helps vibrations travel even faster",
+        "Solids are less dense than liquids, so waves have less resistance",
+        "Solid particles are much larger and heavier than liquid particles"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which of the following correctly describes the speed of sound in different media?",
+      "options": [
+        "It is fastest in air (around 340 m/s), slower in liquids, and slowest in solids",
+        "It is about 340 m/s in air, faster in liquids, and faster still in solids",
+        "It is the same speed in air, liquids, and solids",
+        "It is about 300,000,000 m/s in air and slower in solids"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How can the speed of a sound wave be calculated?",
+      "options": [
+        "speed = distance ÷ time",
+        "speed = distance × time",
+        "speed = time ÷ distance",
+        "speed = distance + time"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In an experiment to measure the speed of sound, why is it beneficial to measure longer distances and times?",
+      "options": [
+        "It makes the sound wave travel much faster through the air",
+        "It ensures that any measurement errors are a smaller proportion of the results",
+        "It prevents the sound wave from reflecting off nearby surfaces",
+        "It increases the frequency of the sound waves produced"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How does ultrasound produce images of structures inside the human body?",
+      "options": [
+        "It heats up tissues until they glow in the dark",
+        "It reflects from the boundaries between different tissues",
+        "It passes straight through all tissues without any change",
+        "It destroys the outer layer of tissue to reveal the inner layer"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why are water waves classified as transverse waves?",
+      "options": [
+        "Because the direction of oscillation is parallel to the direction of energy transfer",
+        "Because the direction of oscillation is 90° to the direction of energy transfer",
+        "Because they can travel through a vacuum without any particles",
+        "Because they can only travel in one direction and never reflect"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What is meant by the amplitude of a water wave?",
+      "options": [
+        "The total distance a wave travels in one minute",
+        "The number of complete waves that pass a point each second",
+        "The greatest distance water moves above and below the rest position",
+        "The distance from one wave crest to the very next wave crest"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What is wave superposition?",
+      "options": [
+        "The process of waves speeding up when they enter shallower water",
+        "The effect of waves adding up or cancelling out when they pass through each other",
+        "The absorption of wave energy by a soft barrier",
+        "The separation of a wave into its different frequency components"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    }
+  ]
+}

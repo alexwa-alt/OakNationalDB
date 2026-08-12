@@ -1,0 +1,204 @@
+{
+  "unitKey": "11Patterns in the periodic tableChemistry",
+  "generatedAt": "2026-08-12T05:50:57.000928+00:00",
+  "questions": [
+    {
+      "question": "Which Russian scientist is credited with developing the periodic table?",
+      "options": [
+        "John Dalton",
+        "Dimitri Mendeleev",
+        "Ernest Rutherford",
+        "Marie Curie"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In the periodic table, what are the columns and the rows called?",
+      "options": [
+        "Columns are called groups, and rows are called periods.",
+        "Columns are called periods, and rows are called groups.",
+        "Columns are called families, and rows are called categories.",
+        "Columns are called elements, and rows are called compounds."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which group of the periodic table contains the noble gases, which are known for being unreactive?",
+      "options": [
+        "Group 1",
+        "Group 2",
+        "Group 0",
+        "Group 7"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the physical state of all noble gases when kept at room temperature?",
+      "options": [
+        "Liquid",
+        "Gas",
+        "Solid",
+        "Aqueous"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why are the noble gases in Group 0 chemically stable and unreactive?",
+      "options": [
+        "They have complete outer electron shells.",
+        "They have very low atomic masses.",
+        "They exist only as single atoms in a liquid state.",
+        "They have more protons than electrons."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "As you move down Group 0 of the periodic table, what happens to the atomic mass, density, and boiling points of the elements?",
+      "options": [
+        "Atomic mass increases, but density and boiling points decrease.",
+        "Atomic mass and density increase, but boiling points decrease.",
+        "Atomic mass, density, and boiling points all decrease.",
+        "Atomic mass, density, and boiling points all increase."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How do the properties of elements within any specific group typically change as you move down the group?",
+      "options": [
+        "They change suddenly and unpredictably.",
+        "They remain exactly identical for all elements.",
+        "They change gradually down the group.",
+        "They only change for the first two elements and then stop."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following correctly describes the trends and properties of Group 1 metals as you go down the group?",
+      "options": [
+        "They are hard, dense, and become less reactive.",
+        "They are soft, have lower densities than most other metals, and become more reactive.",
+        "They are soft, have high densities, and become less reactive.",
+        "They are hard, have lower densities than most other metals, and become less reactive."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why are Group 1 metals called alkali metals?",
+      "options": [
+        "They react with dilute acids to form acidic salts.",
+        "They react with water to form an alkaline solution and hydrogen gas.",
+        "They dissolve in water to produce pure liquid alkali.",
+        "They burn in air to form an alkaline gas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What products are formed when Group 2 metals react with dilute acids?",
+      "options": [
+        "A metal oxide and water",
+        "A metal hydroxide and hydrogen gas",
+        "A salt and hydrogen gas",
+        "A salt and water"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How does the reactivity of Group 2 metals compare to Group 1 metals in the same period?",
+      "options": [
+        "Group 2 metals are more reactive.",
+        "Group 2 metals are less reactive.",
+        "They have the exact same level of reactivity.",
+        "Group 2 metals do not react at all, whereas Group 1 metals are highly reactive."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which statement correctly describes the elements in Group 7 of the periodic table?",
+      "options": [
+        "They are shiny metals that form alkaline solutions.",
+        "They are all non-metals that have coloured vapours, most of which are toxic.",
+        "They are unreactive, colourless gases that do not form compounds.",
+        "They are highly dense metals that are liquid at room temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "How does the state of the elements in Group 7 at room temperature change as you move down the group?",
+      "options": [
+        "From solid to liquid to gas",
+        "From liquid to gas",
+        "From gas to solid",
+        "From solid to gas"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What is the trend in chemical reactivity as you go down Group 7?",
+      "options": [
+        "Reactivity increases.",
+        "Reactivity decreases.",
+        "Reactivity remains completely unchanged.",
+        "Reactivity decreases then suddenly increases at the bottom."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is formed when halogens react with Group 1 and Group 2 metals?",
+      "options": [
+        "Metal hydroxides",
+        "Metal oxides",
+        "Metal halides",
+        "Metal carbonates"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of the following is a key physical property of metal halides?",
+      "options": [
+        "They are completely insoluble in water.",
+        "They are soluble in water.",
+        "They are highly volatile gases at room temperature.",
+        "They cannot dissolve in liquid water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What can we expect about the properties of elements that reside in the same group of the periodic table?",
+      "options": [
+        "They have completely different chemical behaviours.",
+        "They have similar properties.",
+        "They have identical boiling points and masses.",
+        "Their properties have no relationship to one another."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "In addition to groups and periods, into what two main categories can elements in the periodic table be divided?",
+      "options": [
+        "Reactive and unreactive gases",
+        "Solids and liquids only",
+        "Non-metals and metals, which include the transition metals",
+        "Synthetic elements and natural gases"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    }
+  ]
+}

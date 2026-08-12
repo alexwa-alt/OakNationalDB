@@ -1,0 +1,171 @@
+{
+  "unitKey": "13Reproduction in plantsBiology",
+  "generatedAt": "2026-08-12T05:50:54.759450+00:00",
+  "questions": [
+    {
+      "question": "How do flowering plants primarily reproduce?",
+      "options": [
+        "Asexually through runners only",
+        "Sexually through flowers",
+        "By binary fission",
+        "By producing spores"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "In flowering plants, what are the female gametes called?",
+      "options": [
+        "Pollen grains",
+        "Anthers",
+        "Egg cells (ova)",
+        "Zygotes"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What structures in flowering plants carry the male gametes?",
+      "options": [
+        "Pollen grains",
+        "Ovaries",
+        "Stigmas",
+        "Petals"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which part of a seed-producing plant matures and ripens to become a fruit?",
+      "options": [
+        "The anther",
+        "The pollen tube",
+        "The petal",
+        "The ovary"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which group of animals represents the largest and most common group of plant pollinators?",
+      "options": [
+        "Birds",
+        "Bats",
+        "Bees",
+        "Butterflies"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What is meant by the term 'food security'?",
+      "options": [
+        "Protecting agricultural fields from wild animals",
+        "Having enough affordable and nutritious food in an area or country",
+        "Storing seeds in a secure underground vault",
+        "Using chemicals to preserve food for many years"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which of the following describes the process of pollination?",
+      "options": [
+        "The fusion of the male and female nuclei",
+        "The movement of seeds away from the parent plant",
+        "The transfer of pollen from the male anther to the female stigma",
+        "The growth of a pollen tube down into the ovary"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What is a key benefit of cross-pollination compared to self-pollination?",
+      "options": [
+        "It requires less energy from the plant",
+        "It increases variation within a species",
+        "It guarantees that offspring will be identical to the parent",
+        "It does not rely on any external pollinators"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "In plant reproduction, how is fertilisation defined?",
+      "options": [
+        "The release of pollen into the air",
+        "The transfer of pollen from an anther to a stigma",
+        "The germination of a seed on damp cotton wool",
+        "The fusion of the nuclei from the male and the female gametes"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "What is the correct sequence of development after fertilisation in plants?",
+      "options": [
+        "An embryo becomes a zygote, which then becomes a seed coat",
+        "A zygote grows into an embryo, which then grows into a new plant",
+        "A pollen grain becomes a zygote, which directly forms a fruit",
+        "An egg cell becomes an embryo, which then becomes a zygote"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "If you are investigating the effect of different types of soil on seed germination, which graph type should you use and why?",
+      "options": [
+        "A line graph, because soil type is a continuous variable",
+        "A bar chart, because soil type is a categoric variable",
+        "A line graph, because soil type is a categoric variable",
+        "A bar chart, because soil type is a continuous variable"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Which adaptations would you expect to find on a seed that is dispersed by the wind?",
+      "options": [
+        "Heavy weight and a sticky outer hook",
+        "Brightly coloured flesh and a sweet taste",
+        "Light weight and a large surface area",
+        "A hard shell that can float on water"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "During an investigation, why is it important to repeat measurements for each value of the independent variable?",
+      "options": [
+        "To ensure the dependent variable becomes a control variable",
+        "To change the values of the independent variable halfway through",
+        "To make the experiment take longer and look more professional",
+        "To identify anomalous results and calculate a mean"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "Why is it important to identify and keep control variables the same in a seed germination investigation?",
+      "options": [
+        "To ensure that any differences in results are due only to the independent variable",
+        "To make sure the seeds germinate as fast as possible",
+        "To allow multiple independent variables to be changed at once",
+        "To guarantee that all seeds survive without needing water"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which of the following is a common seed used in school labs that can germinate on damp cotton wool without soil?",
+      "options": [
+        "Oak acorns",
+        "Cress seeds",
+        "Coconut seeds",
+        "Apple seeds"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    }
+  ]
+}

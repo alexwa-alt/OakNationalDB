@@ -1,0 +1,215 @@
+{
+  "unitKey": "11Patterns in the periodic tableChemistry",
+  "generatedAt": "2026-08-12T05:50:55.472739+00:00",
+  "questions": [
+    {
+      "question": "Which group of the periodic table contains the noble gases, which are known for being unreactive?",
+      "options": [
+        "Group 1",
+        "Group 7",
+        "Group 0",
+        "Group 2"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the physical state of all noble gases at room temperature?",
+      "options": [
+        "Liquid",
+        "Gas",
+        "Solid",
+        "Some are solids and some are gases"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why are the noble gases chemically stable and unreactive?",
+      "options": [
+        "They have complete outer electron shells.",
+        "They have no electrons in their outer shell.",
+        "They easily lose one electron.",
+        "They have an odd number of protons."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "As you move down Group 0 in the periodic table, how do the physical properties of the elements change?",
+      "options": [
+        "Atomic mass decreases, density decreases, and boiling points increase.",
+        "Atomic mass, density, and boiling points all increase.",
+        "Atomic mass increases, density decreases, and boiling points decrease.",
+        "Atomic mass, density, and boiling points all decrease."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How do the chemical and physical properties of elements within any given group generally change as you go down the group?",
+      "options": [
+        "They change randomly from one element to the next.",
+        "They remain completely identical for all elements.",
+        "They change gradually down the group.",
+        "They only change when moving from left to right."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following describes the trends and properties of Group 1 metals?",
+      "options": [
+        "They are hard, have very high densities, and become less reactive down the group.",
+        "They are soft, have lower densities than most other metals, and become more reactive down the group.",
+        "They are hard, have lower densities than most other metals, and become less reactive down the group.",
+        "They are soft, have very high densities, and become more reactive down the group."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why are Group 1 metals specifically referred to as the 'alkali metals'?",
+      "options": [
+        "Because they form acidic solutions when they react with non-metals.",
+        "Because they react with water to form an alkaline solution and hydrogen gas.",
+        "Because they turn blue litmus paper red when dissolved in water.",
+        "Because they react with acids to produce salt and water only."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What products are formed when Group 2 metals react with dilute acids?",
+      "options": [
+        "An alkaline solution and oxygen gas",
+        "A metal halide and water",
+        "A salt and hydrogen gas",
+        "A salt and carbon dioxide gas"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How does the reactivity of Group 2 metals compare to Group 1 metals in the same period, and how does it change down Group 2?",
+      "options": [
+        "Group 2 metals are more reactive than Group 1 metals and become less reactive down the group.",
+        "Group 2 metals are less reactive than Group 1 metals and become less reactive down the group.",
+        "Group 2 metals are more reactive than Group 1 metals and become more reactive down the group.",
+        "Group 2 metals are less reactive than Group 1 metals and become more reactive down the group."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following is a characteristic feature of the elements in Group 7?",
+      "options": [
+        "They are metals that form highly coloured alkaline liquids.",
+        "They are non-metals that have coloured, mostly toxic vapours.",
+        "They are unreactive gases with no colour or odour.",
+        "They are highly reflective metals that form coloured salts."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "How does the physical state of Group 7 elements at room temperature change as you go down the group?",
+      "options": [
+        "It changes from gas to solid.",
+        "It changes from solid to gas.",
+        "It changes from liquid to gas.",
+        "All elements in Group 7 are gases at room temperature."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What is the trend in reactivity as you move down Group 7 of the periodic table?",
+      "options": [
+        "Reactivity increases.",
+        "Reactivity decreases.",
+        "Reactivity remains constant.",
+        "Reactivity decreases then increases."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is formed when halogens react with Group 1 and Group 2 metals?",
+      "options": [
+        "Metal oxides",
+        "Metal hydroxides",
+        "Metal halides",
+        "Metal carbonates"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is a common property of the metal halides formed by the reaction of halogens with Group 1 and 2 metals?",
+      "options": [
+        "They are insoluble in water.",
+        "They are highly soluble in water.",
+        "They are gases at room temperature.",
+        "They are highly acidic liquids."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In the periodic table, what are the vertical columns and horizontal rows called?",
+      "options": [
+        "Columns are called periods, and rows are called groups.",
+        "Columns are called groups, and rows are called series.",
+        "Columns are called families, and rows are called periods.",
+        "Columns are called groups, and rows are called periods."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which Russian scientist is credited with developing the periodic table?",
+      "options": [
+        "John Dalton",
+        "Dimitri Mendeleev",
+        "Marie Curie",
+        "Ernest Rutherford"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How are all the elements organized in the periodic table?",
+      "options": [
+        "Alphabetically by their chemical names.",
+        "Into groups and periods according to their properties.",
+        "By the date of their discovery.",
+        "Based on their abundance in the Earth's crust."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is true about elements that are located in the same group of the periodic table?",
+      "options": [
+        "They have completely different physical states.",
+        "They have similar chemical and physical properties.",
+        "They have the same atomic mass.",
+        "They cannot react with other elements."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Besides being arranged into groups, how can elements in the periodic table be broadly divided?",
+      "options": [
+        "Into solids and liquids only.",
+        "Into natural and artificial elements only.",
+        "Into non-metals and metals, which include the transition metals.",
+        "Into reactive gases and unreactive solids."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    }
+  ]
+}

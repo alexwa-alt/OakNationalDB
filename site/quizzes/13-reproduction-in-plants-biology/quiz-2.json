@@ -1,0 +1,182 @@
+{
+  "unitKey": "13Reproduction in plantsBiology",
+  "generatedAt": "2026-08-12T05:50:55.173017+00:00",
+  "questions": [
+    {
+      "question": "Which of the following statements about how flowering plants reproduce is correct?",
+      "options": [
+        "Flowering plants reproduce sexually.",
+        "Flowering plants reproduce only through binary fission.",
+        "Flowering plants reproduce only through budding.",
+        "Flowering plants do not reproduce and rely on spores."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What are the female gametes in flowering plants called?",
+      "options": [
+        "Pollen grains",
+        "Anthers",
+        "Egg cells (ova)",
+        "Zygotes"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which part of a flowering plant carries the male gametes?",
+      "options": [
+        "Ovary",
+        "Pollen grains",
+        "Stigma",
+        "Petals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What are the three main components that make up a seed, which is formed in the ovary?",
+      "options": [
+        "An embryo, food store and a tough outer coat",
+        "Pollen grain, a zygote and a stem",
+        "A leaf, root and flower bud",
+        "Nectar, petals and anthers"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is a fruit, biologically speaking, in a seed-producing plant?",
+      "options": [
+        "The swollen stem supporting the flower",
+        "The mature and ripened ovary",
+        "The collection of petals after pollination",
+        "The pollen tube that has hardened"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is the primary role of a pollinator in plant reproduction?",
+      "options": [
+        "To disperse seeds away from the parent plant",
+        "To carry water to the roots of the flower",
+        "To transfer pollen from one flower to another",
+        "To consume pests that eat the plant's leaves"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Which group makes up the majority of pollinators, with bees being the largest group within it?",
+      "options": [
+        "Birds",
+        "Mammals",
+        "Insects",
+        "Reptiles"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What is meant by the term 'food security'?",
+      "options": [
+        "Protecting agricultural fields with high fences and security guards",
+        "Ensuring that food is heavily processed to prevent spoilage",
+        "Having enough affordable and nutritious food in an area or country",
+        "Storing seeds in underground bunkers for future centuries"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What is pollination?",
+      "options": [
+        "The fusion of male and female sex cells",
+        "The growth of a pollen tube down the style",
+        "The transfer of pollen from the male anther to the female stigma",
+        "The release of seeds from a mature fruit"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What is a key benefit of cross-pollination compared to self-pollination?",
+      "options": [
+        "It requires no pollinators whatsoever",
+        "It increases variation in a species",
+        "It makes the plant grow seeds much faster",
+        "It uses much less pollen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Which of the following describes the process of fertilisation in plants?",
+      "options": [
+        "The movement of pollen by insects from flower to flower",
+        "The fusion of the nuclei from the male and female gametes",
+        "The growth of a seed on a wet cotton wool substrate",
+        "The dispersal of seeds away from the parent plant by wind"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "When analysing experimental data from a plant investigation, when should you use a line graph instead of a bar chart?",
+      "options": [
+        "When the independent variable is categoric",
+        "When you want to display the names of different seed types",
+        "When the independent variable is continuous",
+        "When there are no numerical values recorded"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "How are wind-dispersed seeds adapted to their method of dispersal?",
+      "options": [
+        "They are heavy with a sticky outer surface to cling to objects",
+        "They are enclosed in juicy, bright fruits to attract birds",
+        "They are light with a large surface area",
+        "They have hooks that latch onto animal fur"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "Which material is commonly used in school laboratories to demonstrate that some seeds, like cress, can germinate under the right conditions without soil?",
+      "options": [
+        "Sterile sand",
+        "Cotton wool",
+        "Crushed gravel",
+        "Dry plastic beads"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In an investigation measuring how far model seeds disperse, what is the dependent variable?",
+      "options": [
+        "The starting height from which the seed is dropped",
+        "The type of paper used to make the model seed",
+        "The distance the seed travels",
+        "The speed of the wind from the fan"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "Why is it important to repeat measurements for each value in a seed dispersal or germination investigation?",
+      "options": [
+        "To change the independent variable halfway through the experiment",
+        "To identify anomalous results and calculate a mean",
+        "To ensure the seeds grow into different plant species",
+        "To reduce the amount of equipment needed"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    }
+  ]
+}

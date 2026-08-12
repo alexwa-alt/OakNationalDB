@@ -1,0 +1,204 @@
+{
+  "unitKey": "12Resistance and parallel circuitsPhysics",
+  "generatedAt": "2026-08-12T05:50:56.015919+00:00",
+  "questions": [
+    {
+      "question": "How does the brightness of two bulbs connected in parallel compare to the same two bulbs connected in series when powered by the same battery?",
+      "options": [
+        "The bulbs in parallel are brighter than those in series.",
+        "The bulbs in series are brighter than those in parallel.",
+        "The bulbs in parallel are dimmer than those in series.",
+        "The bulbs in both circuit types have the exact same brightness."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If you connect two bulbs in parallel instead of in series to the same battery, what happens to the total current flowing from the battery?",
+      "options": [
+        "The current is smaller through the parallel circuit than the series circuit.",
+        "The current is bigger through the parallel circuit than the series circuit.",
+        "The current remains exactly the same in both circuits.",
+        "No current flows at all in the parallel circuit."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "If you set up two circuits using identical batteries—one with two bulbs in series and another with two bulbs in parallel—which battery will run out of energy faster?",
+      "options": [
+        "The battery in the series circuit will run out faster.",
+        "The battery in the parallel circuit will run out faster.",
+        "Both batteries will run out of energy at exactly the same time.",
+        "Neither battery will run out of energy because the bulbs are identical."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What does an ammeter measure, and in what unit?",
+      "options": [
+        "It measures voltage in volts (V).",
+        "It measures current in amps (A).",
+        "It measures resistance in ohms (Ω).",
+        "It measures power in watts (W)."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following best describes electrical resistance?",
+      "options": [
+        "A measure of how easily electrons can pass through a vacuum.",
+        "A measure of how difficult it is for an electric current to flow.",
+        "The speed at which voltage travels around a closed loop.",
+        "The rate at which energy is transferred to a battery."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the standard unit of measurement for electrical resistance?",
+      "options": [
+        "Amps (A)",
+        "Volts (V)",
+        "Ohms (Ω)",
+        "Watts (W)"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How does the length of a wire affect its electrical resistance?",
+      "options": [
+        "The longer the wire, the smaller its resistance.",
+        "The longer the wire, the greater its resistance.",
+        "The length of the wire does not affect its resistance.",
+        "A longer wire has zero resistance."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "If the length of a specific uniform wire is doubled, what happens to its resistance?",
+      "options": [
+        "Its resistance is halved.",
+        "Its resistance is doubled.",
+        "Its resistance is quartered.",
+        "Its resistance remains exactly the same."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which mathematical relationship correctly describes the connection between the resistance of a uniform wire and its length?",
+      "options": [
+        "The resistance of a wire is proportional to its length.",
+        "The resistance of a wire is inversely proportional to its length.",
+        "The resistance of a wire is equal to its length squared.",
+        "There is no mathematical relationship between resistance and length."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "In electrical systems, what does \"power\" measure?",
+      "options": [
+        "The total electrical charge stored within a cell or battery.",
+        "The amount of energy used by or supplied to a device in one second.",
+        "The total resistance of a circuit over a period of one hour.",
+        "The push that moves electrons through a single component."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What is the standard unit of measurement for electrical power?",
+      "options": [
+        "Volts (V)",
+        "Watts (W)",
+        "Ohms (Ω)",
+        "Amps (A)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "How do you calculate the electrical energy used by a device in kilowatt-hours (kWh)?",
+      "options": [
+        "Divide the power in kilowatts (kW) by the time in hours (h).",
+        "Multiply the power in kilowatts (kW) by the time in hours (h).",
+        "Multiply the current in amps (A) by the resistance in ohms (Ω).",
+        "Add the power in kilowatts (kW) to the time in hours (h)."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "When looking at a household electricity bill, what is \"1 unit of energy\" equal to?",
+      "options": [
+        "1 watt (W)",
+        "1 kilowatt-hour (kWh)",
+        "1 amp-hour (Ah)",
+        "1 volt per second (V/s)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which of the following is the definition of a parallel circuit?",
+      "options": [
+        "A circuit containing only a single continuous loop from one end of a battery to the other.",
+        "A circuit with more than one complete loop, from one end of a battery to the other end.",
+        "A circuit where components are connected one after another in a single line.",
+        "A circuit that does not require a cell or battery to allow current to flow."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "In a parallel circuit, how does the current flowing through each individual branch relate to the total current through the battery?",
+      "options": [
+        "The current through each branch is always equal to the total current through the battery.",
+        "The current through each branch adds up to the total current through the battery.",
+        "The current through each branch is subtracted from the total battery current.",
+        "The total current through the battery is divided by the square of the number of branches."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "How does the thickness of a wire affect its electrical resistance?",
+      "options": [
+        "The thicker the wire, the greater its resistance.",
+        "The thicker the wire, the smaller its resistance.",
+        "The thickness of a wire has no effect on its resistance.",
+        "A thicker wire always has infinite resistance."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "If you double the cross-sectional area of a wire, what happens to its resistance?",
+      "options": [
+        "Its resistance doubles.",
+        "Its resistance halves.",
+        "Its resistance quadruples.",
+        "Its resistance remains unchanged."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "In a parallel circuit, how does the voltage across each branch compare to the voltage across the power source?",
+      "options": [
+        "The voltage across each branch is halved.",
+        "The voltage across each branch is the same as the voltage across the cell or battery.",
+        "The voltage across each branch adds up to the total voltage of the cell or battery.",
+        "The voltage across each branch is always zero volts."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 41
+    }
+  ]
+}

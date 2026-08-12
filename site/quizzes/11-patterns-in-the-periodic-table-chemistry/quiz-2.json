@@ -1,0 +1,204 @@
+{
+  "unitKey": "11Patterns in the periodic tableChemistry",
+  "generatedAt": "2026-08-12T05:50:57.586752+00:00",
+  "questions": [
+    {
+      "question": "Which group of the periodic table contains the noble gases, which are known for being highly unreactive?",
+      "options": [
+        "Group 1",
+        "Group 7",
+        "Group 0",
+        "Group 2"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What physical state are all noble gases in when at room temperature?",
+      "options": [
+        "Gas",
+        "Liquid",
+        "Solid",
+        "Some are liquids and some are gases"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What atomic feature makes the noble gases extremely stable and unreactive?",
+      "options": [
+        "They have complete outer electron shells",
+        "They have more neutrons than protons",
+        "They have very low atomic masses",
+        "They share electrons easily with other gases"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "As you move down the elements in Group 0, what happens to their density and boiling points?",
+      "options": [
+        "Both density and boiling points decrease",
+        "Density increases but boiling points decrease",
+        "Density decreases but boiling points increase",
+        "Both density and boiling points increase"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How do the chemical and physical properties of elements generally change as you move down a specific group in the periodic table?",
+      "options": [
+        "They stay completely identical",
+        "They change gradually",
+        "They change randomly from one element to the next",
+        "They change only for the first two elements"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which statement correctly describes the physical properties and reactivity trend of Group 1 metals?",
+      "options": [
+        "They are hard, dense, and become less reactive down the group",
+        "They are soft, have lower densities than most other metals, and become more reactive down the group",
+        "They are soft, extremely dense, and become less reactive down the group",
+        "They are hard, have lower densities than most other metals, and become more reactive down the group"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why are Group 1 metals commonly referred to as the alkali metals?",
+      "options": [
+        "They react with acids to form alkaline salts",
+        "They react with water to form an alkaline solution and hydrogen gas",
+        "They form an alkaline gas when heated in air",
+        "They are found naturally dissolved in alkaline lakes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What are the products when a Group 2 metal reacts with a dilute acid?",
+      "options": [
+        "A salt and hydrogen gas",
+        "An alkaline solution and oxygen gas",
+        "A metal halide and water",
+        "A salt and oxygen gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How does the reactivity of Group 2 metals compare to Group 1 metals in the same period?",
+      "options": [
+        "Group 2 metals are more reactive than Group 1 metals",
+        "Group 2 metals are equally reactive to Group 1 metals",
+        "Group 2 metals are less reactive than Group 1 metals",
+        "Group 2 metals do not react, unlike Group 1 metals"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following is a characteristic feature of the Group 7 elements (halogens)?",
+      "options": [
+        "They are all metals that form coloured liquids",
+        "They are non-metals that have coloured, mostly toxic vapours",
+        "They are highly unreactive gases that do not form compounds",
+        "They are shiny, soft solids with very high melting points"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "How does the physical state of Group 7 elements at room temperature change as you go down the group?",
+      "options": [
+        "From solid to gas",
+        "From liquid to gas",
+        "From gas to solid",
+        "From solid to liquid"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What is the trend in reactivity as you move down Group 7 of the periodic table?",
+      "options": [
+        "Reactivity increases",
+        "Reactivity decreases",
+        "Reactivity stays exactly the same",
+        "Reactivity decreases then suddenly increases"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What substance is produced when a halogen reacts with a Group 1 or Group 2 metal?",
+      "options": [
+        "A metal hydroxide",
+        "A metal oxide",
+        "A metal halide",
+        "An acidic solution"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of the following statements about metal halides is correct?",
+      "options": [
+        "They are completely insoluble in water",
+        "They are soluble in water",
+        "They only dissolve in dilute acids",
+        "They form insoluble gaseous precipitates in water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In the periodic table, what are the vertical columns and horizontal rows called?",
+      "options": [
+        "Columns are called periods, and rows are called groups",
+        "Columns are called groups, and rows are called periods",
+        "Columns are called families, and rows are called categories",
+        "Columns are called series, and rows are called tables"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Who was the Russian scientist responsible for developing the periodic table?",
+      "options": [
+        "Dimitri Mendeleev",
+        "John Dalton",
+        "Marie Curie",
+        "Ernest Rutherford"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How are elements organised in the periodic table?",
+      "options": [
+        "In alphabetical order by their chemical names",
+        "Into groups and periods based on their properties",
+        "By their discovery date from oldest to newest",
+        "In order of their abundance in the Earth's crust"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What can be said about elements that are located in the same group of the periodic table?",
+      "options": [
+        "They have similar properties",
+        "They have identical boiling points",
+        "They have the same atomic mass",
+        "They are all in the same physical state at room temperature"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    }
+  ]
+}
