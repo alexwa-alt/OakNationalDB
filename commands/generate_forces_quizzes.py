@@ -246,11 +246,22 @@ def generate_quiz(
         if response.ok:
             try:
                 payload = json.loads(response_text(response.json()))
-            except json.JSONDecodeError as error:
-                raise ValueError("Gemini response was not valid JSON") from error
-            return validate_quiz(
-                payload, len(points), 20 if challenging else None
-            )
+                return validate_quiz(
+                    payload, len(points), 20 if challenging else None
+                )
+            except (json.JSONDecodeError, ValueError) as error:
+                if attempt == MAX_ATTEMPTS:
+                    raise ValueError(
+                        f"Gemini returned an invalid quiz after {MAX_ATTEMPTS} attempts"
+                    ) from error
+                delay = 5 * attempt
+                print(
+                    f"Gemini returned an invalid quiz: {error}; retrying in {delay}s "
+                    f"(attempt {attempt}/{MAX_ATTEMPTS})",
+                    file=sys.stderr,
+                )
+                time.sleep(delay)
+                continue
         if response.status_code != 429 and not 500 <= response.status_code < 600:
             raise RuntimeError(
                 f"Gemini request failed with HTTP {response.status_code}: {response.text[:500]}"
