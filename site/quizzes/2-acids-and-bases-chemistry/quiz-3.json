@@ -1,0 +1,182 @@
+{
+  "unitKey": "2Acids and basesChemistry",
+  "generatedAt": "2026-08-12T05:49:58.668384+00:00",
+  "questions": [
+    {
+      "question": "Which of the following sensory descriptions is characteristic of edible acids?",
+      "options": [
+        "Bitter taste",
+        "Sweet taste",
+        "Sour taste",
+        "Salty taste"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the defining characteristic of a base in chemistry?",
+      "options": [
+        "It is any substance that reacts with acids to form a compound called a salt.",
+        "It is a substance that only dissolves in water to release oxygen.",
+        "It is a highly unreactive gas at room temperature.",
+        "It is a metal that reacts with water to release hydrogen."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What distinguishes an alkali from other bases?",
+      "options": [
+        "Alkalis are insoluble bases that do not mix with water.",
+        "Alkalis are soluble bases that form alkaline solutions.",
+        "Alkalis are bases that do not react with acids.",
+        "Alkalis are bases that contain only carbon and nitrogen atoms."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why must care be taken when handling strong laboratory acids and alkalis?",
+      "options": [
+        "They are highly flammable and easily catch fire.",
+        "They are corrosive and can cause chemical burns.",
+        "They evaporate instantly into poisonous gases.",
+        "They react violently with atmospheric nitrogen."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "If you dip blue litmus paper into an acidic solution and red litmus paper into an alkaline solution, what color changes will you observe?",
+      "options": [
+        "The blue litmus turns red, and the red litmus turns blue.",
+        "The blue litmus turns green, and the red litmus turns yellow.",
+        "The blue litmus stays blue, and the red litmus stays red.",
+        "Both litmus papers will turn purple."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When a metal reacts with an acid, what products are formed?",
+      "options": [
+        "A metal oxide and oxygen gas",
+        "A metal salt and hydrogen gas",
+        "A metal carbonate and carbon dioxide gas",
+        "Water and oxygen gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following represents the correct word equation for the reaction of a metal with an acid?",
+      "options": [
+        "metal + acid → metal oxide + carbon dioxide",
+        "metal + acid → metal hydroxide + water",
+        "metal + acid → metal salt + hydrogen",
+        "metal + acid → metal carbonate + water"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How can you test for the presence of hydrogen gas in a laboratory experiment?",
+      "options": [
+        "Introduce a glowing splint and watch it relight.",
+        "Bubble it through limewater to see if it turns cloudy.",
+        "Introduce a lit splint and listen for a squeaky pop.",
+        "Check if it turns damp blue litmus paper red."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "When a metal carbonate reacts with an acid, what are the products of the reaction?",
+      "options": [
+        "Metal salt, water, and carbon dioxide",
+        "Metal salt and hydrogen gas only",
+        "Metal oxide, water, and oxygen",
+        "Metal hydroxide and hydrogen gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which test is used to confirm that a gas produced in a reaction is carbon dioxide?",
+      "options": [
+        "It relights a glowing splint.",
+        "It produces a squeaky pop with a lit splint.",
+        "It turns damp red litmus paper blue.",
+        "It turns limewater cloudy when bubbled through it."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the general word equation for a neutralisation reaction?",
+      "options": [
+        "base + acid → metal salt + water",
+        "metal + acid → metal salt + hydrogen",
+        "metal carbonate + acid → metal salt + carbon dioxide",
+        "non-metal oxide + water → acid"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In chemical equations, what do the state symbols (s), (l), (g), and (aq) stand for, respectively?",
+      "options": [
+        "strong, light, gas, aqueous",
+        "solid, liquid, gas, in solution",
+        "soluble, liquid, gas, acidic",
+        "solid, liquid, gas, alkali"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "When non-metal oxides dissolve in water, what kind of solutions do they form?",
+      "options": [
+        "Neutral solutions",
+        "Alkaline solutions",
+        "Acidic solutions",
+        "Insoluble suspensions"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How does acidity change on the pH scale between pH values?",
+      "options": [
+        "An acid of pH 2 is ten times more acidic than an acid of pH 3.",
+        "An acid of pH 2 is two times more acidic than an acid of pH 3.",
+        "An acid of pH 2 is ten times less acidic than an acid of pH 3.",
+        "An acid of pH 2 has the same acidity as an acid of pH 3."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What do low, neutral, and high pH values indicate about a solution?",
+      "options": [
+        "Low pH is neutral, middle pH is acidic, high pH is alkaline.",
+        "Low pH is alkaline, middle pH is neutral, high pH is acidic.",
+        "Low pH is acidic, pH 7 is neutral, and high pH is alkaline.",
+        "Low pH is acidic, pH 7 is alkaline, and high pH is neutral."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What color does red cabbage indicator solution turn when added to an acidic, a neutral, and an alkaline solution, respectively?",
+      "options": [
+        "Pink or red in acid, purple in neutral, and green in alkali",
+        "Green in acid, purple in neutral, and pink or red in alkali",
+        "Purple in acid, pink or red in neutral, and green in alkali",
+        "Pink or red in acid, green in neutral, and purple in alkali"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    }
+  ]
+}

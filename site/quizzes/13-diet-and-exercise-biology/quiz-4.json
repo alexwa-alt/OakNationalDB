@@ -1,0 +1,171 @@
+{
+  "unitKey": "13Diet and exerciseBiology",
+  "generatedAt": "2026-08-12T05:50:00.627149+00:00",
+  "questions": [
+    {
+      "question": "A student burns a food sample to heat 50g of water. The temperature of the water rises by 10 °C. Using the formula: Energy (J) = mass of water (g) x rise in temperature (°C) x 4.2, how much energy was transferred to the water?",
+      "options": [
+        "500 J",
+        "2100 J",
+        "420 J",
+        "210 J"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which two measurements of a person are required to calculate their Body Mass Index (BMI)?",
+      "options": [
+        "Height and waist circumference",
+        "Body mass and age",
+        "Height and body mass",
+        "Body mass and daily calorie intake"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How does physical fitness typically affect a person's recovery time after intense exercise?",
+      "options": [
+        "Fitter individuals take a longer time for their heart rate to return to resting level.",
+        "Fitter individuals have a shorter recovery time.",
+        "Fitness has no measurable effect on recovery time.",
+        "Fitter individuals do not experience any increase in heart rate during exercise."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What is the primary cause of a deficiency disease in humans?",
+      "options": [
+        "Consuming too many calories from carbohydrates and fats.",
+        "Not consuming enough of a particular nutrient in the diet.",
+        "An infection caused by harmful bacteria in contaminated water.",
+        "A lack of regular physical exercise and sleep."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "In addition to acting as building blocks for growth, what is the primary role of food in cellular respiration?",
+      "options": [
+        "To provide the fuel needed to release energy for life processes.",
+        "To directly transport oxygen from the lungs to the muscles.",
+        "To serve as a cooling agent to lower body temperature.",
+        "To eliminate waste products from the bloodstream."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why do breathing rate and heart rate increase during physical exercise?",
+      "options": [
+        "To reduce the amount of water lost through sweat.",
+        "Because cells require more oxygen for cellular respiration to release energy.",
+        "To slow down the digestion of food in the stomach.",
+        "To prevent carbon dioxide from entering the lungs."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "Which statement best explains why nutritional requirements vary among individuals?",
+      "options": [
+        "Everyone requires the exact same ratio of nutrients regardless of age.",
+        "Nutrients are only needed during early childhood and not in adulthood.",
+        "People need different amounts of particular nutrients depending on their life stage and lifestyle.",
+        "Dietary needs are determined solely by a person's height and nothing else."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "In a school laboratory experiment to compare the energy content of different foods, how is the energy released from burning food directly measured?",
+      "options": [
+        "By measuring the mass of the ash left behind.",
+        "By measuring the temperature change of a known volume of water heated by the burning food.",
+        "By measuring the volume of oxygen consumed by the flame.",
+        "By measuring the time it takes for the food to stop burning."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "When investigating how different types of exercise affect heart rate, which of the following should be kept as control variables to ensure a fair test?",
+      "options": [
+        "The starting heart rate and the final breathing rate.",
+        "The person performing the exercise and the length of time spent exercising.",
+        "The type of exercise and the room temperature.",
+        "The height of the participant and the time of day the results are plotted."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Which two units are commonly used on nutritional labels to compare the amount of energy provided by different foods?",
+      "options": [
+        "Kilograms and grams",
+        "Kilojoules and calories",
+        "Watts and joules per second",
+        "Degrees Celsius and Fahrenheit"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following health issues is a well-documented risk associated with obesity?",
+      "options": [
+        "Scurvy",
+        "Heart disease",
+        "Iron-deficiency anemia",
+        "Color blindness"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What is meant by the term 'recovery time' in the context of physical exercise?",
+      "options": [
+        "The duration of the exercise session itself.",
+        "The time it takes for the heart rate to return to its resting rate after exercise stops.",
+        "The total hours of sleep a person needs after an active day.",
+        "The time taken for breathing rate to double during a workout."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How can changes in normal body appearance, function, or behaviour be classified in a medical context?",
+      "options": [
+        "They are always signs of a healthy, adapting body.",
+        "They can be symptoms of ill health.",
+        "They are purely psychological and do not relate to physical health.",
+        "They indicate that a person is consuming too many vitamins."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which of the following lists contains only recognized major food groups needed by the human body?",
+      "options": [
+        "Protein, carbohydrate, lipids/fats, water, minerals, vitamins and fibre",
+        "Sugars, enzymes, hormones, water and calcium",
+        "Amino acids, glucose, starch, iron and oxygen",
+        "Protein, carbon, hydrogen, water and dietary supplements"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If you are drawing a bar chart to show how different categories of exercise affect heart rate, where should the 'amount of exercise' be placed?",
+      "options": [
+        "On the y-axis, because it is continuous data.",
+        "On the x-axis, because it is categoric data representing the independent variable.",
+        "In a separate key, because it cannot be plotted on an axis.",
+        "On the x-axis, because it represents the dependent variable."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    }
+  ]
+}

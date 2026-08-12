@@ -1,0 +1,182 @@
+{
+  "unitKey": "3Magnets and electromagnetsPhysics",
+  "generatedAt": "2026-08-12T05:50:02.666230+00:00",
+  "questions": [
+    {
+      "question": "How does increasing the number of turns of wire in an electromagnet's coil affect its magnetic field?",
+      "options": [
+        "It makes the magnetic field stronger",
+        "It makes the magnetic field weaker",
+        "It reverses the direction of the magnetic field",
+        "It has no effect on the magnetic field strength"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What happens to the strength of an electromagnet's magnetic field if the electric current through its coil is increased?",
+      "options": [
+        "The magnetic field becomes weaker",
+        "The magnetic field becomes stronger",
+        "The magnetic field disappears",
+        "The magnetic field remains exactly the same"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why is it important that adjacent turns of wire in an electromagnet are insulated and do not touch each other if bare wire is used?",
+      "options": [
+        "If bare wires touch, the current bypasses the coil loops and the electromagnet will not work",
+        "If bare wires touch, the magnetic field lines cancel each other out",
+        "Touching wires will cause the metal core to melt instantly",
+        "The wire will become permanently magnetised and cannot be turned off"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why does inserting a soft iron core into the coil of an electromagnet increase its overall magnetic strength?",
+      "options": [
+        "The iron core reduces the electrical resistance of the wire",
+        "The iron core becomes magnetised when the electric current is turned on",
+        "The iron core cools down the coil to prevent overheating",
+        "The iron core permanently stores magnetic charge even when turned off"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is always produced around a straight wire when an electric current flows through it?",
+      "options": [
+        "An electrostatic charge",
+        "A magnetic field",
+        "A gravitational field",
+        "A permanent north pole"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following is a key advantage of an electromagnet over a permanent magnet?",
+      "options": [
+        "It does not have any magnetic poles",
+        "It can be turned on and off using an electric current",
+        "It only attracts non-metal objects",
+        "It works without needing any materials around it"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What is true about the magnetic poles of any magnet?",
+      "options": [
+        "A magnet can have only a north-seeking pole if it is broken in half",
+        "Every magnet has both a north-seeking pole and a south-seeking pole",
+        "Some magnets have up to four different types of poles",
+        "Electromagnets only have a north-seeking pole, while bar magnets have both"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What occurs when the north-seeking pole of one magnet is brought close to the north-seeking pole of another magnet?",
+      "options": [
+        "They will attract each other",
+        "They will repel each other",
+        "They will cancel each other's magnetism out",
+        "Nothing will happen because they are similar"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How do magnetic materials, such as iron, behave when placed near the different poles of a permanent magnet?",
+      "options": [
+        "They are attracted to the north-seeking pole but repelled by the south-seeking pole",
+        "They are repelled by both the north-seeking and south-seeking poles",
+        "They are attracted to both the north-seeking and south-seeking poles",
+        "They are only attracted to the south-seeking pole"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which group of elements contains the only three metals that are magnetic?",
+      "options": [
+        "Iron, copper, and aluminium",
+        "Iron, cobalt, and nickel",
+        "Gold, silver, and copper",
+        "Nickel, zinc, and lead"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why does the north-seeking pole of a freely suspended magnet point towards the geographical North Pole of the Earth?",
+      "options": [
+        "Because the Earth has its own magnetic field",
+        "Because of the gravitational pull at the equator",
+        "Because the North Pole is extremely cold",
+        "Because of the rotation of the Earth's atmosphere"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What determines the direction in which the needle of a plotting compass points when placed near a magnet?",
+      "options": [
+        "It aligns itself with the magnetic field of the magnet",
+        "It points directly towards the nearest electric socket",
+        "It always points perpendicular to the magnetic field lines",
+        "It is unaffected by the magnet and points only to geographic North"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "If you follow a magnetic field line outside a magnet, where does it start and end?",
+      "options": [
+        "It goes from the south-seeking pole to the north-seeking pole",
+        "It starts at the center of the magnet and goes outwards in all directions",
+        "It goes from the north-seeking pole to the south-seeking pole",
+        "It circulates only around the middle of the magnet"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What do the arrows drawn on magnetic field lines represent?",
+      "options": [
+        "The direction of the electric current inside the magnet",
+        "The direction of the force on a north-seeking pole placed at that point",
+        "The direction of the force on a south-seeking pole placed at that point",
+        "The path that a non-magnetic material would take when released"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is the primary role of the electromagnet in a standard electric bell?",
+      "options": [
+        "To heat up the striker so it expands and hits the bell",
+        "To attract and move the striker, causing it to hit the bell",
+        "To generate the electrical power needed to run the circuit",
+        "To repel the bell away from the wall"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What constitutes the central spinning component in an electric motor?",
+      "options": [
+        "A spinning coil of wire that acts as an electromagnet",
+        "A spinning permanent bar magnet that cannot be turned off",
+        "A set of gears made from non-magnetic aluminium",
+        "A turbine spun by steam generated inside the motor casing"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    }
+  ]
+}

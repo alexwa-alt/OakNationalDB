@@ -74,6 +74,21 @@
     },
     "12Making imagesPhysics": {
       "path": "12-making-images-physics"
+    },
+    "13Diet and exerciseBiology": {
+      "path": "13-diet-and-exercise-biology"
+    },
+    "14Climate change and greenhouse gasesChemistryPhysics": {
+      "path": "14-climate-change-and-greenhouse-gases-chemistry-physics"
+    },
+    "1Breathing and respirationBiology": {
+      "path": "1-breathing-and-respiration-biology"
+    },
+    "2Acids and basesChemistry": {
+      "path": "2-acids-and-bases-chemistry"
+    },
+    "3Magnets and electromagnetsPhysics": {
+      "path": "3-magnets-and-electromagnets-physics"
     }
   }
 }

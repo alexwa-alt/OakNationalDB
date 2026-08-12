@@ -1,0 +1,193 @@
+{
+  "unitKey": "1Breathing and respirationBiology",
+  "generatedAt": "2026-08-12T05:50:00.623832+00:00",
+  "questions": [
+    {
+      "question": "What is the name of the tiny air sacs that make up the structure of human lungs?",
+      "options": [
+        "Bronchioles",
+        "Alveoli",
+        "Tracheoles",
+        "Capillaries"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why does the human lung contain millions of tiny alveoli instead of just a few large sacs?",
+      "options": [
+        "To reduce the physical weight of the lungs",
+        "To increase the temperature of the inhaled air",
+        "To increase the surface area available for gas exchange",
+        "To prevent dust from entering the bloodstream"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How does the thickness of the alveolar walls benefit the process of gas exchange?",
+      "options": [
+        "They are several cells thick to prevent damage",
+        "They are one cell thick to minimize the diffusion distance",
+        "They are one cell thick to increase the temperature of gases",
+        "They are several cells thick to filter out pathogens"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which chemical substance is absolutely required for aerobic cellular respiration to take place?",
+      "options": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Ethanol",
+        "Oxygen"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In which parts of animal, plant, and fungi cells does aerobic cellular respiration take place?",
+      "options": [
+        "Chloroplasts and cell wall",
+        "Nucleus and vacuole",
+        "Mitochondria and cytoplasm",
+        "Ribosomes and cell membrane"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Muscle cells require a lot of energy to perform physical work. How does their structure adapt to this need?",
+      "options": [
+        "They lack cytoplasm entirely",
+        "They contain a larger number of mitochondria",
+        "They have fewer mitochondria to conserve space",
+        "They have a single, massive chloroplast"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What are the products of anaerobic cellular respiration in microorganisms such as yeast?",
+      "options": [
+        "Lactic acid and oxygen",
+        "Glucose and water",
+        "Carbon dioxide and lactic acid",
+        "Carbon dioxide and ethanol"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is another common term used for anaerobic cellular respiration in microorganisms?",
+      "options": [
+        "Fermentation",
+        "Photosynthesis",
+        "Transpiration",
+        "Combustion"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What product is formed during anaerobic cellular respiration in humans that can cause muscle cramps?",
+      "options": [
+        "Ethanol",
+        "Carbon dioxide",
+        "Lactic acid",
+        "Glucose"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Where in a cell does anaerobic cellular respiration take place?",
+      "options": [
+        "Only in the cytoplasm, without involving the mitochondria",
+        "Only in the mitochondria, without involving the cytoplasm",
+        "In both the nucleus and the ribosomes",
+        "In the chloroplasts of animal cells"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How does anaerobic cellular respiration compare to aerobic cellular respiration in terms of energy release?",
+      "options": [
+        "It provides more energy, but provides it more slowly",
+        "It provides less energy, but provides it more quickly",
+        "It provides the same amount of energy at the exact same speed",
+        "It provides more energy and provides it more quickly"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is the primary physical purpose of breathing in humans and other animals?",
+      "options": [
+        "To chemically break down glucose in cells",
+        "To pump blood through the capillaries",
+        "To move air into and out of the lungs",
+        "To produce lactic acid in the muscles"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "During the process of gas exchange in the human body, how do gases move?",
+      "options": [
+        "Oxygen diffuses from lungs to blood; carbon dioxide diffuses from blood to lungs",
+        "Oxygen diffuses from blood to lungs; carbon dioxide diffuses from lungs to blood",
+        "Both oxygen and carbon dioxide diffuse from lungs to blood",
+        "Both oxygen and carbon dioxide diffuse from blood to lungs"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which of the following statements is true about cellular respiration in living organisms?",
+      "options": [
+        "It occurs only in animals when they are physically active",
+        "It occurs only in plants during the nighttime",
+        "It occurs in all living organisms all the time to keep them alive",
+        "It occurs only in microorganisms during fermentation"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What is defined as the vital capacity of the lungs?",
+      "options": [
+        "The total amount of air left in the lungs after a normal exhalation",
+        "The volume of oxygen consumed by cells during one minute of rest",
+        "The amount of carbon dioxide produced in a single breath",
+        "The maximum volume of air that can be exhaled after inhaling fully"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "In scientific measurements, what does it mean if a measured value is said to be highly accurate?",
+      "options": [
+        "It is very close to the true value of the quantity",
+        "It is written down with many decimal places",
+        "It was estimated without using any equipment",
+        "It is different every time the measurement is repeated"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "How do muscles assist in the mechanism of breathing to move air into the lungs?",
+      "options": [
+        "They contract to change the volume and pressure in the chest cavity",
+        "They directly push air molecules into the bloodstream",
+        "They contract to squeeze the alveoli shut",
+        "They relax to allow the trachea to expand and contract"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    }
+  ]
+}

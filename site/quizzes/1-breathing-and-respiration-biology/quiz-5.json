@@ -1,0 +1,182 @@
+{
+  "unitKey": "1Breathing and respirationBiology",
+  "generatedAt": "2026-08-12T05:50:01.203809+00:00",
+  "questions": [
+    {
+      "question": "What are the tiny air sacs that make up the structure of the lungs called?",
+      "options": [
+        "Bronchioles",
+        "Alveoli",
+        "Tracheoles",
+        "Capillaries"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Where exactly does gas exchange take place in the human respiratory system?",
+      "options": [
+        "Between the air in the alveoli and the blood in the capillaries",
+        "Between the trachea and the bronchi",
+        "Between the ribs and the diaphragm",
+        "Between the heart chambers and the main arteries"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why do the human lungs contain millions of alveoli rather than just one large sac?",
+      "options": [
+        "To increase the surface area available for gas exchange",
+        "To prevent dust particles from entering the bloodstream",
+        "To reduce the total volume of air the lungs can hold",
+        "To decrease the pressure needed to inhale air"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How does the one-cell-thick wall of an alveolus support efficient gas exchange?",
+      "options": [
+        "It provides a thick barrier to block harmful microbes.",
+        "It creates a very short diffusion distance for gases.",
+        "It allows the lungs to expand to twice their normal size.",
+        "It active-transports oxygen molecules using energy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the function of the dense network of capillaries surrounding the alveoli?",
+      "options": [
+        "To maintain a concentration gradient by carrying away oxygenated blood",
+        "To keep the lungs warm by transferring heat from the heart",
+        "To filter out large nitrogen gas molecules from the air sacs",
+        "To produce mucus that lubricates the lungs during inhalation"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following substances is an essential requirement for aerobic cellular respiration to occur?",
+      "options": [
+        "Carbon dioxide",
+        "Ethanol",
+        "Oxygen",
+        "Lactic acid"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In which parts of an animal cell does aerobic cellular respiration take place?",
+      "options": [
+        "Only in the nucleus",
+        "In the mitochondria and cytoplasm",
+        "Only in the cell wall and vacuole",
+        "In the chloroplasts and ribosomes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What are the products of anaerobic cellular respiration in microorganisms such as yeast?",
+      "options": [
+        "Lactic acid and water",
+        "Carbon dioxide and ethanol",
+        "Glucose and oxygen",
+        "Carbon monoxide and methane"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is another common term used to describe anaerobic cellular respiration in microorganisms?",
+      "options": [
+        "Photosynthesis",
+        "Fermentation",
+        "Combustion",
+        "Transpiration"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "In humans, what waste product is generated during anaerobic cellular respiration that can lead to muscle cramps?",
+      "options": [
+        "Lactic acid",
+        "Ethanol",
+        "Carbon dioxide",
+        "Citric acid"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which cell structure is NOT involved in anaerobic cellular respiration, as the process takes place entirely in the cytoplasm?",
+      "options": [
+        "Ribosome",
+        "Cell membrane",
+        "Mitochondrion",
+        "Nucleus"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How does anaerobic cellular respiration compare to aerobic cellular respiration in terms of energy release?",
+      "options": [
+        "It provides more energy, but much more slowly.",
+        "It provides less energy, but provides it more quickly.",
+        "It provides the exact same amount of energy at the same speed.",
+        "It provides no usable energy to the cell at all."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "During gas exchange in the lungs, which direction do oxygen and carbon dioxide diffuse?",
+      "options": [
+        "Oxygen diffuses from blood to lungs; carbon dioxide diffuses from lungs to blood.",
+        "Oxygen diffuses from lungs to blood; carbon dioxide diffuses from blood to lungs.",
+        "Both gases diffuse from the lungs directly into the heart.",
+        "Both gases diffuse from the blood out into the pleural cavity."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which of the following statements correctly highlights a key difference between breathing and respiration?",
+      "options": [
+        "Breathing is a physical movement of air in and out of the lungs, while respiration is a chemical process inside cells.",
+        "Breathing only occurs in plants, while respiration only occurs in animals.",
+        "Breathing produces glucose, while respiration produces oxygen.",
+        "Breathing requires mitochondria, while respiration only requires the windpipe."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "What is meant by the term 'vital capacity' of the lungs?",
+      "options": [
+        "The volume of air left in the lungs after a normal, relaxed exhalation.",
+        "The maximum volume of air that can be exhaled after inhaling as fully as possible.",
+        "The rate at which oxygen is absorbed into the bloodstream per minute.",
+        "The minimum volume of air required to keep the alveoli from collapsing."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "How is an 'estimate' defined when discussing physical quantities like lung volume?",
+      "options": [
+        "A highly precise measurement obtained using calibrated laboratory instruments.",
+        "An approximate or rough value determined without taking accurate measurements.",
+        "The true, exact value of a quantity that can never be changed.",
+        "A value calculated by averaging at least one hundred trials of an experiment."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    }
+  ]
+}

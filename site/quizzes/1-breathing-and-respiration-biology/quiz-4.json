@@ -1,0 +1,171 @@
+{
+  "unitKey": "1Breathing and respirationBiology",
+  "generatedAt": "2026-08-12T05:49:58.021300+00:00",
+  "questions": [
+    {
+      "question": "What are the tiny, balloon-like air sacs that make up the structure of the lungs called?",
+      "options": [
+        "Bronchioles",
+        "Alveoli",
+        "Capillaries",
+        "Tracheoles"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why are the walls of the alveoli only one cell thick?",
+      "options": [
+        "To allow blood to flow through them directly",
+        "To provide a short diffusion distance for gas exchange",
+        "To prevent any bacteria from entering the lungs",
+        "To keep the lungs lightweight and inflated"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "In which parts of animal, plant, and fungi cells does aerobic cellular respiration take place?",
+      "options": [
+        "Mitochondria and cytoplasm",
+        "Nucleus and cell wall",
+        "Ribosomes and vacuole",
+        "Chloroplasts and cell membrane"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why might muscle cells have a significantly higher number of mitochondria compared to skin cells?",
+      "options": [
+        "They need to store more genetic information",
+        "They require more energy because they perform a lot of work",
+        "They are responsible for absorbing oxygen from the air",
+        "They need to produce larger amounts of lactic acid"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What are the products of anaerobic cellular respiration in microorganisms like yeast?",
+      "options": [
+        "Lactic acid and oxygen",
+        "Glucose and water",
+        "Carbon dioxide and ethanol",
+        "Carbon dioxide and lactic acid"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is another term used to describe anaerobic cellular respiration in microorganisms?",
+      "options": [
+        "Photosynthesis",
+        "Fermentation",
+        "Ventilation",
+        "Aeration"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "During vigorous exercise in humans, anaerobic respiration can occur. What waste product is produced that can lead to muscle cramps?",
+      "options": [
+        "Ethanol",
+        "Carbon dioxide",
+        "Lactic acid",
+        "Glucose"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following statements is true regarding the cellular location of anaerobic cellular respiration?",
+      "options": [
+        "It occurs entirely in the mitochondria and does not use the cytoplasm",
+        "It takes place only in the cytoplasm and does not involve the mitochondria",
+        "It starts in the chloroplasts and ends in the vacuole",
+        "It occurs only inside the nucleus of eukaryotic cells"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How does the energy release in anaerobic cellular respiration compare to aerobic cellular respiration?",
+      "options": [
+        "It provides more energy and provides it more slowly",
+        "It provides less energy and provides it more slowly",
+        "It provides more energy and provides it more quickly",
+        "It provides less energy, but provides it more quickly"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which of the following gases is produced as a waste product during cellular respiration?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Cellular respiration is a chemical process. What fuel, obtained from food, does it use to provide energy for life processes?",
+      "options": [
+        "Carbon dioxide",
+        "Protein",
+        "Glucose",
+        "Oxygen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "When does cellular respiration happen in living organisms?",
+      "options": [
+        "Only when they are sleeping or resting",
+        "Only during the daytime when there is light",
+        "All the time in all living organisms to keep them alive",
+        "Only when they are actively moving or exercising"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Which of the following best describes the difference between breathing and respiration?",
+      "options": [
+        "Breathing is a chemical process in cells, while respiration is the physical movement of air",
+        "Breathing is the physical movement of air in and out of the lungs, while respiration is a cellular chemical process",
+        "Breathing only happens in plants, while respiration only happens in animals",
+        "Breathing produces glucose, while respiration produces oxygen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "What is meant by the term 'vital capacity' of the lungs?",
+      "options": [
+        "The total amount of oxygen that the blood can transport",
+        "The volume of air left in the lungs after a normal exhale",
+        "The maximum volume of air that can be exhaled after inhaling fully",
+        "The speed at which air flows into the lungs during exercise"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "In science, what does it mean if a measurement is said to be accurate?",
+      "options": [
+        "It is expressed to a very large number of decimal places",
+        "The measurement is very close to its true value",
+        "The measurement was repeated many times with different results",
+        "It is an estimated guess made without using any equipment"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    }
+  ]
+}

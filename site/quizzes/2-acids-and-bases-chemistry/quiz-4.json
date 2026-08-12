@@ -1,0 +1,193 @@
+{
+  "unitKey": "2Acids and basesChemistry",
+  "generatedAt": "2026-08-12T05:49:58.230236+00:00",
+  "questions": [
+    {
+      "question": "Which of the following tastes is characteristic of edible acids?",
+      "options": [
+        "Bitter",
+        "Sweet",
+        "Salty",
+        "Sour"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the defining feature of a base in chemistry?",
+      "options": [
+        "A substance that reacts with acids to form a salt",
+        "A substance that only dissolves in water to release hydrogen gas",
+        "A substance that reacts with water to form a metal",
+        "A substance that has a pH of exactly 7"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What do we call bases that are soluble in water?",
+      "options": [
+        "Acids",
+        "Indicators",
+        "Alkalis",
+        "Salts"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which hazard is most closely associated with strong acids and alkalis due to their ability to cause chemical burns?",
+      "options": [
+        "They are flammable",
+        "They are corrosive",
+        "They are toxic when inhaled",
+        "They are explosive"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How do acids and alkalis affect litmus paper?",
+      "options": [
+        "Acids turn red litmus blue, alkalis turn blue litmus red",
+        "Acids turn blue litmus red, alkalis turn red litmus blue",
+        "Acids turn blue litmus yellow, alkalis turn red litmus green",
+        "Acids turn red litmus white, alkalis do not change litmus"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When a metal reacts with an acid, what products are formed?",
+      "options": [
+        "A metal oxide and water",
+        "A metal salt and hydrogen gas",
+        "A metal hydroxide and carbon dioxide",
+        "A metal salt and oxygen gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following is the correct word equation for the reaction between a metal and an acid?",
+      "options": [
+        "metal + acid -> metal salt + water",
+        "metal + acid -> metal oxide + carbon dioxide",
+        "metal + acid -> metal salt + hydrogen",
+        "metal + acid -> metal hydroxide + hydrogen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What is the positive test result for hydrogen gas?",
+      "options": [
+        "It turns limewater cloudy",
+        "It relights a glowing splint",
+        "It makes a squeaky pop when a lit splint is introduced",
+        "It turns damp red litmus paper blue"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What are the products when a metal carbonate reacts with an acid?",
+      "options": [
+        "salt + water + carbon dioxide",
+        "salt + hydrogen",
+        "metal oxide + water",
+        "salt + water"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How can you test for the presence of carbon dioxide gas?",
+      "options": [
+        "Test it with a lit splint to hear a squeaky pop",
+        "Bubble it through limewater and see if it turns cloudy",
+        "Expose it to damp blue litmus paper to see if it turns red",
+        "Pass it over a glowing splint to see if it relights"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the general word equation for a neutralisation reaction?",
+      "options": [
+        "base + acid -> metal salt + water",
+        "metal + acid -> metal salt + hydrogen",
+        "metal carbonate + acid -> salt + water + carbon dioxide",
+        "non-metal oxide + water -> acid"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In chemical equations, what does the state symbol (aq) represent?",
+      "options": [
+        "Solid",
+        "Liquid",
+        "Gas",
+        "In solution"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What are the products when a metal oxide reacts with an acid?",
+      "options": [
+        "metal salt + hydrogen",
+        "metal salt + water",
+        "metal salt + carbon dioxide + water",
+        "metal hydroxide + oxygen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What type of solution is formed when non-metal oxides dissolve in water?",
+      "options": [
+        "Acidic solution",
+        "Alkaline solution",
+        "Neutral solution",
+        "No solution is formed because they are insoluble"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How much more acidic is an acid of pH 2 compared to an acid of pH 3?",
+      "options": [
+        "Two times more acidic",
+        "Three times more acidic",
+        "Ten times more acidic",
+        "One hundred times more acidic"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Which of the following correctly describes the pH values of acidic, neutral, and alkaline solutions?",
+      "options": [
+        "Low pH is alkaline, high pH is acidic, and pH 7 is neutral",
+        "Low pH is acidic, high pH is alkaline, and pH 7 is neutral",
+        "Low pH is neutral, high pH is acidic, and pH 7 is alkaline",
+        "Low pH is acidic, high pH is neutral, and pH 7 is alkaline"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What colours does red cabbage solution show in acid, neutral, and alkali solutions respectively?",
+      "options": [
+        "Pink/red in acid, purple in neutral, and green in alkali",
+        "Green in acid, pink/red in neutral, and purple in alkali",
+        "Purple in acid, green in neutral, and pink/red in alkali",
+        "Pink/red in acid, green in neutral, and purple in alkali"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    }
+  ]
+}

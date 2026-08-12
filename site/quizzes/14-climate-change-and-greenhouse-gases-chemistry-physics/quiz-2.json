@@ -1,0 +1,182 @@
+{
+  "unitKey": "14Climate change and greenhouse gasesChemistryPhysics",
+  "generatedAt": "2026-08-12T05:49:58.622450+00:00",
+  "questions": [
+    {
+      "question": "How do scientists calculate global surface temperatures?",
+      "options": [
+        "By taking tens of thousands of measurements worldwide",
+        "By relying solely on satellite images of the polar ice caps",
+        "By measuring the temperature at a single central station in Europe",
+        "By estimating temperatures based on historical weather diaries"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What has been the trend in overall global surface temperatures since the industrial revolution in the 1850s?",
+      "options": [
+        "They have been steadily decreasing.",
+        "They have remained completely stable.",
+        "They have been increasing.",
+        "They have fluctuated with no overall trend."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following provide scientists with data on longer-term temperature changes before modern records began?",
+      "options": [
+        "Tree rings and ice cores",
+        "Volcanic ash layers and desert sand depth",
+        "Fossilized animal footprints and sea shells",
+        "Ancient stone structures and cave paintings"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which of the following is a greenhouse gas that is released by living organisms and also produced when burning fuels?",
+      "options": [
+        "Carbon dioxide",
+        "Nitrogen gas",
+        "Argon gas",
+        "Helium gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How does methane compare to carbon dioxide as a greenhouse gas?",
+      "options": [
+        "Methane is a more potent greenhouse gas than carbon dioxide.",
+        "Methane is less potent than carbon dioxide.",
+        "Both gases have exactly the same warming effect per molecule.",
+        "Methane does not contribute to the greenhouse effect at all."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What is the primary effect of greenhouse gases in Earth's atmosphere?",
+      "options": [
+        "They block all solar radiation from entering the atmosphere.",
+        "They keep the atmosphere warmer than it would be without them.",
+        "They cause the atmosphere to gradually lose its oxygen.",
+        "They reflect all heat back into outer space."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How does the melting of land-based ice sheets due to increased temperatures affect the oceans?",
+      "options": [
+        "It moves more water into the sea, causing sea levels to rise.",
+        "It decreases the total volume of water in the sea.",
+        "It has no effect on sea levels because the ice is already in the water.",
+        "It causes sea levels to fall by cooling the water."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why does the melting of sea ice in summer not raise sea levels?",
+      "options": [
+        "Sea ice is made of fresh water which takes up less space than salt water.",
+        "Melting sea ice does not add water to the sea because it is already floating in it.",
+        "The water from melted sea ice immediately evaporates into the air.",
+        "Sea ice melts into underground reservoirs instead of the ocean."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Apart from melting ice sheets, what is another major cause of sea level rise as global temperatures increase?",
+      "options": [
+        "Warmer oceans and seas expand, causing sea levels to rise.",
+        "Increased rainfall over the ocean surface.",
+        "An increase in the speed of ocean currents.",
+        "Underwater volcanic eruptions displacing water."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which statement correctly compares fuel use in petrol/diesel vehicles and electric vehicles?",
+      "options": [
+        "Petrol and diesel vehicles burn fuels, while electric vehicles do not, though fuels may be burned to generate electricity.",
+        "Electric vehicles burn fuel internally to run their heaters, while petrol vehicles do not.",
+        "Both electric and petrol vehicles must burn fuel onboard to move.",
+        "Neither electric nor petrol vehicles require any fuel burning at any stage."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is a major limitation of carbon capture and storage (CCS) technology?",
+      "options": [
+        "It can reduce carbon dioxide emissions but is very expensive.",
+        "It actually increases the amount of carbon dioxide released into the atmosphere.",
+        "It can only be used on electric vehicles.",
+        "It has been proven to be chemically impossible to separate carbon dioxide."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Approximately what percentage of global greenhouse gas emissions is produced by the energy sector?",
+      "options": [
+        "About 10%",
+        "About 25%",
+        "About 50%",
+        "About 75%"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "How do a car's weight and speed affect the energy it uses to travel 100 km?",
+      "options": [
+        "Cars use more energy if they are heavier or travel at higher speeds.",
+        "Cars use less energy if they are heavier or travel at higher speeds.",
+        "Weight and speed have no effect on the energy used by a car.",
+        "Heavier cars use less energy, but higher speeds increase energy use."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "How does tyre pressure affect a car's energy consumption?",
+      "options": [
+        "Cars use less energy if their tyres are inflated to the correct air pressure.",
+        "Cars use more energy when their tyres are correctly inflated.",
+        "Tyre pressure only affects safety, not energy use.",
+        "Fully deflated tyres use the least amount of energy."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "How do solar panels differ from many other electricity generation methods?",
+      "options": [
+        "They produce electricity without electric generators.",
+        "They require a steam turbine to spin a coil of wire.",
+        "They generate electricity by burning biomass.",
+        "They must use falling water to produce a current."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "What can be used to spin turbines in order to generate electricity?",
+      "options": [
+        "Falling water or wind",
+        "Magnetic fields alone without any movement",
+        "Solar radiation directly hitting the turbine blades",
+        "Chemical batteries connected to the generator shaft"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 31
+    }
+  ]
+}

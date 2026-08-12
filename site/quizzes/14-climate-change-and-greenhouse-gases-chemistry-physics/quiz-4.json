@@ -1,0 +1,182 @@
+{
+  "unitKey": "14Climate change and greenhouse gasesChemistryPhysics",
+  "generatedAt": "2026-08-12T05:49:59.474846+00:00",
+  "questions": [
+    {
+      "question": "How do scientists calculate global surface temperatures?",
+      "options": [
+        "By using a few select weather stations in major cities",
+        "By taking tens of thousands of measurements worldwide",
+        "By estimating temperatures based on satellite images alone",
+        "By averaging measurements from only five major oceans"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What has been the overall trend in global surface temperatures since the industrial revolution in the 1850s?",
+      "options": [
+        "They have remained completely stable with zero overall change.",
+        "They have been steadily decreasing.",
+        "They have been increasing.",
+        "They fluctuated wildly but have overall decreased."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following provides scientists with evidence of longer-term changes in Earth's temperature before modern records?",
+      "options": [
+        "Tree rings and ice cores",
+        "Fossilized dinosaur bones and sand dunes",
+        "Volcanic ash layers and tectonic plate speeds",
+        "Deep ocean trenches and cave paintings"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the direct consequence of increasing levels of greenhouse gases in the atmosphere?",
+      "options": [
+        "A decrease in the overall rate of photosynthesis worldwide",
+        "Global warming and climate change",
+        "The sudden depletion of the ozone layer",
+        "A significant increase in the Earth's magnetic field strength"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "How does methane compare to carbon dioxide as a greenhouse gas?",
+      "options": [
+        "Methane is a more potent greenhouse gas than carbon dioxide.",
+        "Methane is much less potent than carbon dioxide.",
+        "Methane and carbon dioxide have the exact same heat-trapping potency.",
+        "Methane is only potent when dissolved in water, unlike carbon dioxide."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What is the primary effect of greenhouse gases on Earth's atmosphere?",
+      "options": [
+        "They keep the atmosphere warmer than it would be without them.",
+        "They cool the atmosphere by blocking incoming solar radiation.",
+        "They prevent oxygen from escaping into outer space.",
+        "They increase the atmospheric pressure at sea level."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why does the melting of ice sheets due to increased temperatures cause sea levels to rise?",
+      "options": [
+        "It releases trapped air bubbles that push the water upwards.",
+        "It increases the salt concentration of the oceans, making them expand.",
+        "It moves more water from the land into the sea.",
+        "It changes the shape of the ocean floor, pushing water onto the land."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the effect of sea ice melting in the summer on global sea levels?",
+      "options": [
+        "It causes sea levels to rise rapidly because it adds liquid water.",
+        "It does not add water to the sea or raise sea levels.",
+        "It causes sea levels to drop because ice occupies more volume than water.",
+        "It only raises sea levels in the polar regions, lowering them elsewhere."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Apart from melting ice sheets, what other process causes sea levels to rise as a result of global warming?",
+      "options": [
+        "Warmer oceans and seas expand in volume.",
+        "Increased rainfall directly increases the total volume of water on Earth.",
+        "Underwater volcanic activity increases due to higher surface temperatures.",
+        "Stronger winds push water from the deep ocean to the shores."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which statement correctly compares petrol/diesel vehicles and electric vehicles regarding fuel burning?",
+      "options": [
+        "Both petrol/diesel and electric vehicles burn fuels directly on board.",
+        "Neither petrol/diesel nor electric vehicles ever involve burning fuels.",
+        "Electric vehicles burn fuels on board, while petrol/diesel vehicles do not.",
+        "Petrol and diesel vehicles burn fuels, while electric vehicles do not, though fuels may be burned to generate their electricity."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How does carbon capture and storage (CCS) technology help reduce carbon dioxide emissions?",
+      "options": [
+        "It converts CO2 into oxygen through artificial photosynthesis.",
+        "It separates CO2 from emissions and stores it in suitable deep underground locations.",
+        "It absorbs CO2 into the oceans to neutralize its acidity.",
+        "It filters CO2 from the atmosphere using giant high-altitude balloons."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Approximately what percentage of global greenhouse gas emissions is produced by the energy sector?",
+      "options": [
+        "About 25%",
+        "About 50%",
+        "About 75%",
+        "About 95%"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Under what conditions will a car use more energy to travel a distance of 100 km?",
+      "options": [
+        "If it is lighter or travels at lower speeds.",
+        "If it is heavier or travels at higher speeds.",
+        "If it travels in a straight line rather than on a curved path.",
+        "If it uses biofuels instead of standard petrol."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "How does tyre inflation affect a car's energy consumption?",
+      "options": [
+        "Cars use less energy if their tyres are inflated to the correct air pressure.",
+        "Cars use less energy if their tyres are slightly underinflated.",
+        "Tyre pressure has absolutely no effect on energy use.",
+        "Overinflating tyres beyond the recommended limit always doubles energy efficiency."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why will renewable energy resources not run out?",
+      "options": [
+        "Because they are replenished more quickly than we use them up.",
+        "Because they exist in infinite quantities that never change.",
+        "Because we use them so slowly that they will last for billions of years anyway.",
+        "Because they are created by human-made chemical processes."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "How do solar panels generate electricity compared to many other renewable sources?",
+      "options": [
+        "They use small steam turbines heated by light.",
+        "They produce electricity without using electric generators.",
+        "They rely on micro-turbines spun by the wind.",
+        "They require spinning coils of wire inside a generator."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    }
+  ]
+}

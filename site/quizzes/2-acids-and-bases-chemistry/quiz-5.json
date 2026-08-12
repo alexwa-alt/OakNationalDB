@@ -1,0 +1,182 @@
+{
+  "unitKey": "2Acids and basesChemistry",
+  "generatedAt": "2026-08-12T05:49:59.861004+00:00",
+  "questions": [
+    {
+      "question": "What taste is characteristic of edible acids?",
+      "options": [
+        "Sweet",
+        "Sour",
+        "Bitter",
+        "Salty"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "By definition, what compound is formed when any base reacts with an acid?",
+      "options": [
+        "A metal",
+        "A salt",
+        "An indicator",
+        "A pure gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How do acid and alkaline solutions affect litmus paper?",
+      "options": [
+        "An acid turns red litmus blue, and an alkali turns blue litmus red",
+        "An acid turns blue litmus red, and an alkali turns red litmus blue",
+        "An acid turns blue litmus green, and an alkali turns red litmus yellow",
+        "An acid turns red litmus purple, and an alkali turns blue litmus white"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which products are generated when a metal reacts with an acid?",
+      "options": [
+        "A metal salt and hydrogen gas",
+        "A metal oxide and oxygen gas",
+        "A metal carbonate and carbon dioxide gas",
+        "Water and nitrogen gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which test is used to confirm the presence of hydrogen gas?",
+      "options": [
+        "Bubbling the gas through limewater to make it cloudy",
+        "Introducing a glowing splint to see if it relights",
+        "Introducing a lit splint to hear a squeaky pop",
+        "Placing damp blue litmus paper in the gas to turn it red"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What are the products of a chemical reaction between a metal carbonate and an acid?",
+      "options": [
+        "Metal oxide, hydrogen, and oxygen",
+        "Salt, water, and carbon dioxide",
+        "Salt, hydrogen, and carbon dioxide",
+        "Metal hydroxide, water, and oxygen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How can you test for the presence of carbon dioxide gas?",
+      "options": [
+        "Bubble the gas through limewater and observe if it turns cloudy",
+        "Expose it to a lit splint and listen for a squeaky pop",
+        "Observe if it turns red litmus paper blue",
+        "Bubble the gas through pure water to see if it turns bright green"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "According to the general equation for a neutralisation reaction, what are the products when a base reacts with an acid?",
+      "options": [
+        "A metal salt and hydrogen",
+        "A metal oxide and carbon dioxide",
+        "A metal salt and water",
+        "A metal hydroxide and oxygen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In a chemical equation, what state of matter does the symbol (aq) represent?",
+      "options": [
+        "In solution",
+        "Solid",
+        "Liquid",
+        "Gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "When a metal oxide reacts with an acid, what products are formed?",
+      "options": [
+        "Metal salt and hydrogen",
+        "Metal carbonate and carbon dioxide",
+        "Metal salt and water",
+        "Metal hydroxide and oxygen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What type of solution is formed when a non-metal oxide dissolves in water?",
+      "options": [
+        "An acidic solution",
+        "An alkaline solution",
+        "A neutral solution",
+        "A highly concentrated metal salt solution"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How does the concentration of hydrogen ions relate to the pH value of a solution?",
+      "options": [
+        "The higher the concentration of hydrogen, the higher the pH",
+        "The higher the concentration of hydrogen, the lower the pH",
+        "Hydrogen concentration has no effect on pH",
+        "The lower the concentration of hydrogen, the lower the pH"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "How many times more acidic is an acid with a pH of 2 compared to one with a pH of 3?",
+      "options": [
+        "Two times more acidic",
+        "Three times more acidic",
+        "Ten times more acidic",
+        "One hundred times more acidic"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What does a high pH value indicate about a chemical solution?",
+      "options": [
+        "It is highly acidic",
+        "It is neutral",
+        "It is alkaline",
+        "It contains no hydrogen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What colour does a red cabbage indicator solution turn when added to a neutral solution?",
+      "options": [
+        "Pink or red",
+        "Green",
+        "Purple",
+        "Yellow"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "In a neutralisation reaction, how is the formed metal salt named?",
+      "options": [
+        "After the metal from the base and the acid used",
+        "After the non-metal oxide and the water produced",
+        "After the indicator used and the temperature of reaction",
+        "Solely after the solvent used to dissolve the acid"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    }
+  ]
+}

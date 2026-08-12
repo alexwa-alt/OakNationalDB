@@ -1,0 +1,182 @@
+{
+  "unitKey": "1Breathing and respirationBiology",
+  "generatedAt": "2026-08-12T05:50:00.331587+00:00",
+  "questions": [
+    {
+      "question": "What are the tiny air sacs that make up the lungs called?",
+      "options": [
+        "Bronchioles",
+        "Alveoli",
+        "Capillaries",
+        "Trachea"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why are there millions of alveoli in human lungs instead of just one large sac?",
+      "options": [
+        "To decrease the body temperature",
+        "To increase the surface area for gas exchange",
+        "To filter out dust and bacteria",
+        "To provide space for the heart"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How does the wall thickness of the alveoli help gas exchange occur quickly?",
+      "options": [
+        "They are one cell thick to create a short diffusion distance",
+        "They are thick and muscular to pump gases",
+        "They have multiple layers to withstand pressure",
+        "They are elastic so they can expand"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which substance is a key requirement for aerobic cellular respiration to take place?",
+      "options": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Ethanol",
+        "Oxygen"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why do muscle cells typically contain a higher number of mitochondria than fat cells?",
+      "options": [
+        "Muscle cells require more energy to do their work",
+        "Muscle cells store more food as glucose",
+        "Muscle cells need to produce more carbon dioxide",
+        "Muscle cells do not perform cellular respiration"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What are the products of anaerobic cellular respiration in microorganisms like yeast?",
+      "options": [
+        "Lactic acid and water",
+        "Carbon dioxide and ethanol",
+        "Oxygen and glucose",
+        "Carbon dioxide and water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is another term used to describe anaerobic cellular respiration in microorganisms?",
+      "options": [
+        "Photosynthesis",
+        "Fermentation",
+        "Combustive respiration",
+        "Aerobic synthesis"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which product is built up in human muscles during anaerobic cellular respiration and can lead to cramps?",
+      "options": [
+        "Ethanol",
+        "Glucose",
+        "Lactic acid",
+        "Carbon dioxide"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "In which part of a cell does anaerobic cellular respiration take place?",
+      "options": [
+        "Only in the mitochondria",
+        "Only in the cytoplasm",
+        "Inside the nucleus",
+        "Within the cell wall"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which statement correctly compares the energy release of anaerobic respiration to aerobic respiration?",
+      "options": [
+        "Anaerobic respiration provides more energy and provides it more slowly",
+        "Anaerobic respiration provides less energy but provides it more quickly",
+        "Anaerobic respiration provides the same amount of energy but without using glucose",
+        "Anaerobic respiration provides more energy and provides it more quickly"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which waste product of cellular respiration must be constantly removed from the body?",
+      "options": [
+        "Oxygen",
+        "Glucose",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "During gas exchange in the lungs, how do oxygen and carbon dioxide move?",
+      "options": [
+        "Both oxygen and carbon dioxide diffuse into the blood",
+        "Oxygen diffuses from the lungs into the blood while carbon dioxide diffuses from the blood into the lungs",
+        "Oxygen diffuses from the blood into the lungs while carbon dioxide diffuses from the lungs into the blood",
+        "Both gases diffuse from the lungs into the air"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "When does cellular respiration happen in living organisms?",
+      "options": [
+        "Only when they are asleep",
+        "Only during physical exercise",
+        "All the time to provide energy to keep them alive",
+        "Only when they are eating food"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What is meant by the 'vital capacity' of the lungs?",
+      "options": [
+        "The volume of air left in the lungs after a normal breath",
+        "The maximum volume of air that can be exhaled after inhaling fully",
+        "The rate at which oxygen enters the capillaries",
+        "The total amount of carbon dioxide produced in one minute"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "In science, what does it mean if a measurement is said to be highly 'accurate'?",
+      "options": [
+        "It is expressed to many decimal places",
+        "It is a rough estimate made without measuring",
+        "It is very close to the true value",
+        "It was measured using digital equipment"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "How do the muscles in the chest move air out of the lungs during normal breathing?",
+      "options": [
+        "The diaphragm contracts and the ribs move up and out",
+        "The diaphragm relaxes and the ribcage moves down and in",
+        "The lungs contract using their own muscular walls",
+        "The heart pumps air out of the chest cavity"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    }
+  ]
+}
