@@ -10,10 +10,10 @@ on:
         required: false
         default: false
         type: boolean
-      daily_request_limit:
-        description: Maximum Gemini requests for this run
+      max_workers:
+        description: Maximum concurrent Gemini requests
         required: false
-        default: "15"
+        default: "25"
         type: string
 
 permissions:
@@ -43,13 +43,10 @@ jobs:
       - name: Generate and publish five-unit checkpoints
         env:
           OVERWRITE: ${{ inputs.overwrite }}
-          DAILY_REQUEST_LIMIT: ${{ inputs.daily_request_limit || '15' }}
+          MAX_WORKERS: ${{ inputs.max_workers || '25' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          requests_used=0
-          budget_reached=false
-
           push_main() {
             for attempt in 1 2 3; do
               if git pull --rebase origin main && git push origin HEAD:main; then
@@ -62,48 +59,24 @@ jobs:
           }
 
           for start in $(seq 0 5 40); do
-            end=$((start + 4))
-            if [ "$end" -gt 40 ]; then
-              end=40
+            arguments=(--all --start "$start" --limit 5 --count 5 --workers "$MAX_WORKERS")
+            if [ "$OVERWRITE" = "true" ]; then
+              arguments+=(--overwrite)
             fi
-
-            for unit_start in $(seq "$start" 1 "$end"); do
-              arguments=(--all --start "$unit_start" --limit 1 --count 5 --delay-seconds 60)
-              if [ "$OVERWRITE" = "true" ]; then
-                arguments+=(--overwrite)
-              fi
-
-              required_requests=$(python commands/generate_forces_quizzes.py "${arguments[@]}" --required-requests)
-              if [ "$required_requests" -gt $((DAILY_REQUEST_LIMIT - requests_used)) ]; then
-                echo "Daily request budget reached: $requests_used/$DAILY_REQUEST_LIMIT"
-                budget_reached=true
-                break
-              fi
-
-              if ! python commands/generate_forces_quizzes.py "${arguments[@]}"; then
-                git add site/quizzes
-                if ! git diff --staged --quiet; then
-                  git commit -m "Save partial quiz cache [skip ci]"
-                  push_main
-                fi
-                exit 1
-              fi
-              requests_used=$((requests_used + required_requests))
-
+            if ! python commands/generate_forces_quizzes.py "${arguments[@]}"; then
               git add site/quizzes
               if ! git diff --staged --quiet; then
-                git commit -m "Generate unit quiz cache [skip ci]"
+                git commit -m "Save partial quiz cache [skip ci]"
                 push_main
               fi
+              exit 1
+            fi
 
-              if [ "$unit_start" -lt 40 ]; then
-                sleep 60
-              fi
-            done
-
+            git add site/quizzes
+            if ! git diff --staged --quiet; then
+              git commit -m "Generate quiz cache checkpoint [skip ci]"
+              push_main
+            fi
             gh workflow run deploy_quiz_cache.yml --ref main
             echo "Published checkpoint starting at unit $start"
-            if [ "$budget_reached" = "true" ]; then
-              break
-            fi
           done
