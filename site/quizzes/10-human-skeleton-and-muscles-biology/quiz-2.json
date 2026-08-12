@@ -1,0 +1,204 @@
+{
+  "unitKey": "10Human skeleton and musclesBiology",
+  "generatedAt": "2026-08-12T05:48:19.973622+00:00",
+  "questions": [
+    {
+      "question": "What happens to a bone when an attached muscle contracts?",
+      "options": [
+        "The muscle exerts a force on the bone, causing it to move.",
+        "The muscle pushes the bone away, causing it to lengthen.",
+        "The bone exerts a chemical force that dissolves the muscle.",
+        "The bone remains completely stationary and rigid."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which field of study focuses on the movement of bones and the forces exerted by muscles?",
+      "options": [
+        "Biochemistry",
+        "Biomechanics",
+        "Bioengineering",
+        "Biotechnology"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What is the term for the turning effect of a force when a bone pivots around a joint?",
+      "options": [
+        "Friction",
+        "Gravity",
+        "Pressure",
+        "A moment"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following is true regarding the moment when a bone pivots at a joint?",
+      "options": [
+        "Its size cannot be determined because biological forces fluctuate too much.",
+        "Its size can be calculated based on force and distance.",
+        "It is always equal to zero regardless of the muscle force.",
+        "It is only present when a muscle is completely relaxed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the structural term used to describe the location where bones meet in the body?",
+      "options": [
+        "Ligaments",
+        "Joints",
+        "Marrow cavities",
+        "Tendons"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "How do skeletal muscles interact with the skeletal system?",
+      "options": [
+        "They can move bones.",
+        "They absorb calcium from bones to stay healthy.",
+        "They act as cushions to prevent bones from touching.",
+        "They produce the bone marrow inside the bones."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which statement accurately describes how muscles exert force to move bones?",
+      "options": [
+        "They can only push, by relaxing.",
+        "They can both push and pull with equal strength.",
+        "They can only pull, by contracting.",
+        "They do not exert physical force but use chemical signals to slide bones."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Because muscles can only pull, how do they typically work to move bones back and forth at a joint?",
+      "options": [
+        "In antagonistic pairs, where one contracts while the other relaxes.",
+        "In identical pairs, where both contract at the exact same time.",
+        "By rotating around the bone in a spiral motion.",
+        "By converting into bone tissue temporarily."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following is a true statement about the composition of the human body?",
+      "options": [
+        "It contains muscles.",
+        "It contains only bones and has no muscle tissue.",
+        "It is entirely made of bone marrow.",
+        "It lacks muscles but uses water pressure to move."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What type of structure is a muscle in the human body?",
+      "options": [
+        "A single large, non-living calcium structure.",
+        "A type of tissue made up of specialised cells.",
+        "An inorganic mineral deposit.",
+        "A liquid-filled sac with no cellular structure."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which two states are muscles capable of transitioning between to function?",
+      "options": [
+        "Freezing and melting",
+        "Calcifying and dissolving",
+        "Contracting and relaxing",
+        "Expanding and evaporating"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What two key substances do muscles require from the body in order to contract?",
+      "options": [
+        "Carbon dioxide and nitrogen",
+        "Sugar and oxygen",
+        "Calcium and carbon monoxide",
+        "Protein and hydrogen gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of the following correctly lists different types of muscle found in human organ systems?",
+      "options": [
+        "Cardiac muscle, smooth muscle and skeletal muscle",
+        "Rough muscle, soft muscle and hard muscle",
+        "Outer muscle, inner muscle and protective muscle",
+        "Brain muscle, lung muscle and bone muscle"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the structural framework of the human body, and what is it made of?",
+      "options": [
+        "A skeleton made up of bones",
+        "A protective shell made of keratin",
+        "A network of fluid-filled cartilage tubes",
+        "A solid block of calcium carbonate"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following is the correct definition of a joint?",
+      "options": [
+        "A type of blood vessel that carries oxygen to muscles.",
+        "Where two or more bones meet.",
+        "The outer layer of skin protecting a bone.",
+        "A bundle of nerve cells that controls movement."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What are two main functions of the human skeleton?",
+      "options": [
+        "Producing oxygen and storing excess sugar.",
+        "Supporting the body and providing protection for organs and tissues.",
+        "Contracting to move blood and digesting nutrients.",
+        "Controlling thoughts and regulating body temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which statement is true about the nature of bones?",
+      "options": [
+        "They are non-living structures made entirely of rock-like minerals.",
+        "They are made of living tissue made up of cells.",
+        "They are hollow tubes filled only with air.",
+        "They are flexible bands of muscle fibers."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What vital component of the blood is produced inside the bone marrow?",
+      "options": [
+        "Red and white blood cells",
+        "Blood plasma proteins only",
+        "Carbon dioxide molecules",
+        "Sugar and oxygen molecules"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    }
+  ]
+}

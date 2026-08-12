@@ -1,0 +1,171 @@
+{
+  "unitKey": "9Separation techniquesChemistry",
+  "generatedAt": "2026-08-12T05:48:16.825061+00:00",
+  "questions": [
+    {
+      "question": "What makes chromatography highly versatile when dealing with extremely tiny quantities of a mixture?",
+      "options": [
+        "It can only be used on solid mixtures.",
+        "It can be used for both the separation of minute samples and analysis.",
+        "It requires the substances to have identical boiling points.",
+        "It converts all components into gases instantly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If a scientist runs a paper chromatography test on a sample and observes only a single spot on the finished chromatogram, what does this indicate about the sample?",
+      "options": [
+        "The sample is a mixture of many different liquids.",
+        "The sample is a pure substance.",
+        "The solvent failed to move up the paper.",
+        "The sample has reacted with the pencil line."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How does the chromatogram of a mixture differ from that of a pure substance?",
+      "options": [
+        "A mixture will produce many spots on a chromatogram.",
+        "A mixture will only produce one spot at the very top.",
+        "A mixture will prevent the solvent from rising.",
+        "A mixture dissolves the chromatography paper."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How can a forensic scientist identify an unknown ink dye from a crime scene using chromatography?",
+      "options": [
+        "By measuring the exact weight of the paper before and after.",
+        "By burning the chromatogram to see the flame color.",
+        "By comparing its chromatogram with chromatograms of known ink samples.",
+        "By mixing the unknown ink with a liquid of the same density."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why is a pencil, rather than a pen, used to draw the baseline on chromatography paper?",
+      "options": [
+        "Pencil lead reacts chemically with all solvents.",
+        "Pencil is insoluble in water, so it won't run and interfere with the results.",
+        "Pencil marks are magnetic and assist the separation.",
+        "Pencil marks automatically guide the solvent up the paper in a straight line."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Under what conditions is fractional distillation preferred over simple distillation?",
+      "options": [
+        "When separating a mixture with three or more substances, or substances with similar boiling points.",
+        "When separating an insoluble solid from a highly viscous liquid.",
+        "When the substances in the mixture have identical densities.",
+        "When one of the substances is magnetic and the other is not."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the consequence if the condenser in a distillation setup begins to warm up during the process?",
+      "options": [
+        "The distillation process will speed up significantly.",
+        "The condenser becomes less effective, and more gas will escape without condensing.",
+        "The distillate will immediately turn back into a solid.",
+        "It prevents the mixture in the flask from boiling."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which statement correctly describes the process of crystallisation?",
+      "options": [
+        "It is the rapid boiling of a solvent until only a dry powder remains.",
+        "It reforms a solute as crystals from a saturated solution following a change in conditions.",
+        "It uses a magnetic field to align molecules into rigid structures.",
+        "It separates two miscible liquids by their differing densities."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "If you want to obtain larger, well-defined crystals during crystallisation, how should the solvent be allowed to evaporate?",
+      "options": [
+        "It should be evaporated as quickly as possible by boiling.",
+        "It should be evaporated more slowly.",
+        "It should not be allowed to evaporate at all.",
+        "It should be evaporated using a high-pressure vacuum."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which materials are attracted to magnets, making magnetic separation a viable method to remove them from a mixture?",
+      "options": [
+        "Copper and aluminium",
+        "Iron and steel",
+        "Zinc and brass",
+        "Gold and silver"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What process is used to separate insoluble solids from a liquid by passing the mixture through a barrier?",
+      "options": [
+        "Distillation",
+        "Chromatography",
+        "Filtration",
+        "Crystallisation"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is a key characteristic of immiscible liquids when they are mixed and then allowed to settle?",
+      "options": [
+        "They chemically react to form a solid precipitate.",
+        "They do not mix, and one liquid will float above the other.",
+        "They completely dissolve into one another to form a single phase.",
+        "They instantly evaporate into the surrounding air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which techniques are most suitable for separating a mixture of two immiscible liquids like oil and water?",
+      "options": [
+        "Simple distillation or fractional distillation",
+        "Decanting or using a separating funnel",
+        "Paper chromatography or filtration",
+        "Evaporation or crystallisation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What is the correct sequence of techniques required to separate pure salt from a sample of rock salt?",
+      "options": [
+        "Simple distillation, chromatography, and decanting",
+        "Making a solution, filtration, and crystallisation",
+        "Fractional distillation, magnetic separation, and evaporation",
+        "Centrifuging, chromatography, and condensation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Why is it important to keep the condenser cold during a distillation experiment?",
+      "options": [
+        "To prevent the flask from overheating and exploding.",
+        "To speed up the condensation of the vaporised liquid.",
+        "To ensure the solute does not precipitate inside the tube.",
+        "To keep the boiling point of the mixture low."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    }
+  ]
+}

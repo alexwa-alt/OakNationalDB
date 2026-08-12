@@ -1,0 +1,171 @@
+{
+  "unitKey": "9Separation techniquesChemistry",
+  "generatedAt": "2026-08-12T05:48:16.179916+00:00",
+  "questions": [
+    {
+      "question": "If a scientist tests a substance using chromatography and it only produces a single spot on the chromatogram, what does this indicate about the substance?",
+      "options": [
+        "It is a mixture of several different dyes.",
+        "It is a pure substance.",
+        "It is highly insoluble in the mobile phase.",
+        "It has reacted with the pencil line."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why is a pencil used to draw the starting line on a chromatogram instead of a pen?",
+      "options": [
+        "Pencil lead is insoluble in water and will not run with the solvent.",
+        "Pencil lead reacts with the chromatography paper to stay in place.",
+        "Ink from a pen is too heavy to travel up the paper.",
+        "Pencil lines can easily be erased if an error is made."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Under what circumstances would you choose fractional distillation over simple distillation?",
+      "options": [
+        "When separating an insoluble solid from a highly viscous liquid.",
+        "When separating immiscible liquids that naturally form distinct layers.",
+        "When separating mixtures with three or more substances, or substances with similar boiling points.",
+        "When you want to extract a soluble solid from its solvent completely."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the primary consequence if the condenser in a distillation apparatus is allowed to warm up?",
+      "options": [
+        "The rate of vaporization inside the flask will decrease rapidly.",
+        "The condenser becomes less effective, allowing more gas to escape.",
+        "The distillate will instantly freeze inside the delivery tube.",
+        "The boiling point of the remaining mixture will significantly increase."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How does the rate of solvent evaporation affect the size of crystals formed during crystallisation?",
+      "options": [
+        "Faster evaporation leads to much larger, more defined crystals.",
+        "Slower evaporation allows larger crystals to form.",
+        "The rate of evaporation has no effect on final crystal size.",
+        "Evaporation must be stopped completely for any crystals to grow."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of the following mixtures could be separated by using a magnet?",
+      "options": [
+        "A mixture of copper filings and aluminum powder.",
+        "A mixture of sand and salt crystals.",
+        "A mixture of iron filings and sulfur powder.",
+        "A mixture of zinc pieces and plastic beads."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What is the purpose of adding a drop of water to the filter paper inside a filter funnel before filtering?",
+      "options": [
+        "It helps keep the filter paper cone open and stuck to the funnel for easy filtering.",
+        "It chemically reacts with the paper to make it completely waterproof.",
+        "It dissolves any fine particles on the paper to prevent clogging.",
+        "It speeds up the chemical reaction between the solute and the solvent."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is a key characteristic of immiscible liquids when they are mixed together and allowed to settle?",
+      "options": [
+        "They chemically combine to form a brand new single liquid substance.",
+        "They do not mix, and the less dense liquid will float above the other.",
+        "They completely dissolve in each other to form a clear, uniform solution.",
+        "They instantly react and produce a solid precipitate at the bottom."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which statement is true about miscible liquids when they are left undisturbed?",
+      "options": [
+        "They will slowly separate into distinct layers based on density.",
+        "They do not separate into layers over time.",
+        "The lighter liquid will eventually evaporate completely, leaving the heavier one.",
+        "They will react to form an insoluble solid that sinks to the bottom."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which sequence of processes is correct for separating pure salt from a sample of rock salt?",
+      "options": [
+        "Simple distillation, fractional distillation, followed by decanting.",
+        "Making a solution, filtration, and then crystallisation.",
+        "Magnetism, chromatography, followed by evaporation to dryness.",
+        "Centrifuging, decanting, and then simple distillation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Why is it important to keep a condenser cold during the distillation process?",
+      "options": [
+        "To prevent the glass from cracking due to high pressure.",
+        "To speed up the condensation of the vapor back into a liquid.",
+        "To ensure the distillate does not catch fire on contact with air.",
+        "To lower the boiling point of the mixture in the round-bottom flask."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "If an unknown liquid is analyzed using paper chromatography and produces three distinct spots, what does this tell you?",
+      "options": [
+        "The liquid is a pure compound.",
+        "The liquid is a mixture of different substances.",
+        "The solvent was contaminated with insoluble impurities.",
+        "The paper was folded incorrectly during the experiment."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "During the process of crystallisation, where does the solvent go as the solute begins to reform?",
+      "options": [
+        "It is absorbed into the solid crystals being formed.",
+        "It evaporates into the air around you.",
+        "It chemically decomposes into oxygen and hydrogen gases.",
+        "It drains through the bottom of the evaporating basin."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is the purity status of the liquid collected as distillate at the end of a successful simple distillation?",
+      "options": [
+        "It is a concentrated mixture of all volatile components.",
+        "It remains a solution containing a small amount of solid solute.",
+        "It is a pure liquid.",
+        "It is an unstable emulsion of different liquids."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "When would simple distillation be the most appropriate separation method to use?",
+      "options": [
+        "When separating a mixture that contains only two substances with significantly different boiling points.",
+        "When separating a mixture of five different gases with similar boiling points.",
+        "When separating insoluble sand from a mixture of salt and water.",
+        "When separating immiscible liquids like oil and water."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    }
+  ]
+}
