@@ -48,3 +48,9 @@ commits/deploys a checkpoint after each five-unit batch. Refreshing the Pages
 site after a checkpoint exposes the newly available units while later batches
 continue running. It defaults to 25 concurrent Gemini requests and resumes
 incomplete units after any failed run.
+
+The **Generate challenging quiz caches** workflow creates a separate, exact
+20-question challenging deck per unit. Questions remain grounded in the same
+learning points but require application, comparison, misconception analysis, or
+multi-step reasoning. Teachers can switch individual question cards between the
+standard and challenging decks.

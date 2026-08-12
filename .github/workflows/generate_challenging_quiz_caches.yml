@@ -1,0 +1,52 @@
+name: Generate challenging quiz caches
+
+on:
+  workflow_dispatch:
+    inputs:
+      overwrite:
+        description: Regenerate existing challenging decks
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  actions: write
+  contents: write
+
+jobs:
+  generate-and-publish:
+    runs-on: ubuntu-latest
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GEMINI_MODEL: gemini-3.5-flash
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install runtime dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Generate challenging question decks
+        env:
+          OVERWRITE: ${{ inputs.overwrite }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          for start in $(seq 0 5 40); do
+            arguments=(--all --start "$start" --limit 5 --challenging --workers 25)
+            if [ "$OVERWRITE" = "true" ]; then
+              arguments+=(--overwrite)
+            fi
+            python commands/generate_forces_quizzes.py "${arguments[@]}"
+            git add site/quizzes
+            if ! git diff --staged --quiet; then
+              git commit -m "Generate challenging quiz cache [skip ci]"
+              git pull --rebase origin main
+              git push origin HEAD:main
+            fi
+            gh workflow run deploy_quiz_cache.yml --ref main
+          done
