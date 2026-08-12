@@ -59,6 +59,21 @@
     },
     "7Variation (differences within species)Biology": {
       "path": "7-variation-differences-within-species-biology"
+    },
+    "8Earth's resourcesChemistry": {
+      "path": "8-earth-s-resources-chemistry"
+    },
+    "9Series circuitsPhysics": {
+      "path": "9-series-circuits-physics"
+    },
+    "10Reproduction in humansBiology": {
+      "path": "10-reproduction-in-humans-biology"
+    },
+    "11Fuels and energeticsChemistry": {
+      "path": "11-fuels-and-energetics-chemistry"
+    },
+    "12Making imagesPhysics": {
+      "path": "12-making-images-physics"
     }
   }
 }

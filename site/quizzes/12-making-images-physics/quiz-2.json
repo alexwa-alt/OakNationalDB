@@ -1,0 +1,182 @@
+{
+  "unitKey": "12Making imagesPhysics",
+  "generatedAt": "2026-08-12T05:49:38.462183+00:00",
+  "questions": [
+    {
+      "question": "Which of the following best describes the physical structure of a basic pinhole camera?",
+      "options": [
+        "An empty, closed box with a tiny hole on the front face and a screen on the back face.",
+        "A solid glass cylinder with a convex lens at one end and an eyepiece at the other.",
+        "A box containing two parallel plane mirrors set at 45-degree angles.",
+        "A closed box with a large aperture on the front and a magnifying glass on the back."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How does light travel from a source to the screen at the back of a pinhole camera?",
+      "options": [
+        "In curved paths that bend around the edges of the pinhole",
+        "In straight lines from the light source, through the pinhole, to the screen",
+        "By reflecting off the inner sides of the camera box multiple times",
+        "In waves that expand outward and fill the entire camera volume evenly"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What is the effect of poking several extra holes into the front face of a pinhole camera?",
+      "options": [
+        "The single image becomes much sharper and brighter.",
+        "The image on the screen becomes upright instead of inverted.",
+        "Multiple separate images are produced on the screen.",
+        "No light can reach the screen, resulting in total darkness."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "If you widen the tiny hole of a pinhole camera, what will happen to the image formed on the screen?",
+      "options": [
+        "It will become dimmer and sharper.",
+        "It will become brighter but more blurred.",
+        "It will become inverted and much smaller.",
+        "It will remain exactly the same because the box size has not changed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "If you cover the top half of a camera lens with a piece of black paper, what happens to the image of the object?",
+      "options": [
+        "Only the bottom half of the object's image is formed.",
+        "Only the top half of the object's image is formed.",
+        "The complete image is still formed, but it becomes dimmer.",
+        "The image is completely blocked and cannot be seen."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What does a convex lens do to light rays passing through it, and what is the meeting point called?",
+      "options": [
+        "It refracts light rays so they travel more towards each other, meeting at a focus.",
+        "It reflects light rays back towards the source, meeting at a virtual center.",
+        "It spreads light rays further apart, creating a dispersed field.",
+        "It absorbs all the light rays, converting them into heat at the center of the lens."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "An object is placed 1.5 meters in front of a flat plane mirror. Which of the following describes its reflection?",
+      "options": [
+        "It is twice the size of the object, inverted, and 3 meters behind the mirror.",
+        "It is the same size as the object, upright, and 1.5 meters behind the mirror.",
+        "It is smaller than the object, upright, and 0.75 meters behind the mirror.",
+        "It is the same size as the object, inverted, and 1.5 meters in front of the mirror."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "When you stand facing a plane mirror and raise your right hand, your reflection appears to raise its left hand. What is this phenomenon called?",
+      "options": [
+        "Vertical refraction",
+        "Lateral inversion",
+        "Focal divergence",
+        "Chromatic dispersion"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why is a reflection in a plane mirror classified as a \"virtual image\"?",
+      "options": [
+        "Because the light rays physically focus and meet at the surface of the mirror.",
+        "Because it can be projected directly onto a screen placed behind the mirror.",
+        "Because it appears where light rays seem to have come from, not where they actually come from.",
+        "Because the image only exists when the object is moving."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What determines the specific colour an object appears when it is illuminated by white or coloured light?",
+      "options": [
+        "The speed of the light rays that are absorbed by the object.",
+        "The amount of red, green, and blue light that the object reflects.",
+        "The distance of the object from the person observing it.",
+        "The heat generated by the light waves as they hit the object's surface."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "If a white piece of paper is illuminated by a pure green spotlight in a dark room, what colour does the paper appear to be?",
+      "options": [
+        "White",
+        "Black",
+        "Green",
+        "Red"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Why does a black object appear black when illuminated by white light?",
+      "options": [
+        "It reflects only blue and green light while absorbing red light.",
+        "It absorbs all colours of light and reflects none.",
+        "It refracts all incoming light rays, bending them around its edges.",
+        "It splits the white light into a spectrum and transmits it."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What path does a ray of light take when it enters a transparent glass block from the air at an angle to the normal?",
+      "options": [
+        "It continues in a perfectly straight line without changing direction.",
+        "It reflects directly off the boundary and returns back into the air.",
+        "It bends (turns) towards the normal inside the glass.",
+        "It bends (turns) away from the normal inside the glass."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A ray of light passes through a rectangular glass block with parallel sides. What is the path of the exiting ray compared to the entering ray?",
+      "options": [
+        "It travels in a direction perpendicular to the original ray.",
+        "It ends up in its original direction, but displaced to the side.",
+        "It is completely reversed back towards the source.",
+        "It spreads out into a wide, circular beam of white light."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which three primary colours of light can be mixed together in different proportions to create all other colours of light?",
+      "options": [
+        "Red, yellow, and blue",
+        "Cyan, magenta, and yellow",
+        "Red, green, and blue",
+        "Orange, green, and violet"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What is produced when equal amounts of all three primary colours of light (red, green, and blue) are mixed together?",
+      "options": [
+        "Black light",
+        "White light",
+        "Yellow light",
+        "Magenta light"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    }
+  ]
+}

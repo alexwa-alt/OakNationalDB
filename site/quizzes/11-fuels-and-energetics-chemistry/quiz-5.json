@@ -1,0 +1,193 @@
+{
+  "unitKey": "11Fuels and energeticsChemistry",
+  "generatedAt": "2026-08-12T05:49:34.026987+00:00",
+  "questions": [
+    {
+      "question": "When a fuel undergoes combustion (burning), what happens to the energy stored within it?",
+      "options": [
+        "It is destroyed completely.",
+        "It is transferred to the surroundings by heating.",
+        "It is absorbed from the surroundings.",
+        "It is converted into chemical potential energy inside the fuel."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How can you experimentally compare the amounts of energy transferred by different fuels in a school laboratory?",
+      "options": [
+        "By measuring the volume of gas produced when they are mixed with water",
+        "By heating water in a boiling tube and measuring the temperature increase",
+        "By measuring the speed at which each fuel evaporates at room temperature",
+        "By comparing the mass of the fuels before they are mixed with acids"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "To make a fair comparison of the energy released by different fuels, which variable must be kept constant regarding the fuel itself?",
+      "options": [
+        "The temperature of the fuel before ignition",
+        "The mass of the fuel used in each test",
+        "The state of matter of the fuel",
+        "The color of the fuel"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "In an experiment comparing fuels by heating water in a boiling tube, which of the following must be kept the same for each measurement to ensure a fair test?",
+      "options": [
+        "The starting temperature and volume of the water",
+        "The material of the beaker holding the fuel",
+        "The size of the room where the experiment is done",
+        "The amount of oxygen in the room"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How can you identify where a substance undergoes a state change when looking at its cooling curve graph?",
+      "options": [
+        "By finding the steepest diagonal drop on the curve",
+        "By looking for flat horizontal sections (plateaus) on the curve",
+        "By finding the point where the curve starts to rise",
+        "By looking at the very end of the curve where it touches the x-axis"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "As a warm liquid cools down without changing state, what physical change is observed and what is happening to its energy?",
+      "options": [
+        "Its temperature decreases as energy is released to the surroundings",
+        "Its temperature increases as energy is absorbed from the surroundings",
+        "Its temperature remains constant as energy is absorbed from the surroundings",
+        "Its temperature decreases as energy is created inside the liquid"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which of the following is a key observation that indicates an exothermic chemical reaction is taking place?",
+      "options": [
+        "A decrease in the temperature of the surroundings",
+        "An increase in the temperature of the surroundings",
+        "The temperature of the surroundings remains exactly the same",
+        "The substance changes from a gas to a solid without any temperature change"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "If a chemical reaction is endothermic, what effect will it have on the temperature of its surroundings?",
+      "options": [
+        "The temperature of the surroundings will increase.",
+        "The temperature of the surroundings will decrease.",
+        "The temperature of the surroundings will fluctuate up and down.",
+        "The temperature of the surroundings will remain completely unchanged."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "During an exothermic chemical reaction, where does the energy transfer occur?",
+      "options": [
+        "From the surroundings to the reactants",
+        "From the reactants to the surroundings",
+        "From the products to the reactants",
+        "From the surroundings to the products"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "In an endothermic reaction, how is energy transferred between the system and its surroundings?",
+      "options": [
+        "Energy is transferred from the surroundings to the products.",
+        "Energy is transferred from the reactants to the surroundings.",
+        "Energy is destroyed during the chemical process.",
+        "Energy is transferred from the products to the surroundings."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why are the physical processes of melting, evaporation, and boiling classified as endothermic?",
+      "options": [
+        "They transfer energy out into the surroundings.",
+        "They require energy to be transferred into the substance from the surroundings.",
+        "They cause the temperature of the surroundings to rise.",
+        "They happen only when a substance releases thermal energy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following pairs of state changes are exothermic processes?",
+      "options": [
+        "Melting and boiling",
+        "Evaporating and condensing",
+        "Condensing and freezing",
+        "Subliming and melting"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "In the UK, over half of the electricity is currently generated using which group of energy sources?",
+      "options": [
+        "Coal, oil, and natural gas",
+        "Nuclear power, biomass, and coal",
+        "The Sun, wind, and falling water",
+        "Geothermal energy, waves, and wood"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which of the following fossil fuels is no longer used to generate electricity in UK power stations?",
+      "options": [
+        "Natural gas",
+        "Oil",
+        "Coal",
+        "Biomass"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which group of fuels all produce greenhouse gases and pollutants when they are burned?",
+      "options": [
+        "Sun, wind, and falling water",
+        "Natural gas, oil, waste, and wood",
+        "Hydrogen, helium, and pure oxygen",
+        "Uranium, wind, and solar energy"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What makes an energy resource 'renewable'?",
+      "options": [
+        "It can be burned multiple times without losing its mass.",
+        "It is replenished more quickly than we use it up.",
+        "It does not release any carbon dioxide when burned.",
+        "It is synthetic and made in a laboratory."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "How do solar panels differ from most other electricity-generating technologies?",
+      "options": [
+        "They require moving steam to spin a turbine.",
+        "They produce electricity without using electric generators.",
+        "They burn biomass to generate an electric current.",
+        "They require falling water to spin magnets."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    }
+  ]
+}

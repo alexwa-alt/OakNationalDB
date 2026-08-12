@@ -1,0 +1,171 @@
+{
+  "unitKey": "9Series circuitsPhysics",
+  "generatedAt": "2026-08-12T05:49:34.314288+00:00",
+  "questions": [
+    {
+      "question": "What is the relationship between the voltages across individual components in a series circuit and the total voltage of the battery?",
+      "options": [
+        "The individual voltages multiply together to equal the battery voltage.",
+        "The individual voltages add up to equal the battery voltage.",
+        "The individual voltages are all exactly equal to the battery voltage.",
+        "The individual voltages subtract from the battery voltage to equal zero."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If three cells, each with a voltage of 1.5 V, are connected in series to make a battery, what is the total voltage of the battery?",
+      "options": [
+        "0.5 V",
+        "1.5 V",
+        "3.0 V",
+        "4.5 V"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which statement is true about the electric charges in the wires of a circuit when the switch is turned off?",
+      "options": [
+        "Charges are only present in the battery, not in the wires.",
+        "Charges are present in all the atoms of the wires.",
+        "Charges disappear from the wires completely.",
+        "Charges only exist in the light bulbs when off."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What happens to the electrons in a circuit immediately after it is turned on?",
+      "options": [
+        "Electrons everywhere in the circuit start moving at the same time.",
+        "Electrons start moving from the battery and slowly reach the other end.",
+        "Only the electrons inside the light bulb begin to move.",
+        "Electrons must first be created by the battery before anything moves."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What is the typical speed of individual electrons moving around a circuit?",
+      "options": [
+        "Nearly the speed of light.",
+        "Several meters per second.",
+        "Just a few millimeters each second.",
+        "They remain completely stationary."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why can current not flow through a faulty filament bulb?",
+      "options": [
+        "The glass of the bulb has melted.",
+        "The filament is broken, creating a gap.",
+        "The bulb has too much resistance.",
+        "The gas inside the bulb has escaped."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How can you make a series circuit work if one of its components is faulty and blocking the flow?",
+      "options": [
+        "Bypass the faulty component using a wire.",
+        "Add a second battery in reverse.",
+        "Shake the faulty component to reconnect it.",
+        "Increase the thickness of all other wires."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following best describes a series circuit?",
+      "options": [
+        "A circuit with multiple branching loops for current to split.",
+        "A circuit with one complete loop from one end of a battery to the other end.",
+        "A circuit that only functions when a voltmeter is placed in series.",
+        "A circuit containing only switches and no power sources."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How does an ammeter affect the current in the circuit it is measuring?",
+      "options": [
+        "It significantly reduces the current to protect the circuit.",
+        "It increases the current by acting as an extra power source.",
+        "It measures the current without affecting the current in the circuit.",
+        "It stops the current completely while taking a reading."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What is true about the electric current at different points in a series circuit?",
+      "options": [
+        "The current is highest near the positive terminal of the battery.",
+        "The current is lowest after passing through a bulb.",
+        "The current is the same everywhere in the circuit.",
+        "The current constantly fluctuates randomly at different points."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "If you add an extra bulb to an existing series circuit, what happens to the current?",
+      "options": [
+        "It changes the current everywhere, on both sides of the component.",
+        "It only decreases the current after the new bulb.",
+        "It only increases the current before the new bulb.",
+        "The current remains exactly the same everywhere."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How should a voltmeter be connected to measure the voltage across a component?",
+      "options": [
+        "In series, directly inline with the component.",
+        "Across the terminals of the component.",
+        "Connected only to the positive terminal of the battery.",
+        "Wrapped around the plastic insulation of the wire."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "According to the rules of electrostatic charges, what happens when two objects with the same electric charge are brought near each other?",
+      "options": [
+        "They attract each other.",
+        "They repel each other.",
+        "They neutralise each other instantly.",
+        "They exert no force on each other."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "What is the name of the negatively charged particles found in atoms?",
+      "options": [
+        "Protons",
+        "Neutrons",
+        "Electrons",
+        "Nuclei"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "Why are metals difficult to charge by rubbing?",
+      "options": [
+        "Metals do not contain any electrons.",
+        "Electric charge flows through metals, preventing charge build-up.",
+        "Metals repel all forms of static electricity.",
+        "Rubbing a metal destroys its atomic structure."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 38
+    }
+  ]
+}

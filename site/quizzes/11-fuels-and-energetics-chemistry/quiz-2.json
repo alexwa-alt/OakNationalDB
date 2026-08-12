@@ -1,0 +1,193 @@
+{
+  "unitKey": "11Fuels and energeticsChemistry",
+  "generatedAt": "2026-08-12T05:49:36.032472+00:00",
+  "questions": [
+    {
+      "question": "When a fuel burns in air, what is the primary way energy is transferred?",
+      "options": [
+        "By heating the surroundings",
+        "By absorbing heat from the surroundings",
+        "By cooling the immediate environment",
+        "By destroying matter"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How can we experimentally compare the amounts of energy transferred by burning different fuels in a school laboratory?",
+      "options": [
+        "By measuring the volume of gas produced in a syringe",
+        "By heating water in a boiling tube and measuring its temperature rise",
+        "By measuring the mass of the fuel before it is made",
+        "By looking at the color of the fuel's flame"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "To make a fair comparison between the energy released by different fuels, which variable must be kept constant regarding the fuels themselves?",
+      "options": [
+        "The volume of oxygen they consume",
+        "The mass of fuel used for each measurement",
+        "The colour of the fuel container",
+        "The shape of the match used to light them"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "When investigating the energy output of different fuels by heating water, what must be kept the same for the water at the start of each test?",
+      "options": [
+        "Only the density of the water",
+        "Only the container material",
+        "Both the initial temperature and the volume of the water",
+        "Both the boiling point and the mass of the container"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When looking at a cooling curve graph of a substance, how do we identify where a state change is occurring?",
+      "options": [
+        "By a steep, sudden drop in temperature",
+        "By a flat horizontal section (plateau)",
+        "By a vertical line going straight down",
+        "By a steady, constant increase in temperature"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What happens to energy and state when a hot substance cools down?",
+      "options": [
+        "It absorbs energy from the surroundings and may melt or boil",
+        "It transfers energy to the surroundings by heating and it may condense or freeze",
+        "It destroys energy and remains in the same state permanently",
+        "It transfers energy to the surroundings and always turns into a gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "If a chemical reaction is described as exothermic, what temperature change would you observe in its surroundings?",
+      "options": [
+        "The temperature remains exactly the same",
+        "The temperature decreases",
+        "The temperature increases",
+        "The temperature fluctuates randomly"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "When an endothermic chemical reaction takes place in a beaker, what happens to the temperature of the surroundings?",
+      "options": [
+        "It decreases",
+        "It increases",
+        "It stays completely constant",
+        "It rises to boiling point immediately"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which statement correctly describes the transfer of energy in an exothermic reaction?",
+      "options": [
+        "Energy is transferred from the surroundings to the products",
+        "Energy is transferred from the reactants to the surroundings",
+        "Energy is created from nothing within the products",
+        "No energy transfer occurs during the reaction"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "From where to where is energy transferred during an endothermic chemical reaction?",
+      "options": [
+        "From the products to the surroundings",
+        "From the reactants to the atmosphere only",
+        "From the surroundings to the products",
+        "Energy is transferred out of the system into space"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which group of state changes are all endothermic processes?",
+      "options": [
+        "Melting, evaporation, and boiling",
+        "Condensing, freezing, and melting",
+        "Freezing, condensing, and boiling",
+        "Evaporation, condensing, and freezing"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why are condensing and freezing classified as exothermic processes?",
+      "options": [
+        "They absorb energy from the surroundings",
+        "They release energy to the surroundings",
+        "They do not involve any change in energy",
+        "They require continuous heating to occur"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which sources are responsible for generating over half of the electricity in the UK?",
+      "options": [
+        "Coal, nuclear power, and biomass",
+        "Natural gas, oil, and coal",
+        "The Sun, wind, and falling water",
+        "Geothermal energy and waves only"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which fossil fuel is no longer used to generate electricity in UK power stations?",
+      "options": [
+        "Natural gas",
+        "Coal",
+        "Crude oil",
+        "Wood"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following groups of fuels all produce greenhouse gases and pollutants when burned?",
+      "options": [
+        "Wind, solar, and falling water",
+        "Natural gas, oil, waste, and wood",
+        "Hydrogen, wind, and tidal energy",
+        "Solar energy, geothermal, and nuclear"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why will renewable energy resources not run out?",
+      "options": [
+        "Because they are stored in infinite quantities deep inside the Earth",
+        "Because they are replenished more quickly than we use them up",
+        "Because we have stopped using electricity altogether",
+        "Because they do not require any physical processes to generate power"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "How do solar panels differ from wind turbines and steam power stations in how they generate electricity?",
+      "options": [
+        "They require steam to turn their internal gears",
+        "They produce electricity without electric generators",
+        "They must burn wood to function",
+        "They rely on spinning coils of wire inside them"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    }
+  ]
+}

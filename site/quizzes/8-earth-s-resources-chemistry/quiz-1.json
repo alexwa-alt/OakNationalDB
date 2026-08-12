@@ -1,0 +1,193 @@
+{
+  "unitKey": "8Earth's resourcesChemistry",
+  "generatedAt": "2026-08-12T05:49:34.115574+00:00",
+  "questions": [
+    {
+      "question": "Which statement is true about the melting point of rock?",
+      "options": [
+        "It is extremely low, allowing rocks to melt at room temperature.",
+        "It is very high, requiring extreme temperatures to melt.",
+        "It is exactly the same as the boiling point of water.",
+        "It is low enough that rocks easily melt in a standard kitchen oven."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the correct terminology for melted rock depending on where it is located?",
+      "options": [
+        "It is called lava when underground, and magma when on Earth's surface.",
+        "It is called magma when underground, and lava when on Earth's surface.",
+        "It is called granite when underground, and basalt when on Earth's surface.",
+        "It is called obsidian when underground, and pumice when on Earth's surface."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Where do extrusive and intrusive igneous rocks form?",
+      "options": [
+        "Extrusive forms inside Earth's crust, while intrusive forms outside the crust.",
+        "Extrusive forms in the atmosphere, while intrusive forms in the oceans.",
+        "Extrusive forms outside Earth's crust, while intrusive forms inside the crust.",
+        "Extrusive forms in the outer core, while intrusive forms in the mantle."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What factor determines the size of the crystals that form in a cooling igneous rock?",
+      "options": [
+        "The depth of the ocean water above the rock.",
+        "The percentage of oxygen in the surrounding air.",
+        "The rate at which the melted rock cools down.",
+        "The amount of organic plant material mixed into the liquid."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What are the two main shapes or arrangements of grains that can be found in rocks?",
+      "options": [
+        "They can be perfectly square or star-shaped.",
+        "They can be round or interlocking.",
+        "They can be hollow or filled with liquid water.",
+        "They can be metallic or purely gaseous."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How are the atoms arranged within a crystal structure?",
+      "options": [
+        "In a highly irregular and random arrangement.",
+        "In a very regular, repeating pattern.",
+        "In concentric circles that constantly shift.",
+        "In loose clusters with no fixed positions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What conditions between tectonic plates allow large crystals to grow inside solid rock?",
+      "options": [
+        "Extremely low temperature and low pressure",
+        "High pressure and high temperature",
+        "Rapid cooling in deep, freezing ocean trenches",
+        "Constant exposure to wind erosion and rain"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Under what conditions do metamorphic rocks form, altering their original structures?",
+      "options": [
+        "Under extreme pressure and temperature",
+        "Through rapid cooling in shallow water",
+        "By the accumulation of organic layers over time",
+        "Under low temperatures and vacuum conditions"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is a useful property given to metamorphic rocks by their aligned crystals?",
+      "options": [
+        "They are highly porous and soak up large amounts of water.",
+        "They can be easily separated into flat sheets.",
+        "They can melt easily at room temperature.",
+        "They are highly flexible and bend like rubber."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is a mineral?",
+      "options": [
+        "A mixture of organic matter and water that cannot freeze.",
+        "A naturally occurring pure substance with a crystal structure.",
+        "Any rock fragment that contains fossilized animal bones.",
+        "A man-made synthetic liquid used to polish geological samples."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is the name of the dense rocky layer located directly beneath Earth's crust?",
+      "options": [
+        "The outer core",
+        "The atmosphere",
+        "The mantle",
+        "The inner core"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What describes the composition of Earth's core at the very centre of the planet?",
+      "options": [
+        "A liquid metallic inner core surrounded by a gaseous outer core.",
+        "A solid rocky inner core surrounded by a layer of liquid water.",
+        "A solid metallic core surrounded by a liquid outer core.",
+        "A hollow chamber surrounded by a dense layer of granite."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why is Earth's inner core solid despite having an extremely high temperature?",
+      "options": [
+        "Because the temperature decreases to absolute zero at the centre.",
+        "Because of the immense pressure that increases towards the centre.",
+        "Because it is made entirely of ice and frozen carbon dioxide.",
+        "Because it is cooled by underground water currents."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What are the slowly moving pieces that make up Earth's broken crust called?",
+      "options": [
+        "Mantle plumes",
+        "Sedimentary layers",
+        "Tectonic plates",
+        "Volcanic domes"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What is a key feature of sedimentary rocks?",
+      "options": [
+        "They are made of liquid metal that has cooled down.",
+        "They contain distinct grains that are stuck together.",
+        "They consist of large, aligned crystals that never break.",
+        "They are formed only in the Earth's mantle."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "How do the crystal arrangements of igneous and metamorphic rocks differ?",
+      "options": [
+        "Igneous rocks have aligned crystals, while metamorphic rocks have crystals pointing in all directions.",
+        "Igneous rocks have crystals that point in many directions, while metamorphic rocks have crystals that mostly line up.",
+        "Igneous rocks contain no crystals, while metamorphic rocks are made entirely of crystals.",
+        "Igneous rocks have crystals that dissolve in water, while metamorphic crystals are liquid."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Which rocks are considered non-porous?",
+      "options": [
+        "Rocks with large gaps and loose, rounded grains.",
+        "Rocks that contain interlocking grains or interlocking crystals.",
+        "Rocks that are made entirely of dried clay and sand.",
+        "Rocks that dissolve completely when exposed to rainwater."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    }
+  ]
+}

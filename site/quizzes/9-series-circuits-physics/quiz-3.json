@@ -1,0 +1,182 @@
+{
+  "unitKey": "9Series circuitsPhysics",
+  "generatedAt": "2026-08-12T05:49:33.791971+00:00",
+  "questions": [
+    {
+      "question": "What does the voltage of a battery measure?",
+      "options": [
+        "The resistance offered to the flowing current",
+        "The strength with which it can 'push' current around a circuit",
+        "The total number of electrons stored inside the battery",
+        "The rate at which electrons are destroyed in the circuit"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In a series circuit, how does the voltage across each individual component relate to the total voltage of the battery?",
+      "options": [
+        "The voltage across each component adds up to the total voltage of the battery",
+        "The voltage across each component is always equal to the total voltage of the battery",
+        "The voltage across each component is subtracted from the battery's voltage to find the remaining current",
+        "The voltage across each component is multiplied together to equal the battery's voltage"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If three cells, each of 1.5 V, are connected in series to make a battery, what is the total voltage of this battery?",
+      "options": [
+        "1.5 V",
+        "3.0 V",
+        "4.5 V",
+        "0.5 V"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "In which direction does a battery push electric charge (electrons) around a complete circuit?",
+      "options": [
+        "In both directions at the same time, alternating rapidly",
+        "One way round the complete circuit",
+        "From the outer surface of the wires to the center",
+        "From the light bulb towards both terminals simultaneously"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which of the following is true about electric charges in a circuit's wires when the circuit is turned off?",
+      "options": [
+        "There are no electric charges in the wires at all",
+        "Electric charges are only present in the battery, not in the wires",
+        "Electric charges exist in all atoms of the wires and components, even when turned off",
+        "The charges are completely destroyed and must be recreated by the battery"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What happens to the electrons throughout a circuit at the moment it is switched on?",
+      "options": [
+        "Electrons only start moving near the positive terminal first",
+        "Electrons everywhere in the circuit start moving at the same time",
+        "Electrons slowly travel one by one from the battery through the wires",
+        "Electrons at the negative terminal move, while others wait for them to collide"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How fast do individual electrons actually drift through a circuit when current is flowing?",
+      "options": [
+        "At the speed of light",
+        "At a speed of several meters per second",
+        "At a slow speed of just a few millimeters each second",
+        "At a speed of about 100 kilometers per hour"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why can current not flow through a faulty filament bulb?",
+      "options": [
+        "The glass bulb has become too hot to conduct electricity",
+        "The filament is broken, preventing the current from flowing through it",
+        "The metal base of the bulb has turned into an insulator",
+        "The bulb's filament has absorbed all the electrons"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Under what condition is an electric circuit considered incomplete?",
+      "options": [
+        "If there are any gaps in the circuit, including those hidden in faulty wires or components",
+        "Only if the battery is completely disconnected and removed from the room",
+        "If the wires are drawn using a ruler in a diagram",
+        "If the circuit contains more than two light bulbs"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How can a circuit with a single faulty component be made to work again?",
+      "options": [
+        "By increasing the voltage of the battery to melt the component",
+        "By turning the battery around so the current flows backwards",
+        "By using a wire to bypass the faulty component",
+        "By adding another faulty component in series with the first one"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What is a series circuit?",
+      "options": [
+        "A circuit with multiple branching loops for current to split into",
+        "An electric circuit with one complete loop from one end of a battery to the other",
+        "A circuit that can only function using static electricity",
+        "A circuit where components are connected to different batteries"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How does an ammeter affect the current in the circuit it is measuring?",
+      "options": [
+        "It significantly reduces the current to protect the battery",
+        "It doubles the current to make the measurement easier",
+        "It measures the current flowing through it without affecting the current in the circuit",
+        "It stops the current completely while taking a reading"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Which of the following describes the current at different points in a series circuit?",
+      "options": [
+        "The current is highest near the positive terminal of the battery",
+        "The current is the same everywhere in a series circuit",
+        "The current decreases after passing through each light bulb",
+        "The current is lowest near the negative terminal of the battery"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What happens to the current in a series circuit when you add an extra bulb to it?",
+      "options": [
+        "The current changes everywhere in the circuit, on both sides of the new component",
+        "The current only decreases on the side of the circuit after the new bulb",
+        "The current only decreases on the side of the circuit before the new bulb",
+        "The current remains completely unchanged everywhere"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How must a voltmeter be connected to measure the voltage across a component?",
+      "options": [
+        "It must be connected in series, in the middle of a single cut wire",
+        "It must be connected across the terminals of the component",
+        "It must be connected directly between the positive terminal of the battery and the earth",
+        "It must be wrapped around the plastic insulation of the wire"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Why are metals difficult to charge by rubbing?",
+      "options": [
+        "Because they do not contain any electrons or protons",
+        "Because electric charge flows easily through them, preventing charge from building up",
+        "Because rubbing them destroys the atoms on their surface",
+        "Because they are highly magnetic, which cancels out electrostatic charge"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 38
+    }
+  ]
+}

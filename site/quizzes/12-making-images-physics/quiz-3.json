@@ -1,0 +1,182 @@
+{
+  "unitKey": "12Making imagesPhysics",
+  "generatedAt": "2026-08-12T05:49:40.474073+00:00",
+  "questions": [
+    {
+      "question": "What is the basic structure of a pinhole camera?",
+      "options": [
+        "A tube with a curved mirror at one end and an eyepiece at the other.",
+        "An empty, closed box with a tiny hole on the front face and a screen on the back face.",
+        "A sealed glass cylinder containing a gas that glows when light passes through it.",
+        "A double-lens system with a converging lens at the front and a diverging lens at the back."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How does light travel from a light source, through the pinhole, to the screen in a pinhole camera?",
+      "options": [
+        "It moves in straight lines.",
+        "It curves gradually towards the center of the box.",
+        "It bounces off the internal walls before reaching the screen.",
+        "It bends sharply at the entrance of the pinhole."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What happens to the image formed by a pinhole camera if you poke a second, separate hole next to the first one?",
+      "options": [
+        "The single image becomes twice as bright.",
+        "The single image becomes upright instead of inverted.",
+        "Multiple images are produced on the screen.",
+        "No image is formed at all because the light rays cancel out."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the effect of making the hole in a pinhole camera larger?",
+      "options": [
+        "The image becomes sharper but much dimmer.",
+        "The image becomes brighter but blurred.",
+        "The image becomes inverted and smaller.",
+        "The image becomes upright but highly distorted."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which part of a lens receives light from any given point on an object?",
+      "options": [
+        "Only the very outer edges of the lens.",
+        "Only the central point of the lens.",
+        "Some light from every point on an object passes through every part of the lens.",
+        "Only the top half of the lens receives light from the top half of the object."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the name given to the point where light rays meet after being refracted and brought closer together by a convex lens?",
+      "options": [
+        "The normal.",
+        "The reflection.",
+        "The focus.",
+        "The dispersion."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following describes the size and orientation of an image reflected in a flat plane mirror?",
+      "options": [
+        "It is twice the size of the object and upside down.",
+        "It is smaller than the object and upright.",
+        "It is the same size as the object and upright.",
+        "It is larger than the object and inverted."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "If you face a plane mirror, how does your reflection appear compared to your actual body?",
+      "options": [
+        "Upside down.",
+        "Magnified and distorted.",
+        "Laterally inverted.",
+        "Unchanged and perfectly identical without any inversion."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why are reflections in a plane mirror described as virtual images?",
+      "options": [
+        "They appear where light rays seem to have come from, not where they actually come from.",
+        "They can be projected directly onto a physical screen placed behind the mirror.",
+        "They only exist when we close our eyes and imagine them.",
+        "They are created by light rays that actually converge at a single physical point."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What determines the colour of an object when it is illuminated by white or coloured light?",
+      "options": [
+        "The speed at which light passes completely through the solid object.",
+        "The amounts of red, green, and blue light it is reflecting.",
+        "The total thermal energy absorbed by the outer surface of the object.",
+        "The distance between the light source and the object's surface."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why does a black object appear black under white light?",
+      "options": [
+        "It absorbs all colours of light.",
+        "It reflects only red and green light.",
+        "It refracts all incoming light at a very sharp angle.",
+        "It transmits all light directly through its center."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What direction does a ray of light turn when it enters a transparent material from air at an angle?",
+      "options": [
+        "It turns away from the normal.",
+        "It turns towards the normal.",
+        "It continues in a perfectly straight line without changing direction.",
+        "It reflects directly backward along its original path."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What happens to a light ray that enters and leaves a glass block with parallel sides?",
+      "options": [
+        "It is bent permanently at a 90-degree angle to its original path.",
+        "It ends up in its original direction, but displaced to the side.",
+        "It is completely absorbed and turned into heat energy.",
+        "It is split into a circular rainbow pattern without exiting the block."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What is produced when you mix equal amounts of red, green, and blue light?",
+      "options": [
+        "Black light.",
+        "Yellow light.",
+        "White light.",
+        "Magenta light."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "How do display screens produce a wide range of different colours?",
+      "options": [
+        "By using tiny filters that physically slide across a single white light bulb.",
+        "By using tiny red, green, and blue lights (pixels) that vary in brightness.",
+        "By changing the chemical composition of the screen glass in real time.",
+        "By vibrating the screen at different high frequencies."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Which object can be used to split up sunlight into a visible light spectrum?",
+      "options": [
+        "A flat piece of opaque cardboard.",
+        "A transparent triangular prism.",
+        "A highly polished metal plane mirror.",
+        "A concave magnifying lens."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    }
+  ]
+}

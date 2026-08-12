@@ -1,0 +1,171 @@
+{
+  "unitKey": "10Reproduction in humansBiology",
+  "generatedAt": "2026-08-12T05:49:30.632962+00:00",
+  "questions": [
+    {
+      "question": "What are the specialized sex cells in humans, such as sperm and egg cells, scientifically known as?",
+      "options": [
+        "Zygotes",
+        "Gametes",
+        "Embryos",
+        "Hormones"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In human sexual reproduction, how much of the offspring's genetic material is contributed by each parent?",
+      "options": [
+        "All of the genetic material comes from one parent",
+        "One-quarter from each parent",
+        "Exactly half from each parent",
+        "Three-quarters from one parent and one-quarter from the other"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "In which part of the female reproductive system does fertilisation normally take place when an egg and sperm meet?",
+      "options": [
+        "In the ovaries",
+        "In the uterus",
+        "In the vagina",
+        "In the fallopian tubes"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following describes the correct sequence of development immediately after a zygote is formed?",
+      "options": [
+        "Zygote -> Embryo -> Foetus -> Baby",
+        "Zygote -> Foetus -> Embryo -> Baby",
+        "Zygote -> Baby -> Embryo -> Foetus",
+        "Zygote -> Embryo -> Baby -> Foetus"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is the typical duration of the human gestation period from conception to birth?",
+      "options": [
+        "About 28 weeks",
+        "About 36 weeks",
+        "About 40 weeks",
+        "About 44 weeks"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the primary function of the amniotic fluid inside the amniotic sac during pregnancy?",
+      "options": [
+        "To provide nutrients to the developing foetus",
+        "To protect the growing foetus from physical impacts",
+        "To transport waste products away from the foetus",
+        "To deliver oxygen directly to the foetus's lungs"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How does a developing foetus obtain essential nutrients and eliminate metabolic waste products while in the uterus?",
+      "options": [
+        "Through direct connection to the mother's stomach",
+        "By absorbing substances from the amniotic fluid",
+        "Via exchange across the placenta",
+        "Through the fallopian tube walls"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following harmful substances is able to cross the placenta from the mother's bloodstream to the foetus?",
+      "options": [
+        "Only large food proteins",
+        "Alcohol and chemicals from cigarette smoke",
+        "Stomach acid and digestive enzymes",
+        "Harmful bacteria only, but no chemicals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which of the following is classified as a short-term consequence of a mother consuming harmful drugs or alcohol during pregnancy?",
+      "options": [
+        "Sudden infant death syndrome",
+        "Foetal alcohol spectrum disorder",
+        "Low birth weight",
+        "Long-term learning difficulties"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is a potential long-term consequence for a child if they are exposed to alcohol in the womb during pregnancy?",
+      "options": [
+        "Premature birth",
+        "Foetal alcohol spectrum disorder",
+        "Miscarriage",
+        "Temporary low birth weight"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Where are sperm cells produced and stored within the male reproductive system?",
+      "options": [
+        "In the glands",
+        "In the sperm duct",
+        "In the urethra",
+        "In the testes"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How do females differ from males regarding the production and release of their sex cells?",
+      "options": [
+        "Females produce new eggs every day throughout their lives",
+        "Females are born with all their eggs, and release one egg approximately every month",
+        "Females make eggs in the testes and release them weekly",
+        "Females only develop egg cells after reaching adulthood"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What triggers the physical changes that occur in both male and female bodies during puberty?",
+      "options": [
+        "The sudden intake of different nutrients",
+        "The production of specific sex hormones",
+        "An increase in the rate of cell division in the lungs",
+        "Changes in environmental temperature"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why do offspring typically show a family resemblance, looking similar to their parents and siblings?",
+      "options": [
+        "They learn to mimic the physical expressions of their parents",
+        "They inherit genetic features from both parents",
+        "They share the same diet and environment during childhood",
+        "They undergo identical cell division rates after birth"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "On average, how many days does a complete human female menstrual cycle last?",
+      "options": [
+        "14 days",
+        "21 days",
+        "28 days",
+        "35 days"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 34
+    }
+  ]
+}

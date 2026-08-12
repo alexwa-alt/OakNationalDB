@@ -1,0 +1,182 @@
+{
+  "unitKey": "10Reproduction in humansBiology",
+  "generatedAt": "2026-08-12T05:49:34.414959+00:00",
+  "questions": [
+    {
+      "question": "In human biology, what collective term is used to describe the specialized sex cells, namely the sperm and egg cells?",
+      "options": [
+        "Zygotes",
+        "Gametes",
+        "Embryos",
+        "Hormones"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In human sexual reproduction, what proportion of the offspring's genetic material is inherited from each parent?",
+      "options": [
+        "All of the genetic material comes from the mother",
+        "All of the genetic material comes from the father",
+        "Exactly half of the genetic material comes from each parent",
+        "The proportion from each parent varies randomly between 10% and 90%"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Where in the female reproductive system does fertilisation typically occur when an egg and sperm meet?",
+      "options": [
+        "In the ovaries",
+        "In the uterus",
+        "In the fallopian tubes",
+        "In the cervix"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How does the amount of genetic material in a single gamete compare to that in a completed zygote?",
+      "options": [
+        "A gamete has double the genetic material of a zygote",
+        "A gamete has half the genetic material of a zygote",
+        "A gamete and a zygote have the exact same amount of genetic material",
+        "A gamete contains no genetic material compared to a zygote"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the correct developmental sequence starting from a fertilised egg (zygote)?",
+      "options": [
+        "Zygote -> Embryo -> Foetus -> Baby",
+        "Zygote -> Foetus -> Embryo -> Baby",
+        "Zygote -> Gamete -> Foetus -> Baby",
+        "Zygote -> Embryo -> Gamete -> Baby"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is the approximate duration of the human gestation period from fertilisation to birth?",
+      "options": [
+        "28 weeks",
+        "32 weeks",
+        "40 weeks",
+        "48 weeks"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the primary function of the amniotic fluid surrounding the developing foetus?",
+      "options": [
+        "To deliver oxygen directly to the foetus's lungs",
+        "To protect the foetus from physical impacts and bumps",
+        "To digest waste products produced by the foetus",
+        "To transport nutrients from the mother's bloodstream"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which specialised organ allows the mother to transfer nutrients to the foetus and remove its waste products?",
+      "options": [
+        "The amniotic sac",
+        "The cervix",
+        "The ovary",
+        "The placenta"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following harmful substances is capable of crossing the placenta from the mother's bloodstream to the foetus?",
+      "options": [
+        "Only large protein molecules",
+        "Chemicals from cigarette smoke and alcohol",
+        "Harmful bacteria only, but no chemical drugs",
+        "Stomach acid and digestive enzymes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What is a potential short-term consequence of a foetus being exposed to harmful substances like alcohol or tobacco during pregnancy?",
+      "options": [
+        "Sudden infant death syndrome later in childhood",
+        "Long-term developmental learning difficulties",
+        "Low birth weight or premature birth",
+        "An increased height during adolescence"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "In the male reproductive system, where are sperm cells produced and stored?",
+      "options": [
+        "In the glands",
+        "In the testes",
+        "In the scrotum only",
+        "In the oviducts"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which statement correctly describes how egg cells are managed in the female reproductive system?",
+      "options": [
+        "Females produce new eggs every day throughout their adult lives",
+        "Females are born with all their eggs in the ovaries, and typically one is released each month",
+        "Eggs are produced in the uterus and travel to the ovaries each month",
+        "Females only develop eggs once they reach the final stage of puberty"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What triggers the physical changes that occur in both male and female bodies during puberty?",
+      "options": [
+        "The sudden intake of different nutrients",
+        "The production of sex hormones",
+        "An increase in daily physical activity",
+        "A change in the body's core temperature"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "How are physical features and characteristics passed down from parents to their offspring?",
+      "options": [
+        "By sharing the same blood volume during growth",
+        "Through the transmission of genetic material (DNA) during reproduction",
+        "By physical contact and imitation after birth",
+        "Through hormones transferred in the amniotic fluid"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "On average, how many days does a single complete human menstrual cycle last?",
+      "options": [
+        "7 days",
+        "14 days",
+        "28 days",
+        "40 days"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "What occurs during the menstruation phase of the menstrual cycle?",
+      "options": [
+        "The egg is fertilised in the fallopian tube",
+        "An egg is released from the ovary",
+        "The uterus lining breaks down and leaves the body",
+        "The uterus lining thickens to receive a fertilised egg"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 36
+    }
+  ]
+}

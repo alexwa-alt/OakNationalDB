@@ -1,0 +1,182 @@
+{
+  "unitKey": "12Making imagesPhysics",
+  "generatedAt": "2026-08-12T05:49:32.851397+00:00",
+  "questions": [
+    {
+      "question": "What are the main components that make up a basic pinhole camera?",
+      "options": [
+        "A closed, empty box with a small hole on the front face and a screen on the back face",
+        "A glass tube filled with gas, with electrodes at both ends",
+        "A set of curved mirrors mounted inside a solid plastic cylinder",
+        "A dual-lens system inside a tube with a digital sensor at the front"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How does light travel from a source through a pinhole camera to form an image?",
+      "options": [
+        "It travels in curved paths around the edges of the box",
+        "It moves in straight lines from the source, through the pinhole, to the back screen",
+        "It bounces back and forth inside the box until it hits the front face again",
+        "It is refracted by the air inside the box to focus onto a central point"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "If you poke several additional small holes near the original pinhole of a pinhole camera, what is the result?",
+      "options": [
+        "A single, extremely sharp and bright image is formed",
+        "No image can be seen at all because the light rays cancel out",
+        "Multiple images are produced on the screen",
+        "The image becomes completely upside down and magnified"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What happens to the image on a pinhole camera's screen if the pinhole is made significantly larger?",
+      "options": [
+        "The image becomes sharper but much dimmer",
+        "The image becomes brighter but blurred",
+        "The image disappears and only a single dot is visible",
+        "The image becomes inverted and smaller"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What occurs when some of the light from an object passes through a lens and is focused on a screen?",
+      "options": [
+        "An image is formed on the screen",
+        "The light is completely absorbed and turned into heat",
+        "The light is split into a double shadow with no image",
+        "A virtual image is created that can only be seen inside the lens itself"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "How does a convex lens affect light rays, and what is the term for the point where these rays meet?",
+      "options": [
+        "It refracts rays so they travel more towards each other, meeting at a focus",
+        "It reflects rays away from each other, meeting at a normal",
+        "It absorbs all rays, meeting at a shadow point",
+        "It disperses rays into a spectrum, meeting at a boundary"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How does the refraction of light vary across the shape of a converging lens?",
+      "options": [
+        "Light is refracted more near the centre than at the edges",
+        "Light is refracted equally at all points across the lens",
+        "Light is refracted more at the edges than near the centre",
+        "Light is only refracted at the exact centre of the lens"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which of the following describes the size, orientation, and distance of a reflection in a plane mirror?",
+      "options": [
+        "Same size, upright, and the same distance behind the mirror as the object is in front",
+        "Larger size, inverted, and closer to the mirror than the object is in front",
+        "Smaller size, upright, and twice as far behind the mirror as the object is in front",
+        "Same size, inverted, and half the distance behind the mirror as the object is in front"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What type of inversion is observed in a plane mirror reflection when an object is facing us?",
+      "options": [
+        "Vertical inversion, where the top and bottom are swapped",
+        "Lateral inversion, where the left and right sides appear swapped",
+        "No inversion at all; it is a perfect copy",
+        "Radial inversion, where the center and edges are swapped"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why are reflections in a mirror classified as virtual images?",
+      "options": [
+        "Because they appear where light rays seem to have come from, not where they actually come from",
+        "Because they can be projected onto a paper screen held behind the mirror",
+        "Because they are formed by physical light rays physically crossing behind the glass",
+        "Because they only exist when viewed through an electronic sensor"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What determines the colour of an object when it is illuminated by white or coloured light?",
+      "options": [
+        "The speed of light reflecting off its surface",
+        "The amounts of red, green, and blue light it is reflecting",
+        "The total thickness of the object's surface layer",
+        "The angle at which the light hits the object's surface"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why does a white object appear red when illuminated by red light?",
+      "options": [
+        "Because white objects absorb red light and emit green light",
+        "Because white objects reflect all colours of light, so they look the same colour as the incident light",
+        "Because red light changes the chemical composition of the white surface",
+        "Because white objects only reflect red light and absorb all other colours of the spectrum"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What happens to the colours of light that an object does not reflect, and how does this explain black objects?",
+      "options": [
+        "They are refracted; black objects refract all colours of light",
+        "They are scattered; black objects scatter all colours of light in different directions",
+        "They are absorbed; black objects absorb all colours of light",
+        "They are transmitted; black objects let all colours of light pass through them"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "When light enters a transparent material from air, what direction does it turn relative to the normal?",
+      "options": [
+        "It turns towards the normal",
+        "It turns away from the normal",
+        "It continues in a straight line without turning",
+        "It reflects directly back along the normal"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "When light leaves a transparent material and re-enters the air, what path does it take?",
+      "options": [
+        "It turns towards the normal",
+        "It turns away from the normal",
+        "It continues parallel to the normal",
+        "It stops and is completely absorbed by the boundary"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What is created when you mix equal amounts of two primary colours of light, and what is created when you mix all three primary colours in equal amounts?",
+      "options": [
+        "A secondary colour is created; all three mixed makes white",
+        "A tertiary colour is created; all three mixed makes black",
+        "A darker shade is created; all three mixed makes grey",
+        "A primary colour is created; all three mixed makes a rainbow spectrum"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "unitKey": "10Reproduction in humansBiology",
+  "generatedAt": "2026-08-12T05:49:30.900895+00:00",
+  "questions": [
+    {
+      "question": "What is the scientific term given to human sex cells, such as sperm and egg cells?",
+      "options": [
+        "Zygotes",
+        "Gametes",
+        "Embryos",
+        "Hormones"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Where does fertilisation typically take place in the female reproductive system?",
+      "options": [
+        "In the uterus",
+        "In the ovaries",
+        "In the fallopian tubes",
+        "In the cervix"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "After fertilisation, the zygote divides repeatedly to form a ball of cells. What is this ball of cells called?",
+      "options": [
+        "A gamete",
+        "An embryo",
+        "A foetus",
+        "A placenta"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "How long is the typical gestation period for human development?",
+      "options": [
+        "About 28 weeks",
+        "About 32 weeks",
+        "About 36 weeks",
+        "About 40 weeks"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the main function of the amniotic fluid surrounding the growing foetus?",
+      "options": [
+        "To transfer oxygen from the mother",
+        "To protect the foetus from physical impacts",
+        "To digest nutrients for the foetus",
+        "To produce hormones for growth"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which organ is responsible for transferring nutrients to the growing foetus and removing its waste products?",
+      "options": [
+        "The placenta",
+        "The amniotic sac",
+        "The ovary",
+        "The cervix"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "During the process of birth, what action does the uterus wall perform to help push the baby out?",
+      "options": [
+        "It thins and dissolves",
+        "It contracts",
+        "It absorbs fluid",
+        "It expands and stays still"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which of the following harmful substances is able to cross the placenta from the mother's blood to the foetus?",
+      "options": [
+        "Large proteins",
+        "Harmful gut bacteria",
+        "Chemicals from cigarette smoke",
+        "Red blood cells"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What is a potential short-term consequence for the baby if a mother consumes harmful substances during pregnancy?",
+      "options": [
+        "Sudden infant death",
+        "Low birth weight",
+        "Foetal alcohol spectrum disorder",
+        "Adult addiction"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of the following is a potential long-term consequence of exposure to harmful substances in the womb?",
+      "options": [
+        "Premature birth",
+        "Miscarriage",
+        "Low birth weight",
+        "Foetal alcohol spectrum disorder"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Where in the male reproductive system are sperm cells produced and stored?",
+      "options": [
+        "In the glands",
+        "In the sperm duct",
+        "In the testes",
+        "In the urethra"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How does the release of egg cells in females differ from sperm production in males?",
+      "options": [
+        "Females produce new eggs daily after puberty",
+        "Females are born with all their eggs and release one each month",
+        "Females store eggs in the fallopian tubes until fertilisation",
+        "Females make eggs only during the gestation period"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What triggers the physical changes that occur in male and female bodies during puberty?",
+      "options": [
+        "A change in diet and nutrition",
+        "The production of sex hormones",
+        "An increase in body temperature",
+        "The sudden growth of the nervous system"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "How are features and traits passed from parents to their offspring?",
+      "options": [
+        "By the transfer of blood during birth",
+        "Through the sharing of nutrients in the womb",
+        "When genetic material (DNA) is passed during reproduction",
+        "Through physical contact after birth"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "What is the average length of the adult human female's menstrual cycle?",
+      "options": [
+        "14 days",
+        "21 days",
+        "28 days",
+        "35 days"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "What occurs during menstruation in the female menstrual cycle?",
+      "options": [
+        "The uterus lining breaks down and leaves the body",
+        "An egg cell is released from an ovary",
+        "The sperm fuses with the egg cell",
+        "The cervix closes to protect the uterus"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 36
+    }
+  ]
+}

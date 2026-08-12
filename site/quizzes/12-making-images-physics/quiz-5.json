@@ -1,0 +1,182 @@
+{
+  "unitKey": "12Making imagesPhysics",
+  "generatedAt": "2026-08-12T05:49:37.088596+00:00",
+  "questions": [
+    {
+      "question": "What are the main components that make up a basic pinhole camera?",
+      "options": [
+        "A solid glass cylinder with a mirror at one end",
+        "An empty, closed box with a tiny hole on the front face and a screen on the back",
+        "A convex lens placed in front of a curved piece of black paper",
+        "A triangular prism mounted inside a transparent plastic sphere"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What happens to the image produced by a pinhole camera if you add more holes to the front face?",
+      "options": [
+        "The single image becomes perfectly sharp and bright",
+        "Multiple images are produced on the screen",
+        "The image flips back to being upright",
+        "The image disappears completely because the light cancels out"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why does making the pinhole larger cause the image on the screen to become blurred?",
+      "options": [
+        "It blocks all the light except for the green and blue wavelengths",
+        "It causes the light rays to bend towards the normal",
+        "More light passes through the hole in more directions",
+        "It forces the light to travel in curved lines instead of straight lines"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What does a convex lens do to light rays passing through it?",
+      "options": [
+        "It reflects them backwards at an equal angle to the normal",
+        "It refracts them so they travel more towards each other",
+        "It splits them into a visible spectrum without bending them",
+        "It scatters them in completely random directions"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How does the refraction of light vary across the surface of a converging lens?",
+      "options": [
+        "Light is refracted more at the edges than near to the centre",
+        "Light is refracted only at the exact centre of the lens",
+        "Light is refracted equally across all parts of the lens",
+        "Light is refracted more near the centre than at the edges"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "If you stand 1.5 metres in front of a flat plane mirror, where does your reflection appear to be?",
+      "options": [
+        "3.0 metres in front of the mirror, and half your actual size",
+        "1.5 metres behind the mirror, and the same size as you",
+        "Right on the surface of the mirror, and upside down",
+        "0.75 metres behind the mirror, and twice your actual size"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why are reflections in a plane mirror described as virtual images?",
+      "options": [
+        "Because they are upside down and much smaller than the actual object",
+        "Because they can only be seen when using a green or blue filter",
+        "Because they are formed by light rays actually meeting on the surface of the mirror",
+        "Because they appear where light rays seem to have come from, not where they actually come from"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In optical diagrams, how are virtual rays drawn and what do they represent?",
+      "options": [
+        "As solid red lines to show where light is absorbed",
+        "As wavy lines to show where light speeds up",
+        "As dashed lines to show where light rays appear to have come from",
+        "As thick double lines to show where light rays actually cross"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What color will a white piece of paper appear if it is illuminated only by pure blue light?",
+      "options": [
+        "Blue, because white objects reflect all colours of light",
+        "Black, because white objects absorb blue light",
+        "Red, because white objects convert blue light into red light",
+        "Green, because blue light mixes with the paper's natural yellow pigments"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Why does a black object appear black when white light shines on it?",
+      "options": [
+        "It reflects only the primary colours of red, green, and blue",
+        "It absorbs all colours of light and reflects none",
+        "It refracts the light into a hidden spectrum behind the object",
+        "It converts all incoming light into virtual rays"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What happens to the path of a light ray when it enters a transparent glass block from the air at an angle?",
+      "options": [
+        "It bends directly away from the normal",
+        "It turns towards the normal",
+        "It continues in a straight line without changing direction",
+        "It reflects perfectly back along its original path"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What is the overall effect on the direction of a light ray after it enters and leaves a glass block with parallel sides?",
+      "options": [
+        "It ends up traveling in its original direction, but displaced to the side",
+        "It is reflected at exactly 90 degrees to its original direction",
+        "It is focused to a single point inside the glass block",
+        "It is split into a complete rainbow spectrum that cannot be reunited"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What is produced when equal amounts of all three primary colours of light (red, green, and blue) are mixed together?",
+      "options": [
+        "Black light",
+        "White light",
+        "Yellow light",
+        "Magenta light"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Which cells on the retina are responsible for detecting brightness rather than colour?",
+      "options": [
+        "Cone cells",
+        "Rod cells",
+        "Pixel cells",
+        "Prism cells"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "How do modern display screens produce a wide variety of different colours?",
+      "options": [
+        "They physically mix liquid paints behind a clear glass panel",
+        "They use tiny red, green, and blue lights (pixels) that vary in brightness",
+        "They use miniature triangular prisms that rotate to split white light",
+        "They filter light using different thicknesses of gold foil"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What device can be used to split sunlight into a visible spectrum showing all the colours of the rainbow?",
+      "options": [
+        "A flat plane mirror",
+        "A convex converging lens",
+        "A transparent triangular prism",
+        "A pinhole camera with multiple holes"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    }
+  ]
+}
