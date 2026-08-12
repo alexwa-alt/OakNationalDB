@@ -81,19 +81,24 @@
       "challenging": "challenging.json"
     },
     "8Earth's resourcesChemistry": {
-      "path": "8-earth-s-resources-chemistry"
+      "path": "8-earth-s-resources-chemistry",
+      "challenging": "challenging.json"
     },
     "9Series circuitsPhysics": {
-      "path": "9-series-circuits-physics"
+      "path": "9-series-circuits-physics",
+      "challenging": "challenging.json"
     },
     "10Reproduction in humansBiology": {
-      "path": "10-reproduction-in-humans-biology"
+      "path": "10-reproduction-in-humans-biology",
+      "challenging": "challenging.json"
     },
     "11Fuels and energeticsChemistry": {
-      "path": "11-fuels-and-energetics-chemistry"
+      "path": "11-fuels-and-energetics-chemistry",
+      "challenging": "challenging.json"
     },
     "12Making imagesPhysics": {
-      "path": "12-making-images-physics"
+      "path": "12-making-images-physics",
+      "challenging": "challenging.json"
     },
     "13Diet and exerciseBiology": {
       "path": "13-diet-and-exercise-biology"
