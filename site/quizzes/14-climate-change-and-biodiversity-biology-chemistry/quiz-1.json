@@ -1,0 +1,171 @@
+{
+  "unitKey": "14Climate change and biodiversityBiologyChemistry",
+  "generatedAt": "2026-08-12T05:51:23.845042+00:00",
+  "questions": [
+    {
+      "question": "What is the main non-renewable resource used to manufacture most traditional plastic food packaging?",
+      "options": [
+        "Crude oil and fossil fuels",
+        "Wood pulp and timber",
+        "Corn starch and biomass",
+        "Silicon and sand"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why is plastic waste in oceans and landfills considered a major environmental pollutant?",
+      "options": [
+        "It degrades instantly into toxic gases",
+        "It takes a very long time to break down and can injure wildlife",
+        "It dissolves in water and makes oceans highly acidic",
+        "It prevents solar radiation from reaching the Earth's surface"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following is considered a sustainable alternative to traditional fossil-fuel-based plastic packaging?",
+      "options": [
+        "Chlorinated PVC wrapping",
+        "Single-use polystyrene containers",
+        "Biodegradable bioplastics made from renewable resources",
+        "Heavy-duty metal alloy foil"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is a key benefit of using plastic packaging for food products?",
+      "options": [
+        "It speeds up the ripening process of fruits",
+        "It helps prevent food spoilage and reduces food waste",
+        "It completely eliminates the need for refrigeration",
+        "It increases the nutritional value of the food inside"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is one of the primary drivers of global deforestation today?",
+      "options": [
+        "Clearing land to grow crops and raise livestock",
+        "Building solar panel farms in rural areas",
+        "Harvesting wild berries and mushrooms",
+        "Creating national parks for conservation"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is a direct consequence of deforestation on forest-dwelling species?",
+      "options": [
+        "An increase in available nesting sites",
+        "Rapid adaptation to urban environments",
+        "Habitat loss and destruction of their natural homes",
+        "An immediate rise in population sizes"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following is a land-based mitigation strategy to combat climate change and biodiversity loss?",
+      "options": [
+        "Paving over grasslands for urban development",
+        "Reforestation and rewilding of natural areas",
+        "Expanding monoculture crop production",
+        "Increasing the use of synthetic pesticides"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "How does climate change directly make global food production more difficult and unpredictable?",
+      "options": [
+        "By decreasing the rate of weed growth",
+        "By making extreme weather events more common",
+        "By permanently blocking all sunlight from crops",
+        "By turning all freshwater into saltwater"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What determines the overall carbon footprint of a food product?",
+      "options": [
+        "Only the distance the food travels in delivery vans",
+        "The amount of water used to wash the food after harvest",
+        "Greenhouse gas emissions from all stages of its production",
+        "The total weight of the plastic packaging used"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why does clearing forests disrupt the carbon cycle?",
+      "options": [
+        "Fewer trees are available to absorb carbon dioxide for photosynthesis",
+        "It stops plants from releasing oxygen during respiration",
+        "It increases the rate at which trees absorb nitrogen from the soil",
+        "It prevents carbon dioxide from dissolving into rainwater"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What role does carbon dioxide (CO2) play in the atmosphere?",
+      "options": [
+        "It destroys ozone to let more UV rays cool the earth",
+        "It is a greenhouse gas that enhances the greenhouse effect and drives climate change",
+        "It acts as a cooling agent that prevents solar radiation from warming land",
+        "It directly neutralizes other harmful industrial air pollutants"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How does the removal of trees during deforestation disrupt the water cycle?",
+      "options": [
+        "It increases the rate of transpiration into the atmosphere",
+        "It stops clouds from releasing rainfall entirely",
+        "Less water is absorbed by roots and transpired by leaves",
+        "It causes all groundwater to instantly evaporate"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Why does deforestation increase the risk of flooding and threaten food security?",
+      "options": [
+        "It leads to more surface runoff of rainwater instead of absorption",
+        "It causes rivers to dry up instantly due to lack of shade",
+        "It decreases the amount of rainfall in mountainous regions",
+        "It makes soils too compact to hold any surface water"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How does climate change affect species that have evolved specific adaptations for their habitats?",
+      "options": [
+        "It instantly gives them new adaptations to survive anywhere",
+        "It alters habitat conditions, making species less well-suited to their environment",
+        "It ensures that their food supplies will always increase",
+        "It eliminates all competing species in their ecosystem"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "How do some species successfully cope with changing conditions in their native habitats?",
+      "options": [
+        "By instantly mutating to breathe underwater",
+        "By migrating to a new, more suitable habitat",
+        "By entering a permanent state of hibernation",
+        "By changing their diet to consume non-living matter"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    }
+  ]
+}

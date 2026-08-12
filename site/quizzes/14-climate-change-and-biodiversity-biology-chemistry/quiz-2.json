@@ -1,0 +1,182 @@
+{
+  "unitKey": "14Climate change and biodiversityBiologyChemistry",
+  "generatedAt": "2026-08-12T05:51:28.236451+00:00",
+  "questions": [
+    {
+      "question": "What is the primary non-renewable resource used to produce most traditional plastic food packaging?",
+      "options": [
+        "Crude oil and fossil fuels",
+        "Volcanic minerals",
+        "Atmospheric nitrogen",
+        "Plant-derived cellulose"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why is plastic waste in landfills and oceans considered a major environmental threat to organisms?",
+      "options": [
+        "It degrades too quickly, releasing heat into the water.",
+        "It persists in the environment for a very long time without degrading and can harm wildlife.",
+        "It increases the salinity of ocean waters, killing freshwater fish.",
+        "It blocks all sunlight from reaching the deep ocean floor."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following describes a more sustainable alternative to traditional petroleum-based plastics for packaging?",
+      "options": [
+        "Synthetic chlorinated polymers",
+        "Heavy metal composite foils",
+        "Biodegradable bioplastics made from renewable resources",
+        "Single-use fluorocarbon sheets"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is one of the main beneficial roles that plastic packaging plays in the food supply chain?",
+      "options": [
+        "It increases the nutritional value of foods over time.",
+        "It helps prevent food spoilage and reduces food waste.",
+        "It eliminates the need for refrigeration entirely.",
+        "It naturally cooks the food while on supermarket shelves."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When deciding whether to use plastic packaging for a food product, what trade-off must be carefully evaluated?",
+      "options": [
+        "The cost of supermarket shelf space versus the weight of the labels.",
+        "The energy used in cooking the food versus the water used to wash it.",
+        "The benefits of preventing food spoilage versus the emissions from production and damage to biodiversity.",
+        "The aesthetic appeal of the package versus the expiration date of the product."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which human activity is identified as one of the primary drivers behind global deforestation?",
+      "options": [
+        "Building high-rise residential apartments in deserts",
+        "Converting natural forest land into areas for agricultural use",
+        "Extracting geothermal energy from deep underground",
+        "Setting up offshore wind farms"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is a direct ecological consequence of widespread deforestation on forest-dwelling organisms?",
+      "options": [
+        "It leads to habitat loss for many species.",
+        "It causes an immediate increase in genetic mutations.",
+        "It encourages species to develop underwater adaptations.",
+        "It decreases the amount of solar radiation reaching the canopy."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which pair of strategies represents effective ways to mitigate biodiversity loss and combat climate change?",
+      "options": [
+        "Increasing industrial pesticide use and expanding desert regions",
+        "Changing human diets and undertaking positive land use changes like reforestation and rewilding",
+        "Urbanizing all remaining wetlands and increasing fossil fuel extraction",
+        "Introducing invasive species and building concrete flood barriers everywhere"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "How does climate change directly increase the difficulty of global food production?",
+      "options": [
+        "By slowing down the rate of plant respiration in the dark",
+        "By making extreme weather events more frequent and disruptive",
+        "By reducing the gravity of the Earth, which affects plant roots",
+        "By converting all freshwater lakes into saltwater reservoirs"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How can individual dietary choices help limit the progression of global climate change?",
+      "options": [
+        "By eating only foods that have been highly processed in factories",
+        "By choosing diets that reduce greenhouse gas emissions associated with food production",
+        "By consuming more imported exotic foods that require air freight",
+        "By increasing the intake of foods packaged in heavy-gauge non-recyclable plastics"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why does clearing forests disrupt the Earth's carbon cycle?",
+      "options": [
+        "Fewer trees are available to absorb carbon dioxide from the atmosphere for photosynthesis.",
+        "It causes the soil to release large amounts of helium gas.",
+        "It prevents plants from absorbing oxygen through their root systems.",
+        "It increases the amount of ozone created at ground level."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What role does carbon dioxide (CO2) play when its concentration increases in the atmosphere?",
+      "options": [
+        "It acts as a cooling agent that prevents solar radiation from entering the atmosphere.",
+        "It acts as a greenhouse gas, enhancing the greenhouse effect and contributing to climate change.",
+        "It destroys the ozone layer in the troposphere, causing immediate acid rain.",
+        "It reacts with nitrogen to form solid ammonium nitrate in the clouds."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How does deforestation affect surface water runoff and what is the consequence of this?",
+      "options": [
+        "It decreases surface runoff, causing severe droughts in all agricultural areas.",
+        "It leads to more surface runoff, which increases flooding and threatens our food security.",
+        "It turns surface runoff into alkaline streams that dissolve limestone structures.",
+        "It stops water from evaporating, leading to a complete halt in the water cycle."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why are many species struggling to survive in their native habitats as a result of climate change?",
+      "options": [
+        "The habitats are becoming entirely devoid of gravity.",
+        "Atmospheric nitrogen levels have fallen to near zero.",
+        "The environmental conditions are changing, meaning species are less well adapted to live there.",
+        "Species are suddenly losing their genetic material due to warmer temperatures."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "How do some species respond to changing habitat conditions caused by climate change to survive, though this option is not available to all?",
+      "options": [
+        "By undergoing rapid physical mutation within a single generation",
+        "By migrating to a new habitat with more suitable conditions",
+        "By entering a state of permanent hibernation that lasts for decades",
+        "By learning to photosynthesize without sunlight"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which of the following is a major consequence of climate change and its associated extreme weather events?",
+      "options": [
+        "An increase in the total number of stable ecosystems globally",
+        "A significant loss of biodiversity across different ecosystems",
+        "The complete stabilization of seasonal temperatures",
+        "An immediate decrease in the rate of natural extinction"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    }
+  ]
+}
