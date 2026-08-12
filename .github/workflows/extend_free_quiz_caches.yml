@@ -1,0 +1,51 @@
+name: Extend free quiz caches
+
+on:
+  schedule:
+    - cron: "30 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: write
+
+jobs:
+  extend:
+    runs-on: ubuntu-latest
+    env:
+      GEMINI_FREE_API_KEY: ${{ secrets.GEMINI_FREE_API_KEY }}
+      GEMINI_MODEL: gemini-3.5-flash
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install runtime dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Extend rotating question banks
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          start=$((10#$(date -u +%j) % 41))
+
+          for offset in 0 1 2; do
+            unit_start=$(((start + offset) % 41))
+            GEMINI_API_KEY="$GEMINI_FREE_API_KEY" python commands/generate_forces_quizzes.py \
+              --all --start "$unit_start" --limit 1 --challenging --append
+          done
+
+          unit_start=$(((start + 3) % 41))
+          GEMINI_API_KEY="$GEMINI_FREE_API_KEY" python commands/generate_forces_quizzes.py \
+            --all --start "$unit_start" --limit 1 --count 1 --append
+
+          git add site/quizzes
+          if ! git diff --staged --quiet; then
+            git commit -m "Extend free quiz caches [skip ci]"
+            git pull --rebase origin main
+            git push origin HEAD:main
+            gh workflow run deploy_quiz_cache.yml --ref main
+          fi
