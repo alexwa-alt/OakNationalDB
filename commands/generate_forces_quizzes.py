@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import hashlib
 import json
 import os
@@ -73,7 +74,8 @@ def parse_arguments() -> argparse.Namespace:
     parser.add_argument("--start", type=int, default=0)
     parser.add_argument("--limit", type=int)
     parser.add_argument("--count", type=int, default=5)
-    parser.add_argument("--delay-seconds", type=float, default=60)
+    parser.add_argument("--delay-seconds", type=float, default=0)
+    parser.add_argument("--workers", type=int, default=1)
     parser.add_argument("--overwrite", action="store_true")
     parser.add_argument("--required-requests", action="store_true")
     return parser.parse_args()
@@ -304,6 +306,8 @@ def main() -> int:
         raise ValueError("--count must be between 1 and 5")
     if arguments.delay_seconds < 0:
         raise ValueError("--delay-seconds cannot be negative")
+    if not 1 <= arguments.workers <= 100:
+        raise ValueError("--workers must be between 1 and 100")
 
     units = load_units()
     paths = unit_paths(units)
@@ -322,12 +326,10 @@ def main() -> int:
     model = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash")
     manifest = load_manifest()
     manifest_units: dict[str, Any] = manifest["units"]
-    last_request_at: float | None = None
-
+    requests_to_generate: list[tuple[str, list[str], int, Path]] = []
     for unit_key in selected_keys:
         points = units[unit_key]
         directory = QUIZZES_DIRECTORY / paths[unit_key]
-        files: list[str] = []
         for variation in range(1, arguments.count + 1):
             output_path = directory / f"quiz-{variation}.json"
             if output_path.exists() and not arguments.overwrite and valid_quiz_file(
@@ -335,22 +337,39 @@ def main() -> int:
             ):
                 print(f"Keeping existing {output_path}")
             else:
-                if last_request_at is not None:
-                    wait = arguments.delay_seconds - (time.monotonic() - last_request_at)
-                    if wait > 0:
-                        time.sleep(wait)
-                print(f"Generating {unit_key} quiz {variation}/{arguments.count} with {model}")
-                last_request_at = time.monotonic()
-                questions = generate_quiz(api_key, model, unit_key, points, variation)
-                write_json(
-                    output_path,
-                    {
-                        "unitKey": unit_key,
-                        "generatedAt": datetime.now(timezone.utc).isoformat(),
-                        "questions": questions,
-                    },
-                )
-            files.append(output_path.name)
+                requests_to_generate.append((unit_key, points, variation, output_path))
+
+    def generate_and_write(
+        unit_key: str, points: list[str], variation: int, output_path: Path
+    ) -> None:
+        print(f"Generating {unit_key} quiz {variation}/{arguments.count} with {model}")
+        questions = generate_quiz(api_key, model, unit_key, points, variation)
+        write_json(
+            output_path,
+            {
+                "unitKey": unit_key,
+                "generatedAt": datetime.now(timezone.utc).isoformat(),
+                "questions": questions,
+            },
+        )
+
+    if arguments.workers == 1:
+        for index, request in enumerate(requests_to_generate):
+            if index:
+                time.sleep(arguments.delay_seconds)
+            generate_and_write(*request)
+    else:
+        with ThreadPoolExecutor(max_workers=arguments.workers) as executor:
+            futures = [
+                executor.submit(generate_and_write, *request)
+                for request in requests_to_generate
+            ]
+            for future in as_completed(futures):
+                future.result()
+
+    for unit_key in selected_keys:
+        directory = QUIZZES_DIRECTORY / paths[unit_key]
+        files = [f"quiz-{variation}.json" for variation in range(1, arguments.count + 1)]
         write_json(directory / "index.json", {"quizzes": files})
         manifest_units[unit_key] = {"path": paths[unit_key]}
         write_json(QUIZZES_DIRECTORY / "index.json", manifest)
