@@ -1,0 +1,226 @@
+{
+  "unitKey": "6Hidden forcesPhysics",
+  "generatedAt": "2026-08-12T06:19:05.006139+00:00",
+  "questions": [
+    {
+      "question": "An iceberg is floating in the ocean with 90% of its volume submerged beneath the water's surface, and only 10% visible above. Based on physical principles, which of the following statements is correct about its state of floating?",
+      "options": [
+        "Only the top 10% is floating, while the submerged 90% is sinking.",
+        "The entire iceberg is considered to be floating because a portion of it remains above the surface.",
+        "The iceberg is not floating because more than half of its volume is below the surface.",
+        "The iceberg is in a state of neutral buoyancy, which is distinct from floating."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A toy plastic boat is floating in a small bucket filled with 10 cm of water. If the boat is transferred to a deep swimming pool filled with 3 meters of water, how will its floating behavior change, assuming the water density is identical?",
+      "options": [
+        "It will float much higher because the deep water exerts a greater upward pressure from the bottom of the pool.",
+        "It will float exactly the same because how well an object floats does not depend on the depth of the liquid.",
+        "It will sink slightly deeper because the immense volume of water around it creates a pulling force.",
+        "It will float lower because the atmospheric pressure is higher over a larger surface area of water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A solid block of steel sinks in water, but a steel ship of the exact same mass floats. What is the fundamental physical explanation for why the ship floats while the solid block does not?",
+      "options": [
+        "The steel ship contains trapped air which reduces the actual mass of the steel itself.",
+        "The hollow shape of the ship allows it to push aside a volume of water equal to its own mass before it is fully submerged.",
+        "The ship's flat bottom experiences less friction as it moves through the water, allowing it to stay on the surface.",
+        "Salt water under ships is denser than fresh water used to test solid blocks in laboratories."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "An astronaut on Earth needs to lift a crate of scientific equipment with a mass of 12 kg. Approximately how much upward force must they exert to lift this crate vertically at a constant speed?",
+      "options": [
+        "1.2 N",
+        "12 N",
+        "120 N",
+        "1200 N"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A heavy dictionary with a mass of 2.5 kg is resting flat on a study table. What is the downward force that this mass exerts on the table's surface due to Earth's gravity?",
+      "options": [
+        "About 0.25 N",
+        "About 2.5 N",
+        "About 25 N",
+        "About 250 N"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A student hangs a 1 N weight on a spring and notes that it extends by 3 cm. When they add another 1 N weight (making a total of 2 N), the spring extends by an additional 3 cm (total 6 cm). What does this tell us about the spring's behavior under tension?",
+      "options": [
+        "The spring's total length is always equal to its extension under any load.",
+        "The extension of the spring increases by the same amount for each equal-sized increase in force.",
+        "The spring becomes progressively stiffer and extends less with each additional Newton.",
+        "The spring's extension is independent of the gravitational force acting on the masses."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "If the extension of a metal spring is directly proportional to the force applied to it, which of the following graphs would correctly represent this relationship before the elastic limit is reached?",
+      "options": [
+        "A curved line that starts at the origin and levels off horizontally.",
+        "A straight line starting at the origin, showing that doubling the force doubles the extension.",
+        "A horizontal straight line, showing that extension remains constant as force increases.",
+        "A straight line that starts high on the vertical axis and slopes downward to the horizontal axis."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A student stretches four different materials with a 5 N force and measures their lengths. When the force is removed, which material is demonstrating elastic behavior?",
+      "options": [
+        "Material A, which was 10 cm, stretched to 15 cm, and remained at 15 cm.",
+        "Material B, which was 10 cm, stretched to 12 cm, and returned to 10 cm.",
+        "Material C, which was 10 cm, stretched to 14 cm, and shrank to 8 cm.",
+        "Material D, which was 10 cm, snapped into two pieces under the force."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A mechanic is trying to loosen a stubborn, rusted bolt on a car wheel. Why is using a wrench with a much longer handle more effective than using a short wrench?",
+      "options": [
+        "The longer handle reduces the total friction between the bolt and the wheel thread.",
+        "The longer handle acts as a lever that multiplies a small input force into a much larger output force at the bolt.",
+        "The longer handle reduces the distance that the mechanic's hand has to move to turn the bolt.",
+        "The longer handle increases the mass of the wrench, which directly increases the gravity pulling it down."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In some mechanical setups, a lever is designed so that a small movement of one's hand results in a much larger movement at the other end. Which of the following is a trade-off of using a lever in this way?",
+      "options": [
+        "The output force is larger than the input force.",
+        "The output force is smaller than the input force.",
+        "The pivot point must continuously shift along the beam during operation.",
+        "The lever becomes less elastic and can no longer return to its original shape."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Consider a wheelbarrow, a pair of scissors, and a bottle opener. How do these tools compare as levers?",
+      "options": [
+        "They are identical types of levers because the pivot is always located at the very end.",
+        "They are different types of levers because each one has its pivot, load, and effort in different relative positions.",
+        "Only the scissors are a true lever because they have two handles instead of one.",
+        "They are different because some use gravitational force while others use electrostatic force to turn."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A circus performer with a weight of 600 N stands on a wooden platform. In Scenario A, they stand on both feet (total area of 0.03 m²). In Scenario B, they balance on one foot (area of 0.015 m²). How does the pressure exerted on the platform compare between the two scenarios?",
+      "options": [
+        "The pressure in Scenario B is half the pressure in Scenario A.",
+        "The pressure in Scenario B is twice the pressure in Scenario A.",
+        "The pressure is the same in both scenarios because the performer's weight has not changed.",
+        "The pressure in Scenario B is four times the pressure in Scenario A."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A weather station reports that the atmospheric pressure at sea level is approximately 101,300 pascals (Pa). What is another equivalent way to express this unit of pressure?",
+      "options": [
+        "101,300 Newtons per square centimetre (N/cm²)",
+        "101,300 Newtons per square metre (N/m²)",
+        "101,300 Joules per kilogram (J/kg)",
+        "101,300 kilograms per square metre (kg/m²)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why are large cargo ships designed with very wide, flat-bottomed hulls rather than narrow, deep V-shaped hulls of the same weight?",
+      "options": [
+        "A wider hull minimizes the water pressure acting on the sides of the ship.",
+        "A bigger surface area of the hull allows the water to exert a larger maximum upthrust, letting the ship carry heavier cargo without sinking.",
+        "A flat bottom prevents the ship from being affected by the Earth's gravitational pull.",
+        "Narrow hulls experience a larger upward force from the water because they penetrate deeper."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "A submarine is diving deep into the ocean. Why must its hull be built from extremely thick, reinforced steel as it descends deeper?",
+      "options": [
+        "The temperature of the water decreases, which causes the steel to become brittle.",
+        "The density of the water decreases at depth, requiring a heavier submarine to stay submerged.",
+        "The pressure in the liquid increases with depth because there is a greater weight of liquid pushing down from above.",
+        "The gravitational force on the submarine increases significantly as it gets closer to the seafloor."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Mountaineers climbing Mount Everest often require supplemental oxygen canisters. Why does the atmospheric pressure reduce so significantly at high altitudes?",
+      "options": [
+        "The air is warmer at high altitudes, which causes the gas particles to expand and escape into space.",
+        "There is less air pushing down from above at high altitudes, which reduces the atmospheric pressure.",
+        "The Earth's magnetic field is stronger at high altitudes, pushing the air molecules away.",
+        "The rotational speed of the Earth is faster at high altitudes, throwing the air outward."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "If you apply a series of equal 2 N forces to a household rubber band and measure its extension, what pattern of extension should you expect to observe?",
+      "options": [
+        "The extension will increase by the exact same number of millimetres for each 2 N force added.",
+        "The extension will increase by different amounts for each equal-sized increase in force.",
+        "The rubber band will not extend at all until a threshold force of 10 N is reached.",
+        "The rubber band's extension will immediately double with each step, showing an exponential increase."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "When a heavy truck drives onto a steel suspension bridge, the main support beams bend slightly downward. What happens to the internal forces within the beam as it bends more?",
+      "options": [
+        "The bending reduces the density of the steel, causing the beam to become lighter.",
+        "The more the beam bends, the greater the upward force it pushes back with to support the truck.",
+        "The beam pushes back with a constant force regardless of how much it bends.",
+        "The bending causes the beam to lose its ability to exert any upward reaction force."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "When you stand on a wooden floor, you do not fall through it because the floor exerts an upward support force on your feet. At a microscopic level, how is this upward force generated?",
+      "options": [
+        "The particles in the floor expand and become less dense to push you upward.",
+        "The particles in the floor are squashed closer together, and the more they are squashed, the greater the force they push back with.",
+        "The floor particles generate a temporary static electric charge that repels your shoes.",
+        "The floor particles begin to vibrate rapidly, creating a cushion of warm air that lifts you."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "A mechanic uses a spanner to tighten a nut. They apply a perpendicular force of 20 N at a distance of 0.25 metres from the center of the nut. What is the turning moment produced?",
+      "options": [
+        "5 Nm",
+        "80 Nm",
+        "0.0125 Nm",
+        "20.25 Nm"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 37
+    }
+  ]
+}

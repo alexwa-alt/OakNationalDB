@@ -1,0 +1,226 @@
+{
+  "unitKey": "7Adaptations, competition, natural selection and evolutionBiology",
+  "generatedAt": "2026-08-12T06:19:06.385877+00:00",
+  "questions": [
+    {
+      "question": "In a classroom activity, students pick up green and white cocktail sticks scattered across a lawn of green grass in 30 seconds. Which of the following best explains what this model demonstrates?",
+      "options": [
+        "The cocktail sticks represent predators, and the green grass represents the camouflage of prey species.",
+        "The students act as predators, the sticks represent prey with different variations, and the grass is the environment.",
+        "The sticks represent nutrients in the soil, and the students represent plants competing to absorb them.",
+        "The students represent different species competing for the exact same nesting sites in a forest."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In the cocktail stick model on green grass, students collect 80% of the white sticks but only 20% of the green sticks in the first round. If the surviving sticks are allowed to reproduce by adding more sticks of their own colour, what is the most reasonable prediction for the population over several generations?",
+      "options": [
+        "The white sticks will eventually become more common because they are easier to find.",
+        "The total number of sticks will decrease to zero as students get faster at finding them.",
+        "The proportion of green sticks in the population will increase because they have a higher survival rate.",
+        "The ratio of green to white sticks will remain exactly 50:50 because reproduction is random."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Imagine the lawn in the cocktail stick model suddenly becomes covered in a thick layer of white frost. How would this environmental change alter the predicted survival rates of the green and white sticks?",
+      "options": [
+        "Green sticks would now be harder to find, so their survival rate would increase.",
+        "White sticks would become camouflaged against the frost, increasing their survival rate compared to green sticks.",
+        "Both green and white sticks would be collected at equal rates because frost has no effect on visibility.",
+        "The students would stop collecting sticks because the cold temperature would freeze the sticks in place."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "The fennec fox has exceptionally large ears. Which explanation best describes how this specific adaptation provides a survival advantage in its hot desert environment?",
+      "options": [
+        "Large ears trap a layer of warm air close to the head to prevent the fox from shivering at night.",
+        "Large ears contain many blood vessels that allow excess body heat to radiate away, keeping the fox cool.",
+        "Large ears prevent sand from entering the inner ear canal during desert windstorms.",
+        "Large ears allow the fox to flap them to fly short distances over hot desert sand."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Two species of birds feed on the same type of seed in a woodland. In a year with very low rainfall, the seed plants produce far fewer seeds than usual. What is the most likely outcome of this resource limitation?",
+      "options": [
+        "The birds will voluntarily share the remaining seeds equally to ensure both species survive.",
+        "Both species will switch to eating leaves, completely eliminating any need to compete.",
+        "Competition for the limited seeds will increase, and the species less suited to finding or eating them may decrease in population.",
+        "The seeds will automatically grow larger and more nutritious to compensate for the low quantity."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "In a population of rabbits, some individuals have slightly longer, stronger hind legs than others. How does this variation affect their ability to compete and survive when a new predator enters their habitat?",
+      "options": [
+        "All rabbits will instantly grow longer legs in response to seeing the predator.",
+        "Rabbits with longer legs can run faster to escape, making them more likely to survive and compete successfully.",
+        "The predator will only hunt rabbits with longer legs because they are more visible when running.",
+        "Leg length has no impact on survival because predators hunt entirely by scent."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which of the following best describes how natural selection leads to the evolution of a species over many generations?",
+      "options": [
+        "Individual organisms decide to change their characteristics to suit their environment, then pass these new traits to their offspring.",
+        "The environment directly mutates the genes of every individual at the same time to make them better suited.",
+        "Individuals with advantageous traits are more likely to survive and reproduce, causing those traits to become more common over time.",
+        "Weak individuals are protected by stronger individuals, ensuring that all variations survive equally."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "In science, the term 'Theory of Evolution' is used. What does the word 'theory' mean in this scientific context?",
+      "options": [
+        "An untested guess or hunch that has no supporting evidence.",
+        "A general explanation developed from a large body of evidence that explains many different observations.",
+        "A temporary idea that scientists use until they can find actual proof.",
+        "A rule of nature that can never be modified or updated by new discoveries."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A population of bacteria is exposed to an antibiotic. A few bacteria survive because they have a feature that makes them resistant. Which statement correctly describes how this resistance arose?",
+      "options": [
+        "The bacteria anticipated the antibiotic and consciously designed a protective shield.",
+        "The antibiotic caused the bacteria to intentionally mutate so they could survive.",
+        "A random genetic variation that happened to provide resistance was already present or appeared by chance, and was then selected for.",
+        "The bacteria evolved resistance because they needed it to survive, as evolution always plans ahead."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A professional weightlifter trains hard for years and develops exceptionally large, strong muscles. Why is this change in the weightlifter's muscles not considered an example of evolution?",
+      "options": [
+        "Evolution only occurs in plants and simple animals, not in humans.",
+        "The changes occurred within an individual's lifetime and do not change the genetic information passed to their offspring.",
+        "Muscle growth is a chemical change, whereas evolution only involves mechanical changes.",
+        "The weightlifter's children will automatically be born with giant muscles, which skips the process of natural selection."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is a fossil, scientifically speaking?",
+      "options": [
+        "Any dead leaf or bone found lying on the forest floor today.",
+        "A preserved specimen kept in liquid alcohol by modern scientists in a lab.",
+        "The mineralised remains or traces of once-living organisms from long ago.",
+        "A synthetic replica of an ancient animal created using modern 3D-printing technology."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why must scientists be cautious when drawing conclusions about the complete history of life on Earth based only on fossil evidence?",
+      "options": [
+        "Fossils cannot be dated using any scientific methods, so their age is entirely made up.",
+        "The fossil record is incomplete because soft-bodied organisms rarely fossilise, and many fossils have not been found or were destroyed.",
+        "Fossils only form from plants, so we have no fossil evidence of ancient animals.",
+        "Fossils constantly change their shapes while buried underground, making them unreliable."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Which of the following is an example of environmental variation rather than genetic variation in dogs?",
+      "options": [
+        "A dog having a naturally curly coat of fur.",
+        "A dog having a scar on its ear from an old injury.",
+        "A dog having blue eyes instead of brown eyes.",
+        "A dog having a highly developed sense of smell due to its breed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A tree loses several of its branches during a severe lightning storm, leaving it permanently misshapen. If seeds from this tree are planted, what shape are the new saplings expected to grow into, and why?",
+      "options": [
+        "They will grow misshapen because the parent tree's physical damage is passed down through its seeds.",
+        "They will grow into normal, fully-branched trees because environmental damage is not heritable.",
+        "They will grow with even fewer branches because the damage is amplified in the next generation.",
+        "They will fail to grow at all because damaged trees cannot produce functional seeds."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Why can genetic variation, such as the instructions for growing sharp claws in tigers, be passed down to offspring, while a broken claw from an accident cannot?",
+      "options": [
+        "Sharp claws are made of stronger cells that actively migrate to the reproductive organs.",
+        "Genetic variation is stored in DNA which is copied and passed to offspring, whereas physical injuries do not alter DNA.",
+        "Offspring choose which physical features they want to inherit from their parents after they are born.",
+        "Physical injuries are too small to be noticed by the cells that control reproduction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "In a dry grassland, some plants have deeper root systems due to their genetic makeup. Why does this feature become more common in the population over several dry years?",
+      "options": [
+        "The shallow-rooted plants decide to grow deeper roots in winter to prepare for the summer.",
+        "The deep-rooted plants survive the drought better, reproduce, and pass their genes for deep roots to their offspring.",
+        "The soil physically pulls the roots of all plants deeper to help them find water.",
+        "Deep roots are a dominant social trait that plants copy from their neighbors."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "During the Industrial Revolution in England, soot from coal burning blackened the bark of birch trees. How did this human-caused environmental change affect natural selection in the peppered moth population?",
+      "options": [
+        "It caused all light-coloured moths to immediately mutate into dark-coloured moths within their lifetimes.",
+        "It gave dark-coloured moths a camouflage advantage on the dark soot-covered trees, making them more likely to survive and reproduce.",
+        "It made birds stop eating moths entirely because the soot made the moths taste bad.",
+        "It had no effect because natural selection is completely unaffected by human activities."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "According to scientific evidence, approximately when did the very first living organisms appear on Earth, and what type of organisms were they?",
+      "options": [
+        "4.5 billion years ago, and they were complex land plants.",
+        "3.8 billion years ago, and they were simple microorganisms.",
+        "500 million years ago, and they were ancient mammals.",
+        "10 thousand years ago, and they were modern humans."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "Based on scientific evidence, which of the following lists the correct chronological order of the appearance of these organisms on Earth, from oldest to most recent?",
+      "options": [
+        "Mammals (200 million years ago) to Land plants (500 million years ago) to Modern humans (350 thousand years ago)",
+        "Land plants (500 million years ago) to Mammals (200 million years ago) to Modern humans (350 thousand years ago)",
+        "Modern humans (350 thousand years ago) to Mammals (200 million years ago) to Land plants (500 million years ago)",
+        "Land plants (500 million years ago) to Modern humans (350 thousand years ago) to Mammals (200 million years ago)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "Why do scientists divide the 4.5 billion-year history of the Earth into specific blocks of time called eons, periods, and epochs?",
+      "options": [
+        "To keep the history of Earth secret from the general public.",
+        "Because the Earth's orbit changes shape exactly every time a new period begins.",
+        "To make this vast span of time easier to study, understand, and organize based on major geological and biological events.",
+        "Because these are the names of the ancient scientists who originally discovered the Earth."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 36
+    }
+  ]
+}

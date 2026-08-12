@@ -1,0 +1,226 @@
+{
+  "unitKey": "8Carbon cycle and climate changeChemistry",
+  "generatedAt": "2026-08-12T06:18:58.165029+00:00",
+  "questions": [
+    {
+      "question": "A chemical analyst is modeling the molecular structure of a greenhouse gas. They represent the molecule with three spheres: a central black sphere bonded to two red spheres on either side. What chemical formula and composition does this model represent?",
+      "options": [
+        "CO, consisting of one cobalt atom and one oxygen atom",
+        "CO2, consisting of one carbon atom and two oxygen atoms",
+        "CO2, consisting of two carbon atoms and one oxygen atom",
+        "C2O, consisting of two carbon atoms and two oxygen atoms"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "In a classroom demonstration, a 10-liter container of dry air is analyzed to determine its composition. Based on the average concentration of carbon dioxide in Earth's atmosphere, approximately what volume of carbon dioxide would you expect to find in this container?",
+      "options": [
+        "40 milliliters",
+        "4 milliliters",
+        "400 milliliters",
+        "0.4 milliliters"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Scientists are studying how different gases in the atmosphere interact with radiation. They observe that a certain gas allows short-wavelength solar radiation to pass through but absorbs and re-emits long-wavelength infrared radiation. Which of the following gases behaves in this way?",
+      "options": [
+        "Argon",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Oxygen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "If human activities continue to release large volumes of greenhouse gases into the atmosphere, what is the direct physical consequence on a global scale?",
+      "options": [
+        "An increase in the concentration of atmospheric nitrogen, leading to cooler global temperatures",
+        "An increase in average global temperatures due to enhanced retention of thermal energy",
+        "A rapid depletion of the ozone layer, allowing cosmic rays to directly heat the oceans",
+        "A sudden decrease in global sea levels due to increased atmospheric water vapor retention"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "An industrial chemist is comparing fossil fuels. They find a solid, dark, combustible rock that is primarily composed of carbon, but contains trace amounts of sulfur and nitrogen impurities. What type of rock is this?",
+      "options": [
+        "Igneous basalt",
+        "Metamorphic marble",
+        "Sedimentary coal",
+        "Sedimentary limestone"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A geologist is examining a thick layer of coal. To understand its origin, they must trace the geological history of the area. Which of the following best describes how this coal originally formed?",
+      "options": [
+        "From mineral-rich volcanic ash that was compressed under high pressure in dry desert regions",
+        "From deep sediments of organic matter consisting of prehistoric terrestrial plants",
+        "From the skeletal remains of marine organisms deposited in deep ocean trenches",
+        "From the crystallization of carbon-rich magma cooling slowly beneath the Earth's crust"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A petroleum engineer is exploring a marine basin for oil and gas reserves. What was the primary biological source of these hydrocarbons, and how did they form?",
+      "options": [
+        "Prehistoric land-based forests that were buried by volcanic eruptions",
+        "Dead microscopic plankton mixed with sediments millions of years ago",
+        "Decomposed large marine reptiles that sank to the anoxic ocean floor",
+        "Ancient root systems of swamp plants that underwent rapid carbonization"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "When extraction companies drill for oil and natural gas, where exactly are these substances stored and trapped within the Earth's crust?",
+      "options": [
+        "In vast underground open caverns within metamorphic rocks",
+        "In the tiny pore spaces of sedimentary rocks",
+        "In solid mineral veins within igneous rocks",
+        "In subterranean rivers flowing above crystalline bedrock"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following sequences best explains the chemical and physical processes that transform loose sediment into solid sedimentary rock?",
+      "options": [
+        "The sediment melts due to geothermal heat and crystallizes upon cooling",
+        "The sediment is exposed to acid rain, dissolving completely before recrystallizing",
+        "The sediment is buried and compressed, and salts from circulating fluids cement the grains together",
+        "The sediment reacts with atmospheric nitrogen to form a hard, glassy mineral matrix"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A paleontology student is looking for fossils of ancient ferns. In which geological environment and rock type are they most likely to succeed in finding intact fossils?",
+      "options": [
+        "In basalt formed from rapidly cooling lava flows",
+        "In marble formed from deep-seated thermal metamorphism",
+        "In sedimentary rock layers formed from ancient lake beds",
+        "In granite formed from slow-cooling magma chambers"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How does the process of petrification occur when a bone is preserved as a fossil over millions of years?",
+      "options": [
+        "The bone is instantly heated by magma, converting the calcium directly into diamonds",
+        "The bone is slowly dissolved by water, and minerals in the water gradually replace the bone structure",
+        "The bone reacts with atmospheric oxygen to form a highly stable, non-reactive oxide crust",
+        "The bone remains completely unchanged while the surrounding rock is converted into liquid oil"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "If you were to analyze a clean, dry sample of Earth's atmosphere, what would be the relative abundance of its primary components?",
+      "options": [
+        "78% oxygen, 21% carbon dioxide, and 1% nitrogen",
+        "78% nitrogen, 21% carbon dioxide, and 1% oxygen",
+        "78% nitrogen, 21% oxygen, with very small amounts of other gases and particles",
+        "50% nitrogen, 50% oxygen, with trace amounts of noble gases"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Some people suggest that the greenhouse effect is entirely harmful. Why is a natural level of greenhouse gases actually essential for life on Earth?",
+      "options": [
+        "They block all solar radiation from entering the atmosphere, preventing sunburns",
+        "They maintain Earth's average temperature at a level warm enough to support human life",
+        "They react with harmful nitrogen gas to convert it into oxygen for breathing",
+        "They prevent gravity from pulling the atmosphere into outer space"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "In a laboratory, a student bubbles an unknown gas through a clear solution of calcium hydroxide (limewater). A white precipitate forms, making the solution appear milky. What gas does this test confirm?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A large granite boulder sits on a hillside. Over decades, rainwater and temperature changes cause small cracks to expand, slowly breaking the rock down while it remains in its original position. What geological term describes this process?",
+      "options": [
+        "Erosion, because the rock is being broken into smaller pieces",
+        "Weathering, because the rock is breaking down 'in place'",
+        "Deposition, because new minerals are being added to the hill",
+        "Compaction, because gravity is pushing down on the boulder"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "After a heavy rainstorm on a steep slope, muddy water carries loose soil and broken rock fragments down into a valley. What is the correct term for the removal and transport of this material?",
+      "options": [
+        "Chemical weathering",
+        "Erosion",
+        "In-situ disintegration",
+        "Cementation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "How does the widespread burning of fossil fuels in power stations affect the global carbon cycle?",
+      "options": [
+        "It decreases the amount of atmospheric carbon dioxide by converting it to solid soot",
+        "It increases the amount of carbon dioxide in the atmosphere through combustion",
+        "It has no net effect because the carbon is converted into harmless water vapor",
+        "It reduces the rate of respiration in terrestrial organisms, balancing the carbon levels"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Which of the following processes carried out by living animals and plants continuously releases carbon dioxide back into the atmosphere?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Fossilisation",
+        "Nitrogen fixation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "A marine biologist is studying the carbon cycle in the upper layers of the ocean. Which process, performed by phytoplankton, actively reduces the concentration of dissolved carbon dioxide in the water?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Decomposition",
+        "Combustion"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "What is a major physical process by which the oceans interact with atmospheric carbon dioxide, acting as a massive global carbon sink?",
+      "options": [
+        "Carbon dioxide chemically reacts with salt to form solid sodium metal",
+        "Carbon dioxide dissolves directly into the ocean water",
+        "Carbon dioxide is frozen into icebergs at the equator",
+        "Carbon dioxide is evaporated out of the water by deep hydrothermal vents"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    }
+  ]
+}
