@@ -1,0 +1,226 @@
+{
+  "unitKey": "13Climate change and living sustainablyBiologyChemistryPhysics",
+  "generatedAt": "2026-08-12T06:16:29.546891+00:00",
+  "questions": [
+    {
+      "question": "Which of the following observations is an example of climate rather than weather?",
+      "options": [
+        "A sudden drop in temperature over a 12-hour period during a winter storm",
+        "The average monthly rainfall recorded in a region over a 30-year period",
+        "A prediction of heavy snow and high winds for tomorrow afternoon",
+        "An unusually warm and sunny week during the middle of autumn"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which statement best describes the primary driver of current global warming and climate change?",
+      "options": [
+        "Natural cycles in the Earth's orbit that slowly change solar radiation absorption",
+        "Human activities that release greenhouse gases, trapping more heat in the atmosphere",
+        "Chemical reactions in the upper atmosphere that destroy the protective ozone layer",
+        "An increase in volcanic activity releasing dust that traps heat close to the surface"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How is climate change expected to affect the occurrence of extreme weather events?",
+      "options": [
+        "It will make weather patterns highly predictable and stable across all continents",
+        "It will increase the frequency and severity of events like droughts, storms, and floods",
+        "It will eliminate winter storms entirely because the atmosphere is warmer",
+        "It will only cause extreme weather in tropical regions near the equator"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "When assessing the total impact of food production on climate change, what must be taken into account?",
+      "options": [
+        "Only the carbon dioxide exhaled by farm animals during respiration",
+        "The resources used and greenhouse gases released across the entire production chain",
+        "Only the fuel used by vehicles when transporting the finished food to consumers",
+        "The solar energy absorbed by crops during their growth phase"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why is it difficult to determine whether a locally grown crop or an imported crop has a lower carbon footprint?",
+      "options": [
+        "Transport emissions are the only factor that ever contributes to a food's carbon footprint",
+        "Packaging and long-term cold storage of local food can sometimes emit more greenhouse gases than importing fresh food",
+        "Local farming is the only type of agriculture that involves land-use changes",
+        "Imported food does not require any processing or retail energy consumption"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why do plant-based food products generally have a lower carbon footprint than meat products?",
+      "options": [
+        "Animals absorb carbon dioxide during respiration, which concentrates carbon in their meat",
+        "Energy is lost at each stage of a food chain, making livestock farming less resource-efficient",
+        "Plant-based products do not require any transport, retail, or packaging",
+        "Livestock only produce greenhouse gases when they are packaged for retail"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following practices describes a more sustainable food production system?",
+      "options": [
+        "Maximizing crop yields by applying unlimited chemical fertilizers and water",
+        "Producing food while minimizing negative impacts on ecosystems to protect resources for the future",
+        "Importing all food from other nations to prevent any local land-use changes",
+        "Growing crops that do not require sunlight or water to prevent resource consumption"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How does reducing household food waste directly contribute to eating more sustainably?",
+      "options": [
+        "It reduces the amount of organic waste decomposing in landfills, which lowers methane emissions",
+        "It increases the global land area required to grow crops for humans",
+        "It prevents harvested plants from undergoing further photosynthesis in the kitchen",
+        "It decreases atmospheric oxygen levels, which helps cool the planet"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What does historical temperature data reveal about the Earth's average surface temperature over the last century?",
+      "options": [
+        "It has remained completely stable with no measurable changes",
+        "It shows an unusual, rapid increase compared to long-term historical trends",
+        "It has decreased steadily due to increased cloud cover",
+        "It fluctuates randomly with no observable upward or downward trend"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What relationship do scientists observe when comparing long-term global temperature data with greenhouse gas emission data?",
+      "options": [
+        "A negative correlation, where temperatures decrease as emissions rise",
+        "A positive correlation, where rising temperatures align with increasing greenhouse gas emissions",
+        "No correlation, showing that temperature and emissions are completely independent",
+        "A fluctuating cycle where emissions rise only when global temperatures drop"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How do thermal insulators like double-glazed windows and loft insulation make a house more energy-efficient?",
+      "options": [
+        "They generate additional thermal energy inside the rooms without using electricity",
+        "They act as barriers that reduce the rate of heat transfer to the colder outside environment",
+        "They completely stop all air molecules from moving inside the house",
+        "They reflect solar radiation back into space to keep the house cooler in winter"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Why does improving a building's insulation make it more feasible to heat the property using only renewable energy sources?",
+      "options": [
+        "Insulated walls automatically generate electricity when exposed to sunlight",
+        "The reduced rate of heat loss allows a lower-power heating system to maintain a stable temperature",
+        "Insulation converts wind energy directly into thermal energy inside the rooms",
+        "Renewable heating systems only function when there is zero heat transfer to the outside"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How do thermostats help reduce unnecessary energy consumption in a home heating system?",
+      "options": [
+        "They increase the maximum output temperature of the boiler on cold days",
+        "They monitor room temperature and turn off the heating when the target temperature is reached",
+        "They convert excess heat back into electrical energy to power domestic appliances",
+        "They physically seal the gaps around windows when drafty conditions are detected"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A house is heated to 20°C. On Day A, the outdoor temperature is 12°C. On Day B, the outdoor temperature is 2°C. If the heating is switched off, how will the rate of heat loss compare?",
+      "options": [
+        "The house will lose heat faster on Day A because the external air is warmer",
+        "The house will lose heat faster on Day B because of the larger temperature difference",
+        "The rate of heat loss will be identical on both days because the indoor starting temperature is 20°C",
+        "The house will lose heat slower on Day B because cold air acts as a natural insulator"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Why is solar energy classified as a renewable resource, whereas coal is non-renewable?",
+      "options": [
+        "Solar energy does not emit carbon dioxide when used, whereas coal does",
+        "Solar energy is replenished by the Sun faster than it is consumed, while coal takes millions of years to form",
+        "Solar panels are made of natural organic materials, whereas coal is a synthetic compound",
+        "Solar energy can be stored in batteries, whereas coal energy cannot be stored in any form"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Under what condition does a biological resource like wood cease to be a renewable resource?",
+      "options": [
+        "If it is burned in an indoor heating stove rather than an industrial power plant",
+        "If the rate of harvesting trees exceeds the rate at which new trees are planted and grown",
+        "If the wood is transported over long distances using fossil-fuel-powered trucks",
+        "If the trees are harvested during the winter season when they are dormant"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why is it impossible to have a sustainable transport system that relies on petrol or diesel fuel?",
+      "options": [
+        "Petrol and diesel vehicles are too quiet to be safe in urban environments",
+        "These fossil fuels are finite resources that release greenhouse gases, which accumulate in the atmosphere",
+        "Vehicles using these fuels are unable to cover long distances without breaking down",
+        "Petrol and diesel are replenished too quickly in nature, leading to resource instability"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What would be the primary consequence for life on Earth if the natural greenhouse effect did not exist?",
+      "options": [
+        "The planet's surface would become extremely hot due to unfiltered solar radiation",
+        "The planet would become too cold to support most forms of life as heat would escape into space",
+        "The average surface temperature would remain unchanged due to ocean currents",
+        "The atmosphere would disappear completely within a few hours"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "How do human activities affect the Earth's natural greenhouse effect?",
+      "options": [
+        "They destroy natural greenhouse gases, causing thermal energy to escape more rapidly",
+        "They increase the concentration of greenhouse gases, trapping more heat and intensifying the greenhouse effect",
+        "They block solar radiation from entering the atmosphere, causing global cooling",
+        "They create an entirely new, artificial physical force that replaces the natural greenhouse effect"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Why does sending organic waste to landfill sites contribute to global warming?",
+      "options": [
+        "The waste undergoes anaerobic decomposition, releasing methane, which is a potent greenhouse gas",
+        "Landfills reflect solar radiation back into the atmosphere, raising temperatures",
+        "Organic waste prevents plants from growing nearby, reducing the global absorption of oxygen",
+        "Landfill materials react chemically with nitrogen to produce ozone-depleting substances"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    }
+  ]
+}

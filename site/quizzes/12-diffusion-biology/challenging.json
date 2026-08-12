@@ -1,0 +1,226 @@
+{
+  "unitKey": "12DiffusionBiology",
+  "generatedAt": "2026-08-12T06:16:29.406398+00:00",
+  "questions": [
+    {
+      "question": "A scientist places a dye on top of two different solid blocks, Block A and Block B. The dye penetrates deep into Block A but remains entirely on the surface of Block B. What is the most accurate conclusion about these blocks?",
+      "options": [
+        "Block A has a higher concentration of dye than Block B.",
+        "Block A is permeable to the liquid dye particles, whereas Block B is impermeable.",
+        "The particles in Block B are moving faster than the particles in Block A.",
+        "Block A is at a much lower temperature than Block B."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "An acid-indicator jelly cube is placed in a beaker of dilute acid. After 5 minutes, only the outer 2 mm of the cube has changed color. What does this observation directly show about the process of diffusion?",
+      "options": [
+        "Diffusion occurs instantly throughout the entire volume of the jelly.",
+        "Acid particles move into the jelly cube gradually from the outside inwards.",
+        "The center of the jelly cube actively repels the incoming acid particles.",
+        "Diffusion of acid only happens when the jelly cube is fully dissolved."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Two identical agar cubes containing phenolphthalein are placed in hydrochloric acid: Cube X at 10°C and Cube Y at 40°C. How will the rate of color change compare, and why?",
+      "options": [
+        "Cube X will change color faster because cold temperatures make the jelly more porous.",
+        "Cube Y will change color faster because the acid particles have more kinetic energy and move quicker.",
+        "Both cubes will change color at the same rate because temperature only affects gases, not liquids in jelly.",
+        "Cube X will change color faster because the density of the acid is higher at lower temperatures."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Three agar cubes of different sides (1 cm, 2 cm, and 3 cm) are placed in a dye. After 10 minutes, they are cut in half to measure the depth of dye penetration. Which of the following is true?",
+      "options": [
+        "The dye will have penetrated to the exact same depth in all three cubes.",
+        "The dye will have reached the very center of the 3 cm cube first because of its larger volume.",
+        "The 1 cm cube will have a smaller percentage of its volume colored than the 3 cm cube.",
+        "The depth of penetration will be greatest in the 3 cm cube due to greater gravitational pull."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "In an experiment, a jelly cube placed in a warm dye becomes fully colored much faster than a jelly cube in a cold dye. Using particle theory, how can this difference be explained?",
+      "options": [
+        "Warm dye particles expand and become smaller, allowing them to fit through tighter gaps.",
+        "Cold temperatures cause the jelly particles to pack more tightly, completely closing all pathways.",
+        "Warm dye particles have more kinetic energy, causing them to move and collide more rapidly into the jelly.",
+        "Cold dye particles lose their charge, meaning they can no longer attract the neutral jelly particles."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A synthetic membrane with microscopic pores of diameter 2 nanometers (nm) is used to separate two solutions. Glucose molecules (diameter 1.5 nm) and starch molecules (diameter 10 nm) are added to one side. Which statement best predicts what will happen?",
+      "options": [
+        "Both glucose and starch will pass through because they are both soluble carbohydrates.",
+        "Neither molecule can pass through because the pores only allow water molecules to cross.",
+        "Glucose molecules can diffuse through the pores, but starch molecules are too large to pass.",
+        "Starch molecules will pass through faster than glucose because they have a stronger concentration gradient."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A selectively-permeable membrane separates a high-concentration sugar solution from a low-concentration sugar solution. The sugar molecules are small enough to pass through the membrane. Which of the following accurately describes the movement of the sugar molecules?",
+      "options": [
+        "Sugar molecules only move from the low-concentration side to the high-concentration side.",
+        "Sugar molecules only move from the high-concentration side to the low-concentration side.",
+        "Sugar molecules move through the membrane in both directions, but more move from high to low concentration.",
+        "Sugar molecules stop moving entirely once the concentration on both sides of the membrane is equal."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A bag made of selectively-permeable membrane contains a 5% salt solution. It is placed in a beaker containing a 20% salt solution. If salt particles are small enough to pass through the membrane, what is the predicted net movement of salt particles?",
+      "options": [
+        "There will be a net movement of salt particles out of the bag into the beaker.",
+        "There will be a net movement of salt particles from the beaker into the bag.",
+        "There will be no movement of salt particles at all because the membrane blocks salt.",
+        "Salt particles will move in equal numbers in both directions, resulting in no net change."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Visking tubing containing starch and glucose solutions is placed in a beaker of pure water. After 30 minutes, Benedict's test (for glucose) on the beaker water is positive, but the iodine test (for starch) is negative. What does this observation demonstrate?",
+      "options": [
+        "Glucose molecules have actively transported themselves, whereas starch molecules require energy to move.",
+        "Starch molecules have decayed into glucose molecules inside the Visking tubing.",
+        "The Visking tubing is permeable to glucose but impermeable to starch.",
+        "The pure water in the beaker has pulled the glucose out while pushing starch back inside."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why does iodine (a small molecule) turn starch inside a Visking tubing blue-black, while the starch (a very large molecule) does not turn the iodine solution outside the tubing blue-black?",
+      "options": [
+        "Iodine can diffuse through the membrane pores into the tubing, but starch is too large to diffuse out.",
+        "The membrane pores actively pump iodine inwards while blocking the outward flow of starch.",
+        "Starch is insoluble and therefore cannot move in liquid, whereas iodine is a gas.",
+        "The tubing is made of a material that chemically destroys starch if it attempts to leave."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which of the following statements correctly applies the particle model to the cytoplasm of a living cell?",
+      "options": [
+        "The cytoplasm is a continuous, solid mass that does not contain individual particles.",
+        "The cytoplasm is made entirely of water particles, with no other substances dissolved in it.",
+        "The cytoplasm and all the dissolved substances within it are composed of constantly moving particles.",
+        "The cytoplasm contains particles, but they are stationary and do not move because it is inside a cell."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Oxygen is a small molecule required by cells for respiration. How does oxygen enter a living cell?",
+      "options": [
+        "It is actively pumped through large protein channels that require energy.",
+        "It diffuses through small gaps in the cell membrane from an area of higher concentration to lower concentration.",
+        "It is converted into water outside the cell so that it can dissolve the membrane.",
+        "It can only enter the cell when the cell membrane temporarily breaks open."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Proteins are large molecules built inside cells. Why are these protein molecules unable to freely diffuse out of the cell through the cell membrane?",
+      "options": [
+        "Proteins are strongly repelled by the electrical charge of the cell membrane.",
+        "Protein molecules are too large to pass through the tiny pores of the cell membrane.",
+        "The cell membrane only allows water and gases to pass through, blocking all other substances.",
+        "Proteins are instantly broken down into amino acids the moment they touch the cell membrane."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why is the cell membrane described as \"selectively-permeable\"?",
+      "options": [
+        "It allows all substances to enter the cell but prevents any substances from leaving.",
+        "It only allows substances to pass through when the cell is supplied with external energy.",
+        "It allows only certain substances to diffuse through it based on properties like particle size.",
+        "It changes its structure completely to block all particles during the night."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Inside a muscle cell, carbon dioxide is constantly produced by respiration, making its concentration high. Outside the cell, in the blood, the concentration of carbon dioxide is low. What is the net direction of diffusion for carbon dioxide?",
+      "options": [
+        "Carbon dioxide will have a net movement out of the cell, down its concentration gradient.",
+        "Carbon dioxide will have a net movement into the cell, against its concentration gradient.",
+        "Carbon dioxide will not move because the cell membrane is completely impermeable to gases.",
+        "Carbon dioxide will move equally in both directions, so there is no net movement."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which statement best describes the behavior of individual glucose particles dissolved in water?",
+      "options": [
+        "They move in straight, organized lines directly toward areas of lower concentration.",
+        "They remain completely stationary until a concentration gradient forces them to move.",
+        "They move in random directions, constantly colliding with water particles and each other.",
+        "They only move when heated, otherwise they sink to the bottom and vibrate."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Container A holds 10 grams of salt dissolved in 100 mL of water. Container B holds 10 grams of salt dissolved in 500 mL of water. Which container has a higher concentration of salt, and why?",
+      "options": [
+        "Container B, because it has a larger total volume of liquid.",
+        "Container A, because there are more salt particles in a given volume of liquid.",
+        "Both containers have the same concentration because they contain the same mass of salt.",
+        "Container B, because the salt particles are more spread out and can move faster."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "If a barrier separating a concentrated sugar solution from pure water is removed, what causes the net movement of sugar particles towards the pure water side?",
+      "options": [
+        "The sugar particles are attracted by the empty space and actively pull each other forward.",
+        "The random movement of particles results in more sugar particles moving into the empty area than returning.",
+        "Gravity pulls the heavier sugar particles towards the side with more water.",
+        "Water molecules push the sugar particles forward to equalize the pressure."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which of the following is the most accurate definition of diffusion?",
+      "options": [
+        "The active transport of large particles across a membrane requiring cellular energy.",
+        "The movement of water molecules from a high concentration of water to a low concentration of water through a membrane.",
+        "The passive movement of particles of a substance from an area of higher concentration to an area of lower concentration.",
+        "The rapid evaporation of liquid particles from a surface due to a temperature gradient."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Inside a cell, the concentration of oxygen is low because it is used up in respiration. Outside the cell, the concentration of oxygen is high. Predict the net movement of oxygen particles.",
+      "options": [
+        "Oxygen particles will have a net movement into the cell.",
+        "Oxygen particles will have a net movement out of the cell.",
+        "Oxygen particles will move in both directions at equal rates, so no net movement occurs.",
+        "Oxygen particles will stop moving entirely because the concentration difference is too high."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    }
+  ]
+}

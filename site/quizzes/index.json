@@ -41,19 +41,24 @@
       "challenging": "challenging.json"
     },
     "11Heating and coolingPhysics": {
-      "path": "11-heating-and-cooling-physics"
+      "path": "11-heating-and-cooling-physics",
+      "challenging": "challenging.json"
     },
     "12DiffusionBiology": {
-      "path": "12-diffusion-biology"
+      "path": "12-diffusion-biology",
+      "challenging": "challenging.json"
     },
     "13Climate change and living sustainablyBiologyChemistryPhysics": {
-      "path": "13-climate-change-and-living-sustainably-biology-chemistry-physics"
+      "path": "13-climate-change-and-living-sustainably-biology-chemistry-physics",
+      "challenging": "challenging.json"
     },
     "1Human digestive systemBiology": {
-      "path": "1-human-digestive-system-biology"
+      "path": "1-human-digestive-system-biology",
+      "challenging": "challenging.json"
     },
     "2Atoms, elements and compoundsChemistry": {
-      "path": "2-atoms-elements-and-compounds-chemistry"
+      "path": "2-atoms-elements-and-compounds-chemistry",
+      "challenging": "challenging.json"
     },
     "3BiodiversityBiology": {
       "path": "3-biodiversity-biology"
