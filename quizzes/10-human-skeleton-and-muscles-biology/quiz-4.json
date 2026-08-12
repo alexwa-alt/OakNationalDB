@@ -1,0 +1,204 @@
+{
+  "unitKey": "10Human skeleton and musclesBiology",
+  "generatedAt": "2026-08-12T05:48:23.084446+00:00",
+  "questions": [
+    {
+      "question": "What happens when a muscle attached to a bone contracts?",
+      "options": [
+        "It exerts a force on the bone, making the bone move.",
+        "It pushes the bone away from the joint.",
+        "It dissolves the bone tissue to release calcium.",
+        "It makes the bone temporarily flexible."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which scientific field is specifically defined as the study of how bones and muscles move?",
+      "options": [
+        "Biochemistry",
+        "Biomechanics",
+        "Bioengineering",
+        "Biotechnology"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "When a bone pivots at a joint, what is the turning effect of the force called?",
+      "options": [
+        "A friction",
+        "A velocity",
+        "A moment",
+        "A tension"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following is true regarding the turning effect when a bone pivots at a joint?",
+      "options": [
+        "The size of the moment cannot be measured or calculated.",
+        "The size of the moment can be calculated.",
+        "The moment is always constant regardless of the force applied.",
+        "The moment only depends on the weight of the bone itself."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which of the following statements about joints is true?",
+      "options": [
+        "Bones are completely fused at all joints.",
+        "Joints are only found in the skull.",
+        "Joints prevent any movement in the body.",
+        "Bones meet at joints."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is the primary function of skeletal muscles in relation to bones?",
+      "options": [
+        "They manufacture bone marrow.",
+        "They can move bones.",
+        "They act as a solid shield over the bones.",
+        "They absorb minerals from the bones."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why do skeletal muscles have to work in pairs to move a limb back and forth?",
+      "options": [
+        "Muscles can only pull, by contracting, and cannot push.",
+        "Muscles can only push, by expanding, and cannot pull.",
+        "Muscles can only contract when they are compressed by another muscle.",
+        "One muscle is used for feeling pain and the other for movement."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Muscles that work together in opposite directions to move bones at a joint are known as what?",
+      "options": [
+        "Co-operative fibers",
+        "Symmetrical pairs",
+        "Antagonistic pairs",
+        "Auxiliary tissues"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which statement is true about the muscular system in humans?",
+      "options": [
+        "The human body contains muscles.",
+        "The human body is entirely made of bones with no muscles.",
+        "Muscles are only found in the limbs and not in the rest of the body.",
+        "Muscles are only present in adults and not in children."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What type of biological structure is a muscle?",
+      "options": [
+        "A single giant cell that stretches across the limb.",
+        "A type of tissue made up of specialised cells.",
+        "A non-cellular gel that hardens when stimulated.",
+        "An inorganic mineral structure."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What are the two primary actions of muscle fibers?",
+      "options": [
+        "Dissolve and rebuild",
+        "Freeze and melt",
+        "Calcify and soften",
+        "Contract and relax"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which two substances must be supplied to muscles so that they can contract?",
+      "options": [
+        "Carbon dioxide and nitrogen",
+        "Sugar and oxygen",
+        "Calcium and starch",
+        "Water and carbon dioxide"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of the following correctly lists three different types of muscle found in human organ systems?",
+      "options": [
+        "Rough muscle, smooth muscle and hard muscle",
+        "Brain muscle, lung muscle and bone muscle",
+        "Cardiac muscle, smooth muscle and skeletal muscle",
+        "Voluntary muscle, joint muscle and blood muscle"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What constitutes the human skeleton?",
+      "options": [
+        "A framework made up of bones.",
+        "A network made up entirely of cartilage.",
+        "A system of fluid-filled tubes.",
+        "A series of hardened muscular bands."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is a joint in the human skeletal system?",
+      "options": [
+        "The center of a long bone where blood is made.",
+        "The point where a muscle attaches to a tendon.",
+        "A place where two or more bones meet.",
+        "A protective layer of skin over a bone."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of these is a key function of the human skeleton?",
+      "options": [
+        "It produces digestive enzymes to break down food.",
+        "It pumps oxygenated blood directly to the brain.",
+        "It stores carbon dioxide waste from respiration.",
+        "It supports the body and provides protection for organs and tissues."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which statement is true about the structure of human bones?",
+      "options": [
+        "Bones are made of living tissue made up of cells.",
+        "Bones are dead, dry structures containing no cells.",
+        "Bones are solid blocks of pure calcium with no living parts.",
+        "Bones are made of cartilage that never contains cells."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Where in the human body are red and white blood cells produced?",
+      "options": [
+        "In the liver tissue",
+        "In the bone marrow",
+        "In the heart chambers",
+        "In the skeletal muscles"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    }
+  ]
+}

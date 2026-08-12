@@ -1,0 +1,204 @@
+{
+  "unitKey": "10Human skeleton and musclesBiology",
+  "generatedAt": "2026-08-12T05:48:14.582392+00:00",
+  "questions": [
+    {
+      "question": "What happens to a bone when an attached muscle contracts?",
+      "options": [
+        "It exerts a force on the bone, making it move",
+        "It pushes the bone in the opposite direction",
+        "It causes the bone to temporarily dissolve",
+        "It makes the bone softer and more flexible"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the name of the scientific field that studies the movement of bones and muscles?",
+      "options": [
+        "Biochemistry",
+        "Biomechanics",
+        "Geophysics",
+        "Anatomy"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What is the turning effect of a force called when a bone pivots at a joint?",
+      "options": [
+        "A friction",
+        "A moment",
+        "A gravity",
+        "A velocity"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following statements is true regarding the turning effect when a bone pivots at a joint?",
+      "options": [
+        "The size of the moment can be calculated",
+        "The moment is impossible to measure",
+        "The moment is always a constant negative value",
+        "The moment only exists in inanimate objects"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What occurs at a joint in the human body?",
+      "options": [
+        "Bones meet",
+        "Muscles dissolve",
+        "Blood cells are destroyed",
+        "New skin tissue is generated"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which structures in the human body have the ability to move bones?",
+      "options": [
+        "Muscles",
+        "Lungs",
+        "Nerves",
+        "Skin"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why can muscles only pull and not push?",
+      "options": [
+        "Because they can only act by contracting",
+        "Because they can only act by expanding",
+        "Because they lack a blood supply",
+        "Because they are made of non-living mineral crystals"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What term describes muscles that work together in pairs to move bones at a joint?",
+      "options": [
+        "Antagonistic pairs",
+        "Symbiotic pairs",
+        "Identical pairs",
+        "Passive pairs"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following is found inside the human body to assist with physical movement?",
+      "options": [
+        "Muscles",
+        "Exoskeletons made of chitin",
+        "Cellulose fibers",
+        "Silica shells"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What type of tissue makes up muscles?",
+      "options": [
+        "Specialised cells",
+        "Non-living minerals",
+        "Calcium crystals",
+        "Dead skin cells"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What are the two primary actions that muscles can perform to function?",
+      "options": [
+        "Contract and relax",
+        "Melt and freeze",
+        "Dissolve and reform",
+        "Solidify and evaporate"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What two substances do muscles require in order to contract?",
+      "options": [
+        "Sugar and oxygen",
+        "Nitrogen and carbon dioxide",
+        "Salt and water",
+        "Protein and iron"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of the following correctly lists three different types of muscle found in human organ systems?",
+      "options": [
+        "Cardiac muscle, smooth muscle and skeletal muscle",
+        "Rough muscle, soft muscle and hard muscle",
+        "Bone muscle, cartilage muscle and ligament muscle",
+        "Brain muscle, liver muscle and lung muscle"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What internal structure, made up of bones, is contained within the human body?",
+      "options": [
+        "A skeleton",
+        "A shell",
+        "A capsule",
+        "A mantle"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is defined as the place where two or more bones meet?",
+      "options": [
+        "A joint",
+        "A tendon",
+        "A muscle",
+        "A marrow"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What are two primary functions of the human skeleton?",
+      "options": [
+        "Supporting the body and protecting organs",
+        "Pumping blood and digesting food",
+        "Absorbing oxygen and exhaling carbon dioxide",
+        "Generating heat and filtering toxins"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is true about the tissue that makes up bones?",
+      "options": [
+        "It is living tissue made up of cells",
+        "It is dead mineral matter with no cells",
+        "It is made entirely of water",
+        "It is a liquid-based tissue"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Where in the body are red and white blood cells made?",
+      "options": [
+        "In the bone marrow",
+        "In the muscle tissue",
+        "In the brain tissue",
+        "In the skin cells"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    }
+  ]
+}

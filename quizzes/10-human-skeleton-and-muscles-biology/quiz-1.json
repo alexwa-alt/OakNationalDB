@@ -1,0 +1,204 @@
+{
+  "unitKey": "10Human skeleton and musclesBiology",
+  "generatedAt": "2026-08-12T05:48:17.658990+00:00",
+  "questions": [
+    {
+      "question": "What happens when a muscle attached to a bone contracts?",
+      "options": [
+        "It exerts a force on the bone, causing it to move.",
+        "It pushes the bone away from the joint.",
+        "It dissolves the joint fluid to allow easier sliding.",
+        "It temporarily weakens the bone structure."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the name of the scientific field that studies the movement of the skeleton and muscles?",
+      "options": [
+        "Biochemistry",
+        "Biomechanics",
+        "Bioengineering",
+        "Biophysics"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What term is used to describe the turning effect of a force when a bone pivots around a joint?",
+      "options": [
+        "Moment",
+        "Friction",
+        "Acceleration",
+        "Tension"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following is true regarding the turning effect (moment) when a bone pivots at a joint?",
+      "options": [
+        "Its size cannot be measured or calculated.",
+        "Its size is always the same regardless of the force applied.",
+        "Its size can be calculated using force and distance.",
+        "It is only present when a bone is completely still."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the specific place where two or more bones meet in the human body called?",
+      "options": [
+        "A ligament",
+        "A tendon",
+        "A joint",
+        "A marrow"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is the main function of skeletal muscles in relation to bones?",
+      "options": [
+        "Muscles can move bones.",
+        "Muscles produce calcium to strengthen bones.",
+        "Muscles convert bones into cartilage.",
+        "Muscles absorb impacts to keep bones soft."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which statement correctly describes how muscles exert force on bones?",
+      "options": [
+        "Muscles can only push, by expanding.",
+        "Muscles can both pull and push equally.",
+        "Muscles can only pull, by contracting, and cannot push.",
+        "Muscles cannot pull or push; they only stabilize."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Because muscles can only pull, how do they typically work to move a bone back and forth at a joint?",
+      "options": [
+        "In antagonistic pairs, working together",
+        "As single muscles that can reverse their force",
+        "By relying on gravity to pull the bone back",
+        "In groups of four, all contracting at the same time"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What type of structures does the human body contain to allow movement and internal function?",
+      "options": [
+        "Only rigid cartilage tubes",
+        "Muscles",
+        "Exoskeletal plates",
+        "Hydrolastic pumps"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What type of structure are muscles in the human body?",
+      "options": [
+        "A type of tissue made up of specialised cells",
+        "Non-living protein fibres that do not contain cells",
+        "Homogeneous liquid structures without any cells",
+        "Mineralised structures similar to teeth"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which two states can muscle tissue actively alternate between to function?",
+      "options": [
+        "Dissolving and solidifying",
+        "Contracting and relaxing",
+        "Freezing and melting",
+        "Calcifying and softening"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which of the following substances do muscles require in order to contract?",
+      "options": [
+        "Carbon dioxide and nitrogen",
+        "Sugar and oxygen",
+        "Protein and salt water",
+        "Calcium and carbon monoxide"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What are the three main types of muscle that have different roles in the body's organ systems?",
+      "options": [
+        "Rough muscle, smooth muscle, and bone muscle",
+        "Cardiac muscle, smooth muscle, and skeletal muscle",
+        "Soft muscle, hard muscle, and flexible muscle",
+        "Brain muscle, lung muscle, and stomach muscle"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What makes up the internal skeleton of the human body?",
+      "options": [
+        "Cartilage plates only",
+        "A network of fluid-filled tubes",
+        "A skeleton made up of bones",
+        "Chitinous segments"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How is a joint defined in the human skeletal system?",
+      "options": [
+        "The outer protective layer of any bone",
+        "A place where two or more bones meet",
+        "The soft center of a long bone",
+        "The point where a muscle attaches to a tendon"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What are two of the primary functions of the human skeleton?",
+      "options": [
+        "Storing air and digesting food particles",
+        "Supporting the body and protecting organs and tissues",
+        "Pumping blood and contracting to generate body heat",
+        "Generating electrical signals and filtering waste"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which statement is true about the nature of bones in a living human?",
+      "options": [
+        "They are made of living tissue made up of cells.",
+        "They are entirely dead, mineralised structures with no cells.",
+        "They are made of solid protein fibers containing no water or cells.",
+        "They are hollow tubes filled only with air and no living cells."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Where in the body are red and white blood cells produced?",
+      "options": [
+        "In the bone marrow",
+        "In the skeletal muscles",
+        "In the joints between bones",
+        "In the outer layer of the skin"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    }
+  ]
+}

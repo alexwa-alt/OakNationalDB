@@ -1,0 +1,171 @@
+{
+  "unitKey": "9Separation techniquesChemistry",
+  "generatedAt": "2026-08-12T05:48:17.515256+00:00",
+  "questions": [
+    {
+      "question": "Chromatography is highly versatile. What are the two main purposes for which chromatography can be used?",
+      "options": [
+        "Separation of large-scale bulk materials and chemical storage",
+        "Separation of minute samples and analysis of substances",
+        "Measuring boiling points and determining density of solids",
+        "Increasing the solubility of gases and creating saturated solutions"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If a scientist runs a chromatography test on a sample and it is a completely pure substance, how many spots will be produced on the chromatogram?",
+      "options": [
+        "Only one spot",
+        "At least two spots",
+        "A continuous streak of spots",
+        "No spots at all"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What would you expect to see on a chromatogram if the sample being tested is a mixture of several different dyes?",
+      "options": [
+        "No spots will appear on the paper",
+        "Only a single, large black spot",
+        "Many spots at different heights",
+        "The paper will dissolve completely"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why is pencil, rather than ink, used to draw the starting line on chromatography paper?",
+      "options": [
+        "Pencil is insoluble in water and will not run with the solvent",
+        "Pencil graphite reacts chemically with the paper to stay in place",
+        "Ink would evaporate too quickly before the process begins",
+        "Pencil is magnetic and aligns the chromatography paper"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Under what conditions is simple distillation typically used to separate a mixture?",
+      "options": [
+        "When separating a mixture that contains only two substances",
+        "When separating a mixture with four or more different gases",
+        "When the substances in the mixture have identical boiling points",
+        "When separating insoluble sand from a salt solution"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which technique is best suited to separate a mixture that contains three or more liquid substances, or substances with very similar boiling points?",
+      "options": [
+        "Simple filtration",
+        "Decanting",
+        "Fractional distillation",
+        "Paper chromatography"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "During distillation, what happens if the condenser warms up instead of remaining cold?",
+      "options": [
+        "It becomes more effective and speeds up the collection of distillate",
+        "It becomes less effective and more gas will escape without condensing",
+        "It will cause the flask to freeze and crack",
+        "It makes the liquid boil at a much lower temperature"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What is the process called when a solute reforms as crystals from a saturated solution following a change in conditions?",
+      "options": [
+        "Simple distillation",
+        "Crystallisation",
+        "Decanting",
+        "Chromatography"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Under what conditions do larger crystals form during the crystallisation process?",
+      "options": [
+        "When the solvent is boiled away rapidly",
+        "When the solvent evaporates more slowly",
+        "When the mixture is shaken vigorously while hot",
+        "When the solvent is frozen instantly"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of the following materials can be directly separated from a dry mixture using a magnet?",
+      "options": [
+        "Iron and steel",
+        "Copper and aluminium",
+        "Sand and salt",
+        "Gold and silver"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How can insoluble solids be successfully separated from a liquid?",
+      "options": [
+        "By using a filter in a process known as filtration",
+        "By performing simple distillation to boil the solid",
+        "By using a separating funnel to let the solid float",
+        "By using paper chromatography to dissolve the solid"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is the characteristic behavior of immiscible liquids when they are mixed and allowed to settle?",
+      "options": [
+        "They dissolve into each other completely to form a single phase",
+        "They react chemically and turn into a solid precipitate",
+        "They do not mix, and one liquid will float above the other",
+        "They instantly evaporate into the surrounding air"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How can the boiling points of liquids be used to separate miscible liquids?",
+      "options": [
+        "By freezing them until one becomes magnetic",
+        "By changing their physical states through heating and cooling",
+        "By filtering them through fine filter paper under pressure",
+        "By using a separating funnel to drain the denser liquid"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What is the correct sequence of steps required to separate pure salt from rock salt?",
+      "options": [
+        "Evaporation, chromatography, and decanting",
+        "Simple distillation, magnetic separation, and fractional distillation",
+        "Making a solution, filtration, and crystallisation",
+        "Fractional distillation, decanting, and filtration"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Why should a condenser be kept cold during the process of distillation?",
+      "options": [
+        "To speed up the condensation of the vapor back into liquid",
+        "To prevent the glass from melting due to the hot liquid",
+        "To slow down the rate at which the mixture in the flask boils",
+        "To allow the solid crystals to grow larger in the collection beaker"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    }
+  ]
+}

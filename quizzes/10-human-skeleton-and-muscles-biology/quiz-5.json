@@ -1,0 +1,204 @@
+{
+  "unitKey": "10Human skeleton and musclesBiology",
+  "generatedAt": "2026-08-12T05:48:13.768939+00:00",
+  "questions": [
+    {
+      "question": "When a muscle attached to a bone contracts, what does it exert on the bone to cause movement?",
+      "options": [
+        "A magnetic pull",
+        "A force",
+        "A chemical signal",
+        "A nervous impulse"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the scientific study of the movement of the skeleton and muscles called?",
+      "options": [
+        "Biochemistry",
+        "Biomechanics",
+        "Biosphere",
+        "Biodiversity"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What term is used to describe the turning effect of a force when a bone pivots around a joint?",
+      "options": [
+        "A moment",
+        "A momentum",
+        "An acceleration",
+        "A friction"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following is true regarding the moment created when a bone pivots at a joint?",
+      "options": [
+        "Its size is always constant",
+        "Its size cannot be measured",
+        "Its size can be calculated",
+        "It does not depend on the force applied"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the anatomical term for the place where bones meet?",
+      "options": [
+        "Tendon",
+        "Ligament",
+        "Joint",
+        "Cartilage"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which structures in the human body are responsible for moving bones?",
+      "options": [
+        "Nerves",
+        "Muscles",
+        "Skin",
+        "Glands"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which statement correctly describes how muscles generate movement?",
+      "options": [
+        "They can only push",
+        "They can both pull and push",
+        "They can only pull",
+        "They do not exert force"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What are pairs of muscles that work together in opposite directions to move bones at a joint called?",
+      "options": [
+        "Antagonistic pairs",
+        "Symmetrical pairs",
+        "Complementary pairs",
+        "Dynamic pairs"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following is true about the composition of the human body?",
+      "options": [
+        "It is entirely made of bones with no muscles",
+        "It contains muscles",
+        "It only has muscles in the limbs",
+        "It contains bones but no muscles"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What type of structure is a muscle?",
+      "options": [
+        "An organ system made of uniform cells",
+        "A single gigantic cell",
+        "A type of tissue made of specialised cells",
+        "A non-cellular structure"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What are the two primary actions that muscles can perform to function?",
+      "options": [
+        "Contract and relax",
+        "Expand and grow",
+        "Harden and soften",
+        "Dissolve and reform"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What two substances do muscles require in order to contract?",
+      "options": [
+        "Water and carbon dioxide",
+        "Sugar and oxygen",
+        "Protein and nitrogen",
+        "Calcium and salt"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of the following is a type of muscle found in the human body?",
+      "options": [
+        "Fibrous muscle",
+        "Rough muscle",
+        "Smooth muscle",
+        "Elastic muscle"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the human skeleton primarily made of?",
+      "options": [
+        "Cartilage only",
+        "Bones",
+        "Tendons",
+        "Keratin"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is defined as the place where two or more bones meet?",
+      "options": [
+        "A suture",
+        "A tendon",
+        "A joint",
+        "A ligament"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Besides supporting the body, what is another major function of the skeleton?",
+      "options": [
+        "Producing bile",
+        "Providing protection for organs and tissues",
+        "Filtering waste from blood",
+        "Storing air"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is a key characteristic of the bones in the human body?",
+      "options": [
+        "They are made of non-living calcium crystals",
+        "They are made of dead cells",
+        "They are made of living tissue made up of cells",
+        "They do not contain any cells"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Where are red and white blood cells produced in the body?",
+      "options": [
+        "In the liver",
+        "In the brain",
+        "In the bone marrow",
+        "In the kidneys"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    }
+  ]
+}

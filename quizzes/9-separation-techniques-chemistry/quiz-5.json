@@ -1,0 +1,182 @@
+{
+  "unitKey": "9Separation techniquesChemistry",
+  "generatedAt": "2026-08-12T05:48:18.198884+00:00",
+  "questions": [
+    {
+      "question": "What can chromatography be used for besides analysis?",
+      "options": [
+        "Separating large kilograms of industrial waste",
+        "Both separation of minute samples and analysis",
+        "Determining the magnetism of metals",
+        "Filtering out large rocks from water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If a substance is pure, how many spots will it produce on a chromatogram?",
+      "options": [
+        "No spots at all",
+        "Only one spot",
+        "At least three spots",
+        "Many different spots"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What will a mixture produce when analysed using paper chromatography?",
+      "options": [
+        "A single spot",
+        "No spots",
+        "Many spots",
+        "A straight line of pencil"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why is a pencil used to draw the starting line in paper chromatography?",
+      "options": [
+        "Pencil is insoluble in water",
+        "Pencil dissolves quickly in water",
+        "Pencil reacts chemically with the ink",
+        "Pencil ink travels faster than the solvent"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When is simple distillation specifically used instead of fractional distillation?",
+      "options": [
+        "To separate a mixture containing only two substances",
+        "To separate a mixture of four or more gases",
+        "To separate substances with identical boiling points",
+        "To separate magnetic solids from liquids"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In which scenario is fractional distillation most appropriate?",
+      "options": [
+        "Separating insoluble sand from water",
+        "Separating mixtures with 3 or more substances, or those with similar boiling points",
+        "Separating a single pure solute from its crystal form",
+        "Separating magnetic iron filings from non-magnetic sulfur"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What happens during distillation if the condenser warms up?",
+      "options": [
+        "It becomes more effective and condenses gas faster",
+        "The boiling point of the mixture increases",
+        "It becomes less effective and more gas will escape",
+        "It filters out fine particles more efficiently"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How can you obtain larger crystals during the process of crystallisation?",
+      "options": [
+        "By boiling the solution rapidly",
+        "By allowing the solvent to evaporate more slowly",
+        "By adding a chemical catalyst",
+        "By freezing the solution instantly"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which materials can be separated from a mixture using a magnet?",
+      "options": [
+        "Copper and brass",
+        "Aluminium and gold",
+        "Iron and steel",
+        "Lead and zinc"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What process is used to separate insoluble solids from a liquid using a filter?",
+      "options": [
+        "Crystallisation",
+        "Filtration",
+        "Simple distillation",
+        "Chromatography"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is the purpose of placing a drop of water on the filter funnel when setting up filter paper?",
+      "options": [
+        "To dissolve the solid mixture beforehand",
+        "To speed up the evaporation of the solvent",
+        "To help keep the filter paper cone open for easy filtering",
+        "To neutralise any acidic particles in the mixture"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What happens if immiscible liquids are mixed and then allowed to settle?",
+      "options": [
+        "They form a perfectly uniform single solution",
+        "They do not mix and one will float above the other",
+        "They react chemically to form a solid precipitate",
+        "They instantly evaporate into the air"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What occurs if miscible liquids are left standing together in a container?",
+      "options": [
+        "They separate into distinct layers based on density",
+        "They do not separate into layers",
+        "They instantly crystallise into a solid",
+        "They form a visible boundary line in the middle"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What sequence of techniques is needed to separate pure salt from rock salt?",
+      "options": [
+        "Making a solution, filtration, and crystallisation",
+        "Simple distillation, chromatography, and magnetism",
+        "Decanting, fractional distillation, and evaporation",
+        "Making a solution, fractional distillation, and paper chromatography"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Why must a condenser be kept cold during the distillation process?",
+      "options": [
+        "To prevent the liquid from boiling too quickly",
+        "To speed up condensation",
+        "To allow insoluble solids to settle",
+        "To make the solute evaporate faster"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What can be said about the purity of the liquid collected (distillate) after distillation?",
+      "options": [
+        "It is a concentrated mixture",
+        "It contains highly insoluble impurities",
+        "The liquid collected (distillate) is pure",
+        "It is an unsaturated solution of salt"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 29
+    }
+  ]
+}
