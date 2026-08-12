@@ -1,0 +1,226 @@
+{
+  "unitKey": "6EcosystemsBiology",
+  "generatedAt": "2026-08-12T06:13:40.035321+00:00",
+  "questions": [
+    {
+      "question": "A species of lizard has evolved a tail that easily detaches when grabbed, allowing it to escape while the predator is distracted by the wriggling tail. How does this adaptation compare to predator adaptations?",
+      "options": [
+        "It is a defense adaptation that reduces the predator's hunting success, unlike predator adaptations which focus on capturing prey.",
+        "It is an adaptation designed to actively capture resources, similar to a predator's keen sense of smell.",
+        "It is a shared mutualistic trait that benefits both the lizard's survival and the predator's long-term health.",
+        "It is an abiotic adaptation that responds directly to temperature changes rather than predator behavior."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A species of forest mouse has dark brown fur that matches the soil and is active only during the night. How do these specific adaptations help the mouse survive?",
+      "options": [
+        "They make it easier for the mouse to hunt large predators in the dark.",
+        "They allow the mouse to remain active during the hottest part of the day without overheating.",
+        "They help the mouse avoid detection by predators through camouflage and by being active when visibility is low.",
+        "They allow the mouse to photosynthesise using ambient moonlight."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Cheetahs are known for their incredible running speed, sharp binocular vision, and specialized claws. How do these traits serve them as predators?",
+      "options": [
+        "They are adaptations designed to help the cheetah escape from herbivorous prey.",
+        "They are adaptations that allow the cheetah to locate, pursue, and successfully capture prey.",
+        "They are mutualistic features that help the cheetah share food with other carnivores.",
+        "They are abiotic adaptations that allow the cheetah to absorb water directly through its paws."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A river is contaminated with a low concentration of a heavy metal that does not break down. Small fish eat the algae, larger fish eat the small fish, and herons eat the larger fish. Which of the following best describes how the heavy metal behaves in this ecosystem?",
+      "options": [
+        "The metal is filtered out and excreted completely at each trophic level, leaving the herons unaffected.",
+        "The metal breaks down into harmless nutrients as it passes from the algae up to the herons.",
+        "The metal remains in the tissues of the organisms and is transferred up the food chain to the herons.",
+        "The metal only affects the algae because they are the ones directly absorbing it from the water."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "An estuary is polluted with a persistent synthetic chemical. Scientists monitor four species: Phytoplankton (producers), Zooplankton (primary consumers), Small fish (secondary consumers), and Osprey (top predators). Which species is likely to suffer the most severe physiological damage from this chemical, and why?",
+      "options": [
+        "Phytoplankton, because they are in direct contact with the highest volume of water.",
+        "Osprey, because the persistent chemical bioaccumulates, reaching its highest concentration in top predators.",
+        "Zooplankton, because they lack liver enzymes to process any level of synthetic chemicals.",
+        "Small fish, because they consume both phytoplankton and zooplankton, doubling their exposure."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A farmer sprays a persistent insecticide on a crop to control pests. If this chemical enters the local food chain, how can agricultural pesticide use lead to bioaccumulation?",
+      "options": [
+        "The pesticide evaporates instantly, preventing any transfer to other organisms.",
+        "The pesticide is absorbed by crops, ingested by pests, and then passed up in increasing concentrations to predators.",
+        "The pesticide causes the crops to mutate into predators that consume local insects.",
+        "The pesticide transforms into a nutrient that boosts the population of all species equally."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A wetland habitat experiences a prolonged period of drought due to changing local climates, causing the water levels to drop significantly. How does this environmental change affect the native organisms?",
+      "options": [
+        "It enhances the survival of all species because land-based plants can now colonise the dry mud.",
+        "It has no impact because wetland organisms can easily adapt their diets to dry conditions overnight.",
+        "It makes survival more difficult because species adapted to wet conditions lose breeding grounds and food sources.",
+        "It guarantees that all aquatic species will immediately mutate to breathe air and survive on land."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "In a deep, dark cave, scientists find a population of specialised bacteria that use chemical energy from sulfur compounds to synthesize organic molecules, while nearby ferns near the cave entrance use sunlight. Why are both the bacteria and the ferns classified as producers?",
+      "options": [
+        "Both species are primary consumers that feed on microscopic organic debris in the cave.",
+        "Both species can synthesise their own food from inorganic sources without needing to ingest other organisms.",
+        "Both species depend on decomposing animal matter to obtain their energy.",
+        "Both species release oxygen into the atmosphere as a compulsory byproduct of their food-making processes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Consider the food chain: Grass -> Rabbit -> Fox. What do the arrows in this diagram physically represent?",
+      "options": [
+        "The direction of movement of individual animals migrating from one habitat to another.",
+        "The direction of evolutionary changes over millions of years.",
+        "The transfer of biomass and stored chemical energy from the eaten organism to the consumer.",
+        "The flow of water and mineral nutrients from the soil to the atmosphere."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In a simple food chain (Oak tree -> Caterpillars -> Blue tits -> Hawks), a disease suddenly wipes out most of the blue tit population. What is the most likely immediate effect on the other populations?",
+      "options": [
+        "The caterpillar population will decrease, and the hawk population will increase.",
+        "The caterpillar population will increase, and the hawk population will decrease.",
+        "The oak tree population will decrease, and the hawk population will increase.",
+        "All other populations will remain completely unaffected because they do not eat blue tits."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why is a food web diagram generally a more realistic representation of an ecosystem than a set of isolated food chains?",
+      "options": [
+        "It shows that most consumers feed on only one specific species of organism.",
+        "It illustrates that ecosystems have no decomposers or abiotic factors.",
+        "It represents the complex, interconnected feeding relationships where organisms eat more than one type of food.",
+        "It proves that energy flows in cycles rather than in a single direction through an ecosystem."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "In a forest food web, owls prey on both mice and small birds. If a disease greatly reduces the population of mice, how might this affect the small bird population?",
+      "options": [
+        "The bird population will increase because owls will hibernate to save energy.",
+        "The bird population will decrease because owls may hunt more birds to compensate for the lack of mice.",
+        "The bird population will remain entirely unaffected because they do not compete with mice for resources.",
+        "The bird population will stop reproducing to allow the mice population to recover."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "If a catastrophic dust cloud blocked all sunlight from reaching Earth's surface for several years, why would human populations face starvation even if they only ate meat?",
+      "options": [
+        "Livestock animals depend on producers for food, so without plants, there would be no meat produced.",
+        "Humans would lose the ability to digest meat without the presence of active plant enzymes in the air.",
+        "Meat requires sunlight to remain fresh and safe for human consumption.",
+        "The lack of sunlight would directly convert all animal proteins into toxic compounds."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "An island loses all of its native fruit-eating bird species due to an invasive predator. How will this most likely affect the trees that produce fleshy, seed-bearing fruits?",
+      "options": [
+        "The trees will start self-pollinating more efficiently to produce wind-dispersed seeds.",
+        "The trees will fail to spread their seeds to new areas, leading to a decline in new tree growth across the island.",
+        "The trees will grow larger, sweeter fruits to attract insects to disperse their heavy seeds.",
+        "The seeds will automatically adapt to float on the wind without needing birds."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which of the following best describes the concept of interdependence between a flowering plant and a bumblebee?",
+      "options": [
+        "The plant depends on the bee for protection against herbivores, while the bee depends on the plant for nesting materials.",
+        "The bee depends on the plant for nectar (food), and the plant depends on the bee to transfer pollen for reproduction.",
+        "The bee creates carbon dioxide for the plant to breathe, and the plant provides oxygen exclusively for that bee species.",
+        "The plant depends on the bee to dig holes in the soil for its roots, while the bee eats the roots."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A global decline in bee populations is a major concern for scientists. What is the direct link between this ecological issue and human food security?",
+      "options": [
+        "Bees produce the majority of the oxygen required for agricultural crops to photosynthesise.",
+        "Many crops that produce fruits, vegetables, and seeds rely on bees for pollination to produce food.",
+        "Bees are a primary source of direct protein in the diets of most human populations.",
+        "Bees are needed to chemically fertilise the soil so that cereal grains like wheat can grow."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "In a classic predator-prey relationship (lynx and snowshoe hares), what typically happens to the lynx population shortly after a sudden drop in the hare population?",
+      "options": [
+        "The lynx population increases because they have less competition from other predators.",
+        "The lynx population decreases because there is less food available, leading to starvation or lower birth rates.",
+        "The lynx population remains stable because they immediately switch to eating plants.",
+        "The lynx population migrates permanently to aquatic habitats to hunt fish."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A tropical rainforest is cleared to plant a single crop (monoculture) of palm oil trees. Why does this drastic reduction in biodiversity threaten human welfare in the long term?",
+      "options": [
+        "Monocultures produce too much oxygen, leading to atmospheric imbalances.",
+        "It reduces the pool of unique species that could provide future medicines, crop varieties, and ecosystem stability.",
+        "Palm trees absorb all the water in the atmosphere, causing global droughts.",
+        "It increases the genetic diversity of pests, making them impossible to control."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "How do seed banks contribute to conserving the genetic diversity of plants in the face of global climate change and habitat loss?",
+      "options": [
+        "They genetically modify seeds so they can grow without water or sunlight.",
+        "They store a wide variety of plant seeds in cold, dry conditions to preserve their genetic material for future restoration.",
+        "They grow millions of adult plants indoors to continuously release seeds into the wind.",
+        "They convert plant genetic material into synthetic fertilisers that speed up crop growth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "While chemical fertilisers and pesticides increase crop yields, what is a major environmental risk associated with their excessive runoff into nearby ponds and streams?",
+      "options": [
+        "They can poison aquatic wildlife and cause algal blooms that deplete oxygen in the water.",
+        "They permanently turn the water into a solid, preventing fish from swimming.",
+        "They cause the water temperature to rise to boiling point, killing all organisms.",
+        "They stimulate aquatic plants to grow so fast that they consume all the liquid water."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 37
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "unitKey": "10Human skeleton and musclesBiology",
+  "generatedAt": "2026-08-12T06:13:35.963205+00:00",
+  "questions": [
+    {
+      "question": "When a muscle attached to a bone contracts, what direct physical consequence causes the bone to move?",
+      "options": [
+        "The muscle exerts a pulling force on the bone.",
+        "The muscle pushes the bone away from the joint.",
+        "The muscle temporarily dissolves the joint connection.",
+        "The muscle generates a magnetic field that repels the bone."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What field of study analyzes the physical forces and movements involved when muscles pull on bones during exercise?",
+      "options": [
+        "Biomechanics",
+        "Bioinformatics",
+        "Astrophysics",
+        "Geophysics"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "When a skeletal muscle exerts a force that causes a bone to turn or pivot around a joint, what is this turning effect called?",
+      "options": [
+        "Momentum",
+        "A moment",
+        "Friction",
+        "Velocity"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "To calculate the size of the moment created when a bone pivots at a joint, what two variables must be multiplied together?",
+      "options": [
+        "The force applied and the perpendicular distance from the pivot",
+        "The mass of the bone and the speed of movement",
+        "The length of the muscle and the volume of blood flow",
+        "The temperature of the joint and the duration of contraction"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which of the following describes the anatomical region where two or more bones meet?",
+      "options": [
+        "A tendon",
+        "A joint",
+        "A ligament",
+        "A marrow cavity"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following is the primary mechanism by which skeletal movement is achieved in the human body?",
+      "options": [
+        "Bones contracting and expanding independently",
+        "Muscles contracting to pull and move bones",
+        "Joint fluids expanding under heat to push bones",
+        "Nerves physically shortening to pull bones together"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why can a single muscle only pull a bone in one direction, rather than pushing it back to its original position?",
+      "options": [
+        "Muscles can only pull by contracting, and cannot push.",
+        "Muscles lack the structural stiffness required to pull bones.",
+        "Muscles can only push by expanding, and cannot pull.",
+        "Muscles are physically disconnected during relaxation."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Because muscles can only pull and not push, how are opposing movements around a joint, such as bending and straightening the arm, achieved?",
+      "options": [
+        "Through muscles working together in antagonistic pairs",
+        "By a single muscle changing its cellular structure to push",
+        "By gravity pulling the limb back without muscle assistance",
+        "Through the temporary inflation of the joint capsule"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following statements accurately describes the presence of muscles in the human body?",
+      "options": [
+        "Muscles are only present in the limbs and are absent in internal organs.",
+        "The human body contains muscles that perform a variety of essential movement functions.",
+        "Muscles are only found wrapped around the ribcage to protect the lungs.",
+        "The human body contains muscles only in areas where bones do not exist."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which statement best describes the biological nature of muscles?",
+      "options": [
+        "They are a type of tissue made of specialized cells capable of contraction.",
+        "They are non-cellular structures composed of mineralized calcium.",
+        "They are single, giant cells that run the entire length of the body.",
+        "They are specialized epithelial sheets that secrete oil to lubricate bones."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What are the two primary states of activity that muscles alternate between to facilitate or allow movement?",
+      "options": [
+        "Contraction and relaxation",
+        "Solidification and liquefaction",
+        "Infiltration and evaporation",
+        "Expansion and calcification"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "To sustain continuous contractions during physical exercise, what two key substances must be delivered to muscle cells?",
+      "options": [
+        "Carbon dioxide and starch",
+        "Sugar and oxygen",
+        "Nitrogen and water",
+        "Calcium and carbon monoxide"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of the following pairs a muscle type with its correct role in an organ system?",
+      "options": [
+        "Skeletal muscle pumps blood in the circulatory system",
+        "Cardiac muscle contracts to move food through the digestive tract",
+        "Smooth muscle moves bones at joints in the skeletal system",
+        "Cardiac muscle pumps blood in the circulatory system"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of the following is true regarding the structural framework of the human body?",
+      "options": [
+        "It is supported by a skeleton made up of bones.",
+        "It is kept rigid by a continuous outer shell of keratin.",
+        "It contains a skeleton made entirely of non-cellular fluid.",
+        "It relies solely on muscle tissue with no solid bones."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In the human skeletal system, what term is used specifically for the site where two or more bones meet?",
+      "options": [
+        "A synapse",
+        "A joint",
+        "A node",
+        "A fusion"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following functions of the skeleton is demonstrated by the skull protecting the brain and the ribs protecting the lungs?",
+      "options": [
+        "Production of digestive enzymes",
+        "Support of the body and protection of organs and tissues",
+        "Filtering of carbon dioxide from the blood",
+        "Storage of water for cellular respiration"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which of the following statements correctly refutes the misconception that bones are dry, dead structural props?",
+      "options": [
+        "Bones are made of living tissue made up of cells.",
+        "Bones are entirely liquid on the inside to allow flexibility.",
+        "Bones constantly change their shape like muscles do.",
+        "Bones contain no cells but are kept alive by external bacteria."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "If a disease severely damages a person's bone marrow, which of the following processes would be most directly disrupted?",
+      "options": [
+        "The production of red and white blood cells",
+        "The transmission of nerve impulses to skeletal muscles",
+        "The digestion of complex carbohydrates in the stomach",
+        "The filtration of urea by the kidneys"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A force of 40 N is applied perpendicular to a bone at a distance of 0.25 meters from the joint pivot. What is the size of the moment produced?",
+      "options": [
+        "10 N m",
+        "160 N m",
+        "0.00625 N m",
+        "80 N m"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "During the movement of the forearm, the biceps and triceps act as an antagonistic pair. If the biceps contracts to flex the arm, what must the triceps do?",
+      "options": [
+        "It must contract with equal force to push the arm.",
+        "It must relax to allow the arm to bend.",
+        "It must detach from the elbow joint temporarily.",
+        "It must turn into bone tissue to support the joint."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "unitKey": "7Sound, light and visionPhysics",
+  "generatedAt": "2026-08-12T06:16:00.005206+00:00",
+  "questions": [
+    {
+      "question": "A student sits in a completely dark room. They turn on a smartphone screen, which lights up, and they can also see a white mug on the table. Which statement correctly describes these objects?",
+      "options": [
+        "Both the smartphone screen and the mug are luminous because they both send light to the student's eyes.",
+        "The smartphone screen is luminous because it gives out its own light, whereas the mug is non-luminous because it only reflects light.",
+        "The mug is luminous because its white surface generates new light waves when illuminated.",
+        "Neither object is luminous because a luminous object must be a natural light source like the Sun."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why can you see your clear reflection in a polished metal sheet but not in a sheet of white paper, even though both surfaces are highly reflective?",
+      "options": [
+        "The paper absorbs almost all of the incident light, while the metal sheet reflects all of it.",
+        "The metal sheet reflects light in a regular, single direction, whereas the paper's microscopic roughness scatters the reflected light in many directions.",
+        "White paper only reflects white light, whereas polished metal can reflect all individual colors of the spectrum.",
+        "The metal sheet acts as a luminous source when light hits it, while the paper remains non-luminous."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "In a dimly lit room, a person's pupils dilate (get larger). How does this change affect the process of vision?",
+      "options": [
+        "It increases the sensitivity of the retina by physically moving it closer to the pupil.",
+        "It allows more light to enter the eye through the pupil to be detected by the light-sensitive retina.",
+        "It changes the shape of the pupil so that light rays are scattered before hitting the retina.",
+        "It blocks unwanted peripheral light, focusing all light onto the lens instead of the retina."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "In a theatrical performance, a laser beam is projected across the stage. The audience can only see the pathway of the beam when a fog machine is turned on. Why is this?",
+      "options": [
+        "The fog particles chemically react with the laser light, causing the light to slow down and become visible.",
+        "The laser beam only turns into visible light when it is cooled down by the moisture in the fog.",
+        "The light from the beam hits the fog particles and scatters towards the audience's eyes, making the path visible.",
+        "The fog acts as a transparent medium that lets the light travel in straight lines instead of bending."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A person stands 85 meters away from a tall, flat concrete wall and claps their hands. They hear a distinct repeat of the clap a short moment later. What physical process explains this phenomenon?",
+      "options": [
+        "The sound wave is absorbed by the concrete and slowly re-emitted at a lower frequency.",
+        "The sound wave reflects off the hard concrete wall and travels back to the person's ears as an echo.",
+        "The vibration of the air particles creates a secondary sound wave inside the concrete wall itself.",
+        "The sound wave bends around the concrete wall, creating a double sound wave through diffraction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A newly built school hall has very loud, distracting echoes. The school wants to reduce these echoes without using soft, absorbing materials. Which structural change would be most effective?",
+      "options": [
+        "Replacing the flat, smooth wooden walls with highly irregular, textured stone walls to scatter the sound.",
+        "Covering the walls with large, highly polished flat metal panels to direct the echoes downwards.",
+        "Painting the existing smooth walls with a thick, glossy paint to make them even smoother.",
+        "Increasing the height of the flat ceiling while keeping all surfaces perfectly smooth."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why does lining the inside of a noisy machine enclosure with thick, soft foam reduce the noise escaping into the room?",
+      "options": [
+        "The soft foam reflects the sound waves back into the machine with increased frequency.",
+        "The foam acts as a vacuum, preventing any particles from vibrating inside it.",
+        "Sound waves transfer energy to the soft foam, causing its particles to vibrate and absorb the sound.",
+        "The soft foam increases the amplitude of the sound waves until they cancel each other out."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A single, narrow beam of light from a torch is directed at a flat pocket mirror. What happens to the direction of the light after it strikes the mirror?",
+      "options": [
+        "It is scattered uniformly in all directions away from the mirror's surface.",
+        "It bounces off the mirror and continues travelling in a single, specific direction.",
+        "It is split into multiple diverging rays that travel in different directions.",
+        "It stops travelling and is completely absorbed at the point of impact."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "In a physics experiment, a ray of light strikes a flat mirror. The angle between the incoming ray of light and the surface of the mirror is 35 degrees. What is the angle of incidence?",
+      "options": [
+        "35 degrees, because the angle of incidence is always the angle between the ray and the mirror's surface.",
+        "55 degrees, because the angle of incidence is measured between the incoming ray and the normal.",
+        "90 degrees, because the normal is always at a right angle to the incident ray.",
+        "145 degrees, because it is measured from the opposite flat surface of the mirror."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A ray of light is directed at a flat mirror with an angle of incidence of 40 degrees to the normal. Which statement correctly describes the reflected ray?",
+      "options": [
+        "It reflects at 40 degrees to the normal, on the same side of the normal as the incident ray.",
+        "It reflects at 50 degrees to the normal, on the opposite side of the normal.",
+        "It reflects at 40 degrees to the normal, on the opposite side of the normal.",
+        "It reflects at 90 degrees to the normal, travelling along the surface of the mirror."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "When you look into a flat wall mirror, how is the visual image of yourself formed in your eyes?",
+      "options": [
+        "The mirror acts as a light source, emitting a pre-stored pattern of light directly into your pupils.",
+        "Light from you reflects off the mirror obeying the laws of reflection, and some of this reflected light enters your eyes.",
+        "Your eyes project light beams onto the mirror, which are then absorbed by the glass to create a picture.",
+        "Light is bent around the edges of the mirror, creating a holographic projection in the air in front of you."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A toy car is placed 15 cm in front of a flat vertical mirror. If the toy car is then moved 5 cm further away from the mirror, how far will the image of the car appear to be from the actual toy car?",
+      "options": [
+        "20 cm",
+        "30 cm",
+        "40 cm",
+        "10 cm"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "You stand in front of a flat dressing table mirror and raise your right hand. Which of the following correctly describes the image you see?",
+      "options": [
+        "The image is upside down and appears to raise its left hand.",
+        "The image is the right way up and appears to raise its right hand on its own right side.",
+        "The image is the right way up but is laterally inverted, appearing to raise its left hand.",
+        "The image is rotated 180 degrees horizontally and vertically, raising its right hand."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A student places three different sheets of material (glass, cardboard, and tracing paper) one by one between a torch and a wall. Which statement correctly describes how these materials affect the light?",
+      "options": [
+        "Glass is transparent because it transmits light; cardboard is opaque because it does not transmit light.",
+        "Cardboard is transparent because it absorbs light; glass is opaque because it reflects all light.",
+        "Tracing paper is opaque because it completely blocks all light rays from passing through.",
+        "Both glass and cardboard are transparent because they both allow light to travel through them in straight lines."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why does a solid wooden block placed in front of a white screen create a sharp shadow when a single bright lamp is turned on?",
+      "options": [
+        "The wooden block absorbs all the light from the room and re-radiates it as black light onto the screen.",
+        "The wooden block blocks the light travelling in straight lines, creating an unlit area on the screen in the shape of the block.",
+        "The light rays bend around the corners of the wooden block, leaving only the center of the screen illuminated.",
+        "The wooden block chemically reacts with the air to prevent light from reaching the screen behind it."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A guitarist plucks a string gently, then plucks the same string much harder without changing where they hold the string on the fretboard. How do the vibrations and the resulting sound change?",
+      "options": [
+        "The frequency of the vibrations increases, making the sound have a much higher pitch.",
+        "The amplitude of the vibrations increases, making the sound louder.",
+        "The amplitude of the vibrations decreases, making the sound quieter.",
+        "The speed of the sound waves increases, making the sound reach the listener faster."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A scientist uses an oscilloscope to monitor two sound waves. Wave A has 100 vibrations per second, and Wave B has 400 vibrations per second. What can be concluded about the pitches of these two sounds?",
+      "options": [
+        "Wave B has a higher frequency, which means it has a higher pitch than Wave A.",
+        "Wave A has a higher frequency, which means it has a higher pitch than Wave B.",
+        "Both waves have the same pitch because frequency does not affect the pitch of a sound.",
+        "Wave B has a lower frequency, which means it has a lower pitch than Wave A."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why does sound travel faster through liquid water than through air?",
+      "options": [
+        "Water particles are further apart than air particles, allowing vibrations to jump across gaps faster.",
+        "Water particles are much lighter than air particles, so they can vibrate with a higher frequency.",
+        "Water particles are closer together than air particles, allowing the vibrations to be passed on more easily.",
+        "Water absorbs all sound vibrations, preventing them from spreading out and slowing down."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "An iron rail and the air next to it are both vibrated by a distant train. A tracker puts their ear to the iron rail and hears the train before hearing it through the air. Why does the sound travel fastest through the solid iron?",
+      "options": [
+        "Solid iron has weak attractive forces between its particles, so they are free to travel quickly along the rail.",
+        "The particles in the solid iron have strong attractive forces between them, so many particles vibrate when one does.",
+        "The solid iron acts as a vacuum, allowing the sound waves to travel without any particle interference.",
+        "The sound waves are converted into light waves inside the solid iron, which travel at a much higher speed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "An alarm clock is ringing inside a sealed glass jar. As a vacuum pump removes all the air from the jar, the sound of the alarm fades away until it can no longer be heard, even though the hammer is still seen striking the bell. Why does this happen?",
+      "options": [
+        "The glass jar absorbs more sound when there is no air inside it.",
+        "Sound waves are caused by vibrating particles, so they cannot travel through a vacuum where there are no particles.",
+        "The vacuum pump reverses the frequency of the sound waves until they become ultrasound.",
+        "The lack of air pressure stops the metal hammer from actually vibrating the bell."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    }
+  ]
+}

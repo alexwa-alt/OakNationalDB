@@ -1,0 +1,226 @@
+{
+  "unitKey": "9Separation techniquesChemistry",
+  "generatedAt": "2026-08-12T06:13:28.300900+00:00",
+  "questions": [
+    {
+      "question": "A chemist performs chromatography on a sample of food dye and observes a single spot that has travelled up the paper. What can they conclude about the dye sample?",
+      "options": [
+        "It is a pure substance because it did not separate into multiple spots.",
+        "It is a mixture because it travelled up the paper with the solvent.",
+        "It is insoluble because it only formed a single spot.",
+        "It is a mixture of two dyes that have the same chemical formula."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "An unknown poison needs to be identified from a forensic sample. Chromatograms of four known reference toxins (A, B, C, and D) and the unknown sample are run under identical conditions. How can the unknown toxin be identified?",
+      "options": [
+        "By finding which reference toxin has spots that align horizontally at the same height as the spot(s) from the unknown.",
+        "By choosing the reference toxin that produces the largest number of total spots.",
+        "By finding which reference toxin travels the furthest distance regardless of the unknown's position.",
+        "By choosing the reference toxin that is most soluble in the chromatography paper itself."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "During a chromatography experiment, a student mistakenly draws the start line with a black ink pen instead of a pencil. What is the most likely consequence of this mistake when the chromatogram is developed in water?",
+      "options": [
+        "The ink from the pen will dissolve and separate, interfering with the sample spots.",
+        "The ink from the pen will remain fixed at the bottom while the pencil line would have dissolved.",
+        "The solvent will be blocked by the ink and will not be able to rise up the paper.",
+        "The sample spots will react chemically with the ink and change color."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A chemical plant needs to separate a mixture containing water (boiling point 100°C), ethanol (78°C), propanol (97°C), and butanol (117°C). Which technique is most appropriate for this task and why?",
+      "options": [
+        "Fractional distillation, because there are more than two components with some having close boiling points.",
+        "Simple distillation, because all four liquids have different boiling points.",
+        "Filtration, because the different liquids have different particle sizes.",
+        "Evaporation, because the lighter liquids will evaporate and leave the heaviest liquid behind."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "During a simple distillation experiment, the flow of cold water through the outer jacket of the Liebig condenser is accidentally cut off, causing the condenser to warm up. What will be the direct consequence of this issue?",
+      "options": [
+        "The condenser becomes less effective, allowing more gaseous product to escape into the air.",
+        "The boiling point of the liquid in the distillation flask will increase.",
+        "The distillate collected in the receiving flask will contain more solid impurities.",
+        "The liquid in the distillation flask will stop boiling due to the pressure buildup."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A student wants to prepare a saturated solution of copper sulfate from a dilute solution. How can they achieve this using evaporation?",
+      "options": [
+        "By heating the solution to evaporate some of the solvent, reducing the volume until no more solute can dissolve.",
+        "By boiling the solution until all the water is completely gone, leaving only dry powder.",
+        "By adding more cold solvent to the solution while stirring rapidly.",
+        "By filtering the dilute solution to remove the excess dissolved solute."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A student is trying to grow large, well-defined crystals of alum. They set up two beakers: Beaker A is kept in a warm oven at 60°C to evaporate the solvent quickly, while Beaker B is covered with a paper towel and left in a cool room. Which beaker will produce larger crystals and why?",
+      "options": [
+        "Beaker B, because slower evaporation of the solvent allows the particles more time to arrange into a regular lattice.",
+        "Beaker A, because rapid evaporation forces the particles together faster to form a larger solid mass.",
+        "Beaker A, because higher temperatures provide more energy for crystal growth.",
+        "Both beakers will produce identical crystals because crystal size depends only on the solute concentration."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A muddy mixture contains fine clay particles suspended in water. Which separation technique should be used to retrieve clean water, and what is the role of the barrier in this process?",
+      "options": [
+        "Filtration, where the solid clay particles are trapped by the filter paper because they cannot pass through its pores.",
+        "Crystallisation, where the clay particles reform into crystals as the water is heated.",
+        "Decanting, where the water is evaporated to leave the dry clay behind.",
+        "Chromatography, where the clay particles travel slower than the water molecules up a paper strip."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Before pouring a liquid mixture into a filter paper cone sitting in a glass funnel, a student adds a drop of water to the paper. What is the practical reason for doing this?",
+      "options": [
+        "It helps keep the filter paper cone open and adhered to the funnel sides for easy filtering.",
+        "It pre-cleans the filter paper by dissolving any soluble impurities.",
+        "It chemically activates the cellulose fibers in the paper to trap smaller particles.",
+        "It speeds up the filtration rate by creating a vacuum in the neck of the funnel."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "You are given a mixture of olive oil and water. If you pour them into a beaker and leave them undisturbed for several minutes, what will you observe and why?",
+      "options": [
+        "They will form two distinct layers with oil on top, because they are immiscible and oil is less dense than water.",
+        "They will form two distinct layers with water on top, because they are miscible and water is less dense than oil.",
+        "They will remain thoroughly mixed because the molecules of oil and water form strong chemical bonds.",
+        "The oil will sink to the bottom as a solid precipitate because it is insoluble in water."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A mixture consists of two immiscible liquids, hexane and water. Which method and apparatus are most appropriate to cleanly separate them?",
+      "options": [
+        "Using a separating funnel to drain off the lower layer, leaving the upper layer behind.",
+        "Simple distillation, because immiscible liquids cannot be separated physically without boiling.",
+        "Filtration, because the larger molecules of hexane will be trapped on the filter paper.",
+        "Evaporation, because hexane will evaporate into the air leaving water behind."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A mixture is made by thoroughly mixing ethanol and water. If this mixture is left in a sealed flask for several days, what will happen to the liquids?",
+      "options": [
+        "They will remain fully mixed and will not separate into distinct layers because they are miscible.",
+        "They will gradually separate into an ethanol layer on top and a water layer on the bottom.",
+        "The water will sink to the bottom and the ethanol will crystallise at the surface.",
+        "They will undergo a chemical reaction and form an insoluble precipitate at the bottom of the flask."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "If you have a mixture of two miscible liquids, such as acetone (boiling point 56°C) and water (boiling point 100°C), how can their boiling points be exploited to separate them?",
+      "options": [
+        "By heating the mixture to a temperature where one liquid vaporises while the other remains liquid, then condensing the vapour.",
+        "By freezing the mixture so that the liquid with the lower boiling point crystallises first.",
+        "By filtering the mixture at a temperature exactly halfway between their boiling points.",
+        "By adding a solvent that selectively alters the boiling point of only one of the liquids."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A waste bucket contains a mixture of sand, salt, and iron filings. To separate all three substances into pure components, which sequence of techniques should be used?",
+      "options": [
+        "Use a magnet to remove iron, add water to dissolve salt, filter out the sand, and evaporate the water to obtain salt.",
+        "Filter the dry mixture to remove sand, use a magnet on the liquid to remove iron, and crystallise the salt.",
+        "Heat the mixture to melt the salt, decant the liquid salt from the sand, and use a magnet on the residue.",
+        "Distill the mixture to separate the iron and sand, then use chromatography to separate the salt from the water."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Rock salt is a mixture of sand, clay, and sodium chloride (salt). What is the correct sequence of steps required to obtain pure salt crystals from rock salt?",
+      "options": [
+        "Dissolve the mixture in water, filter to remove insoluble sand/clay, and then crystallise the salt from the filtrate.",
+        "Filter the dry rock salt, dissolve the residue in water, and perform simple distillation.",
+        "Heat the rock salt until the salt melts, filter the molten mixture, and leave it to cool.",
+        "Perform chromatography on the rock salt solution, then use a magnet to remove any remaining impurities."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "How can pure water be extracted from a copper sulfate solution so that both the solute and the solvent are recovered?",
+      "options": [
+        "By vaporising the water through heating and then quickly condensing the vapour back into a liquid in a separate container.",
+        "By filtering the solution through fine filter paper to trap the dissolved copper sulfate.",
+        "By heating the solution to evaporate all the water into the atmosphere, leaving the copper sulfate behind.",
+        "By using a separating funnel to drain the copper sulfate layer away from the water layer."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "What is the fundamental physical principle that allows simple distillation to separate salt from a salt-water solution?",
+      "options": [
+        "The water has a much lower boiling point than the salt, allowing it to turn into gas while the salt remains solid.",
+        "The salt particles are larger than water molecules, allowing them to be trapped by the condenser.",
+        "The salt is magnetic and is attracted to the metal walls of the distillation flask.",
+        "Water is miscible with the salt, which causes the salt to decompose when heated."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Why is it critical to run a continuous flow of cold water through the condenser jacket during distillation rather than just filling it once with static cold water?",
+      "options": [
+        "The hot vapour transfers heat to the condenser, so continuous cold water is needed to keep it cold and maintain rapid condensation.",
+        "The continuous flow of water creates a pressure difference that sucks the vapour through the tube.",
+        "The moving water chemically reacts with the glass to make it more heat-resistant.",
+        "The cold water must mix directly with the vapour to dilute the distillate and make it pure."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A student distills a mixture of ink and water. At the end of the experiment, they test the liquid collected in the receiving flask (the distillate). What is the nature of this collected liquid?",
+      "options": [
+        "It is pure water, containing no ink pigments or other dissolved solutes.",
+        "It is a highly concentrated ink mixture because the pigment vaporised first.",
+        "It is a mixture of water and dissolved gases from the condenser jacket.",
+        "It is an unsaturated solution of ink because some pigment always passes through the condenser."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "When separating a mixture of liquids with close boiling points using distillation, why is it beneficial to heat the mixture slowly and gently?",
+      "options": [
+        "It allows for more controlled boiling, ensuring only the component with the lowest boiling point vaporises first.",
+        "It prevents the glass flask from cracking under sudden thermal stress.",
+        "It ensures that the condenser stays warm enough to prevent the liquids from freezing.",
+        "It increases the boiling points of the higher-boiling components so they never vaporise."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    }
+  ]
+}
