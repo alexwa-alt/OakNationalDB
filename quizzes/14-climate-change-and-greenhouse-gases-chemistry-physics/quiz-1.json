@@ -1,0 +1,182 @@
+{
+  "unitKey": "14Climate change and greenhouse gasesChemistryPhysics",
+  "generatedAt": "2026-08-12T05:50:00.129732+00:00",
+  "questions": [
+    {
+      "question": "How do scientists calculate global surface temperatures to track climate trends?",
+      "options": [
+        "By averaging tens of thousands of measurements taken worldwide.",
+        "By using a single ultra-precise thermometer at the equator.",
+        "By estimating temperature based entirely on satellite photos of ice caps.",
+        "By taking measurements from just ten major cities once a year."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What trend has been observed in overall global surface temperatures since the industrial revolution in the 1850s?",
+      "options": [
+        "They have remained completely stable with no notable changes.",
+        "They have been steadily decreasing.",
+        "They have been increasing overall.",
+        "They have fluctuated with no long-term directional trend."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following can scientists use to obtain data about longer-term historical changes in Earth's temperature before modern records?",
+      "options": [
+        "Fossilized bones of dinosaurs and modern soil samples.",
+        "Tree rings and ice cores.",
+        "Active volcanic ash deposits and ocean wave heights.",
+        "Current satellite measurements and tectonic plate speeds."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How does methane compare to carbon dioxide as a greenhouse gas?",
+      "options": [
+        "Methane is a more potent greenhouse gas than carbon dioxide.",
+        "Methane is much less potent at trapping heat than carbon dioxide.",
+        "Methane and carbon dioxide have exactly the same potency.",
+        "Methane does not trap heat at all, unlike carbon dioxide."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What is the primary effect of greenhouse gases in the atmosphere on Earth's climate?",
+      "options": [
+        "They make the atmosphere significantly colder than it would be without them.",
+        "They keep the atmosphere warmer than it would be without them.",
+        "They prevent any heat from the Sun from reaching the surface.",
+        "They keep the temperature of the atmosphere at absolute zero."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How does the melting of land-based ice sheets due to increased temperatures affect global oceans?",
+      "options": [
+        "It moves more water into the sea, causing sea levels to rise.",
+        "It has no effect on sea levels because the ice is already floating.",
+        "It causes sea levels to fall because water becomes denser as it cools.",
+        "It decreases the total volume of water in the global oceans."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the effect of sea ice melting during the summer on global sea levels?",
+      "options": [
+        "It drastically raises sea levels because it adds liquid water to the ocean.",
+        "It lowers sea levels because liquid water takes up less space than ice.",
+        "It does not add water to the sea or raise sea levels.",
+        "It permanently decreases the temperature of the deep ocean, raising sea levels."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why does the warming of oceans and seas contribute to rising sea levels?",
+      "options": [
+        "Warmer water contracts, leaving more space for rainwater.",
+        "Warmer water expands, causing the volume of the seas to increase.",
+        "Warm water evaporates faster, which directly pushes the coastlines outward.",
+        "Warmer water becomes heavier, pressing down on the seabed to push the water up."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Why might an electric vehicle still indirectly contribute to greenhouse gas emissions?",
+      "options": [
+        "Because electric vehicles release greenhouse gases directly from their tailpipes while driving.",
+        "Because fuels may be burned at power stations to generate the electricity they use.",
+        "Because electric vehicles require constant burning of fuel inside their batteries.",
+        "Because electric vehicles emit large amounts of methane gas from their tyres."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is the process involved in carbon capture and storage?",
+      "options": [
+        "It releases CO₂ into the upper atmosphere to be destroyed by solar radiation.",
+        "It converts CO₂ into oxygen gas using artificial outdoor forests.",
+        "It separates CO₂ from other emissions and stores it in suitable deep underground locations.",
+        "It mixes CO₂ with surface ocean water to increase its acidity and lock it away."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is a major disadvantage of carbon capture and storage technology despite its ability to reduce CO₂ emissions?",
+      "options": [
+        "It is very expensive to implement and operate.",
+        "It actually increases the total amount of CO₂ released.",
+        "It can only be used in domestic households and not in factories.",
+        "It makes the stored carbon dioxide highly radioactive."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Approximately what percentage of global greenhouse gas emissions is produced by the energy sector?",
+      "options": [
+        "10%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which of the following factors will cause a car to use more energy to travel a distance of 100 km?",
+      "options": [
+        "If the car is heavier or travels at higher speeds.",
+        "If the car is lighter or travels at lower speeds.",
+        "If the car is painted a lighter color.",
+        "If the car is driven only during the daytime."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "How can maintaining the correct air pressure in a car's tyres affect its energy usage?",
+      "options": [
+        "It increases the energy used because the tyres become heavier.",
+        "It has no effect whatsoever on energy use.",
+        "It reduces the energy used by the car.",
+        "It forces the engine to burn more fuel to spin the wheels."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why will renewable energy resources not run out?",
+      "options": [
+        "Because they are replenished more quickly than we use them up.",
+        "Because they do not use any physical materials to generate electricity.",
+        "Because they are stored in infinite underground reservoirs.",
+        "Because they are made from recycled plastics."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "How do solar panels differ from many other common methods of electricity generation?",
+      "options": [
+        "They use falling water to turn small internal gears.",
+        "They produce electricity without using electric generators.",
+        "They require burning biomass at high temperatures to function.",
+        "They must spin a giant turbine to generate an electric current."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    }
+  ]
+}

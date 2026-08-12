@@ -1,0 +1,182 @@
+{
+  "unitKey": "2Acids and basesChemistry",
+  "generatedAt": "2026-08-12T05:50:00.870118+00:00",
+  "questions": [
+    {
+      "question": "What distinctive taste is associated with edible acids?",
+      "options": [
+        "Bitter",
+        "Sweet",
+        "Sour",
+        "Salty"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What type of compound is formed when any base reacts with an acid?",
+      "options": [
+        "A salt",
+        "An oxide",
+        "An alkali",
+        "A pure metal"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How is an alkali defined in relation to bases?",
+      "options": [
+        "An insoluble base",
+        "A soluble base",
+        "A concentrated acid",
+        "A neutral base"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What colour change would you observe if you dipped red litmus paper into an alkaline solution?",
+      "options": [
+        "It turns yellow",
+        "It turns blue",
+        "It turns green",
+        "It remains red"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What are the chemical products when a metal reacts with an acid?",
+      "options": [
+        "Metal salt and water",
+        "Metal oxide and carbon dioxide",
+        "Metal salt and hydrogen gas",
+        "Metal hydroxide and hydrogen gas"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following describes the positive test for hydrogen gas?",
+      "options": [
+        "It turns limewater cloudy",
+        "It relights a glowing splint",
+        "It produces a squeaky pop with a lit splint",
+        "It turns damp red litmus paper blue"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "When a metal carbonate reacts with an acid, what three products are formed?",
+      "options": [
+        "Salt, oxygen, and water",
+        "Salt, water, and carbon dioxide",
+        "Metal oxide, hydrogen, and carbon dioxide",
+        "Salt, hydrogen, and water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is the standard chemical test for identifying carbon dioxide gas?",
+      "options": [
+        "Bubbling it through limewater, turning it cloudy",
+        "Testing with a lit splint to hear a squeaky pop",
+        "Placing damp blue litmus paper in it to turn it red",
+        "Passing it over a glowing splint to make it relight"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the general word equation for a neutralisation reaction?",
+      "options": [
+        "base + acid -> metal salt + hydrogen",
+        "base + acid -> metal salt + water",
+        "metal oxide + water -> acid",
+        "carbonate + acid -> salt + carbon dioxide"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In a chemical equation, what state of matter does the symbol '(aq)' represent?",
+      "options": [
+        "In solution (aqueous)",
+        "Solid",
+        "Liquid",
+        "Gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What type of solution is formed when a non-metal oxide dissolves in water?",
+      "options": [
+        "A neutral solution",
+        "An alkaline solution",
+        "An acidic solution",
+        "No solution is formed"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How does the concentration of hydrogen ions affect the pH of a solution?",
+      "options": [
+        "A higher concentration of hydrogen results in a higher pH",
+        "A higher concentration of hydrogen results in a lower pH",
+        "Hydrogen concentration has no effect on pH",
+        "The pH remains constant at 7 regardless of hydrogen concentration"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "How many times more acidic is an acid with a pH of 2 compared to an acid with a pH of 3?",
+      "options": [
+        "Two times more acidic",
+        "Ten times more acidic",
+        "One hundred times more acidic",
+        "Three times more acidic"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What does a high pH value (for example, pH 13) indicate about a solution?",
+      "options": [
+        "The solution is highly acidic",
+        "The solution is neutral",
+        "The solution is alkaline",
+        "The solution is pure water"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What colour does a red cabbage indicator solution turn when added to a neutral solution?",
+      "options": [
+        "Pink or red",
+        "Green",
+        "Purple",
+        "Blue"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Why is universal indicator particularly useful compared to single-colour-change indicators?",
+      "options": [
+        "It only turns red or blue",
+        "It turns many different colours depending on the exact pH",
+        "It changes state from liquid to gas",
+        "It stays completely colourless in all acids"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    }
+  ]
+}

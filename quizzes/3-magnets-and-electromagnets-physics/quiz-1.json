@@ -1,0 +1,204 @@
+{
+  "unitKey": "3Magnets and electromagnetsPhysics",
+  "generatedAt": "2026-08-12T05:50:07.073755+00:00",
+  "questions": [
+    {
+      "question": "What happens to the strength of an electromagnet's magnetic field if you increase the number of turns of wire in its coil?",
+      "options": [
+        "It becomes weaker.",
+        "It becomes stronger.",
+        "It remains exactly the same.",
+        "It disappears completely."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How does increasing the electric current flowing through the coil affect an electromagnet?",
+      "options": [
+        "It weakens the magnetic field.",
+        "It makes the magnetic field stronger.",
+        "It reverses the magnetic poles instantly.",
+        "It has no effect on the strength of the magnetic field."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why does inserting a soft iron core into the coil of an electromagnet increase its magnetic strength?",
+      "options": [
+        "The core becomes magnetised when the current is turned on.",
+        "The core reduces the electric current to a safer level.",
+        "The core acts as an electrical insulator to stop short circuits.",
+        "The core increases the physical weight of the coil."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is created around a wire when an electric current passes through it?",
+      "options": [
+        "An electrostatic charge only.",
+        "A gravitational field.",
+        "A magnetic field.",
+        "A chemical reaction."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following is a key advantage of an electromagnet compared to a permanent magnet?",
+      "options": [
+        "It can be turned on and off with an electric current.",
+        "It never requires any energy source to function.",
+        "It is always made of non-metallic materials.",
+        "Its poles are permanently fixed and can never be reversed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What will happen if you bring the north-seeking pole of one magnet close to the north-seeking pole of another magnet?",
+      "options": [
+        "They will attract each other.",
+        "They will repel each other.",
+        "They will cancel each other's magnetism out.",
+        "They will spin rapidly in clockwise directions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How do magnetic materials behave when placed near the north-seeking and south-seeking poles of a magnet?",
+      "options": [
+        "They are attracted to both poles.",
+        "They are attracted to the north pole but repelled by the south pole.",
+        "They are repelled by both poles.",
+        "They are attracted to the south pole but repelled by the north pole."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which group contains only the three metal elements that are magnetic?",
+      "options": [
+        "Copper, aluminum, and gold.",
+        "Iron, cobalt, and nickel.",
+        "Silver, platinum, and zinc.",
+        "Lead, tin, and iron."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why does a freely suspended magnet's north-seeking pole point towards the Earth's geographic North Pole?",
+      "options": [
+        "Because the Earth has its own magnetic field.",
+        "Because of the Earth's rapid rotational force.",
+        "Because of gravitational attraction to polar ice.",
+        "Because the North Pole has a lower temperature."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How does the needle of a plotting compass behave when placed near a magnet?",
+      "options": [
+        "It spins continuously without stopping.",
+        "It lines up with the magnetic field of the magnet.",
+        "It points directly perpendicular to the magnetic field.",
+        "It points away from all magnetic materials."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "In which direction can a magnetic field line be followed around a magnet?",
+      "options": [
+        "From the south-seeking pole to the north-seeking pole.",
+        "From the north-seeking pole to the south-seeking pole.",
+        "From the center of the magnet outwards in straight lines only.",
+        "From the sides of the magnet to the poles."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which of the following is a true property of magnetic field lines?",
+      "options": [
+        "They cross over each other where the field is strongest.",
+        "They are broken, disconnected segments.",
+        "They do not cross over and are continuous.",
+        "They only exist inside the metal of the magnet."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How does an electromagnetic door lock function to unlock a door?",
+      "options": [
+        "It uses an electromagnet to pull a magnetic bolt.",
+        "It heats up a metal key until it expands and turns.",
+        "It spins a small motor to grind down the lock mechanism.",
+        "It sends an electrical shock to melt the latch."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What does the electromagnet in an electric bell do immediately after attracting the striker?",
+      "options": [
+        "It reverses its magnetic polarity to push the striker back.",
+        "It increases its current to hold the striker in place.",
+        "It breaks its own circuit to let the striker spring back.",
+        "It melts a small fuse to permanently turn off the bell."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What causes the spinning coil (electromagnet) in a motor to rotate when there is a current?",
+      "options": [
+        "Electrostatic charges on the casing attract the coil.",
+        "Other magnets around the coil push it round.",
+        "The wire physically contracts and expands due to heat.",
+        "Gravitational forces pull the coil downwards."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Why will an electromagnet made from bare wire fail to work if the adjacent turns are touching?",
+      "options": [
+        "Because the current flows straight through instead of around the coil.",
+        "Because bare wire is unable to conduct any electricity.",
+        "Because touching wires will cause the metal to melt immediately.",
+        "Because bare wire can only produce static electricity."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What happens when an electric current flows through a coil of wire rather than a single straight wire?",
+      "options": [
+        "The magnetic field around each loop adds together to make a stronger field.",
+        "The magnetic field of each loop cancels out, resulting in no field.",
+        "The current stops flowing due to increased resistance in the loops.",
+        "The magnetic field is converted entirely into static electrical energy."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which of the following describes the shape of the magnetic field of a bar magnet?",
+      "options": [
+        "It is completely asymmetrical and chaotic.",
+        "It is symmetrical.",
+        "It only exists at the exact center of the magnet.",
+        "It extends in only one direction from the north pole."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    }
+  ]
+}

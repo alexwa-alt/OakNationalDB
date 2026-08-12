@@ -1,0 +1,193 @@
+{
+  "unitKey": "14Climate change and greenhouse gasesChemistryPhysics",
+  "generatedAt": "2026-08-12T05:50:05.877664+00:00",
+  "questions": [
+    {
+      "question": "How do scientists calculate overall global surface temperatures?",
+      "options": [
+        "By taking a single temperature reading at the equator each day",
+        "From tens of thousands of measurements worldwide",
+        "By averaging temperatures from only three capital cities",
+        "By estimating temperatures from satellite cloud images alone"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How do scientists analyze regional temperature changes to see if they are unusual?",
+      "options": [
+        "They compare them with the long-term average for each region",
+        "They compare them to the temperature of the nearest ocean only",
+        "They check if the temperature is always exactly 20 degrees Celsius",
+        "They compare them only with the temperature at the South Pole"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Where do scientists obtain physical data about longer-term temperature changes from hundreds of years ago?",
+      "options": [
+        "From old weather reports broadcast on the radio",
+        "From tree rings and ice cores",
+        "By measuring the depth of the ocean floor",
+        "From the magnetic alignment of modern volcanic rocks"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which of the following statements comparing carbon dioxide and methane is correct?",
+      "options": [
+        "Carbon dioxide is a more potent greenhouse gas than methane",
+        "Methane is a more potent greenhouse gas than carbon dioxide",
+        "Methane and carbon dioxide have the exact same warming effect",
+        "Methane has no warming effect on the atmosphere"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What is the main effect of greenhouse gases on Earth's atmosphere?",
+      "options": [
+        "They keep the atmosphere warmer than it would be without them",
+        "They block all incoming heat from the Sun",
+        "They cool down the planet by reflecting all sunlight",
+        "They prevent oxygen from escaping into outer space"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why does the melting of sea ice in summer not raise sea levels?",
+      "options": [
+        "Because it does not add water to the sea",
+        "Because ocean water contracts as it gets colder",
+        "Because wind blows the melted ice onto the land",
+        "Because sea ice melts directly into underground caves"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Other than the melting of ice sheets, what causes sea levels to rise as temperatures increase?",
+      "options": [
+        "Warmer oceans and seas expand",
+        "Undersea volcanic activity increases",
+        "The speed of ocean currents increases",
+        "Evaporation from the oceans stops completely"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which statement describes the difference in fuel usage between electric and petrol or diesel vehicles?",
+      "options": [
+        "Electric vehicles burn fuel in their engines, while petrol vehicles do not",
+        "Petrol and diesel vehicles burn fuels, while electric vehicles do not, though fuels may be burned to generate electricity",
+        "Petrol vehicles produce zero emissions, whereas electric vehicles produce high amounts of exhaust gases",
+        "Electric vehicles must burn hydrogen, while diesel vehicles run entirely on battery power"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What happens during the process of carbon capture and storage?",
+      "options": [
+        "It converts carbon dioxide into oxygen using mechanical trees",
+        "It separates CO2 from other emissions and stores it in suitable deep underground locations",
+        "It compresses carbon dioxide into solid blocks to build houses",
+        "It dissolves carbon dioxide into the surface of oceans to feed fish"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is a major disadvantage of carbon capture and storage technology?",
+      "options": [
+        "It is very expensive",
+        "It increases the amount of CO2 emitted",
+        "It can only be used in space",
+        "It has been proven to make global warming worse"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Approximately what percentage of global greenhouse gas emissions is produced by the energy sector?",
+      "options": [
+        "25%",
+        "50%",
+        "75%",
+        "95%"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Under what conditions will a car use more energy to travel a distance of 100 km?",
+      "options": [
+        "If it is lighter and travels at lower speeds",
+        "If it is heavier or travels at higher speeds",
+        "If it is painted a dark colour and has fewer passengers",
+        "If its windows are closed and it travels downhill"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "How can a driver reduce the amount of energy a car uses during travel?",
+      "options": [
+        "By keeping the tyres inflated to the correct air pressure",
+        "By driving with under-inflated tyres",
+        "By removing the car's air filter",
+        "By using the highest possible gear at very low speeds"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why will renewable energy resources not run out?",
+      "options": [
+        "Because they are replenished more quickly than we use them up",
+        "Because they are made of synthetic man-made materials",
+        "Because they are kept inside sealed containers",
+        "Because they only operate during daytime hours"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "How can a turbine be spun to generate electricity without burning fuel?",
+      "options": [
+        "By using falling water or wind",
+        "By burning coal or oil",
+        "By using solar light beams",
+        "By using heat from electric radiators"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Which of the following is able to produce electricity without using an electric generator?",
+      "options": [
+        "Wind turbines",
+        "Coal-fired power stations",
+        "Solar panels",
+        "Hydroelectric dams"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "What is a predicted benefit of reducing global greenhouse gas emissions?",
+      "options": [
+        "It can reduce the rate of global warming and may even help to reverse it",
+        "It will immediately stop the Earth from spinning on its axis",
+        "It will cause the Earth's atmosphere to freeze completely",
+        "It will prevent any heat from the Sun from reaching Earth"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    }
+  ]
+}

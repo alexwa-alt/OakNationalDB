@@ -1,0 +1,193 @@
+{
+  "unitKey": "1Breathing and respirationBiology",
+  "generatedAt": "2026-08-12T05:49:57.881022+00:00",
+  "questions": [
+    {
+      "question": "What are the tiny, grape-like air sacs that make up the lungs called?",
+      "options": [
+        "Bronchioles",
+        "Alveoli",
+        "Capillaries",
+        "Tracheae"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Between which two structures does gas exchange take place in the human lungs?",
+      "options": [
+        "Between the bronchi and the trachea",
+        "Between the air in alveoli and the blood in capillaries",
+        "Between the heart and the pulmonary vein",
+        "Between the ribs and the diaphragm"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why does the human lung contain millions of alveoli instead of just one large air sac?",
+      "options": [
+        "To decrease the overall lung volume",
+        "To increase the surface area of the lungs for gas exchange",
+        "To protect the lungs from physical damage",
+        "To warm up the incoming air more quickly"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How does the thickness of the alveoli walls adapt them for efficient gas exchange?",
+      "options": [
+        "They are one cell thick to create a short diffusion distance",
+        "They are several cells thick to withstand high pressure",
+        "They are covered in a thick layer of mucus to trap oxygen",
+        "They are made of thick muscle tissue to pump gases"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the main purpose of the rich network of capillaries surrounding the alveoli?",
+      "options": [
+        "To keep the alveoli at a high temperature",
+        "To maintain a concentration gradient for gas exchange",
+        "To physically support the delicate shape of the alveoli",
+        "To produce mucus to clean the lungs"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which gas is an essential reactant required for aerobic cellular respiration to take place?",
+      "options": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Oxygen",
+        "Hydrogen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following is the correct word equation for aerobic cellular respiration?",
+      "options": [
+        "Glucose + Oxygen -> Carbon dioxide + Water (+ Energy)",
+        "Glucose -> Lactic acid (+ Energy)",
+        "Glucose + Carbon dioxide -> Oxygen + Water (+ Energy)",
+        "Carbon dioxide + Water -> Glucose + Oxygen"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "In which cellular structures does aerobic cellular respiration take place in animal, plant, and fungi cells?",
+      "options": [
+        "Only in the nucleus",
+        "In the mitochondria and cytoplasm",
+        "Only in the chloroplasts",
+        "In the cell wall and vacuole"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why do active muscle cells contain significantly more mitochondria than fat storage cells?",
+      "options": [
+        "They need to store more fat molecules",
+        "They require more energy because they do a lot of work",
+        "They need to produce more carbon dioxide for excretion",
+        "They are larger and need physical support"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What are the products of anaerobic cellular respiration in microorganisms like yeast?",
+      "options": [
+        "Lactic acid and water",
+        "Carbon dioxide and ethanol",
+        "Oxygen and glucose",
+        "Carbon dioxide and lactic acid"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is another name for anaerobic cellular respiration in microorganisms?",
+      "options": [
+        "Photosynthesis",
+        "Fermentation",
+        "Transpiration",
+        "Aeration"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "During strenuous exercise in humans, anaerobic cellular respiration can occur. What product does it build up that can cause muscle cramps?",
+      "options": [
+        "Ethanol",
+        "Lactic acid",
+        "Carbon dioxide",
+        "Glucose"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Where inside a cell does anaerobic cellular respiration take place?",
+      "options": [
+        "Only in the mitochondria",
+        "Only in the cytoplasm, without involving the mitochondria",
+        "In both the mitochondria and the nucleus",
+        "Inside the ribosomes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How does the energy release of anaerobic cellular respiration compare to aerobic cellular respiration?",
+      "options": [
+        "It provides more energy, but much more slowly",
+        "It provides less energy, but provides energy more quickly",
+        "It provides the same amount of energy at the same rate",
+        "It provides no energy at all"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which of the following describes cellular respiration?",
+      "options": [
+        "The physical movement of chest muscles to draw air into the lungs",
+        "A chemical process that uses glucose from food as a fuel to provide energy",
+        "The absorption of oxygen through the skin",
+        "The transport of digested food through the bloodstream"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "When and in which living things does cellular respiration happen?",
+      "options": [
+        "Only in animals during the daytime",
+        "Only in plants when there is no sunlight",
+        "In all living organisms all the time",
+        "Only in humans when they are exercising"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What is meant by the 'vital capacity' of the lungs?",
+      "options": [
+        "The volume of air that remains in the lungs after a normal breath",
+        "The maximum volume of air that can be exhaled after inhaling fully",
+        "The total amount of oxygen absorbed by the blood in one minute",
+        "The average volume of air inhaled during quiet breathing"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    }
+  ]
+}

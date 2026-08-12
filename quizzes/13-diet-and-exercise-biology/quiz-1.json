@@ -1,0 +1,182 @@
+{
+  "unitKey": "13Diet and exerciseBiology",
+  "generatedAt": "2026-08-12T05:49:59.967340+00:00",
+  "questions": [
+    {
+      "question": "Which of the following lists contains only essential food groups required by the human body?",
+      "options": [
+        "Proteins, carbohydrates, vitamins, and minerals",
+        "Glucose, carbon dioxide, water, and oxygen",
+        "Toxins, fiber, enzymes, and hormones",
+        "Lipids, proteins, lactic acid, and starch"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why might an individual require different amounts of particular nutrients at different times in their life?",
+      "options": [
+        "Because their genetic code changes as they grow older",
+        "To adapt to changing nutritional needs based on growth, pregnancy, or lifestyle",
+        "Because the energy value of a single gram of carbohydrate changes over time",
+        "To match the changing temperature of the external environment"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "During an experiment to investigate the energy content of food, how is the energy released from burning food measured?",
+      "options": [
+        "By measuring the increase in mass of the food sample",
+        "By measuring the volume of oxygen gas produced",
+        "By measuring the temperature change of a known volume of water",
+        "By calculating the amount of carbon dioxide released into the air"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Using the formula: Energy (J) = mass of water (g) x rise in temperature (°C) x 4.2, how much energy is transferred if 10 g of water rises in temperature by 5 °C?",
+      "options": [
+        "50 Joules",
+        "210 Joules",
+        "42 Joules",
+        "21 Joules"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "In addition to acting as building materials for growth and repair, what role does food play in cellular respiration?",
+      "options": [
+        "It provides the fuel to release energy for life processes",
+        "It acts as a cooling agent to reduce body temperature",
+        "It directly absorbs carbon dioxide from the blood",
+        "It eliminates the body's requirement for oxygen"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What information is typically provided on food labels to help consumers maintain a healthy diet?",
+      "options": [
+        "The exact location where the crops were harvested",
+        "The content of the food and the daily recommended amounts of nutrients and energy",
+        "The total volume of oxygen used to package the food",
+        "The chemical structure of every single molecule in the food"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which two units are commonly used on food labels to compare the amount of energy provided by different foods?",
+      "options": [
+        "Joules and Newtons",
+        "Calories and grams",
+        "Kilojoules or calories",
+        "Watts or kilograms"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which two physical measurements are required to calculate a person's Body Mass Index (BMI)?",
+      "options": [
+        "Height and body mass",
+        "Waist circumference and heart rate",
+        "Age and physical activity level",
+        "Body mass and lung capacity"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What is the likely physical consequence of regularly consuming significantly more food and energy than the body needs?",
+      "options": [
+        "The body mass index will decrease, eventually leading to starvation",
+        "The body mass index will become too high, leading to obesity",
+        "The body's rate of cellular respiration will permanently drop to zero",
+        "The resting heart rate will immediately decrease to healthy levels"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Obesity is a health condition that can significantly increase the risk of developing which of the following medical issues?",
+      "options": [
+        "Scurvy",
+        "Heart disease",
+        "Infectious flu",
+        "Rickets"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What is the term for a health condition that is caused specifically by not consuming enough of a particular nutrient?",
+      "options": [
+        "Infectious disease",
+        "Genetic disease",
+        "Deficiency disease",
+        "Environmental disease"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What does the term 'recovery time' refer to when assessing physical fitness after exercise?",
+      "options": [
+        "The time it takes to complete a specific distance or task",
+        "The duration of exercise required to double the resting pulse rate",
+        "The time it takes for the heart rate to return to its resting rate after exercise",
+        "The total hours of sleep required after a physical workout"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How does a person's physical fitness level typically affect their recovery time after vigorous exercise?",
+      "options": [
+        "People who are fitter have a shorter recovery time",
+        "People who are fitter have a longer recovery time",
+        "Fitness level has no impact on recovery time",
+        "People who are fitter do not experience an increase in heart rate during exercise"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "In an experiment investigating how different types of exercise affect heart rate, which variables should be controlled?",
+      "options": [
+        "The heart rate of the person after exercising",
+        "The person doing the exercise and the length of time spent exercising",
+        "The type of exercise performed by the participant",
+        "The outside weather temperature and the time of year"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "When plotting a bar chart to show how different exercises affect heart rate, where should the dependent variable go?",
+      "options": [
+        "On the x-axis",
+        "On the y-axis",
+        "In the title of the graph only",
+        "In a separate key on the side of the chart"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Why do breathing rate and heart rate increase when a person undergoes physical exercise?",
+      "options": [
+        "To reduce the amount of water vapor in the lungs",
+        "Because cells need more oxygen for cellular respiration",
+        "To prevent carbon dioxide from entering the bloodstream",
+        "Because the body is trying to decrease its core temperature"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    }
+  ]
+}

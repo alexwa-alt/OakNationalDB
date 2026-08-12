@@ -1,0 +1,193 @@
+{
+  "unitKey": "3Magnets and electromagnetsPhysics",
+  "generatedAt": "2026-08-12T05:49:59.733021+00:00",
+  "questions": [
+    {
+      "question": "How does changing the number of turns of wire in an electromagnet's coil affect its magnetic field strength?",
+      "options": [
+        "Increasing the number of turns increases the magnetic field strength.",
+        "Increasing the number of turns decreases the magnetic field strength.",
+        "Changing the number of turns has no effect on the magnetic field strength.",
+        "Increasing the number of turns only works if the wire is non-metal."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following changes will make the magnetic field of an electromagnet stronger?",
+      "options": [
+        "Reducing the voltage of the power source.",
+        "Increasing the electric current flowing through the coil.",
+        "Using a wire with higher electrical resistance to lower the current.",
+        "Keeping the current extremely low."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why is an electromagnet constructed with bare, uninsulated wire unable to function if the adjacent turns touch each other?",
+      "options": [
+        "The current short-circuits across the touching turns instead of flowing through the coil.",
+        "The metal turns will melt instantly due to high friction.",
+        "The bare wire prevents any magnetic fields from forming around individual wire segments.",
+        "The electricity is blocked from entering the core entirely."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the primary reason why adding a soft iron core to an electromagnet increases its overall strength?",
+      "options": [
+        "The soft iron core conducts heat away from the coil.",
+        "The soft iron core becomes magnetised when the electromagnet is turned on.",
+        "The core permanently retains its magnetism even when the current is switched off.",
+        "The soft iron core acts as an insulator to prevent short-circuits."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What occurs immediately around a straight wire when an electric current begins to flow through it?",
+      "options": [
+        "A static electric charge builds up on the outer surface.",
+        "A magnetic field is generated around the wire.",
+        "The wire begins to spin on its axis.",
+        "The surrounding air becomes permanently magnetised."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What is a key advantage of an electromagnet compared to a permanent magnet?",
+      "options": [
+        "It can be switched on and off using an electric current.",
+        "It does not require any materials to be magnetic.",
+        "It has only a north pole and no south pole.",
+        "It retains its magnetic field forever without needing a power source."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "If you bring the north-seeking pole of one bar magnet close to the north-seeking pole of another, what will happen?",
+      "options": [
+        "They will attract each other.",
+        "They will repel each other.",
+        "They will cancel each other out and lose their magnetism.",
+        "They will rotate to point towards the South Pole."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How do magnetic materials behave when they are placed near the poles of a bar magnet?",
+      "options": [
+        "They are attracted to the north-seeking pole but repelled by the south-seeking pole.",
+        "They are repelled by both the north-seeking and south-seeking poles.",
+        "They are attracted to both the north-seeking and south-seeking poles.",
+        "They are only attracted to the south-seeking pole."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of the following groups contains only the three metal elements that are magnetic?",
+      "options": [
+        "Iron, copper, and aluminium",
+        "Gold, silver, and platinum",
+        "Iron, cobalt, and nickel",
+        "Lead, tin, and zinc"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why does the north-seeking pole of a suspended bar magnet point towards the Earth's geographic North Pole?",
+      "options": [
+        "The Earth is surrounded by a vacuum that pulls on magnets.",
+        "The Earth has its own magnetic field.",
+        "Gravity pulls the heavier north-seeking pole downwards.",
+        "The North Pole contains large deposits of pure copper."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How does a plotting compass behave when placed near a bar magnet?",
+      "options": [
+        "Its needle spins continuously in circles.",
+        "Its needle lines up with the magnetic field of the magnet.",
+        "Its needle points directly to the nearest electric socket.",
+        "Its needle is repelled and points perpendicular to the field lines."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "If you trace a magnetic field line outside a magnet, where does it start and end?",
+      "options": [
+        "From the north-seeking pole to the south-seeking pole.",
+        "From the south-seeking pole to the north-seeking pole.",
+        "From the centre of the magnet outwards in straight lines.",
+        "From the electrical terminal to the iron core."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What do the arrows drawn on magnetic field lines represent?",
+      "options": [
+        "The path that electrons take when flowing through the magnet.",
+        "The direction of the electric current in the nearest wire.",
+        "The direction in which the north-seeking pole of another magnet would be forced.",
+        "The speed at which the magnetic field is expanding."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which of the following is a true property of magnetic field lines?",
+      "options": [
+        "They cross over each other where the magnetic field is weakest.",
+        "They are continuous and do not cross over.",
+        "They start and end at the exact same pole.",
+        "They form sharp, jagged angles around the corners of a magnet."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "In an electric bell, what is the role of the electromagnet?",
+      "options": [
+        "It heats up a metal strip to break the circuit.",
+        "It attracts and moves the striker so that it hits the bell.",
+        "It generates electricity to power the striker's spring.",
+        "It permanently magnetises the gong to keep it ringing."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "How does an electric bell allow its striker to spring back after hitting the bell?",
+      "options": [
+        "The electromagnet reverses its magnetic poles.",
+        "The user must manually release a switch.",
+        "The movement of the striker breaks its own circuit, turning off the electromagnet.",
+        "The battery runs out of charge instantly."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What causes the spinning coil of wire inside an electric motor to rotate?",
+      "options": [
+        "The heat generated by the electric current pushes it around.",
+        "Other magnets around the spinning coil push it round when there is a current.",
+        "The wire coil unravels and winds up repeatedly.",
+        "Gravity pulls the heavier side of the coil downwards."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    }
+  ]
+}

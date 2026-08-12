@@ -1,0 +1,182 @@
+{
+  "unitKey": "13Diet and exerciseBiology",
+  "generatedAt": "2026-08-12T05:50:09.316270+00:00",
+  "questions": [
+    {
+      "question": "A student burns a food sample to heat 50 g of water. Which equation is used to calculate the energy provided by the food in Joules (J)?",
+      "options": [
+        "Energy (J) = mass of water (g) x rise in temperature (°C) x 4.2",
+        "Energy (J) = mass of water (g) + rise in temperature (°C) x 4.2",
+        "Energy (J) = mass of water (g) x rise in temperature (°C) / 4.2",
+        "Energy (J) = mass of water (g) / rise in temperature (°C) x 4.2"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which two physical measurements of an individual are required to calculate their Body Mass Index (BMI)?",
+      "options": [
+        "Waist circumference and body mass",
+        "Height and body mass",
+        "Age and height",
+        "Height and waist circumference"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following health issues is a person who is obese at an increased risk of developing?",
+      "options": [
+        "Scurvy",
+        "Heart disease",
+        "Iron deficiency anaemia",
+        "Rickets"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What is meant by the term 'recovery time' after a person completes a physical exercise?",
+      "options": [
+        "The time it takes to complete a specific fitness activity",
+        "The time taken for the breathing rate to double during a workout",
+        "The time it takes for the heart rate to return to its resting rate",
+        "The total duration of sleep required after high-intensity exercise"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How does a person's level of physical fitness generally affect their recovery time after exercise?",
+      "options": [
+        "Fitter people have a longer recovery time.",
+        "Fitter people have a shorter recovery time.",
+        "Fitness level has no effect on recovery time.",
+        "Fitter people never have their heart rate return to resting level."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "In an investigation comparing the effect of different exercises on heart rate, which of the following are control variables?",
+      "options": [
+        "The type of exercise and the final heart rate",
+        "The person being tested and the length of time spent exercising",
+        "The starting heart rate and the independent variable",
+        "The room temperature and the recovery time only"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "When plotting a bar chart to show how different categories of exercise affect heart rate, where should the independent variable be placed?",
+      "options": [
+        "On the x-axis",
+        "On the y-axis",
+        "In the chart legend only",
+        "On both the x-axis and y-axis"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Why do breathing rate and heart rate increase during exercise?",
+      "options": [
+        "To reduce the amount of water vapor in the lungs",
+        "To deliver more oxygen to cells for cellular respiration",
+        "To decrease the body temperature of active muscles",
+        "To store extra carbon dioxide within the muscle tissues"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "Which of the following lists contains only valid major food groups needed by the human body?",
+      "options": [
+        "Protein, carbohydrate, lipids/fats, water, minerals, vitamins, fibre",
+        "Protein, carbon dioxide, oxygen, water, minerals, vitamins",
+        "Carbohydrate, sugar, glucose, starch, fibre, water, calcium",
+        "Lipids/fats, protein, amino acids, minerals, vitamins, oxygen"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why might an active teenager require a different daily intake of nutrients compared to an elderly person with a sedentary lifestyle?",
+      "options": [
+        "Nutrient requirements are identical for all humans regardless of age or activity.",
+        "People need different amounts of particular nutrients at different times in their lives, depending on their lifestyle.",
+        "Teenagers only require vitamins, while elderly people only require proteins.",
+        "Sedentary people require more carbohydrates to sustain their daily activities."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "In a school laboratory experiment to compare the energy content of different foods, how is the energy released from the food directly measured?",
+      "options": [
+        "By measuring the volume of gas produced when the food decays",
+        "By burning the food to heat water and measuring the temperature change",
+        "By dissolving the food in acid and measuring the change in pH",
+        "By weighing the food before and after it is left in sunlight"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Besides providing materials for growth and repair, what is another vital function of food in the human body?",
+      "options": [
+        "It acts as an inert filler to keep the digestive tract permanently full.",
+        "It provides the fuel for cellular respiration, to provide energy for life processes.",
+        "It is converted directly into carbon dioxide to be stored in the bones.",
+        "It is used by the lungs to filter incoming oxygen from the air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which two units of measurement are commonly used on food packaging to compare the amount of energy provided by food?",
+      "options": [
+        "Grams and milliliters",
+        "Kilojoules and calories",
+        "Watts and Newtons",
+        "Degrees Celsius and Joules per gram"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following can be interpreted as symptoms of ill health in an individual?",
+      "options": [
+        "Constant high physical fitness and high energy levels",
+        "Maintaining a stable, healthy body mass index",
+        "Changes in normal body appearance, function and behaviour",
+        "Having a normal resting heart rate of 70 beats per minute"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is the primary cause of a deficiency disease in humans?",
+      "options": [
+        "Consuming a diet that contains too many calories",
+        "Not consuming enough of a particular nutrient",
+        "Exercising too intensely without adequate rest periods",
+        "Exposure to harmful bacteria in drinking water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "How can a person's heart rate in beats per minute (bpm) be measured?",
+      "options": [
+        "By counting their breathing rate per minute",
+        "By taking a person's pulse",
+        "By measuring their body temperature with a thermometer",
+        "By calculating their total energy intake in kilojoules"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "unitKey": "13Diet and exerciseBiology",
+  "generatedAt": "2026-08-12T05:49:57.721430+00:00",
+  "questions": [
+    {
+      "question": "How can the energy provided by a food sample burned under a tube of water be calculated?",
+      "options": [
+        "Energy (J) = mass of water (g) × rise in temperature (°C) × 4.2",
+        "Energy (J) = mass of food (g) × rise in temperature (°C) × 4.2",
+        "Energy (J) = mass of water (g) + rise in temperature (°C) × 100",
+        "Energy (J) = volume of water (ml) × mass of food (g) / 4.2"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which two measurements of a person are required to calculate their Body Mass Index (BMI)?",
+      "options": [
+        "Height and waist circumference",
+        "Body mass and age",
+        "Height and body mass",
+        "Body mass and body fat percentage"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What is the primary cause of a deficiency disease in humans?",
+      "options": [
+        "Consuming too much dietary fat and sugar",
+        "Not consuming enough of a particular nutrient",
+        "An infection caused by a pathogen",
+        "A lack of regular physical exercise"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What does the term \"recovery time\" refer to in relation to physical exercise?",
+      "options": [
+        "The total duration of a vigorous exercise session",
+        "The time it takes for a person to fall asleep after working out",
+        "The time it takes for the heart rate to return to its resting rate after exercise",
+        "The time required for muscles to double their strength after training"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How does a person's physical fitness level typically affect their recovery time after exercise?",
+      "options": [
+        "Fitter individuals have a shorter recovery time.",
+        "Fitter individuals have a longer recovery time.",
+        "Physical fitness has no impact on recovery time.",
+        "Fitter individuals do not experience a recovery phase."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Why do breathing rate and heart rate increase during physical exercise?",
+      "options": [
+        "To transport excess carbon dioxide to the muscles for energy production",
+        "To supply cells with more oxygen needed for increased cellular respiration",
+        "To decrease the body temperature by reducing blood flow to the lungs",
+        "To prevent glucose from entering the active muscle cells"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "When investigating the effect of different types of exercise on heart rate, which of the following should be kept as control variables to ensure a fair test?",
+      "options": [
+        "The room temperature and the type of footwear worn only",
+        "The heart rate before exercise and the heart rate after exercise",
+        "The person performing the exercise and the length of time spent exercising",
+        "The age of the person and the time of day they eat breakfast"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Why might a teenager have different nutritional requirements compared to an elderly office worker?",
+      "options": [
+        "Nutrient requirements are determined solely by genetics and never change with age.",
+        "People need different amounts of particular nutrients at different stages of life depending on their lifestyle.",
+        "Teenagers require fewer carbohydrates because they do not grow as rapidly as elderly adults.",
+        "Elderly adults require significantly more protein to build new bone structures."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which two units of measurement are commonly used on food labels to compare the amount of energy provided by food?",
+      "options": [
+        "Grams and milligrams",
+        "Kilojoules and calories",
+        "Watts and joules",
+        "Degrees Celsius and Newtons"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Besides providing energy, what is another major role of food in the human body?",
+      "options": [
+        "To act as a direct replacement for nervous system impulses",
+        "To serve as a source of building materials to make biomass for growth and repair",
+        "To physically lubricate the joints using consumed dietary water",
+        "To filter harmful gases from the respiratory system"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which of the following is a major health issue that has an increased risk of development associated with obesity?",
+      "options": [
+        "Heart disease",
+        "Scurvy",
+        "Color blindness",
+        "Genetic mutations"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Which of the following lists contains only recognized food groups required by the human body?",
+      "options": [
+        "Protein, carbohydrate, lipids/fats, water, minerals, vitamins, and fibre",
+        "Protein, carbon dioxide, lipids/fats, oxygen, and glucose",
+        "Carbohydrate, calcium, iron, starch, and hormones",
+        "Vitamins, minerals, water, amino acids, and enzymes"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In a school laboratory experiment to compare the energy content of different foods, how is the energy released from burning food directly captured and measured?",
+      "options": [
+        "By measuring the mass loss of the food sample using a balance",
+        "By burning the food to heat a volume of water and measuring the water's temperature change",
+        "By measuring the volume of oxygen gas consumed by the burning food",
+        "By recording the duration of the flame using a stopwatch"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "If you plot a bar chart showing how different types of exercise (such as walking, running, and cycling) affect heart rate, where should the types of exercise be placed?",
+      "options": [
+        "On the y-axis, because they represent continuous numerical data",
+        "On the x-axis, because the independent variable is categoric data",
+        "In a separate table, as categoric data cannot be plotted on a bar chart",
+        "On both axes to show the average values"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "How can symptoms of ill health be identified in an individual?",
+      "options": [
+        "Only by performing advanced genetic sequencing in a laboratory",
+        "By observing changes in normal body appearance, function, and behaviour",
+        "By checking if the person's height increases over time",
+        "By measuring the exact mass of food they consume in a single meal"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    }
+  ]
+}

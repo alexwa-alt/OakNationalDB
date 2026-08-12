@@ -1,0 +1,171 @@
+{
+  "unitKey": "2Acids and basesChemistry",
+  "generatedAt": "2026-08-12T05:49:58.509460+00:00",
+  "questions": [
+    {
+      "question": "Which of the following tastes is characteristic of edible acids?",
+      "options": [
+        "Sweet",
+        "Sour",
+        "Bitter",
+        "Salty"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What defines a base in its reaction with acids?",
+      "options": [
+        "It is a substance that reacts with acids to form a salt",
+        "It is a substance that only dissolves in water to form oxygen",
+        "It is a substance that turns blue litmus red",
+        "It is a substance that always produces hydrogen gas when mixed with water"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How is an alkali defined in chemistry?",
+      "options": [
+        "An insoluble base that neutralises water",
+        "A soluble base that forms an alkaline solution",
+        "A metal that does not react with acid",
+        "An acid that has been diluted with water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If you dip red litmus paper into an alkaline solution, what color change will you observe?",
+      "options": [
+        "It remains red",
+        "It turns blue",
+        "It turns green",
+        "It turns yellow"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What are the products when a metal reacts with an acid?",
+      "options": [
+        "Metal salt and water",
+        "Metal oxide and hydrogen",
+        "Metal salt and hydrogen",
+        "Carbon dioxide and water"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following describes the correct test and positive result for hydrogen gas?",
+      "options": [
+        "A glowing splint relights",
+        "A lit splint makes a squeaky pop",
+        "Bubbling it through limewater turns it cloudy",
+        "It turns blue litmus paper red"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What atoms make up a carbonate group?",
+      "options": [
+        "One carbon atom and two oxygen atoms",
+        "One carbon atom and three oxygen atoms",
+        "Two carbon atoms and three oxygen atoms",
+        "One calcium atom and three oxygen atoms"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What are the products of a reaction between a metal carbonate and an acid?",
+      "options": [
+        "Salt, water, and hydrogen",
+        "Salt, water, and carbon dioxide",
+        "Metal oxide and carbon dioxide",
+        "Salt and hydrogen gas only"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What observation indicates the presence of carbon dioxide when it is bubbled through limewater?",
+      "options": [
+        "The limewater turns blue",
+        "The limewater turns cloudy or milky",
+        "The limewater produces a squeaky pop",
+        "The limewater becomes hot and evaporates"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "According to the general equation, what are the products of a neutralisation reaction between a base and an acid?",
+      "options": [
+        "Metal salt and hydrogen",
+        "Metal salt and water",
+        "Metal oxide and carbon dioxide",
+        "Carbon dioxide and water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In a chemical equation, what does the state symbol (aq) stand for?",
+      "options": [
+        "Acidic",
+        "Aqua",
+        "In solution",
+        "Gas"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What type of solution is formed when non-metal oxides dissolve in water?",
+      "options": [
+        "Alkaline solution",
+        "Acidic solution",
+        "Neutral solution",
+        "Insoluble suspension"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How does the concentration of hydrogen ions relate to the pH of a solution?",
+      "options": [
+        "The higher the concentration of hydrogen, the lower the pH",
+        "The higher the concentration of hydrogen, the higher the pH",
+        "The concentration of hydrogen does not affect the pH",
+        "A lower concentration of hydrogen always results in a pH of 1"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "How much more acidic is a solution of pH 2 compared to a solution of pH 3?",
+      "options": [
+        "Two times more acidic",
+        "Ten times more acidic",
+        "Five times more acidic",
+        "One hundred times more acidic"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What color does red cabbage solution turn when it is added to an alkaline solution?",
+      "options": [
+        "Pink or red",
+        "Purple",
+        "Green",
+        "Yellow"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "unitKey": "13Diet and exerciseBiology",
+  "generatedAt": "2026-08-12T05:50:04.058885+00:00",
+  "questions": [
+    {
+      "question": "During an experiment to find the energy in a food sample, 10 g of water increased in temperature by 5 °C. Which equation correctly calculates the energy transferred in Joules?",
+      "options": [
+        "10 ÷ 5 × 4.2",
+        "10 × 5 × 4.2",
+        "10 × 5 ÷ 4.2",
+        "(10 + 5) × 4.2"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which two measurements are required to calculate a person's Body Mass Index (BMI)?",
+      "options": [
+        "Waist circumference and height",
+        "Body mass and age",
+        "Height and body mass",
+        "Height and resting heart rate"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What is meant by the term 'recovery time' after a period of exercise?",
+      "options": [
+        "The total duration of the exercise session",
+        "The time it takes for the heart rate to return to its resting rate",
+        "The time it takes for breathing rate to double",
+        "The period of time needed to fall asleep after working out"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How does fitness level typically affect a person's recovery time after exercise?",
+      "options": [
+        "Fitter individuals have a longer recovery time.",
+        "Fitness level has no effect on recovery time.",
+        "Fitter individuals do not experience a recovery phase.",
+        "Fitter individuals have a shorter recovery time."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Why do breathing rate and heart rate increase during exercise?",
+      "options": [
+        "Cells need more oxygen for cellular respiration.",
+        "The body needs to lose water through sweating.",
+        "To reduce the amount of carbon dioxide in the atmosphere.",
+        "To slow down the movement of blood to the muscles."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "What is the direct cause of a deficiency disease?",
+      "options": [
+        "Consuming too much fat and sugar",
+        "An infection caused by harmful bacteria",
+        "Not consuming enough of a particular nutrient",
+        "Exercising too frequently without resting"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which of the following health issues is directly linked to an increased risk from obesity?",
+      "options": [
+        "Heart disease",
+        "Scurvy",
+        "Color blindness",
+        "Anemia"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Which two units are commonly used to compare the amount of energy provided by food?",
+      "options": [
+        "Grams or milliliters",
+        "Kilojoules or calories",
+        "Degrees Celsius or Joules",
+        "Beats per minute or Watts"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is the main role of food as a fuel in cellular respiration?",
+      "options": [
+        "To directly cool down the body's internal temperature",
+        "To transport oxygen from the lungs to the muscles",
+        "To provide energy for life processes",
+        "To construct new bones and teeth"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which of the following contains only recognized food groups?",
+      "options": [
+        "Protein, glucose, calcium, water, oxygen, carbon dioxide",
+        "Carbohydrate, fat, iron, blood, tissues, organs, water",
+        "Vitamins, minerals, energy, exercise, saliva, hormones",
+        "Protein, carbohydrate, lipids/fats, water, minerals, vitamins and fibre"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why do different people require different amounts of specific nutrients?",
+      "options": [
+        "Their needs change at different times in their lives, depending on their lifestyle.",
+        "Nutrient requirements are determined solely by a person's height.",
+        "Everyone actually requires the exact same amount of nutrients regardless of age.",
+        "Nutrient needs only depend on the climate of the country they live in."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How can the amount of energy provided by different foods be practically investigated and compared?",
+      "options": [
+        "By dissolving the foods in cold water and measuring the volume",
+        "By burning the foods and measuring how much they heat water",
+        "By weighing the foods before and after leaving them in the sun",
+        "By mixing the foods with acid and observing the colour change"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When investigating how exercise affects heart rate, which of the following should be kept as control variables?",
+      "options": [
+        "The person exercising and the length of time spent exercising",
+        "The type of shoes worn and the temperature of the room only",
+        "The heart rate of the person and the breathing rate of the person",
+        "The amount of exercise and the starting time of the experiment"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "In an investigation where the amount of exercise is a categoric independent variable, where should it be plotted on a bar chart?",
+      "options": [
+        "On the y-axis",
+        "In the title of the chart only",
+        "On the x-axis",
+        "On a separate legend next to the chart"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "What can changes in normal body appearance, function, and behaviour indicate?",
+      "options": [
+        "They are always signs of improved fitness",
+        "They indicate that a person is eating too much protein",
+        "They can be symptoms of ill health",
+        "They show that the body is undergoing cellular respiration"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    }
+  ]
+}
