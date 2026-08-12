@@ -1,0 +1,226 @@
+{
+  "unitKey": "12Making imagesPhysics",
+  "generatedAt": "2026-08-12T06:17:45.129770+00:00",
+  "questions": [
+    {
+      "question": "A student makes a pinhole camera with two tiny pinholes placed very close to each other on the front face instead of one. What will they observe on the screen?",
+      "options": [
+        "A single, twice-as-bright sharp image.",
+        "Two separate or overlapping dim, inverted images.",
+        "One upright image and one inverted image.",
+        "A single blurred image with no distinct features."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "In a pinhole camera, if the user widens the pinhole to three times its original diameter, how does this affect the image and why?",
+      "options": [
+        "The image becomes sharper because more light is concentrated onto a single point on the screen.",
+        "The image becomes brighter but more blurred because more light passes through the hole in more directions, spreading onto the screen.",
+        "The image remains equally bright but becomes inverted because light rays cross over at a wider angle.",
+        "The image becomes dimmer and sharper because the larger aperture allows light to diffract more."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "An image of a candle is formed on a screen using a convex lens. If you cover the top half of the lens with an opaque piece of cardboard, what will happen to the image on the screen?",
+      "options": [
+        "The top half of the candle's image will disappear.",
+        "The bottom half of the candle's image will disappear.",
+        "The entire image of the candle will remain visible, but it will be dimmer.",
+        "The image will become completely blurred and unrecognizable."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How does a convex lens successfully form a sharp, clear image of a single point of a light source on a screen?",
+      "options": [
+        "It filters out all light rays except those traveling parallel to the principal axis.",
+        "It redirects all the light rays originating from that single point so they are focused to the same point on the screen.",
+        "It reflects light rays off its front surface to form a virtual image that is projected forward.",
+        "It scatters light rays in all directions so that they evenly illuminate the screen."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which statement correctly describes how a converging lens refracts parallel light rays due to its shape?",
+      "options": [
+        "It refracts (bends) light more at the edges than near to the centre.",
+        "It refracts (bends) light more near to the centre than at the edges.",
+        "It refracts all light rays by the exact same angle regardless of where they enter.",
+        "It only refracts light passing through the exact centre, while leaving edge rays completely straight."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "An object that is 1.5 meters tall stands 2.0 meters in front of a vertical plane mirror. Which of the following correctly describes the properties of its reflection?",
+      "options": [
+        "It is 1.5 meters tall, inverted, and appears 2.0 meters behind the mirror.",
+        "It is 1.5 meters tall, upright, and appears 2.0 meters behind the mirror.",
+        "It is 3.0 meters tall, upright, and appears 1.0 meter behind the mirror.",
+        "It is 1.5 meters tall, upright, and appears on the surface of the mirror."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A student stands facing a plane mirror wearing a T-shirt with the word 'PHYSICS' printed on it. How does the word appear in the reflection to the student, and why?",
+      "options": [
+        "It appears upright and normal because plane mirrors do not alter text direction.",
+        "It appears upside down but in the correct left-to-right order because of vertical inversion.",
+        "It appears laterally inverted (flipped left-to-right) compared to the object when it is facing us.",
+        "It is completely illegible because the mirror scatters the letters in random directions."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why is the image formed by a plane mirror classified as a 'virtual' image?",
+      "options": [
+        "The image can be projected onto a screen placed behind the mirror.",
+        "The image appears where light rays actually converge and intersect in real space.",
+        "The image appears where light rays seem to have come from, not where they actually come from.",
+        "The image is only visible in the dark and disappears under bright room lighting."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A student observes a toy under a white light source. The toy reflects a large amount of red light, some green light, and almost no blue light. What colour does the toy appear to the student?",
+      "options": [
+        "Blue, because the eye is highly sensitive to the absent light.",
+        "A shade of yellow or orange, determined by the relative amounts of red and green light it reflects.",
+        "Magenta, because red and blue lights are being combined by the eye.",
+        "Pure white, because white light is shining on it."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A white screen is illuminated by a pure blue spotlight in a dark room. What colour does the screen appear to an observer, and why?",
+      "options": [
+        "Black, because white screens can only reflect white light.",
+        "Blue, because white objects reflect all colours of light, so they look the same colour as the incident light.",
+        "Green, because blue light mixes with the yellow pigments in the white screen.",
+        "Red, because white objects reflect the complementary colour of the incident light."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "An object appears black when viewed under sunlight. What is happening to the light that hits this object?",
+      "options": [
+        "All colours of light are reflected equally in all directions.",
+        "Only black light is being reflected, while red, green, and blue are transmitted.",
+        "All colours of light are absorbed by the object, and none are reflected.",
+        "The light is refracted through the object and focused behind it."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A stage performer is wearing a pure red shirt. If the stage lighting changes to pure green light, what colour will the shirt appear to the audience, and why?",
+      "options": [
+        "Red, because the shirt's pigments automatically emit red light when stimulated.",
+        "Green, because the shirt reflects the green light falling on it.",
+        "White, because red and green light mix on the shirt surface.",
+        "Black, because the red shirt does not reflect green light, so it is absorbed."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A ray of light travels through the air and enters a flat, transparent glass block at an angle of 30 degrees to the normal. What happens to the direction of the ray as it enters the glass?",
+      "options": [
+        "It continues in a straight line without changing direction.",
+        "It turns towards the normal, making the angle of refraction less than 30 degrees.",
+        "It turns away from the normal, making the angle of refraction greater than 30 degrees.",
+        "It reflects completely off the surface and does not enter the glass."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "When a ray of light exits a transparent plastic block and re-enters the air at an angle to the normal, how does its path change?",
+      "options": [
+        "It bends towards the normal because air is less dense than plastic.",
+        "It bends away from the normal as it leaves the transparent material and re-enters air.",
+        "It stops refracting and travels parallel to the surface of the plastic block.",
+        "It reverses its direction completely and reflects back into the plastic."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A laser beam enters a rectangular glass block with parallel sides at an angle, passes through the glass, and exits back into the air. Which statement correctly describes the path of the exiting beam compared to the entering beam?",
+      "options": [
+        "It is bent at a 90-degree angle relative to the original beam.",
+        "It is in the exact same line as the original beam without any shift.",
+        "It ends up traveling in its original direction, but is displaced to the side.",
+        "It is focused to a single point outside the glass block."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "When looking at a coin at the bottom of a container filled with water, the coin appears to be closer to the surface than it actually is. What is the cause of this illusion?",
+      "options": [
+        "Light rays are reflected off the bottom of the container, creating a real image above the water.",
+        "Refraction causes a virtual image to appear where the bent light rays seem to be coming from.",
+        "The water acts as a convex lens that magnifies the coin to make it look closer.",
+        "Total internal reflection prevents light from escaping, making the coin appear to float."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A lighting technician mixes equal amounts of red and green light on a white screen. What secondary colour is produced, and what would happen if they then added an equal amount of blue light?",
+      "options": [
+        "Yellow is produced; adding blue light makes the screen appear white.",
+        "Magenta is produced; adding blue light makes the screen appear cyan.",
+        "Cyan is produced; adding blue light makes the screen appear black.",
+        "Yellow is produced; adding blue light makes the screen appear green."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "A smartphone screen displays a bright yellow image of a banana. If you were to look at the screen through a powerful magnifying glass, what would you actually see?",
+      "options": [
+        "Tiny yellow and white light-emitting pixels.",
+        "Tiny red and green lights (pixels) varying in brightness to make the yellow colour.",
+        "Tiny yellow filters moving in front of a white backlight.",
+        "A continuous, smooth yellow liquid that changes shape."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "A student directs a beam of white sunlight through a transparent triangular prism. What is observed on a screen placed on the other side of the prism?",
+      "options": [
+        "A single, intensified spot of bright white light.",
+        "A visible light spectrum (rainbow) produced as the prism splits up the sunlight.",
+        "A shadow of the prism with no light passing through.",
+        "Three distinct spots of only red, green, and blue light with dark gaps between them."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Two people look at the same coloured light. One person has a condition where their green-sensitive cone cells do not function. Why do they perceive the colour differently?",
+      "options": [
+        "The light itself changes wavelength when entering their eyes.",
+        "Their rod cells are triggered instead of their cone cells, making everything look blue.",
+        "The colour we see depends on which cone cells are triggered to send a signal to the brain, and their inactive green cone cells change the triggered pattern.",
+        "Their brains are unable to process any electrical signals from the retina."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 34
+    }
+  ]
+}

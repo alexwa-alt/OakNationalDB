@@ -1,0 +1,226 @@
+{
+  "unitKey": "9Series circuitsPhysics",
+  "generatedAt": "2026-08-12T06:17:45.406212+00:00",
+  "questions": [
+    {
+      "question": "A scientist compares two different series circuits. Circuit A uses a 9V battery and Circuit B uses a 1.5V battery. Both circuits are otherwise identical. Why does Circuit A have a larger current flowing through it?",
+      "options": [
+        "The 9V battery is physically larger and contains more total electrons to release into the circuit.",
+        "The 9V battery has a stronger ability to 'push' the existing electric charges through the circuit.",
+        "The 9V battery reduces the overall resistance of the wires to allow easier flow.",
+        "The 9V battery creates a stronger electrostatic attraction that pulls protons toward its negative terminal."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In a series circuit, a 12V battery is connected to three bulbs. The voltage across Bulb A is measured as 5V, and the voltage across Bulb B is 4V. What is the voltage across Bulb C?",
+      "options": [
+        "12V, because each component in a series circuit receives the full battery voltage.",
+        "3V, because the voltages across the components must add up to the battery voltage.",
+        "9V, because the voltage across Bulb C is the sum of the voltages of Bulbs A and B.",
+        "1.5V, because the voltage is halved for each subsequent component in the loop."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A student connects three 1.5V cells in series to make a battery. What is the total voltage of this battery, and why?",
+      "options": [
+        "1.5V, because the voltage of a battery in series is equal to the voltage of a single cell.",
+        "4.5V, because the total voltage of cells in series is the sum of the individual cell voltages.",
+        "3.0V, because the total voltage is calculated by averaging the cell voltages.",
+        "0.5V, because the voltage of each cell is divided by the total number of cells in the circuit."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When a battery is connected to a complete series circuit, how do the electrons behave within the conducting wires?",
+      "options": [
+        "They vibrate back and forth around fixed positions without making any net progress through the loop.",
+        "They are pushed in a single, continuous direction all the way around the circuit loop.",
+        "They flow from both terminals of the battery simultaneously and meet in the middle of the circuit.",
+        "They alternate their direction of travel every few seconds as the battery's chemical charges swap sides."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A student states: 'Before we close the switch to turn on a circuit, the copper wires inside contain absolutely no electric charge.' Why is this statement incorrect?",
+      "options": [
+        "The copper wires are already fully charged with static electricity from being handled by the student.",
+        "The atoms making up the copper wires naturally contain positive and negative electric charges at all times.",
+        "The battery constantly leaks electric charges into the wires even when the switch is open.",
+        "Air molecules surrounding the open circuit continuously deposit charges onto the wire's surface."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A very long series circuit spans several meters across a classroom. When the switch is closed, a bulb at the far end lights up almost instantly. What explains this immediate response?",
+      "options": [
+        "The chemical reaction inside the battery increases its voltage instantaneously to push air through the circuit.",
+        "Electrons everywhere in the circuit start moving at the same time as soon as the circuit is complete.",
+        "A single electron travels from the battery to the far bulb at the speed of light.",
+        "The closing of the switch creates a physical vacuum that sucks the electrons instantly to the other side."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "While the electrical signal in a circuit travels extremely fast, the actual physical movement of individual electrons through the wire is characterized by which of the following?",
+      "options": [
+        "They zip along at nearly the speed of light.",
+        "They move very slowly, at a speed of just a few millimeters per second.",
+        "They do not move along the wire at all; only energy waves pass through them.",
+        "They travel at the speed of sound through the solid metal."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A technician is examining a faulty filament bulb that prevents a series circuit from working. What is the physical reason why current cannot flow through this bulb?",
+      "options": [
+        "The glass bulb has cracked, allowing air to increase the electric charge of the filament.",
+        "The filament is broken, which creates a physical gap in the circuit path that the current cannot cross.",
+        "The metal screw thread has become magnetized, which repels the incoming electrons.",
+        "The filament has melted together into a thick block, preventing the voltage from pushing through it."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A series circuit contains a battery, a switch, a working motor, and a faulty buzzer that has an internal break. The motor does not run. How can a technician get the motor to run without removing the faulty buzzer or adding another power source?",
+      "options": [
+        "Connect a wire from one terminal of the buzzer to the other terminal to bypass it.",
+        "Place a second switch in series next to the faulty buzzer.",
+        "Reverse the connections of the battery to push the current backward through the buzzer.",
+        "Open the switch to allow static charge to build up on the buzzer's casing."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following best describes the physical pathway of a series circuit?",
+      "options": [
+        "It contains multiple independent loops, allowing current to choose different paths.",
+        "It is an electric circuit with exactly one complete loop from one end of a battery to the other.",
+        "It is a network of wires where components are connected to ground at multiple points.",
+        "It is a circuit where every component is connected to its own separate power cell."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why is an ideal ammeter designed so that it can measure the current flowing through it without affecting the overall current in the circuit?",
+      "options": [
+        "It has a very high voltage that pushes the current faster to compensate for its presence.",
+        "It is designed to have no significant effect on the flow of current in the circuit it is connected into.",
+        "It absorbs all the electrons and replaces them with fresh ones from its internal battery.",
+        "It temporarily converts the electric current into static electricity to measure it."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A series circuit contains a battery, an ammeter, and two different bulbs (Bulb X and Bulb Y). Bulb X is much brighter than Bulb Y. If the ammeter measures 0.4 A before Bulb X, what will the current be at a point between Bulb X and Bulb Y?",
+      "options": [
+        "Less than 0.4 A, because Bulb X uses up some of the current to produce light.",
+        "Exactly 0.4 A, because the current in a series circuit is the same everywhere.",
+        "More than 0.4 A, because the current must speed up to reach the dimmer Bulb Y.",
+        "0.2 A, because the current is shared equally between the two bulbs."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A series circuit consists of a battery and a single bulb. A student adds a second bulb in series with the first one. What happens to the current in the circuit?",
+      "options": [
+        "The current decreases only in the wire after the second bulb, while remaining high before it.",
+        "The current remains exactly the same everywhere because the battery's voltage is unchanged.",
+        "The current changes everywhere in the circuit, on both sides of the new component.",
+        "The current increases everywhere because there are now more components to pull charge."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A student wants to measure the voltage across a resistor in a series circuit. How should they connect the voltmeter?",
+      "options": [
+        "Disconnect one wire from the resistor and insert the voltmeter in series in that gap.",
+        "Connect the voltmeter's terminals directly across the terminals of the resistor, in parallel with it.",
+        "Wrap the voltmeter's wires around the battery casing without touching the circuit wires.",
+        "Connect one terminal of the voltmeter to the resistor and the other to a metal water pipe."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A plastic rod is rubbed with a cloth and becomes statically charged. When held near some tiny pieces of paper (which contain electric charges), the paper pieces jump toward the rod. What does this demonstrate?",
+      "options": [
+        "Charged objects can only exert forces on metals that conduct electricity.",
+        "Objects with a static electric charge can exert a force on other objects that contain electric charge.",
+        "Static electricity physically turns non-magnetic materials into permanent magnets.",
+        "The rod must touch the paper pieces to transfer the charges before any force can exist."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Two suspended balloons are given electric charges. Balloon A is given a positive charge, and Balloon B is given a negative charge. If they are brought close to each other without touching, what will be observed?",
+      "options": [
+        "They will push away from each other because their charges are different.",
+        "They will attract each other because objects with opposite electric charges attract.",
+        "Nothing will happen because electrostatic forces require direct physical contact.",
+        "They will both lose their charges instantly and fall straight down."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "A student rubs two identical plastic rulers with the same woollen cloth, giving both rulers a negative charge. If the student brings the charged ends of the two rulers near each other, what will happen?",
+      "options": [
+        "They will repel each other because objects with the same electric charge repel each other.",
+        "They will attract each other because they are made of the same material.",
+        "They will neutralize each other and spark because their charges are identical.",
+        "They will show no interaction because static charges only affect unlike materials."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "Inside the atoms of a copper wire, there are particles with positive charges and particles with negative charges. What are the negatively charged particles called?",
+      "options": [
+        "Protons",
+        "Neutrons",
+        "Electrons",
+        "Nuclei"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "When a plastic rod is rubbed with a woollen cloth, the rod becomes negatively charged. What is the fundamental cause of this charging process?",
+      "options": [
+        "Positively charged protons are rubbed off the rod and onto the cloth.",
+        "Electrons are transferred from one object to another, depending on the materials they are made of.",
+        "The friction creates new negative charges that did not exist inside the atoms before.",
+        "Magnetic forces within the cloth convert neutral atoms into electrons."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "Why is it very difficult to build up a static electric charge on an iron rod by rubbing it while holding it in your bare hand?",
+      "options": [
+        "Iron atoms do not contain any electrons that can be transferred.",
+        "Metals are conductors, so the electric charge easily flows through them and prevents a charge from building up.",
+        "Iron has an extremely rough surface that destroys electrostatic charges as they form.",
+        "Metals repel all electrostatic forces, making them completely immune to charge transfer."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 38
+    }
+  ]
+}

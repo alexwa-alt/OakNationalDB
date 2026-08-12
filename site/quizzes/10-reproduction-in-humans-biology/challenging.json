@@ -1,0 +1,226 @@
+{
+  "unitKey": "10Reproduction in humansBiology",
+  "generatedAt": "2026-08-12T06:17:45.153935+00:00",
+  "questions": [
+    {
+      "question": "How do human gametes (sperm and egg cells) differ fundamentally from other body cells, such as skin or muscle cells?",
+      "options": [
+        "They are produced by mitotic division to ensure they contain identical genetic information to other body cells.",
+        "They carry only half the genetic material of the parent, enabling the restoration of a full set upon fertilisation.",
+        "They are the only cells in the body that can survive outside the reproductive organs without nutrient support.",
+        "They lack genetic material entirely until they fuse during the process of sexual reproduction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A child inherits a specific physical trait, such as eye colour, that resembles a mixture of both parents' traits. Which statement best explains this inheritance?",
+      "options": [
+        "The child receives 100% of their genetic material from the parent of the same sex, who controls physical traits.",
+        "The child receives all genetic instructions from the mother, while the father only provides physical nourishment.",
+        "The child receives half of their genetic material from each parent, resulting in a unique combination of inherited features.",
+        "The child receives unequal amounts of genetic material, with the stronger parent contributing 75% of the DNA."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "In human reproduction, where does the joining of the sperm and egg cell to form a zygote normally take place?",
+      "options": [
+        "Inside the ovary, immediately before ovulation occurs.",
+        "In the uterus, where the zygote immediately implants into the muscular wall.",
+        "In the fallopian tubes, after which the zygote travels towards the uterus.",
+        "In the vagina, shortly after intercourse has taken place."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following shows the correct chronological sequence of developmental stages starting from a fertilised egg?",
+      "options": [
+        "Embryo -> Zygote -> Foetus -> Baby",
+        "Zygote -> Embryo -> Foetus -> Baby",
+        "Foetus -> Zygote -> Embryo -> Baby",
+        "Zygote -> Foetus -> Embryo -> Baby"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "If a medical professional estimates that a pregnant woman is at week 20 of her pregnancy, what portion of the typical human gestation period is remaining?",
+      "options": [
+        "Approximately one-third of the gestation period.",
+        "Approximately half of the gestation period, which usually lasts about 40 weeks.",
+        "None, as human gestation typically lasts only 20 weeks in total.",
+        "Approximately three-quarters of the gestation period."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the primary protective function of the amniotic fluid surrounding the developing foetus?",
+      "options": [
+        "To provide a direct supply of oxygen and glucose to the foetal bloodstream.",
+        "To act as a physical shock absorber against external bumps and sudden movements.",
+        "To filter out toxic chemicals, alcohol, and viruses before they reach the foetus.",
+        "To stimulate the contractions of the uterus wall during the final stages of labour."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How does the placenta support the survival of the developing foetus inside the uterus?",
+      "options": [
+        "It allows the direct mixing of maternal and foetal blood to transfer whole cells.",
+        "It facilitates the exchange of nutrients and oxygen to the foetus, and removes carbon dioxide and waste products.",
+        "It acts as an impermeable barrier that prevents any substances from passing between mother and foetus.",
+        "It generates its own nutrients and oxygen independently to feed the foetus without using the mother's resources."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following describes the coordinated physiological events that happen during the process of childbirth?",
+      "options": [
+        "The vagina contracts to pull the baby upward while the cervix closes tightly.",
+        "The ovaries contract to release hormones while the fallopian tubes widen to guide the baby.",
+        "The cervix opens and the muscular walls of the uterus contract to push the baby out through the vagina.",
+        "The placenta contracts to push the baby out while the cervix remains completely closed to prevent infection."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why are pregnant women strongly advised to avoid drinking alcohol and smoking cigarettes?",
+      "options": [
+        "Alcohol and chemicals in cigarette smoke cannot pass through the placenta, causing them to build up in the mother's liver.",
+        "These substances can cross the placenta and directly affect the growth of the foetus, increasing the risk of premature birth and low birth weight.",
+        "These substances destroy the amniotic fluid, which immediately stops the foetus from moving.",
+        "Smoking and alcohol permanently block the fallopian tubes, preventing the baby from being born."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which of the following is classified as a potential long-term consequence for a child whose mother consumed high levels of alcohol during pregnancy?",
+      "options": [
+        "Temporary low birth weight that is fully resolved within the first week after birth.",
+        "Foetal alcohol spectrum disorder, which can cause permanent developmental and cognitive challenges.",
+        "A complete immunity to the effects of alcohol in adult life.",
+        "An immediate increase in the gestation period beyond 50 weeks."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is the main function of the testes in the male reproductive system?",
+      "options": [
+        "To produce and store eggs until they are ready to be fertilised.",
+        "To produce and store sperm cells, which are the male gametes.",
+        "To fertilise sperm cells using nutrients absorbed from the bladder.",
+        "To carry the developing embryo during the first few weeks of gestation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which statement accurately compares the production and release of gametes in human males and females?",
+      "options": [
+        "Males are born with all their sperm, whereas females constantly produce new eggs throughout their lives.",
+        "Females are born with all their eggs inside their ovaries and release one each month, while males continuously produce new sperm in their testes.",
+        "Both males and females are born with a fixed number of gametes that cannot be replaced or released after puberty.",
+        "Neither males nor females produce gametes until they reach adulthood, after which they release them daily."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Apart from producing gametes (sperm and eggs), what other critical function do both the testes and the ovaries perform?",
+      "options": [
+        "They produce digestive enzymes to break down nutrients for the zygote.",
+        "They make hormones that regulate development, puberty, and reproductive processes.",
+        "They filter waste products directly from the maternal blood supply.",
+        "They contract during childbirth to push the baby out of the body."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "When comparing the reproduction stage of life cycles, how does human reproduction differ from that of seed-producing plants?",
+      "options": [
+        "Humans produce a baby that grows into a new human, whereas these plants produce a seed that grows into a new plant.",
+        "Plants reproduce sexually to produce offspring, whereas humans only reproduce asexually.",
+        "Plants do not have any growth stage in their life cycle, while humans have several.",
+        "Human babies do not require any development to reach maturity, whereas seeds must undergo a gestation period inside a uterus."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What triggers the physical changes that occur in both male and female bodies during puberty?",
+      "options": [
+        "A sudden increase in physical exercise and dietary intake.",
+        "The production of specific sex hormones by the reproductive organs.",
+        "The rapid division of the zygote within the fallopian tubes.",
+        "A temporary decrease in the level of oxygen transported by red blood cells."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "What is the primary biological purpose of the physical changes that occur during puberty?",
+      "options": [
+        "To allow the body to stop producing hormones entirely.",
+        "To mature the reproductive systems so that adult humans are able to reproduce successfully.",
+        "To change the species resemblance so that offspring look entirely different from their parents.",
+        "To decrease the gestation period of future offspring to under 10 weeks."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A brother and sister have similar facial features and hair colour, but they do not look identical. What explains this family resemblance?",
+      "options": [
+        "They inherited all of their genetic material (DNA) from only one parent, but environmental factors made them look similar.",
+        "They inherited different combinations of genetic material (DNA) from both parents, which contains the instructions for building their features.",
+        "They share the same amniotic fluid, which chemically shapes their features during gestation.",
+        "One sibling inherited only maternal DNA, while the other inherited only paternal DNA."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "What is the fundamental role of the genetic material (DNA) passed from parents to offspring during fertilisation?",
+      "options": [
+        "It provides the physical energy needed for the embryo to move inside the uterus.",
+        "It contains the chemical instructions required for building the body and determining its specific features.",
+        "It acts as a protective fluid barrier that shields the zygote from mechanical damage.",
+        "It triggers the immediate breakdown of the uterus lining during the menstrual cycle."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "If fertilisation does not occur after an egg is released during ovulation, what event typically follows in the menstrual cycle?",
+      "options": [
+        "The egg immediately implants into the ovary and begins to divide into a zygote.",
+        "The uterus lining breaks down and leaves the body through the vagina in a process called menstruation.",
+        "The gestation period of 40 weeks immediately begins.",
+        "The cervix closes permanently to prevent any further eggs from being released."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "What is the main biological purpose of the monthly menstrual cycle in adult human females, which lasts about 28 days on average?",
+      "options": [
+        "To continuously produce new egg cells from the uterus walls.",
+        "To prepare the female body and the uterus lining for potential sexual reproduction and pregnancy.",
+        "To deliver oxygen and nutrients to the ovaries to prevent them from aging.",
+        "To stimulate the rapid contraction of the cervix during childbirth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    }
+  ]
+}

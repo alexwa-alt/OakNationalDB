@@ -1,0 +1,226 @@
+{
+  "unitKey": "11Fuels and energeticsChemistry",
+  "generatedAt": "2026-08-12T06:17:37.430574+00:00",
+  "questions": [
+    {
+      "question": "A student burns a small piece of ethanol under a copper can of water. Which statement best describes how energy is transferred to the water?",
+      "options": [
+        "Chemical energy in the ethanol is destroyed and recreated inside the water.",
+        "The burning fuel transfers energy to the water and can by heating the surroundings.",
+        "The fuel absorbs thermal energy from the water, which raises the temperature of the water.",
+        "Chemical energy from the surroundings is converted directly to mechanical work inside the water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "To compare the energy content of two different liquid fuels, a student heats a fixed volume of water in a boiling tube using each fuel. What observation would indicate which fuel transfers more energy per gram?",
+      "options": [
+        "The fuel that produces the smallest temperature rise in the water per gram burned.",
+        "The fuel that takes the longest time to extinguish after the flame is covered.",
+        "The fuel that produces the largest temperature rise in the water per gram burned.",
+        "The fuel that leaves the most soot on the bottom of the boiling tube."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A student wants to fairly compare the energy transferred by burning methanol and ethanol using a water calorimeter. Why must the student ensure that the mass of fuel burned is identical in both tests?",
+      "options": [
+        "To ensure that both fuels have the exact same chemical structure during the reaction.",
+        "Because different masses of fuel would release different amounts of energy, making the temperature change comparison invalid.",
+        "To guarantee that the volume of water in the boiling tube does not evaporate during heating.",
+        "Because the mass of the fuel determines the boiling point of the water being heated."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "In an experiment comparing three fuels, a student uses 20 ml of water starting at 20 degrees Celsius for Fuel A, 40 ml of water starting at 20 degrees Celsius for Fuel B, and 20 ml of water starting at 30 degrees Celsius for Fuel C. Why is this experimental setup invalid?",
+      "options": [
+        "The volume of water must be kept constant, but the starting water temperature has no effect on the final temperature rise.",
+        "Both the starting temperature and the volume of water must be kept the same to ensure the energy transferred causes a comparable temperature change.",
+        "The starting temperature of the water must be higher than the boiling point of the fuel for the test to work.",
+        "Only the room temperature needs to be controlled; the water volume and starting temperature are independent variables."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A liquid substance is cooled from 100 degrees Celsius to 20 degrees Celsius, and its temperature is plotted over time. A flat, horizontal line (plateau) is observed on the graph between minutes 5 and 10. What is happening during this time interval?",
+      "options": [
+        "The substance is rapidly heating up due to an endothermic process.",
+        "The substance is undergoing a state change, such as freezing, where temperature remains constant.",
+        "The substance is completely solid and its molecules have stopped moving.",
+        "The thermometer has failed and is no longer registering temperature changes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "While stearic acid cools and changes from a liquid to a solid in a boiling tube, what is happening to the energy of the system?",
+      "options": [
+        "The stearic acid is absorbing energy from the surroundings to break chemical bonds.",
+        "The stearic acid is transferring energy into the surroundings by heating as it freezes.",
+        "Energy is being created inside the stearic acid, causing it to become a solid.",
+        "No energy transfer occurs because the temperature of the substance remains constant during the state change."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When magnesium ribbon is added to hydrochloric acid in a polystyrene cup, the temperature of the solution rises from 21 degrees Celsius to 35 degrees Celsius. How should this reaction be classified?",
+      "options": [
+        "Endothermic, because energy is absorbed from the surroundings to break bonds.",
+        "Exothermic, because it causes an increase in the temperature of the surroundings.",
+        "Endothermic, because the chemical products have more energy than the reactants.",
+        "Exothermic, because energy is destroyed during the reaction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A student dissolves ammonium nitrate in water. The temperature of the mixture drops from 22 degrees Celsius to 14 degrees Celsius. Which statement correctly explains this observation?",
+      "options": [
+        "It is an endothermic reaction because energy is taken in, causing a decrease in the temperature of the surroundings.",
+        "It is an exothermic reaction because the surroundings lose thermal energy to the reactants.",
+        "It is a physical change that is neither endothermic nor exothermic because no gas was produced.",
+        "It is an endothermic reaction because energy is released, cooling down the water molecules."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "During a combustion reaction in a fireplace, how is energy transferred between the chemical system and the room?",
+      "options": [
+        "Energy is transferred from the surroundings into the chemical reactants.",
+        "Energy is transferred from the chemical reactants to the surroundings.",
+        "Energy is created within the surroundings without any transfer from the reactants.",
+        "Energy is transferred from the products to the reactants, keeping the surroundings cool."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "In a thermal decomposition reaction, copper carbonate is heated. Which statement describes the energy transfer in this endothermic process?",
+      "options": [
+        "Energy is transferred from the surroundings to the products.",
+        "Energy is transferred from the reactants to the surroundings.",
+        "The chemical products transfer energy back to the bunsen burner flame.",
+        "No energy transfer occurs because the temperature of the system decreases."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of the following sets of phase changes all require energy to be transferred into the substance from the surroundings, making them endothermic?",
+      "options": [
+        "Freezing, condensing, and boiling",
+        "Melting, evaporation, and boiling",
+        "Melting, freezing, and condensing",
+        "Evaporation, condensing, and freezing"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "When water vapour in the air touches a cold windowpane, it turns into liquid water droplets. Which statement correctly describes this process?",
+      "options": [
+        "This is condensing, which is an endothermic process that absorbs energy from the window.",
+        "This is freezing, which is an endothermic process that releases energy to the window.",
+        "This is condensing, which is an exothermic process that transfers energy to the surroundings.",
+        "This is evaporation, which is an exothermic process that cools the windowpane."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following statements is true regarding the current mix of electricity generation in the UK?",
+      "options": [
+        "Over half of the electricity is generated from renewable sources like the Sun, wind, and falling water.",
+        "Coal-fired power stations still generate more than 75% of the UK's electricity.",
+        "Nuclear power is the sole source of electricity, with solar and wind contributing less than 5%.",
+        "Over 90% of electricity is generated by burning imported wood pellets in thermal power stations."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In many non-renewable thermal power stations across the UK, what is the primary method used to produce the high-pressure steam needed for electricity generation?",
+      "options": [
+        "Splitting water molecules into hydrogen and oxygen gases using solar energy.",
+        "Burning fossil fuels like natural gas and oil to heat water.",
+        "Using geothermal heat from deep volcanic rocks to boil groundwater.",
+        "Burning coal in large open furnaces to directly heat the turbines."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which sequence correctly describes the mechanical steps that occur inside a steam-driven power station to generate electricity?",
+      "options": [
+        "Burning gas directly spins the generator, which pushes steam through the turbines.",
+        "Moving steam pushes turbines, which drive electric generators to produce electricity.",
+        "Electric generators create steam, which then spins the turbines to burn the fuel.",
+        "Turbines heat the water to make steam, which spins the electric generator."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How has the use of fossil fuels in UK power stations changed in recent years?",
+      "options": [
+        "Coal has completely replaced natural gas and oil as the main source of power.",
+        "Natural gas and oil are still used, but coal is no longer used in UK power stations.",
+        "No fossil fuels of any kind are permitted to be burned for electricity in the UK.",
+        "Coal and oil are widely used, while natural gas has been completely banned."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A local community is debating whether to replace a natural gas power plant with a biomass plant that burns wood and waste. What environmental factor must they consider regarding both options?",
+      "options": [
+        "Neither natural gas nor wood produces any greenhouse gases or pollutants when burned.",
+        "Only natural gas produces pollutants, while burning wood and waste is completely emissions-free.",
+        "Both natural gas and biomass (wood and waste) are fuels that produce greenhouse gases and pollutants when burned.",
+        "Burning waste produces only oxygen and water vapor, whereas natural gas produces sulfur dioxide."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why are energy resources such as wind, solar, and hydroelectric classified as 'renewable'?",
+      "options": [
+        "They do not require any turbines or generators to produce electricity.",
+        "They can be recycled in a laboratory after they have been used once.",
+        "They will not run out because they are replenished more quickly than we use them up.",
+        "They release energy through highly controlled nuclear fusion reactions."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which of the following lists contains only energy sources that can be burned to produce moving steam to spin a turbine?",
+      "options": [
+        "Wind, solar, and falling water",
+        "Biomass, oil, and gas",
+        "Solar panels, geothermal, and wind",
+        "Uranium, wind, and falling water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "How does electricity generation using solar panels differ fundamentally from generation using wind turbines or fossil-fuel power stations?",
+      "options": [
+        "Solar panels require steam to be created before they can function.",
+        "Solar panels produce electricity directly without using electric generators.",
+        "Solar panels must use an electric generator spun by light beams.",
+        "Solar panels are highly polluting because they must burn silicon to work."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    }
+  ]
+}
