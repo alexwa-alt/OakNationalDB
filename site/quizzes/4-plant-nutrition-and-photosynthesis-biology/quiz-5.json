@@ -1,0 +1,226 @@
+{
+  "unitKey": "4Plant nutrition and photosynthesisBiology",
+  "generatedAt": "2026-08-12T05:50:26.905822+00:00",
+  "questions": [
+    {
+      "question": "What structures are found inside the cells of plant leaves?",
+      "options": [
+        "Mitochondria only",
+        "Chloroplasts",
+        "Nuclei only",
+        "Ribosomes only"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In which specific cell structures does the process of photosynthesis take place?",
+      "options": [
+        "Chloroplasts",
+        "Vacuoles",
+        "Cell walls",
+        "Mitochondria"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What is the function of chlorophyll inside the chloroplasts?",
+      "options": [
+        "To absorb light for photosynthesis",
+        "To store water for the plant",
+        "To absorb minerals from the soil",
+        "To release carbon dioxide into the air"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why are most plant leaves very thin?",
+      "options": [
+        "To help water evaporate quickly from the surface",
+        "To allow light to pass through to the cells containing chloroplasts",
+        "To make them lighter so they do not weigh down the branches",
+        "To prevent herbivores from eating them easily"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How does having a large surface area benefit a plant's leaves?",
+      "options": [
+        "It helps them absorb more light for photosynthesis",
+        "It allows them to catch more falling rainwater",
+        "It prevents gases from escaping too quickly",
+        "It increases the rate of mineral absorption from the air"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which gas do plant leaves take in from the air for photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What happens to the oxygen produced during photosynthesis?",
+      "options": [
+        "It is entirely stored in the plant's roots as food",
+        "It is converted into minerals inside the stem",
+        "It is released as a gas from the leaves into the air",
+        "It is dissolved in water and kept in the vacuole"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the process of taking in and releasing gases through the leaves called?",
+      "options": [
+        "Transpiration pull",
+        "Osmosis",
+        "Active transport",
+        "Gas exchange"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What are the small holes on the surface of leaves called that allow gas exchange?",
+      "options": [
+        "Pores",
+        "Stomata",
+        "Chloroplasts",
+        "Capillaries"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "By what process do gas molecules move through open stomata?",
+      "options": [
+        "Active transport",
+        "Osmosis",
+        "Diffusion",
+        "Filtration"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "How do producers obtain their food?",
+      "options": [
+        "By absorbing decaying matter from the soil",
+        "By making their own food using photosynthesis",
+        "By consuming other living organisms",
+        "By filtering nutrients directly from rainwater"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Under what condition can the process of photosynthesis take place?",
+      "options": [
+        "Only in the presence of light",
+        "Only in the dark",
+        "Only when the temperature is below freezing",
+        "At any time, with or without light"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of the following describes the nature of photosynthesis?",
+      "options": [
+        "A single physical reaction that occurs outside cells",
+        "A series of chemical reactions that take place inside cells",
+        "A mechanical process of filtering air",
+        "A simple physical change of water into gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What are the reactants and products of photosynthesis?",
+      "options": [
+        "Reactants: water and oxygen; Products: carbon dioxide and glucose",
+        "Reactants: glucose and oxygen; Products: carbon dioxide and water",
+        "Reactants: water and carbon dioxide; Products: oxygen and glucose",
+        "Reactants: glucose and carbon dioxide; Products: water and oxygen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why do we use a word summary of the reactants and products of photosynthesis?",
+      "options": [
+        "To represent a model of the many chemical reactions involved",
+        "To list all the minerals a plant needs to grow",
+        "To describe how water moves up through the roots",
+        "To explain the physical structure of the leaf's stomata"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following groups of things do plants need to stay alive and grow?",
+      "options": [
+        "Only light and water",
+        "Light, air, water and minerals",
+        "Glucose, oxygen, soil and heat",
+        "Soil, shade, carbon dioxide and starch"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How do plants take in different materials from their environment?",
+      "options": [
+        "They take in light and gases through leaves, and water and minerals through roots",
+        "They take in water and gases through leaves, and light and minerals through roots",
+        "They take in minerals and gases through leaves, and light and water through roots",
+        "They take in all materials exclusively through their roots"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which statement is true regarding water, minerals, and plant nutrition?",
+      "options": [
+        "Water and minerals are the food that plants eat",
+        "Plants do not need food because they have water and minerals",
+        "Water and minerals are not food, but plants still need food to survive and grow",
+        "Water and minerals are converted into soil inside the roots"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Where do plants get their food from?",
+      "options": [
+        "They absorb organic food from the surrounding soil",
+        "They ingest food particles from the surrounding air",
+        "They do not take in food from their surroundings; they make it themselves",
+        "They absorb food directly from water in the ground"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What type of food do plants make, and how do they use it?",
+      "options": [
+        "They make carbohydrate, using it for growth and as an energy source",
+        "They make proteins, using them only to absorb water",
+        "They make fats, using them to insulate their leaves",
+        "They make minerals, using them to support their stems"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    }
+  ]
+}

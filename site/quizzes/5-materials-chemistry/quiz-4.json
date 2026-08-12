@@ -1,0 +1,204 @@
+{
+  "unitKey": "5MaterialsChemistry",
+  "generatedAt": "2026-08-12T05:50:28.120414+00:00",
+  "questions": [
+    {
+      "question": "Which of the following statements correctly describes the role of a catalyst in a chemical reaction?",
+      "options": [
+        "It slows down the reaction and is completely consumed.",
+        "It speeds up the reaction but is chemically changed by the end.",
+        "It speeds up the reaction without being used up or chemically changed.",
+        "It stops the reaction from happening by absorbing heat."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why can't a single catalyst be used for every chemical reaction?",
+      "options": [
+        "Catalysts are specific to particular reactions, meaning different reactions require different catalysts.",
+        "Catalysts can only work in gaseous reactions, not in liquids.",
+        "Every catalyst is used up during a reaction and cannot be reused elsewhere.",
+        "Catalysts only work if they are mixed with acids first."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What are enzymes, and what is their function in living cells?",
+      "options": [
+        "They are biological catalysts that speed up reactions in living cells.",
+        "They are non-living minerals that slow down digestion.",
+        "They are synthetic polymers that store genetic information.",
+        "They are metals that conduct electrical impulses in the brain."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "In a displacement reaction in solution, what determines which metal will displace another?",
+      "options": [
+        "The metal with the lower melting point will displace the one with the higher melting point.",
+        "The metal with the higher density will always displace the lighter metal.",
+        "A more reactive metal will displace a less reactive metal from its salt.",
+        "A less reactive metal will always displace a more reactive metal."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What are the products when magnesium is added to a solution of copper sulfate?",
+      "options": [
+        "Copper hydride and magnesium oxide",
+        "Magnesium sulfate solution and copper",
+        "Magnesium copper alloy and sulfur dioxide",
+        "Copper sulfate crystals and magnesium hydroxide"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "How can displacement reactions be used to investigate metals?",
+      "options": [
+        "To measure the exact boiling point of any given metal.",
+        "To turn less valuable metals into gold or platinum.",
+        "To confirm the position of a metal in the reactivity series.",
+        "To determine the magnetic strength of a transition metal."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What is a metal ore?",
+      "options": [
+        "A pure block of metal found deep underground.",
+        "A type of rock that contains a metal in a form that can be extracted.",
+        "A liquid alloy formed by volcanic activity.",
+        "A synthetic material used to coat metal wires."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Under what condition can carbon be used to extract a metal from its ore?",
+      "options": [
+        "Only when the metal is more reactive than carbon.",
+        "Only when carbon is more reactive than the metal.",
+        "Only if the metal ore is completely soluble in water.",
+        "Only if the extraction is done at room temperature without heating."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following is a typical set of properties for metals?",
+      "options": [
+        "Brittle, dull, poor thermal conductors, and low melting points.",
+        "Soft, soluble in water, and poor electrical conductors.",
+        "Strong, shiny, malleable, ductile, and good electrical conductors.",
+        "Gaseous at room temperature, highly acidic, and transparent."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How do ceramics change during their manufacturing process?",
+      "options": [
+        "They are made from soft substances and become hard and brittle when heated.",
+        "They are made from hard metals and become highly flexible when cooled.",
+        "They are made from liquid polymers that solidify into elastic sheets.",
+        "They are made from gases that condense into soft, gel-like materials."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which of the following best describes an alloy?",
+      "options": [
+        "A pure metal element that has been highly polished.",
+        "A mixture of elements that includes at least one metal.",
+        "A compound made strictly from non-metal elements.",
+        "A geological rock containing unextracted metal ores."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is the primary purpose of creating a composite material?",
+      "options": [
+        "To break down a complex material into its individual pure elements.",
+        "To combine materials to create a new material with improved properties.",
+        "To ensure that the material can dissolve easily in water.",
+        "To make a material that is highly reactive with oxygen."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How are polymers constructed at the molecular level?",
+      "options": [
+        "From giant metallic lattices held together by free electrons.",
+        "From small molecules called monomers that join together to form very long chains.",
+        "From individual atoms that remain completely separate and unbonded.",
+        "From alternating layers of silicon and oxygen atoms in a crystal grid."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What effect does adding a plasticiser have on a polymer?",
+      "options": [
+        "It gets between polymer molecules, allowing them to move over each other more easily.",
+        "It creates strong chemical bonds that lock all molecules rigidly in place.",
+        "It causes the polymer to dissolve instantly when exposed to air.",
+        "It turns the polymer into a highly conductive metal alloy."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How do cross-links between polymer molecules affect the physical properties of a polymer?",
+      "options": [
+        "They make the polymer much softer and highly soluble.",
+        "They make the polymer harder and less flexible.",
+        "They cause the polymer molecules to slide past each other much faster.",
+        "They turn the polymer into a gas at room temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "When a reactive metal reacts with an acid, what are the typical products formed?",
+      "options": [
+        "A metal hydroxide and oxygen gas",
+        "A metal oxide and water vapor",
+        "A metal salt and hydrogen gas",
+        "Pure carbon and nitrogen dioxide"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What products are obtained when certain highly reactive metals react with water?",
+      "options": [
+        "A metal oxide and chlorine gas",
+        "A metal hydroxide and hydrogen gas",
+        "A metal carbonate and carbon dioxide",
+        "A metal sulfate and oxygen gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What information does the reactivity series for metals provide?",
+      "options": [
+        "It shows how vigorously metals react, compared to each other.",
+        "It lists metals in order of their electrical conductivity.",
+        "It shows the abundance of different metals in the Earth's crust.",
+        "It classifies metals based on their cost and rarity."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    }
+  ]
+}

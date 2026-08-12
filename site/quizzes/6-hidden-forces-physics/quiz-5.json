@@ -1,0 +1,171 @@
+{
+  "unitKey": "6Hidden forcesPhysics",
+  "generatedAt": "2026-08-12T05:50:32.757855+00:00",
+  "questions": [
+    {
+      "question": "When is an entire object considered to be floating on water?",
+      "options": [
+        "Only when it is completely out of the water",
+        "If any part of it remains above the water's surface",
+        "Only when exactly half of it is submerged",
+        "When it sinks to the very bottom"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A student wants to test if a toy boat floats better in a deep swimming pool or a shallow basin of water. How does the depth of the liquid affect how well an object floats?",
+      "options": [
+        "It floats much better in deeper water",
+        "It floats much better in shallower water",
+        "Floating does not depend on the depth of the liquid",
+        "An object can only float if the liquid's depth is twice the object's height"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Under what condition will an object float in water based on its shape and mass?",
+      "options": [
+        "If its shape can push its own mass of water out of the way without going under",
+        "If its shape is perfectly spherical to minimize contact area",
+        "If its shape is designed to trap at least half its mass in air",
+        "If its shape allows it to absorb water to increase its weight"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Approximately how much force is required to lift a 1 kg mass vertically upwards on Earth?",
+      "options": [
+        "1 N",
+        "10 N",
+        "100 N",
+        "1000 N"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "If a spring is stretched within its elastic limit, how does its extension change as you add equal increments of force?",
+      "options": [
+        "The extension increases by the same amount for each equal increase in force",
+        "The extension increases by doubling for each equal increase in force",
+        "The extension increases by smaller and smaller amounts",
+        "The extension remains completely constant regardless of force"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What makes a spring described as an elastic material?",
+      "options": [
+        "It can be stretched to any length without ever breaking",
+        "It returns to its original length when the stretching force is removed",
+        "It permanently changes its shape after a single force is applied",
+        "It increases in temperature whenever it is compressed"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is a primary mechanical function of a lever in terms of force?",
+      "options": [
+        "Levers can multiply a small force into a larger force",
+        "Levers can eliminate the force of gravity on a load",
+        "Levers can convert electrical energy directly into mechanical force",
+        "Levers can decrease the force required to keep an object at rest"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following best describes the concept of pressure?",
+      "options": [
+        "Pressure is a measure of the total weight of an object",
+        "Pressure is a measure of how concentrated a force is",
+        "Pressure is a measure of the speed of a moving object",
+        "Pressure is a measure of the volume of liquid displaced"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which formula is used to calculate pressure?",
+      "options": [
+        "Pressure = force × area",
+        "Pressure = force ÷ area",
+        "Pressure = mass × area",
+        "Pressure = force + area"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is another name for the unit of pressure 'newtons per square metre' (N/m²)?",
+      "options": [
+        "The Joule (J)",
+        "The Pascal (Pa)",
+        "The Watt (W)",
+        "The Newton (N)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why does the pressure in a liquid increase as you go deeper?",
+      "options": [
+        "The density of the liquid increases exponentially with depth",
+        "There is more liquid above pushing down",
+        "The temperature of the liquid decreases with depth",
+        "The gravity acting on the liquid increases at the bottom"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why does atmospheric pressure reduce with increasing height?",
+      "options": [
+        "The air temperature becomes much hotter at high altitudes",
+        "There is less air above pushing down",
+        "The Earth's gravity is significantly stronger at high altitudes",
+        "The wind speed decreases the density of the air"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "How does the extension of a rubber band behave when you apply equal-sized increases in force?",
+      "options": [
+        "The extension increases by the same amount for each equal increase in force",
+        "The extension increases by different amounts for each equal-sized increase in force",
+        "The extension does not change at all until the band snaps",
+        "The extension decreases with each increase in force"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What happens to the particles in a floor when a bigger mass is placed on it?",
+      "options": [
+        "They expand and become much less dense",
+        "More particles in the floor are squashed together",
+        "They begin to slide past each other like a liquid",
+        "They are destroyed by the weight of the mass"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "How is the turning effect, or moment, of a force calculated?",
+      "options": [
+        "Moment = force ÷ distance from the pivot",
+        "Moment = force × perpendicular distance from the pivot",
+        "Moment = mass × distance from the pivot",
+        "Moment = force + distance from the pivot"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    }
+  ]
+}

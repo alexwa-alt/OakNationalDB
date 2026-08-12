@@ -1,0 +1,182 @@
+{
+  "unitKey": "7Adaptations, competition, natural selection and evolutionBiology",
+  "generatedAt": "2026-08-12T05:50:28.541469+00:00",
+  "questions": [
+    {
+      "question": "In a classroom activity, students try to pick up green and white cocktail sticks from a patch of green grass in a limited amount of time. What is this simple model designed to demonstrate?",
+      "options": [
+        "How fossils are formed in sedimentary rock",
+        "Natural selection based on camouflage and predation",
+        "The rate of photosynthesis in different light conditions",
+        "The competition between plants for space and minerals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In the cocktail stick model, if the green grass becomes completely covered in white snow, how would you predict the outcome of the activity to change?",
+      "options": [
+        "Green sticks will become harder to find than white sticks.",
+        "White sticks will become easier to find and be picked up first.",
+        "Both green and white sticks will be impossible to see.",
+        "Green sticks will be easier to find and be picked up first."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What scientific term is used to describe the special features that make an organism well suited to survive in its environment?",
+      "options": [
+        "Adaptations",
+        "Variations",
+        "Fossils",
+        "Competitions"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why are organisms within an ecosystem constantly in competition with one another?",
+      "options": [
+        "Because resources are limited and they need them to survive",
+        "Because they want to help other species survive",
+        "Because predators always outnumber prey animals",
+        "Because their habitats are constantly expanding"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Plants in a crowded woodland often grow very tall. Which resource are they primarily competing for in this situation?",
+      "options": [
+        "Pollinators",
+        "Shelter",
+        "Light",
+        "Mates"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why are some individuals within a population more successful at competing for resources than others?",
+      "options": [
+        "Because they do not require any energy to survive",
+        "Because variation means some individuals are better adapted than others",
+        "Because they choose to change their features to match their surroundings",
+        "Because they belong to a species that does not experience variation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "In science, what is a \"scientific theory\"?",
+      "options": [
+        "A temporary guess made by scientists without any supporting evidence",
+        "A general explanation developed from evidence that explains many different examples",
+        "A set of rules that cannot be changed even if new evidence is found",
+        "A single observation about a specific, isolated event in nature"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which statement best describes how new advantageous features appear in a population over time?",
+      "options": [
+        "They are planned in advance by the organisms when they need them.",
+        "They appear randomly and are maintained by natural selection.",
+        "They are created by the environment to help weak organisms survive.",
+        "They develop because organisms practice using them during their lives."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A bodybuilder works out regularly and develops very large, strong muscles. Why is this change not considered an example of biological evolution?",
+      "options": [
+        "Because the change occurred within the individual's lifetime",
+        "Because large muscles do not provide any survival advantage",
+        "Because the individual did not use any genetic instructions to grow them",
+        "Because the change was caused by a random genetic mutation"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What are all fossils composed of?",
+      "options": [
+        "The original, unchanged soft tissues of ancient organisms",
+        "Hardened wax and plastic materials from ancient environments",
+        "The mineralised remains of once-living organisms or their traces",
+        "Volcanic ash that has cooled down rapidly in water"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What do fossil sequences of ancestral horses showing a reduction in the number of toes over millions of years demonstrate?",
+      "options": [
+        "That horse ancestors did not compete for food",
+        "That the features of some species have changed over time",
+        "That horses have remained completely unchanged since Earth formed",
+        "That fossils cannot show how organisms lived in the past"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "An oak tree loses a large branch during a severe storm, leaving a scar. Why is this environmental variation not passed on to its offspring?",
+      "options": [
+        "Because environmental variation is not heritable",
+        "Because the offspring will grow in a different location",
+        "Because only positive changes can be passed on to offspring",
+        "Because trees do not reproduce using genetic information"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Some rabbits are born with thicker fur because of the genetic information they received from their parents. What is true about this genetic variation?",
+      "options": [
+        "It cannot be passed on to any future generations.",
+        "It is heritable and can be passed on to offspring.",
+        "It is caused entirely by the rabbit's lifestyle and diet.",
+        "It will disappear as soon as the weather becomes warmer."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "According to the theory of natural selection, which individuals are most likely to pass on their features to the next generation?",
+      "options": [
+        "The individuals that have acquired injuries during their lifetimes",
+        "The individuals that are the least adapted to their environment",
+        "The individuals that reproduce the slowest in the population",
+        "The fittest individuals with heritable, advantageous features"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "According to scientific evidence, approximately how long ago was the Earth formed?",
+      "options": [
+        "4.5 million years ago",
+        "4.5 billion years ago",
+        "350 thousand years ago",
+        "500 million years ago"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Based on scientific evidence, which of the following groups of organisms appeared most recently on Earth?",
+      "options": [
+        "Land plants",
+        "Mammals",
+        "Modern humans",
+        "Microorganisms"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 35
+    }
+  ]
+}

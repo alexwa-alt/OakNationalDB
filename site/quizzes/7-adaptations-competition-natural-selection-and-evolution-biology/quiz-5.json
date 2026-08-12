@@ -1,0 +1,182 @@
+{
+  "unitKey": "7Adaptations, competition, natural selection and evolutionBiology",
+  "generatedAt": "2026-08-12T05:50:31.832503+00:00",
+  "questions": [
+    {
+      "question": "In a classroom experiment, students use tweezers to pick up green and white cocktail sticks scattered on green grass. What is this simple model demonstrating?",
+      "options": [
+        "How photosynthesis works in plants",
+        "Natural selection based on camouflage",
+        "The rate of fossilisation in different soils",
+        "How human muscles grow stronger with exercise"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If a model of natural selection uses green and white cocktail sticks on a green lawn, how would the predicted outcome change if a sudden snowfall turned the lawn white?",
+      "options": [
+        "White cocktail sticks would now be collected more quickly than green ones",
+        "Green cocktail sticks would become easier to see and would be picked up more quickly",
+        "Both colors would become equally difficult to see, ending selection",
+        "The cocktail sticks would spontaneously change color to match the snow"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What term is used to describe the specific features that make an organism well suited to survive and reproduce in its environment?",
+      "options": [
+        "Variations",
+        "Adaptations",
+        "Habitats",
+        "Formations"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why must living organisms compete with each other within their habitat?",
+      "options": [
+        "Because resources like food, water, and space are limited",
+        "Because they need to practice their physical skills",
+        "Because ecosystems are designed to destroy weak species",
+        "Because organisms always try to help other species survive"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How does variation within a species affect competition for resources?",
+      "options": [
+        "It ensures that all individuals have exactly the same chance of obtaining resources",
+        "It means some individuals are better adapted and can compete more successfully than others",
+        "It prevents any competition from occurring in the habitat",
+        "It causes individuals to stop reproducing to save resources"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How do scientists explain the gradual change of species over many generations?",
+      "options": [
+        "By using the theory of evolution by natural selection",
+        "By studying how individuals stretch their limbs during their lifetimes",
+        "By assuming that organisms decide which features they want to develop",
+        "By proving that environmental injuries are passed on to offspring"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following statements is true regarding how new advantageous features arise in a population?",
+      "options": [
+        "They are planned in advance by the organism to meet a future environmental change",
+        "They appear randomly and are maintained over generations by natural selection",
+        "They are created by the organism's lifestyle choices during its lifetime",
+        "They always appear in all members of a species at the exact same moment"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A bodybuilder works out regularly and develops very large muscles. Why is this change not considered an example of biological evolution?",
+      "options": [
+        "Because evolution only occurs in plants, not in animals or humans",
+        "Because changes in the features of an individual within its lifetime are not evolution",
+        "Because muscle growth is controlled entirely by genetic mutations from birth",
+        "Because biological evolution can only happen if the individual lives in water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which of the following is the most accurate scientific definition of a fossil?",
+      "options": [
+        "The preserved footprints of modern animals made in soft mud last year",
+        "The mineralised remains of once-living organisms or of traces left behind by them",
+        "Any rock that has been shaped by wind and water to look like a plant leaf",
+        "A manufactured replica of dinosaur bones used in museum displays"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What do fossil records show about the historical characteristics of species over long periods?",
+      "options": [
+        "That the features of species have remained completely unchanged since Earth formed",
+        "That the features of some species have changed gradually over time",
+        "That all ancient species looked identical to modern species",
+        "That species only change their physical features when they are asleep"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "An animal loses a leg in an accident, resulting in a physical variation. Why is this environmental variation not passed on to its offspring?",
+      "options": [
+        "Because environmental variation is not heritable",
+        "Because offspring always have the opposite features of their parents",
+        "Because injuries are stored in the animal's genetic code",
+        "Because offspring are only influenced by the father's lifestyle"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Why can genetic variation, such as the instructions for camouflaged skin, be passed on to the next generation?",
+      "options": [
+        "Because it is acquired through physical exercise during the organism's lifetime",
+        "Because genetic variation is heritable",
+        "Because it is caused by environmental injuries which alter reproductive cells",
+        "Because organisms can choose which genes to copy for their offspring"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "According to the theory of natural selection, what is the most likely outcome for individuals that are better adapted to their environment?",
+      "options": [
+        "They are more likely to survive, reproduce, and pass on their heritable, advantageous features",
+        "They will immediately mutate into a different species within their own lifetime",
+        "They will stop competing and cooperate to share all food equally",
+        "They will pass on all of their acquired lifestyle injuries to their offspring"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "According to scientific evidence, approximately how long ago was the Earth formed?",
+      "options": [
+        "4.5 million years ago",
+        "4.5 billion years ago",
+        "3.8 billion years ago",
+        "350 thousand years ago"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Based on scientific evidence, which of the following groups of organisms appeared most recently on Earth?",
+      "options": [
+        "First land plants",
+        "First mammals",
+        "Modern humans",
+        "Microorganisms"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "Why do scientists divide the history of the Earth into eons, periods, and epochs?",
+      "options": [
+        "To make the vast timescale of Earth's history easier to understand",
+        "To prove that evolution happens at exactly the same speed in every era",
+        "To match the calendar months used in modern civilisations",
+        "To show that the Earth's environment never changed over billions of years"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 36
+    }
+  ]
+}

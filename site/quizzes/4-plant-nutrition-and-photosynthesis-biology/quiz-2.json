@@ -1,0 +1,171 @@
+{
+  "unitKey": "4Plant nutrition and photosynthesisBiology",
+  "generatedAt": "2026-08-12T05:50:24.527929+00:00",
+  "questions": [
+    {
+      "question": "Which microscopic structures inside leaf cells are responsible for carrying out photosynthesis?",
+      "options": [
+        "Mitochondria",
+        "Chloroplasts",
+        "Nuclei",
+        "Vacuoles"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In which part of a plant cell does the chemical process of photosynthesis actually take place?",
+      "options": [
+        "The cell wall",
+        "The cytoplasm",
+        "The chloroplasts",
+        "The vacuole"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What is the role of chlorophyll, the green substance found inside chloroplasts?",
+      "options": [
+        "To absorb light energy for photosynthesis",
+        "To absorb water from the soil",
+        "To release oxygen into the air",
+        "To store glucose as starch"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How does the thinness of a plant leaf help it perform photosynthesis efficiently?",
+      "options": [
+        "It prevents water from evaporating too quickly",
+        "It allows sunlight to easily pass through to the chloroplast-containing cells",
+        "It makes the leaf lightweight so it can float",
+        "It allows carbon dioxide to be stored in large quantities"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why do most plant leaves have a broad, flat shape with a large surface area?",
+      "options": [
+        "To protect the plant from being eaten by herbivores",
+        "To maximize the absorption of light for photosynthesis",
+        "To catch rain more effectively",
+        "To allow oxygen to escape faster"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which gas do plant leaves absorb directly from the surrounding air to use as a reactant in photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Water vapor"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What happens to the oxygen gas that is produced during the process of photosynthesis?",
+      "options": [
+        "It is immediately turned into glucose",
+        "It is released from the leaves into the surrounding air",
+        "It is transported down to the roots to be stored",
+        "It is converted into minerals for plant growth"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What are the tiny pores or holes on the surface of a leaf called that allow gases to enter and exit?",
+      "options": [
+        "Chloroplasts",
+        "Veins",
+        "Stomata",
+        "Capillaries"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "By which scientific process do gas molecules move through open stomata into and out of a leaf?",
+      "options": [
+        "Osmosis",
+        "Diffusion",
+        "Active transport",
+        "Evaporation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why are plants referred to as \"producers\" in an ecosystem?",
+      "options": [
+        "They produce seeds to grow new plants",
+        "They make their own food using the process of photosynthesis",
+        "They produce oxygen for plants to breathe",
+        "They absorb food directly from the soil"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Under which of the following conditions is photosynthesis able to occur in plants?",
+      "options": [
+        "Only during the night when it is cool",
+        "Only when there is light available",
+        "Only when the soil is completely dry",
+        "At any time, regardless of light levels"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What are the reactants needed for photosynthesis, and what are the products made?",
+      "options": [
+        "Reactants: oxygen and glucose; Products: water and carbon dioxide",
+        "Reactants: water and carbon dioxide; Products: oxygen and glucose",
+        "Reactants: minerals and light; Products: water and carbon dioxide",
+        "Reactants: carbon dioxide and oxygen; Products: glucose and minerals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How do plants obtain the different resources they need from their environment?",
+      "options": [
+        "They take in water through leaves, and light and minerals through roots",
+        "They take in light and gases through leaves, and water and minerals through roots",
+        "They take in all resources solely through their roots",
+        "They take in all resources solely through their leaves"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which of the following statements is true about how plants obtain food?",
+      "options": [
+        "They absorb dissolved food molecules from the soil through their roots",
+        "They feed on tiny organic particles floating in the air",
+        "They do not take in food from their surroundings; they make it themselves",
+        "They ingest food through microscopic mouth-like openings on their stems"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What type of substance is the food made by plants during photosynthesis, and what is it used for?",
+      "options": [
+        "It is a mineral used to strengthen the stem",
+        "It is a carbohydrate used for growth and as an energy source",
+        "It is a protein used to absorb more water from the soil",
+        "It is a lipid used to keep the leaves waterproof"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    }
+  ]
+}

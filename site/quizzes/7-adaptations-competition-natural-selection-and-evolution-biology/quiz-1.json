@@ -1,0 +1,193 @@
+{
+  "unitKey": "7Adaptations, competition, natural selection and evolutionBiology",
+  "generatedAt": "2026-08-12T05:50:30.664535+00:00",
+  "questions": [
+    {
+      "question": "In a simple classroom model of natural selection where students act as predators collecting cocktail sticks from grass, which color of cocktail stick is most likely to be collected first?",
+      "options": [
+        "Green cocktail sticks, because they blend in with the grass.",
+        "White cocktail sticks, because they stand out against the green grass.",
+        "Both colors equally, as predators always hunt randomly.",
+        "Only the cocktail sticks that are closest to the classroom door."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In the model where students pick up green and white cocktail sticks from grass, what would likely happen to the prediction if a heavy frost turns the lawn completely white?",
+      "options": [
+        "Green cocktail sticks would become harder to see and less likely to be picked up.",
+        "White cocktail sticks would become easier to see and more likely to be picked up.",
+        "White cocktail sticks would become harder to see and less likely to be picked up.",
+        "There would be no change in how easily either color is spotted."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What scientific term is used to describe the features that make a species well suited to survive in its particular environment?",
+      "options": [
+        "Adaptations",
+        "Variations",
+        "Acquisitions",
+        "Habitats"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why do living organisms need to obtain resources like food, water, and space from their habitat?",
+      "options": [
+        "To allow them to change their DNA to suit their wishes.",
+        "To enable them to survive and function.",
+        "To prevent other species from entering their habitat.",
+        "To ensure the environment remains clean and tidy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why do individual organisms in a habitat have to compete with each other?",
+      "options": [
+        "Because resources are limited and there is not enough for every individual.",
+        "Because organisms enjoy fighting with members of their own species.",
+        "Because predators force them to compete to entertain themselves.",
+        "Because their habitats are always expanding too quickly."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How does variation within a population affect competition among individuals?",
+      "options": [
+        "It makes all individuals equally successful at gathering resources.",
+        "It means some individuals are better adapted to compete more successfully than others.",
+        "It prevents any competition from taking place in the habitat.",
+        "It ensures that only the largest individuals can ever find food."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which theory do scientists use to explain how species change and develop over long periods of time?",
+      "options": [
+        "The theory of inheritance of acquired characteristics",
+        "The theory of rapid environmental creation",
+        "The theory of evolution by natural selection",
+        "The theory of spontaneous generation"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following is true about how new advantageous features arise in a species?",
+      "options": [
+        "They are planned in advance by the species to prepare for future climates.",
+        "They appear randomly and are maintained over generations by natural selection.",
+        "They are designed by the organisms when they need to solve a survival problem.",
+        "They only appear when an organism physically stretches or trains its body."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "An athlete builds very large muscles through intensive weight training during their lifetime. Why is this change not considered evolutionary?",
+      "options": [
+        "Muscle growth is a genetic change that happens too quickly to be noticed.",
+        "Changes in the features of an individual within its lifetime are not evolution.",
+        "Evolutionary changes only happen to plants, not to animals.",
+        "The athlete did not train for a long enough period of time."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is a scientific definition of all fossils?",
+      "options": [
+        "Fresh plant matter that has been dried out in the desert sun.",
+        "The mineralised remains or traces of once-living organisms.",
+        "Any rock that looks like a modern animal or plant.",
+        "Remains of organisms that have been frozen in ice for less than ten years."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following represents a limitation when drawing conclusions from fossil evidence?",
+      "options": [
+        "Fossils can never show us what prehistoric organisms looked like.",
+        "The fossil record is incomplete, meaning not all organisms that ever lived formed fossils.",
+        "Fossils are only found in volcanic rock, which destroys all detailed features.",
+        "We cannot use modern scientific tools to study the age of fossils."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why is environmental variation, such as a scar from an injury, not passed on to an organism's offspring?",
+      "options": [
+        "Environmental variation is not heritable.",
+        "Offspring always heal their parents' scars before birth.",
+        "Scars are stored in the genetic code but are kept hidden.",
+        "Only positive lifestyle changes can be inherited by offspring."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which type of variation can be passed on to offspring because it is coded in genetic information?",
+      "options": [
+        "Lifestyle variation, such as fitness from daily running.",
+        "Environmental variation, such as a tan from sunlight.",
+        "Genetic variation, such as instructions for camouflaged skin.",
+        "Accidental variation, such as a broken bone."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "In a population where individuals compete for survival, which individuals are most likely to reproduce?",
+      "options": [
+        "The oldest individuals, regardless of how well they are adapted.",
+        "The fittest (better adapted) individuals.",
+        "The individuals with the most environmental injuries.",
+        "Only the individuals that do not have any genetic variation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Based on scientific evidence, approximately how long ago was the Earth formed?",
+      "options": [
+        "4.5 million years ago",
+        "450 thousand years ago",
+        "4.5 billion years ago",
+        "3.8 billion years ago"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "According to scientific evidence, around how many years ago did the first living organisms (microorganisms) appear on Earth?",
+      "options": [
+        "3.8 billion years ago",
+        "4.5 billion years ago",
+        "500 million years ago",
+        "350 thousand years ago"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "Which of the following correctly matches the estimated appearance of groups of organisms according to scientific evidence?",
+      "options": [
+        "First mammals 500mya, modern humans 200mya, first land plants 350k years ago.",
+        "First land plants 500mya, first mammals 200mya, modern humans 350k years ago.",
+        "First land plants 200mya, first mammals 500mya, modern humans 350k years ago.",
+        "Modern humans 500mya, first land plants 200mya, first mammals 350k years ago."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    }
+  ]
+}

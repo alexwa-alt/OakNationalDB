@@ -1,0 +1,171 @@
+{
+  "unitKey": "8Carbon cycle and climate changeChemistry",
+  "generatedAt": "2026-08-12T05:50:27.416168+00:00",
+  "questions": [
+    {
+      "question": "What is the molecular composition of a single molecule of carbon dioxide?",
+      "options": [
+        "One carbon atom and one oxygen atom",
+        "Two carbon atoms and one oxygen atom",
+        "One carbon atom and two oxygen atoms",
+        "Two carbon atoms and two oxygen atoms"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Approximately what percentage of the Earth's atmosphere is made up of carbon dioxide?",
+      "options": [
+        "0.04 %",
+        "0.40 %",
+        "4.00 %",
+        "21.00 %"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following gases is classified as a greenhouse gas?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Argon",
+        "Carbon dioxide"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the primary consequence of having too many greenhouse gases in the atmosphere?",
+      "options": [
+        "An increase in average global temperature, known as global warming",
+        "A rapid decrease in the atmospheric pressure",
+        "The complete depletion of the ozone layer",
+        "An increase in the concentration of nitrogen gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What type of rock is coal, and why does it burn?",
+      "options": [
+        "It is an igneous rock that burns because of trapped volcanic gases.",
+        "It is a sedimentary rock that burns because it is made mostly of carbon, with some impurities.",
+        "It is a metamorphic rock that burns due to high concentrations of sulfur.",
+        "It is a sedimentary rock that burns because it is composed entirely of pure liquid hydrocarbons."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "From what material does coal originally form over millions of years?",
+      "options": [
+        "Deep sediments of organic matter made of prehistoric plants",
+        "Volcanic ash layers mixed with molten lava",
+        "Mineral deposits from ancient saltwater lakes",
+        "Decomposed skeletons of prehistoric marine reptiles"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How did oil and natural gas form millions of years ago?",
+      "options": [
+        "From the compression of giant prehistoric forest trees",
+        "From dead plankton mixed in with sediments",
+        "From volcanic eruptions under high atmospheric pressure",
+        "From the accumulation of wind-blown desert sands"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Where exactly are oil and natural gas located underground?",
+      "options": [
+        "In massive hollow caves within metamorphic rock",
+        "In the pores of sedimentary rock",
+        "Flowing freely as underground rivers between igneous rock layers",
+        "Trapped inside solid crystals of quartz and granite"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which processes are responsible for the formation of sedimentary rock from buried sediment?",
+      "options": [
+        "Melting by magma and subsequent rapid cooling at the surface",
+        "Intense heat and pressure that recrystallize minerals without melting",
+        "Compression of the sediment and cementation of grains by salts from fluids",
+        "The cooling and crystallization of dissolved minerals in open air"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What happens to bones buried in sedimentary rock over a very long period?",
+      "options": [
+        "They are melted by geothermal heat into liquid calcium.",
+        "They are very slowly dissolved by water and replaced by minerals in the water.",
+        "They shrink and turn directly into natural gas within the rock pores.",
+        "They remain completely unchanged and do not interact with groundwater."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is the primary composition of Earth's atmosphere?",
+      "options": [
+        "50% Nitrogen and 50% Oxygen",
+        "78% Nitrogen and 21% Oxygen, with very small amounts of other gases and particles",
+        "78% Oxygen and 21% Carbon dioxide, with very small amounts of nitrogen",
+        "90% Nitrogen, 9% Oxygen, and 1% Water vapour"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is the scientific test to confirm the presence of carbon dioxide gas?",
+      "options": [
+        "It relights a glowing splint.",
+        "It burns with a squeaky pop sound.",
+        "It turns damp red litmus paper blue.",
+        "It forms a white precipitate that turns limewater milky."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "How does erosion differ from weathering?",
+      "options": [
+        "Erosion is the chemical breakdown of rock, whereas weathering is the physical breakdown.",
+        "Erosion is the process that removes material from where bedrock has been broken down, whereas weathering happens 'in place'.",
+        "Erosion only occurs in oceans, while weathering only occurs on high mountaintops.",
+        "Erosion happens instantly, while weathering takes billions of years to start."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What effect does combustion have on the gases in Earth's atmosphere?",
+      "options": [
+        "It decreases the amount of nitrogen gas.",
+        "It increases the amount of carbon dioxide.",
+        "It increases the amount of oxygen gas.",
+        "It has no effect on atmospheric composition."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Which of the following processes reduces the amount of carbon dioxide in the atmosphere?",
+      "options": [
+        "Respiration by animals",
+        "Combustion of fossil fuels",
+        "Photosynthesis by plants, phytoplankton and some bacteria",
+        "Decomposition of dead plants and animals"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    }
+  ]
+}
