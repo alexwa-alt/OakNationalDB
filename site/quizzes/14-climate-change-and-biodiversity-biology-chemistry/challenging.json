@@ -1,0 +1,226 @@
+{
+  "unitKey": "14Climate change and biodiversityBiologyChemistry",
+  "generatedAt": "2026-08-12T06:20:15.241681+00:00",
+  "questions": [
+    {
+      "question": "Why does the widespread packaging of supermarket foods in traditional plastics pose a long-term resource depletion problem, even before the plastic becomes waste?",
+      "options": [
+        "Traditional plastics are synthesized from finite crude oil and natural gas reserves, which cannot be replenished as fast as they are consumed.",
+        "The chemical bonds in traditional plastics require more solar energy to synthesize than is available globally.",
+        "Modern recycling facilities must consume fossil fuels to break down the highly stable polymers of packaging back into monomers.",
+        "Supermarkets require plastic packaging to be manufactured using energy from coal, which depletes resources faster than oil."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A marine biologist finds that microplastics in an estuary are accumulating in the tissues of filter-feeding shellfish, leading to starvation despite their stomachs being full. Which statement best explains this ecological hazard?",
+      "options": [
+        "Traditional plastics undergo rapid biodegradation into toxic monomers that sterilize the surrounding aquatic environment.",
+        "Plastic waste persists for centuries without breaking down, physically blocking digestive tracts and causing nutrient deprivation in marine life.",
+        "Microplastics chemically react with dissolved oxygen in water, depleting the oxygen supply available for marine organisms.",
+        "The high density of discarded plastic causes it to sink rapidly, permanently smothering deep-sea vents and disrupting primary production."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A food manufacturer wants to replace their polyethylene (fossil fuel-derived) snack bags with a sustainable alternative. Which option would be the most suitable, and why?",
+      "options": [
+        "A bioplastic derived from corn starch, because it is made from a renewable resource and can break down naturally in the environment.",
+        "A chlorinated polymer, because it degrades quickly when exposed to sunlight and enriches the soil with minerals.",
+        "A synthetic nylon film, because it can be burned to release useful nitrogen fertilizers back into the atmosphere.",
+        "An aluminum-coated plastic, because the metal layer accelerates the digestion of the inner plastic by soil bacteria."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "In a life-cycle assessment of food distribution, why might completely removing all plastic packaging from fresh cucumbers actually lead to a net increase in greenhouse gas emissions?",
+      "options": [
+        "Cucumbers without plastic packaging transpire rapidly, causing water vapor to build up in delivery trucks and trap heat.",
+        "Without plastic barrier protection, cucumbers spoil much faster, requiring more food to be grown, transported, and wasted.",
+        "Unpackaged cucumbers absorb carbon dioxide from the air, which accelerates their decomposition into methane gas.",
+        "The lack of plastic packaging forces supermarkets to use energy-intensive chemical preservatives directly on the vegetables."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When a supermarket chain decides whether to package soft berries in plastic punnets or sell them loose, what ecological trade-offs must they evaluate?",
+      "options": [
+        "The balance between preventing physical spoilage of the berries versus the fossil fuel emissions from plastic production and its impact on marine ecosystems.",
+        "The rate at which the berries absorb atmospheric nitrogen compared to the speed of plastic biodegradation in acidic soils.",
+        "The heat-trapping capacity of the plastic film versus the carbon dioxide released by the berries during cellular respiration.",
+        "The cost of recycling traditional plastics versus the land required to grow bio-plastics that compete with crop production."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following best explains how global food demand drives the loss of the world's large tropical rainforests?",
+      "options": [
+        "Forest trees are harvested primarily to provide the charcoal needed to heat modern vertical farming systems.",
+        "Vast areas of natural forest are cleared and burned to make space for crop cultivation and cattle ranching.",
+        "Runoff of organic fertilizers from existing farms toxicifies tree roots, causing entire forests to die back.",
+        "Pesticide drift from agricultural fields prevents forest trees from undergoing successful insect pollination."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "When a diverse woodland is cleared to establish a single-crop palm oil plantation, what is the primary driver of the resulting loss of biodiversity?",
+      "options": [
+        "Monoculture crops actively secrete toxic chemicals into the soil that prevent wild animal species from breeding.",
+        "The removal of varied natural vegetation destroys the complex habitats, food webs, and nesting sites that supported diverse species.",
+        "Crop plants consume all the available carbon dioxide in the area, leaving none for the native forest plants to survive.",
+        "The farming machinery physical blocks the migratory paths of birds, forcing them to adapt to aquatic habitats."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A region wants to actively restore biodiversity and increase carbon sequestration on land previously used for intensive livestock farming. Which combination of strategies would be most effective?",
+      "options": [
+        "Converting the land into paved urban spaces and encouraging the consumption of processed dairy products.",
+        "Implementing rewilding projects, planting native trees, and shifting local diets toward plant-based foods to reduce agricultural land demand.",
+        "Importing synthetic chemical fertilizers to boost grass growth and introducing non-native herbivore species to graze the land.",
+        "Replacing the livestock with monoculture bio-fuel crops and spraying insecticides to prevent native insects from damaging them."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "How does global warming directly threaten the stability of the global food supply chain?",
+      "options": [
+        "Rising global temperatures reduce the atmospheric concentration of carbon dioxide needed for crop photosynthesis.",
+        "Unpredictable weather shifts, droughts, and extreme temperatures reduce crop yields and disrupt traditional harvesting seasons.",
+        "Warmer air holds less moisture, causing global rainfall to stop entirely over major agricultural regions.",
+        "Higher temperatures cause soil microbes to stop decomposing organic matter, starving crops of essential water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why does an increase in the frequency of extreme weather events, such as severe droughts and intense flooding, present a major challenge to farmers?",
+      "options": [
+        "Flooding washes away fertile topsoil and drowns crops, while droughts deprive plants of the water required for turgor and photosynthesis.",
+        "Extreme weather events cause crops to mutate rapidly, producing toxic compounds that make them unharvestable.",
+        "Droughts increase the salinity of rain, which chemically burns the leaves of agricultural crops.",
+        "High winds and floods increase the atmospheric pressure, which prevents plants from opening their stomata to transpire."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When calculating the total carbon footprint of a beef burger sold in a supermarket, which of the following stages of production must be factored in?",
+      "options": [
+        "Only the fuel used by the delivery truck that transported the final product to the supermarket shelf.",
+        "Only the electricity consumed by the supermarket's refrigeration units to keep the burger cold.",
+        "Greenhouse gas emissions from clearing land, growing feed crops, animal digestion, processing, transport, and refrigeration.",
+        "The carbon dioxide released by the consumer during the process of eating and digesting the meat."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How can individual dietary choices, such as reducing red meat consumption and eating more plant-based foods, help limit global climate change?",
+      "options": [
+        "Plant-based foods require less land and produce significantly fewer greenhouse gas emissions during production than livestock.",
+        "Digesting plant-based foods causes humans to exhale oxygen instead of carbon dioxide, directly cooling the atmosphere.",
+        "Plants grown for human consumption absorb all the methane from the atmosphere through their root systems.",
+        "Eating plants increases the amount of carbon stored in human bone tissue, permanently removing it from the carbon cycle."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A study compares the greenhouse gas emissions per kilogram of protein produced for beef, pork, tofu, and peas. The data shows beef emissions are ten times higher than tofu. What conclusion can be drawn from this data?",
+      "options": [
+        "Pork and beef have identical environmental impacts because they both come from domesticated mammals.",
+        "Choosing plant-based protein sources like tofu over beef can significantly reduce the greenhouse gas emissions associated with your diet.",
+        "Tofu production releases more methane than beef, but beef releases more carbon dioxide.",
+        "Diet choices have no real impact on global emissions because all agricultural processes release the same amount of gas per hectare."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How does the large-scale removal of trees in the Amazon basin directly alter the global carbon cycle?",
+      "options": [
+        "It decreases the rate of cellular respiration in soil decomposers, preventing carbon from being returned to the earth.",
+        "It reduces the total amount of carbon dioxide absorbed from the atmosphere, as there are fewer leaves performing photosynthesis.",
+        "It increases the rate of carbon fixation into glucose, causing atmospheric carbon dioxide levels to drop dangerously low.",
+        "It prevents carbon dioxide from dissolving in rain, which stops the formation of carbonic acid in the soil."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is the physical mechanism by which an accumulation of carbon dioxide in the atmosphere leads to global warming?",
+      "options": [
+        "Carbon dioxide absorbs incoming short-wavelength solar radiation, heating up the upper atmosphere directly.",
+        "Carbon dioxide molecules absorb outgoing long-wavelength infrared radiation emitted by the Earth and re-radiate it in all directions, trapping heat.",
+        "Carbon dioxide reacts with atmospheric nitrogen to produce high-energy exothermic reactions that heat the air.",
+        "Carbon dioxide thins the atmosphere, allowing more cosmic rays and solar flares to reach the Earth's surface directly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why does clearing a large forest area often lead to a local reduction in rainfall and a drier regional climate?",
+      "options": [
+        "Without trees, there is less absorption of water from the soil and less transpiration of water vapor into the atmosphere to form rain clouds.",
+        "Tree roots normally pump water vapor directly into the upper stratosphere through specialized vascular tissues.",
+        "The bare soil reflects more heat, which chemically decomposes water molecules into hydrogen and oxygen gases.",
+        "Deforested land releases toxic gases that break up existing clouds before they can release rain."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How does deforestation on hillsides threaten downstream agricultural communities and their food security?",
+      "options": [
+        "The lack of trees increases transpiration, which dries up downstream rivers and deprives crops of irrigation water.",
+        "Without tree roots to bind soil and absorb water, heavy rains cause massive surface runoff, leading to soil erosion and crop-destroying floods.",
+        "Deforested slopes trap cold air currents, causing downstream crops to freeze during the summer months.",
+        "Rainwater running off deforested slopes becomes highly alkaline, which neutralizes the acidic nutrients crops need."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following best describes the causal relationship between human industrial activity and global climate change?",
+      "options": [
+        "Burning fossil fuels and deforestation release greenhouse gases, which trap extra heat in the atmosphere, leading to rising global temperatures.",
+        "Human emissions of soot block solar radiation, causing the Earth's core to heat up and release thermal energy through volcanoes.",
+        "Industrial air pollution destroys the ozone layer, allowing infrared heat from space to enter the lower atmosphere.",
+        "Urban heat islands directly warm the oceans, causing water molecules to split and release heat energy."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A species of alpine flower is highly adapted to germinate only when soil temperatures remain below a specific freezing threshold during winter. How does climate change affect this species' survival?",
+      "options": [
+        "Warmer winters alter the habitat conditions, meaning the flower is no longer well adapted to its environment and may fail to reproduce.",
+        "The flower will instantly change its DNA sequence to adapt to the warmer temperatures within a single season.",
+        "The increased carbon dioxide in the air will physically weigh down the flower petals, preventing pollination by insects.",
+        "Rising temperatures cause the soil to become completely sterile, preventing any plants from absorbing water."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "As temperatures rise, some bird species are successfully moving their nesting grounds further north where it is cooler. Why is migration not a universal solution for all species threatened by climate change?",
+      "options": [
+        "Migration requires organisms to undergo a complete physical metamorphosis to survive the journey.",
+        "Some species, such as plants or slow-moving animals, cannot migrate quickly enough, or their migration paths are blocked by oceans or cities.",
+        "Moving to a new habitat always causes species to lose their ability to perform cellular respiration due to altitude changes.",
+        "Only species that reproduce asexually are capable of navigating toward cooler geographic regions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    }
+  ]
+}

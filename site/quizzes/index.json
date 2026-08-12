@@ -161,7 +161,8 @@
       "challenging": "challenging.json"
     },
     "14Climate change and biodiversityBiologyChemistry": {
-      "path": "14-climate-change-and-biodiversity-biology-chemistry"
+      "path": "14-climate-change-and-biodiversity-biology-chemistry",
+      "challenging": "challenging.json"
     }
   }
 }
