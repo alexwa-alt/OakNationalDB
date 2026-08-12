@@ -79,6 +79,7 @@ def parse_arguments() -> argparse.Namespace:
     parser.add_argument("--overwrite", action="store_true")
     parser.add_argument("--required-requests", action="store_true")
     parser.add_argument("--challenging", action="store_true")
+    parser.add_argument("--append", action="store_true")
     return parser.parse_args()
 
 
@@ -301,6 +302,19 @@ def valid_quiz_file(
     return True
 
 
+def valid_challenging_deck(path: Path, point_count: int) -> bool:
+    try:
+        payload = json.loads(path.read_text(encoding="utf-8"))
+        questions = payload["questions"]
+        if not isinstance(questions, list) or len(questions) < 20 or len(questions) % 20:
+            return False
+        for start in range(0, len(questions), 20):
+            validate_quiz({"questions": questions[start : start + 20]}, point_count, 20)
+    except (KeyError, OSError, ValueError, json.JSONDecodeError):
+        return False
+    return True
+
+
 def selected_unit_keys(arguments: argparse.Namespace, units: dict[str, list[str]]) -> list[str]:
     if arguments.all_units:
         keys = list(units)
@@ -335,6 +349,7 @@ def required_request_count(
     count: int,
     overwrite: bool,
     challenging: bool,
+    append: bool,
 ) -> int:
     required = 0
     for unit_key in selected_keys:
@@ -345,8 +360,10 @@ def required_request_count(
         ]
         for filename in filenames:
             output_path = directory / filename
-            if overwrite or not valid_quiz_file(
-                output_path, len(points), 20 if challenging else None
+            if overwrite or append or not (
+                valid_challenging_deck(output_path, len(points))
+                if challenging
+                else valid_quiz_file(output_path, len(points))
             ):
                 required += 1
     return required
@@ -360,6 +377,8 @@ def main() -> int:
         raise ValueError("--delay-seconds cannot be negative")
     if not 1 <= arguments.workers <= 100:
         raise ValueError("--workers must be between 1 and 100")
+    if arguments.append and arguments.overwrite:
+        raise ValueError("--append and --overwrite cannot be used together")
 
     units = load_units()
     paths = unit_paths(units)
@@ -373,6 +392,7 @@ def main() -> int:
                 arguments.count,
                 arguments.overwrite,
                 arguments.challenging,
+                arguments.append,
             )
         )
         return 0
@@ -387,14 +407,27 @@ def main() -> int:
     for unit_key in selected_keys:
         points = units[unit_key]
         directory = QUIZZES_DIRECTORY / paths[unit_key]
-        filenames = ["challenging.json"] if arguments.challenging else [
-            f"quiz-{variation}.json" for variation in range(1, arguments.count + 1)
-        ]
+        if arguments.challenging:
+            filenames = ["challenging.json"]
+        elif arguments.append:
+            existing_numbers = [
+                int(match.group(1))
+                for path in directory.glob("quiz-*.json")
+                if (match := re.fullmatch(r"quiz-(\d+)\.json", path.name))
+            ]
+            filenames = [f"quiz-{max(existing_numbers, default=0) + 1}.json"]
+        else:
+            filenames = [
+                f"quiz-{variation}.json" for variation in range(1, arguments.count + 1)
+            ]
         for variation, filename in enumerate(filenames, start=1):
             output_path = directory / filename
-            if output_path.exists() and not arguments.overwrite and valid_quiz_file(
-                output_path, len(points), 20 if arguments.challenging else None
-            ):
+            is_valid = (
+                valid_challenging_deck(output_path, len(points))
+                if arguments.challenging
+                else valid_quiz_file(output_path, len(points))
+            )
+            if output_path.exists() and not arguments.overwrite and not arguments.append and is_valid:
                 print(f"Keeping existing {output_path}")
             else:
                 requests_to_generate.append((unit_key, points, variation, output_path))
@@ -406,14 +439,10 @@ def main() -> int:
         questions = generate_quiz(
             api_key, model, unit_key, points, variation, arguments.challenging
         )
-        write_json(
-            output_path,
-            {
-                "unitKey": unit_key,
-                "generatedAt": datetime.now(timezone.utc).isoformat(),
-                "questions": questions,
-            },
-        )
+        if arguments.challenging and arguments.append and output_path.exists():
+            existing = json.loads(output_path.read_text(encoding="utf-8"))
+            questions = existing["questions"] + questions
+        write_json(output_path, {"unitKey": unit_key, "generatedAt": datetime.now(timezone.utc).isoformat(), "questions": questions})
 
     if arguments.workers == 1:
         for index, request in enumerate(requests_to_generate):
@@ -435,9 +464,10 @@ def main() -> int:
         if arguments.challenging:
             entry["challenging"] = "challenging.json"
         else:
-            files = [
-                f"quiz-{variation}.json" for variation in range(1, arguments.count + 1)
-            ]
+            files = sorted(
+                (path.name for path in directory.glob("quiz-*.json")),
+                key=lambda filename: int(re.fullmatch(r"quiz-(\d+)\.json", filename).group(1)),
+            )
             write_json(directory / "index.json", {"quizzes": files})
         write_json(QUIZZES_DIRECTORY / "index.json", manifest)
         print(f"Published cache manifest entry for {unit_key}")

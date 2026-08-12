@@ -54,3 +54,7 @@ The **Generate challenging quiz caches** workflow creates a separate, exact
 learning points but require application, comparison, misconception analysis, or
 multi-step reasoning. Teachers can switch individual question cards between the
 standard and challenging decks.
+
+The **Extend free quiz caches** workflow runs daily using only
+`GEMINI_FREE_API_KEY`. It appends three challenging 20-question batches and one
+standard quiz to rotating units, preserving `GEMINI_API_KEY` for bulk workflows.
