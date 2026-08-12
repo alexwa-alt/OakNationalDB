@@ -1,6 +1,6 @@
 {
   "unitKey": "8Earth's resourcesChemistry",
-  "generatedAt": "2026-08-12T06:45:31.598357+00:00",
+  "generatedAt": "2026-08-12T09:36:54.659023+00:00",
   "questions": [
     {
       "question": "A geologist finds a specimen of rock that formed from liquid rock cooling within a deep fissure beneath a volcano. What was the liquid rock called before it solidified, and why?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 31
+    },
+    {
+      "question": "A geologist discovers a rock formation that was created from melted rock that cooled and solidified deep underground. What was this melted rock called before it solidified?",
+      "options": [
+        "Lava",
+        "Magma",
+        "Mantle",
+        "Sediment"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Basalt is a rock that forms when molten rock erupts from a volcano and cools rapidly on Earth's surface. Which term correctly describes the classification of basalt?",
+      "options": [
+        "Intrusive igneous rock because it formed inside the crust",
+        "Extrusive igneous rock because it formed outside the crust",
+        "Intrusive metamorphic rock because of high pressure",
+        "Extrusive sedimentary rock because it settled on the surface"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Two samples of igneous rock, A and B, have different crystal sizes. Sample A has large, visible crystals, while Sample B has microscopic crystals. What does this tell you about their cooling histories?",
+      "options": [
+        "Sample A cooled much faster than Sample B.",
+        "Sample A cooled underground slowly, while Sample B cooled on the surface quickly.",
+        "Sample B cooled underground slowly, while Sample A cooled on the surface quickly.",
+        "Both samples cooled at the exact same rate but under different pressures."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A scientist finds a sedimentary rock containing well-preserved, delicate marine shell fragments and fossils. What is the most reasonable conclusion about how and where this rock formed?",
+      "options": [
+        "It formed from rapid cooling of lava in a dry desert environment.",
+        "It formed under extreme pressure deep within Earth's mantle.",
+        "It formed in a relatively quiet, shallow ocean environment over a long period.",
+        "It formed from high-temperature melting of tectonic plates during an earthquake."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "You are testing two unknown rock samples. Sample X allows water to seep through it easily because its grains are rounded and do not fit perfectly together. Sample Y is completely waterproof because its grains are interlocking. How would you classify the grains in these rocks?",
+      "options": [
+        "Sample X has interlocking grains; Sample Y has rounded grains.",
+        "Sample X has rounded grains; Sample Y has interlocking grains.",
+        "Both samples have rounded grains that have been melted.",
+        "Both samples have interlocking grains that have been compressed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why do minerals in rocks form highly symmetrical, flat-faced crystals when they freeze or precipitate?",
+      "options": [
+        "Because the atoms inside the crystal are arranged in a very regular, repeating pattern.",
+        "Because high-speed winds on Earth's surface carve them into regular shapes.",
+        "Because the atoms are randomly scattered, creating equal forces in all directions.",
+        "Because they melt at extremely low temperatures, allowing them to flow into geometric shapes."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Deep within the Earth, along the boundaries where tectonic plates collide, large crystals are sometimes found growing inside solid rock without the rock ever melting. How is this possible?",
+      "options": [
+        "The rock is dissolved by underground liquid water, which then freezes.",
+        "The high temperature and pressure between the plates allow atoms to rearrange and large crystals to grow in the solid state.",
+        "The plates move so quickly that the friction melts the rock completely, allowing rapid crystal growth.",
+        "The vacuum between tectonic plates pulls the atoms apart into crystal shapes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Slate is a metamorphic rock that forms from shale (a sedimentary rock). During this transition, what happens to the original structure of the shale?",
+      "options": [
+        "It is completely melted into magma and then cooled slowly.",
+        "It is dissolved by acidic groundwater and reformed as a crystal.",
+        "It is subjected to extreme pressure and temperature, altering its original structure without melting.",
+        "It is broken down by wind and water into tiny grains that are cemented together."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Builders frequently use slate for roof tiles because it can be easily split into thin, flat sheets. Which structural feature of metamorphic rocks like slate gives them this useful physical property?",
+      "options": [
+        "The presence of large, randomly oriented crystals that resist cracking",
+        "The alignment of crystals in parallel layers due to extreme pressure",
+        "The inclusion of round, loose sand grains that do not stick together",
+        "The presence of trapped air bubbles that make the rock soft"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A geologist finds a substance and wants to determine if it is a mineral. Which of the following sets of characteristics must the substance have to be classified as a mineral?",
+      "options": [
+        "It must be man-made, liquid, and contain fossilized organic matter.",
+        "It must be a naturally occurring, pure substance with a highly regular crystal structure.",
+        "It must be a mixture of various organic materials that can melt at low temperatures.",
+        "It must contain round grains of sand cemented together by water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "You are given two gold-colored specimens. One is real gold and the other is pyrite (\"fool's gold\"). How can a scientist reliably tell them apart?",
+      "options": [
+        "By comparing their shapes, because only real gold can form sedimentary layers.",
+        "By analyzing their crystal structures, chemical compositions, and physical properties like hardness.",
+        "By measuring how quickly they melt when exposed to direct sunlight.",
+        "By checking if they contain fossilized marine shells."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "If a probe could drill completely through Earth's thin outer crust, what is the composition of the dense, rocky layer it would encounter next?",
+      "options": [
+        "The liquid metallic outer core",
+        "The solid metallic inner core",
+        "The dense rocky mantle",
+        "A layer of pure liquid water"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following best describes the structural and physical state of the Earth's core?",
+      "options": [
+        "A completely liquid rock layer surrounding a solid crust",
+        "A solid metallic inner core surrounded by a liquid metallic outer core",
+        "A liquid metallic inner core surrounded by a solid rocky outer core",
+        "A hollow space filled with highly compressed gases"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "The temperature at the very center of the Earth is extremely high, yet the inner core remains solid rather than melting into a liquid. What explains this phenomenon?",
+      "options": [
+        "The inner core is cooled by oceans of liquid water deep underground.",
+        "The pressure at the center of the Earth is so immense that it forces the hot metal to remain solid.",
+        "The inner core is made of a special type of rock that cannot melt at any temperature.",
+        "Tectonic plates constantly pump cold air down to the center of the Earth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What do geological events like earthquakes and volcanic eruptions tell scientists about the nature of Earth's internal layers?",
+      "options": [
+        "They prove that Earth's layers are completely frozen and never move.",
+        "They suggest that Earth's layers are not static but actively interact with one another.",
+        "They show that the core is rapidly cooling down and shrinking.",
+        "They demonstrate that Earth's crust is getting thicker every year."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "How does the discovery of identical fossilized remains of ancient land reptiles in both South America and Africa support the theory of plate tectonics?",
+      "options": [
+        "It proves these reptiles were capable of swimming across vast oceans.",
+        "It suggests these continents were once joined together before slowly drifting apart.",
+        "It shows that humans transported these fossils across the ocean in ancient times.",
+        "It indicates that the entire Earth was once covered by a shallow, uniform swamp."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Earth's crust is not a single, solid shell, but is broken into pieces called tectonic plates. How do these plates behave over time?",
+      "options": [
+        "They remain completely stationary until an earthquake suddenly moves them miles at a time.",
+        "They float freely on the oceans and move several kilometers every day.",
+        "They move very, very slowly over millions of years due to processes deep within the Earth.",
+        "They spin rapidly in circles, causing the Earth to rotate on its axis."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A student examines a rock and notices it contains rounded pebbles, bits of sand, and small pieces of ancient shells all cemented together. What type of rock is this most likely to be?",
+      "options": [
+        "An intrusive igneous rock",
+        "A metamorphic rock",
+        "A sedimentary rock",
+        "An extrusive igneous rock"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Under a microscope, Rock Sample A shows crystals pointing randomly in many different directions. Rock Sample B shows crystals that are mostly aligned in parallel rows. What is the most accurate classification for these rocks?",
+      "options": [
+        "Sample A is sedimentary; Sample B is igneous.",
+        "Sample A is igneous; Sample B is metamorphic.",
+        "Sample A is metamorphic; Sample B is sedimentary.",
+        "Both samples are different types of sedimentary rock."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Why are sedimentary rocks like sandstone often porous (able to absorb and transmit water), while igneous rocks like granite are non-porous?",
+      "options": [
+        "Sandstone contains interlocking crystals, while granite contains rounded grains with spaces between them.",
+        "Sandstone contains rounded grains that leave tiny gaps between them, while granite consists of tightly interlocking crystals.",
+        "Granite is made of water-soluble minerals that swell up to block water pathways.",
+        "Sedimentary rocks are always found underwater, while igneous rocks are only found on dry land."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
     }
   ]
 }

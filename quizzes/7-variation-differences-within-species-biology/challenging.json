@@ -1,6 +1,6 @@
 {
   "unitKey": "7Variation (differences within species)Biology",
-  "generatedAt": "2026-08-12T06:44:56.592017+00:00",
+  "generatedAt": "2026-08-12T09:36:20.773265+00:00",
   "questions": [
     {
       "question": "A student monitors a population of snails and groups them based on whether they have a banded shell or an unbanded shell. What type of variation is this, and what is its defining characteristic?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 20
+    },
+    {
+      "question": "Why is the ability to roll your tongue classified as a discontinuous variation rather than a continuous variation?",
+      "options": [
+        "It can be changed by practicing over time.",
+        "People can either roll their tongue or they cannot, with no intermediate states.",
+        "It is influenced heavily by the climate a person lives in.",
+        "The trait changes gradually as a person grows older."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A student measures the heights of all students in a class. Why is height considered a continuous variation?",
+      "options": [
+        "Height is determined by a single gene and does not change after birth.",
+        "Height can only be measured in whole centimetres, meaning it fits into distinct categories.",
+        "Height can take any numerical value within a range, depending on the precision of the measuring tool.",
+        "Height is entirely determined by environmental factors like diet, with no genetic influence."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following pairs correctly identifies a discontinuous variation in plants and a continuous variation in animals?",
+      "options": [
+        "Plant: Flower colour (e.g., purple or white); Animal: Body mass of a dog.",
+        "Plant: Height of a sunflower; Animal: Blood group of a cat.",
+        "Plant: Leaf surface area; Animal: Presence of horns in sheep.",
+        "Plant: Rate of photosynthesis; Animal: Number of legs on a spider."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A group of students wants to collect primary data to investigate variation. Which method would be most appropriate for collecting reliable primary data on a continuous variation?",
+      "options": [
+        "Asking classmates to write down whether they are 'tall', 'medium', or 'short' on a survey.",
+        "Using a standard tape measure to record the actual arm span of classmates to the nearest millimetre.",
+        "Looking up average heights of teenagers in different countries on an online database.",
+        "Counting the number of students who have blue eyes versus those who have brown eyes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why is a histogram or line graph chosen to represent continuous data, such as human hand span, instead of a bar chart with separated bars?",
+      "options": [
+        "Continuous data represents distinct categories that have no numerical relationship.",
+        "A histogram uses adjacent columns without gaps because the data is on a continuous scale.",
+        "Line graphs are only used when there is no genetic component to the variation.",
+        "Bar charts can only display qualitative descriptions like 'large' or 'small'."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When plotting a histogram of student heights to show continuous variation, how should the data be organised on the horizontal (x) axis?",
+      "options": [
+        "Individual names of students arranged in alphabetical order.",
+        "Discrete categories of height, such as 'under 1.5m' and 'over 1.5m', with gaps between them.",
+        "Continuous intervals or bins (e.g., 140–144 cm, 145–149 cm) with no gaps between adjacent bars.",
+        "The frequency of students who fall into each exact, individual height value."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A histogram displaying the mass of newborn puppies shows a bell-shaped curve. What does this shape tell us about the continuous variation of puppy mass in this population?",
+      "options": [
+        "Most puppies have a mass near the extreme ends, with very few in the middle.",
+        "The puppies are divided into two distinct, non-overlapping groups of light and heavy puppies.",
+        "Most puppies have a mass close to the average, with fewer puppies having extremely low or high masses.",
+        "The environment has had absolutely no effect on the birth weight of the puppies."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Human height is a classic example of continuous variation. Which of the following best explains why human height shows such a wide range of values?",
+      "options": [
+        "It is controlled by a single gene that is highly prone to mutations caused by the sun.",
+        "It is determined solely by a person's diet during early childhood, regardless of parental height.",
+        "It is influenced by many genes acting together, alongside environmental factors like nutrition and lifestyle.",
+        "It is completely unaffected by environmental factors and depends only on a single pair of alleles."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "When displaying data collected on the ABO blood groups of 100 students, why is a bar chart with gaps between the bars the most appropriate representation?",
+      "options": [
+        "Blood groups represent continuous data that can take any value between group A and group O.",
+        "The blood groups are distinct categories, and the gaps show that there are no intermediate values.",
+        "Bar charts are only used when the data is influenced heavily by the school environment.",
+        "Gaps are needed because blood type changes as a student grows older."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "If you are plotting a bar chart to show the frequency of different lobed and lobeless ear types in a classroom, how should this be constructed?",
+      "options": [
+        "Plot the ear types on the x-axis as separate bars with gaps between them, and the count on the y-axis.",
+        "Group the students by their height on the x-axis and plot ear type on the y-axis.",
+        "Plot a continuous line connecting the points representing 'lobed' and 'lobeless' ears.",
+        "Draw overlapping bars on the x-axis to show that ear type is a continuous variable."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A bar chart shows the frequency of different eye colours in a population. If the bar for 'brown eyes' is three times higher than 'blue eyes', what can be correctly inferred?",
+      "options": [
+        "Brown-eyed individuals live three times longer than blue-eyed individuals.",
+        "There are three times as many individuals with brown eyes as there are with blue eyes in this sample.",
+        "Eye colour is a continuous trait that changes gradually over three distinct stages.",
+        "Brown eyes are three times more affected by sunlight than blue eyes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which of the following is true regarding the causes of discontinuous variation, such as whether a person has naturally dimples or not?",
+      "options": [
+        "It is usually determined only by genetic factors and is unaffected by lifestyle or environment.",
+        "It is heavily influenced by diet during infancy and can be lost through exercise.",
+        "It changes constantly throughout an individual's life depending on their stress levels.",
+        "It is caused by a combination of many genes and severe environmental changes."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When two oak trees reproduce sexually, the resulting offspring grow into oak trees and not pine trees. What fundamental biological concept does this demonstrate?",
+      "options": [
+        "Offspring of the same kind are produced because organisms reproduce to make offspring of their own species.",
+        "Environment has a stronger influence on species identity than genetic material.",
+        "Sexual reproduction always produces offspring that are exact clones of the maternal parent.",
+        "Plants do not have genetic variation and therefore always look identical."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A puppy looks similar to both its mother and its father, but is not identical to either. Why does this family resemblance occur?",
+      "options": [
+        "The puppy inherited all of its genes from the mother, but the father influenced its development after birth.",
+        "The puppy inherited genetic features from both parents, leading to a blend of characteristics from both.",
+        "The puppy copy-pasted its entire DNA sequence directly from the environment where the parents lived.",
+        "Both parents passed on identical sets of chromosomes, making the offspring a clone of both."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which mechanism is directly responsible for passing inherited features from parents to their offspring during reproduction?",
+      "options": [
+        "The transfer of blood from the parents to the offspring.",
+        "The physical imitation of parental behaviours by the offspring.",
+        "The passing of DNA containing genetic instructions from parents to offspring.",
+        "The sharing of the same diet and climate in the family home."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A houseplant is grown in a dark cupboard, causing its leaves to turn yellow and its stem to grow unusually long and thin. How is this variation best described?",
+      "options": [
+        "It is an inherited genetic mutation caused by the lack of light.",
+        "It is a feature changed by the organism's environment and is not passed to offspring.",
+        "It is a discontinuous variation that cannot be reversed by changing the light levels.",
+        "It is a species-level difference showing the plant has evolved into a new species."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A pair of non-identical twin cats are born in the same litter. One has black fur and the other has ginger fur. Why is there usually variation between offspring of the same parents?",
+      "options": [
+        "Offspring are clones of only one parent, which changes depending on the birth order.",
+        "Each offspring inherits a unique combination of genetic information from the parents.",
+        "The mother cat changes her DNA sequence between the births of each kitten.",
+        "Environmental factors inside the womb are completely identical, causing different genes to disappear."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Consider a Chihuahua, a Great Dane, and a Red Fox. Which statement correctly compares the differences between them?",
+      "options": [
+        "The differences between the Chihuahua and the Great Dane are greater than the differences between either dog and the Red Fox.",
+        "The differences between the Chihuahua and the Red Fox are greater than the differences between the Chihuahua and the Great Dane.",
+        "There are no physical differences between a Chihuahua and a Great Dane because they belong to the same species.",
+        "Species differences are always smaller than the variation observed between siblings of the same parents."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Two pine trees of the same species are growing in the same forest, but one is taller and has more branches than the other. What is the biological term for these differences between individuals of the same species?",
+      "options": [
+        "Mutation",
+        "Speciation",
+        "Variation",
+        "Classification"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A dog loses a leg in an accident. Later in life, this dog has a litter of puppies. Why are all the puppies born with four legs?",
+      "options": [
+        "The missing leg is an environmental variation and does not alter the genetic information passed to the offspring.",
+        "The puppies' genes automatically repaired themselves using environmental signals.",
+        "Only female injuries are inherited by offspring, whereas male injuries are not.",
+        "The missing leg is a discontinuous genetic variation that is recessive."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
     }
   ]
 }
