@@ -1,0 +1,226 @@
+{
+  "unitKey": "13Diet and exerciseBiology",
+  "generatedAt": "2026-08-12T06:18:28.959110+00:00",
+  "questions": [
+    {
+      "question": "An elite teenage athlete and a sedentary adult office worker are comparing their dietary needs. Which of the following statements correctly evaluates their comparative requirements for specific nutrients?",
+      "options": [
+        "Both individuals require identical amounts of calcium and iron because nutrient needs are determined solely by age, not activity.",
+        "The athlete requires significantly more carbohydrates for energy and protein for muscle repair than the sedentary adult.",
+        "The sedentary adult requires more lipid intake because they do not burn fat during active physical exercise.",
+        "The athlete requires fewer overall vitamins because their metabolic rate is highly efficient."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A student burns a 2.0 g food sample to heat 50 g of water. The temperature of the water rises from 20 °C to 40 °C. Using the formula: Energy (J) = mass of water (g) × rise in temperature (°C) × 4.2, how much energy was transferred to the water?",
+      "options": [
+        "2,100 J",
+        "8,400 J",
+        "4,200 J",
+        "168 J"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "During a period of rapid adolescent growth, a person's body must build a large amount of new muscle and bone tissue. Which food group is primarily used as the source of raw building materials to make this new biomass?",
+      "options": [
+        "Simple carbohydrates",
+        "Dietary fibre",
+        "Minerals such as sodium",
+        "Proteins"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which statement best explains how cells utilize glucose from digested food to support life processes?",
+      "options": [
+        "Glucose is reacted with oxygen during cellular respiration to release energy.",
+        "Glucose is directly converted into thermal energy in the stomach to keep the body warm.",
+        "Glucose is stored in the lungs to help red blood cells absorb oxygen.",
+        "Glucose is chemically combined with carbon dioxide to build structural proteins."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "When reading a food label, a consumer notices that a single serving of a food contains 45% of the Reference Intake (RI) for saturated fat. What does this percentage indicate to the consumer?",
+      "options": [
+        "Saturated fat makes up exactly 45% of the total mass of that single serving of food.",
+        "Eating one serving provides nearly half of the maximum recommended daily limit of saturated fat.",
+        "45% of the energy in that food item comes from saturated fat molecules.",
+        "An average person must eat at least two servings of this food daily to meet their minimum fat requirement."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Two food products list their energy content per 100g. Product A contains 250 Calories (kcal), while Product B contains 1200 kilojoules (kJ). Knowing that 1 Calorie (kcal) is approximately equal to 4.2 kilojoules, which product provides more energy per 100g?",
+      "options": [
+        "Product A, because 250 kcal is equivalent to approximately 1050 kJ, which is higher than 1200 kJ.",
+        "Product B, because 1200 kJ is equivalent to approximately 286 kcal, which is higher than 250 kcal.",
+        "Product A, because calories always represent a higher density of usable chemical energy than kilojoules.",
+        "Both products provide the exact same amount of energy because kilojoules and Calories are identical units."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A doctor is assessing a patient for potential ill health. Which of the following observations represents a change in body function, rather than a change in appearance or behavior?",
+      "options": [
+        "A tendency to withdraw from social interactions and sleep excessively.",
+        "The appearance of a red, raised rash across the chest.",
+        "An increase in resting heart rate and blood pressure.",
+        "Sudden yellowing of the skin and whites of the eyes."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A person has a body mass of 80 kg and a height of 2.0 meters. What is their Body Mass Index (BMI), and how is it calculated?",
+      "options": [
+        "20, calculated by dividing body mass (80 kg) by the square of height (4.0 m²).",
+        "40, calculated by dividing body mass (80 kg) by height (2.0 m).",
+        "10, calculated by dividing the square of height (4.0 m²) by body mass (80 kg) and multiplying by 200.",
+        "320, calculated by multiplying body mass (80 kg) by height squared (4.0 m²)."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How does chronic obesity directly increase a person's risk of developing coronary heart disease?",
+      "options": [
+        "High body mass causes the heart to stop producing red blood cells, leading to severe oxygen deprivation.",
+        "Excess fat deposits can build up in the coronary arteries, narrowing them and restricting blood flow to heart muscle cells.",
+        "Excess fatty tissue physically crushes the heart, preventing the valves from opening during a heartbeat.",
+        "Obesity causes the lungs to expand, which blocks the flow of blood through the aorta."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "If a person consistently consumes significantly less food energy than their body requires over many months, which sequence of physiological changes is most likely to occur?",
+      "options": [
+        "The body increases its metabolic rate to compensate, causing an increase in muscle mass and strength.",
+        "The person's height decreases to match their lower body mass, maintaining a stable BMI.",
+        "BMI drops below the healthy range, stored fat and muscle tissues are broken down for energy, eventually leading to starvation.",
+        "BMI rises rapidly due to water retention, causing the digestive system to shut down completely."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A sailor on an old wooden ship develops swollen, bleeding gums and poor wound healing due to a lack of fresh fruit. Which deficiency disease is this, and what missing nutrient is responsible?",
+      "options": [
+        "Scurvy, caused by a deficiency of Vitamin C.",
+        "Rickets, caused by a deficiency of Vitamin D.",
+        "Anemia, caused by a deficiency of iron.",
+        "Goitre, caused by a deficiency of iodine."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "In an investigation into cardiovascular fitness, four students measure how long it takes for their heart rate to return to its resting level after performing 50 star jumps. What is the correct term for this specific duration?",
+      "options": [
+        "Resting pulse interval",
+        "Aerobic capacity phase",
+        "Recovery time",
+        "Cardiac deceleration rate"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A student plots a line graph showing their heart rate over time (in minutes) after finishing a run. The graph starts at 150 bpm at 0 minutes, decreases steadily, and levels off flatly at 70 bpm starting at the 4-minute mark. How is the recovery time determined from this graph?",
+      "options": [
+        "By finding the time on the x-axis where the line first flattens out at the resting rate (4 minutes).",
+        "By calculating the total area under the curve from 0 to 4 minutes.",
+        "By dividing the starting heart rate (150 bpm) by the resting heart rate (70 bpm).",
+        "By finding the midpoint of the vertical axis (110 bpm) and reading the corresponding time."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Two individuals, Alex and Sam, perform the same intense treadmill test. Alex has a recovery time of 1.5 minutes, whereas Sam has a recovery time of 4.0 minutes. What can be scientifically concluded about their physical fitness?",
+      "options": [
+        "Sam is fitter than Alex because a longer recovery time means Sam's heart worked harder for longer.",
+        "Alex is fitter than Sam because a shorter recovery time indicates a more efficient cardiovascular system.",
+        "Alex is less fit because their heart rate dropped too quickly, risking circulatory shock.",
+        "Both individuals have equal fitness because recovery time is purely genetic and unrelated to physical conditioning."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A group of students wants to investigate how the duration of a run affects a runner's breathing rate. What are the independent and dependent variables in this scientific investigation?",
+      "options": [
+        "Independent: breathing rate; Dependent: duration of the run.",
+        "Independent: type of running shoes; Dependent: body temperature.",
+        "Independent: duration of the run; Dependent: breathing rate.",
+        "Independent: resting pulse rate; Dependent: ambient room temperature."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "To ensure a fair test when comparing the recovery times of five different students after exercise, which set of control variables must be kept constant?",
+      "options": [
+        "The starting heart rate of each student and their individual age.",
+        "The room temperature and the clothing worn by the teacher.",
+        "The height of the students and their preferred choice of footwear.",
+        "The type of exercise performed and the duration of the exercise."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "A student measures the heart rate of participants after three distinct types of exercise: walking, jogging, and sprinting. To present this categoric data, they plot a bar chart. Which axis configuration is correct?",
+      "options": [
+        "The type of exercise (independent variable) goes on the horizontal x-axis.",
+        "The type of exercise (dependent variable) goes on the vertical y-axis.",
+        "The heart rate (independent variable) goes on the horizontal x-axis.",
+        "The time spent resting (control variable) goes on the horizontal x-axis."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "During intensive exercise, why does a muscle cell increase its rate of cellular respiration, and what is required to sustain this?",
+      "options": [
+        "To store excess oxygen as lactic acid; this requires a decrease in blood circulation.",
+        "To release more energy for muscle contraction; this requires a higher supply of glucose and oxygen.",
+        "To produce more glucose from water; this requires a higher supply of carbon dioxide.",
+        "To lower the body's internal temperature; this requires a reduction in breathing rate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "Which of the following statements best describes how regular exercise contributes to both good physical and mental health?",
+      "options": [
+        "It strengthens the heart muscle and stimulates the release of brain chemicals that improve mood and reduce anxiety.",
+        "It increases lung capacity while simultaneously lowering the amount of sleep the brain requires to function.",
+        "It prevents any pathogens from entering the body while improving academic memory retention.",
+        "It eliminates the body's need for dietary fats while increasing cognitive processing speed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "Why do both breathing rate and heart rate increase during physical exercise?",
+      "options": [
+        "To decrease the temperature of the blood by forcing cold air into the coronary arteries.",
+        "To prevent the muscles from using up glycogen reserves by switching to anaerobic photosynthesis.",
+        "To deliver oxygen and glucose to active muscle cells more rapidly for cellular respiration, and to remove carbon dioxide.",
+        "To reduce the pressure of blood flowing to the brain, preventing over-oxygenation of neural tissue."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 36
+    }
+  ]
+}

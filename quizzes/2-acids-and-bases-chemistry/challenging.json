@@ -1,0 +1,226 @@
+{
+  "unitKey": "2Acids and basesChemistry",
+  "generatedAt": "2026-08-12T06:18:20.946246+00:00",
+  "questions": [
+    {
+      "question": "A scientist is testing an unknown powder. She adds it to an acid and finds that a chemical reaction occurs, forming water and a compound called a salt. Based on this observation, what category of substance must the powder be?",
+      "options": [
+        "An alkali only, because all salts are made by alkalis",
+        "A base, because it reacted with the acid to form a salt",
+        "A metal element, because only pure metals can form salts with acids",
+        "An indicator, because it changed the nature of the acid"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Copper(II) oxide and sodium hydroxide are both bases. When added to water, copper(II) oxide does not dissolve, whereas sodium hydroxide dissolves completely. What can be correctly concluded about these two substances?",
+      "options": [
+        "Both substances are alkalis because they are both bases.",
+        "Copper(II) oxide is an alkali, but sodium hydroxide is not.",
+        "Sodium hydroxide is an alkali, but copper(II) oxide is not.",
+        "Neither substance is an alkali because alkalis must be acids."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A student has two unlabelled beakers, one containing an acid and the other containing an alkali. Which of the following experimental procedures would successfully identify which beaker contains the alkali?",
+      "options": [
+        "Dip blue litmus paper into a beaker; if it remains blue, that beaker must contain the alkali.",
+        "Dip red litmus paper into a beaker; if it turns blue, that beaker contains the alkali.",
+        "Dip red litmus paper into a beaker; if it remains red, that beaker contains the alkali.",
+        "Dip blue litmus paper into a beaker; if it turns red, that beaker contains the alkali."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "If a piece of magnesium ribbon is dropped into a beaker of dilute sulfuric acid, bubbles are seen rising through the liquid. What are the products of this reaction?",
+      "options": [
+        "Magnesium sulfate and hydrogen gas",
+        "Magnesium oxide and water",
+        "Magnesium hydroxide and oxygen gas",
+        "Magnesium carbonate and carbon dioxide gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A student writes down a word equation to represent the reaction between zinc and hydrochloric acid: 'zinc + hydrochloric acid -> zinc chloride'. What is incorrect about this word equation?",
+      "options": [
+        "The reactant should be zinc oxide, not zinc.",
+        "The products should include water as well as zinc chloride.",
+        "The products must include hydrogen gas in addition to zinc chloride.",
+        "The name of the salt produced should be zinc chlorate, not zinc chloride."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "During an experiment reacting iron with hydrochloric acid, a student wants to confirm that the gas collected in a test tube is hydrogen. What is the correct procedure and result for this test?",
+      "options": [
+        "Introduce a glowing splint into the test tube; it will relight.",
+        "Introduce a lit splint into the test tube; it will make a squeaky pop.",
+        "Bubble the gas through limewater; the limewater will turn cloudy.",
+        "Hold damp blue litmus paper in the gas; it will turn red."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "When calcium carbonate powder is added to dilute nitric acid, rapid fizzing is observed. Which of the following lists all the products formed in this reaction?",
+      "options": [
+        "Calcium nitrate, water, and carbon dioxide",
+        "Calcium nitride and hydrogen",
+        "Calcium oxide and carbon dioxide",
+        "Calcium nitrate and hydrogen carbonate"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A student is investigating the reaction between copper carbonate and sulfuric acid. To prove that carbon dioxide gas is being released, which method should they use?",
+      "options": [
+        "Hold a lit splint at the mouth of the tube and listen for a squeaky pop.",
+        "Hold damp red litmus paper in the gas and watch for it to turn blue.",
+        "Bubble the gas through limewater and observe if it turns cloudy.",
+        "Place a glowing splint in the gas and see if it relights."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "An ancient marble statue has been standing outdoors in an industrial city for decades. Over time, the details on the statue's face have become worn away. Which chemical explanation best describes this process?",
+      "options": [
+        "Acid rain reacts with the marble to produce a salt, water, and carbon dioxide, gradually consuming the statue's material.",
+        "Acid rain deposits a layer of metal oxide on the marble, which blocks the details from being seen.",
+        "Pure water dissolves the marble to produce hydrogen gas and calcium hydroxide.",
+        "Acid rain reacts with marble to form a highly concentrated acid coating that neutralises the stone."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following word equations correctly represents a general neutralisation reaction between a base and an acid?",
+      "options": [
+        "base + acid -> metal salt + hydrogen",
+        "base + acid -> metal salt + water",
+        "base + acid -> metal carbonate + water",
+        "base + acid -> non-metal oxide + hydrogen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A student mixes aqueous sodium hydroxide and aqueous hydrochloric acid together. What are the correct chemical formulas for these two starting reactants?",
+      "options": [
+        "NaH(aq) and HClO(aq)",
+        "NaOH(aq) and HCl(aq)",
+        "NaOH(s) and HCl(g)",
+        "Na2O(aq) and H2Cl(aq)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "If potassium hydroxide (a base) reacts with sulfuric acid, what is the name of the metal salt that is formed?",
+      "options": [
+        "Potassium sulfate",
+        "Potassium chloride",
+        "Potassium sulfur",
+        "Hydrogen sulfate"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A student is asked to classify several chemical compounds. Which of the following groups contains only compounds that are classified as bases?",
+      "options": [
+        "Hydrochloric acid and sodium hydroxide",
+        "Copper oxide and sodium hydroxide",
+        "Sodium chloride and copper sulfate",
+        "Carbon dioxide and water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Magnesium oxide is added to a beaker of dilute hydrochloric acid. What role does the magnesium oxide play in this chemical reaction?",
+      "options": [
+        "It acts as an acid to lower the pH of the mixture.",
+        "It acts as a base and reacts with the acid to neutralise it.",
+        "It acts as an indicator to show when the reaction has finished.",
+        "It acts as a solvent to dissolve the hydrochloric acid."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Sulfur dioxide is a non-metal oxide gas. If sulfur dioxide gas is bubbled into a beaker of pure water and a few drops of universal indicator are added, what will be observed?",
+      "options": [
+        "The solution will remain neutral with a pH of 7 because sulfur is not a metal.",
+        "The solution will become alkaline because non-metal oxides form basic solutions.",
+        "The solution will become acidic because non-metal oxides dissolved in water form acidic solutions.",
+        "The solution will become a solid salt because non-metals react with water to form precipitates."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Solution A has a much higher concentration of hydrogen than Solution B. What can we conclude about their respective pH values?",
+      "options": [
+        "Solution A has a lower pH than Solution B.",
+        "Solution A has a higher pH than Solution B.",
+        "Both solutions will have the exact same pH.",
+        "Solution A must have a pH of 14, while Solution B has a pH of 7."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A solution of hydrochloric acid has a pH of 4. Water is evaporated from the solution until its hydrogen concentration increases by a factor of 100. What is the new pH of the solution?",
+      "options": [
+        "pH 6",
+        "pH 2",
+        "pH 3",
+        "pH 5"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Three solutions have pH values of 1.5, 7.0, and 12.5 respectively. How should these solutions be classified?",
+      "options": [
+        "pH 1.5 is alkaline, pH 7.0 is neutral, pH 12.5 is acidic.",
+        "pH 1.5 is acidic, pH 7.0 is alkaline, pH 12.5 is neutral.",
+        "pH 1.5 is acidic, pH 7.0 is neutral, pH 12.5 is alkaline.",
+        "All three solutions are acidic because they contain hydrogen."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "A student extracts juice from a red cabbage to use as a natural pH indicator. They test three unknown liquids and observe the following colours: Liquid X turns pink, Liquid Y turns purple, and Liquid Z turns green. What are the natures of these liquids?",
+      "options": [
+        "Liquid X is neutral, Liquid Y is alkaline, Liquid Z is acidic.",
+        "Liquid X is alkaline, Liquid Y is acidic, Liquid Z is neutral.",
+        "Liquid X is acidic, Liquid Y is neutral, Liquid Z is alkaline.",
+        "Liquid X is acidic, Liquid Y is alkaline, Liquid Z is neutral."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Why is universal indicator often preferred over litmus paper when investigating the neutralisation of an acid by an alkali?",
+      "options": [
+        "Litmus paper only works for weak acids, whereas universal indicator only works for strong alkalis.",
+        "Universal indicator turns many different colours depending on pH, allowing the gradual change in pH to be monitored.",
+        "Universal indicator acts as a reactant to speed up the neutralisation process.",
+        "Litmus paper changes colour too slowly, whereas universal indicator changes colour instantly and permanently."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    }
+  ]
+}

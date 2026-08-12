@@ -1,0 +1,226 @@
+{
+  "unitKey": "1Breathing and respirationBiology",
+  "generatedAt": "2026-08-12T06:18:25.032586+00:00",
+  "questions": [
+    {
+      "question": "During gas exchange in the alveoli, which of the following describes the correct movement of gases between the air sacs and the surrounding capillaries?",
+      "options": [
+        "Oxygen moves from the capillary into the alveolus while carbon dioxide moves from the alveolus into the capillary.",
+        "Oxygen moves from the alveolus into the capillary while carbon dioxide moves from the capillary into the alveolus.",
+        "Both oxygen and carbon dioxide move from the alveolus into the capillary to be transported to cells.",
+        "Carbon dioxide is actively pumped into the alveolus, which pulls oxygen into the blood capillary."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A lung condition causes a build-up of thick scar tissue on the alveoli. How does this structural change directly affect gas exchange?",
+      "options": [
+        "It increases the surface area of the lungs, causing diffusion to happen much faster.",
+        "It reverses the concentration gradient, preventing oxygen from entering the blood.",
+        "It increases the diffusion distance, making the exchange of oxygen and carbon dioxide slower.",
+        "It blocks the blood capillaries from reaching the alveoli entirely."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why is the constant flow of blood through the capillary network surrounding the alveoli essential for efficient gas exchange?",
+      "options": [
+        "It keeps the alveoli warm so that the rate of diffusion remains low.",
+        "It maintains a steep concentration gradient by continuously carrying away oxygen and bringing in carbon dioxide.",
+        "It increases the thickness of the respiratory membrane to protect the blood.",
+        "It physically expands the alveoli to allow more air to enter during inhalation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which statement correctly identifies the cell types and specific cell structures where aerobic cellular respiration occurs?",
+      "options": [
+        "It occurs only in animal cells, specifically within the cell nucleus.",
+        "It occurs in animal, plant, and fungi cells, within the mitochondria and cytoplasm.",
+        "It occurs only in plant cells, specifically within the chloroplasts.",
+        "It occurs in animal and fungi cells only, within the ribosomes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "If you compared a highly active muscle cell with a less active skin cell, what difference would you expect to find regarding their mitochondria?",
+      "options": [
+        "The skin cell has more mitochondria because it has to protect the body.",
+        "The muscle cell has fewer mitochondria because it relies mostly on anaerobic respiration.",
+        "The muscle cell has more mitochondria because it does a lot of work and requires more energy.",
+        "Both cells have the exact same number of mitochondria because all cells do equal work."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "When yeast cells are kept in a sealed container with a glucose solution and no oxygen, which products will be produced?",
+      "options": [
+        "Lactic acid and water",
+        "Carbon dioxide and ethanol",
+        "Oxygen and glucose",
+        "Lactic acid and carbon dioxide"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is the specific name given to anaerobic cellular respiration when it occurs in microorganisms like yeast?",
+      "options": [
+        "Photosynthesis",
+        "Aerobic ventilation",
+        "Fermentation",
+        "Lactic acid cycle"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How do humans take advantage of the chemical products of fermentation in microorganisms?",
+      "options": [
+        "Using lactic acid to make bread rise and make alcoholic drinks.",
+        "Using carbon dioxide to make bread rise and ethanol to make alcoholic drinks.",
+        "Using oxygen from bacteria to ferment milk into yogurt.",
+        "Using glucose produced by yeast to sweeten yogurt."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "During a sudden, intense sprint, a runner's leg muscles do not get enough oxygen. What substance is produced by anaerobic respiration, and what is its effect?",
+      "options": [
+        "Ethanol, which causes muscle fatigue.",
+        "Carbon dioxide, which causes the lungs to expand.",
+        "Lactic acid, which can cause muscle cramps.",
+        "Water, which causes the muscles to swell."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following correctly pairs the reactants and products of aerobic and anaerobic cellular respiration in humans?",
+      "options": [
+        "Aerobic: Glucose + Oxygen -> Carbon Dioxide + Water; Anaerobic: Glucose -> Lactic Acid",
+        "Aerobic: Glucose -> Carbon Dioxide + Ethanol; Anaerobic: Glucose + Oxygen -> Lactic Acid",
+        "Aerobic: Glucose + Oxygen -> Lactic Acid; Anaerobic: Glucose -> Carbon Dioxide + Water",
+        "Aerobic: Glucose -> Lactic Acid; Anaerobic: Glucose + Oxygen -> Carbon Dioxide + Water"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "If a human cell is performing anaerobic cellular respiration, where in the cell does this process take place?",
+      "options": [
+        "Only in the mitochondria, without involving the cytoplasm.",
+        "In both the nucleus and the mitochondria.",
+        "Only in the cytoplasm, without involving the mitochondria.",
+        "In the cytoplasm first, before finishing inside the mitochondria."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "An athlete performs a short burst of heavy weightlifting. Why does their body rely on anaerobic cellular respiration during this time?",
+      "options": [
+        "It produces more total energy per glucose molecule than aerobic respiration.",
+        "It provides less energy than aerobic respiration, but provides it more quickly.",
+        "It requires carbon dioxide to start, which is highly available in muscles.",
+        "It prevents the mitochondria from being overloaded with oxygen."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which of the following correctly describes the direction of gas diffusion during gas exchange in human lungs?",
+      "options": [
+        "Oxygen diffuses from the blood into the lungs; carbon dioxide diffuses from the lungs into the blood.",
+        "Oxygen and carbon dioxide both diffuse from the lungs into the blood.",
+        "Oxygen diffuses from the lungs into the blood; carbon dioxide diffuses from the blood into the lungs.",
+        "Oxygen and carbon dioxide both diffuse from the blood into the lungs."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which statement best describes the fundamental chemical nature of cellular respiration?",
+      "options": [
+        "It is a physical process of breathing in oxygen to cool the body down.",
+        "It is a chemical process that uses glucose from food as a fuel to provide energy for life processes.",
+        "It is the absorption of mineral nutrients through the lining of the stomach.",
+        "It is the contraction of chest muscles to pump blood through the body."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A student suggests that plants only perform cellular respiration when they cannot photosynthesize. Why is this incorrect?",
+      "options": [
+        "Plants do not perform respiration because they make their own glucose.",
+        "Plants only perform respiration during the spring to grow new leaves.",
+        "Cellular respiration happens in all living organisms all the time to provide the energy to keep them alive.",
+        "Plants only respire during the day when they can absorb solar energy."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What is a major difference between breathing and cellular respiration?",
+      "options": [
+        "Breathing is a chemical reaction inside cells, while respiration is a mechanical process in the lungs.",
+        "Breathing is the mechanical movement of air in and out of the lungs, while respiration is a chemical process inside cells that releases energy.",
+        "Breathing occurs only in plants, while respiration occurs only in animals.",
+        "Breathing requires glucose as a fuel, while respiration requires only chest movements."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "How is the vital capacity of the human lungs defined?",
+      "options": [
+        "The volume of air left in the lungs after a person exhales as much as possible.",
+        "The typical volume of air breathed in during a relaxed, normal breath.",
+        "The maximum volume of air that can be exhaled after inhaling fully.",
+        "The maximum rate at which oxygen can be absorbed by the blood in one minute."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "If a researcher needs to find a person's total lung volume but cannot measure it directly, how can they obtain a helpful value?",
+      "options": [
+        "By multiplying the breathing rate by the heart rate.",
+        "By calculating an estimate of the lung volume from a measurement of vital capacity.",
+        "By measuring the volume of water the person can swallow in one breath.",
+        "By using a standard value of exactly 2 liters for all humans."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "During the process of inhalation, what muscles contract and how do they move to draw air into the lungs?",
+      "options": [
+        "The diaphragm relaxes and moves up, while the ribcage moves down.",
+        "The diaphragm contracts and moves down, while the ribcage moves up and out.",
+        "The lung muscles contract to pull the ribcage inward.",
+        "The ribcage contracts to squeeze the lungs, forcing air inside."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "According to the pressure model of breathing, why does air move into the lungs when we inhale?",
+      "options": [
+        "The increased volume of the chest cavity lowers the pressure inside below atmospheric pressure, causing air to rush in.",
+        "The increased volume of the chest cavity increases the pressure inside, pushing old air out.",
+        "Air molecules are naturally attracted to the high temperature of the lungs.",
+        "The trachea closes to create a complete vacuum that pulls air through the ribs."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 34
+    }
+  ]
+}
