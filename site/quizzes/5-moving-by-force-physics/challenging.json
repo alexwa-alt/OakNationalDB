@@ -1,0 +1,226 @@
+{
+  "unitKey": "5Moving by forcePhysics",
+  "generatedAt": "2026-08-12T06:17:04.019237+00:00",
+  "questions": [
+    {
+      "question": "Runner A runs at a speed of 8 m/s while Runner B runs at 5 m/s. Which statement correctly compares their journey over a fixed 100-metre distance?",
+      "options": [
+        "Runner A takes less time because a greater speed requires less time to cover a certain distance.",
+        "Runner B takes less time because lower speeds allow more efficient energy use.",
+        "Both take the same time because the distance is identical.",
+        "Runner A takes more time because greater speed increases the distance traveled."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If Drone X flies at a speed of 12 m/s and Drone Y flies at 8 m/s, what is the result if they both fly for a set time of exactly 15 seconds?",
+      "options": [
+        "Drone Y travels a greater distance because it has less air resistance.",
+        "Drone X travels a greater distance because a higher speed covers more distance in a certain time.",
+        "Both drones travel the same distance because the flight duration is identical.",
+        "Drone X travels a shorter distance because higher speeds reduce the time of the flight."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A remote-controlled car travels a total distance of 24 metres in a time of 8 seconds. What is its speed?",
+      "options": [
+        "3 m/s, calculated by dividing 24 metres by 8 seconds.",
+        "192 m/s, calculated by multiplying 24 metres by 8 seconds.",
+        "0.33 m/s, calculated by dividing 8 seconds by 24 metres.",
+        "16 m/s, calculated by subtracting 8 seconds from 24 metres."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A hockey puck is sliding across ice. If a player uses their stick to apply a resultant force in the direction of its movement, what is the immediate effect?",
+      "options": [
+        "The puck will continue at the same speed but change its mass.",
+        "The speed of the puck will change.",
+        "The puck will immediately stop moving.",
+        "The puck's speed will remain completely constant despite the force."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A constant resultant force acts on a trolley for 5 seconds. What happens to the trolley's speed during this 5-second interval?",
+      "options": [
+        "The speed changes only at the exact moment the force is first applied.",
+        "The speed remains constant until the force stops, then it changes.",
+        "The speed changes continuously throughout the entire time the force is acting.",
+        "The speed increases for the first second and then stays constant."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "On a distance-time graph, Line A has a very steep positive gradient, while Line B has a gentle positive gradient. What does this tell you about their movement?",
+      "options": [
+        "Object A is moving slower than Object B.",
+        "Object A is moving faster than Object B.",
+        "Object A has travelled a shorter total distance than Object B.",
+        "Object A has been moving for a longer duration than Object B."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Two balls of identical mass but different shapes—one crumpled into a tight ball and one spread out as a flat sheet—are dropped. Why do they experience different drag forces at the same speed?",
+      "options": [
+        "Drag force depends only on the mass of the falling object.",
+        "Drag force depends on the speed and shape of the falling object.",
+        "Drag force is entirely constant and does not depend on speed or shape.",
+        "Drag force only depends on the gravitational pull of the Earth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A skydiver falls through the air and reaches terminal velocity. Which statement correctly describes the forces acting on the skydiver at this point?",
+      "options": [
+        "The upward drag force is greater than the downward gravitational force.",
+        "The downward gravitational force is greater than the upward drag force.",
+        "The drag and gravitational forces are equal in size.",
+        "There are no forces at all acting on the skydiver at terminal velocity."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How does deploying a parachute affect a falling skydiver's terminal velocity?",
+      "options": [
+        "It increases the terminal velocity by reducing the drag force.",
+        "It decreases the terminal velocity by increasing the drag force.",
+        "It keeps the terminal velocity the same but increases the gravitational force.",
+        "It eliminates terminal velocity entirely so they continue to accelerate forever."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A parachutist has reached their constant top speed during a descent. How does the size of the drag force on the parachute compare to the force of gravity on the jumper?",
+      "options": [
+        "The drag force is larger than the force of gravity.",
+        "The drag force is smaller than the force of gravity.",
+        "The drag force is the same size as the force of gravity.",
+        "The drag force is zero, and only gravity is acting."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A section of a distance-time graph is represented by a perfectly horizontal, level line. What does this indicate about the object's motion?",
+      "options": [
+        "The object is moving at a high, constant speed.",
+        "The object is stationary with no movement.",
+        "The object is accelerating rapidly.",
+        "The object is moving backwards toward its starting point."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "On a distance-time graph representing a journey, Section X has an upward sloping line, while Section Y has a downward sloping line. What do these sections show?",
+      "options": [
+        "Section X shows the object speeding up, while Section Y shows it slowing down.",
+        "Section X and Section Y show movement in opposite directions.",
+        "Section X shows movement forward, while Section Y shows the object is stationary.",
+        "Both sections show movement in the same direction but at different speeds."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A student is measuring the position of a moving toy car against a metre ruler. To ensure an accurate measurement, where should the student position their eyes?",
+      "options": [
+        "At an angle from the side to get a wider view of the ruler.",
+        "In line with the point of observation.",
+        "Slightly above and to the left of the car's front edge.",
+        "Anywhere, as long as the ruler is well-lit."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "During an experiment measuring the time it takes a trolley to roll down a ramp, why is it beneficial to take several repeat readings instead of just one?",
+      "options": [
+        "It completely eliminates all systematic errors in the stopwatch.",
+        "It reduces the effect of random errors.",
+        "It increases the gravitational force acting on the trolley.",
+        "It changes the average speed of the trolley on each run."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A student records the following times for a trolley run: 1.2s, 1.3s, 1.2s, 3.5s, 1.3s. How should they handle the 3.5s reading when calculating the average time?",
+      "options": [
+        "Include it in the average calculation because all data points must be used.",
+        "Add it to the lowest reading and then divide by two.",
+        "Do not use it in calculations because it is an anomalous reading.",
+        "Replace it with a value of zero before calculating the average."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A wooden block is being pulled to the right across a rough table. In which direction does the friction force act on the block?",
+      "options": [
+        "To the right, helping the block to slide.",
+        "Against the direction of movement, which is to the left.",
+        "Upwards, opposing the weight of the block.",
+        "Downwards, pulling the block into the table."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A spacecraft is moving through deep space where there is no gravity and no friction. If its engines are turned off, what will happen to its motion?",
+      "options": [
+        "It will immediately slow down and come to a complete stop.",
+        "It will continue to move at a steady speed in a straight line.",
+        "It will curve in a circle due to its remaining momentum.",
+        "It will slowly lose speed until it eventually stops."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "A student looks at a single, specific point on a distance-time graph. What information does this single point directly describe?",
+      "options": [
+        "The instantaneous speed of the object at that exact moment.",
+        "The total average speed of the entire journey.",
+        "Where the object is at a specific point in time.",
+        "The acceleration of the object at that moment."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "Why does streamlining a submarine make it move more efficiently through the water?",
+      "options": [
+        "It increases the gravitational force pulling it downwards.",
+        "It reduces how much fluid needs to be pushed out of the way for the object to move.",
+        "It increases the surface area to maximize water resistance.",
+        "It allows the submarine to float higher without using its engines."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "As a speedboat increases its speed from 10 km/h to 50 km/h, what happens to the drag force acting on its hull from the water?",
+      "options": [
+        "The drag force decreases because the boat rises out of the water.",
+        "The drag force remains constant because the fluid density is unchanged.",
+        "The drag force increases with speed.",
+        "The drag force becomes zero once the boat reaches its top speed."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 37
+    }
+  ]
+}

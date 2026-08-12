@@ -1,0 +1,226 @@
+{
+  "unitKey": "6Species and classification (differences between species)Biology",
+  "generatedAt": "2026-08-12T06:17:03.828850+00:00",
+  "questions": [
+    {
+      "question": "When scientists classify organisms into a hierarchy of groups within larger groups, what is their primary basis for grouping?",
+      "options": [
+        "The geographic regions where the organisms currently live",
+        "The similarities and differences in the physical and genetic features of the organisms",
+        "The size of the organisms and the type of food they consume",
+        "The historical age of the fossils found near the organisms"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following lists the classification groups in the correct order from the largest, most inclusive group down to the smallest, most specific group?",
+      "options": [
+        "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "Species, Genus, Family, Order, Class, Phylum, Kingdom",
+        "Kingdom, Family, Class, Genus, Phylum, Order, Species",
+        "Genus, Species, Family, Order, Class, Phylum, Kingdom"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Compare a Kingdom to a Genus. Which statement correctly describes the difference between these two classification groups?",
+      "options": [
+        "A Kingdom contains fewer organisms than a Genus, and they share more features.",
+        "A Kingdom contains more organisms than a Genus, and they share fewer features.",
+        "A Kingdom contains fewer organisms than a Genus, and they share fewer features.",
+        "A Kingdom contains more organisms than a Genus, and they share more features."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A horse and a donkey can mate to produce a mule. However, mules are almost always sterile and cannot produce offspring of their own. What does this tell us about horses and donkeys?",
+      "options": [
+        "They belong to the same species because they can successfully mate.",
+        "They belong to different species because their offspring is not fertile.",
+        "They belong to different kingdoms because they have different physical shapes.",
+        "They belong to the same genus but are not classified as living organisms."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "The scientific name for the domestic cat is Felis catus. What do the two parts of this binomial name represent?",
+      "options": [
+        "Felis is the species; catus is the kingdom",
+        "Felis is the family; catus is the genus",
+        "Felis is the genus; catus is the species",
+        "Felis is the class; catus is the order"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why do modern scientists often need to study organisms at the microscopic, cellular level rather than just looking at their visible body parts to classify them?",
+      "options": [
+        "Organisms that look completely different on the outside can have identical cell structures.",
+        "Some organisms look very similar externally but have fundamental differences in their cellular structures.",
+        "Microscopic features are easier to see in the field without any specialized equipment.",
+        "Cellular features change much faster than external features during an organism's lifetime."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which cell feature is present in plant, fungi, and bacterial cells, but is completely absent in animal cells?",
+      "options": [
+        "Cell membrane",
+        "Cytoplasm",
+        "Cell wall",
+        "Nucleus"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "You observe a single-celled organism under a microscope. It has a cell wall and a cell membrane, but no nucleus is visible. In which kingdom should this organism be classified?",
+      "options": [
+        "Animals",
+        "Plants",
+        "Fungi",
+        "Bacteria"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What is the primary purpose of using a classification key in biology?",
+      "options": [
+        "To determine the exact evolutionary age of a newly discovered fossil",
+        "To find out which pre-defined groups or species an unknown organism belongs to",
+        "To count the total population of a specific animal in a habitat",
+        "To change the scientific binomial name of an organism"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following best describes the structure of a typical branching classification key?",
+      "options": [
+        "A series of paired, yes-or-no questions about the observable features of organisms",
+        "A list of definitions of all the kingdoms and species in alphabetical order",
+        "A diagram showing how the cells of different organisms divide over time",
+        "A set of instructions on how to dissect an animal to look at its organs"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Earth is home to millions of different living species. How does the scientific system of classification help us manage this vast biodiversity?",
+      "options": [
+        "It allows us to reduce the total number of species by combining similar ones.",
+        "It helps us organise species into structured groups so we can study and understand their relationships.",
+        "It stops species from becoming extinct by giving them Latin names.",
+        "It guarantees that all organisms in the same habitat will behave in the exact same way."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A group of students is recording observations of plants in a local woodland. Which of the following is the most scientific way to record their findings to ensure they can be interpreted accurately later?",
+      "options": [
+        "Writing down subjective opinions like 'very pretty flowers' and 'ugly leaves'",
+        "Drawing quick sketches from memory after returning to the classroom",
+        "Recording clear, objective details such as leaf shape, flower color, and stem texture at the site",
+        "Only writing down the names of plants they already recognize without looking closely at details"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "While exploring a rocky shore, you find a small shelled animal. How should you use a classification key to identify it?",
+      "options": [
+        "Read through all the names at the end of the key first and guess which one fits best.",
+        "Start at the very first question of the key and follow the path based on the animal's observable physical features.",
+        "Skip questions that are hard to answer and jump straight to the middle of the key.",
+        "Use the key to look up what the animal eats before examining its shell structure."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "When conducting fieldwork in a delicate pond ecosystem, which action best demonstrates working safely and minimizing harm?",
+      "options": [
+        "Pulling up all the water plants to get a clearer view of the swimming insects",
+        "Returning all captured organisms gently back to their exact pond habitat after observing them",
+        "Leaving plastic sample pots behind so other students can reuse them later",
+        "Taking several live frogs back to the classroom to keep as permanent pets"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A ligress is the offspring of a male lion and a female tiger. Ligresses are typically sterile. Which of the following is the correct biological conclusion from this fact?",
+      "options": [
+        "Lions and tigers belong to the same species because they can produce offspring.",
+        "Lions and tigers belong to different species because their offspring cannot reproduce.",
+        "Lions and tigers belong to different kingdoms because they have different coat patterns.",
+        "Lions and tigers are not closely related at all because they cannot mate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "If you compare the classification group 'Class' with the group 'Species', which of the following statements is true?",
+      "options": [
+        "The 'Class' level contains more individual organisms, and they share fewer similarities than those in the 'Species' level.",
+        "The 'Class' level contains fewer individual organisms, and they share more similarities than those in the 'Species' level.",
+        "The 'Species' level contains more individual organisms, and they share fewer similarities than those in the 'Class' level.",
+        "Both levels contain the exact same number of organisms, but their features are totally different."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Two organisms are named Canis lupus and Canis latrans. Based on their binomial names, what can you deduce about their classification?",
+      "options": [
+        "They belong to the same species but different genera.",
+        "They belong to the same genus but different species.",
+        "They belong to completely different kingdoms.",
+        "They are the exact same species of organism."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following correctly highlights a key cellular difference between a multicellular fungus (like a mushroom) and a bacterium?",
+      "options": [
+        "Fungal cells have a nucleus containing their DNA, whereas bacterial cells do not have a nucleus.",
+        "Bacterial cells contain chloroplasts for photosynthesis, whereas fungal cells do not.",
+        "Fungal cells do not have a cell wall, whereas bacterial cells always have one.",
+        "Bacterial cells contain large central vacuoles, whereas fungal cells lack any vacuoles."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A biologist discovers an organism whose cells have a nucleus, a cell wall made of chitin, and no chloroplasts. Into which kingdom should this organism be classified?",
+      "options": [
+        "Plants",
+        "Animals",
+        "Fungi",
+        "Bacteria"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "You are in a field trying to identify an unknown wildflower. Your classification key asks: 'Are the leaves divided into leaflets?' What is the correct next step if you are unsure of the answer?",
+      "options": [
+        "Guess 'yes' and proceed, ignoring any errors it might cause later.",
+        "Look up the definition of 'leaflet' and carefully observe the plant's leaves again before making a choice.",
+        "Discard the key and make up a brand new scientific name for the wildflower.",
+        "Stop the investigation immediately because the key is broken."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    }
+  ]
+}

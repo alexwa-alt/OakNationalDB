@@ -1,0 +1,226 @@
+{
+  "unitKey": "4Understanding chemical reactionsChemistry",
+  "generatedAt": "2026-08-12T06:17:02.315011+00:00",
+  "questions": [
+    {
+      "question": "A student mixes two clear, colourless liquids in a flask. She notices that the flask becomes very cold to the touch, but there is no bubbling or visible colour change. Which statement best explains this observation?",
+      "options": [
+        "A physical mixing process has occurred, but no chemical reaction took place because no gas was produced.",
+        "A chemical reaction occurred, as a change in temperature is a characteristic indicator of a chemical reaction.",
+        "The liquids reacted to form a new gas that was dissolved in the liquid, keeping the temperature low.",
+        "No chemical reaction took place because a colour change is required to confirm a chemical reaction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "During an experiment, a student drops a piece of zinc into a tube of dilute acid. Immediately, small bubbles begin to form on the surface of the metal and rise to the top. What does the appearance of these bubbles directly indicate?",
+      "options": [
+        "The acid is boiling due to the thermal energy released by the zinc metal.",
+        "Air trapped inside the porous zinc metal is escaping as the metal dissolves.",
+        "A gas is being produced as a new substance in a chemical reaction.",
+        "The liquid is undergoing a physical change of state from liquid to gas."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "When methane gas reacts with oxygen, carbon dioxide and water are formed. What happens to the individual atoms during this process?",
+      "options": [
+        "Some carbon and hydrogen atoms are destroyed, and new oxygen atoms are created to balance the reaction.",
+        "The atoms are rearranged into different combinations, forming entirely new substances with different properties.",
+        "The atoms change their internal structure to become different elements.",
+        "The atoms clump together into larger structures without changing which elements are bonded to each other."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A student heats a blue solid in a test tube. It turns into a white powder. When water is added back to the white powder, it turns blue again and releases heat. In contrast, burning a piece of paper turns it into ash, which cannot be turned back into paper. Why is the burning of paper considered a typical chemical reaction while the hydration of the powder is unusual?",
+      "options": [
+        "Paper burning is a physical change, whereas the powder reaction is a nuclear change.",
+        "Typical chemical reactions are generally irreversible, making the burning of paper a standard example.",
+        "Chemical reactions must always produce a gas to be considered irreversible.",
+        "The hydration of the powder does not involve any rearrangement of atoms."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A fire safety officer demonstrates that spraying carbon dioxide onto a burning wooden block extinguishes the fire. Why does this action stop the combustion reaction?",
+      "options": [
+        "It chemically breaks down the wooden fuel into carbon and water.",
+        "It removes the initial source of heat energy required to keep the molecules moving.",
+        "It displaces the oxygen surrounding the fuel, removing one of the essential requirements for combustion.",
+        "It reacts with the wood to make it non-flammable."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A scientist ignites a mixture of hydrogen gas and oxygen gas inside a sealed, dry container. After a spark is introduced, droplets of a clear liquid form on the cool inner walls of the container. What is the identity of this liquid and why did it form?",
+      "options": [
+        "Hydrogen peroxide, because hydrogen always combines with oxygen in a 1:1 ratio.",
+        "Water, because hydrogen and oxygen atoms rearranged and bonded to form water.",
+        "Liquid oxygen, because the spark cooled the oxygen gas down to its liquid state.",
+        "Liquefied fuel, because the pressure inside the container forced the gases to condense."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Charcoal is primarily composed of carbon. When charcoal is burned in a barbecue with a plentiful supply of air, which gas is primarily formed, and which atoms must be present in the reactants for this to happen?",
+      "options": [
+        "Carbon monoxide, which forms because only carbon atoms are present in the reactants.",
+        "Carbon dioxide, which forms because both carbon atoms from the fuel and oxygen atoms from the air are present.",
+        "Hydrogen gas, which forms because carbon atoms decompose into simpler elements.",
+        "Oxygen gas, which is released from the microscopic pores inside the charcoal."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why are carbon dioxide and water so frequently produced in high yields during combustion reactions?",
+      "options": [
+        "They both consist of small molecules that form easily because they contain exceptionally strong chemical bonds.",
+        "They are extremely large, complex molecules that require very little energy to assemble.",
+        "They have weak chemical bonds, meaning they require almost no energy to form from elements.",
+        "They are the only compounds that can exist in a gaseous state at high temperatures."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following chemical word equations describes a decomposition reaction?",
+      "options": [
+        "Sodium + Chlorine -> Sodium chloride",
+        "Methane + Oxygen -> Carbon dioxide + Water",
+        "Copper carbonate -> Copper oxide + Carbon dioxide",
+        "Zinc + Copper sulfate -> Zinc sulfate + Copper"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A student places a sample of pure silver oxide in a test tube at room temperature, but nothing happens. However, when she heats the test tube strongly with a Bunsen burner, a silvery metal remains and a gas is released. Why was heating necessary?",
+      "options": [
+        "Heating was needed to melt the silver so it could react with the glass.",
+        "Decomposition reactions typically require an input of energy, such as heat, to break down a compound.",
+        "Oxygen can only escape from a solid when the temperature is above its boiling point.",
+        "Heat acts as a physical catalyst that is chemically consumed during the reaction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "If a geologist heats a sample of calcium carbonate strongly in a laboratory crucible, what products should they expect to obtain?",
+      "options": [
+        "Calcium metal and carbon dioxide gas",
+        "Calcium oxide and carbon dioxide gas",
+        "Calcium hydroxide and carbon monoxide gas",
+        "Calcium carbide and pure oxygen gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Magnesium ribbon is ignited in air, producing a brilliant white light and leaving behind a white powdery ash. What term describes this type of chemical reaction where magnesium combines with oxygen?",
+      "options": [
+        "Reduction",
+        "Decomposition",
+        "Precipitation",
+        "Oxidation"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A cyclist notices two things: the iron frame of their old bicycle has turned orange-brown and flaky, and the gas in their portable camping stove burns with a blue flame. What chemical classification do these two processes share?",
+      "options": [
+        "They are both decomposition reactions.",
+        "They are both physical changes of state.",
+        "They are both examples of oxidation reactions.",
+        "They are both endothermic reactions that absorb heat from the surroundings."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "When iron reacts with oxygen in the presence of water, it rusts to form hydrated iron oxide. When copper reacts with oxygen at high temperatures, it forms copper oxide. What general rule about oxidation reactions do these two processes demonstrate?",
+      "options": [
+        "The products of oxidation reactions are always identical in every way.",
+        "One of the products of oxidation is always an oxide, though other products can vary.",
+        "Oxidation reactions can only produce gases as their final products.",
+        "No other elements besides oxygen can be present in the products."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A chemistry student mixes a clear, colourless solution of silver nitrate with a clear, colourless solution of sodium chloride. Instantly, the mixture turns cloudy and a white solid settles at the bottom of the beaker. What type of reaction has occurred?",
+      "options": [
+        "A decomposition reaction, because the solutions broke down.",
+        "A precipitation reaction, because two solutions combined to form an insoluble solid.",
+        "A combustion reaction, because energy was released to melt the solid.",
+        "A physical freezing process, because a solid was formed from liquids."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "While investigating an unknown liquid mixture, a scientist adds a few drops of a reagent, and a bright yellow solid suddenly appears suspended in the liquid. Why is the appearance of this solid considered evidence of a chemical reaction?",
+      "options": [
+        "The solid indicates that the liquid has reached its freezing point.",
+        "The solid is a precipitate, and its formation shows that new chemical substances have been produced.",
+        "The solid represents the catalyst that has been discarded by the reactants.",
+        "Dissolved solids always precipitate out when a liquid is stirred."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "At a municipal water treatment plant, dissolved heavy metals and phosphates need to be removed from wastewater before it is discharged into a local river. How are precipitation reactions used to solve this problem?",
+      "options": [
+        "Chemicals are added to turn the dissolved impurities into insoluble solids, which can then be easily filtered out.",
+        "The water is boiled so that the dissolved impurities precipitate as gases into the atmosphere.",
+        "Strong acids are added to dissolve the metals completely so they become invisible.",
+        "Bacteria are introduced to consume the solids and convert them into dissolved solutions."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "In a forensic laboratory, a technician wants to confirm if a clear liquid sample contains dissolved chloride ions. They add a few drops of silver nitrate solution and observe a white precipitate. How is precipitation being used here?",
+      "options": [
+        "To purify the water so it can be safely disposed of in the sink.",
+        "To heat up the solution so that the chloride ions evaporate.",
+        "In qualitative analysis, to identify the presence of specific substances in a solution.",
+        "To measure the total volume of liquid in the sample."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A student seals 10 grams of vinegar and 2 grams of baking soda inside a strong plastic bag. They place the bag on a balance, tip the bag to mix the substances, and observe a vigorous bubbling reaction. Once the bubbling stops, what will the balance read compared to the initial 12 grams?",
+      "options": [
+        "Less than 12 grams, because gas has a negative mass.",
+        "Exactly 12 grams, because the total mass of the products must equal the total mass of the reactants in a closed system.",
+        "More than 12 grams, because the gas produced exerts pressure on the bag.",
+        "Exactly 10 grams, because the baking soda was completely destroyed during the reaction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is the primary purpose of a balanced chemical equation, such as CH4 + 2O2 -> CO2 + 2H2O?",
+      "options": [
+        "To show the physical state and temperature required for the reaction to begin.",
+        "To calculate the speed at which the reactants will turn into products.",
+        "To represent how the atoms in the reactants rearrange to form the products, showing that no atoms are created or lost.",
+        "To list the common names of the chemicals involved in the reaction."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    }
+  ]
+}
