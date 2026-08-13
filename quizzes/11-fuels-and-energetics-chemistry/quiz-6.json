@@ -1,0 +1,226 @@
+{
+  "unitKey": "11Fuels and energeticsChemistry",
+  "generatedAt": "2026-08-13T09:40:10.877898+00:00",
+  "questions": [
+    {
+      "question": "What is the primary way energy is transferred to the surroundings when a fuel is burned?",
+      "options": [
+        "By cooling down the immediate environment",
+        "By heating the surroundings",
+        "By absorbing light from the room",
+        "By creating a vacuum"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How can we compare the amounts of energy transferred by different fuels in a school laboratory?",
+      "options": [
+        "By measuring the sound level of each burning fuel",
+        "By heating a volume of water in a boiling tube with each fuel",
+        "By weighing the ashes left behind on a balance",
+        "By checking the colour of the flame with a light sensor"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "To make a fair comparison between the energy transferred by different fuels, what must be kept the same for each measurement?",
+      "options": [
+        "The mass of the fuel used",
+        "The shape of the boiling tube holder",
+        "The room temperature of the laboratory",
+        "The brand of matches used to light them"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "In an experiment comparing fuels by heating water, which variables regarding the water must be kept constant for each test?",
+      "options": [
+        "Its pH and clarity",
+        "Its density and salt concentration",
+        "Its starting temperature and volume",
+        "Its depth and surface area in the beaker"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When looking at a cooling curve graph of a substance, how can you identify where a change of state is occurring?",
+      "options": [
+        "The line becomes a flat horizontal plateau",
+        "The line goes straight up vertically",
+        "The line begins to curve downwards more steeply",
+        "The line stops completely and disappears"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What happens to energy as a hot substance cools, and what state change might occur?",
+      "options": [
+        "It transfers energy into the surroundings and may condense or freeze",
+        "It absorbs energy from the surroundings and may melt or boil",
+        "It destroys energy and may sublimate into gas",
+        "It keeps its energy constant and may expand in volume"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "As a warm liquid cools down, how is the release of energy to its surroundings observed?",
+      "options": [
+        "An increase in the mass of the liquid",
+        "A decrease in the temperature of the substance",
+        "An increase in the volume of the substance",
+        "A sudden change in the colour of the liquid"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the main observable effect on the surroundings during an exothermic chemical reaction?",
+      "options": [
+        "The temperature of the surroundings decreases",
+        "The temperature of the surroundings increases",
+        "The surroundings turn into a gas",
+        "The pressure of the surroundings drops to zero"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What temperature change is observed in the surroundings during an endothermic chemical reaction?",
+      "options": [
+        "The temperature remains exactly the same",
+        "The temperature increases rapidly",
+        "The temperature decreases",
+        "The temperature fluctuates up and down randomly"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "During an exothermic reaction, how is energy transferred?",
+      "options": [
+        "From the surroundings to the products",
+        "From the reactants to the surroundings",
+        "From the products to the reactants",
+        "From the atmosphere to the container"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How is energy transferred in an endothermic reaction?",
+      "options": [
+        "From the surroundings to the products",
+        "From the products to the surroundings",
+        "From the reactants to the beaker",
+        "From the products to the reactants"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of the following physical changes are classified as endothermic processes?",
+      "options": [
+        "Freezing and condensing",
+        "Melting, evaporation, and boiling",
+        "Condensing and melting",
+        "Freezing and boiling"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why are condensing and freezing described as exothermic processes?",
+      "options": [
+        "They absorb heat energy from the surroundings",
+        "They release energy to the surroundings",
+        "They increase the temperature of the substance itself",
+        "They require continuous heating to take place"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "In the UK, over half of the electricity is generated from which group of energy sources?",
+      "options": [
+        "Coal, oil, and natural gas",
+        "Nuclear power and biomass",
+        "The Sun, wind, and falling water",
+        "Geothermal and waves only"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which fuels do many power stations in the UK burn to heat water into steam?",
+      "options": [
+        "Coal and wood",
+        "Natural gas and oil",
+        "Uranium and hydrogen",
+        "Biomass and charcoal"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "In a steam-driven power station, what is the correct sequence of components used to produce electricity?",
+      "options": [
+        "Steam pushes turbines, which drive electric generators",
+        "Steam heats generators, which spin the solar panels",
+        "Steam cools the turbines, which power the furnace",
+        "Steam turns into water, which directly powers the cables"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which of these fossil fuels is no longer used in UK power stations to generate electricity?",
+      "options": [
+        "Natural gas",
+        "Oil",
+        "Coal",
+        "Petroleum"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which group of fuels all produce greenhouse gases and pollutants when they are burned?",
+      "options": [
+        "Wind, solar, and falling water",
+        "Natural gas, oil, waste, and wood",
+        "Hydrogen, helium, and pure oxygen",
+        "Geothermal, waves, and tides"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why are renewable energy resources defined as resources that will not run out?",
+      "options": [
+        "Because they are replenished more quickly than we use them up",
+        "Because they are stored in infinite underground reservoirs",
+        "Because we only use a tiny fraction of them each year",
+        "Because they are created by chemical reactions inside turbines"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "How do solar panels differ from wind turbines and steam-driven generators when producing electricity?",
+      "options": [
+        "They produce electricity without using electric generators",
+        "They must burn oil to start working",
+        "They require steam to turn their internal coils",
+        "They use falling water to spin magnets"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    }
+  ]
+}

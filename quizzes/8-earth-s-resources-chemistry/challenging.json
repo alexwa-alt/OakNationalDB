@@ -1,6 +1,6 @@
 {
   "unitKey": "8Earth's resourcesChemistry",
-  "generatedAt": "2026-08-12T09:36:54.659023+00:00",
+  "generatedAt": "2026-08-13T09:38:53.719563+00:00",
   "questions": [
     {
       "question": "A geologist finds a specimen of rock that formed from liquid rock cooling within a deep fissure beneath a volcano. What was the liquid rock called before it solidified, and why?",
@@ -661,6 +661,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 30
+    },
+    {
+      "question": "A volcanologist collects one molten rock sample directly from an active surface lava flow, and another molten rock sample trapped deep inside an underground chamber. How should these two samples be scientifically classified?",
+      "options": [
+        "Both samples are classified as lava because they are molten rock.",
+        "The surface sample is lava, while the underground sample is magma.",
+        "The surface sample is magma, while the underground sample is lava.",
+        "Both samples are classified as magma because they contain dissolved gases."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Two igneous rocks, X and Y, formed from the same volcanic system. Rock X has large, visible crystals, while Rock Y has extremely microscopic crystals. What can be inferred about their cooling history?",
+      "options": [
+        "Rock Y cooled much slower than Rock X, causing its crystals to shrink over time.",
+        "Both rocks cooled at the same rate, but Rock X had more water content which grew larger crystals.",
+        "Rock X cooled much slower than Rock Y, allowing atoms more time to arrange into larger crystal structures.",
+        "Rock X cooled rapidly on the surface, while Rock Y cooled slowly deep underground."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A student compares a highly ordered quartz crystal with a piece of volcanic glass. Which of the following statements best explains the difference in their physical appearance based on their atomic structure?",
+      "options": [
+        "The atoms in the quartz crystal are arranged in a highly regular, repeating pattern, whereas the atoms in glass are disordered.",
+        "Glass contains larger atoms than quartz, preventing the formation of smooth, flat crystal faces.",
+        "The quartz crystal was formed under low pressure, allowing atoms to move randomly into flat shapes.",
+        "Glass has a crystalline structure that is too tightly packed to allow light to reflect off its faces."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Deep within a mountain range, a geologist finds a rock containing very large, well-developed crystals that grew without the rock ever melting. How did these crystals grow to such a large size?",
+      "options": [
+        "The rock melted completely into magma, which then cooled extremely slowly over millions of years.",
+        "Fast-moving underground rivers deposited minerals into hollow spaces inside the rock.",
+        "The tectonic plates squeezed water out of the rock, causing the remaining minerals to freeze instantly into large crystals.",
+        "High pressure and temperature between the plates allowed atoms to slowly rearrange and grow crystals within the solid rock."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Builders often choose slate for roofing tiles because it can be easily split into flat, thin sheets. What microscopic feature of slate, a metamorphic rock, gives it this useful physical property?",
+      "options": [
+        "Its crystal grains are aligned in parallel layers, creating weak planes along which the rock splits easily.",
+        "It contains round, interlocking sand grains that roll over each other when struck.",
+        "Its crystals point randomly in all directions, preventing cracks from spreading.",
+        "It is highly porous, allowing water to lubricate the layers so they slide apart."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A student finds a solid specimen and wants to determine if it can be classified as a mineral. Which of the following criteria must the specimen meet?",
+      "options": [
+        "It must be a mixture of several different rock fragments cemented together.",
+        "It must be a naturally occurring, pure substance (element or compound) with a definite crystal structure.",
+        "It must be formed only from organic matter, such as ancient plant or animal remains.",
+        "It must have a variable chemical composition that changes depending on where it is found."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "If you could journey from the outer edge of the Earth's core to the absolute center of the Earth, which sequence of physical states would you pass through?",
+      "options": [
+        "A solid rocky outer core, followed by a liquid metallic inner core.",
+        "A completely liquid metallic core all the way to the absolute center.",
+        "A liquid metallic outer core, followed by a solid metallic inner core.",
+        "A gas-filled outer core surrounding a solid iron-nickel sphere."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Despite having a temperature estimated to be as hot as the surface of the Sun, the Earth's inner core is solid rather than liquid. What explains this phenomenon?",
+      "options": [
+        "The inner core is made of a unique type of rock that has an infinitely high melting point.",
+        "The pressure increases immensely towards the centre of the Earth, forcing the metal particles together into a solid state.",
+        "Constant volcanic activity on the surface draws heat away from the very centre, keeping it cool enough to be solid.",
+        "The outer core acts as a perfect thermal insulator, keeping the inner core frozen."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Geologists discover matching fossil remains of the ancient freshwater reptile Mesosaurus in both South America and Western Africa, but nowhere else in the world. Which scientific idea does this evidence most strongly support?",
+      "options": [
+        "Mesosaurus was capable of swimming across thousands of miles of deep, salty ocean water.",
+        "The continents of South America and Africa were once joined together as part of a single landmass.",
+        "Identical species evolved completely independently on two separate continents at the same time.",
+        "Wind currents carried the heavy bones of dead reptiles across the ocean to deposit them."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A student is handed two unlabeled rock specimens. Under a microscope, Rock A shows crystals that point randomly in many different directions, while Rock B shows crystals that are mostly aligned parallel to each other. How should the student classify these rocks?",
+      "options": [
+        "Rock A is metamorphic and Rock B is igneous.",
+        "Rock A is intrusive igneous and Rock B is extrusive igneous.",
+        "Rock A is igneous and Rock B is metamorphic.",
+        "Both rocks are sedimentary but formed under different water depths."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "A student pours water onto two different rock samples. Water quickly sinks into Rock X, but pools on the surface of Rock Y without soaking in. Based on this observation, what can be concluded about the microscopic texture of these rocks?",
+      "options": [
+        "Rock Y has interlocking grains or crystals making it non-porous, while Rock X has non-interlocking grains making it porous.",
+        "Rock X has interlocking crystals making it highly porous, while Rock Y has rounded grains.",
+        "Both rocks have interlocking grains, but Rock X's grains are much larger.",
+        "Rock Y is porous because its crystals are tightly aligned, drawing water away by capillary action."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Basalt is a fine-grained rock found on the ocean floor, while granite is a coarse-grained rock found deep in continental crust. Which statement correctly classifies these two igneous rocks based on where they formed?",
+      "options": [
+        "Basalt is an intrusive igneous rock formed inside Earth's crust, whereas granite is an extrusive igneous rock formed outside the crust.",
+        "Basalt is an extrusive igneous rock formed outside Earth's crust, whereas granite is an intrusive igneous rock formed inside the crust.",
+        "Both basalt and granite are extrusive rocks, but basalt cooled much slower.",
+        "Both basalt and granite are intrusive rocks, but granite formed from lava."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A geologist discovers a layer of rock containing rounded sand grains, fossilised marine shells, and broken fragments of coral. What does the presence of these specific components tell the geologist about the rock's history?",
+      "options": [
+        "The rock formed in a shallow, marine environment, and the fossils can help indicate how the rock formed and its relative age.",
+        "The rock was formed from rapid cooling of underground magma during a volcanic eruption.",
+        "The rock was subjected to intense heat and pressure deep within the mantle, destroying all original features.",
+        "The rock is extremely young because coral fragments can only survive for a few years inside solid rock."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A builder wants to choose a rock that will not easily crumble or absorb water when used as a foundation. They compare sandstone (made of rounded, cemented grains) and quartzite (made of interlocking grains). Why is quartzite a better choice?",
+      "options": [
+        "Sandstone's rounded grains lock together much tighter than quartzite's angular crystals.",
+        "Interlocking grains in quartzite dissolve in rainwater to form a natural waterproof glue.",
+        "Quartzite's interlocking grains leave no gaps for water to enter, whereas sandstone's rounded grains have spaces between them.",
+        "Sandstone is completely non-porous because its rounded grains block all pathways."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "In a laboratory experiment, scientists try to replicate the deep-earth formation of diamonds from carbon. They heat the carbon to a very high temperature, but the carbon only turns to diamond when they also apply immense pressure. Why is very high pressure necessary?",
+      "options": [
+        "The high pressure is required to push the carbon particles close enough together to bond into a regular crystal structure.",
+        "The high pressure melts the carbon, allowing it to flow into a mould to freeze.",
+        "Pressure cools the carbon down rapidly, which is necessary for large crystals to grow.",
+        "Pressure introduces gas bubbles that act as templates for crystal growth."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Limestone is a sedimentary rock made of fossil shells. When subjected to extreme heat and pressure, it turns into marble, which contains large interlocking crystals and no visible fossils. Which process explains this transformation?",
+      "options": [
+        "Limestone melted completely into magma and cooled slowly to form an intrusive igneous rock.",
+        "Limestone underwent metamorphic change, where extreme heat and pressure altered the original structure.",
+        "Chemical weathering dissolved the fossils, leaving empty cavities that filled with rainwater.",
+        "Tectonic forces crushed the limestone into tiny fragments that were then cemented together by clay."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A drill is designed to penetrate through the Earth's thin crust to reach the layer directly beneath it. What is the name and physical nature of the layer the drill will encounter once it passes through the crust?",
+      "options": [
+        "The mantle, which is a dense rocky layer.",
+        "The outer core, which is a liquid metal layer.",
+        "The inner core, which is a solid iron-nickel sphere.",
+        "The atmosphere, which is a layer of dense gases trapped underground."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A student argues that because the Earth's crust feels completely solid and still beneath our feet, the layers inside the Earth must be completely static and inactive. Which geological phenomena provide direct evidence that contradicts this argument?",
+      "options": [
+        "The gentle flowing of surface rivers and the erosion of sandstone cliffs by wind.",
+        "The formation of tides in the ocean caused by the gravitational pull of the Moon.",
+        "The steady magnetic field of the Earth, which never changes its orientation.",
+        "The occurrence of earthquakes and volcanic eruptions, which show that Earth's layers are dynamic and interact with each other."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "GPS measurements show that North America and Europe are moving away from each other at a rate of about 2.5 centimetres per year. Which statement best explains this observation in terms of Earth's structure?",
+      "options": [
+        "Earth's crust is broken into large pieces called tectonic plates, which move very, very slowly over time.",
+        "Ocean currents are pushing the continental landmasses apart across the seafloor.",
+        "The Earth is expanding rapidly, increasing the distance between all cities.",
+        "Human activities and coastal erosion are washing the edges of the continents away."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A student is examining a rock sample and notices it contains rounded pebbles of quartz and small fragments of broken sea shells, all held together by a fine, sandy matrix. What type of rock is this, and how did its features likely form?",
+      "options": [
+        "It is an igneous rock, formed when molten lava incorporated surface debris just before freezing.",
+        "It is a metamorphic rock, formed when high heat melted and blended different rock types.",
+        "It is a mineral, because it has a uniform crystal structure throughout its entire mass.",
+        "It is a sedimentary rock, formed as fragments of shell, pebbles, and sand were compacted and cemented together."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 28
     }
   ]
 }

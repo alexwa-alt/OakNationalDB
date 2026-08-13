@@ -1,6 +1,6 @@
 {
   "unitKey": "10Reproduction in humansBiology",
-  "generatedAt": "2026-08-12T06:17:45.153935+00:00",
+  "generatedAt": "2026-08-13T09:39:49.042011+00:00",
   "questions": [
     {
       "question": "How do human gametes (sperm and egg cells) differ fundamentally from other body cells, such as skin or muscle cells?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 33
+    },
+    {
+      "question": "A scientist analyzes the DNA of a child and compares it to their biological parents. Which of the following profiles would most accurately represent sexual reproduction?",
+      "options": [
+        "The child's DNA is a 100% match with only one parent, representing a complete clone.",
+        "The child's DNA consists of approximately 50% of the genetic material from the mother and 50% from the father.",
+        "The child's DNA contains 100% of the father's DNA and none of the mother's DNA.",
+        "The child's DNA consists of 75% of the mother's DNA and 25% of the father's DNA."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "If a blockage occurs in both of a woman's fallopian tubes, how would this directly affect her fertility?",
+      "options": [
+        "It would prevent the ovaries from producing hormones and initiating the menstrual cycle.",
+        "It would prevent sperm from reaching the egg, preventing fertilisation and the formation of a zygote.",
+        "It would stop the embryo from implanting in the uterus wall although fertilisation still happens.",
+        "It would prevent the production and maturation of eggs inside the ovaries."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If a normal human body cell contains 46 chromosomes, how many chromosomes are present in a human sperm cell and a human zygote respectively?",
+      "options": [
+        "23 in the sperm cell and 23 in the zygote",
+        "46 in the sperm cell and 46 in the zygote",
+        "23 in the sperm cell and 46 in the zygote",
+        "46 in the sperm cell and 92 in the zygote"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which of the following best describes the structural transitions that occur from fertilization to later stages of development?",
+      "options": [
+        "A single-celled zygote divides into an embryo, which then develops specialized cells and tissues to become a foetus.",
+        "A multi-celled zygote merges with other zygotes to form an embryo, which becomes a single-celled foetus.",
+        "An embryo divides to form a zygote, which then matures into a foetus without any cellular changes.",
+        "A single-celled foetus divides to form an embryo, which then develops into a zygote with specialized tissues."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "During pregnancy, a sudden physical impact to the mother's abdomen occurs. What is the primary role of the amniotic fluid in this scenario?",
+      "options": [
+        "It provides oxygen and nutrients directly to the foetus's bloodstream to maintain energy.",
+        "It acts as a shock absorber, protecting the developing foetus from physical damage.",
+        "It filters out harmful chemicals and pathogens before they reach the foetus.",
+        "It regulates the exchange of waste products between the mother and the foetus."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How does the placenta support the metabolic needs of the growing foetus?",
+      "options": [
+        "It allows the direct mixing of maternal and foetal blood to share nutrients and waste products.",
+        "It produces nutrients and stores waste independently of the mother's body.",
+        "It acts as a site of exchange where nutrients pass from mother to foetus and waste products pass from foetus to mother.",
+        "It pumps maternal blood directly into the foetus's digestive system and heart."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which sequence of physical changes correctly describes the process of childbirth?",
+      "options": [
+        "The vagina contracts, the uterus wall opens, and the cervix pushes the baby out.",
+        "The cervix closes tightly, the vagina contracts, and the uterus wall expands to release the baby.",
+        "The cervix opens, and the muscular wall of the uterus contracts to push the baby out through the vagina.",
+        "The ovaries contract, the fallopian tubes open, and the baby is pushed directly through the cervix."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why is a pregnant woman advised to avoid alcohol and smoking?",
+      "options": [
+        "These substances block the fallopian tubes and prevent the baby from breathing.",
+        "These substances can pass through the placenta from the mother's bloodstream to the foetus.",
+        "These substances prevent the amniotic fluid from protecting the foetus against physical shocks.",
+        "These substances cause the cervix to close permanently, preventing natural birth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "If a pregnant mother is exposed to high levels of chemicals from cigarette smoke, which of the following represents a potential short-term consequence for the pregnancy?",
+      "options": [
+        "The child developing an immediate chemical addiction after reaching adulthood.",
+        "Sudden infant death syndrome occurring several years after birth.",
+        "A higher risk of miscarriage, premature birth, or low birth weight.",
+        "The permanent alteration of the biological parents' adult DNA."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "If a mother consumes alcohol throughout her pregnancy, which long-term consequence might the child face as they grow up?",
+      "options": [
+        "A temporary reduction in birth weight that is corrected within the first week.",
+        "An immediate blockage of the fallopian tubes preventing future ovulation.",
+        "Foetal alcohol spectrum disorder, which has lasting impacts on development.",
+        "An increase in the amniotic fluid volume leading to faster physical growth."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is the primary role of the testes in the male reproductive system?",
+      "options": [
+        "They produce and store fluid that lubricates the urethra during fertilisation.",
+        "They are the site where sperm cells are produced and stored.",
+        "They carry sperm cells from the reproductive system to the outside of the body.",
+        "They mature the egg cells before they are transferred to the female reproductive system."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How does the production and release of egg cells in females differ from sperm production in males?",
+      "options": [
+        "Females produce new eggs daily throughout life, whereas males are born with all their sperm.",
+        "Females are born with all their eggs and release one each month, whereas males continuously produce sperm.",
+        "Females release all their eggs simultaneously during puberty, whereas males release sperm monthly.",
+        "Females only produce eggs after fertilisation occurs, whereas males produce sperm before birth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is the biological significance of the physical changes that occur during puberty?",
+      "options": [
+        "They allow the body to stop producing sex hormones entirely.",
+        "They cause the body to switch from sexual reproduction to asexual reproduction.",
+        "They mature the reproductive systems to enable adult humans to reproduce.",
+        "They immediately trigger the start of the gestation period in both males and females."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What triggers the physical and physiological changes during puberty in both males and females?",
+      "options": [
+        "The sudden production of amniotic fluid in the body.",
+        "An increase in the production of sex hormones.",
+        "The rapid division of zygotes within the circulatory system.",
+        "A decrease in the activity of the ovaries and testes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "A child has their father's eye colour and their mother's hair texture. What genetic principle explains this family resemblance?",
+      "options": [
+        "The child inherited all of their genetic material from a single parent.",
+        "The child inherited features from both parents, making them look similar to both parents.",
+        "The child's features were determined entirely by environmental factors after birth.",
+        "The child's DNA contains no instructions for building body features."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "How are physical characteristics, such as height and facial structure, passed down through generations?",
+      "options": [
+        "Through the transfer of blood from the mother to the baby via the placenta.",
+        "Through the passing of genetic material (DNA) from parents to offspring during reproduction.",
+        "Through nutrients absorbed by the embryo within the amniotic sac.",
+        "Through physical contact and learning behaviours during early childhood."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "What is the fundamental function of the genetic material (DNA) passed to a zygote?",
+      "options": [
+        "It provides the physical barrier that protects the embryo from external shocks.",
+        "It acts as a temporary energy source until the placenta is fully developed.",
+        "It contains the instructions for building the body and all of its features.",
+        "It stimulates the uterus wall to contract during the birthing process."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Which of the following events describes ovulation in the human menstrual cycle?",
+      "options": [
+        "The breakdown and shedding of the uterus lining from the body.",
+        "The joining of sperm and egg cells in the fallopian tubes.",
+        "The release of an egg cell from an ovary.",
+        "The division of a zygote to form an embryo."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "If fertilisation does not occur after ovulation, what sequence of events takes place next in the menstrual cycle?",
+      "options": [
+        "The uterus lining breaks down and leaves the body during menstruation.",
+        "The ovaries immediately produce a zygote which implants in the uterus lining.",
+        "The cervix closes and the gestation period of 40 weeks begins.",
+        "The fallopian tubes contract to push the unfertilised egg back into the ovary."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "How does the reproduction stage of the life cycle in seed-producing plants compare to that in humans?",
+      "options": [
+        "Plants produce a seed that grows into a new plant, whereas humans produce a baby that grows into a new human.",
+        "Plants undergo a gestation period of 40 weeks inside an amniotic sac, similar to humans.",
+        "Plants do not have a life cycle and reproduce without passing on genetic material.",
+        "Plants release gametes that form a zygote which directly grows into an adult without an embryo stage."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
     }
   ]
 }
