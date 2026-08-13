@@ -1,6 +1,6 @@
 {
   "unitKey": "9Series circuitsPhysics",
-  "generatedAt": "2026-08-12T09:37:30.087826+00:00",
+  "generatedAt": "2026-08-13T09:39:21.949412+00:00",
   "questions": [
     {
       "question": "A scientist compares two different series circuits. Circuit A uses a 9V battery and Circuit B uses a 1.5V battery. Both circuits are otherwise identical. Why does Circuit A have a larger current flowing through it?",
@@ -661,6 +661,226 @@
       ],
       "correctAnswerIndex": 2,
       "learningPointIndex": 1
+    },
+    {
+      "question": "A series circuit contains a 9V battery, a bulb, and a resistor. If the voltage across the bulb is measured as 3.5V, what is the voltage across the resistor?",
+      "options": [
+        "9.0V",
+        "5.5V",
+        "3.5V",
+        "12.5V"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A torch is powered by three 1.5V cells connected in series, pointing in the same direction. One of the cells is accidentally inserted backwards, meaning its voltage opposes the others. What is the total voltage of this battery arrangement?",
+      "options": [
+        "4.5V",
+        "3.0V",
+        "1.5V",
+        "0V"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When a switch is closed in a series circuit containing a very long wire, a bulb at the far end lights up almost instantly. Which of the following best explains this observation?",
+      "options": [
+        "Electrons travel from the battery to the bulb at the speed of light.",
+        "Electric charge is only present in the battery and rushes through the wire instantly.",
+        "Electrons are already present throughout the wire and all start moving at the same time.",
+        "The bulb contains a reservoir of charge that does not need the battery's electrons to light up."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "If electrons in a copper wire under typical circuit conditions move at a drift speed of only a few millimetres per second, how does the current travel so quickly?",
+      "options": [
+        "The electric field propagates through the wire extremely quickly, causing all electrons to move almost simultaneously.",
+        "High voltage squashes the electrons so they can slide past each other at supersonic speeds.",
+        "The electrons near the battery travel much faster than the electrons near the bulb.",
+        "The wire has zero resistance, allowing the electrons to accelerate to the speed of light instantly."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A series circuit contains a battery, a working buzzer, and a broken, open-circuit switch. To make the buzzer sound without replacing the switch, where should a technician connect a bypass wire?",
+      "options": [
+        "From the positive terminal of the battery directly to the negative terminal of the battery.",
+        "Across the terminals of the working buzzer.",
+        "From one terminal of the broken switch to the other terminal of the broken switch.",
+        "From the buzzer directly to the air to ground the circuit."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Why is an ideal ammeter designed to have a resistance that is as close to zero ohms as possible?",
+      "options": [
+        "To ensure that it draws maximum power from the battery to light up its display.",
+        "So that it does not reduce the overall current flowing through the circuit being measured.",
+        "To prevent voltage from being able to pass through the ammeter.",
+        "So that it can block any electrostatic charges from entering the circuit."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "In a series circuit containing a 6V battery, a 10-ohm resistor, and a 20-ohm resistor, Ammeter A1 is placed between the battery and the 10-ohm resistor. Ammeter A2 is placed between the two resistors. How do the readings on A1 and A2 compare?",
+      "options": [
+        "The reading on A1 is twice as large as the reading on A2.",
+        "The reading on A2 is twice as large as the reading on A1.",
+        "The reading on A1 is exactly equal to the reading on A2.",
+        "The reading on A1 is larger because current is used up by the first resistor."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "An extra bulb is added in series to an existing, working single-bulb series circuit. What happens to the current flowing through the wire connected directly to the positive terminal of the battery?",
+      "options": [
+        "It remains exactly the same because the new bulb is on the other side of the circuit.",
+        "It increases because the battery has to push harder to get current through both bulbs.",
+        "It decreases because the overall resistance of the circuit has increased, affecting the current everywhere.",
+        "It drops to zero because current cannot flow through two bulbs in a single loop."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A student wants to measure the potential difference across a bulb in a series circuit. How should they connect the voltmeter?",
+      "options": [
+        "In series, by breaking the circuit loop and inserting the voltmeter next to the bulb.",
+        "In parallel, by connecting one lead to each of the two terminals of the bulb.",
+        "By connecting both leads of the voltmeter to the same terminal of the bulb.",
+        "In parallel, by connecting one lead to the bulb and the other lead to the metal desk."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Two identical lightweight plastic spheres are suspended by nylon threads close to each other. Both spheres are rubbed with the same woolen cloth and acquire a negative charge. What will be observed?",
+      "options": [
+        "The spheres will swing towards each other and cling together.",
+        "The spheres will swing away from each other due to electrostatic repulsion.",
+        "One sphere will rotate while the other remains completely still.",
+        "The spheres will show no movement because plastic cannot hold a charge."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "Why is it highly difficult to charge a copper rod by holding it in your bare hand and rubbing it with a dry cloth?",
+      "options": [
+        "Copper is an insulator, so charges cannot be transferred to its surface.",
+        "Copper is a metal, so any transferred charge immediately flows through the rod and your body to the earth.",
+        "Copper has no electrons in its atoms, preventing static charge from forming.",
+        "The rubbing action destroys the positive charges in the copper rod instantly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "What does a high voltage rating on a household battery primarily indicate about its electrical capability?",
+      "options": [
+        "It contains a larger total number of electrons than a low voltage battery.",
+        "It can push electric current around a circuit with greater strength.",
+        "It will always discharge its energy much slower than a low voltage battery.",
+        "It is physically larger and heavier than any low voltage battery."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In a direct current (DC) series circuit powered by a chemical battery, in what direction do the mobile electrons move?",
+      "options": [
+        "They vibrate back and forth around fixed positions without moving along the wire.",
+        "They flow continuously in one direction, out of the negative terminal and towards the positive terminal.",
+        "They flow simultaneously out of both terminals and collide in the middle of the bulb.",
+        "They flow out of the positive terminal, through the bulb, and into the negative terminal."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which statement is true about the copper wires in a circuit when the switch is open and no current is flowing?",
+      "options": [
+        "The wires contain no electric charges at all until the battery is connected.",
+        "The wires contain only positive charges, and negative charges are only supplied by the battery.",
+        "The wires contain both positive and negative charges within their atoms, but there is no overall net movement.",
+        "All electric charges in the wires have escaped into the surrounding air because the switch is open."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "You are troubleshooting a series circuit containing a battery, a switch, and a bulb. When the switch is closed, the bulb does not light up. Upon close inspection, you notice a tiny gap in the thin wire inside the bulb's glass envelope. Why does this stop the entire circuit from working?",
+      "options": [
+        "The gap causes the voltage of the battery to immediately drop to zero.",
+        "The broken filament creates an air gap in the path, preventing current from flowing through the circuit.",
+        "The broken filament causes the electrons to flow backwards into the battery.",
+        "The gap turns the remaining metal in the bulb into a highly charged insulator."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A student builds a series circuit with a battery, a switch, and a buzzer, but the buzzer does not sound when the switch is closed. A tester reveals that the copper inside one of the plastic-coated connecting wires has snapped, though the plastic coating looks perfect. Why does this prevent the buzzer from working?",
+      "options": [
+        "The plastic coating conducts the electricity away from the buzzer.",
+        "The break inside the wire creates a hidden gap, making the circuit incomplete.",
+        "The snapped copper wire increases the voltage of the battery beyond safety limits.",
+        "The gap causes the positive and negative terminals of the battery to fuse together."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the defining characteristic of a series circuit?",
+      "options": [
+        "It must contain at least three different types of components connected in parallel.",
+        "There is only one single, continuous loop for the current to flow from one terminal of the power source to the other.",
+        "The current is split equally among several branching pathways.",
+        "It contains only switches and no bulbs or buzzers."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A balloon is rubbed on a wool sweater and then held near a slow stream of tap water. The stream of water bends towards the balloon without touching it. What does this demonstrate?",
+      "options": [
+        "The balloon has magnetic poles that attract the oxygen in the water.",
+        "The static electric charge on the balloon exerts an attractive force on the charges within the water molecules.",
+        "The balloon acts as a vacuum, sucking the water towards it through air currents.",
+        "Water is a metal and conducts the charge away from the balloon instantly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "If Object A is positively charged and Object B is negatively charged, what will happen when they are brought close to each other without touching?",
+      "options": [
+        "They will push each other away with a repulsive force.",
+        "They will pull towards each other with an attractive force.",
+        "Nothing will happen because they have different types of charge.",
+        "They will both lose their charge instantly before any force can be exerted."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "Which of the following statements best describes the distribution of electric charge inside a typical neutral atom of a copper wire?",
+      "options": [
+        "The atom contains only positive charges located in its outer shell.",
+        "The atom contains only negative charges distributed evenly throughout.",
+        "The atom contains positive charges in its central nucleus and negative charges surrounding it, balancing each other out.",
+        "The atom contains no electric charges whatsoever until it is connected to a power supply."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 35
     }
   ]
 }
