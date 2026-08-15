@@ -1,6 +1,6 @@
 {
   "unitKey": "11Fuels and energeticsChemistry",
-  "generatedAt": "2026-08-12T06:17:37.430574+00:00",
+  "generatedAt": "2026-08-15T08:52:59.641108+00:00",
   "questions": [
     {
       "question": "A student burns a small piece of ethanol under a copper can of water. Which statement best describes how energy is transferred to the water?",
@@ -218,6 +218,226 @@
         "Solar panels produce electricity directly without using electric generators.",
         "Solar panels must use an electric generator spun by light beams.",
         "Solar panels are highly polluting because they must burn silicon to work."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A student burns a small piece of ethanol under a beaker of water. They observe that the temperature of the water increases. Which statement best explains this energy transfer?",
+      "options": [
+        "Chemical energy stored in the fuel is destroyed, creating thermal energy in the water.",
+        "Burning the fuel transfers energy by heating to its surroundings, which includes the water.",
+        "Energy is transferred from the cold water into the burning fuel to make it burn faster.",
+        "The fuel absorbs heat from the air, which is then concentrated into the water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "To compare the energy released by burning ethanol versus burning propanol, a student heats a fixed volume of water in a boiling tube with each fuel. What is the primary purpose of using a boiling tube of water in this experiment?",
+      "options": [
+        "To act as a reservoir that absorbs and measures the energy transferred by each fuel.",
+        "To prevent the fuel from evaporating into the air before it can be ignited.",
+        "To speed up the combustion reaction of the fuels so they burn completely.",
+        "To keep the fuel at a constant temperature throughout the burning process."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A student wants to compare the energy output of two different liquid fuels. They set up two identical boiling tubes with water. Why must they ensure that the mass of fuel actually burned is identical in both tests?",
+      "options": [
+        "To ensure that both fuels reach their boiling points at the exact same time.",
+        "Because a larger mass of the same fuel would transfer more energy, making the comparison unfair.",
+        "To guarantee that the chemical composition of the fuels does not change during combustion.",
+        "Because the mass of the fuel directly determines the volume of water that can fit in the tube."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "In an experiment comparing the energy content of food fuels, why is it essential to use the exact same starting temperature and volume of water in the boiling tube for every test?",
+      "options": [
+        "To ensure the water reaches its boiling point of 100°C in every single test.",
+        "Different starting temperatures and volumes would affect the temperature rise, preventing a fair comparison of energy transferred.",
+        "To make sure that the mass of the fuel consumed remains completely constant.",
+        "Because water changes its chemical composition if heated from different initial temperatures."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A liquid substance is left to cool, and its temperature is recorded over time. The resulting graph shows a sloping line downwards, then a flat horizontal section, followed by another downward slope. What is happening during the flat horizontal section?",
+      "options": [
+        "The substance is warming up rapidly due to an endothermic process.",
+        "The substance is changing state, and the temperature remains constant during this time.",
+        "The thermometer has stopped working because the substance has become too cold.",
+        "The substance is cooling at its fastest rate because there is no energy transfer."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When gaseous water vapor cools and condenses into liquid water on a cold windowpane, what is happening to the energy of the system?",
+      "options": [
+        "Energy is absorbed by the water vapor from the cold windowpane.",
+        "Energy is transferred from the water vapor to the surroundings by heating.",
+        "No energy is transferred because condensation is a purely physical shape change.",
+        "Energy is created within the water droplets to help them stick to the glass."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When magnesium ribbon is added to hydrochloric acid in a polystyrene cup, the temperature reading on the thermometer increases from 21°C to 35°C. How should this reaction be classified and why?",
+      "options": [
+        "Endothermic, because the system is absorbing heat from the thermometer.",
+        "Exothermic, because energy is transferred to the surroundings, raising the temperature.",
+        "Endothermic, because chemical bonds are being broken which always releases coldness.",
+        "Exothermic, because the mass of the solution decreases during the reaction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A student dissolves ammonium nitrate in water and notices that the beaker feels extremely cold to the touch, with the thermometer showing a drop of 12°C. What does this temperature decrease indicate?",
+      "options": [
+        "The reaction is endothermic because it has transferred energy from the surroundings.",
+        "The reaction is exothermic because it has released cold energy into the surroundings.",
+        "The reaction is endothermic because it has destroyed thermal energy inside the beaker.",
+        "The reaction is exothermic because the temperature of the reactants has increased."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "During a neutralisation reaction between sodium hydroxide and hydrochloric acid, energy is transferred. Which of the following correctly describes the energy flow in this exothermic reaction?",
+      "options": [
+        "Energy is transferred from the surroundings into the chemical products.",
+        "Energy is transferred from the chemical reactants to the surroundings.",
+        "Energy is created out of nothing and stored entirely within the chemical bonds.",
+        "Energy is transferred from the container walls into the reacting mixture."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Photosynthesis is a chemical process where green plants convert carbon dioxide and water into glucose and oxygen using light. Which statement correctly describes the energetics of this process?",
+      "options": [
+        "It is endothermic because energy is transferred from the surroundings (sunlight) to the products.",
+        "It is exothermic because it releases oxygen which contains high thermal energy.",
+        "It is endothermic because energy is transferred from the plant's roots to the soil.",
+        "It is exothermic because glucose stores less energy than the carbon dioxide and water."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why must you continuously heat a beaker of liquid water on a Bunsen burner to keep it boiling?",
+      "options": [
+        "Because boiling is an exothermic process that requires a spark to keep it going.",
+        "Because boiling is an endothermic process that requires a continuous transfer of energy from the surroundings to break intermolecular forces.",
+        "Because water absorbs cold from the air and needs constant neutralisation by the flame.",
+        "Because the steam produced cools down the remaining liquid, which must be reheated."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "When liquid water is placed in a freezer, it eventually turns into ice. Which statement correctly describes the thermal energy transfer during this freezing process?",
+      "options": [
+        "Ice actively absorbs coldness from the freezer, making freezing an endothermic process.",
+        "Freezing is an exothermic process because the water must transfer energy to its surroundings to form solid bonds.",
+        "Freezing is endothermic because energy must be added to the water to make its molecules stop moving.",
+        "No energy is transferred because freezing only changes the shape of the water molecules."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following statements is true regarding the current sources used to generate the majority of electricity in the UK?",
+      "options": [
+        "Coal-fired power stations still produce over 80% of the UK's electricity.",
+        "Over half of the electricity in the UK is generated from renewable sources like the Sun, wind, and falling water.",
+        "Nuclear power is the sole source of over 95% of the UK's electrical energy.",
+        "The UK imports all of its electricity from European solar farms."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In many UK thermal power stations, how is the water heated to produce the high-pressure steam required for electricity generation?",
+      "options": [
+        "By utilizing geothermal heat directly from deep volcanic vents.",
+        "By burning fossil fuels like natural gas and oil to release thermal energy.",
+        "By using electricity from the grid to power large immersion heaters.",
+        "By mixing acids and alkalis in massive exothermic neutralization tanks."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is the correct sequence of energy transfers and mechanical events in a typical fossil-fuel-burning power station?",
+      "options": [
+        "Burning fuel heats steam -> steam directly powers the generator -> generator spins the turbine.",
+        "Burning fuel heats water to make steam -> moving steam pushes turbines -> turbines drive generators to produce electricity.",
+        "Steam is condensed into water -> water spins the generator -> generator heats the turbine.",
+        "Electricity spins the generator -> generator drives the turbine -> turbine produces steam."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A student is analyzing the types of fossil fuels currently used to generate electricity in UK power stations. Which of the following statements correctly summarizes current practice?",
+      "options": [
+        "Coal remains the primary fossil fuel, while natural gas has been completely banned.",
+        "Natural gas and oil are still used in power stations, but coal is no longer used.",
+        "Coal and oil are used extensively, but natural gas is only used for domestic cooking.",
+        "All fossil fuels, including natural gas, oil, and coal, have been completely phased out of UK power stations."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Some power stations burn wood pellets (biomass) or municipal waste instead of coal. Why must we still be concerned about the atmospheric impact of burning these fuels?",
+      "options": [
+        "Burning wood and waste does not produce any heat, only smoke.",
+        "Like natural gas and oil, burning waste and wood still produces greenhouse gases and pollutants.",
+        "Wood and waste release large amounts of helium, which depletes the ozone layer.",
+        "They consume all the oxygen in the atmosphere, leaving none for respiration."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why are solar energy, wind energy, and hydroelectric power classified as \"renewable\" energy resources?",
+      "options": [
+        "Because they can be recycled in a laboratory after they have been used to make electricity.",
+        "Because they are replenished more quickly than we use them up, meaning they will not run out.",
+        "Because they do not require any turbines or generators to produce electricity.",
+        "Because they release carbon dioxide which helps plants grow faster, renewing the forests."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "How can thermal power stations that burn biomass, oil, or gas be adapted to use the same basic turbine and generator setup?",
+      "options": [
+        "They cannot; each fuel requires a completely different type of turbine that does not use steam.",
+        "The heat from burning any of these fuels is used to boil water, creating moving steam that spins the turbine.",
+        "The fuel itself is sprayed directly onto the turbine blades to make them spin by chemical pressure.",
+        "These fuels are mixed with water to make a thick liquid that is pumped through the turbine."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Most utility-scale electricity generation methods rely on spinning generators. How do solar photovoltaic panels differ from these traditional methods?",
+      "options": [
+        "Solar panels use tiny internal steam turbines powered by light.",
+        "Solar panels produce electricity directly from sunlight without using an electric generator.",
+        "Solar panels must be connected to wind turbines to function.",
+        "Solar panels use chemical combustion of silicon to spin miniature internal motors."
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 24

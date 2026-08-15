@@ -1,0 +1,226 @@
+{
+  "unitKey": "13Diet and exerciseBiology",
+  "generatedAt": "2026-08-15T08:53:52.447131+00:00",
+  "questions": [
+    {
+      "question": "Which of the following lists contains only recognized food groups?",
+      "options": [
+        "Protein, carbohydrate, lipids, water, minerals, vitamins, fibre",
+        "Protein, sugar, dairy, energy, water, minerals, fat",
+        "Carbohydrate, calcium, vitamins, glucose, fibre, protein",
+        "Lipids, meat, starch, water, minerals, vitamins, fibre"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why might a pregnant woman require more of certain nutrients, such as iron, compared to a non-pregnant woman of the same age?",
+      "options": [
+        "Because she needs to support the growth and development of the fetus",
+        "Because she is less active during pregnancy",
+        "Because iron is used to generate quick energy during daily exercise",
+        "Because her body stops absorbing other nutrients from food"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "If 10 g of water rises in temperature by 5 °C when a piece of food is burned under it, how much energy (in Joules) was transferred to the water? (Use: Energy = mass of water × rise in temp × 4.2)",
+      "options": [
+        "50 J",
+        "210 J",
+        "42 J",
+        "21 J"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What is the main reason our body needs food as a source of building materials?",
+      "options": [
+        "To make biomass for growth and to repair damaged tissues",
+        "To completely replace water lost through sweating",
+        "To produce carbon dioxide for our lungs",
+        "To prevent our muscles from moving"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Food provides fuel for cellular respiration. What is the primary purpose of cellular respiration in living organisms?",
+      "options": [
+        "To generate oxygen for the atmosphere",
+        "To provide energy for essential life processes",
+        "To store unused water in the kidneys",
+        "To build protective outer shells on cells"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Where can you find information about the nutrient content and the daily recommended amounts of energy for a specific food product?",
+      "options": [
+        "On the food packaging labels",
+        "In a dictionary of science terms",
+        "On the receipt from the supermarket",
+        "By weighing the food on a kitchen scale"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which two units are commonly used on food packaging to compare the amount of energy provided by different foods?",
+      "options": [
+        "Grams and kilograms",
+        "Kilojoules and calories",
+        "Milliliters and liters",
+        "Newtons and joules"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which two measurements of a person are needed to calculate their Body Mass Index (BMI)?",
+      "options": [
+        "Height and body mass",
+        "Waist circumference and age",
+        "Heart rate and lung capacity",
+        "Body mass and daily water intake"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What can happen to a person's BMI if they consistently consume much more food than their body needs?",
+      "options": [
+        "Their BMI will decrease rapidly",
+        "Their BMI will remain completely unchanged",
+        "Their BMI will become too high, which can lead to obesity",
+        "Their BMI will fluctuate but always stay in the underweight range"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Obesity is a serious health condition. Which of the following is a long-term health issue that obesity increases the risk of developing?",
+      "options": [
+        "Scurvy",
+        "Heart disease",
+        "Color blindness",
+        "Hemophilia"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What is the term for a disease caused specifically by a lack of a particular nutrient in a person's diet?",
+      "options": [
+        "Infectious disease",
+        "Genetic disorder",
+        "Deficiency disease",
+        "Chronic disease"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What does the term \"recovery time\" mean in relation to exercise?",
+      "options": [
+        "The time it takes for a person to run a fixed distance",
+        "The time it takes for the heart rate to return to its resting rate after exercise",
+        "The duration of the entire exercise session",
+        "The time spent sleeping after a heavy workout"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How does physical fitness generally affect a person's recovery time after exercise?",
+      "options": [
+        "Fitter people have a shorter recovery time",
+        "Fitter people have a longer recovery time",
+        "Fitness has no effect on recovery time",
+        "Fitter people do not have a recovery time because their heart rate never increases"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "In an investigation to see how different types of physical activities affect a student's pulse rate, what is the independent variable?",
+      "options": [
+        "The pulse rate",
+        "The type or amount of exercise",
+        "The temperature of the room",
+        "The time of day the test is done"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "If you are investigating the effect of exercise on heart rate, which of the following should be kept as a control variable to ensure a fair test?",
+      "options": [
+        "The heart rate of the participant after exercise",
+        "The person performing the exercise and the duration of the exercise",
+        "The type of shoes worn by the observer",
+        "The total number of beats recorded during recovery"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "When plotting a bar chart to compare the heart rates of students after three different types of exercises (walking, jogging, running), where should the type of exercise be placed?",
+      "options": [
+        "On the y-axis, because it is continuous data",
+        "On the x-axis, because it is categoric data",
+        "In a key next to the graph only",
+        "On both the x-axis and the y-axis"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "When plotting a bar chart of heart rate after different exercises, where should the dependent variable (heart rate) be placed?",
+      "options": [
+        "On the y-axis",
+        "On the x-axis",
+        "Only in the title of the chart",
+        "Along a diagonal line across the chart"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Why do both breathing rate and heart rate increase when a person is exercising?",
+      "options": [
+        "Because cells need more oxygen for cellular respiration to release energy",
+        "To prevent carbon dioxide from entering the body",
+        "Because the body needs to cool down by taking in cold air",
+        "To allow the muscles to store more undigested food"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "When investigating the energy in food by burning it under a test tube of water, what is directly measured to determine how much energy was released?",
+      "options": [
+        "The volume of smoke produced",
+        "The change in temperature of the water",
+        "The change in the mass of the water",
+        "The brightness of the flame"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which of the following statements is true regarding human health?",
+      "options": [
+        "People have only physical health, while mental health is not a recognized concept",
+        "People have both physical health and mental health",
+        "Mental health is only important for adults, not school-aged children",
+        "Physical health and mental health are completely unrelated to lifestyle"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    }
+  ]
+}

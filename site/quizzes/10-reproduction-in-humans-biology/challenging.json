@@ -1,6 +1,6 @@
 {
   "unitKey": "10Reproduction in humansBiology",
-  "generatedAt": "2026-08-13T09:39:49.042011+00:00",
+  "generatedAt": "2026-08-15T08:51:22.174693+00:00",
   "questions": [
     {
       "question": "How do human gametes (sperm and egg cells) differ fundamentally from other body cells, such as skin or muscle cells?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 22
+    },
+    {
+      "question": "A doctor is examining a patient with blocked fallopian tubes. Why does this condition prevent a pregnancy from occurring naturally?",
+      "options": [
+        "It prevents the ovaries from producing and releasing mature egg cells.",
+        "It blocks the sperm from reaching the egg, preventing them from joining to form a zygote.",
+        "It stops the uterus lining from thickening, preventing implantation.",
+        "It prevents the baby from moving into the vagina during birth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If a typical human body cell contains 46 chromosomes, how do the genetic contents of a human sperm cell and a newly formed zygote compare?",
+      "options": [
+        "Both the sperm cell and the zygote contain 23 chromosomes.",
+        "The sperm cell contains 46 chromosomes, while the zygote contains 23 chromosomes.",
+        "The sperm cell contains 23 chromosomes, while the zygote contains 46 chromosomes.",
+        "Both the sperm cell and the zygote contain 46 chromosomes."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How does the placenta support the development of a foetus without the mother's blood system directly mixing with the foetus's blood system?",
+      "options": [
+        "It pumps oxygenated blood directly from the mother's heart into the foetus's veins.",
+        "It allows nutrients and oxygen to diffuse from the mother to the foetus, and carbon dioxide and wastes to diffuse back.",
+        "It acts as a physical filter that only allows solid food particles to pass through to the foetus's stomach.",
+        "It produces nutrients and digests wastes itself, acting as a temporary digestive tract for the foetus."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A pregnant woman is advised to avoid drinking alcohol and smoking. Which statement best explains how these substances can affect the growing foetus?",
+      "options": [
+        "These substances are blocked by the placenta but cause stress to the mother which indirectly harms the foetus.",
+        "These chemicals can pass through the placenta from the mother's blood, directly affecting the growth and development of the foetus.",
+        "These substances travel down the fallopian tubes to poison the amniotic fluid directly.",
+        "These chemicals destroy the mother's egg cells in the ovaries, preventing the foetus from receiving nutrients."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "If a pregnant woman is exposed to high levels of cigarette smoke, which of the following is categorized as a potential short-term consequence for the pregnancy?",
+      "options": [
+        "The child developing a lifelong addiction to nicotine immediately upon birth.",
+        "The child being born prematurely or with a low birth weight.",
+        "The child exhibiting physical characteristics of foetal alcohol spectrum disorder.",
+        "The sudden cessation of hormone production by the mother's ovaries."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of the following is a potential long-term consequence for a child whose mother consumed high levels of alcohol during pregnancy?",
+      "options": [
+        "An increased risk of experiencing a miscarriage during the first trimester.",
+        "Being born several weeks before the expected 40-week gestation period.",
+        "Developing foetal alcohol spectrum disorder, which affects them throughout their life.",
+        "A temporary decrease in birth weight that is quickly corrected within the first week."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following best describes the structural transition of a human offspring from fertilisation to the later stages of pregnancy?",
+      "options": [
+        "A single-celled zygote divides into an embryo, which then develops into a foetus made of different cells and tissues.",
+        "A multi-celled foetus divides to form an embryo, which then simplifies into a single-celled zygote.",
+        "An egg cell develops into a foetus, which then divides to produce a zygote and an embryo.",
+        "A zygote immediately grows into a fully formed baby without dividing or forming an embryo first."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A pregnant woman is involved in a minor fall but the foetus is unharmed. What feature of the uterus environment primarily protected the foetus from the physical shock?",
+      "options": [
+        "The muscular wall of the cervix which acts as a rigid bone-like shield.",
+        "The amniotic sac filled with amniotic fluid, which cushions the foetus against impacts.",
+        "The thick layer of placenta surrounding the entire baby to absorb all forces.",
+        "The umbilical cord which pulls the foetus away from the site of any external impact."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "During the process of birth, what physical actions must occur within the female reproductive system to allow the baby to exit?",
+      "options": [
+        "The ovaries contract to release new eggs while the fallopian tubes widen.",
+        "The cervix opens wide and the muscular walls of the uterus contract to push the baby out.",
+        "The vagina contracts to pull the baby out while the cervix tightly closes to prevent bleeding.",
+        "The amniotic sac expands and the placenta detaches to drag the baby through the fallopian tubes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "How does the production and release of gametes in human females differ from a continuous lifecycle production model?",
+      "options": [
+        "Females continuously produce new egg cells in their ovaries every day from puberty until old age.",
+        "Females are born with all the eggs they will ever have inside their ovaries, and one egg is typically released each month after puberty.",
+        "Females produce eggs only when fertilisation has successfully occurred in the fallopian tubes.",
+        "Females release hundreds of eggs simultaneously every month to increase the chances of fertilisation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Aside from producing the necessary gametes for reproduction, what other vital role do both the testes and the ovaries perform in the human body?",
+      "options": [
+        "They filter waste products from the blood before they reach the developing embryo.",
+        "They produce sex hormones that regulate development and the reproductive systems.",
+        "They store nutrients like glucose to feed the zygote during early cell division.",
+        "They physically pump oxygenated blood to the pelvic region during exercise."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How does the reproduction stage of the life cycle in humans compare to that of some seed-producing plants?",
+      "options": [
+        "Humans reproduce by producing a seed that must germinate, whereas plants produce a mobile baby.",
+        "Both humans and these plants reproduce by producing a microscopic zygote that immediately grows into an adult without intermediate stages.",
+        "Humans produce a baby that grows into a new human, whereas these plants produce a seed that grows into a new plant.",
+        "Plants reproduce sexually using sperm and egg cells in fallopian tubes, while humans rely on wind to transfer gametes."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What is the primary underlying biological trigger for the physical changes observed in male and female bodies during puberty?",
+      "options": [
+        "A sudden increase in the rate of physical exercise and nutrient intake.",
+        "The activation of specific digestive enzymes that break down growth factors.",
+        "The production of sex hormones which signal the reproductive systems and body to change.",
+        "The physical expansion of the amniotic sac and uterus lining in both sexes."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "During puberty, which of the following represents a physical change that is common to both males and females, rather than being specific to one sex?",
+      "options": [
+        "The onset of the menstrual cycle and ovulation.",
+        "The deepening of the voice due to rapid growth of the larynx.",
+        "The growth of pubic and underarm hair.",
+        "The initiation of sperm production in the testes."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A child has their mother's eye colour but their father's nose shape. Which biological principle explains this family resemblance?",
+      "options": [
+        "The child inherited all of their genetic material from the parent they look most like.",
+        "The child inherited different features (genetic material) from both parents, resulting in a combination of traits.",
+        "The child's features were determined entirely by environmental factors after birth.",
+        "The child's father passed down active genes, while the mother passed down only inactive helper cells."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "How are inherited features physically passed from parents to their offspring during the process of reproduction?",
+      "options": [
+        "Through the transfer of blood cells containing nutrients from the mother's placenta.",
+        "By passing genetic material (DNA) contained inside the gametes when they join.",
+        "Through chemical signals sent from the parents' brains directly to the developing embryo.",
+        "By the physical transfer of tissue samples from the reproductive organs during mating."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "What is the primary function of the genetic material (DNA) that a zygote receives from its parents?",
+      "options": [
+        "It serves as a high-energy food source to sustain the zygote before the placenta forms.",
+        "It provides the structural scaffolding that physically holds the cells of the embryo together.",
+        "It contains the instructions for building the body and determining its specific features.",
+        "It acts as an immune barrier to protect the developing baby from bacterial infections."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "During a typical 28-day menstrual cycle, what is the specific term used to describe the event where a mature egg cell is released from an ovary?",
+      "options": [
+        "Menstruation",
+        "Gestation",
+        "Ovulation",
+        "Fertilisation"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "If an egg cell released during the menstrual cycle is not fertilised, what happens to the prepared uterus lining?",
+      "options": [
+        "It remains permanently in place to await the next cycle's egg.",
+        "It breaks down and leaves the body through the vagina in a process called menstruation.",
+        "It travels up into the fallopian tubes to be recycled by the ovaries.",
+        "It converts into amniotic fluid to protect future embryos."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "Why does sexual reproduction in humans result in offspring that are genetically unique, rather than identical clones of one parent?",
+      "options": [
+        "Because the offspring receives 100% of its genetic material from the mother, but it is modified by the father's hormones.",
+        "Because half of the genetic material comes from the male gamete (sperm) and the other half comes from the female gamete (egg).",
+        "Because the zygote discards all parental DNA and generates entirely new genetic instructions from scratch.",
+        "Because environmental factors in the uterus rewrite the genetic code during the 40-week gestation period."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
     }
   ]
 }
