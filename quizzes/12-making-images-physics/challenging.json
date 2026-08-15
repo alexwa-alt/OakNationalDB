@@ -1,6 +1,6 @@
 {
   "unitKey": "12Making imagesPhysics",
-  "generatedAt": "2026-08-12T06:17:45.129770+00:00",
+  "generatedAt": "2026-08-15T08:53:33.641500+00:00",
   "questions": [
     {
       "question": "A student makes a pinhole camera with two tiny pinholes placed very close to each other on the front face instead of one. What will they observe on the screen?",
@@ -220,6 +220,226 @@
         "Their brains are unable to process any electrical signals from the retina."
       ],
       "correctAnswerIndex": 2,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "Which of the following best describes the structural components of a standard pinhole camera?",
+      "options": [
+        "A closed box with a convex lens at the front and a mirror at the back.",
+        "An empty, closed box with a tiny hole on the front face and a screen on the back face.",
+        "A tube containing two plane mirrors angled at 45 degrees to each other.",
+        "An open box with a translucent screen in the middle and a small hole at each end."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How do light rays from a candle flame travel to form an image on the screen at the back of a pinhole camera?",
+      "options": [
+        "They bend at the pinhole to focus on a single point.",
+        "They travel in straight lines from the flame, passing through the pinhole to the screen.",
+        "They reflect off the inner walls of the camera before hitting the screen.",
+        "They spread out in curves to fill the entire back screen uniformly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A student pricks three separate, small holes close to each other on the front face of a pinhole camera instead of just one. What will they observe on the screen?",
+      "options": [
+        "A single image that is three times brighter than before.",
+        "Three separate, dim, inverted images of the object.",
+        "A single, highly blurred image where three colors are separated.",
+        "No image at all, because the light rays cancel each other out."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why does widening the pinhole of a pinhole camera result in a brighter but much more blurred image?",
+      "options": [
+        "The light rays are bent more strongly by the wider edges of the hole.",
+        "More light from each point on the object passes through the hole in more directions, overlapping on the screen.",
+        "The screen absorbs more light when the hole is larger, reducing contrast.",
+        "The wider hole acts like a diverging lens, spreading the light rays apart."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "If you cover the top half of a camera's convex lens with a piece of black paper, what will happen to the image formed on the screen?",
+      "options": [
+        "Only the bottom half of the image will be visible on the screen.",
+        "Only the top half of the image will be visible on the screen.",
+        "The complete image will still be visible, but it will be dimmer.",
+        "The image will be inverted vertically but remain at the same brightness."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What does a convex lens do to parallel light rays passing through it, and what is the term for the point where they meet?",
+      "options": [
+        "It reflects them outwards; the point is called the virtual origin.",
+        "It refracts them so they travel more towards each other; the meeting point is the focus.",
+        "It refracts them away from each other; the point is called the dispersion point.",
+        "It absorbs them selectively; the point of maximum absorption is the dark spot."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How does the refraction of light rays passing through the outer edges of a converging lens compare to those passing near its center?",
+      "options": [
+        "Light is refracted more at the edges than near the center.",
+        "Light is refracted less at the edges than near the center.",
+        "Light is refracted by the same angle at both the edges and the center.",
+        "Light is only refracted at the exact center, while the edges reflect it."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "If you stand 1.5 meters in front of a flat, vertical plane mirror, how far behind the mirror does your virtual reflection appear to be, and how does its height compare to yours?",
+      "options": [
+        "3.0 meters behind the mirror, and half your actual height.",
+        "1.5 meters behind the mirror, and the same height as you.",
+        "1.5 meters behind the mirror, and twice your actual height.",
+        "0.75 meters behind the mirror, and the same height as you."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "You are wearing a t-shirt with the word 'PHYSICS' written on it and standing directly facing a plane mirror. How does the text appear in your reflection?",
+      "options": [
+        "Upright but spelled backwards (laterally inverted).",
+        "Upside down but spelled from left to right.",
+        "Perfectly normal and readable, with no inversion.",
+        "Upside down and spelled backwards."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why is the image of an object in a plane mirror classified as a 'virtual image'?",
+      "options": [
+        "The light rays physically converge at a point behind the glass of the mirror.",
+        "The light rays only appear to diverge from a point behind the mirror, where they do not actually come from.",
+        "The image can be projected directly onto a screen placed behind the mirror.",
+        "The image only exists when a camera is used to capture it."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A stage prop looks yellow under white light because it reflects both red and green light. What color will this prop appear if it is illuminated only by pure green light?",
+      "options": [
+        "Yellow",
+        "Red",
+        "Green",
+        "Black"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A performer wearing a white suit stands on a stage. If the stage lights are changed to pure blue, what color will the performer's suit appear to the audience, and why?",
+      "options": [
+        "Black, because white objects absorb all colored light.",
+        "Blue, because white objects reflect all colors of light, including blue.",
+        "White, because the white fabric resists color changes under stage lighting.",
+        "Green, because blue light mixes with the yellow tones of the white fabric."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Why does a black asphalt road feel much hotter on a sunny day compared to a white painted line on the same road?",
+      "options": [
+        "The black road reflects all colors of light, which transfers energy to the surrounding air.",
+        "The black road absorbs all colors of light, converting the absorbed light energy into thermal energy.",
+        "The white paint absorbs more light than the black road, keeping the road cooler.",
+        "The black road transmits the light directly into the ground without absorbing it."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A ray of light travels through the air and strikes the flat surface of a glass block at an angle to the normal. What happens to the light ray as it enters the glass?",
+      "options": [
+        "It continues in a straight line without any change in direction.",
+        "It reflects entirely off the surface and does not enter the glass.",
+        "It changes direction as it enters the new medium, a process known as refraction.",
+        "It splits into a spectrum of colors instantly without changing its overall path."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "When a ray of light passes from air into a rectangular transparent plastic block at an angle, how does its path change relative to the normal line?",
+      "options": [
+        "It bends away from the normal line.",
+        "It bends towards the normal line.",
+        "It stops and reflects back along the normal line.",
+        "It continues along its original path without bending."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A laser beam enters a flat glass window pane at an angle, passes through, and exits back into the air on the other side. How does the exiting beam compare to the original entering beam?",
+      "options": [
+        "It is traveling in a completely perpendicular direction to the original beam.",
+        "It travels in the original direction but is shifted to the side.",
+        "It is bent at a much sharper angle away from the original direction.",
+        "It is split into two beams that travel in opposite directions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "When looking at a coin at the bottom of a container filled with water, the coin appears to be closer to the surface than it actually is. What is the reason for this illusion?",
+      "options": [
+        "Light undergoes total internal reflection, creating a real image on the surface.",
+        "Refraction of light at the water-air boundary creates a virtual image where the light rays appear to come from.",
+        "The water acts as a plane mirror, reflecting an inverted image of the coin.",
+        "The light rays are absorbed by the water, making the coin look larger and closer."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A lighting designer wants to create white light on a stage using only primary color spotlights. How can they achieve this?",
+      "options": [
+        "By mixing equal amounts of red and green light.",
+        "By mixing equal amounts of red, green, and blue light.",
+        "By mixing blue and yellow light only.",
+        "By mixing unequal amounts of green and blue light."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "How does a modern display screen produce a yellow color in a specific region of an image?",
+      "options": [
+        "By emitting light from dedicated yellow-colored micro-bulbs in that region.",
+        "By turning on its red and green sub-pixels at specific brightness levels while keeping blue off.",
+        "By filtering white backlight through a physical yellow dye embedded in the screen glass.",
+        "By rotating the blue pixels until they refract light at a yellow wavelength."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "If a person's green-sensitive cone cells are temporarily fatigued, and they look at a white screen that reflects red, green, and blue light, what color is their brain most likely to perceive?",
+      "options": [
+        "White, because rod cells will compensate for the missing color.",
+        "Magenta, because mostly the red and blue cone cells will send signals to the brain.",
+        "Cyan, because green and blue signals will dominate.",
+        "Black, because all signals to the brain are blocked when one cell type is fatigued."
+      ],
+      "correctAnswerIndex": 1,
       "learningPointIndex": 34
     }
   ]
