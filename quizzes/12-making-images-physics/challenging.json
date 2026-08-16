@@ -1,6 +1,6 @@
 {
   "unitKey": "12Making imagesPhysics",
-  "generatedAt": "2026-08-15T08:53:33.641500+00:00",
+  "generatedAt": "2026-08-16T08:53:16.554713+00:00",
   "questions": [
     {
       "question": "A student makes a pinhole camera with two tiny pinholes placed very close to each other on the front face instead of one. What will they observe on the screen?",
@@ -438,6 +438,226 @@
         "Magenta, because mostly the red and blue cone cells will send signals to the brain.",
         "Cyan, because green and blue signals will dominate.",
         "Black, because all signals to the brain are blocked when one cell type is fatigued."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "A student draws a diagram of a pinhole camera forming an image of a candle. The candle flame is at the top of the object. Why does the top of the flame appear at the bottom of the screen?",
+      "options": [
+        "Because light from the flame travels in straight lines through the tiny pinhole, crossing over to reach the bottom of the screen.",
+        "Because the pinhole acts like a mirror and reflects the light downwards.",
+        "Because light bends towards the normal as it enters the empty box.",
+        "Because the screen only detects light that has been turned upside down by air currents."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A student makes a pinhole camera with a single tiny hole and observes a dim, upside-down image. They then poke a second, identical pinhole slightly to the left of the first pinhole. What will they now see on the screen?",
+      "options": [
+        "A single image that is twice as bright and much sharper.",
+        "Two separate, dim, inverted images of the object.",
+        "A single, upright image that is twice as bright.",
+        "No image at all, because the light rays from the two holes cancel each other out."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "If the pinhole of a camera is widened from 1 mm to 5 mm, what is the effect on the screen's image and why?",
+      "options": [
+        "The image becomes brighter and sharper because more parallel light rays can enter.",
+        "The image becomes dimmer and sharper because light rays are more concentrated.",
+        "The image becomes brighter but blurred because more light from each point on the object passes through the hole in more directions, overlapping on the screen.",
+        "The image disappears completely because the light rays no longer cross over each other."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "An image of a tree is projected onto a screen using a convex lens. If you cover the top half of the lens with a piece of thick black cardboard, what happens to the image of the tree on the screen?",
+      "options": [
+        "Only the bottom half of the tree remains visible on the screen.",
+        "Only the top half of the tree remains visible on the screen.",
+        "The entire tree remains visible, but the whole image becomes dimmer.",
+        "The image of the tree flips upside down but remains at its original brightness."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A convex lens is used to create a sharp image of a lightbulb on a screen. If we trace several different rays of light starting from the very tip of the lightbulb's filament, where will these rays meet after passing through the lens?",
+      "options": [
+        "They will be parallel and never meet, appearing as a blurred background.",
+        "They will meet at different points along the screen, depending on which part of the lens they passed through.",
+        "They will all meet at the exact same point on the screen, which corresponds to the tip of the filament's image.",
+        "They will focus at the centre of the lens before spreading out randomly."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How does the refraction of parallel light rays passing through a convex (converging) lens change from the centre of the lens to its outer edges?",
+      "options": [
+        "Light rays passing through the outer edges bend more than those passing close to the centre.",
+        "Light rays passing near the centre bend more than those passing through the outer edges.",
+        "All light rays bend by the exact same angle regardless of where they pass through the lens.",
+        "Light rays passing near the centre are bent, while those passing through the edges are not bent at all."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A student stands 2 metres in front of a flat, vertical plane mirror. If they take a 0.5 metre step backwards away from the mirror, how far will they be from their reflected image?",
+      "options": [
+        "2.5 metres",
+        "3.0 metres",
+        "5.0 metres",
+        "4.0 metres"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "An ambulance has the word \"AMBULANCE\" written backwards on its front hood. When a driver in front looks in their flat rearview mirror, they see it spelt normally. Why does this happen?",
+      "options": [
+        "The mirror reverses the top and bottom of the image, making it easier to read.",
+        "The reflection in a plane mirror is laterally inverted, so the backwards-written word appears reversed back to normal.",
+        "The rearview mirror is curved to focus the light and flip the letters back.",
+        "The driver's eyes automatically flip the image horizontally to correct it."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why is the image you see of yourself in a plane mirror called a \"virtual image\" rather than a real image?",
+      "options": [
+        "Because the light rays from your body actually pass through the glass and meet behind the mirror.",
+        "Because the image only exists when you are actively looking at it, and disappears when you close your eyes.",
+        "Because the light rays do not actually come from behind the mirror; they only appear to diverge from that location.",
+        "Because the image is smaller and dimmer than your actual physical body."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "An object appears yellow under white light because it reflects red and green light but absorbs blue light. In general, what determines the final colour we perceive an object to have?",
+      "options": [
+        "The amount of light that passes completely through the object without being reflected.",
+        "The relative amounts of red, green, and blue light that the object reflects to our eyes.",
+        "The rate at which the object absorbs red light compared to blue light.",
+        "The temperature of the object as it absorbs different colours of light."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A white t-shirt is placed in a room that is illuminated only by a pure blue spotlight. What colour will the t-shirt appear to someone in the room, and why?",
+      "options": [
+        "Black, because white objects can only reflect white light.",
+        "Blue, because a white object reflects all colours of light, including the incident blue light.",
+        "White, because white objects always reflect white light regardless of the source.",
+        "Red, because blue light is absorbed and its complementary colour is reflected."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Why does a black asphalt road feel much hotter on a sunny day compared to a white concrete pavement?",
+      "options": [
+        "Because the black road reflects all colours of light, creating extra heat above its surface.",
+        "Because the black road absorbs all colours of light rather than reflecting them, converting that light energy into heat.",
+        "Because white concrete absorbs more light than the black road, keeping the road cooler.",
+        "Because black objects reflect only red light, which is the coldest colour of the spectrum."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A card that reflects only green light is placed under a pure red light source. What colour will the card appear, and why?",
+      "options": [
+        "Red, because the incident light is red and the card absorbs its own green colour.",
+        "Green, because the card can only ever show its natural green colour.",
+        "Yellow, because red and green light mix together on the surface of the card.",
+        "Black, because the card does not reflect red light, so no light is reflected from it to your eyes."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A ray of light travels through the air and strikes the flat surface of a transparent glass block at an angle of 45 degrees to the normal. Which of the following describes the path of the light ray as it enters the glass?",
+      "options": [
+        "It continues in a straight line without changing its direction.",
+        "It bends towards the normal, making the angle of refraction inside the glass less than 45 degrees.",
+        "It bends away from the normal, making the angle of refraction inside the glass greater than 45 degrees.",
+        "It reflects entirely off the surface of the glass back into the air at 45 degrees."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A ray of light enters a rectangular glass block with parallel sides at an angle, passes through, and exits back into the air. How does the direction of the exiting ray compare to the original entering ray?",
+      "options": [
+        "It is parallel to the original direction but shifted (displaced) to the side.",
+        "It is bent at a 90-degree angle relative to the original ray.",
+        "It continues exactly along the same straight line with no shifting.",
+        "It turns back in the opposite direction towards the light source."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A coin is placed at the bottom of a cup filled with water. When looking at the coin from an angle above, it appears to be shallower (closer to the surface) than it actually is. What is the cause of this effect?",
+      "options": [
+        "The water acts as a mirror, reflecting a real image of the coin onto the surface.",
+        "Refraction bends the light rays as they leave the water, creating a virtual image of the coin where the rays appear to come from.",
+        "The coin floats slightly due to the density of the water.",
+        "Light rays travel faster in water, making the coin look closer."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A stage lighting designer wants to create a patch of yellow light on a white stage, but only has spotlights of the primary colours of light (Red, Green, Blue). How can they achieve this?",
+      "options": [
+        "Mix equal amounts of red and blue light.",
+        "Mix equal amounts of green and blue light.",
+        "Mix equal amounts of red and green light.",
+        "Mix equal amounts of red, green, and blue light."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "When you look very closely at a smartphone screen displaying a bright yellow image, what would you actually see?",
+      "options": [
+        "Tiny yellow and white light-emitting pixels glowing at maximum brightness.",
+        "Tiny red and green lights glowing, while the blue lights are turned off or dim.",
+        "A continuous sheet of yellow liquid crystal that has been dyed yellow.",
+        "Tiny blue and green lights glowing to produce a secondary colour."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "A beam of white sunlight is directed at a transparent triangular glass prism. As the light passes through and exits the prism, a rainbow spectrum of colours is projected onto a nearby wall. Why does this occur?",
+      "options": [
+        "The prism absorbs all colours except the ones that make up a rainbow.",
+        "The triangular shape of the prism refracts different colours of light by different amounts, splitting them up.",
+        "The prism heats up the light, causing it to glow with different colours.",
+        "The chemical composition of the glass dyes the white light as it passes through."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "If a person's green-detecting cone cells are completely inactive due to a genetic condition, how will their perception of colour be affected when looking at a mixture of red and green light?",
+      "options": [
+        "They will still see yellow, because yellow light is detected by blue cone cells.",
+        "Their brain will receive signals primarily from the active red cone cells, changing the colour they perceive.",
+        "They will see only black, because all three types of cone cells must be active to see any colour.",
+        "They will see white, because the brain automatically corrects for the missing signal."
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 34

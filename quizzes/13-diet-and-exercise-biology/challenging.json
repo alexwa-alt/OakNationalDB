@@ -1,6 +1,6 @@
 {
   "unitKey": "13Diet and exerciseBiology",
-  "generatedAt": "2026-08-12T06:18:28.959110+00:00",
+  "generatedAt": "2026-08-16T08:53:43.787166+00:00",
   "questions": [
     {
       "question": "An elite teenage athlete and a sedentary adult office worker are comparing their dietary needs. Which of the following statements correctly evaluates their comparative requirements for specific nutrients?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 2,
       "learningPointIndex": 36
+    },
+    {
+      "question": "Why does an active, pregnant teenager generally require more calcium and iron in her diet than a sedentary adult male?",
+      "options": [
+        "Teenagers undergo rapid skeletal development and need iron for increased blood volume during pregnancy, whereas sedentary males have lower metabolic demands for these nutrients.",
+        "Sedentary males store more minerals in their liver, whereas pregnant teenagers excrete calcium rapidly due to hormonal changes.",
+        "Pregnancy decreases the absorption rate of nutrients, so she must consume double the amount to get the same net absorption as a male.",
+        "Active lifestyles reduce the efficiency of red blood cells, which requires extra dietary iron to compensate."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "During a food calorimetry experiment, 2.0 g of food is burned completely under a test tube containing 20 g of water. The temperature of the water rises from 20 °C to 45 °C. Using the formula: Energy (J) = mass of water (g) × rise in temperature (°C) × 4.2, what is the total energy transferred to the water?",
+      "options": [
+        "2100 J",
+        "1680 J",
+        "378 J",
+        "4200 J"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which statement best explains how food acts as a fuel for cellular respiration in human muscle cells?",
+      "options": [
+        "Glucose from digested carbohydrates is chemically reacted with oxygen to release energy, which powers cell processes.",
+        "Large fat molecules are physically broken down by physical motion to release heat energy directly into blood vessels.",
+        "Protein from food is converted into carbon dioxide inside the lungs to provide mechanical energy for inhalation.",
+        "Fiber is fermented in the cells to yield high-energy ATP molecules without needing oxygen or releasing waste."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A person wants to limit their intake of saturated fat to no more than 20 g per day. They look at a food label which states that a 50 g serving contains 4 g of saturated fat, which represents 20% of their Reference Intake (RI). If they eat 150 g of this food, what percentage of their daily recommended limit of saturated fat have they consumed?",
+      "options": [
+        "60%",
+        "20%",
+        "40%",
+        "80%"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A person excludes all fresh fruits and vegetables from their diet for several months, consuming only ultra-processed meats and grains. Which of the following is the most direct consequence of this unbalanced diet on their health?",
+      "options": [
+        "They are likely to develop a deficiency disease due to a lack of essential vitamins and minerals.",
+        "Their body will immediately stop undergoing cellular respiration due to a lack of dietary glucose.",
+        "They will experience rapid skeletal growth because grains contain excessive calcium.",
+        "Their body mass index will automatically fall below the healthy range due to a lack of dietary fiber."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Two individuals, Alex and Sam, have the same body mass of 80 kg. However, Alex is 1.6 m tall, while Sam is 1.9 m tall. Based on how Body Mass Index (BMI) is calculated, which statement is true?",
+      "options": [
+        "Alex has a higher BMI than Sam because height is in the denominator of the BMI formula as a squared value.",
+        "Sam has a higher BMI than Alex because Sam is taller and therefore has a larger total body surface area.",
+        "Alex and Sam have the exact same BMI because their body masses are identical.",
+        "Sam has a higher BMI because height is multiplied directly by mass in the BMI formula."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A person consistently consumes 500 kilocalories more than their daily energy expenditure over several years. What is the most likely physiological consequence of this behavior?",
+      "options": [
+        "The excess energy is stored as fat, causing their BMI to rise and potentially leading to obesity.",
+        "The body speeds up its resting heart rate to burn off the extra energy, keeping body mass constant.",
+        "The digestive system stops absorbing nutrients to prevent the accumulation of excess body fat.",
+        "The kidneys excrete the excess lipids in urine, preventing any changes in body mass index."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "How can obesity directly increase an individual's risk of developing coronary heart disease?",
+      "options": [
+        "Excess fat tissue can lead to fatty deposits in the coronary arteries, restricting blood flow and oxygen delivery to the heart muscle.",
+        "Fat cells physically squeeze the lungs, preventing carbon dioxide from entering the bloodstream to nourish the heart.",
+        "Having a high BMI causes the blood to become too thin, preventing it from clotting during exercise.",
+        "Obesity forces the heart to beat slower, which reduces the rate of respiration in cardiac cells."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A child living in an area with limited food diversity has bowed legs and weak bones. A doctor diagnoses them with rickets. This deficiency disease is caused by a lack of which nutrient pair?",
+      "options": [
+        "Vitamin D and calcium",
+        "Vitamin C and iron",
+        "Protein and dietary fiber",
+        "Vitamin A and simple carbohydrates"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Two students, Jordan and Taylor, measure their heart rates before and after running 400 meters. Jordan's heart rate returns to its resting rate of 70 bpm in 2 minutes. Taylor's heart rate takes 5 minutes to return to its resting rate of 72 bpm. What is the correct term and interpretation of this data?",
+      "options": [
+        "Jordan has a shorter recovery time, which suggests Jordan is fitter than Taylor.",
+        "Taylor has a shorter recovery time, indicating that Taylor's heart pumps blood more efficiently.",
+        "Jordan has a longer recovery time, meaning Jordan's muscle cells required less oxygen during the run.",
+        "Taylor has a longer recovery time, showing that Taylor's resting heart rate is healthier than Jordan's."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "An athlete measures their heart rate every minute for 10 minutes after a sprint workout. They plot these measurements on a line graph with time on the x-axis and heart rate on the y-axis. How can they determine their recovery time from this graph?",
+      "options": [
+        "By finding the time on the x-axis where the curve flattens out and remains constant at the resting heart rate value.",
+        "By calculating the gradient of the line at the very peak of the graph immediately after exercise.",
+        "By finding the point where the line crosses the x-axis.",
+        "By dividing the maximum heart rate recorded by the total duration of the exercise."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Why do fitter individuals generally exhibit a shorter heart rate recovery time after completing the same aerobic workout?",
+      "options": [
+        "Their hearts are stronger and pump more blood per beat, delivering oxygen and clearing metabolic waste more rapidly.",
+        "Fitter individuals do not use oxygen for cellular respiration during exercise, so they do not build up an oxygen debt.",
+        "Fitter individuals have smaller lungs, which allows them to retain carbon dioxide to soothe their muscles.",
+        "Their heart rate does not increase at all during exercise, so no recovery time is needed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "In an investigation to see how the type of exercise affects heart rate, students perform three different activities: walking, jogging, and sprinting. They measure their pulse rate immediately after each activity. What are the independent and dependent variables in this investigation?",
+      "options": [
+        "Independent variable: the type of exercise; Dependent variable: the heart rate.",
+        "Independent variable: the duration of exercise; Dependent variable: the type of exercise.",
+        "Independent variable: the heart rate; Dependent variable: the type of exercise.",
+        "Independent variable: the person exercising; Dependent variable: the temperature of the room."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "In an experiment comparing the fitness levels of five students by measuring their heart rate after exercise, which of the following variables must be kept constant to ensure a fair test?",
+      "options": [
+        "The duration and intensity of the exercise performed by each student.",
+        "The resting heart rate of each student before the experiment begins.",
+        "The maximum heart rate achieved by each student during the exercise.",
+        "The recovery time of each student after the exercise is completed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "A student wants to present data comparing the heart rates of participants after doing three distinct types of exercise: cycling, swimming, and running. Why should the student use a bar chart rather than a line graph?",
+      "options": [
+        "The independent variable (type of exercise) is categoric, so it belongs on the x-axis of a bar chart.",
+        "The dependent variable (heart rate) is categoric, so it must be plotted on the x-axis of a bar chart.",
+        "Line graphs can only be used when the data contains no numerical values.",
+        "Bar charts are the only way to display a dependent variable that increases over time."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "During strenuous exercise, a runner's breathing rate increases. How does our understanding of cellular respiration explain this physiological response?",
+      "options": [
+        "Active muscle cells require more energy, increasing the demand for oxygen and glucose to fuel cellular respiration and produce carbon dioxide as a waste product.",
+        "Cellular respiration decreases during exercise, so the body must breathe faster to expel unused oxygen.",
+        "Lungs need to expand to make room for the extra glucose being produced by respiration in the blood.",
+        "Muscle cells convert carbon dioxide into oxygen during respiration, which requires faster breathing to balance pressure."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "Which statement best describes how regular physical exercise contributes to both good physical and mental health?",
+      "options": [
+        "It strengthens the cardiovascular system while releasing chemicals in the brain that improve mood and reduce anxiety.",
+        "It increases body mass index to protective levels while temporarily shutting down mental activity to let the brain rest.",
+        "It lowers the body's requirement for oxygen while increasing the storage of excess fats in the liver to boost mental focus.",
+        "It eliminates the need for a balanced diet while training the nervous system to ignore physical pain."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "Why do both heart rate and breathing rate remain elevated for some time immediately after a person stops exercising?",
+      "options": [
+        "The body needs to supply extra oxygen to muscle cells to break down waste products and recover from anaerobic conditions.",
+        "The lungs are physically stretched during exercise and take several minutes to deflate to their normal size.",
+        "The brain requires extra carbon dioxide to transition back to a resting state.",
+        "The heart must pump faster to redistribute unused glucose back to the digestive system."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "Two different food samples, A and B, are burned to heat 15 cm³ of water in separate boiling tubes. Food A raises the water temperature by 12 °C, while Food B raises the water temperature by 24 °C. What is the most reasonable conclusion from this investigation?",
+      "options": [
+        "Food B released more energy than Food A under these experimental conditions.",
+        "Food A has a higher energy content per gram than Food B.",
+        "Food B contains more water than Food A, which caused the temperature to rise more.",
+        "Food A is a better fuel for cellular respiration because it conserved more of its energy."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A person who usually runs 5 km easily suddenly finds themselves breathless and fatigued after walking just 100 meters, and notices persistent swelling in their ankles. How should these changes be interpreted?",
+      "options": [
+        "These are changes in normal body function and appearance that act as symptoms of underlying ill health.",
+        "These are normal signs that the person has suddenly become fitter and requires less oxygen.",
+        "These changes indicate that the person's body is successfully storing more energy as protein.",
+        "These are behavioral adaptations that show the body is switching permanently to anaerobic respiration."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
     }
   ]
 }
