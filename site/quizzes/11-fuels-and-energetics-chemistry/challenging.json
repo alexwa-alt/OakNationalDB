@@ -1,6 +1,6 @@
 {
   "unitKey": "11Fuels and energeticsChemistry",
-  "generatedAt": "2026-08-15T08:52:59.641108+00:00",
+  "generatedAt": "2026-08-16T08:52:47.046584+00:00",
   "questions": [
     {
       "question": "A student burns a small piece of ethanol under a copper can of water. Which statement best describes how energy is transferred to the water?",
@@ -438,6 +438,226 @@
         "Solar panels produce electricity directly from sunlight without using an electric generator.",
         "Solar panels must be connected to wind turbines to function.",
         "Solar panels use chemical combustion of silicon to spin miniature internal motors."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "When a fuel like ethanol is burned in a spirit burner, how is energy transferred to the air and any container held above it?",
+      "options": [
+        "By heating the surroundings as thermal energy is released",
+        "By transferring electrical work to the air molecules",
+        "By absorbing thermal energy from the container to break chemical bonds",
+        "By cooling the surrounding air through endothermic work"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A student wants to compare the energy released by burning equal volumes of two liquid fuels. How can they practically measure and compare this energy transfer in a school laboratory?",
+      "options": [
+        "By measuring the volume of gas produced in a gas syringe",
+        "By using the fuels to heat water in a boiling tube and measuring the temperature change",
+        "By weighing the ash remaining after combustion is complete",
+        "By measuring the brightness of the flame using a light sensor"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "In an experiment comparing the energy output of ethanol and propanol, why must the teacher ensure that exactly 1.0 g of each fuel is combusted during the heating process?",
+      "options": [
+        "To ensure the flame temperature of both fuels is identical",
+        "To ensure a fair comparison of the energy transferred per unit mass of fuel",
+        "To keep the volume of water in the boiling tube constant",
+        "To prevent the fuels from evaporating before they are lit"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "When comparing the energy transferred by different fuels, a student uses 20 cm³ of water at 20 °C for the first fuel. Why must they use 20 cm³ of water at 20 °C for the second fuel?",
+      "options": [
+        "To ensure the chemical reactions in the water occur at the same rate",
+        "To ensure that any change in water temperature reflects only the energy transferred by the fuel",
+        "To prevent the water from boiling and evaporating too quickly",
+        "To match the mass of the fuel being burned in the spirit burner"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When analyzing a cooling curve graph of a liquid substance as it turns into a solid, what feature on the graph indicates that a state change is actively occurring?",
+      "options": [
+        "A steep, constant downward slope",
+        "A flat, horizontal plateau where the temperature remains constant",
+        "An exponential increase in temperature over time",
+        "A sudden vertical drop to absolute zero"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "As a sample of gaseous substance cools down and transitions into a liquid, what is happening to the energy of the substance and its surroundings?",
+      "options": [
+        "The substance absorbs energy from the surroundings while it condenses",
+        "The substance transfers energy into the surroundings by heating as it condenses",
+        "The temperature of the substance increases as it releases energy",
+        "There is no net energy transfer because the state change is physical, not chemical"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A student mixes two solutions in a polystyrene cup and measures the temperature of the mixture. If the temperature increases from 21 °C to 28 °C, what does this indicate about the reaction?",
+      "options": [
+        "The reaction is endothermic and absorbs energy from the cup",
+        "The reaction is exothermic and causes an increase in the temperature of the surroundings",
+        "The reaction is physical and does not involve any energy transfer",
+        "The reaction has destroyed energy, causing the surroundings to cool down"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "When ammonium chloride dissolves in water, the temperature of the solution drops from 20 °C to 14 °C. How should this chemical reaction be classified?",
+      "options": [
+        "Exothermic, because energy is released to the surroundings",
+        "Endothermic, because it causes a decrease in the temperature of the surroundings",
+        "Exothermic, because the chemical bonds in the products are weaker",
+        "Endothermic, because the temperature of the reactants has increased"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "During an exothermic reaction, what is the net direction of energy transfer between the reacting chemicals and their environment?",
+      "options": [
+        "Energy is transferred from the surroundings into the chemical products",
+        "Energy is transferred from the reactants to the surroundings",
+        "Energy is created within the surroundings without affecting the reactants",
+        "Energy is transferred from the products to the reactants"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How is energy transferred during an endothermic reaction such as thermal decomposition?",
+      "options": [
+        "Energy is transferred from the surroundings to the products",
+        "Energy is transferred from the reactants to the surroundings",
+        "Energy is transferred from the products to the surroundings",
+        "Energy is destroyed as reactants turn into products"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why are physical processes like melting, evaporation, and boiling classified as endothermic changes of state?",
+      "options": [
+        "They release thermal energy to the surroundings, cooling the substance down",
+        "They require energy to be transferred into the substance from the surroundings",
+        "They occur spontaneously without any exchange of energy",
+        "They cause the temperature of the surroundings to rise significantly"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "When steam condenses onto a cold window pane, what type of energy change occurs?",
+      "options": [
+        "An endothermic change, because the steam absorbs heat from the glass",
+        "An exothermic change, because energy is transferred to the surroundings during condensing",
+        "An endothermic change, because the temperature of the glass decreases",
+        "No energy change occurs because condensation is a purely chemical process"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which statement correctly describes the current state of electricity generation sources in the United Kingdom?",
+      "options": [
+        "Over half of the electricity is generated from the Sun, wind, and falling water",
+        "Over 90% of electricity is generated by burning coal in large power stations",
+        "The UK relies entirely on nuclear power to generate its electricity",
+        "Electricity is primarily generated using geothermal energy from active volcanoes"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In many modern UK thermal power stations, which fuels are burned to heat water and convert it into high-pressure steam?",
+      "options": [
+        "Coal and biomass only",
+        "Natural gas and oil",
+        "Uranium and wood pellets",
+        "Hydrogen and wind power"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which sequence correctly describes how electricity is generated in a gas-fired power station?",
+      "options": [
+        "Burning gas spins the generator directly, which heats water into steam",
+        "Moving steam pushes turbines, which drive electric generators to produce electricity",
+        "Steam directly creates an electric current in the boiler which flows to the grid",
+        "Turbines burn the fuel directly to release electrons into the water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which of the following fossil fuels is no longer used to generate electricity in UK power stations?",
+      "options": [
+        "Natural gas",
+        "Oil",
+        "Coal",
+        "Biogas"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Burning which group of fuels releases greenhouse gases and pollutants into the atmosphere?",
+      "options": [
+        "Natural gas, oil, waste, and wood",
+        "Wind, solar, and falling water",
+        "Geothermal, nuclear, and tidal energy",
+        "Hydrogen gas and pure oxygen"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why are energy resources like wind and solar described as renewable?",
+      "options": [
+        "They produce no waste materials when they are manufactured",
+        "They are replenished more quickly than we use them up and will not run out",
+        "They can be burned repeatedly without being consumed",
+        "They generate electricity without needing to spin any machinery"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "How can biomass, oil, or gas be used to spin a turbine in a power station?",
+      "options": [
+        "By burning them to produce moving steam that pushes the turbine blades",
+        "By dropping them from a height onto the turbine blades",
+        "By using them to lubricate the generator coils so they spin faster",
+        "By reacting them with acids to create high-pressure hydrogen gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "How does electricity generation using solar panels differ from generation using wind turbines?",
+      "options": [
+        "Solar panels require a steam cycle to generate a current",
+        "Solar panels produce electricity without using electric generators",
+        "Solar panels require spinning coils of wire inside magnetic fields",
+        "Solar panels must burn silicon fuel to release electricity"
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 24
