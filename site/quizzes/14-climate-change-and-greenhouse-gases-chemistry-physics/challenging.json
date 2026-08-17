@@ -1,6 +1,6 @@
 {
   "unitKey": "14Climate change and greenhouse gasesChemistryPhysics",
-  "generatedAt": "2026-08-12T06:18:18.921687+00:00",
+  "generatedAt": "2026-08-17T09:13:45.676318+00:00",
   "questions": [
     {
       "question": "When scientists calculate the global average surface temperature, how do they ensure the result is reliable despite local weather extremes?",
@@ -220,6 +220,226 @@
         "Solar panels must be connected to a burning biomass source to function at night."
       ],
       "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "To calculate global surface temperatures accurately, scientists do not rely on a single location. How is this data processed to ensure a representative global average?",
+      "options": [
+        "By averaging only the extreme high and low temperature readings from a select few weather stations.",
+        "By calculating the mathematical mean of tens of thousands of measurements taken across different times and locations worldwide.",
+        "By taking a single daily reading at a weather station located near the equator where climate is most stable.",
+        "By comparing satellite images of cloud cover and using computer models to estimate a single average temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When analyzing global warming, scientists often discuss 'temperature anomalies' instead of absolute temperatures. Why are local temperature measurements compared against a long-term regional average?",
+      "options": [
+        "It helps identify localized shifts by showing how much a region's current temperature deviates from its own historical baseline.",
+        "It allows scientists to ignore the effect of latitude and elevation because all regions have the same baseline.",
+        "It corrects for faulty thermometer calibration by adjusting all regional temperatures to match a global baseline.",
+        "It is the only way to convert Fahrenheit measurements into Celsius measurements for global databases."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How do scientists reconstruct global temperatures from thousands of years ago, long before thermometers were invented?",
+      "options": [
+        "By measuring the depth of the oceans and comparing it to historic sea levels recorded in ancient literature.",
+        "By calculating the decay rate of carbon atoms in modern desert soils compared to volcanic rock.",
+        "By analyzing the thickness of annual tree rings and examining atmospheric gas bubbles trapped deep within polar ice cores.",
+        "By estimating the total solar radiation using ancient astronomical calendars and star charts."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "If 1 kg of methane is released into the atmosphere alongside 1 kg of carbon dioxide, why is there greater concern over the methane emission in the short term?",
+      "options": [
+        "Methane is much heavier than carbon dioxide and settles on the ground, warming the soil directly.",
+        "Methane reacts with oxygen in the atmosphere to instantly produce double the amount of carbon dioxide.",
+        "Carbon dioxide is completely transparent to all wavelengths of infrared radiation, whereas methane is not.",
+        "Methane has a higher warming potency, meaning it traps significantly more heat per molecule than carbon dioxide."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "If Earth's atmosphere suddenly lost all of its greenhouse gases, what would be the primary consequence for the planet's average temperature?",
+      "options": [
+        "The average global temperature would drop significantly, leaving the Earth frozen and mostly uninhabitable.",
+        "The Earth would heat up rapidly because solar radiation could enter the atmosphere without any filtration.",
+        "The temperature would remain exactly the same, but weather patterns and winds would stop completely.",
+        "Temperatures would rise during the day but drop to near absolute zero at night, keeping the overall average constant."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why does the melting of land-based ice sheets, such as those in Greenland or Antarctica, contribute directly to rising global sea levels?",
+      "options": [
+        "The melting ice sheets release trapped high-pressure gases that push the sea surface upwards.",
+        "It transfers large volumes of water that were previously stored on land directly into the ocean basin.",
+        "Land-based ice is much denser than ocean water, so its runoff causes the sea to swell in volume.",
+        "As land-based ice melts, it causes the Earth's crust to sink, which forces the sea level to appear higher."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "During the summer, large areas of Arctic sea ice melt. Why does the melting of this floating sea ice have a different direct effect on sea level compared to the melting of land-based ice sheets?",
+      "options": [
+        "Sea ice is made of fresh water, which shrinks in volume when it mixes with salty ocean water.",
+        "Meltwater from sea ice evaporates immediately into the atmosphere before it can affect ocean levels.",
+        "Floating sea ice already displaces a volume of water equal to its own liquid weight, so melting it does not change sea level.",
+        "Floating ice is held above the water level by ocean currents, so its meltwater flows back onto coastal land."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Even if no ice melted on Earth, why would global sea levels still rise as global temperatures increase?",
+      "options": [
+        "Warmer water dissolves more atmospheric gases, which physically inflates the volume of the oceans.",
+        "Higher temperatures cause underwater tectonic plates to expand, pushing the ocean floor upwards.",
+        "Warm water is less sticky, allowing it to climb higher up the coastlines through capillary action.",
+        "Liquid water undergoes thermal expansion, meaning its volume increases as its temperature rises."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Why might driving an electric vehicle still contribute to greenhouse gas emissions, even though the vehicle itself has no exhaust emissions?",
+      "options": [
+        "The electricity used to charge the vehicle's battery may be generated by power stations that burn fossil fuels.",
+        "Electric vehicles release large volumes of carbon dioxide directly from their rubber tyres as they roll.",
+        "The chemical reactions inside the lithium-ion battery produce carbon dioxide gas that is vented during driving.",
+        "Electric motors rely on magnetic fields that directly heat up and break down atmospheric nitrogen into greenhouse gases."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why is it incorrect to assume that a vehicle has zero environmental impact simply because it produces zero emissions during its operation?",
+      "options": [
+        "All vehicles lose material through friction, turning their metal frames into atmospheric carbon dioxide over time.",
+        "Manufacturing any vehicle requires significant amounts of energy and raw resources, which often generate emissions before the vehicle is ever driven.",
+        "Stationary vehicles continuously draw power from the electrical grid to keep their onboard safety systems active.",
+        "The weight of a parked vehicle compacts the soil, preventing plants from absorbing carbon dioxide from the air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How does Carbon Capture and Storage (CCS) technology prevent carbon dioxide from entering the atmosphere?",
+      "options": [
+        "It uses giant fans to freeze atmospheric carbon dioxide into dry ice blocks that are left on the ocean floor.",
+        "It chemically converts carbon dioxide emissions into oxygen and solid carbon inside car exhaust pipes.",
+        "It isolates carbon dioxide from industrial waste gases and pumps it deep underground into secure geological formations.",
+        "It filters carbon dioxide out of the air using giant nets and stores it in high-altitude balloons."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "While Carbon Capture and Storage (CCS) is a promising technology for reducing industrial carbon emissions, what is currently one of its primary limitations?",
+      "options": [
+        "It can only capture carbon dioxide when the ambient air temperature is below freezing.",
+        "The underground storage chambers can only hold carbon dioxide for a few days before it must be released.",
+        "It creates a secondary pollutant that is far more toxic and harder to store than carbon dioxide itself.",
+        "It requires a massive financial investment to build and run, making it highly expensive to implement."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why is transforming how we produce and consume energy considered the most critical step in tackling global climate change?",
+      "options": [
+        "The energy sector is responsible for roughly three-quarters (75%) of all global greenhouse gas emissions.",
+        "Greenhouse gases produced by the energy sector stay in the atmosphere ten times longer than those from agriculture.",
+        "The energy sector is the only sector that produces carbon dioxide, while other sectors only produce water vapor.",
+        "Energy production is the sole source of heat on Earth, directly warming the atmosphere without greenhouse gases."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Two identical cars travel 100 km. Car A carries four passengers and travels at 110 km/h, while Car B carries only the driver and travels at 80 km/h. Why does Car A use significantly more energy?",
+      "options": [
+        "Car A has a higher engine temperature, which causes the fuel to evaporate before it can be burned.",
+        "Car A is heavier due to the extra passengers and faces greater air resistance because of its higher speed.",
+        "Car B benefits from a tailwind created by its lower speed, which pushes it forward without using fuel.",
+        "Car B has lower tyre friction because carrying fewer passengers increases the surface area of the tyres."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "How does maintaining the correct tyre pressure on a car help to reduce its fuel consumption and greenhouse gas emissions?",
+      "options": [
+        "High tyre pressure makes the car lighter by replacing heavy rubber volume with lightweight compressed air.",
+        "Under-inflated tyres spin faster to cover the same distance, which causes the engine to rev unnecessarily.",
+        "Properly inflated tyres deform less as they roll, reducing rolling resistance and the energy needed to move.",
+        "Properly inflated tyres release cooler air, which cools down the engine and improves its thermodynamic efficiency."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Which of the following strategies is most likely to encourage a long-term reduction in private car use in a busy city?",
+      "options": [
+        "Increasing the speed limits on urban highways to allow cars to clear traffic jams more quickly.",
+        "Replacing all public buses with smaller petrol-powered taxis to offer more direct routes.",
+        "Removing streetlights and pedestrian crossings to discourage people from walking near busy roads.",
+        "Developing dedicated, protected cycle lanes, reliable bus routes, and safe pedestrian pathways."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What is the fundamental scientific reason why wind and solar energy are classified as renewable resources, whereas coal and oil are not?",
+      "options": [
+        "Wind and solar energy are replenished naturally at a rate faster than they are consumed, while fossil fuels take millions of years to form.",
+        "Wind and solar energy do not require any physical infrastructure or machinery to capture their power.",
+        "Fossil fuels contain atoms that physically disappear when burned, while wind and solar energy recycle their atoms.",
+        "Renewable resources produce electricity directly, while fossil fuels must be converted into heat energy first."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What is the basic physical process occurring inside a standard generator at a hydroelectric power station to produce electricity?",
+      "options": [
+        "Water molecules are split into hydrogen and oxygen, which react to release electrical sparks.",
+        "Falling water spins a turbine, which rotates coils of wire inside a magnetic field within a generator.",
+        "The pressure of falling water compresses copper wires, squeezing electrons out of the metal.",
+        "Heat from the moving turbine directly heats up water, releasing charged steam particles into the grid."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "How is the energy from burning biomass, oil, or gas converted into rotational motion to drive an electrical generator?",
+      "options": [
+        "The chemical reaction of burning fuel creates a vacuum that sucks air through the turbine blades.",
+        "The light produced by the flames is focused onto turbine blades, pushing them forward using light pressure.",
+        "The heat from burning fuel boils water to produce high-pressure steam, which expands and spins a turbine.",
+        "The fuel is mixed directly with water to create a heavy sludge that pushes the turbine down by gravity."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Unlike wind, wave, and coal power stations, solar photovoltaic panels do not require a turbine or generator to produce electricity. How do they achieve this?",
+      "options": [
+        "They use miniature internal mirrors to spin tiny magnetic rotors at high speeds when exposed to light.",
+        "They absorb heat from the Sun to boil a tiny amount of water trapped inside each cell to spin micro-turbines.",
+        "They capture static electricity directly from passing wind currents using their glass surfaces.",
+        "They directly convert light energy into electrical energy using semi-conducting materials."
+      ],
+      "correctAnswerIndex": 3,
       "learningPointIndex": 33
     }
   ]

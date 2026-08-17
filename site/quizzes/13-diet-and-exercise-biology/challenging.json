@@ -1,6 +1,6 @@
 {
   "unitKey": "13Diet and exerciseBiology",
-  "generatedAt": "2026-08-16T08:53:43.787166+00:00",
+  "generatedAt": "2026-08-17T09:13:02.883730+00:00",
   "questions": [
     {
       "question": "An elite teenage athlete and a sedentary adult office worker are comparing their dietary needs. Which of the following statements correctly evaluates their comparative requirements for specific nutrients?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 16
+    },
+    {
+      "question": "An experiment is carried out where a 2g food sample is burned completely under a tube containing 50g of water. The water temperature rises from 20°C to 40°C. Using the formula, energy (J) = mass of water (g) × rise in temperature (°C) × 4.2, what is the energy transferred to the water?",
+      "options": [
+        "4200 J",
+        "168 J",
+        "8400 J",
+        "2100 J"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Two individuals, Person A and Person B, both have a body mass of 80 kg. However, Person A is 2.0 meters tall and Person B is 1.6 meters tall. Based on how Body Mass Index (BMI) is calculated, which statement is correct?",
+      "options": [
+        "Person B has a significantly higher BMI than Person A because height is in the denominator of the calculation.",
+        "Person A has a higher BMI than Person B because they are taller.",
+        "Their BMIs are identical because BMI is solely determined by body mass.",
+        "Person B's BMI is exactly double that of Person A."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A person has an adequate daily intake of carbohydrates and lipids but completely lacks Vitamin C in their diet, eventually developing scurvy. Why is this classified as a deficiency disease rather than starvation?",
+      "options": [
+        "It is caused by the lack of a specific essential nutrient rather than an overall deficit in food energy.",
+        "It only affects the outer layers of the skin without causing internal physiological harm.",
+        "It occurs because the body is actively converting its existing muscle tissue into vitamins.",
+        "It can only be resolved by significantly increasing the total daily intake of fats."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Two students measure their pulse rates before, during, and after a 5-minute run. Student A's heart rate returns to its resting rate 2 minutes after stopping, while Student B's heart rate takes 7 minutes to return to resting rate. What can be concluded about their physical fitness?",
+      "options": [
+        "Student A is fitter because they have a shorter recovery time.",
+        "Student B is fitter because their heart worked harder for a longer duration.",
+        "Student A is less fit because their heart rate dropped too quickly, indicating poor circulation.",
+        "No conclusion can be drawn because recovery time is unrelated to physical fitness."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "During a sprint, why do both breathing rate and heart rate increase simultaneously in terms of cellular needs?",
+      "options": [
+        "To supply muscle cells with more oxygen and glucose for increased cellular respiration.",
+        "To allow the lungs to store excess carbon dioxide for later conversion into oxygen.",
+        "To slow down the rate of energy release so muscles do not overheat.",
+        "To transport undigested food particles directly from the stomach to the working muscles."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "Why does a pregnant woman generally require a higher daily intake of iron in her diet compared to an average adult female of the same age and activity level?",
+      "options": [
+        "To support the additional blood volume and development of the fetus's blood supply.",
+        "To act as the main source of fast-release energy for the fetus's muscles.",
+        "To directly build the calcium-rich skeletal structure of the growing fetus.",
+        "To insulate the fetus's body against rapid changes in temperature."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When comparing the energy content of a dry peanut and a piece of cucumber by burning them under a tube of water, which of the following is a key scientific practice required to ensure a fair comparison of their energy per gram?",
+      "options": [
+        "Divide the measured temperature rise of the water by the mass of the food sample that actually burned.",
+        "Use a much larger volume of water for the peanut because it contains more energy.",
+        "Ensure the cucumber is thoroughly soaked in water before attempting to burn it.",
+        "Burn the peanut for five minutes and the cucumber for only one minute."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What is the primary role of glucose, obtained from digested carbohydrates, when it reaches the cells of the human body?",
+      "options": [
+        "It is used as the primary fuel in cellular respiration to release energy for life processes.",
+        "It acts as a structural fiber to strengthen the walls of the cell membrane.",
+        "It is directly converted into water to prevent dehydration during periods of rest.",
+        "It binds to cellular toxins to neutralize them and assist in excretion."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "In an investigation to see how different physical exercises affect heart rate, why must the same student perform each exercise for the exact same duration of time?",
+      "options": [
+        "To control variables, ensuring that changes in heart rate are due only to the type of exercise.",
+        "To ensure that the independent variable is kept completely constant throughout the experiment.",
+        "To allow the student's resting heart rate to increase at a steady, predictable rate.",
+        "To guarantee that the student reaches their absolute maximum possible heart rate in each test."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "After a period of intense exercise, a student's breathing rate remains elevated for several minutes even though they have stopped moving. How does cellular respiration explain this?",
+      "options": [
+        "The body requires extra oxygen to fully recover and break down products of anaerobic respiration.",
+        "Cellular respiration completely stops during exercise and requires extra oxygen to restart.",
+        "The lungs need to store extra oxygen in the cells to prepare for the next bout of exercise.",
+        "The body is trying to rapidly decrease the rate of cellular respiration down to zero."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "A food label states that a portion of food contains 200 Calories (kcal), which is equivalent to approximately 840 kilojoules (kJ). What is the relationship between these two values?",
+      "options": [
+        "They are different units used to measure the same thing: the energy provided by the food.",
+        "Calories measure the fat content, while kilojoules measure the carbohydrate content.",
+        "Kilojoules show the energy used in digestion, while Calories show the energy stored as fat.",
+        "Calories represent the energy before cooking, while kilojoules represent the energy after cooking."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How does obesity directly increase an individual's risk of developing coronary heart disease?",
+      "options": [
+        "It can lead to the build-up of fatty deposits in the coronary arteries, restricting blood flow to the heart.",
+        "It causes the heart chambers to shrink in size due to a lack of physical work.",
+        "It reduces the total volume of blood that the circulatory system can physically hold.",
+        "It prevents red blood cells from absorbing oxygen in the lungs."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why is it important to include lipids (fats) in a healthy, balanced diet, despite the health risks associated with consuming them in excess?",
+      "options": [
+        "They are necessary for making cell membranes, providing insulation, and protecting internal organs.",
+        "They are the fastest-releasing source of immediate energy for high-intensity muscle contraction.",
+        "They are the primary structural component used to build and repair muscle fibers.",
+        "They act as the main solvent to dissolve and transport water-soluble vitamins like Vitamin C."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following is best described as a symptom of ill health rather than a cause of ill health?",
+      "options": [
+        "A persistent, unexplained yellowing of the skin and whites of the eyes.",
+        "Consuming a diet that is chronically deficient in dietary fiber.",
+        "An inherited genetic mutation that affects the shape of red blood cells.",
+        "Inhaling pathogenic virus particles from the air."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "On a line graph showing a person's pulse rate over time during and after exercise, how would you determine their recovery time?",
+      "options": [
+        "Measure the time from when exercise stopped until the pulse rate returned to and stabilized at the resting rate.",
+        "Find the time at which the pulse rate reached its maximum peak value.",
+        "Calculate the total area under the curve from the start of exercise to the end of recovery.",
+        "Find the time interval from the start of the exercise to the moment the peak pulse rate was reached."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Why would an elite teenage athlete require a significantly higher daily energy intake than an inactive teenager of the same age and body mass?",
+      "options": [
+        "The athlete expends far more energy during training, requiring more fuel for cellular respiration.",
+        "The athlete's digestive tract is physically larger and requires more food to fill it.",
+        "The inactive teenager's brain and internal organs do not require any energy when resting.",
+        "The athlete needs extra energy to maintain a body temperature that is colder than their surroundings."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "An athlete recovering from a severe muscle tear is advised to adjust their diet. Which food group should they focus on increasing to provide the essential building materials for repairing this biomass?",
+      "options": [
+        "Proteins",
+        "Simple carbohydrates",
+        "Dietary fiber",
+        "Saturated fats"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A student records heart rates after three different activities: sitting, walking, and running. If they present this data on a bar chart, how should the axes be set up?",
+      "options": [
+        "The type of activity (independent, categoric variable) goes on the x-axis, and heart rate goes on the y-axis.",
+        "The type of activity (dependent, continuous variable) goes on the y-axis, and heart rate goes on the x-axis.",
+        "Heart rate goes on the x-axis, and the time spent on each activity goes on the y-axis.",
+        "The activities are plotted as a continuous line graph because the type of activity is numerical data."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "What happens to the human body during prolonged periods of starvation when the intake of food energy is extremely insufficient?",
+      "options": [
+        "The body breaks down its own stored fats and then muscle tissue to provide fuel for vital life processes.",
+        "The body completely ceases cellular respiration and switches to absorbing energy directly from sunlight.",
+        "The digestive system begins to synthesize its own carbohydrates from dissolved carbon dioxide in the blood.",
+        "The body increases its overall BMI to maximize the efficiency of remaining energy reserves."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which of the following scenarios best illustrates the connection between physical health and mental health?",
+      "options": [
+        "An individual experiencing persistent physical pain from a joint condition which leads to chronic anxiety and low mood.",
+        "An individual having a high BMI but experiencing no physical symptoms or changes in their daily mood.",
+        "A person consuming a balanced diet containing proteins and carbohydrates to support muscle growth.",
+        "A person tracking their resting heart rate using a smartwatch and noting it is exactly 65 beats per minute."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
     }
   ]
 }
