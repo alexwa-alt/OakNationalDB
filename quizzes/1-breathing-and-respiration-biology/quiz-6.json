@@ -1,0 +1,226 @@
+{
+  "unitKey": "1Breathing and respirationBiology",
+  "generatedAt": "2026-08-17T09:14:21.748281+00:00",
+  "questions": [
+    {
+      "question": "What are the microscopic air sacs that make up the lungs called?",
+      "options": [
+        "Alveoli",
+        "Bronchioles",
+        "Capillaries",
+        "Trachea"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Where does gas exchange take place in the lungs?",
+      "options": [
+        "Between the trachea and the bronchioles",
+        "Between the air in the alveoli and the blood in the capillaries",
+        "Between the liver and the stomach",
+        "Between the diaphragm and the ribs"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why do the lungs contain millions of alveoli rather than just a few large air sacs?",
+      "options": [
+        "To prevent water loss from the body",
+        "To increase the surface area of the lungs for gas exchange",
+        "To store extra carbon dioxide before exhalation",
+        "To make the lungs less heavy"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How does the thickness of the alveoli walls help with gas exchange?",
+      "options": [
+        "The walls are one cell thick to create a short diffusion distance",
+        "The walls are thick to withstand high air pressure",
+        "The walls are several layers thick to filter out dust",
+        "The walls have no cells to allow rapid flow of blood"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why are alveoli surrounded by a dense network of capillaries carrying moving blood?",
+      "options": [
+        "To warm up the incoming air",
+        "To keep the alveoli structurally inflated",
+        "To maintain a concentration gradient for gas exchange",
+        "To prevent oxygen from escaping into the pleural cavity"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which gas is an essential reactant for aerobic cellular respiration?",
+      "options": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Oxygen",
+        "Hydrogen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following is the correct word equation for aerobic cellular respiration?",
+      "options": [
+        "Glucose + Oxygen -> Carbon dioxide + Water (+ Energy)",
+        "Carbon dioxide + Water -> Glucose + Oxygen",
+        "Glucose -> Lactic acid (+ Energy)",
+        "Glucose -> Ethanol + Carbon dioxide (+ Energy)"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "In which parts of an animal cell does aerobic cellular respiration take place?",
+      "options": [
+        "Mitochondria and cytoplasm",
+        "Nucleus and cell membrane",
+        "Ribosomes and vacuole",
+        "Chloroplasts and cell wall"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why do active muscle cells have more mitochondria than skin cells?",
+      "options": [
+        "Muscle cells require more energy because they do a lot of work",
+        "Muscle cells need to store more genetic information",
+        "Muscle cells are responsible for absorbing water from digested food",
+        "Muscle cells have a larger surface area to volume ratio"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What are the products of anaerobic cellular respiration in microorganisms?",
+      "options": [
+        "Carbon dioxide and lactic acid",
+        "Lactic acid and oxygen",
+        "Carbon dioxide and ethanol",
+        "Glucose and water"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is another name for anaerobic cellular respiration in microorganisms?",
+      "options": [
+        "Photosynthesis",
+        "Fermentation",
+        "Combustion",
+        "Digestion"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How do humans use fermentation in microorganisms to make useful products?",
+      "options": [
+        "To produce yogurt, bread, and alcoholic drinks",
+        "To generate electricity in nuclear power plants",
+        "To manufacture synthetic fibres like nylon",
+        "To clean oil spills in the oceans"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What defines anaerobic cellular respiration?",
+      "options": [
+        "It takes place without using oxygen",
+        "It requires carbon dioxide instead of glucose",
+        "It only happens in dead organisms",
+        "It is a physical process rather than a chemical one"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is a product of anaerobic cellular respiration in humans that can cause muscle cramps?",
+      "options": [
+        "Lactic acid",
+        "Ethanol",
+        "Carbon dioxide",
+        "Oxygen"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Where in the cell does anaerobic respiration take place, and which organelle is NOT involved?",
+      "options": [
+        "It takes place only in the cytoplasm and does not involve mitochondria",
+        "It takes place in the nucleus and does not involve cytoplasm",
+        "It takes place in the chloroplasts and does not involve vacuole",
+        "It takes place in the mitochondria and does not involve cytoplasm"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Compared to aerobic cellular respiration, anaerobic cellular respiration provides:",
+      "options": [
+        "More energy, but provides it more slowly",
+        "Less energy, but provides it more quickly",
+        "The same amount of energy, but requires sunlight",
+        "No energy at all"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is the primary purpose of breathing in humans and other animals?",
+      "options": [
+        "To move air in and out of their lungs",
+        "To digest food in the stomach",
+        "To pump blood through the body",
+        "To generate heat through muscle shivering"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What is cellular respiration?",
+      "options": [
+        "A physical process of exhaling waste gases",
+        "A chemical process that uses glucose from food as a fuel to provide energy for life processes",
+        "The movement of blood through capillaries",
+        "The filtration of toxic substances in the liver"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which of the following describes a key difference between breathing and respiration?",
+      "options": [
+        "Breathing is a physical process of moving air in and out of the lungs; respiration is a chemical process that releases energy in cells.",
+        "Breathing takes place in the mitochondria; respiration takes place in the windpipe.",
+        "Breathing requires glucose; respiration requires no fuel.",
+        "Breathing only happens at night; respiration happens only during the day."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "What is meant by the 'vital capacity' of the lungs?",
+      "options": [
+        "The minimum volume of air left in the lungs after a normal breath",
+        "The maximum volume of air that can be exhaled after inhaling fully",
+        "The total amount of oxygen that can be stored in the blood",
+        "The volume of the trachea and bronchi combined"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    }
+  ]
+}
