@@ -1,6 +1,6 @@
 {
   "unitKey": "13Diet and exerciseBiology",
-  "generatedAt": "2026-08-17T09:13:02.883730+00:00",
+  "generatedAt": "2026-08-18T09:00:03.916751+00:00",
   "questions": [
     {
       "question": "An elite teenage athlete and a sedentary adult office worker are comparing their dietary needs. Which of the following statements correctly evaluates their comparative requirements for specific nutrients?",
@@ -661,6 +661,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 14
+    },
+    {
+      "question": "In a calorimetry experiment, burning a 0.5 g sample of food raised the temperature of 20 g of water by 15 °C. Using the formula Energy (J) = mass of water (g) × temperature rise (°C) × 4.2, what was the energy released by the food sample?",
+      "options": [
+        "630 J",
+        "1260 J",
+        "12.6 J",
+        "2520 J"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Two students, Alex and Sam, have the same body mass, but Alex is 15 cm taller than Sam. Which of the following statements correctly compares their Body Mass Index (BMI)?",
+      "options": [
+        "Alex and Sam will have the same BMI because their body masses are identical.",
+        "Alex will have a higher BMI because a taller height increases the BMI value.",
+        "Alex will have a lower BMI than Sam because height is in the denominator of the BMI calculation.",
+        "Sam will have a lower BMI because being shorter reduces the overall body volume."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "After completing a 400m run, Participant A's heart rate returned to resting level in 2 minutes, while Participant B's took 5 minutes. What can be concluded about their physical fitness?",
+      "options": [
+        "Participant B is fitter because their heart worked harder for a longer duration.",
+        "Participant A is fitter because they have a shorter recovery time.",
+        "Participant A is less fit because their heart rate dropped too rapidly.",
+        "No conclusion can be made because resting heart rates were not provided."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "During a heavy workout, a runner's breathing rate and heart rate increase significantly. What is the biological reason for this coordinated response?",
+      "options": [
+        "To supply cells with more oxygen and glucose for increased cellular respiration.",
+        "To cool down the lungs by rapidly exchanging internal warm air with cool outside air.",
+        "To decrease the amount of oxygen in the blood to prevent oxygen toxicity.",
+        "To transport excess water from the muscles to the kidneys for excretion."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "A sailor on an historical voyage suffers from bleeding gums and slow-healing wounds due to a diet completely lacking fresh fruit and vegetables. Which type of illness does this describe?",
+      "options": [
+        "An infectious disease caused by bacteria in stored food.",
+        "An inherited genetic condition triggered by sea travel.",
+        "A deficiency disease caused by a lack of a specific nutrient.",
+        "A metabolic disease caused by consuming too many lipids."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Why does an active teenager generally require a higher daily intake of both iron and calcium compared to an inactive elderly person?",
+      "options": [
+        "Teenagers lose minerals through sweat at a much higher rate than older adults.",
+        "The teenager is rapidly growing bone and muscle biomass, and has a more active lifestyle.",
+        "The elderly person has a faster metabolic rate and requires fewer minerals.",
+        "Calcium and iron are only absorbed by the digestive system during youth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When comparing the energy content of two different cereal bars, one package lists energy in kilojoules (kJ) and the other in calories (kcal). How do these two units relate to each other?",
+      "options": [
+        "Both units represent the energy provided by the food, but they use different scales to measure it.",
+        "Kilojoules measure the physical mass of the food while calories measure the heat it produces.",
+        "Calories represent the speed of digestion while kilojoules represent the storage capacity.",
+        "One kilojoule is exactly equal to one thousand calories."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "During a science practical to compare food energy, a student holds a burning peanut under a boiling tube of water. Which of the following changes would make the temperature increase of the water a more reliable measure of the food's energy?",
+      "options": [
+        "Increasing the volume of water in the tube to 5 litres to slow down boiling.",
+        "Holding the burning peanut further away from the boiling tube.",
+        "Using a heat shield to minimize energy loss to the surrounding air.",
+        "Replacing the glass boiling tube with a thick plastic container."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Inside human muscle cells, glucose reacts with oxygen during cellular respiration. What is the primary purpose of this process?",
+      "options": [
+        "To build new protein chains for muscle growth and repair.",
+        "To transfer chemical energy from glucose into a form that cells can use for life processes.",
+        "To store excess water inside the mitochondria for dry periods.",
+        "To convert waste carbon dioxide back into glucose for storage."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "If an individual consistently consumes more energy from food than their body expends over a long period, what is the biological outcome?",
+      "options": [
+        "The digestive system stops absorbing nutrients to prevent weight gain.",
+        "The body increases its resting temperature to burn off the excess energy as heat.",
+        "The excess energy is stored as fat, causing body mass and BMI to increase, potentially leading to obesity.",
+        "The kidneys excrete the extra carbohydrates and lipids in the urine."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A line graph shows a student's pulse rate over time. It starts at 70 bpm, rises to 140 bpm during exercise, and then gradually decreases back to 70 bpm. How is the recovery time determined from this graph?",
+      "options": [
+        "By measuring the time interval from the moment exercise stops until the pulse rate returns to 70 bpm.",
+        "By finding the total time from the start of the exercise until the pulse rate reaches its peak.",
+        "By calculating the average pulse rate across the entire duration of the experiment.",
+        "By identifying the time at which the pulse rate was at its absolute maximum value."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "When investigating how different types of exercise affect heart rate, why is it crucial that the same person performs each exercise for the exact same duration?",
+      "options": [
+        "To make sure the independent variable is altered in multiple ways during the test.",
+        "To ensure that individual fitness levels and exercise duration are controlled, making the comparison fair.",
+        "To guarantee that the heart rate reaches the exact same maximum value in each test.",
+        "To allow the person to get used to the exercises so they do not feel tired."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "A student measures heart rate after three different activities: walking, jogging, and sprinting. How should this data be presented on a bar chart?",
+      "options": [
+        "The heart rate (dependent variable) goes on the x-axis, and the activity type goes on the y-axis.",
+        "A line graph should be used instead of a bar chart because the activity type is continuous data.",
+        "The type of activity (categoric independent variable) goes on the x-axis, and heart rate goes on the y-axis.",
+        "Only the sprinting data should be plotted as it shows the highest heart rate."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "How does long-term obesity increase the risk of developing cardiovascular (heart) disease?",
+      "options": [
+        "It can lead to fatty deposits building up in the coronary arteries, restricting blood flow to the heart muscle.",
+        "It causes the blood vessels to expand too much, lowering blood pressure to dangerous levels.",
+        "It reduces the total volume of blood in the body, starving the heart of nutrients.",
+        "It forces the heart to beat slower, which reduces the rate of cellular respiration."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why cannot a person maintain optimal health by eating only foods rich in protein and vitamins, even if they consume enough calories?",
+      "options": [
+        "A balanced diet must contain all food groups, including carbohydrates and lipids, to support all bodily functions.",
+        "Vitamins and proteins cancel each other out if not eaten with dietary fibre.",
+        "The body cannot digest proteins unless they are dissolved in high volumes of dietary fats.",
+        "Without carbohydrates, the body is completely unable to absorb any vitamins."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "When a young animal grows and repairs damaged tissues, what is the primary role of the food it consumes?",
+      "options": [
+        "It is converted entirely into heat to maintain a constant body temperature.",
+        "It provides raw materials to synthesize new biological molecules, increasing the animal's biomass.",
+        "It acts as a physical barrier to protect internal organs from external injuries.",
+        "It replaces the water lost through sweat and respiration to maintain cell turgor."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A food label shows that one serving of a cereal provides 45% of the Reference Intake (RI) for sugar. How should a consumer use this information?",
+      "options": [
+        "Assume that they must eat at least three servings of this cereal daily to get enough sugar.",
+        "Recognize that eating two servings will supply nearly their entire recommended maximum daily intake of sugar.",
+        "Understand that 45% of the weight of the entire cereal box consists of pure sugar.",
+        "Conclude that the cereal is completely sugar-free because it is under 50%."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of the following observations would be classified as a symptom indicating a shift from good health to ill health?",
+      "options": [
+        "A sudden, unexplained yellowing of the skin and a significant decrease in daily energy levels.",
+        "An increase in heart rate during a planned vigorous running session.",
+        "The normal growth of fingernails and hair over a period of several weeks.",
+        "A temporary feeling of tiredness immediately after a full night of deep sleep."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is meant by the term 'recovery time' in the context of physical exercise?",
+      "options": [
+        "The duration of time a person can exercise continuously before feeling exhausted.",
+        "The time it takes for a person to fall asleep after completing a workout.",
+        "The time required for the heart rate to return to its resting rate after physical activity stops.",
+        "The interval between starting an exercise and reaching the maximum possible heart rate."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "During a step-test experiment, a student's breathing rate remained elevated for several minutes after they stopped stepping. How can cellular respiration explain this result?",
+      "options": [
+        "The muscle cells still need extra oxygen to break down waste products and fully recover from anaerobic conditions.",
+        "The body needs to intake more carbon dioxide to restart the process of aerobic respiration.",
+        "The lungs must expand to release the excess nitrogen built up during physical exertion.",
+        "The heart rate must drop to zero before the breathing rate can safely return to normal."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
     }
   ]
 }

@@ -1,0 +1,226 @@
+{
+  "unitKey": "2Acids and basesChemistry",
+  "generatedAt": "2026-08-18T09:05:58.036744+00:00",
+  "questions": [
+    {
+      "question": "What distinctive taste is associated with edible acids, such as those found in lemons or vinegar?",
+      "options": [
+        "Sweet",
+        "Sour",
+        "Bitter",
+        "Salty"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is a base defined as in chemistry?",
+      "options": [
+        "Any substance that reacts with acids to form a salt",
+        "A substance that only reacts with water to form an acid",
+        "A liquid that turns blue litmus paper red",
+        "A metal that produces hydrogen gas when heated"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What is an alkali?",
+      "options": [
+        "An insoluble base that cannot dissolve in water",
+        "A soluble base that forms an alkaline solution",
+        "A type of acid that turns litmus paper red",
+        "A gas produced when metals react with water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why do some concentrated acids and alkalis carry a warning symbol showing a hand being damaged?",
+      "options": [
+        "They are flammable and catch fire easily",
+        "They are corrosive and can cause chemical burns",
+        "They are highly toxic if breathed in",
+        "They can easily dissolve glass containers"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How does litmus paper behave in the presence of acids and alkalis?",
+      "options": [
+        "Acid turns red litmus blue; alkali turns blue litmus red",
+        "Acid turns blue litmus red; alkali turns red litmus blue",
+        "Acid turns blue litmus green; alkali turns red litmus yellow",
+        "Acid has no effect on litmus; alkali turns both types red"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What are the two products formed when a metal reacts with an acid?",
+      "options": [
+        "A metal salt and oxygen gas",
+        "A metal oxide and carbon dioxide gas",
+        "A metal salt and hydrogen gas",
+        "Water and carbon dioxide gas"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What is the standard chemical test for hydrogen gas?",
+      "options": [
+        "It turns damp blue litmus paper red",
+        "It turns limewater cloudy",
+        "It relights a glowing splint",
+        "It makes a squeaky pop sound when tested with a lit splint"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which of the following is the correct word equation for the reaction of a metal carbonate with an acid?",
+      "options": [
+        "metal carbonate + acid → metal salt + hydrogen",
+        "metal carbonate + acid → metal salt + water + carbon dioxide",
+        "metal carbonate + acid → metal oxide + water",
+        "metal carbonate + acid → metal salt + oxygen + carbon dioxide"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How can you test a gas to show that it is carbon dioxide?",
+      "options": [
+        "Bubble the gas through limewater and watch it turn cloudy",
+        "Hold a lit splint near the gas and listen for a squeaky pop",
+        "Hold a glowing splint near the gas and see if it relights",
+        "Pass the gas over blue litmus paper and watch it turn blue"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What do we call rain water when it becomes significantly more acidic than normal?",
+      "options": [
+        "Alkaline rain",
+        "Neutral rain",
+        "Acid rain",
+        "Pure water"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What happens when acid rain reacts with a building made of marble?",
+      "options": [
+        "It forms a metal oxide and protects the marble from further damage",
+        "It reacts to produce a salt, water, and carbon dioxide, using up some of the marble",
+        "It turns the marble into pure hydrogen gas which escapes",
+        "It has no chemical reaction because marble is completely insoluble"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What is the general word equation for a neutralisation reaction between a base and an acid?",
+      "options": [
+        "base + acid → metal salt + water",
+        "base + acid → metal + carbon dioxide",
+        "base + acid → hydrogen + metal oxide",
+        "base + acid → salt + hydrogen gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What are the correct chemical formulas for sodium hydroxide and hydrochloric acid respectively?",
+      "options": [
+        "Na(s) and HCl(g)",
+        "NaOH(aq) and HCl(aq)",
+        "NaCl(aq) and H2O(l)",
+        "NaOH(s) and H2SO4(aq)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which of the following groups of substances are common bases?",
+      "options": [
+        "Metal oxides and hydroxides",
+        "Metal carbonates and pure hydrogen",
+        "Non-metal oxides and liquid acids",
+        "Noble gases and halogens"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What does the state symbol (aq) represent in a chemical equation?",
+      "options": [
+        "A solid substance",
+        "A substance dissolved in water (aqueous solution)",
+        "A gas being released",
+        "A pure liquid substance"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What are the products when a metal oxide reacts with an acid?",
+      "options": [
+        "Metal salt + hydrogen gas",
+        "Metal salt + water",
+        "Metal hydroxide + carbon dioxide",
+        "Metal + oxygen gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What type of solution is formed when a non-metal oxide dissolves in water?",
+      "options": [
+        "An acidic solution",
+        "An alkaline solution",
+        "A neutral solution",
+        "A salt solution with no pH change"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How is the concentration of hydrogen ions related to the pH of an acid?",
+      "options": [
+        "The higher the concentration of hydrogen, the higher the pH",
+        "The higher the concentration of hydrogen, the lower the pH",
+        "The concentration of hydrogen does not affect the pH",
+        "Low concentrations of hydrogen always result in a pH of 14"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Since the pH scale goes up and down in factors of ten, how much more acidic is an acid of pH 2 compared to an acid of pH 3?",
+      "options": [
+        "Two times more acidic",
+        "Ten times more acidic",
+        "One hundred times more acidic",
+        "It is actually less acidic"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What color does red cabbage indicator turn when added to a neutral solution?",
+      "options": [
+        "Pink or red",
+        "Green",
+        "Purple",
+        "Bright yellow"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    }
+  ]
+}

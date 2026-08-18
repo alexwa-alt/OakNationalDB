@@ -1,6 +1,6 @@
 {
   "unitKey": "1Breathing and respirationBiology",
-  "generatedAt": "2026-08-12T06:18:25.032586+00:00",
+  "generatedAt": "2026-08-18T09:05:19.207034+00:00",
   "questions": [
     {
       "question": "During gas exchange in the alveoli, which of the following describes the correct movement of gases between the air sacs and the surrounding capillaries?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 34
+    },
+    {
+      "question": "Which statement correctly distinguishes between the processes of breathing and cellular respiration in humans?",
+      "options": [
+        "Breathing is the physical movement of air into and out of the lungs, whereas respiration is a chemical reaction inside cells that releases energy.",
+        "Breathing is a chemical reaction that releases energy in the lungs, whereas respiration is the physical contraction of the diaphragm.",
+        "Breathing takes place only in the cytoplasm of cells, whereas respiration takes place only in the trachea and bronchi.",
+        "Breathing requires glucose as a reactant, whereas respiration requires only carbon dioxide and water."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "If a medical condition causes the walls of the alveoli to become thickened with scar tissue, how does this affect gas exchange?",
+      "options": [
+        "It reduces the blood pressure in the capillaries, preventing blood from reaching the heart.",
+        "It increases the diffusion distance, making the movement of oxygen and carbon dioxide between air and blood slower.",
+        "It blocks the trachea, preventing air from entering the lungs during breathing.",
+        "It increases the surface area of the lungs, making gas exchange more rapid."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How does the continuous flow of blood through the capillaries surrounding the alveoli support efficient gas exchange?",
+      "options": [
+        "It actively pumps carbon dioxide out of the blood cells and sucks oxygen into the plasma.",
+        "It warms up the alveoli, causing the gas molecules to expand and diffuse through thicker walls.",
+        "It keeps the concentration of oxygen in the blood surrounding the alveoli low, maintaining a steep concentration gradient for diffusion.",
+        "It physically pushes the alveoli closer together to reduce the total volume of the lungs."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A scientist compares skeletal muscle cells, skin cells, and bone cells from the same animal. Which cells would you expect to contain the highest number of mitochondria, and why?",
+      "options": [
+        "Bone cells, because they need to store large amounts of calcium and support the animal's weight.",
+        "Skin cells, because they must constantly undergo cell division to replace damaged outer layers.",
+        "All these cells will have the exact same number of mitochondria because they belong to the same animal.",
+        "Skeletal muscle cells, because they do a lot of physical work and require a large amount of energy from cellular respiration."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "During a short, intense sprint, a runner's muscle cells may not receive oxygen fast enough. What is the consequence of this in human muscle cells?",
+      "options": [
+        "They switch to anaerobic respiration, which produces lactic acid that can lead to muscle cramps.",
+        "They switch to aerobic respiration, which produces ethanol and carbon dioxide.",
+        "They stop respiring completely and rely on stored carbon dioxide for energy.",
+        "They convert lactic acid back into glucose to prevent any change in pH."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "If a specific chemical blocks all reactions occurring inside the mitochondria of an animal cell, which respiration process can still take place?",
+      "options": [
+        "Aerobic respiration, because it only requires the cell membrane.",
+        "Anaerobic respiration, because it takes place entirely in the cytoplasm.",
+        "Both aerobic and anaerobic respiration, as neither relies on mitochondria.",
+        "Neither process, because both require the mitochondria to initiate reactions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which of the following is a key functional difference between anaerobic and aerobic cellular respiration in human cells?",
+      "options": [
+        "Anaerobic respiration releases more energy than aerobic respiration, but it takes much longer to complete.",
+        "Anaerobic respiration requires oxygen to start but releases energy more slowly than aerobic respiration.",
+        "Anaerobic respiration releases less energy overall than aerobic respiration, but it provides that energy much more quickly.",
+        "Aerobic respiration releases energy more quickly but produces toxic ethanol in human muscle cells."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How do humans utilize the process of anaerobic respiration in yeast to make bread rise?",
+      "options": [
+        "The ethanol produced during fermentation reacts with flour to release oxygen gas bubbles.",
+        "The lactic acid produced during fermentation breaks down starch into large air pockets.",
+        "The water vapor produced during aerobic respiration causes the gluten to swell.",
+        "The carbon dioxide gas produced during fermentation becomes trapped in the dough, causing it to expand."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of the following word equations correctly represents anaerobic respiration in yeast and other microorganisms?",
+      "options": [
+        "Glucose -> Ethanol + Carbon dioxide (+ energy)",
+        "Glucose + Oxygen -> Carbon dioxide + Water (+ energy)",
+        "Glucose -> Lactic acid (+ energy)",
+        "Glucose + Carbon dioxide -> Ethanol + Oxygen (+ energy)"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which statement accurately compares the products of aerobic and anaerobic cellular respiration in humans?",
+      "options": [
+        "Aerobic respiration produces lactic acid, whereas anaerobic respiration produces ethanol and carbon dioxide.",
+        "Aerobic respiration produces carbon dioxide and water, whereas anaerobic respiration produces lactic acid.",
+        "Both processes produce carbon dioxide, but only anaerobic respiration produces water.",
+        "Both processes produce lactic acid, but only aerobic respiration requires glucose."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How is the 'vital capacity' of a person's lungs defined?",
+      "options": [
+        "The volume of air that remains in the lungs after a normal, relaxed exhalation.",
+        "The average volume of air breathed in and out during a single normal, resting breath.",
+        "The maximum volume of air that can be exhaled after inhaling as deeply as possible.",
+        "The total amount of oxygen that can be absorbed by the blood in one minute."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "According to the pressure model of breathing, what causes air to move into the lungs during inhalation?",
+      "options": [
+        "A decrease in chest volume increases the air pressure inside the lungs, forcing air in.",
+        "The contraction of the windpipe creates a high-pressure zone that pushes air downward.",
+        "Oxygen molecules are actively attracted to the low-pressure carbon dioxide inside the alveoli.",
+        "An increase in chest volume decreases the air pressure inside the lungs below atmospheric pressure, drawing air in."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "Which of the following describes the correct movement of muscles and structures during normal exhalation?",
+      "options": [
+        "The diaphragm relaxes and moves upwards, and the ribcage moves downwards and inwards.",
+        "The diaphragm contracts and moves downwards, and the ribcage moves upwards and outwards.",
+        "The diaphragm contracts and flattens, and the ribcage moves downwards and inwards.",
+        "The diaphragm relaxes and flattens, and the ribcage moves upwards and outwards."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "What is the biological advantage of the lungs containing millions of microscopic alveoli instead of two large simple sacs?",
+      "options": [
+        "It prevents dust and bacteria from reaching the bloodstream.",
+        "It greatly increases the total surface area available for gas exchange to occur rapidly.",
+        "It allows the lungs to store more oxygen for periods when breathing stops.",
+        "It decreases the overall volume of the chest cavity so other organs have more room."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "During gas exchange in the alveoli, in which directions do oxygen and carbon dioxide diffuse?",
+      "options": [
+        "Oxygen diffuses from the blood into the alveoli, while carbon dioxide diffuses from the alveoli into the blood.",
+        "Both gases diffuse from the alveoli into the blood simultaneously.",
+        "Oxygen diffuses from the alveoli into the blood, while carbon dioxide diffuses from the blood into the alveoli.",
+        "Both gases diffuse from the blood into the alveoli to be exhaled."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which of the following statements about cellular respiration in living organisms is correct?",
+      "options": [
+        "It occurs in animal cells all the time, but in plant cells it only occurs at night when there is no light.",
+        "It only occurs when an organism is actively moving or performing physical work.",
+        "It stops when an organism is asleep because the energy demand drops to zero.",
+        "It occurs in all living cells, including plants and animals, continuously day and night to keep them alive."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A student measures their lung vital capacity. The actual true value is 3.6 Litres. Which of the following sets of measurements is the most accurate?",
+      "options": [
+        "3.5 L, 3.6 L, 3.7 L",
+        "2.0 L, 2.1 L, 2.0 L",
+        "4.8 L, 4.9 L, 4.8 L",
+        "1.5 L, 2.5 L, 3.5 L"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Which of the following represents the correct word equation for aerobic cellular respiration?",
+      "options": [
+        "Glucose -> Lactic acid + Carbon dioxide",
+        "Glucose + Oxygen -> Carbon dioxide + Water",
+        "Carbon dioxide + Water -> Glucose + Oxygen",
+        "Glucose + Carbon dioxide -> Oxygen + Water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why is it essential for the human respiratory and circulatory systems to continuously absorb oxygen and remove carbon dioxide?",
+      "options": [
+        "Oxygen is used to build complex proteins, while carbon dioxide is needed to maintain body temperature.",
+        "Oxygen keeps the blood liquid, while carbon dioxide is used by the kidneys to filter urine.",
+        "Oxygen is required by cells for respiration to release energy, while carbon dioxide is a waste product that is harmful if it builds up.",
+        "Oxygen cools down the heart, while carbon dioxide is used to inflate the lungs."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "How can a scientist or doctor calculate an estimate of a person's total lung volume without performing direct complex medical scans?",
+      "options": [
+        "By multiplying the person's resting breathing rate by their body mass.",
+        "By measuring the volume of water they can drink in a single breath.",
+        "By assuming the total lung volume is always exactly double the vital capacity for every individual.",
+        "By applying an approximate mathematical relationship to a measurement of the person's vital capacity."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 31
     }
   ]
 }

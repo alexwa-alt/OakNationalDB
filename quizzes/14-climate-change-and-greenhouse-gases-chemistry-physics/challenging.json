@@ -1,6 +1,6 @@
 {
   "unitKey": "14Climate change and greenhouse gasesChemistryPhysics",
-  "generatedAt": "2026-08-17T09:13:45.676318+00:00",
+  "generatedAt": "2026-08-18T09:02:15.749841+00:00",
   "questions": [
     {
       "question": "When scientists calculate the global average surface temperature, how do they ensure the result is reliable despite local weather extremes?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 3,
       "learningPointIndex": 33
+    },
+    {
+      "question": "How do climate scientists determine the single value for the annual global average surface temperature?",
+      "options": [
+        "By taking a single representative measurement at the equator and adjusting it for the season.",
+        "By averaging tens of thousands of temperature measurements taken from various locations across the land and sea worldwide.",
+        "By averaging the maximum and minimum temperatures recorded daily at a single weather station in each country.",
+        "By using satellite data exclusively from the upper atmosphere to estimate the ground temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When scientists report a temperature \"anomaly\" of +1.2 °C for a specific region, what are they comparing the current temperature to?",
+      "options": [
+        "The current temperature of the neighboring region at the exact same time.",
+        "The highest temperature ever recorded in that region since records began.",
+        "The average temperature of the entire planet on that day.",
+        "The long-term historical average temperature calculated specifically for that region over a baseline period."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How do scientists reconstruct global temperatures from thousands of years before thermometers were invented?",
+      "options": [
+        "By calculating the theoretical heat output of the Sun using historical astronomical records.",
+        "By analyzing the physical and chemical properties preserved within tree rings and ice cores.",
+        "By measuring the current decay rate of surface rocks exposed to sunlight.",
+        "By reading ancient texts and journals for descriptions of daily weather patterns."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the primary mechanism by which greenhouse gases cause the Earth's atmosphere to warm up?",
+      "options": [
+        "They undergo exothermic chemical reactions with oxygen when exposed to sunlight, releasing heat.",
+        "They block cold air currents from escaping into space, acting as a physical barrier.",
+        "They absorb infrared radiation emitted by the Earth's surface and re-radiate it in all directions, trapping heat.",
+        "They absorb incoming high-energy ultraviolet light from the Sun and convert it directly into thermal energy."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why is methane considered a more potent greenhouse gas than carbon dioxide, despite being present in much smaller concentrations?",
+      "options": [
+        "On a molecule-for-molecule basis, methane is much more effective at absorbing and trapping infrared radiation than carbon dioxide.",
+        "Methane reacts with oxygen in the atmosphere to produce double the amount of carbon dioxide over time.",
+        "Methane molecules are larger and physically block more sunlight from escaping back into space.",
+        "Methane remains in the atmosphere for thousands of years longer than carbon dioxide."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which statement best describes the role of the natural greenhouse effect on Earth's habitability?",
+      "options": [
+        "Without greenhouse gases, the Earth's average surface temperature would remain exactly the same due to direct solar heating.",
+        "Without greenhouse gases, the atmosphere would trap no heat, making the Earth too cold to support life as we know it.",
+        "The greenhouse effect is entirely human-made and did not exist before the industrial revolution.",
+        "Greenhouse gases act as a mirror that reflects all solar radiation away from the Earth's surface."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why does the melting of land-based ice sheets, such as those on Greenland and Antarctica, lead to a rise in global sea levels?",
+      "options": [
+        "It transfers water that was previously stored on land into the ocean basins.",
+        "It increases the density of the ocean water, causing it to take up more space.",
+        "It alters the Earth's gravitational pull, drawing more water toward coastal areas.",
+        "It releases trapped air bubbles that physically push the ocean water upward."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "During the summer, large amounts of Arctic sea ice melt. Why does this specific melting not directly contribute to sea level rise?",
+      "options": [
+        "The meltwater from sea ice immediately evaporates into the atmosphere before reaching the ocean.",
+        "Sea ice is made of fresh water, which has a lower density and occupies less volume when it melts.",
+        "The sea ice is already floating in the ocean, so it has already displaced its own weight in water.",
+        "Ocean currents transport the melted sea ice water to deep underground reservoirs."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Apart from the melting of land-based ice, what is another major physical process that causes sea levels to rise as global temperatures increase?",
+      "options": [
+        "Increased rainfall directly over the oceans due to higher rates of evaporation.",
+        "Thermal expansion, where water molecules move faster and spread further apart as they warm up.",
+        "A decrease in the rate of evaporation from the ocean surface as air temperatures rise.",
+        "The relaxation of the seabed, which rises up and pushes water toward the coastlines."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Why might driving an electric vehicle still contribute to greenhouse gas emissions, even though the vehicle itself has no tailpipe emissions?",
+      "options": [
+        "The electricity used to charge the vehicle's battery may have been generated by burning fossil fuels at a power station.",
+        "Electric vehicles release large amounts of methane directly from their battery packs during acceleration.",
+        "The friction between the tyres and the road surface releases carbon dioxide gas.",
+        "Electric motors require the continuous combustion of small amounts of fuel to keep the battery warm."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is the main objective of Carbon Capture and Storage (CCS) technology at industrial sites?",
+      "options": [
+        "To convert carbon dioxide into oxygen and carbon using high-powered lasers before it leaves the chimney.",
+        "To trap carbon dioxide in giant surface domes to be used later for carbonating soft drinks.",
+        "To isolate carbon dioxide from waste gases and store it securely in deep underground geological formations.",
+        "To freeze carbon dioxide into dry ice and release it into the upper atmosphere where it cannot trap heat."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "While Carbon Capture and Storage (CCS) is a promising technology for reducing industrial emissions, what is a major barrier to its widespread adoption?",
+      "options": [
+        "It releases more carbon dioxide during the storage process than it actually captures.",
+        "It is extremely expensive to build, operate, and maintain the necessary infrastructure.",
+        "There are no underground locations on Earth that are geologically suitable for storing gas.",
+        "The captured carbon dioxide is highly unstable and explodes when stored underground."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Which percentage best represents the energy sector's contribution (including heating, electricity, and transport) to total global greenhouse gas emissions?",
+      "options": [
+        "Approximately 25%",
+        "Approximately 10%",
+        "Approximately 75%",
+        "Approximately 95%"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which of the following combinations of strategies would be most effective at lowering a country's total greenhouse gas emissions?",
+      "options": [
+        "Improving energy efficiency to use less energy overall and transitioning to wind and solar power.",
+        "Increasing the use of coal-fired power plants while reducing the use of public transport.",
+        "Replacing wind turbines with natural gas generators and encouraging more personal car travel.",
+        "Importing more fossil fuels while reducing the number of insulation standards for homes."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Under which of the following conditions would a car consume the most energy to travel a fixed distance of 100 km?",
+      "options": [
+        "Carrying a single driver and driving at a moderate, steady speed.",
+        "Carrying a heavy cargo load and driving at a very high speed on the highway.",
+        "Carrying a heavy cargo load but driving at a very low, efficient speed.",
+        "Carrying a single driver and driving at a very low, efficient speed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "How does ensuring that a car's tyres are inflated to the correct air pressure help to reduce its fuel consumption?",
+      "options": [
+        "It decreases the rolling resistance between the tyres and the road, requiring less energy to move forward.",
+        "It makes the car lighter by replacing heavy, collapsed rubber with lightweight air.",
+        "It increases the aerodynamic drag of the car, allowing it to glide further when coasting.",
+        "It cools the engine down by transferring heat from the tyres to the chassis."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "In a standard utility-scale power station, how is mechanical motion converted into electrical energy?",
+      "options": [
+        "Chemical energy is converted directly into electricity by mixing fuel with copper wire.",
+        "High-pressure steam is sprayed directly onto static solar cells to release electrons.",
+        "A turbine spins coils of wire inside a magnetic field within an electric generator.",
+        "A turbine rubs two large pieces of plastic together to generate static electricity."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "How do power stations that burn biomass, oil, or gas use these fuels to eventually spin an electricity-generating turbine?",
+      "options": [
+        "The heat from burning the fuel boils water to create high-pressure steam, which forces the turbine to spin.",
+        "The fuel is mixed with water to create a high-density liquid that physically pushes the turbine blades.",
+        "The exhaust gases from the burning fuel are frozen into solids that slide down the turbine blades.",
+        "The fuel acts as a lubricant to make the turbine spin faster without any external force."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Unlike wind turbines, hydroelectric dams, and fossil-fuel power stations, how do solar photovoltaic panels generate electricity?",
+      "options": [
+        "They use tiny, microscopic wind turbines built into the surface of the panel.",
+        "They collect heat from the Sun to boil water and drive a miniature steam generator.",
+        "They convert sunlight directly into electrical energy without using a spinning generator.",
+        "They use chemical reactions that burn silicon fuel to turn a tiny internal generator."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "What historical trend has been observed in global surface temperatures since the start of the industrial revolution around the 1850s?",
+      "options": [
+        "Global surface temperatures have remained completely stable with zero variation.",
+        "There has been a clear, overall increase in global surface temperatures.",
+        "Temperatures decreased steadily until the mid-20th century, then rose rapidly.",
+        "There has been a continuous, steady decline in global surface temperatures worldwide."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
     }
   ]
 }
