@@ -1,6 +1,6 @@
 {
   "unitKey": "1Breathing and respirationBiology",
-  "generatedAt": "2026-08-18T09:05:19.207034+00:00",
+  "generatedAt": "2026-08-19T09:01:45.083884+00:00",
   "questions": [
     {
       "question": "During gas exchange in the alveoli, which of the following describes the correct movement of gases between the air sacs and the surrounding capillaries?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 3,
       "learningPointIndex": 31
+    },
+    {
+      "question": "Emphysema is a lung condition that causes the walls of many alveoli to break down, merging them into larger, fewer air sacs. How does this structural change directly affect gas exchange?",
+      "options": [
+        "It increases the diffusion distance, making it harder for oxygen to reach the blood.",
+        "It decreases the surface area available for diffusion, slowing down gas exchange.",
+        "It prevents blood from flowing through the capillaries surrounding the alveoli.",
+        "It increases the concentration gradient of oxygen between the lungs and the blood."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why does the extremely thin barrier of a single layer of cells in both the alveoli walls and capillary walls facilitate rapid gas exchange?",
+      "options": [
+        "It increases the surface area available for oxygen to dissolve into the mucus.",
+        "It maintains a high pressure difference between the inhaled air and the bloodstream.",
+        "It decreases the distance over which oxygen and carbon dioxide must diffuse.",
+        "It allows active transport proteins to pump carbon dioxide out of the blood more quickly."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "During exercise, blood flows much faster through the capillaries surrounding the alveoli. How does this rapid blood flow help maintain efficient gas exchange?",
+      "options": [
+        "It quickly carries away oxygenated blood and brings deoxygenated blood, keeping a steep concentration gradient.",
+        "It increases the thickness of the alveoli walls to prevent them from bursting under high pressure.",
+        "It slows down the rate of diffusion so that oxygen has more time to attach to red blood cells.",
+        "It forces carbon dioxide to move against its concentration gradient into the air sacs."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A student states that 'only animal cells perform cellular respiration, while plant cells only perform photosynthesis.' Which of the following statements best corrects this misconception?",
+      "options": [
+        "Plant cells only perform respiration at night, and they do not use mitochondria for this process.",
+        "Plant cells perform respiration in their chloroplasts instead of their mitochondria.",
+        "Plant cells do not require respiration because photosynthesis directly produces usable energy for all life processes.",
+        "Plant cells perform aerobic cellular respiration in their mitochondria and cytoplasm, just like animal cells, to release energy."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Human cardiac muscle cells (heart muscle) beat continuously throughout life, whereas some skeletal muscle cells are only active occasionally. How would you expect the structure of these cells to differ?",
+      "options": [
+        "Cardiac muscle cells contain significantly more mitochondria than inactive skeletal muscle cells to meet their high energy demand.",
+        "Skeletal muscle cells contain more mitochondria because they are larger in physical size.",
+        "Cardiac muscle cells contain fewer mitochondria because they rely entirely on anaerobic respiration in the cytoplasm.",
+        "Both cell types have the same number of mitochondria, but cardiac muscle cells have larger alveoli inside them."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "When yeast is sealed in a container with a glucose solution and no oxygen, it carries out anaerobic respiration. What products will accumulate in the container over time?",
+      "options": [
+        "Lactic acid and water",
+        "Carbon dioxide and ethanol",
+        "Oxygen and glucose",
+        "Carbon dioxide and water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "In industrial biotechnology, the anaerobic respiration of microorganisms is widely harnessed. What is the specific scientific term used for this anaerobic process?",
+      "options": [
+        "Ventilation",
+        "Aeration",
+        "Fermentation",
+        "Photosynthesis"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "During a short, intense sprint, a runner's muscles do not receive oxygen fast enough. What substance builds up in their muscle cells as a result of anaerobic respiration, potentially leading to cramps?",
+      "options": [
+        "Ethanol",
+        "Carbon dioxide",
+        "Glucose",
+        "Lactic acid"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following correctly describes where aerobic and anaerobic respiration take place within a human cell?",
+      "options": [
+        "Aerobic respiration occurs only in the nucleus, while anaerobic respiration occurs only in the mitochondria.",
+        "Aerobic respiration occurs in both the cytoplasm and mitochondria, while anaerobic respiration occurs only in the cytoplasm.",
+        "Both aerobic and anaerobic respiration occur exclusively inside the mitochondria.",
+        "Aerobic respiration occurs only in the cytoplasm, while anaerobic respiration occurs only in the mitochondria."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why might an athlete's body switch to anaerobic respiration during a heavy weightlifting lift, even though aerobic respiration is more efficient?",
+      "options": [
+        "Anaerobic respiration provides energy much more quickly than aerobic respiration, despite producing less total energy per glucose molecule.",
+        "Anaerobic respiration produces more energy per glucose molecule than aerobic respiration, which is needed for sudden movements.",
+        "The body runs out of glucose completely, forcing the cells to use carbon dioxide as an alternative fuel.",
+        "Anaerobic respiration prevents the formation of lactic acid, allowing muscles to contract with greater force."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "During gas exchange in the lungs, what determines the direction in which oxygen and carbon dioxide diffuse?",
+      "options": [
+        "They are actively pumped by transport proteins; oxygen into the blood, and carbon dioxide into the alveoli.",
+        "They move from areas of lower concentration to areas of higher concentration; carbon dioxide into the blood, and oxygen into the alveoli.",
+        "They move from areas of higher concentration to areas of lower concentration; oxygen into the blood, and carbon dioxide into the alveoli.",
+        "They follow the flow of blood; both gases diffuse in the same direction into the bloodstream."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which statement best describes the fundamental purpose of cellular respiration in living organisms?",
+      "options": [
+        "It is a physical process of moving air into the lungs to obtain oxygen.",
+        "It is a chemical process that breaks down glucose from food to release energy for life processes.",
+        "It is a chemical process that produces glucose and oxygen using light energy.",
+        "It is a physical process of transporting carbon dioxide from the tissues to the lungs."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which of the following organisms are performing cellular respiration right now?",
+      "options": [
+        "Only animals, because plants only perform photosynthesis and bacteria do not need energy.",
+        "Only organisms that are awake and actively moving.",
+        "Only plants during the night when there is no sunlight for photosynthesis.",
+        "All living organisms, including plants, animals, and bacteria, at all times."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A classmate says, 'Breathing and respiration are just two words for the same thing.' How would you explain the difference to them?",
+      "options": [
+        "Breathing is the mechanical movement of air in and out of the lungs, whereas respiration is a chemical reaction inside cells that releases energy.",
+        "Breathing is a chemical reaction that occurs in the blood, whereas respiration is the physical movement of the diaphragm.",
+        "Breathing only occurs in animals with lungs, whereas respiration only occurs in plants and single-celled organisms.",
+        "Breathing produces glucose and oxygen, whereas respiration consumes glucose and oxygen."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "A student takes the deepest breath possible and then blows out as much air as they can into a measuring device. What lung volume measurement have they just determined?",
+      "options": [
+        "Total lung capacity",
+        "Vital capacity",
+        "Tidal volume",
+        "Residual volume"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "How can a researcher obtain an estimate of a person's total lung volume if they only have simple spirometer measurements?",
+      "options": [
+        "By multiplying their vital capacity by their breathing rate per minute.",
+        "By measuring the volume of water they can drink in a single breath.",
+        "By calculating it using a mathematical relationship based on a measurement of their vital capacity.",
+        "By subtracting their tidal volume from the volume of a normal exhaled breath."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "What is the correct path taken by a molecule of oxygen as it is inhaled from the air into the gas exchange surface of the human lungs?",
+      "options": [
+        "Trachea -> Bronchus -> Bronchiole -> Alveolus",
+        "Bronchus -> Trachea -> Bronchiole -> Alveolus",
+        "Trachea -> Alveolus -> Bronchiole -> Bronchus",
+        "Bronchiole -> Bronchus -> Trachea -> Alveolus"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "What muscle movements occur in the human chest cavity to cause inhalation?",
+      "options": [
+        "The diaphragm relaxes and domes upwards, and the rib muscles relax to lower the ribcage.",
+        "The diaphragm contracts and moves downwards, and the rib muscles contract to pull the ribcage upwards and outwards.",
+        "The diaphragm contracts and moves upwards, and the rib muscles relax to lower the ribcage.",
+        "The diaphragm relaxes and moves downwards, and the rib muscles contract to pull the ribcage inwards."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "When using a bell jar model to represent the lungs, pulling the rubber sheet at the bottom downwards increases the volume inside the jar. How does this explain inhalation?",
+      "options": [
+        "The increase in volume increases the air pressure inside the jar, squeezing air out of the balloons.",
+        "The rubber sheet directly pushes air upward into the balloons, inflating them mechanically.",
+        "The increased pressure inside the jar forces the balloons to contract and push air out.",
+        "The increase in volume decreases the air pressure inside the jar, causing air from the outside to rush in and inflate the balloons."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "Which of the following sets of word equations correctly summarizes aerobic respiration and anaerobic respiration in humans?",
+      "options": [
+        "Aerobic: Glucose + Oxygen -> Carbon Dioxide + Water; Anaerobic: Glucose -> Lactic Acid",
+        "Aerobic: Glucose -> Carbon Dioxide + Ethanol; Anaonobic: Glucose + Oxygen -> Water",
+        "Aerobic: Glucose + Oxygen -> Lactic Acid; Anaerobic: Glucose -> Carbon Dioxide + Water",
+        "Aerobic: Glucose + Water -> Carbon Dioxide + Oxygen; Anaerobic: Glucose -> Ethanol + Carbon Dioxide"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
     }
   ]
 }

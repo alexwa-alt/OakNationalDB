@@ -1,6 +1,6 @@
 {
   "unitKey": "14Climate change and greenhouse gasesChemistryPhysics",
-  "generatedAt": "2026-08-18T09:02:15.749841+00:00",
+  "generatedAt": "2026-08-19T09:01:13.307909+00:00",
   "questions": [
     {
       "question": "When scientists calculate the global average surface temperature, how do they ensure the result is reliable despite local weather extremes?",
@@ -661,6 +661,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 2
+    },
+    {
+      "question": "How do scientists reliably determine changes in the Earth's average global surface temperature over time?",
+      "options": [
+        "By averaging temperatures calculated from tens of thousands of measurements worldwide.",
+        "By relying solely on satellite measurements of the upper atmosphere.",
+        "By taking a single daily reading from the equator and another from the South Pole.",
+        "By comparing measurements from a few select capital cities around the world."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When scientists report a temperature anomaly of '+1.5 °C' for a particular region in July, what does this actually mean?",
+      "options": [
+        "The temperature in that region is 1.5 °C higher than the absolute global average temperature for July.",
+        "The region's temperature is 1.5 °C higher than its own historical long-term average temperature for that region.",
+        "The temperature of that region has increased by exactly 1.5 °C every year during July.",
+        "The regional temperature is 1.5 °C higher than the boiling point of water in that climate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "If we analyze the global surface temperature trend starting from the onset of the industrial revolution in the 1850s, what overall pattern is observed?",
+      "options": [
+        "A steady, uninterrupted decrease in global surface temperatures due to increased aerosol pollution.",
+        "Cyclical fluctuations with no net change in the global average temperature over the entire period.",
+        "An overall increase in global surface temperatures across the globe.",
+        "A rapid increase followed by a complete stabilization back to pre-industrial levels by the year 2000."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Scientists want to reconstruct temperature records from thousands of years ago, long before thermometers existed. Which combination of natural records provides the most reliable data for this?",
+      "options": [
+        "Historical ship logs and written agricultural harvest diaries.",
+        "Evidence from tree rings and deep ice cores.",
+        "Measuring the current depth of local rivers and lakes.",
+        "Examining the chemical composition of modern desert sand dunes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which of the following best describes the mechanism by which increased levels of greenhouse gases contribute to global warming?",
+      "options": [
+        "They absorb incoming high-energy solar radiation, heating the upper atmosphere directly before it reaches Earth.",
+        "They absorb outgoing infrared radiation emitted by the Earth and re-radiate it in all directions, keeping heat trapped.",
+        "They react chemically with oxygen in the atmosphere to release large amounts of thermal energy.",
+        "They block cold winds from space from entering the lower layers of the Earth's atmosphere."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Suppose equal masses of carbon dioxide and methane are released into the atmosphere. How do their impacts on global warming compare?",
+      "options": [
+        "Carbon dioxide has a much higher warming impact because it contains more oxygen atoms.",
+        "They have exactly the same warming impact because they are both greenhouse gases.",
+        "Methane has a greater warming impact because it is a more potent greenhouse gas than carbon dioxide.",
+        "Methane has a lower warming impact because it is lighter and escapes into space more quickly."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "If the Earth's atmosphere suddenly lost all of its greenhouse gases, what would be the effect on the planet's average temperature?",
+      "options": [
+        "The Earth would become significantly colder because greenhouse gases keep the atmosphere warmer than it would be without them.",
+        "The temperature would remain exactly the same because the Sun is the only source of heat.",
+        "The Earth would become extremely hot because solar radiation would not be filtered by greenhouse gases.",
+        "The temperature would rise during the day but drop to absolute zero every night, averaging out to the same temperature."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "While greenhouse gases trap heat, what is the primary external factor that controls the average temperature of the Earth?",
+      "options": [
+        "The heat generated by volcanic activity and tectonic plate movements.",
+        "The thermal energy released by burning fossil fuels globally.",
+        "The heating effect from the Sun's incoming radiation.",
+        "The gravitational pull of the Moon on the oceans."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why does the melting of continental ice sheets, such as those on Greenland, lead to a rise in global sea levels?",
+      "options": [
+        "It releases dissolved gases that push the water level upward.",
+        "It transfers a massive volume of water previously stored on land directly into the sea.",
+        "It decreases the density of seawater, causing the existing ocean water to expand dramatically.",
+        "It increases the speed of ocean currents, which makes the water pile up along coastlines."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "During summer, a large area of Arctic sea ice melts. Why does this specific melting process not add water to the sea or raise sea levels?",
+      "options": [
+        "The meltwater evaporates into the atmosphere immediately due to high summer temperatures.",
+        "The floating sea ice already displaces a volume of water equal to its own liquid weight.",
+        "Sea ice is made of fresh water, which occupies less volume than saltwater when melted.",
+        "Ocean currents carry the melted water to the South Pole where it refreezes instantly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Apart from melting land ice, what is another major physical process that causes sea levels to rise as global temperatures increase?",
+      "options": [
+        "Sea water expands as it absorbs thermal energy and warms up.",
+        "Increased rainfall directly increases the total volume of water in the oceans.",
+        "The ocean floor rises due to increased pressure from warming atmospheric gases.",
+        "Stronger winds push more water from the deep ocean up to the coastal shelves."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which statement best compares the environmental impact of petrol/diesel vehicles and electric vehicles (EVs) regarding fuel burning?",
+      "options": [
+        "EVs produce zero emissions during operation, but fossil fuels may still be burned to generate the electricity they use.",
+        "Petrol cars produce emissions only when starting up, whereas EVs produce emissions continuously from their batteries.",
+        "EVs produce more emissions during operation than petrol cars because of their heavier electric motors.",
+        "Both vehicle types burn fuel directly on-board, but EVs do so much more efficiently."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How does carbon capture and storage (CCS) technology help reduce carbon dioxide emissions from industrial plants?",
+      "options": [
+        "It converts CO₂ into oxygen gas using artificial photosynthesis before releasing it.",
+        "It separates CO₂ from other emissions and stores it permanently in suitable deep underground locations.",
+        "It compresses CO₂ into solid blocks that are used to build new roads and buildings.",
+        "It dissolves CO₂ in shallow coastal waters to increase ocean acidity safely."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is a major limitation of implementing Carbon Capture and Storage (CCS) on a global scale?",
+      "options": [
+        "It is highly effective at reducing CO₂ emissions but is currently very expensive to implement.",
+        "It only works in tropical climates where the ground is warm enough to absorb CO₂.",
+        "It increases the amount of CO₂ released because the storage sites constantly leak.",
+        "It requires the use of radioactive materials to neutralize the carbon atoms."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Approximately what proportion of global greenhouse gas emissions is produced by the energy sector (including electricity, heat, transport, and manufacturing)?",
+      "options": [
+        "Approximately 10%",
+        "Approximately 25%",
+        "Approximately 50%",
+        "Approximately 75%"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A driver wants to reduce the energy used by their car over a 100 km journey. Based on physical factors, how can they achieve this?",
+      "options": [
+        "By carrying heavier cargo to increase momentum and driving at maximum speed.",
+        "By reducing the weight of the car's cargo and driving at lower, moderate speeds.",
+        "By driving faster to complete the journey in less time, reducing engine running duration.",
+        "By using a heavier vehicle to maintain a constant speed more easily."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Why does keeping car tyres inflated to the correct air pressure help a vehicle use less energy?",
+      "options": [
+        "It decreases the rolling resistance, requiring less energy from the engine to move.",
+        "It makes the car lighter, which directly reduces the gravitational pull on the vehicle.",
+        "It increases the aerodynamic drag, allowing the car to glide through the air more easily.",
+        "It cools down the engine by transferring heat through the wheels."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why are wind and solar energy classified as renewable resources, whereas coal and gas are not?",
+      "options": [
+        "Wind and solar energy do not require any equipment or infrastructure to capture.",
+        "They are replenished by natural processes more quickly than we use them up.",
+        "They contain an infinite amount of energy in a single fixed location.",
+        "They can be easily converted into fossil fuels after they are used."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Most traditional power stations generate electricity by spinning a turbine. How does this turbine generate an electric current?",
+      "options": [
+        "By rubbing two large plastic sheets together to generate static electricity.",
+        "By spinning coils of wire in an electric generator.",
+        "By chemical reactions between acid and metal plates inside the turbine.",
+        "By compressing air until it sparks and produces electricity directly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "How do solar panels differ from wind turbines and hydroelectric systems in how they produce electricity?",
+      "options": [
+        "They produce electricity directly from sunlight without using electric generators.",
+        "They use steam instead of water to spin miniature generators inside each cell.",
+        "They require a small internal combustion engine to start the electrical flow.",
+        "They rely on spinning coils of wire powered by light waves rather than physical wind."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
     }
   ]
 }

@@ -1,0 +1,226 @@
+{
+  "unitKey": "3Magnets and electromagnetsPhysics",
+  "generatedAt": "2026-08-19T09:02:40.156300+00:00",
+  "questions": [
+    {
+      "question": "What is one way to increase the strength of the magnetic field produced by an electromagnet?",
+      "options": [
+        "Increase the number of turns of wire in the coil",
+        "Decrease the number of turns of wire in the coil",
+        "Use plastic coated string instead of wire",
+        "Cool the wire down to absolute zero"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How does changing the electric current affect the strength of an electromagnet's magnetic field?",
+      "options": [
+        "Decreasing the current makes the magnetic field stronger",
+        "Increasing the current makes the magnetic field stronger",
+        "Increasing the current has no effect on the magnetic field",
+        "Increasing the current makes the magnetic field weaker"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "If the coils of wire on an electromagnet are wound more closely together, what happens to its magnetic field?",
+      "options": [
+        "It becomes weaker",
+        "It remains exactly the same",
+        "It becomes stronger",
+        "It disappears completely"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why will an electromagnet made from bare wire fail to work if the adjacent turns of wire are touching?",
+      "options": [
+        "The bare wire will melt instantly due to electrical friction",
+        "The magnetic field lines will cancel out because of the bare metal",
+        "The wire will become a permanent magnet and cannot be turned off",
+        "The current will short-circuit across the turns instead of flowing around the coil"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why does inserting a soft iron core into the coil increase the strength of an electromagnet?",
+      "options": [
+        "The soft iron core becomes magnetised when the current is turned on",
+        "The soft iron core conducts heat away from the copper coils",
+        "The soft iron core increases the electrical resistance of the wire",
+        "The soft iron core prevents the wires from touching each other"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is always produced around a wire when an electric current flows through it?",
+      "options": [
+        "An electrostatic charge on the surface",
+        "A magnetic field around the wire",
+        "A permanent north pole at one end",
+        "A vacuum around the wire"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When an electric current flows through a coil of wire, why is the resulting magnetic field stronger than that of a straight wire?",
+      "options": [
+        "The resistance of the wire decreases when it is bent into a coil shape",
+        "The electric current speed increases as it travels in a circle",
+        "The magnetic field around each loop adds together to make a stronger field",
+        "The coil traps air which concentrates the magnetic force"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which of the following describes how a basic electromagnet is constructed?",
+      "options": [
+        "Connecting two permanent magnets together with plastic string",
+        "Heating a steel bar until it becomes red hot",
+        "Rubbing a piece of copper with a plastic rod",
+        "Wrapping a coil of wire around a central core"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What defines an electromagnet compared to a permanent magnet?",
+      "options": [
+        "It is a magnet that can be turned on and off with an electric current",
+        "It does not require any materials to make it",
+        "It is always active and never loses its magnetic power",
+        "It only attracts non-metal objects"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which poles are found on all magnets?",
+      "options": [
+        "A positive pole and a negative pole",
+        "A north-seeking pole and a south-seeking pole",
+        "An active pole and a passive pole",
+        "An eastern pole and a western pole"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What happens when the north-seeking pole of one magnet is brought close to the north-seeking pole of another magnet?",
+      "options": [
+        "They attract each other",
+        "They cancel each other out and lose their magnetism",
+        "They repel each other",
+        "They rotate to point towards the East"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How does a magnetic material behave when brought near the poles of a magnet?",
+      "options": [
+        "It is repelled by both poles",
+        "It is attracted to the north-seeking pole but repelled by the south-seeking pole",
+        "It is attracted to the south-seeking pole but repelled by the north-seeking pole",
+        "It is attracted to both the north-seeking and south-seeking poles"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which group of metallic elements contains only those that are magnetic?",
+      "options": [
+        "Iron, cobalt and nickel",
+        "Iron, copper and zinc",
+        "Gold, silver and platinum",
+        "Aluminium, nickel and tin"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why does the north-seeking pole of a suspended bar magnet point towards the Earth's geographic North Pole?",
+      "options": [
+        "Because the Earth's rotation physically drags the magnet",
+        "Because the Earth has its own magnetic field",
+        "Because of the gravitational pull of the North Pole",
+        "Because the North Pole is colder than the South Pole"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What behavior does the needle of a plotting compass show when placed near a magnet?",
+      "options": [
+        "It spins continuously in a clockwise direction",
+        "It points directly towards the nearest electric socket",
+        "It lines up with the magnetic field of the magnet",
+        "It points perpendicular to the magnetic field lines"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "In what direction can a magnetic field line be followed around a magnet?",
+      "options": [
+        "From the south-seeking pole to the north-seeking pole",
+        "From the center of the magnet outwards to the sides",
+        "From the positive terminal to the negative terminal",
+        "From the north-seeking pole to the south-seeking pole"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What do the arrows drawn on magnetic field lines show?",
+      "options": [
+        "The direction of the force on a north-seeking pole of another magnet",
+        "The direction of the electric current in the magnet",
+        "The direction of the force on a south-seeking pole of another magnet",
+        "The direction of gravitational pull near the magnet"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which of the following is a true characteristic of the magnetic field around a bar magnet?",
+      "options": [
+        "It is completely asymmetrical",
+        "It is symmetrical",
+        "It is only present at the north-seeking pole",
+        "It forms a spiral shape that never returns to the magnet"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which statement correctly describes how magnetic field lines behave?",
+      "options": [
+        "They frequently cross each other at right angles",
+        "They start at the poles and end abruptly in the air",
+        "They do not cross over each other and are continuous",
+        "They only exist inside the metal of the magnet itself"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How does an electromagnetic door lock use physics to unlock a door?",
+      "options": [
+        "It heats up the keyhole using electric currents to melt a wax seal",
+        "It uses static electricity to push the entire door frame away",
+        "It permanently magnetizes the brass key so it fits better",
+        "It uses an electromagnet to pull a magnetic bolt to unlock the door"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 19
+    }
+  ]
+}

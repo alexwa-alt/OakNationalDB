@@ -1,6 +1,6 @@
 {
   "unitKey": "2Acids and basesChemistry",
-  "generatedAt": "2026-08-12T06:18:20.946246+00:00",
+  "generatedAt": "2026-08-19T09:02:18.633596+00:00",
   "questions": [
     {
       "question": "A scientist is testing an unknown powder. She adds it to an acid and finds that a chemical reaction occurs, forming water and a compound called a salt. Based on this observation, what category of substance must the powder be?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 32
+    },
+    {
+      "question": "An industrial waste pipe releases a solution with a pH of 3. After treatment, the pH of the effluent is measured at pH 6. How has the acidity (concentration of hydrogen ions) of the solution changed?",
+      "options": [
+        "It is 3 times less acidic.",
+        "It is 30 times less acidic.",
+        "It is 1,000 times less acidic.",
+        "It is 10,000 times less acidic."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A student neutralises potassium hydroxide with sulfuric acid. What is the correct name of the salt produced in this chemical reaction?",
+      "options": [
+        "Potassium sulfate",
+        "Potassium chloride",
+        "Potassium hydroxide sulfate",
+        "Sulfuric potassium"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A scientist adds hydrochloric acid to a sample of solid copper carbonate in a sealed flask connected to a gas syringe. Which of the following correctly describes what they will observe and the substances present in the flask after the reaction is complete?",
+      "options": [
+        "No bubbles form because copper is unreactive, leaving the copper carbonate solid unchanged.",
+        "Effervescence occurs, and the products left in the flask are copper chloride, water, and carbon dioxide gas.",
+        "The solid dissolves with no gas produced, forming a solution of copper chloride and water.",
+        "Effervescence occurs, leaving only water and a precipitate of copper metal in the flask."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Solution A has a hydrogen ion concentration that is 100 times greater than Solution B. Solution B has a pH of 5. What is the pH of Solution A, and why?",
+      "options": [
+        "pH 7, because higher hydrogen concentration increases the potential of hydrogen.",
+        "pH 3, because higher hydrogen concentration results in a lower pH value.",
+        "pH 5.2, because concentration changes have a minimal linear effect on pH.",
+        "pH 1, because hydrogen concentration is inversely proportional by a factor of 100 directly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A historic building made of marble (calcium carbonate) is exposed to acid rain (containing sulfuric acid) over many decades. Which of the following best explains why the building's details are eroding?",
+      "options": [
+        "The acid rain dissolves the marble to form soluble calcium sulfate, water, and carbon dioxide gas, which escape.",
+        "The acid rain causes a physical erosion process by freezing inside the pores of the marble.",
+        "The acid rain neutralises the marble, turning it into a highly reactive metal that burns in air.",
+        "The acid rain reacts with the marble to form insoluble calcium oxide which flakes off as a green powder."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A student is testing three unlabeled liquids: X, Y, and Z. Liquid X turns red cabbage indicator red. Liquid Y turns it green. Liquid Z is a mixture of X and Y in exact neutralisation proportions. What colour will the red cabbage indicator turn when added to Liquid Z?",
+      "options": [
+        "Pink",
+        "Green",
+        "Purple",
+        "Colourless"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "In the chemical equation: Mg(s) + 2HCl(aq) -> MgCl2(aq) + H2(g), what do the state symbols tell us about the reaction mixture?",
+      "options": [
+        "Magnesium starts as a liquid, hydrochloric acid is a gas, and the salt is a solid.",
+        "Magnesium is a solid, hydrochloric acid is dissolved in water, and hydrogen is released as a gas.",
+        "Magnesium is soluble, hydrochloric acid is aqueous, and hydrogen is a liquid.",
+        "Magnesium is a solid, hydrochloric acid is a gas, and the reaction occurs without water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A technician wants to write the word equation for the reaction of zinc with nitric acid. What are the correct reactants and products?",
+      "options": [
+        "zinc + nitric acid -> zinc nitrate + water",
+        "zinc + nitric acid -> zinc oxide + nitrogen gas",
+        "zinc + nitric acid -> zinc nitrate + hydrogen",
+        "zinc + nitric acid -> zinc nitride + hydrogen oxide"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "When sulfur dioxide gas (a non-metal oxide) is bubbled through a beaker of pure water containing universal indicator, what colour change would you expect to observe?",
+      "options": [
+        "From green to red or orange, because non-metal oxides form acidic solutions.",
+        "From green to blue or purple, because non-metal oxides form alkaline solutions.",
+        "The solution remains green because non-metal oxides do not react with water.",
+        "From red to green, because the non-metal oxide neutralises the water."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "During an experiment, a student bubbles an unknown gas through limewater, and the limewater remains completely clear. However, a lit splint placed in the gas goes out immediately. What can the student conclude about the gas?",
+      "options": [
+        "The gas is definitely carbon dioxide because it extinguished the lit splint.",
+        "The gas is not carbon dioxide, as carbon dioxide would have made the limewater cloudy.",
+        "The gas is hydrogen because it did not react with the limewater.",
+        "The gas is oxygen because limewater only reacts with nitrogen."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A piece of magnesium ribbon is dropped into a beaker of hydrochloric acid. A student records three observations. Which set of observations correctly matches the expected chemical and physical changes?",
+      "options": [
+        "The beaker feels cold, the metal turns green, and no bubbles are seen.",
+        "Bubbles are produced, the temperature of the beaker increases, and the magnesium ribbon gets smaller.",
+        "The magnesium ribbon expands in size, the liquid turns yellow, and the beaker cools down.",
+        "There is no change in temperature, but the metal turns into a gas and disappears instantly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Copper oxide is a black solid that does not dissolve in water. When warmed with dilute sulfuric acid, it reacts to form a blue solution of copper sulfate and water. What type of reaction is this?",
+      "options": [
+        "Thermal decomposition, because heat was required to break down the copper oxide.",
+        "Neutralisation, because a metal oxide (base) reacts with an acid to form a salt and water.",
+        "Displacement, because copper is more reactive than hydrogen and pushes it out of the acid.",
+        "Combustion, because the oxygen in the copper oxide burns the hydrogen in the acid."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Copper oxide and sodium hydroxide are both bases. However, copper oxide is insoluble in water, whereas sodium hydroxide dissolves easily in water. Which statement correctly compares them?",
+      "options": [
+        "Both copper oxide and sodium hydroxide are alkalis.",
+        "Neither copper oxide nor sodium hydroxide are alkalis.",
+        "Copper oxide is an alkali, but sodium hydroxide is only a base.",
+        "Sodium hydroxide is an alkali, but copper oxide is not."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "You are given four substances: calcium oxide, sodium hydroxide, copper oxide, and sodium chloride. Which of these substances are classified as bases?",
+      "options": [
+        "Only sodium hydroxide and sodium chloride",
+        "Calcium oxide, sodium hydroxide, and copper oxide",
+        "Only calcium oxide and copper oxide",
+        "All four substances are bases"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A chemist needs to find the exact pH value of a soil sample to one decimal place. Why would they choose a digital pH probe over universal indicator paper?",
+      "options": [
+        "Universal indicator paper changes colour too slowly compared to a digital probe.",
+        "Universal indicator paper cannot measure the pH of solids, whereas a probe can.",
+        "A digital pH probe provides a precise, numerical value, whereas indicator paper relies on subjective colour matching.",
+        "Universal indicator paper only works for strong acids and strong alkalis, not weak ones."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "A bottle of concentrated sodium hydroxide solution has a hazard symbol showing a substance spilling onto a hand and eating into the skin. What safety precaution is most critical when handling this substance, and why?",
+      "options": [
+        "Wear safety goggles and gloves because the substance is corrosive and can cause chemical burns.",
+        "Work in a fume cupboard because the substance is highly flammable and explosive.",
+        "Keep the bottle in a water bath because the substance will boil at room temperature.",
+        "Wear a dust mask because the liquid will evaporate into toxic solid particles."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A student collects a gas produced from the reaction of iron with hydrochloric acid. They want to confirm if the gas is hydrogen. What should they do, and what is the expected positive result?",
+      "options": [
+        "Hold a glowing splint in the gas; it should relight.",
+        "Bubble the gas through limewater; it should turn cloudy.",
+        "Introduce a lit splint to the gas; it should make a squeaky pop.",
+        "Hold damp red litmus paper in the gas; it should turn blue."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Equal-sized pieces of magnesium, zinc, iron, and copper are added to separate test tubes containing the same volume and concentration of hydrochloric acid. Which of the following lists the metals in order of most vigorous reaction to least vigorous reaction (no reaction)?",
+      "options": [
+        "Copper, Iron, Zinc, Magnesium",
+        "Magnesium, Zinc, Iron, Copper",
+        "Iron, Magnesium, Copper, Zinc",
+        "Zinc, Magnesium, Iron, Copper"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "When testing a reaction between an unknown base and an acid, a student notices that a gas is produced. Can this reaction be represented by the general equation: base + acid -> metal salt + water?",
+      "options": [
+        "Yes, because all neutralisation reactions produce a gas.",
+        "No, because the general equation for a base and acid reaction only produces a salt and water, meaning the base must have been a carbonate instead of a simple oxide or hydroxide.",
+        "Yes, because water evaporates to form steam, which is the gas they observed.",
+        "No, because only metals react with acids to produce salt and water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is the chemical reason why all acids have a pH value below 7?",
+      "options": [
+        "Acids contain oxygen atoms which make them highly reactive with water.",
+        "pH stands for 'potential of hydrogen', and acids release hydrogen ions when dissolved in water, determining their pH.",
+        "Acids contain hydroxide ions which lower the potential of hydrogen in the solution.",
+        "All acids are made of non-metal oxides which prevent hydrogen from bonding."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
     }
   ]
 }
