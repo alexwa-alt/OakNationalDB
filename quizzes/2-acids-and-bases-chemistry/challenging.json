@@ -1,6 +1,6 @@
 {
   "unitKey": "2Acids and basesChemistry",
-  "generatedAt": "2026-08-19T09:02:18.633596+00:00",
+  "generatedAt": "2026-08-20T09:02:49.042033+00:00",
   "questions": [
     {
       "question": "A scientist is testing an unknown powder. She adds it to an acid and finds that a chemical reaction occurs, forming water and a compound called a salt. Based on this observation, what category of substance must the powder be?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 26
+    },
+    {
+      "question": "A chef is experimenting with unfamiliar wild berries. They note that the juice of the berries has a distinctly sharp, sour taste. Based on this observation, what chemical component is most likely present in the berries, and how should it be classified?",
+      "options": [
+        "An edible acid, which typically has a sour taste.",
+        "An alkali, which typically has a sour taste but is safe to eat.",
+        "A neutral salt, which provides the characteristic sourness of fruits.",
+        "A metal oxide, which imparts sour flavours to edible plants."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A student is given four unlabeled powders. They are told that one of them is a chemical base. To identify which powder is the base, they mix each powder with dilute sulfuric acid. Which observation would best confirm that a powder is a base?",
+      "options": [
+        "It dissolves completely in water to form a solution with a pH of 7 without reacting.",
+        "It reacts with the acid to form a compound known as a salt.",
+        "It produces bubbles of hydrogen gas when added to pure water.",
+        "It physically melts when heated but does not interact with the acid."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Copper(II) oxide and sodium hydroxide are both classified as bases. However, only sodium hydroxide is considered an alkali. What experimental evidence explains this difference in classification?",
+      "options": [
+        "Sodium hydroxide reacts with acids, whereas copper(II) oxide does not react with acids at all.",
+        "Sodium hydroxide is soluble in water, forming an alkaline solution, whereas copper(II) oxide is insoluble in water.",
+        "Copper(II) oxide contains metal atoms, while sodium hydroxide contains only non-metal atoms.",
+        "Copper(II) oxide turns universal indicator purple, while sodium hydroxide has no effect on indicators."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A bottle of concentrated sulfuric acid and a bottle of concentrated sodium hydroxide solution both carry a hazard symbol showing a substance spilling onto a hand and eating away at the skin. What does this symbol warn users about regarding these two chemicals?",
+      "options": [
+        "Both are highly flammable and will catch fire upon contact with skin.",
+        "Both are corrosive substances that can cause severe chemical burns.",
+        "Only the acid can cause damage, while the alkali is harmless but acts as a catalyst.",
+        "Both are toxic only if swallowed, but completely safe to handle with bare hands."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A student tests a colourless liquid by dipping a piece of blue litmus paper into it, and the paper turns red. They then dip a piece of red litmus paper into a second colourless liquid, and the paper turns blue. What can be concluded about the two liquids?",
+      "options": [
+        "The first liquid is neutral and the second liquid is an acid.",
+        "The first liquid is an alkali and the second liquid is an acid.",
+        "The first liquid is an acid and the second liquid is an alkali.",
+        "Both liquids are neutral, but they have different levels of dissolved oxygen."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A piece of zinc is placed in a beaker of hydrochloric acid. Over several minutes, the student observes gas bubbles forming rapidly on the zinc, the temperature of the mixture rising, and the piece of zinc getting smaller until it can no longer be seen. Which of the following is the correct scientific interpretation of these observations?",
+      "options": [
+        "A physical change occurred where the zinc melted due to the external heat of the room and dissolved.",
+        "An endothermic reaction took place, causing the zinc to absorb heat and evaporate into a gas.",
+        "An exothermic chemical reaction occurred, producing a gas and converting the solid zinc into a soluble compound.",
+        "A neutralisation reaction occurred where the acid was completely destroyed without forming any new substances."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "If a piece of magnesium metal is added to a test tube containing dilute hydrochloric acid, what are the specific chemical products formed from this reaction?",
+      "options": [
+        "Magnesium chloride salt and hydrogen gas.",
+        "Magnesium oxide, water, and chlorine gas.",
+        "Magnesium hydroxide salt and water.",
+        "Carbon dioxide gas and magnesium sulfate salt."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A student wants to represent the chemical reaction between iron and sulfuric acid using a word equation. Which of the following is the correct equation?",
+      "options": [
+        "iron + sulfuric acid → iron sulfate + water",
+        "iron + sulfuric acid → iron sulfate + hydrogen",
+        "iron + sulfuric acid → iron oxide + sulfur dioxide",
+        "iron + sulfuric acid → iron hydroxide + hydrogen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "During an experiment involving a metal and an acid, a gas is collected in an inverted test tube. How can the student safely and definitively confirm that the collected gas is hydrogen?",
+      "options": [
+        "Bubble the gas through limewater and observe if it turns cloudy.",
+        "Hold a glowing splint in the tube to see if it relights.",
+        "Introduce a lit splint and listen for a characteristic squeaky pop.",
+        "Use damp blue litmus paper to see if it turns red."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "When solid calcium carbonate is added to dilute nitric acid, the mixture fizzes vigorously. What are the three products of this chemical reaction?",
+      "options": [
+        "Calcium nitrate, water, and hydrogen gas.",
+        "Calcium oxide, water, and carbon dioxide gas.",
+        "Calcium nitrate, water, and carbon dioxide gas.",
+        "Calcium hydroxide, nitrogen gas, and water."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A student is investigating the reaction between copper carbonate and hydrochloric acid. They suspect that the gas being produced is carbon dioxide. How should they test this gas, and what observation would confirm their hypothesis?",
+      "options": [
+        "Pass the gas through limewater; the solution should change from clear to cloudy.",
+        "Hold a lit splint at the mouth of the tube; it should produce a loud squeaky pop.",
+        "Hold a glowing splint in the gas; the splint should immediately relight.",
+        "Direct the gas onto blue litmus paper; the paper should turn blue."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Over many decades, outdoor marble statues in industrial areas gradually lose their fine details and become pitted. Which statement best explains this phenomenon from a chemical perspective?",
+      "options": [
+        "Acid rain reacts with the marble to produce a salt, water, and carbon dioxide, gradually wearing away the solid marble.",
+        "Carbon dioxide in the air directly dissolves the marble, converting it into calcium metal.",
+        "Rainwater reacts with the marble to form an insoluble protective layer of metal oxide that falls off.",
+        "The wind physically scrapes off the marble, which is a neutralisation reaction that produces hydrogen gas."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "When an insoluble metal oxide (a base) reacts with an acid, the mixture warms up and a clear solution containing a salt is formed. What is the general word equation that describes this type of neutralisation reaction?",
+      "options": [
+        "base + acid → metal salt + hydrogen",
+        "base + acid → metal salt + water",
+        "metal + acid → metal salt + water + carbon dioxide",
+        "alkali + acid → metal carbonate + water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "If a chemist neutralises copper oxide (a base) using sulfuric acid, what is the name of the metal salt produced in this reaction?",
+      "options": [
+        "Copper chloride",
+        "Copper sulfate",
+        "Sodium sulfate",
+        "Copper carbonate"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A teacher asks a class to identify which group of compounds are classified as common bases. Which of the following lists contains only compounds that function as bases?",
+      "options": [
+        "Metal oxides and metal hydroxides",
+        "Non-metal oxides and non-metal hydroxides",
+        "Strong acids and weak acids",
+        "Hydrogen gas and carbon dioxide gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "When black copper oxide powder is heated with dilute sulfuric acid, a blue solution of copper sulfate is formed. What is the other product of this reaction?",
+      "options": [
+        "Hydrogen gas",
+        "Water",
+        "Oxygen gas",
+        "Carbon dioxide gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Sulfur dioxide is a gas produced by burning fossil fuels. When sulfur dioxide dissolves in water droplets in the atmosphere, what kind of solution is formed?",
+      "options": [
+        "An alkaline solution, because sulfur is a non-metal.",
+        "An neutral solution, because sulfur dioxide does not react with water.",
+        "An acidic solution, because non-metal oxides form acidic solutions in water.",
+        "A highly basic solution, because sulfur dioxide is a metal oxide."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Two beakers contain different concentrations of hydrochloric acid. Beaker A has a high concentration of hydrogen ions, while Beaker B has a very low concentration of hydrogen ions. How will their pH values compare?",
+      "options": [
+        "Beaker A will have a lower pH than Beaker B.",
+        "Beaker A will have a higher pH than Beaker B.",
+        "Both beakers will have the same pH because they contain the same acid.",
+        "Beaker A will have a pH of 7, while Beaker B will have a pH of 14."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A solution of hydrochloric acid has a pH of 4. If the concentration of hydrogen ions is increased by a factor of exactly 100, what will the new pH of the solution be?",
+      "options": [
+        "pH 6",
+        "pH 2",
+        "pH 5",
+        "pH 14"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A student prepares a natural indicator using red cabbage juice. They test three unknown liquids (X, Y, and Z). Liquid X turns the indicator red, Liquid Y turns it purple, and Liquid Z turns it green. What can be concluded about the nature of these three liquids?",
+      "options": [
+        "Liquid X is neutral, Liquid Y is an acid, and Liquid Z is an alkali.",
+        "Liquid X is an alkali, Liquid Y is neutral, and Liquid Z is an acid.",
+        "Liquid X is an acid, Liquid Y is neutral, and Liquid Z is an alkali.",
+        "Liquid X is an acid, Liquid Y is an alkali, and Liquid Z is neutral."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
     }
   ]
 }
