@@ -1,0 +1,226 @@
+{
+  "unitKey": "5MaterialsChemistry",
+  "generatedAt": "2026-08-21T09:09:46.850322+00:00",
+  "questions": [
+    {
+      "question": "What is the main role of a catalyst in a chemical reaction?",
+      "options": [
+        "It slows down a reaction to make it safer.",
+        "It speeds up a reaction and is completely used up.",
+        "It speeds up a reaction without being used up or chemically changed.",
+        "It reacts with the products to turn them back into reactants."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which statement is true about how catalysts work with different chemical reactions?",
+      "options": [
+        "The same catalyst can speed up every known chemical reaction.",
+        "Catalysts are specific, meaning different reactions require different catalysts.",
+        "Catalysts only work for reactions involving metals and acids.",
+        "Any catalyst can be used as long as the temperature is high enough."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What are enzymes?",
+      "options": [
+        "Biological catalysts that speed up reactions in living cells.",
+        "Synthetic chemicals used to clean up oil spills in oceans.",
+        "Tiny minerals that strengthen the walls of plant cells.",
+        "Non-living chemical compounds that slow down digestion."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What happens when a more reactive metal is added to a solution of a less reactive metal's salt?",
+      "options": [
+        "The less reactive metal is destroyed and turns into gas.",
+        "No reaction occurs because salts are always stable.",
+        "The more reactive metal will displace the less reactive metal from its salt.",
+        "Both metals dissolve completely to form a new alloy."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When magnesium is added to copper sulfate solution, what are the products of this displacement reaction?",
+      "options": [
+        "Magnesium sulfate solution and copper",
+        "Copper sulfate solution and magnesium oxide",
+        "Magnesium hydroxide and copper oxide",
+        "Copper hydride and magnesium sulfate."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "How can displacement reactions be useful in studying metals?",
+      "options": [
+        "They can be used to turn any cheap metal into gold.",
+        "They can confirm the position of a metal in the reactivity series.",
+        "They measure the exact melting point of a metal.",
+        "They show how easily a metal conducts electricity."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What is a metal ore?",
+      "options": [
+        "A pure block of metal found deep underground.",
+        "A mixture of gases from which metals are condensed.",
+        "A type of rock that contains a metal in a form that can be extracted.",
+        "A synthetic alloy created in a laboratory."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Under what condition can carbon be used to extract a metal from its ore?",
+      "options": [
+        "Carbon can only extract metals that are more reactive than carbon.",
+        "Carbon can extract some metals when carbon is more reactive than the metal.",
+        "Carbon must be less reactive than the metal for extraction to work.",
+        "Carbon can only be used if the metal is liquid at room temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following is a typical set of physical properties for metals?",
+      "options": [
+        "Brittle, dull, poor thermal conductors, and low density.",
+        "Good conductors of heat and electricity, strong, shiny, malleable, and ductile.",
+        "Soft, easy to melt, transparent, and highly flexible.",
+        "Liquid at room temperature, highly acidic, and chemically unreactive."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How are ceramics made, and how do their properties change during the process?",
+      "options": [
+        "They are made from hard gases that soften when they are cooled.",
+        "They are made from soft substances and become hard and brittle when heated.",
+        "They are made from melted metals that become flexible when cooled in water.",
+        "They are made from liquid polymers that remain soft forever."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What are plastics made of, and do they all behave the same way?",
+      "options": [
+        "Plastics are made of pure metals, and they all have identical properties.",
+        "Plastics are made of silica, and they all melt at the same temperature.",
+        "Plastics are made from polymers, and there are many types with very different properties.",
+        "Plastics are made from natural sugars, and they are all biodegradable."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What is an alloy?",
+      "options": [
+        "A compound made entirely of non-metals.",
+        "A pure element that has been highly polished.",
+        "A mixture of elements that includes at least one metal.",
+        "A plastic that has been reinforced with glass fibers."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is the main purpose of creating a composite material?",
+      "options": [
+        "To combine different materials to create a new material with improved properties.",
+        "To break down a complex mixture into its pure elements.",
+        "To make a material cheaper by adding useless filler.",
+        "To turn a solid material into a liquid for easier transport."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How are polymers structured at the molecular level?",
+      "options": [
+        "They consist of individual metal atoms arranged in a giant lattice.",
+        "They are made from small molecules called monomers joined to form very long chains.",
+        "They are made of isolated water molecules that do not touch each other.",
+        "They are composed of short, disconnected rings of carbon atoms."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why do some polymers have high melting points?",
+      "options": [
+        "Because they are made entirely of metal atoms.",
+        "Because their molecules are very small and can move easily.",
+        "Because their long polymer molecules are hard to separate.",
+        "Because they contain trapped pockets of high-pressure gas."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following is true about the origin of polymers?",
+      "options": [
+        "All polymers must be manufactured synthetically in factories.",
+        "Polymers can only be found in nature and cannot be made synthetically.",
+        "Polymers can be made synthetically, but some also exist naturally.",
+        "Polymers only form when volcanic lava cools rapidly."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is the effect of adding a plasticiser to a polymer?",
+      "options": [
+        "It makes the polymer extremely brittle and easy to shatter.",
+        "It gets between polymer molecules, allowing them to move over each other more easily.",
+        "It causes the polymer to instantly dissolve in cold water.",
+        "It locks the polymer chains tightly together so they cannot move at all."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What happens to a polymer's properties when cross-links form between its molecules?",
+      "options": [
+        "The polymer becomes harder and less flexible.",
+        "The polymer becomes a liquid at room temperature.",
+        "The polymer becomes much softer and easier to stretch.",
+        "The polymer loses its ability to conduct heat."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "When certain metals react with an acid, what products are formed?",
+      "options": [
+        "A metal hydroxide and carbon dioxide gas",
+        "A metal oxide and oxygen gas",
+        "A metal salt and hydrogen gas",
+        "Pure carbon and water vapor."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What are the products when a reactive metal reacts with water?",
+      "options": [
+        "A metal oxide and nitrogen gas",
+        "A metal hydroxide and hydrogen gas",
+        "A metal chloride and oxygen gas",
+        "A metal carbonate and steam."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    }
+  ]
+}

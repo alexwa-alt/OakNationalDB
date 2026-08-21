@@ -1,6 +1,6 @@
 {
   "unitKey": "3Magnets and electromagnetsPhysics",
-  "generatedAt": "2026-08-20T09:03:23.386661+00:00",
+  "generatedAt": "2026-08-21T09:05:58.934775+00:00",
   "questions": [
     {
       "question": "An engineer is designing two electromagnets, A and B. Both use the same type of wire and are connected to identical 6V power supplies. Electromagnet A has 100 turns of wire wrapped over 5 cm, while electromagnet B has 200 turns of wire wrapped over the same length. Assuming current is kept constant, why is electromagnet B stronger than A?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 2
+    },
+    {
+      "question": "A student has four solid metal rods: one made of copper, one of nickel, one of zinc, and one of aluminium. She brings a bar magnet near each rod. Which rod will experience an attractive force from both the north and south poles of the magnet?",
+      "options": [
+        "The copper rod",
+        "The nickel rod",
+        "The zinc rod",
+        "The aluminium rod"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A suspension system uses an unmarked metal block and a permanent bar magnet. When the North pole of the magnet is brought near the block, it attracts. When the magnet is flipped so the South pole is near the block, what will happen?",
+      "options": [
+        "The block will be repelled by the South pole",
+        "The block will be attracted by the South pole",
+        "The block will experience no force at all",
+        "The block will begin to spin continuously"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Two unmarked bar magnets are placed end-to-end. If they push away from each other with a strong force, what can be concluded about the two touching ends?",
+      "options": [
+        "One end is a North pole and the other is a South pole",
+        "Both ends must be North poles",
+        "Both ends must be South poles",
+        "Both ends are the same type of pole, either both North or both South"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A student winds a coil of bare copper wire tightly around an iron nail so that the adjacent turns of wire are in direct contact with each other. When they connect the ends of the wire to a battery, the electromagnet does not attract paperclips. What is the most likely reason for this failure?",
+      "options": [
+        "The current bypasses the helical path because the touching bare wires short-circuit across the turns",
+        "Bare copper wire is a magnetic material and blocks the magnetic field",
+        "Copper cannot carry enough current to create a magnetic field",
+        "The iron nail prevents the electrical current from flowing through the wire"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why is a soft iron core used in a scrap yard electromagnet rather than a hard steel core?",
+      "options": [
+        "Soft iron is lighter than steel, making the crane easier to maneuver",
+        "Soft iron magnetises easily when the current is on and loses its magnetism quickly when the current is turned off",
+        "Steel blocks the magnetic field lines, preventing them from reaching the scrap metal",
+        "Soft iron acts as an electrical insulator, keeping the current inside the coil"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A straight copper wire is suspended vertically. When a large direct current is switched on flowing upwards through the wire, what happens to the region immediately surrounding the wire?",
+      "options": [
+        "A static electric charge builds up on the surface of the wire",
+        "A circular magnetic field is generated in the space around the wire",
+        "The wire becomes permanently magnetised and remains so after the current is off",
+        "A magnetic field is generated that points directly upwards, parallel to the wire"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why does winding a wire into a circular coil produce a much stronger magnetic field than keeping the same wire straight, assuming the same current flows through it?",
+      "options": [
+        "The coil shape increases the total electrical resistance, which concentrates the energy",
+        "The magnetic field around each loop of the coil adds together to create a stronger combined field",
+        "Coiling the wire changes the atomic structure of the copper to make it magnetic",
+        "The straight wire cancels out its own magnetic field due to gravity"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which of the following describes the key functional advantage of an electromagnet over a permanent magnet in industrial sorting systems?",
+      "options": [
+        "Electromagnets always have a stronger magnetic field than any permanent magnet",
+        "Electromagnets do not have a South-seeking pole, only a North-seeking pole",
+        "The magnetic field of an electromagnet can be switched on to pick up objects and switched off to release them",
+        "Electromagnets do not require any materials other than copper wire to function"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "If you suspend a bar magnet horizontally from a lightweight string so that it can rotate freely, why does its north-seeking pole consistently point towards the geographic North Pole of the Earth?",
+      "options": [
+        "The Earth's geographic North Pole contains a massive deposit of pure copper",
+        "The Earth has its own magnetic field, and the magnet aligns itself with this field",
+        "The rotation of the Earth creates a centrifugal force that pulls only on the north-seeking pole",
+        "The Sun's magnetic field pulls the north-seeking pole of all magnets northward"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "When placing several small plotting compasses around a bar magnet, what determines the direction in which each compass needle points?",
+      "options": [
+        "The needles always point towards the geographic North Pole, ignoring the bar magnet",
+        "The needles line up with the local magnetic field lines produced by the bar magnet",
+        "The needles point directly towards the center of the bar magnet",
+        "The needles point perpendicular to the magnetic field lines"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "If you were to trace a magnetic field line outside a bar magnet using a plotting compass, in which direction would your path travel from start to end?",
+      "options": [
+        "From the south-seeking pole to the north-seeking pole",
+        "From the center of the magnet outwards in a straight, infinite line",
+        "From the north-seeking pole to the south-seeking pole",
+        "In a circle that never touches either pole of the magnet"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What do the arrows drawn on magnetic field lines represent?",
+      "options": [
+        "The direction of the electric current that created the magnetic field",
+        "The direction of the force that would act on a north-seeking pole placed at that point",
+        "The direction of the force that would act on a south-seeking pole placed at that point",
+        "The path that a neutral copper coin would take if released in the field"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "When drawing magnetic field lines around a pair of interacting magnets, which of the following is a fundamental rule that must be followed?",
+      "options": [
+        "Field lines must cross each other at the point of strongest attraction",
+        "Field lines must start at the North pole of one magnet and end at the North pole of the other",
+        "Field lines must not cross over each other and must be continuous loops",
+        "Field lines must always be perfectly straight lines parallel to each other"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "In an electromagnetic door lock system, the door remains securely locked when the power is on. What happens when an authorised user enters a code to unlock the door?",
+      "options": [
+        "The electric current is reversed, which repels the magnetic bolt out of the frame",
+        "The electric current is switched off, demagnetising the electromagnet so the magnetic bolt can be released",
+        "The current is increased to melt the magnetic lock temporarily",
+        "The electromagnet rotates 180 degrees to physically push the door open"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "In a traditional electric bell, why does the striker not just hold tightly against the bell once the electromagnet is turned on?",
+      "options": [
+        "The striker is made of plastic and is not attracted to the magnet for long",
+        "The movement of the striker physically breaks the circuit, turning off the electromagnet so the striker can spring back",
+        "The battery runs out of charge instantly every time the striker hits the bell",
+        "The electromagnet automatically reverses its magnetic poles every millisecond"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "How do the permanent magnets in a simple direct-current motor cause the internal electromagnet (the spinning coil) to rotate?",
+      "options": [
+        "The permanent magnets physically attract the copper wire of the coil because copper is magnetic",
+        "The permanent magnets exert forces on the magnetic field produced by the current in the spinning coil, pushing it round",
+        "The permanent magnets transfer electric charge to the spinning coil through the air",
+        "The permanent magnets block the Earth's magnetic field, allowing the coil to spin freely"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A student compares two electromagnets. Both have an identical iron core and carry a current of 2 Amps. Electromagnet A has 50 turns of wire, and Electromagnet B has 150 turns of wire. What is the expected difference between them?",
+      "options": [
+        "Electromagnet A will have a stronger magnetic field because fewer turns mean less electrical resistance",
+        "Electromagnet B will have a stronger magnetic field because the magnetic fields of more turns of wire add together",
+        "Both electromagnets will have the same magnetic field strength because the current is the same",
+        "Electromagnet B will not work at all because 150 turns is too many for a 2 Amp current"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "An engineer wants to double the lifting capacity of an industrial electromagnet without changing its physical design or the number of turns in its coil. What modification should they make?",
+      "options": [
+        "Increase the electric current flowing through the coil",
+        "Decrease the electric current flowing through the coil",
+        "Replace the copper wire with a non-conductive plastic wire",
+        "Wrap the entire coil in a thick layer of rubber insulation"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Two electromagnets, X and Y, are made with the same length of wire and the same iron core. Electromagnet X has its 100 turns wound closely together over a length of 2 cm. Electromagnet Y has its 100 turns spread out loosely over a length of 10 cm. If the same current is passed through both, how will their magnetic fields compare?",
+      "options": [
+        "Electromagnet Y will be stronger because the magnetic field is spread over a larger area",
+        "Electromagnet X will be stronger because the closely spaced turns concentrate the magnetic field",
+        "They will have identical magnetic field strengths because the number of turns and current are equal",
+        "Neither electromagnet will produce a magnetic field because the cores are identical"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If you map the magnetic field strength at equal distances from the center of a bar magnet, what pattern do you observe regarding its distribution?",
+      "options": [
+        "The magnetic field is significantly stronger on the North side than on the South side",
+        "The magnetic field is completely asymmetrical, with random high-strength spots",
+        "The magnetic field is symmetrical, showing identical field patterns and strengths on opposite sides of the magnet's axes",
+        "The magnetic field only exists on the ends of the magnet and is completely zero along the sides"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
     }
   ]
 }
