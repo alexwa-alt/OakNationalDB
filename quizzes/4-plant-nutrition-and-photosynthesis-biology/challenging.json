@@ -1,6 +1,6 @@
 {
   "unitKey": "4Plant nutrition and photosynthesisBiology",
-  "generatedAt": "2026-08-12T06:18:59.649179+00:00",
+  "generatedAt": "2026-08-21T09:07:00.941216+00:00",
   "questions": [
     {
       "question": "A student examines a plant cell under a microscope and identifies small, green structures within the cytoplasm. What are these structures, and in which part of the plant are they most abundant?",
@@ -218,6 +218,226 @@
         "It is a carbohydrate, which the plant uses for growth and as a source of energy.",
         "It is a gaseous oxygen molecule used to repel herbivorous pests.",
         "It is a protein used exclusively to form the outer waxy cuticle of the leaf."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "If you look at a cross-section of a green leaf under a light microscope, which cellular structures would you expect to find inside many of the leaf cells?",
+      "options": [
+        "Vacuoles containing chlorophyll",
+        "Chloroplasts containing genetic material",
+        "Chloroplasts as distinct intracellular structures",
+        "Stomata floating inside the cytoplasm"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A scientist isolates different compartments of a plant cell to find where the chemical conversion of light energy into chemical energy occurs. In which structure does this synthesis happen?",
+      "options": [
+        "In the cell wall",
+        "In the chloroplasts",
+        "In the vacuole",
+        "In the cytoplasm outside any organelles"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why are chloroplasts able to capture light energy for the process of photosynthesis?",
+      "options": [
+        "They contain chlorophyll, which absorbs light",
+        "They are transparent, which reflects light",
+        "They contain starch, which traps light",
+        "They have cell walls that refract light"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How does the thinness of a typical deciduous plant leaf benefit the cells located in its middle layers?",
+      "options": [
+        "It reduces the amount of water lost by evaporation from the upper surface",
+        "It allows sufficient light to penetrate through to cells containing chloroplasts",
+        "It makes it easier for roots to transport minerals directly to the surface",
+        "It prevents carbon dioxide from escaping out of the leaf too quickly"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the primary evolutionary advantage of a plant having leaves with a broad, flat surface area rather than thick, needle-like structures in a shaded forest?",
+      "options": [
+        "To increase the rate of water absorption from rain",
+        "To maximize the absorption of light for photosynthesis",
+        "To allow more minerals to enter the leaf directly from the air",
+        "To store greater amounts of carbohydrate within the leaf structure"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "During a sunny day, which gas must a plant take in from the surrounding atmosphere through its leaves to carry out photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Water vapour",
+        "Nitrogen",
+        "Carbon dioxide"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "During photosynthesis, what happens to the oxygen gas that is produced as a result of the chemical reactions inside the leaf cells?",
+      "options": [
+        "It is completely converted into glucose inside the chloroplasts",
+        "It is released from the leaves as a gas into the air",
+        "It is transported to the roots to absorb minerals",
+        "It is stored permanently in the vacuole of the cell"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What term is used to describe the biological process where carbon dioxide gas enters a plant leaf and oxygen gas is released?",
+      "options": [
+        "Transpiration",
+        "Gas exchange",
+        "Respiration",
+        "Osmosis"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Through which microscopic structures on the leaf's surface does the primary exchange of carbon dioxide and oxygen gases occur?",
+      "options": [
+        "Chloroplasts",
+        "Root hairs",
+        "Stomata",
+        "Veins"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "By what physical mechanism do carbon dioxide and oxygen molecules travel through open stomata into and out of the leaf?",
+      "options": [
+        "Active transport powered by cell energy",
+        "Osmosis across a selectively permeable membrane",
+        "Diffusion down a concentration gradient",
+        "Bulk flow driven by root pressure"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why are green plants classified as ecological producers?",
+      "options": [
+        "They absorb pre-made organic food from the soil using their roots",
+        "They make their own food using a process called photosynthesis",
+        "They break down dead matter to release nutrients into the environment",
+        "They consume other organisms to obtain carbohydrates"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "If a healthy green plant is kept in a completely dark room with plenty of water and carbon dioxide, what will happen to its rate of photosynthesis?",
+      "options": [
+        "It will continue at a lower rate using stored heat energy",
+        "It will stop completely because photosynthesis can only happen when there is light",
+        "It will increase to compensate for the lack of light",
+        "It will remain constant because only temperature affects the reaction"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which statement best describes the nature of photosynthesis as it occurs inside plant cells?",
+      "options": [
+        "It is a single, instantaneous physical change of state",
+        "It is a series of chemical reactions that take place inside cells",
+        "It is a purely physical process of filtering gases from the air",
+        "It is a mechanical breakdown of nutrients absorbed by the roots"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "If you were to list the chemical inputs (reactants) and outputs (products) of photosynthesis, which of the following is correct?",
+      "options": [
+        "Reactants: oxygen and glucose; Products: water and carbon dioxide",
+        "Reactants: water and carbon dioxide; Products: oxygen and glucose",
+        "Reactants: light and minerals; Products: carbon dioxide and water",
+        "Reactants: water and glucose; Products: oxygen and carbon dioxide"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "The word equation 'water + carbon dioxide -> glucose + oxygen' is widely used in science. What does this word summary represent?",
+      "options": [
+        "A literal, single-step reaction that bypasses cell structures",
+        "A model of the process of photosynthesis, which actually involves many chemical reactions",
+        "An exact physical description of how gases dissolve in water",
+        "A recipe for plants to absorb nutrients directly from the soil"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "To stay alive, grow, and remain healthy, which combination of resources must a green plant obtain from its environment?",
+      "options": [
+        "Light, air, water, and minerals",
+        "Soil, glucose, oxygen, and shade",
+        "Fertiliser, warmth, starch, and carbon dioxide",
+        "Light, sugar, oxygen, and clay"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How do plants divide the task of acquiring resources from their environment between their roots and their leaves?",
+      "options": [
+        "They take in water and light through leaves, and gases and minerals through roots",
+        "They take in light and gases through leaves, and water and minerals through roots",
+        "They take in minerals and light through leaves, and gases and water through roots",
+        "They take in all resources through their roots and none through their leaves"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A student claims that plants do not need food because they take in water and mineral ions from the soil. Why is this claim incorrect?",
+      "options": [
+        "Water and minerals are food, but plants also need to eat soil particles",
+        "Water and minerals are not food, but plants do need food to stay alive and grow",
+        "Water and minerals are the only food plants need, but they must be digested first",
+        "Plants do not need food at all; they only require energy from minerals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How do plants obtain the food they require for survival and growth compared to animals?",
+      "options": [
+        "They absorb organic glucose directly from rich soil through root hairs",
+        "They do not take in food from their surroundings; they are producers that make their own food",
+        "They ingest microscopic insects and fungi present on their leaves",
+        "They absorb dissolved carbohydrates from water in the soil"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What type of substance is the food made by plants during photosynthesis, and what do they primarily use it for?",
+      "options": [
+        "It is mineral salts, used to construct cell walls and absorb water",
+        "It is carbohydrate, which they use for growth and as a source of energy",
+        "It is protein, which they use to absorb light from the sun",
+        "It is carbon dioxide gas, which they store in their roots for respiration"
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 19

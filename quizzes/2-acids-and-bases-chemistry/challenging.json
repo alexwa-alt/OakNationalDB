@@ -1,6 +1,6 @@
 {
   "unitKey": "2Acids and basesChemistry",
-  "generatedAt": "2026-08-20T09:02:49.042033+00:00",
+  "generatedAt": "2026-08-21T09:05:00.188363+00:00",
   "questions": [
     {
       "question": "A scientist is testing an unknown powder. She adds it to an acid and finds that a chemical reaction occurs, forming water and a compound called a salt. Based on this observation, what category of substance must the powder be?",
@@ -661,6 +661,226 @@
       ],
       "correctAnswerIndex": 2,
       "learningPointIndex": 30
+    },
+    {
+      "question": "A student measures the pH of a soil sample and finds it is pH 5. After adding a soil treatment, the pH decreases to pH 3. How has the acidity of the soil changed?",
+      "options": [
+        "The soil is now 2 times more acidic.",
+        "The soil is now 20 times more acidic.",
+        "The soil is now 100 times more acidic.",
+        "The soil is now 100 times less acidic."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "If a student neutralises magnesium hydroxide with nitric acid, what is the correct name of the metal salt produced in this reaction?",
+      "options": [
+        "Magnesium nitrate",
+        "Magnesium sulfate",
+        "Hydrogen nitrate",
+        "Nitric hydroxide"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A historical marble statue has slowly degraded over decades due to acid rain. Which chemical process explains this degradation?",
+      "options": [
+        "Acid rain dissolves the marble without any chemical reaction, turning it into a liquid form.",
+        "Acid rain reacts with marble to produce a metal salt, water, and carbon dioxide, gradually consuming the solid marble.",
+        "Acid rain reacts with marble to produce hydrogen gas, which causes microscopic explosions on the surface.",
+        "Acid rain acts as a catalyst to turn marble into a metal oxide, which easily crumbles in the wind."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "When calcium carbonate is added to a beaker of dilute hydrochloric acid, which set of products will be formed?",
+      "options": [
+        "Calcium chloride and hydrogen gas",
+        "Calcium chloride, water, and carbon dioxide",
+        "Calcium hydroxide, water, and chlorine gas",
+        "Calcium oxide, carbon dioxide, and hydrogen gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Solution A has a pH of 1 and Solution B has a pH of 4. Which of the following statements correctly compares the two solutions?",
+      "options": [
+        "Solution A has a higher concentration of hydrogen than Solution B.",
+        "Solution B has a higher concentration of hydrogen than Solution A.",
+        "Both solutions have the same concentration of hydrogen, but Solution A is more reactive.",
+        "Solution A has no hydrogen, whereas Solution B is rich in hydrogen."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A student extracts red cabbage juice and adds a few drops to an unknown clear solution. The mixture turns green. What does this result tell us about the unknown solution?",
+      "options": [
+        "It is highly acidic.",
+        "It is neutral.",
+        "It is alkaline.",
+        "It is pure water."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "An unknown metal is placed into a beaker of sulfuric acid. The reaction produces zinc sulfate and a gas. What is the correct word equation that represents this chemical reaction?",
+      "options": [
+        "zinc + sulfuric acid -> zinc sulfate + water",
+        "zinc + sulfuric acid -> zinc sulfate + hydrogen",
+        "zinc sulfate + hydrogen -> zinc + sulfuric acid",
+        "zinc oxide + sulfuric acid -> zinc sulfate + hydrogen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "In the chemical equation: Mg(s) + 2HCl(aq) -> MgCl2(aq) + H2(g), what do the state symbols (aq) and (s) represent respectively?",
+      "options": [
+        "Acidic solution and solid",
+        "Aqueous (in solution) and solid",
+        "Aqua-gas and soluble",
+        "Active reactant and stable product"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Sulfur dioxide is a non-metal oxide gas produced by burning fossil fuels. When sulfur dioxide dissolves in rain droplets in the atmosphere, what kind of solution is formed and why?",
+      "options": [
+        "An alkaline solution, because all non-metal oxides form hydroxides in water.",
+        "A neutral solution, because non-metal oxides do not react with water.",
+        "An acidic solution, because non-metal oxides in water make acidic solutions.",
+        "A saline solution, because non-metal oxides react with water to form salts."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "During an experiment with a metal and an acid, a student collects a gas in an inverted test tube. How can they safely confirm that the gas is hydrogen?",
+      "options": [
+        "Bubble the gas through limewater and check if it turns cloudy.",
+        "Hold a glowing splint at the mouth of the tube and watch it relight.",
+        "Hold a lit splint at the mouth of the tube and listen for a squeaky pop.",
+        "Dampen blue litmus paper and place it in the tube to see if it turns red."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "To identify the gas produced when an acid reacts with a metal carbonate, a student bubbles the gas into a test tube containing a clear liquid. The liquid turns cloudy. What is the liquid, and what gas does this test confirm?",
+      "options": [
+        "The liquid is limewater, and the gas is hydrogen.",
+        "The liquid is universal indicator, and the gas is oxygen.",
+        "The liquid is limewater, and the gas is carbon dioxide.",
+        "The liquid is hydrochloric acid, and the gas is carbon dioxide."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Copper oxide is a black powder that does not dissolve in water. When heated with dilute sulfuric acid, the black powder disappears, and a blue solution is formed. What is the correct word equation for this reaction?",
+      "options": [
+        "copper oxide + sulfuric acid -> copper sulfate + water",
+        "copper oxide + sulfuric acid -> copper sulfate + hydrogen",
+        "copper oxide + sulfuric acid -> copper sulfide + oxygen",
+        "copper oxide + sulfuric acid -> copper sulfate + carbon dioxide + water"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A beaker contains an unknown liquid. A student dips blue litmus paper into the liquid, and it remains blue. They then dip red litmus paper into the same liquid, and it turns blue. What can the student conclude about the liquid?",
+      "options": [
+        "The liquid is highly acidic.",
+        "The liquid is neutral.",
+        "The liquid is alkaline.",
+        "The liquid is pure water."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is the main difference between a base and an alkali?",
+      "options": [
+        "Bases turn litmus paper red, while alkalis turn litmus paper blue.",
+        "Alkalis are bases that can dissolve in water, whereas some bases are insoluble.",
+        "Alkalis react with metals to produce hydrogen, while bases do not react with metals.",
+        "Bases are highly corrosive, whereas alkalis are completely safe to touch."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A student is writing a summary of neutralisation reactions. Which general word equation should they use to represent a neutralisation reaction between a base and an acid?",
+      "options": [
+        "base + acid -> metal salt + hydrogen",
+        "base + acid -> metal salt + water",
+        "base + acid -> metal salt + carbon dioxide + water",
+        "base + acid -> non-metal oxide + water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "When a small strip of magnesium ribbon is dropped into a test tube containing hydrochloric acid, several observations are made. Which of the following is NOT an observation associated with this reaction?",
+      "options": [
+        "Bubbles of gas are produced rapidly in the mixture.",
+        "The test tube feels warm to the touch.",
+        "The magnesium ribbon gradually reduces in size and disappears.",
+        "A white solid precipitate forms and falls to the bottom of the tube."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Three different metals (X, Y, and Z) are added to separate test tubes containing dilute hydrochloric acid. Metal X produces bubbles rapidly; metal Y shows no reaction at all; metal Z produces bubbles very slowly. What is the correct order of these metals from most reactive to least reactive?",
+      "options": [
+        "Y, Z, X",
+        "X, Z, Y",
+        "X, Y, Z",
+        "Z, X, Y"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Sodium carbonate (Na2CO3) is often used in neutralisation experiments. What is the composition of the carbonate group found in this compound?",
+      "options": [
+        "One carbon atom and two oxygen atoms bonded together.",
+        "One carbon atom and three oxygen atoms bonded together.",
+        "Three carbon atoms and one oxygen atom bonded together.",
+        "One calcium atom and three oxygen atoms bonded together."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A teacher asks the class to select two compounds that belong to the group known as common bases. Which pair should the students choose?",
+      "options": [
+        "Hydrochloric acid and sodium chloride",
+        "Copper oxide and sodium hydroxide",
+        "Carbon dioxide and water",
+        "Magnesium metal and hydrogen gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A student wants to find the exact pH value of a solution to one decimal place. Why would they choose a pH meter (a digital sensor) over litmus paper or red cabbage indicator?",
+      "options": [
+        "Litmus paper only shows if a substance is acidic or alkaline, and red cabbage indicator cannot be used with liquids.",
+        "Red cabbage indicator changes color too slowly, while litmus paper is highly toxic to handle.",
+        "Chemical indicators only provide broad color ranges or binary results, whereas a pH meter can provide precise, numerical measurements.",
+        "A pH meter is the only indicator that can detect whether a solution contains hydrogen."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
     }
   ]
 }
