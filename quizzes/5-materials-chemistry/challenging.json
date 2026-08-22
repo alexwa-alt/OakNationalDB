@@ -1,6 +1,6 @@
 {
   "unitKey": "5MaterialsChemistry",
-  "generatedAt": "2026-08-12T06:19:03.626477+00:00",
+  "generatedAt": "2026-08-22T08:54:44.541840+00:00",
   "questions": [
     {
       "question": "A student measures the mass of a black powder before adding it to hydrogen peroxide. After the reaction, she filters, dries, and weighs the powder again. If the powder acted as a catalyst, what will she observe?",
@@ -220,6 +220,226 @@
         "Sodium sulfate and carbon dioxide gas"
       ],
       "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A student adds 1 g of manganese dioxide powder to hydrogen peroxide. It fizzes rapidly. After the reaction stops, the student filters, dries, and weighs the manganese dioxide. Which result and explanation are correct?",
+      "options": [
+        "It weighs 1 g because manganese dioxide acts as a catalyst and is not chemically changed or used up.",
+        "It weighs less than 1 g because some manganese dioxide was used up to make oxygen.",
+        "It weighs more than 1 g because it absorbed oxygen during the rapid reaction.",
+        "It weighs 0 g because it dissolved completely to speed up the chemical reaction."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A chemist wants to speed up two different reactions: Reaction A (making ammonia) and Reaction B (making sulfuric acid). She tries using iron powder for both. Iron successfully speeds up Reaction A but has no effect on Reaction B. What does this demonstrate?",
+      "options": [
+        "Iron is only a catalyst when it is dissolved in a solvent.",
+        "Catalysts are specific to particular reactions, so iron cannot speed up Reaction B.",
+        "Reaction B cannot be sped up by any catalyst because it is too slow.",
+        "Iron was chemically changed in Reaction A, so there was none left for Reaction B."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Amylase is an enzyme found in human saliva that breaks down starch into sugar. If saliva is boiled before adding it to starch, the starch is not broken down. What is the best explanation for this observation?",
+      "options": [
+        "Boiling destroys the starch molecules so the amylase has nothing to react with.",
+        "Amylase is a biological catalyst whose structure is permanently altered by high temperatures, stopping it from working.",
+        "Boiling increases the activation energy of the starch breakdown reaction.",
+        "Boiling converts amylase into a non-biological catalyst which reacts much more slowly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "You have four solutions containing different metal nitrates: W, X, Y, and Z. Metal W can displace X and Y from their nitrate solutions. Metal Z cannot displace any of the other metals. Metal Y can displace X from its nitrate solution. What is the order of reactivity from most reactive to least reactive?",
+      "options": [
+        "W, Y, X, Z",
+        "Z, X, Y, W",
+        "W, X, Y, Z",
+        "Y, W, X, Z"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When magnesium ribbon is added to a blue solution of copper sulfate, the blue color fades, a brown solid forms, and the mixture gets warm. What are the products of this reaction?",
+      "options": [
+        "Magnesium oxide and copper sulfate",
+        "Magnesium sulfate solution and copper",
+        "Copper oxide and magnesium sulfate solution",
+        "Magnesium copper alloy and sulfur dioxide gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "To find out where an unknown metal 'M' fits in the reactivity series, a scientist places pieces of 'M' into solutions of zinc sulfate, copper sulfate, and iron sulfate. 'M' reacts with copper sulfate and iron sulfate, but NOT with zinc sulfate. Where does 'M' lie in the reactivity series?",
+      "options": [
+        "Below copper",
+        "Above zinc",
+        "Between zinc and iron",
+        "Between iron and copper"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A mining company finds a large deposit of rock containing chalcocite (Cu2S). Why is this rock classified as a copper ore?",
+      "options": [
+        "Because it contains pure copper metal that can be easily scraped off the surface.",
+        "Because it is a rock that contains copper in a chemical form from which copper can be profitably extracted.",
+        "Because it is a synthetic alloy containing copper and sulfur.",
+        "Because it is a ceramic material that becomes hard and brittle when heated."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Iron can be extracted from iron oxide by heating it with carbon, but aluminum cannot be extracted from aluminum oxide using carbon. What is the reason for this difference?",
+      "options": [
+        "Carbon is more reactive than iron, but less reactive than aluminum.",
+        "Aluminum oxide has a lower melting point than iron oxide.",
+        "Carbon acts as a catalyst for iron oxide but not for aluminum oxide.",
+        "Iron is a transition metal, whereas aluminum is a poor conductor of electricity."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "An engineer needs a material to build a lightweight, overhead electrical power line. She needs a material that is a good electrical conductor, can be drawn into thin wires without breaking, and will not snap under tension. Which set of properties of metals is she relying on?",
+      "options": [
+        "Thermal conductivity, high density, and brittleness",
+        "Electrical conductivity, ductility, and high tensile strength",
+        "Malleability, shininess, and low melting point",
+        "Electrical conductivity, low density, and high combustibility"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A potter shapes soft wet clay into a vase and then heats it in a high-temperature kiln. What happens to the material during this heating process?",
+      "options": [
+        "It melts into a liquid and cools down to form a highly flexible plastic.",
+        "It undergoes a chemical change to become a hard, brittle ceramic.",
+        "It reacts with carbon to form a shiny, malleable metal alloy.",
+        "It turns into a polymer composite with high thermal conductivity."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Polystyrene is used to make lightweight, insulating foam cups, while PVC is used to make tough, flexible water pipes. What does this tell us about plastics?",
+      "options": [
+        "All plastics have the exact same properties because they are made of the same atoms.",
+        "Plastics are made of polymers, and different types of plastics have very different properties.",
+        "Polystyrene is a natural polymer, whereas PVC is a synthetic ceramic.",
+        "Adding water to any plastic will change its properties from brittle to flexible."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Pure gold is very soft and easily scratched, so jewellers often mix gold with other metals like copper or silver to make 18-carat gold. What type of material is 18-carat gold?",
+      "options": [
+        "A composite",
+        "A polymer",
+        "An alloy",
+        "A ceramic"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Reinforced concrete is made by pouring concrete around steel rods. The concrete is excellent at resisting crushing forces, while the steel rods are excellent at resisting stretching forces. What type of material is reinforced concrete?",
+      "options": [
+        "An alloy",
+        "A composite",
+        "A ceramic",
+        "A synthetic polymer"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "During a polymerization reaction, thousands of ethene molecules link together. Which statement correctly describes this process?",
+      "options": [
+        "Large polymer molecules are broken down into small, highly reactive monomers.",
+        "Small monomer molecules join together to form very long chains of atoms called polymers.",
+        "Monomers are mixed with metals to form a highly conductible alloy.",
+        "Ethene molecules form cross-links with ceramic particles to make a composite."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Poly(ethene) can be made in two forms: LDPE (which melts at 115 degrees Celsius) and HDPE (which melts at 135 degrees Celsius). What explains why some polymers have higher melting points than others?",
+      "options": [
+        "They contain fewer chemical bonds, making them easier to break apart.",
+        "Their long-chain molecules are packed closer together, making them harder to separate.",
+        "They contain tiny metal particles that conduct heat much faster.",
+        "They are natural polymers which are inherently resistant to high temperatures."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A student classifies materials into 'synthetic' and 'natural'. She puts wool, DNA, and starch in one group, and nylon, polyester, and polythene in another. Which statement is correct about these materials?",
+      "options": [
+        "Only the second group consists of polymers; the first group are ceramics.",
+        "Both groups consist of polymers, showing that polymers can exist naturally or be made synthetically.",
+        "The first group consists of alloys, while the second group consists of composites.",
+        "Natural polymers cannot be melted, whereas synthetic polymers melt easily."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "PVC is naturally a hard, rigid plastic used for drainpipes. When certain small molecules are added to PVC during manufacturing, it becomes flexible enough to make garden hoses. What are these added molecules, and how do they work?",
+      "options": [
+        "Cross-links, which bind the polymer chains tightly together.",
+        "Plasticisers, which get between polymer molecules and allow them to slide over each other more easily.",
+        "Catalysts, which speed up the breakdown of the polymer chains.",
+        "Monomers, which turn the polymer back into a liquid state."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Vulcanised rubber, used in car tyres, is much harder and less flexible than natural rubber. What structural feature is responsible for this change in properties?",
+      "options": [
+        "The removal of all monomer units from the polymer chains.",
+        "The addition of plasticisers that keep the chains separated.",
+        "The formation of cross-links between the polymer molecules.",
+        "The conversion of the rubber into a metallic alloy."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "When magnesium ribbon is placed in a test tube containing hydrochloric acid, vigorous fizzing is observed. What gas is being produced, and what is the other product?",
+      "options": [
+        "Chlorine gas and magnesium oxide",
+        "Hydrogen gas and magnesium chloride salt",
+        "Oxygen gas and magnesium hydride",
+        "Carbon dioxide gas and magnesium carbonate"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A teacher adds a small piece of sodium to a trough of water containing universal indicator. The mixture fizzes violently, the sodium melts into a ball and moves across the water, and the indicator turns purple. What are the products of this reaction?",
+      "options": [
+        "Sodium oxide and oxygen gas",
+        "Sodium hydroxide and hydrogen gas",
+        "Sodium hydride and oxygen gas",
+        "Sodium carbonate and hydrogen gas"
+      ],
+      "correctAnswerIndex": 1,
       "learningPointIndex": 19
     }
   ]
