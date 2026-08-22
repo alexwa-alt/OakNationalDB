@@ -1,0 +1,226 @@
+{
+  "unitKey": "6Hidden forcesPhysics",
+  "generatedAt": "2026-08-22T08:55:14.958889+00:00",
+  "questions": [
+    {
+      "question": "A block of wood is placed in a large tank of water. How can you tell if the whole block is floating?",
+      "options": [
+        "If some part of the block is visible above the surface.",
+        "Only if the entire block is completely above the water surface.",
+        "If exactly half of the block is submerged under the water.",
+        "If the block sinks to the very bottom of the tank."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A plastic toy floats perfectly in a shallow puddle of water. If you place the same toy into a deep swimming pool, what will happen to how well it floats?",
+      "options": [
+        "It will float much higher because deep water has more upward pressure.",
+        "It will float in exactly the same way, because depth does not affect how well it floats.",
+        "It will sink to the bottom because deep water cannot support its weight.",
+        "It will float slightly lower because of the increased volume of water beneath it."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why can a heavy steel ship float on water, even though a solid block of steel sinks?",
+      "options": [
+        "The steel used in ships is chemically treated to make it lighter than water.",
+        "The ship's engines constantly push it upwards to keep it afloat.",
+        "The ship's shape allows it to push aside a mass of water equal to its own mass before it goes under.",
+        "The air surrounding the ship pulls it upwards against the force of gravity."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "On Earth, approximately how much force is required to lift a bag of sugar with a mass of 1 kg?",
+      "options": [
+        "1 N",
+        "10 N",
+        "100 N",
+        "1000 N"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "In science, mass is often converted between grams and kilograms. How many grams are there in 1 kilogram?",
+      "options": [
+        "10 g",
+        "100 g",
+        "1000 g",
+        "10000 g"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A student adds equal weights to a spring and measures its extension. What pattern should they observe if the spring behaves normally?",
+      "options": [
+        "The extension increases by the same amount for each equal increase in force.",
+        "The extension doubles with every single weight added, regardless of size.",
+        "The extension becomes smaller and smaller as more weights are added.",
+        "The extension changes randomly and has no predictable pattern."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "When we say the extension of a spring is 'directly proportional' to the force applied, what does this mean?",
+      "options": [
+        "If you double the force, the extension is reduced by half.",
+        "If you double the force, the extension also doubles.",
+        "The extension remains constant no matter how much force is applied.",
+        "The force applied is always equal to the total length of the spring."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why is a metal spring described as being elastic?",
+      "options": [
+        "It can be stretched to any length without ever breaking.",
+        "It returns to its original length once the stretching force is removed.",
+        "It permanently changes its shape when a small force is applied.",
+        "It generates its own thermal energy when it is compressed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is one of the main mechanical advantages of using a lever?",
+      "options": [
+        "It can multiply a small force into a larger force to move heavy objects.",
+        "It can completely eliminate the effect of gravity on an object.",
+        "It reduces the mass of the object being lifted.",
+        "It increases the total energy in a closed system."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is the main structural difference between the different types of levers?",
+      "options": [
+        "The material from which the lever is constructed.",
+        "The position of the pivot relative to the load and effort.",
+        "The total length of the lever arm being used.",
+        "The amount of friction acting at the surface."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In physics, what does pressure measure?",
+      "options": [
+        "The total amount of mass in a given volume.",
+        "How concentrated a force is over a certain area.",
+        "The speed at which an object moves under a force.",
+        "The total energy stored inside a stretched spring."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which of the following formulas is used to calculate pressure?",
+      "options": [
+        "Pressure = force × area",
+        "Pressure = area ÷ force",
+        "Pressure = force ÷ area",
+        "Pressure = force + area"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is the standard unit of pressure that is equivalent to one newton per square metre?",
+      "options": [
+        "The joule",
+        "The watt",
+        "The pascal (Pa)",
+        "The newton"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "How does increasing the surface area of a boat's hull affect the potential upthrust acting on it?",
+      "options": [
+        "It decreases the maximum upthrust because the boat becomes heavier.",
+        "It has no effect on upthrust because upthrust only depends on the depth of the water.",
+        "It allows for a bigger maximum upthrust because more water can be displaced.",
+        "It causes the upthrust to act in a horizontal direction instead of vertical."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Why does a deep-sea diver experience greater pressure at the bottom of the ocean than near the surface?",
+      "options": [
+        "The temperature of the water is much lower at the bottom.",
+        "There is more liquid above them pushing down due to gravity.",
+        "Saltwater is less dense at greater depths.",
+        "The water at the bottom moves at a much faster speed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why does atmospheric pressure decrease as you climb up a high mountain?",
+      "options": [
+        "The air temperature rises, causing molecules to move faster.",
+        "There is less air above you pushing down.",
+        "The Earth's gravity becomes significantly stronger at high altitudes.",
+        "Wind speeds are always higher at mountain peaks."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "If you add equal loads to a rubber band one by one, how does its extension compare to that of a standard metal spring?",
+      "options": [
+        "Its extension increases by the exact same amount for each load, just like a spring.",
+        "Its extension increases by different amounts for each equal increase in force.",
+        "It does not extend at all until a massive force is suddenly applied.",
+        "Its extension is always directly proportional to the force applied."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "When a heavy object is placed in the middle of a wooden beam, what physical change is observed as the mass of the object increases?",
+      "options": [
+        "The beam becomes shorter in length.",
+        "The beam bends more.",
+        "The beam becomes lighter.",
+        "The beam starts to rotate continuously."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "When you stand on a solid floor, your weight squashes the particles in the floor together. What is the result of this squashing?",
+      "options": [
+        "The floor particles permanently deform and lose all their structure.",
+        "The floor particles exert a greater upward force to push back against your feet.",
+        "The floor particles stop vibrating entirely.",
+        "The floor particles pull your feet downward with an extra gravitational force."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "How do you calculate the turning effect (moment) of a force acting on a lever?",
+      "options": [
+        "Moment = force + perpendicular distance from the pivot",
+        "Moment = force ÷ perpendicular distance from the pivot",
+        "Moment = force × perpendicular distance from the pivot",
+        "Moment = mass × acceleration from the pivot"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 37
+    }
+  ]
+}
