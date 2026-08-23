@@ -1,0 +1,226 @@
+{
+  "unitKey": "7Adaptations, competition, natural selection and evolutionBiology",
+  "generatedAt": "2026-08-23T08:55:45.917524+00:00",
+  "questions": [
+    {
+      "question": "In a classroom activity, students use green and white cocktail sticks on a green lawn to model natural selection. What does picking up more white sticks than green ones demonstrate?",
+      "options": [
+        "How predators easily spot prey that is not camouflaged",
+        "How organisms learn to change their colour",
+        "How plants compete for light",
+        "How fossils are mineralised over millions of years"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If a green lawn becomes covered in white frost and snow, how would the prediction in the cocktail stick model change?",
+      "options": [
+        "Green sticks will be easier to see and collected more quickly",
+        "White sticks will be easier to see and collected more quickly",
+        "Neither colour will be visible to the predator",
+        "Both colours will become equally camouflaged"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the scientific term for the special features that make a species well suited to survive in its environment?",
+      "options": [
+        "Habitats",
+        "Variations",
+        "Adaptations",
+        "Generations"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "How does having thick, insulating blubber provide an advantage to a seal living in the freezing Arctic?",
+      "options": [
+        "It helps the seal to breathe underwater",
+        "It keeps the seal warm by reducing heat loss",
+        "It allows the seal to run faster on land",
+        "It makes the seal more attractive to land predators"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why do living organisms have to compete with each other in their habitat?",
+      "options": [
+        "Because resources are limited and they all need them to survive",
+        "Because they enjoy fighting with other species",
+        "Because there is an unlimited supply of food",
+        "Because habitats are always expanding"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following is a resource that plants frequently compete for in a crowded woodland?",
+      "options": [
+        "Food",
+        "Light",
+        "Mates",
+        "Prey"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Over many generations, natural selection can cause which of the following to happen to a species?",
+      "options": [
+        "The common characteristics of the species can change and evolve",
+        "Individual organisms will change their genes during their lifetime",
+        "The species will immediately stop reproducing",
+        "The species will turn into mineralised fossils within one generation"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "In science, what is a \"scientific theory\"?",
+      "options": [
+        "A random guess that has no evidence to support it",
+        "A general explanation, developed from evidence, that explains many different examples",
+        "A rule that is only true in a laboratory",
+        "An idea that cannot be tested by any scientist"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which statement best describes how new advantageous features appear in a population?",
+      "options": [
+        "They are planned in advance by the organisms",
+        "They appear randomly and are maintained by natural selection",
+        "They are chosen by the environment to suit a specific purpose",
+        "They are created by individuals practicing new skills"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "If a dog loses a leg in an accident, its offspring are still born with four legs. Why is this?",
+      "options": [
+        "Changes in the features of an individual within its lifetime are not evolution",
+        "The dog will learn to regrow its leg",
+        "Only dominant physical injuries are passed on to offspring",
+        "The environment always repairs genetic damage"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is a fossil?",
+      "options": [
+        "The preserved skin of an animal that died recently",
+        "The mineralised remains or traces of once-living organisms",
+        "A model of an animal made by modern scientists",
+        "An organ that has dried out in the sun"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What do fossils of dinosaurs, which are no longer found alive today, show us about these species?",
+      "options": [
+        "They are currently hibernating underground",
+        "They have gone extinct",
+        "They evolved into single-celled organisms",
+        "They did not need resources to survive"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Which of the following is true about using fossil evidence to understand the history of life?",
+      "options": [
+        "Fossils give us a complete and perfect record of every organism that ever lived",
+        "There are limitations to the conclusions and explanations we can make from fossil evidence",
+        "Fossils can tell us exactly what sound an animal made",
+        "Fossil evidence is always incorrect and cannot be trusted"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why can a person who builds large muscles by lifting weights not pass these large muscles directly to their children?",
+      "options": [
+        "Large muscles are a genetic trait that is too heavy to inherit",
+        "Environmental variation is not heritable and cannot be passed on to offspring",
+        "Muscles are only inherited from the mother, not the father",
+        "Lifestyle changes only affect the offspring after they reach adulthood"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which type of variation is heritable and can be passed on to offspring?",
+      "options": [
+        "Variation caused by genetic information",
+        "Variation caused by physical injuries",
+        "Variation caused by dye used on hair",
+        "Variation caused by losing a limb in an accident"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "According to the theory of natural selection, which individuals in a population are most likely to survive to reproduce?",
+      "options": [
+        "The largest individuals only",
+        "The fittest and best adapted individuals",
+        "The individuals that do not compete for resources",
+        "The oldest individuals in the population"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "How does natural selection cause advantageous features to become more common in each generation of offspring?",
+      "options": [
+        "Organisms decide to pass on only their best features",
+        "Fitter individuals are more likely to survive, reproduce, and pass on their heritable features",
+        "The environment directly changes the DNA of the parents to make them stronger",
+        "All weaker organisms voluntarily stop reproducing"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Based on scientific evidence, approximately how long ago was the Earth formed?",
+      "options": [
+        "4.5 million years ago",
+        "450 thousand years ago",
+        "4.5 billion years ago",
+        "45 billion years ago"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "When does scientific evidence suggest the first living organisms (microorganisms) appeared on Earth?",
+      "options": [
+        "Around 3.8 billion years ago",
+        "Around 3.8 million years ago",
+        "Around 500 million years ago",
+        "Around 200 thousand years ago"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "According to scientific evidence, which of these groups of organisms appeared most recently in Earth's history?",
+      "options": [
+        "First land plants",
+        "First mammals",
+        "Modern humans",
+        "Microorganisms"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 35
+    }
+  ]
+}
