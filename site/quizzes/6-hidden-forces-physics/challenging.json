@@ -1,6 +1,6 @@
 {
   "unitKey": "6Hidden forcesPhysics",
-  "generatedAt": "2026-08-12T06:19:05.006139+00:00",
+  "generatedAt": "2026-08-23T08:55:27.628798+00:00",
   "questions": [
     {
       "question": "An iceberg is floating in the ocean with 90% of its volume submerged beneath the water's surface, and only 10% visible above. Based on physical principles, which of the following statements is correct about its state of floating?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 37
+    },
+    {
+      "question": "A block of wood is placed in a large tank of water. Only 10% of the block's volume is visible above the water line, while 90% is submerged. How should we describe the state of this block?",
+      "options": [
+        "Only 10% of the block is floating, while the rest has sunk.",
+        "The whole block is floating because a portion of it remains above the surface.",
+        "The block is in a state of partial suspension, which is different from floating.",
+        "The block is sinking because more than half of its volume is underwater."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "An engineer tests a miniature boat's buoyancy. In a shallow test tank of depth 10 cm, the boat floats with 2 cm of its hull submerged. If the boat is moved to a deep lake of depth 10 meters, how will its floating behavior change?",
+      "options": [
+        "It will float at exactly the same level, because how well it floats does not depend on the depth of the liquid.",
+        "It will float higher because the greater depth of water exerts a larger upward pressure on the hull.",
+        "It will sink deeper because there is more water below it pulling it down gravitationally.",
+        "It will only float if the lake water is denser than the shallow tank water."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A solid 1 kg block of steel sinks immediately when placed in water. However, if the same 1 kg of steel is shaped into a wide, hollow bowl, it floats easily. Why does the bowl float while the solid block sinks?",
+      "options": [
+        "The bowl shape allows it to push its own mass of water out of the way before it goes fully under.",
+        "Shaping the steel into a bowl reduces the mass of the steel, making it lighter than water.",
+        "The bowl traps air underneath it, and air is the only force pushing upward against gravity.",
+        "The bowl has a smaller overall surface area in contact with the water, reducing the sinking force."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "An astronaut on Earth needs to lift a crate with a mass of 15 kg. Approximately what upward force must the astronaut exert to lift this mass vertically at a steady speed?",
+      "options": [
+        "1.5 N",
+        "15 N",
+        "150 N",
+        "1500 N"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A heavy textbook with a mass of 2.5 kg is resting flat on a classroom desk. With approximately what downward force does this book push on the surface of the desk?",
+      "options": [
+        "0.25 N",
+        "2.5 N",
+        "25 N",
+        "250 N"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Using the formula for gravitational force (W = m x g), if a small probe has a mass of 4 kg and the gravitational field strength on Mars is approximately 3.7 N/kg, what is the weight of the probe on Mars?",
+      "options": [
+        "0.925 N",
+        "1.08 N",
+        "14.8 N",
+        "40 N"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A student suspends a spring and adds weights to it one by one. She records that a 1 N force extends the spring by 3 cm. Assuming the spring behaves regularly, what will be the total extension when a total force of 3 N is applied?",
+      "options": [
+        "3 cm",
+        "6 cm",
+        "9 cm",
+        "12 cm"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which graph best demonstrates that the extension of a spring is directly proportional to the force applied to it?",
+      "options": [
+        "A curve that starts flat and gets steeper as force increases.",
+        "A straight line passing through the origin (0,0).",
+        "A horizontal line parallel to the force axis.",
+        "A curve that starts steep and levels off at a maximum extension."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A dynamicist tests four materials by stretching them with a 50 N force and then releasing them. Which of the following describes the behavior of a truly elastic spring?",
+      "options": [
+        "It stretches under the force and remains permanently at that new length after release.",
+        "It stretches under the force and returns exactly to its original length when the force is removed.",
+        "It breaks instantly when any force is applied, showing no change in length.",
+        "It shortens to less than its original length once the stretching force is taken away."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A physics student is investigating how different materials stretch. He wants to find out which laws govern the behavior of metal springs. Which law should he look up to describe how a spring extends under tension?",
+      "options": [
+        "Newton's Third Law",
+        "Pascal's Law",
+        "Hooke's Law",
+        "Archimedes' Principle"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How does a bottle opener act as a force multiplier when you use it to pry open a metal cap?",
+      "options": [
+        "It allows you to apply a small force over a longer distance to exert a larger force on the cap.",
+        "It reduces the total amount of energy needed to remove the cap.",
+        "It increases the mass of your hand so you can push downward with more gravity.",
+        "It changes the direction of the force without changing its size."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A mechanical grabber tool uses a lever system where a small movement of your fingers at the handle results in a much larger movement of the gripping claws at the far end. This lever is designed to multiply which quantity?",
+      "options": [
+        "Force",
+        "Mass",
+        "Pressure",
+        "Movement"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A wheelbarrow, a pair of scissors, and a bottle opener are all examples of levers. Why are these levers classified into different types?",
+      "options": [
+        "They use different materials like wood, metal, or plastic to function.",
+        "They have their pivots, loads, and efforts in different relative positions.",
+        "Some of them do not use a pivot at all to achieve their mechanical advantage.",
+        "They can only be operated by forces applied in a downward direction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A person wearing snowshoes can walk across deep snow without sinking, whereas someone in normal boots sinks deeply. Why does this happen?",
+      "options": [
+        "Snowshoes increase the downward force of gravity acting on the person.",
+        "Snowshoes reduce pressure by spreading the same force over a larger area, making the force less concentrated.",
+        "Snowshoes eliminate the force of gravity completely.",
+        "Snowshoes concentrate the force into a tiny area to pack the snow tightly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A block exerts a force of 120 N on a flat table. The base of the block in contact with the table has an area of 3 square metres. What is the pressure exerted by the block on the table?",
+      "options": [
+        "40 N per square metre",
+        "360 N per square metre",
+        "0.025 N per square metre",
+        "123 N per square metre"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A barometer measures atmospheric pressure and displays a reading of 100,000 N/m². What is another unit name that can be used to express this pressure?",
+      "options": [
+        "Newtons (N)",
+        "Pascals (Pa)",
+        "Joules (J)",
+        "Kilograms (kg)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A ship designer wants to build a cargo vessel that can carry extremely heavy loads without sinking. Why does increasing the surface area of the boat's hull help?",
+      "options": [
+        "It reduces the total gravitational pull of the Earth on the ship.",
+        "It allows for a bigger maximum upthrust force to act on the hull.",
+        "It increases the density of the water surrounding the ship.",
+        "It concentrates the downward weight of the cargo into a smaller point."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "A deep-sea submarine experiences much greater pressure at a depth of 1000 meters than it does near the surface. What is the cause of this increase in liquid pressure?",
+      "options": [
+        "The water at great depths flows much faster, creating dynamic pressure.",
+        "There is a larger volume of liquid pushing down from above as depth increases.",
+        "The water molecules at the bottom are heated by the Earth's core, increasing pressure.",
+        "The submarine's weight increases as it moves closer to the center of the Earth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why do mountain climbers often need oxygen masks when climbing extremely high peaks like Mount Everest?",
+      "options": [
+        "Atmospheric pressure reduces with height because there is less air pushing down.",
+        "The atmosphere becomes much denser at high altitudes, trapping the oxygen.",
+        "Gravity is much stronger at high altitudes, pulling all the oxygen down to sea level.",
+        "Atmospheric pressure increases with height, which squashes the oxygen molecules."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A student compares a rubber band to a metal spring by hanging different weights from both. What will she observe about the extension of the rubber band as she adds equal increments of force?",
+      "options": [
+        "The extension increases by exactly the same amount for each equal increase in force.",
+        "The extension increases by different amounts for each equal increase in force.",
+        "The rubber band will not extend at all until a threshold force is reached, then it snaps.",
+        "The extension is directly proportional to the force applied throughout the entire test."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
     }
   ]
 }

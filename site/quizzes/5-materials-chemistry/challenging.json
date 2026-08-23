@@ -1,6 +1,6 @@
 {
   "unitKey": "5MaterialsChemistry",
-  "generatedAt": "2026-08-22T08:54:44.541840+00:00",
+  "generatedAt": "2026-08-23T08:54:56.122939+00:00",
   "questions": [
     {
       "question": "A student measures the mass of a black powder before adding it to hydrogen peroxide. After the reaction, she filters, dries, and weighs the powder again. If the powder acted as a catalyst, what will she observe?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 19
+    },
+    {
+      "question": "A student measures the mass of a black powder before adding it to hydrogen peroxide solution. After the rapid bubbling stops, they filter out the powder, dry it, and weigh it again. What should they expect to find if the powder acted as a catalyst?",
+      "options": [
+        "The powder has disappeared because it dissolved and reacted completely.",
+        "The mass of the powder remains exactly the same, and its chemical properties are unchanged.",
+        "The mass of the powder has doubled because it combined with the liquid.",
+        "The mass of the powder is slightly less because some was used up to start the reaction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A student tries to speed up the decomposition of hydrogen peroxide using copper oxide instead of manganese dioxide, but the reaction rate does not increase. Why does this happen?",
+      "options": [
+        "Copper oxide is a liquid, and catalysts must be solids to work.",
+        "Catalysts are specific, meaning a substance that speeds up one reaction may not affect another.",
+        "Catalysts only work if they are heated to their boiling point first.",
+        "Copper oxide is too reactive and completely dissolved instead of acting as a catalyst."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Amylase is an enzyme found in human saliva that helps break down starch into sugars. If amylase is boiled at a very high temperature before being mixed with starch, the starch is no longer broken down. What does this demonstrate about enzymes?",
+      "options": [
+        "Enzymes are non-biological catalysts that only work at temperatures above boiling.",
+        "Enzymes are living organisms that are killed by boiling.",
+        "Enzymes are biological catalysts whose specific structures can be destroyed by high heat.",
+        "Enzymes are simple metals that melt when boiled."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If a strip of zinc metal is placed into a blue solution of copper sulfate, the solution gradually turns colourless and a reddish-brown solid forms on the zinc. What does this experiment demonstrate?",
+      "options": [
+        "Zinc is less reactive than copper, so it is coated by the copper ions.",
+        "Zinc is more reactive than copper and displaces copper from its salt solution.",
+        "Copper is more reactive than zinc and displaces zinc from its salt solution.",
+        "The sulfate ions are highly reactive and have destroyed the zinc strip."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When magnesium ribbon is added to a blue copper sulfate solution, the mixture gets warm, the blue colour fades, and a brown solid forms. Which of the following correctly describes the chemical change occurring?",
+      "options": [
+        "Magnesium reacts with water to form magnesium hydroxide, leaving copper sulfate unchanged.",
+        "Magnesium displaces copper to form magnesium sulfate solution and solid copper.",
+        "Copper displaces magnesium to form copper sulfate solution and solid magnesium.",
+        "Magnesium and copper combine to form a new alloy called magnesium-copper sulfate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "You are given three metals (X, Y, and Z) and their respective salt solutions. Metal X displaces Y and Z from their solutions. Metal Z cannot displace Y from its solution. How can these displacement reactions be used to arrange the metals in order of reactivity (most to least reactive)?",
+      "options": [
+        "The reactions confirm the sequence as X, then Y, then Z.",
+        "The reactions confirm the sequence as Z, then Y, then X.",
+        "The reactions show that Y is the most reactive, followed by X, then Z.",
+        "Displacement reactions cannot be used to determine reactivity order."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A mining company identifies a large deposit of rock containing hematite (iron oxide). What determines whether this rock can be classified as an iron ore?",
+      "options": [
+        "The rock must be magnetic and spark when struck with steel.",
+        "The rock must contain enough iron in a chemical form that makes it economically viable to extract.",
+        "The rock must consist of pure, uncombined iron metal that only needs to be melted out.",
+        "The rock must be located near an active volcano to ensure high temperatures."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Iron can be extracted from iron oxide by heating it with carbon, but magnesium cannot be extracted from magnesium oxide using carbon. What is the reason for this difference?",
+      "options": [
+        "Carbon is more reactive than iron but less reactive than magnesium.",
+        "Carbon is less reactive than iron but more reactive than magnesium.",
+        "Magnesium oxide is a liquid at room temperature, so carbon cannot mix with it.",
+        "Iron oxide is a noble gas compound that decomposes without carbon."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A designer is selecting a material to make a new lightweight, high-voltage overhead power cable. Which combination of metallic properties is most important for this specific application?",
+      "options": [
+        "High density, dull appearance, and high melting point.",
+        "Good electrical conductivity, high tensile strength, and ductility.",
+        "Brittleness, high thermal conductivity, and chemical inertness.",
+        "High density, malleability, and low electrical resistance."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "An artist shapes a vase out of soft, wet clay and leaves it to dry. Why must the clay be fired in a high-temperature kiln before it can be used to hold water?",
+      "options": [
+        "Heating turns the clay into a polymer that can bend without breaking.",
+        "Heating causes the soft clay particles to fuse chemically, making the ceramic hard and brittle.",
+        "Firing makes the clay highly malleable so it can be reshaped easily if dropped.",
+        "Firing turns the clay into a metallic alloy that conducts heat well."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Polystyrene is a lightweight, insulating plastic used for food cups, while PVC is a tough, water-resistant plastic used for pipes. What explains why these two materials have such different properties despite both being plastics?",
+      "options": [
+        "Plastics are made from polymers, and different types of polymers result in plastics with very different properties.",
+        "Polystyrene contains metal impurities, whereas PVC is a pure ceramic material.",
+        "PVC is a natural mineral mined from the earth, while polystyrene is synthetic.",
+        "All plastics are identical, but polystyrene is stretched more during manufacturing."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Pure gold is very soft and easily scratched, so jewellers typically mix it with silver, copper, or zinc to make 18-carat gold. What type of material is this mixture?",
+      "options": [
+        "A polymer",
+        "A ceramic",
+        "An alloy",
+        "A composite"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Reinforced concrete is made by pouring concrete around a grid of steel rods. Why is reinforced concrete classified as a composite material?",
+      "options": [
+        "It is a single pure substance made of chemically bonded calcium and iron atoms.",
+        "It combines two different materials to create a new material with improved properties, such as better tensile and compressive strength.",
+        "It is made entirely of biological polymers that decompose easily.",
+        "It is an alloy because it contains steel mixed with liquid cement."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Polyethylene is a common plastic used to make plastic bags. How is polyethylene formed at the molecular level?",
+      "options": [
+        "By breaking down long hydrocarbon chains into small, independent gas molecules.",
+        "By joining many small molecules called monomers together to form very long chains of atoms.",
+        "By mixing metallic atoms with ceramic particles at high pressure.",
+        "By dissolving carbon atoms in water to create a liquid crystal."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Some polymers, like Kevlar, have extremely high melting points and do not melt easily when heated. What is the molecular explanation for this property?",
+      "options": [
+        "Their monomer units are very small and can easily escape into the air.",
+        "Their long polymer chains are held together by strong forces, making the molecules hard to separate.",
+        "They contain a high percentage of water molecules that cool the material down.",
+        "They are made of metals that have low melting points but high boiling points."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A student claims that all polymers are artificial materials created by scientists in laboratories. Which of the following facts best disproves this claim?",
+      "options": [
+        "Plastics can be recycled to make new products.",
+        "Natural substances like DNA, starch, and cellulose are polymers that exist in nature.",
+        "Synthetic polymers are cheaper to produce than metals.",
+        "Glass is a natural polymer made from heated sand."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "PVC plastic pipes are rigid and hard, but PVC medical tubing is highly flexible and bendable. What substance is added to the polymer during manufacturing to make the tubing flexible?",
+      "options": [
+        "A catalyst, which speeds up the decomposition of the polymer chains.",
+        "A plasticiser, which gets between the polymer molecules and allows them to slide over each other more easily.",
+        "A cross-linking agent, which binds the polymer chains tightly together.",
+        "A ceramic filler, which absorbs impact forces."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Some types of rubber become much harder and less flexible after they undergo a process called vulcanisation, which introduces sulfur links between the polymer chains. Why does this process change the properties of the rubber?",
+      "options": [
+        "The sulfur links act as a plasticiser, allowing molecules to slide freely.",
+        "The cross-links between polymer molecules restrict their movement, making the material harder and less flexible.",
+        "The sulfur dissolves the polymer chains, turning them into a liquid.",
+        "The cross-links make the rubber molecules shorter and easier to melt."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "When a piece of magnesium is placed into a test tube of hydrochloric acid, rapid bubbling is observed. If a burning splint is held near the mouth of the tube, a loud 'squeak' or 'pop' sound is heard. What are the products of this reaction?",
+      "options": [
+        "Magnesium chloride salt and hydrogen gas",
+        "Magnesium oxide and chlorine gas",
+        "Magnesium hydroxide and oxygen gas",
+        "Magnesium carbonate and water vapour"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Potassium reacts violently with cold water, iron reacts slowly with steam when heated, and gold does not react with water or steam at all. What do these observations demonstrate?",
+      "options": [
+        "Gold is the most reactive metal because it does not change.",
+        "The reactivity series shows how vigorously metals react compared to each other, with potassium being more reactive than iron, and iron more reactive than gold.",
+        "All metals react with water at the same rate if given enough time.",
+        "Potassium is a non-metal because it reacts so rapidly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
     }
   ]
 }

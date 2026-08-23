@@ -1,6 +1,6 @@
 {
   "unitKey": "4Plant nutrition and photosynthesisBiology",
-  "generatedAt": "2026-08-22T08:54:15.889911+00:00",
+  "generatedAt": "2026-08-23T08:54:26.645547+00:00",
   "questions": [
     {
       "question": "A student examines a plant cell under a microscope and identifies small, green structures within the cytoplasm. What are these structures, and in which part of the plant are they most abundant?",
@@ -660,6 +660,226 @@
         "The food that plants make is carbohydrate, which they use for growth and as a source of energy."
       ],
       "correctAnswerIndex": 3,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Under a high-powered light microscope, a student observes a cell from the middle layer of a green leaf. Which of the following describes the correct relationship between the leaf, cells, and chloroplasts?",
+      "options": [
+        "Chloroplasts contain leaves, which are made up of individual green cells.",
+        "The leaf is an organ made of cells, and these cells contain many smaller structures called chloroplasts.",
+        "Chloroplasts are cells that join together to form the tissue of the leaf.",
+        "Cells are made of leaves, which are built from smaller units called chloroplasts."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A plant biologist uses a chemical that specifically disables only the chloroplasts in a leaf cell while leaving all other cell parts intact. What is the direct consequence of this on the cell's function?",
+      "options": [
+        "The cell can no longer absorb water through its membrane.",
+        "The cell will be unable to carry out the process of photosynthesis.",
+        "The cell will stop respiring but will continue to make its own food.",
+        "The cell will lose its rigid shape and collapse immediately."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Some plants have leaves with white stripes that lack the pigment chlorophyll. How does this affect the function of the chloroplasts in those white regions?",
+      "options": [
+        "They can still photosynthesise because they contain chloroplasts, even without chlorophyll.",
+        "They cannot absorb light efficiently, preventing photosynthesis in those areas.",
+        "They absorb more light to compensate for the missing pigment.",
+        "They absorb oxygen instead of carbon dioxide to perform photosynthesis."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why is the thinness of a typical deciduous plant leaf an important adaptation for its survival?",
+      "options": [
+        "It allows water to evaporate as quickly as possible from the lower surface.",
+        "It reduces the weight of the leaf so that the stem does not bend under gravity.",
+        "It allows light to penetrate all the way through to the cells containing chloroplasts.",
+        "It prevents insects from laying eggs inside the leaf tissue."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Two plants of the same species are grown in different light conditions. Plant A has broad, wide leaves, while Plant B has narrow, needle-like leaves. Why does Plant A's leaf structure give it an advantage in a shady environment?",
+      "options": [
+        "Its larger surface area allows it to absorb more of the limited light available.",
+        "Its larger surface area prevents water from escaping during the day.",
+        "Its wide shape allows it to store more oxygen within its tissues.",
+        "Its broad structure makes it easier for wind to shake off harmful pests."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A researcher seals a plant in a clear glass jar with normal air. After several hours in the light, the level of carbon dioxide inside the jar decreases significantly. What is the reason for this observation?",
+      "options": [
+        "The plant is releasing carbon dioxide through its roots into the soil.",
+        "The plant's leaves are taking in carbon dioxide gas from the air to use in photosynthesis.",
+        "Carbon dioxide is condensing into liquid water on the leaves.",
+        "The plant is converting carbon dioxide directly into mineral salts."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "During an experiment, an aquatic plant is placed under water in a beaker under a bright light. Bubbles are seen forming on the leaves and rising to the surface. What is the identity and origin of this gas?",
+      "options": [
+        "Carbon dioxide, which is taken in by the leaves from the water.",
+        "Hydrogen, which is produced by the roots and travels up the stem.",
+        "Oxygen, which is made during photosynthesis and released as a gas from the leaves.",
+        "Water vapour, which is evaporating from the leaf surface."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "During the day, a plant leaf simultaneously absorbs carbon dioxide from the atmosphere and releases oxygen into it. What is the scientific term used to describe this dual process of swapping gases?",
+      "options": [
+        "Transpiration",
+        "Gas exchange",
+        "Cellular respiration",
+        "Osmosis"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "If a scientist applies a waterproof, non-toxic wax to the underside of a leaf where most of the small holes called stomata are located, what will be the immediate effect on the leaf's processes?",
+      "options": [
+        "It will increase the rate of photosynthesis because water is trapped inside.",
+        "It will prevent gas exchange from occurring efficiently because the stomata are blocked.",
+        "It will speed up the absorption of carbon dioxide from the atmosphere.",
+        "It will cause the leaf to absorb more minerals from the surrounding air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How do carbon dioxide and oxygen molecules move into and out of a leaf through open stomata?",
+      "options": [
+        "They are pumped actively by transport proteins in the cell walls.",
+        "They are carried by water currents flowing out of the leaf.",
+        "They move randomly down concentration gradients by the process of diffusion.",
+        "They are pulled in by magnetic forces generated by chlorophyll."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why are green plants classified as 'producers' in an ecosystem?",
+      "options": [
+        "They produce oxygen for themselves to consume as food.",
+        "They make their own food using a process called photosynthesis.",
+        "They gather food from the soil and produce seeds from it.",
+        "They decompose dead organic matter to produce energy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A healthy green plant is kept in a warm, moist room with plenty of carbon dioxide, but in complete darkness for a week. What will happen to its ability to perform photosynthesis?",
+      "options": [
+        "It will perform photosynthesis at a slower rate using heat energy instead.",
+        "It will not photosynthesise at all because the process can only happen when there is light.",
+        "It will photosynthesise normally because it has plenty of water and carbon dioxide.",
+        "It will reverse the process and make carbon dioxide from glucose without needing light."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of the following statements best describes the nature of photosynthesis?",
+      "options": [
+        "It is a physical change where water and carbon dioxide dissolve into each other.",
+        "It is a single, instantaneous physical reaction that occurs on the leaf surface.",
+        "It is a series of chemical reactions that take place inside specific plant cells.",
+        "It is a mechanical process of filtering nutrients from the air."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A student wants to identify the starting materials (reactants) and the resulting substances (products) of photosynthesis. Which of the following lists them correctly?",
+      "options": [
+        "Reactants: oxygen and glucose; Products: water and carbon dioxide.",
+        "Reactants: water and carbon dioxide; Products: oxygen and glucose.",
+        "Reactants: light and chlorophyll; Products: water and carbon dioxide.",
+        "Reactants: minerals and oxygen; Products: glucose and water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why do scientists use the word equation 'carbon dioxide + water -> glucose + oxygen' if photosynthesis actually consists of many complex, individual steps?",
+      "options": [
+        "Because the individual steps are not chemical reactions.",
+        "The word summary serves as a simplified model of the overall process.",
+        "Because glucose and oxygen are not actually produced in the real reactions.",
+        "The word equation describes a completely different process that happens in animals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A student grows a plant in a sealed, completely evacuated vacuum chamber (no air) with plenty of water, light, and fertile soil. The plant soon dies. Why did this happen?",
+      "options": [
+        "Plants are living organisms that require air, alongside light, water, and minerals, to survive and grow.",
+        "Plants do not need air, but they cannot grow in soil without artificial fertilisers.",
+        "The plant died because it did not receive any organic food from the soil.",
+        "The vacuum chamber prevented gravity from pulling water into the roots."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How do the different parts of a plant cooperate to obtain the resources needed for survival?",
+      "options": [
+        "Roots take in light and gases, while leaves take in water and minerals.",
+        "Roots take in water and minerals, while leaves take in light and gases from the air.",
+        "Leaves take in water and minerals, while the stem takes in gases and light.",
+        "Roots take in gases, while leaves take in minerals and water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A classmate argues that because a plant takes in water and mineral salts from the soil, it does not need any other source of food. Why is this argument incorrect?",
+      "options": [
+        "Water and minerals are toxic to plants if they do not have food to neutralise them.",
+        "Water and minerals are not food, but plants still require food to stay alive and grow.",
+        "Minerals are a type of food, but water is not, so the plant only feeds on minerals.",
+        "Plants get their food directly by absorbing organic matter from dead animals in the soil."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which of the following represents a fundamental difference between how plants and animals obtain their food?",
+      "options": [
+        "Plants absorb ready-made food molecules through their roots, whereas animals ingest food through a mouth.",
+        "Plants do not take in food from their surroundings; they are producers that make their own food.",
+        "Animals produce their own food internally using heat, whereas plants must eat soil.",
+        "Plants convert minerals directly into light energy to feed themselves."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What is the nature and purpose of the food substance produced by a plant during photosynthesis?",
+      "options": [
+        "It is a mineral salt used to strengthen the cell walls.",
+        "It is a carbohydrate, which the plant uses for growth and as a source of energy.",
+        "It is carbon dioxide gas, which is stored in the leaves to prevent wilting.",
+        "It is water, which is stored in the roots to keep the plant hydrated."
+      ],
+      "correctAnswerIndex": 1,
       "learningPointIndex": 19
     }
   ]
