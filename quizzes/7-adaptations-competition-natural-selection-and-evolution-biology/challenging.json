@@ -1,6 +1,6 @@
 {
   "unitKey": "7Adaptations, competition, natural selection and evolutionBiology",
-  "generatedAt": "2026-08-12T06:19:06.385877+00:00",
+  "generatedAt": "2026-08-24T09:11:21.933892+00:00",
   "questions": [
     {
       "question": "In a classroom activity, students pick up green and white cocktail sticks scattered across a lawn of green grass in 30 seconds. Which of the following best explains what this model demonstrates?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 2,
       "learningPointIndex": 36
+    },
+    {
+      "question": "In a simulation of natural selection, students use tweezers to pick up green and white cocktail sticks from green grass within a 30-second time limit. Why does this model serve as a demonstration of natural selection?",
+      "options": [
+        "The tweezers represent a predator, and the cocktail sticks represent prey where camouflage determines survival chance.",
+        "The tweezers represent the prey, and the cocktail sticks represent different food types available to them.",
+        "The experiment shows how individuals can choose to change their color to match their surroundings.",
+        "The cocktail sticks represent different species that cooperate with each other to avoid being picked up."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In a classroom experiment, students repeatedly pick colored cocktail sticks from green grass. Over five rounds, they record the remaining sticks and \"reproduce\" them by adding matching colors. What prediction can be made about the population's composition over time?",
+      "options": [
+        "The population will become entirely white sticks because they are more visible.",
+        "The proportion of green sticks will increase because they are harder for \"predators\" to see and remove.",
+        "The total number of sticks will decrease to zero as all colors are equally likely to be eliminated.",
+        "The proportions of green and white sticks will remain completely equal due to random selection."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A classroom simulation uses green and white cocktail sticks on a green lawn to represent prey. If a sudden snowfall covers the lawn, making the ground white, how does this change the prediction for the population over time?",
+      "options": [
+        "Green sticks will now have a survival advantage, so their proportion will increase.",
+        "White sticks will now have a survival advantage, so their proportion will increase.",
+        "Both colors will be picked at the exact same rate because color no longer affects visibility.",
+        "The predators will stop feeding because they cannot see any cocktail sticks."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Marram grass is a plant that grows on dry, windy sand dunes. It has rolled leaves with hairs on the inside and stomata sunk into pits. What is the primary purpose of these specific leaf adaptations?",
+      "options": [
+        "To trap a layer of moist air and reduce water loss by transpiration.",
+        "To absorb nitrogen gas directly from the strong sea winds.",
+        "To reflect sunlight so the plant can maintain a freezing temperature.",
+        "To catch falling rain and channel it directly to the outer roots."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Polar bears have thick layers of blubber and white-looking fur. How do these adaptations work together to provide an advantage in their specific Arctic environment?",
+      "options": [
+        "The blubber protects them from being seen by prey, while the white fur stores water.",
+        "The white fur provides camouflage against the ice for hunting, while the blubber reduces heat loss in freezing temperatures.",
+        "The blubber helps them swim faster than fish, while the white fur absorbs maximum solar radiation to overheat them.",
+        "The white fur attracts mates from long distances, while the blubber allows them to digest ice."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Red squirrels and grey squirrels both live in the same British woodlands. Why does a lack of hazelnuts in autumn lead to intense competition between them?",
+      "options": [
+        "Hazelnuts are a limited resource, meaning there are not enough to satisfy the survival needs of both populations.",
+        "Hazelnuts are poisonous to grey squirrels, so red squirrels must eat them all to protect them.",
+        "One species will voluntarily stop eating to allow the other species to survive.",
+        "Hazelnuts are an unlimited resource, but the squirrels prefer to fight rather than share."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Bluebell plants growing on a deciduous forest floor flower very early in spring, before the tall oak trees grow their new leaves. Which resource are the bluebells primarily competing for by timing their growth this way?",
+      "options": [
+        "Soil nutrients",
+        "Pollinators",
+        "Light",
+        "Space for roots"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "In a population of desert plants, some individuals have slightly deeper root systems than others due to natural variation. During a severe, multi-year drought, what is the most likely outcome of this variation?",
+      "options": [
+        "All the plants will survive equally because they belong to the same species.",
+        "Plants with shallower roots will grow deeper roots overnight to adapt to the drought.",
+        "Plants with deeper roots will access deep water tables, making them more successful competitors for survival.",
+        "The plants with deeper roots will dry out faster because they have to pump water a longer distance."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How does natural selection lead to the evolution of a species over many generations?",
+      "options": [
+        "It causes individual organisms to intentionally mutate their own genes to suit the environment.",
+        "It ensures that only the weakest individuals survive, making more resources available for offspring.",
+        "It causes advantageous characteristics to become more common in the population over time as survivors pass them on.",
+        "It guarantees that every single offspring born will have identical, perfect features from birth."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "In science, why is the \"theory of evolution by natural selection\" classified as a scientific theory?",
+      "options": [
+        "It is an untested hunch that scientists use when they lack physical evidence.",
+        "It is a general explanation, developed from vast evidence, that explains many different biological observations.",
+        "It is a temporary guess that will be replaced once a single fossil is found.",
+        "It is an absolute, unchanging law that was proven without needing any observations."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "An island has no fruit-eating birds. A storm blows a population of insect-eating birds onto the island, where there are many fruiting trees but few insects. Which statement best explains how a fruit-eating beak could emerge in this population?",
+      "options": [
+        "The birds will consciously decide to change their beak shapes so they do not starve.",
+        "Random genetic mutations may produce a bird with a beak slightly better suited for fruit, which natural selection then maintains.",
+        "The environment forces all the birds to simultaneously develop wider beaks within their lifetimes.",
+        "The trees will mutate their fruits to have softer skins so the insect-eating birds can eat them."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "An individual green lizard loses its tail to a predator but survives. It later grows a slightly shorter, tougher tail made of cartilage. Why is this change not considered an example of evolution?",
+      "options": [
+        "Because evolution only occurs in plants, not in vertebrates like lizards.",
+        "Because changes in the features of an individual within its lifetime do not represent evolution of the species.",
+        "Because the lizard did not lose its tail due to a natural predator.",
+        "Because the new tail is stronger than the old tail, and evolution only makes features weaker."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A student finds a rock containing a clear imprint of an ancient fern leaf. Which statement correctly describes the nature of this fossil?",
+      "options": [
+        "It is the actual, original organic leaf tissue preserved without any chemical change.",
+        "It is a mineralised trace or remain of a once-living organism.",
+        "It is a synthetic replica created by modern geologists to simulate ancient life.",
+        "It is a non-organic rock pattern formed purely by volcanic heat with no connection to living things."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why must scientists be cautious when drawing conclusions about ancient ecosystems based solely on the fossil record?",
+      "options": [
+        "Organisms with soft bodies rarely form fossils, meaning the fossil record is incomplete and biased toward hard-bodied species.",
+        "Fossils can only form in areas that have never experienced geological changes.",
+        "Fossil evidence is entirely subjective and cannot be analyzed using scientific methods.",
+        "All organisms that ever lived have been fossilized, making the record too large to analyze."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Two genetically identical twin plants are grown in different conditions. Plant A is grown in fertile soil with abundant sunlight and grows tall. Plant B is grown in poor soil with low light and remains stunted. What caused this variation?",
+      "options": [
+        "Genetic variation, because their DNA sequences changed to match their environments.",
+        "Environmental variation, because their differences are due to external conditions and resources.",
+        "Evolutionary adaptation, because Plant B chose to stay small to avoid being seen.",
+        "Artificial selection, because a breeder actively chose which plant should be tall."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A dog trainer spends years working with an athletic dog, building up its muscle mass and teaching it complex agility tricks. If this dog later breeds, which of these traits can be passed on to its offspring?",
+      "options": [
+        "The increased muscle mass, because physical training alters the genetic code in the reproductive cells.",
+        "The specific agility tricks, because learned behaviors are automatically written into DNA.",
+        "Neither the trained muscle mass nor the learned tricks, because environmental variation is not heritable.",
+        "Both the muscle mass and the tricks, because all characteristics acquired in life are inherited."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A scientist studies a population of beetles. Some have genes that code for bright green shells, while others have genes for brown shells. Why is this genetic variation significant for natural selection?",
+      "options": [
+        "It is not heritable, so it will disappear when the current generation dies.",
+        "It is heritable, meaning the shell color instructions can be passed on to offspring, allowing the population to adapt over generations.",
+        "It allows the beetles to change their shell color at will depending on the predator nearby.",
+        "It guarantees that both colors will always exist in equal numbers regardless of environmental changes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "In a cold environment, rabbits with thicker fur are better able to survive the winter than rabbits with thin fur. Why does this lead to a change in the rabbit population over time?",
+      "options": [
+        "The thin-furred rabbits will migrate to a warm desert, leaving only thick-furred rabbits behind.",
+        "The surviving thick-furred rabbits are more likely to reproduce and pass their heritable fur-thickness genes to their offspring.",
+        "The cold weather directly mutates the genes of the thin-furred rabbits to make their offspring have thick fur.",
+        "Rabbits with thin fur will decide to stop reproducing to save resources for others."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "During the Industrial Revolution in England, soot from coal burning coated the trunks of birch trees, turning them dark. How did this human-induced environmental change affect natural selection in the peppered moth population?",
+      "options": [
+        "It caused dark-colored moths to become easier for predators to spot, reducing their numbers.",
+        "It gave dark-colored moths a camouflage advantage over light-colored moths, increasing their survival and reproduction.",
+        "It forced light-colored moths to instantly dye their wings dark to survive.",
+        "It stopped natural selection from occurring because humans had taken control of the environment."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "According to scientific evidence, which of the following lists evolutionary milestones in the correct chronological order, from oldest to most recent?",
+      "options": [
+        "First land plants (500 mya) -> First mammals (200 mya) -> Modern humans (350k years ago)",
+        "Modern humans (350k years ago) -> First mammals (200 mya) -> First land plants (500 mya)",
+        "First mammals (200 mya) -> First land plants (500 mya) -> Modern humans (350k years ago)",
+        "First land plants (500 mya) -> Modern humans (350k years ago) -> First mammals (200 mya)"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 35
     }
   ]
 }
