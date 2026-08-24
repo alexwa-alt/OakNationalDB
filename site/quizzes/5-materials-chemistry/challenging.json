@@ -1,6 +1,6 @@
 {
   "unitKey": "5MaterialsChemistry",
-  "generatedAt": "2026-08-23T08:54:56.122939+00:00",
+  "generatedAt": "2026-08-24T09:10:22.216055+00:00",
   "questions": [
     {
       "question": "A student measures the mass of a black powder before adding it to hydrogen peroxide. After the reaction, she filters, dries, and weighs the powder again. If the powder acted as a catalyst, what will she observe?",
@@ -661,6 +661,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 21
+    },
+    {
+      "question": "A student wants to speed up the decomposition of hydrogen peroxide. They add manganese dioxide powder. At the end of the reaction, they filter and dry the manganese dioxide. What will they find?",
+      "options": [
+        "The mass of manganese dioxide is unchanged, and its chemical identity is the same.",
+        "The mass of manganese dioxide is reduced because it was used up in the reaction.",
+        "The manganese dioxide has turned into manganese sulfate.",
+        "The mass of manganese dioxide has increased because oxygen bonded to it."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why can iron be used to catalyse the industrial production of ammonia from nitrogen and hydrogen, but it cannot be used to catalyse the breakdown of hydrogen peroxide as effectively as manganese dioxide?",
+      "options": [
+        "Iron is too reactive as a metal to act as a catalyst in more than one reaction.",
+        "Catalysts are specific, meaning different reactions generally require different catalysts to speed them up.",
+        "Iron only works as a catalyst when it is in liquid form, whereas manganese dioxide works as a solid.",
+        "Hydrogen peroxide is an acid and destroys the iron catalyst before it can act."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Amylase is an enzyme found in human saliva that speeds up the breakdown of starch into sugars. What would happen if you heated amylase to 100 degrees Celsius before adding it to a starch solution?",
+      "options": [
+        "The reaction would speed up even further because enzymes work better at higher temperatures.",
+        "The reaction would slow down or stop because the enzyme is a biological catalyst that loses its shape and function at high temperatures.",
+        "The amylase would turn into a synthetic polymer and catalyse a different reaction instead.",
+        "The starch would break down into hydrogen gas and a metal salt instead of sugars."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A piece of zinc is placed into a test tube containing copper sulfate solution. After some time, the blue color of the solution fades, and a reddish-brown solid deposits on the zinc. What does this experiment demonstrate?",
+      "options": [
+        "Zinc is more reactive than copper and has displaced it from the sulfate solution.",
+        "Copper is more reactive than zinc and has displaced it from the sulfate solution.",
+        "Sulfate is highly reactive and has decomposed into sulfur dioxide gas.",
+        "Zinc has acted as a catalyst to turn the blue copper ions into red copper atoms."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When magnesium ribbon is added to a blue solution of copper sulfate, a reaction occurs. Which of the following correctly describes the products formed in this displacement reaction?",
+      "options": [
+        "Magnesium copper alloy and sulfur dioxide gas.",
+        "A colorless solution of magnesium sulfate and solid copper metal.",
+        "A blue solution of copper magnesium sulfate and hydrogen gas.",
+        "Magnesium oxide solid and copper sulfide solution."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A scientist tests four metals (W, X, Y, and Z) by placing each metal into solutions of the other metals' nitrate salts. Metal W displaces X and Y, but not Z. Metal X cannot displace any of the other metals. What is the correct order of these metals in the reactivity series, from most reactive to least reactive?",
+      "options": [
+        "Z, W, Y, X",
+        "X, Y, W, Z",
+        "Z, W, X, Y",
+        "W, Z, Y, X"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Iron is extracted from its ore, hematite (iron oxide), by heating it with carbon in a blast furnace. Why is this extraction method successful for iron but not for aluminum?",
+      "options": [
+        "Carbon is more reactive than iron but less reactive than aluminum, so it can only displace iron.",
+        "Carbon is less reactive than iron, so it allows iron to remain in its metallic state.",
+        "Aluminum has a lower melting point than iron, causing it to vaporize in the blast furnace.",
+        "Iron oxide is a ceramic material, whereas aluminum oxide is a polymer."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Copper is widely used to make electrical wiring in household appliances. Which combination of metallic properties makes copper particularly suitable for this specific purpose?",
+      "options": [
+        "High density, brittle nature, and dull appearance.",
+        "Good electrical conductivity and high ductility.",
+        "High thermal conductivity and low melting point.",
+        "High malleability and extremely low strength."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Clay is a soft, moldable substance when wet. However, after being fired in a high-temperature kiln, it becomes a ceramic. How do the physical properties of clay change during this process?",
+      "options": [
+        "It becomes highly flexible and gains excellent electrical conductivity.",
+        "It transforms into a low-melting-point polymer that is easily reshaped.",
+        "It becomes hard, brittle, and resistant to high temperatures.",
+        "It becomes a ductile alloy that can be drawn into thin wires."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Pure gold is very soft and easily scratched. To make jewelry, jewellers mix pure gold with other metals like copper or silver to form 18-carat gold. What is this mixture called, and how do its properties compare to pure gold?",
+      "options": [
+        "A composite, which is lighter and has a much lower melting point.",
+        "An alloy, which is harder and more durable than pure gold.",
+        "A polymer, which is highly flexible and can be stretched easily.",
+        "A ceramic, which is brittle and highly resistant to heat."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Concrete is made by mixing cement, sand, gravel, and water. When reinforced with steel rods, it becomes reinforced concrete, which can withstand both heavy crushing forces and stretching forces. What class of material is reinforced concrete?",
+      "options": [
+        "A polymer, because it contains repeating organic monomers.",
+        "An alloy, because it contains a mixture of different metals.",
+        "A composite, because it combines materials to produce improved properties.",
+        "A ceramic, because it becomes extremely soft when heated to high temperatures."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Polyethene is a common plastic used to make shopping bags. How is the structure of polyethene built up from its starting materials?",
+      "options": [
+        "Small, identical ethene monomers join together chemically to form very long chains of atoms.",
+        "Large ceramic molecules are broken down into smaller metallic elements.",
+        "Carbon and hydrogen atoms form a mixed giant covalent lattice like diamond.",
+        "Alternating layers of metal and plastic are glued together with a biological catalyst."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Some polymers, such as thermosetting plastics, do not melt when heated but instead char and burn at very high temperatures. What explains this property?",
+      "options": [
+        "Their molecules are small and can easily slide past each other when heated.",
+        "Their polymer molecules are held together by strong forces that make them very hard to separate.",
+        "They contain high amounts of water trapped within their crystalline structure.",
+        "They are made entirely of metallic bonds that conduct heat away too quickly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Polymers are diverse materials found all around us. Which of the following lists contains only naturally occurring polymers?",
+      "options": [
+        "Polyethene, nylon, and PVC.",
+        "Starch, cellulose, and natural rubber.",
+        "Polyester, polystyrene, and DNA.",
+        "Clay, concrete, and bronze."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "PVC (polyvinyl chloride) is naturally rigid and brittle, making it ideal for drainpipes. However, when certain small molecules called plasticisers are added, it becomes flexible enough to make artificial leather. How do plasticisers achieve this?",
+      "options": [
+        "They create strong cross-links that lock the polymer chains tightly into position.",
+        "They get between the polymer molecules, reducing the attractions and allowing them to slide over each other more easily.",
+        "They chemically break down the long polymer chains into individual monomers.",
+        "They act as catalysts that speed up the melting of the polymer at room temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Vulcanised rubber is used to make car tyres. During vulcanisation, sulfur atoms form cross-links between the long rubber polymer chains. How does this structural change affect the properties of the rubber?",
+      "options": [
+        "It makes the rubber softer, more soluble in water, and easier to melt.",
+        "It makes the rubber harder, stronger, and less flexible.",
+        "It converts the rubber from a natural polymer into a metallic alloy.",
+        "It allows the polymer chains to slide over each other much more easily."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A student adds a piece of magnesium ribbon to a test tube containing hydrochloric acid. They observe rapid bubbling. What are the products of this chemical reaction?",
+      "options": [
+        "Magnesium chloride solution and hydrogen gas.",
+        "Magnesium hydroxide solution and chlorine gas.",
+        "Magnesium oxide solid and water vapor.",
+        "Magnesium carbonate and hydrogen gas."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A small piece of sodium metal is dropped onto a trough of water. It melts into a ball, fizzes rapidly, and moves across the surface. What products are formed from this reaction?",
+      "options": [
+        "Sodium oxide and steam.",
+        "Sodium hydride and oxygen gas.",
+        "Sodium hydroxide solution and hydrogen gas.",
+        "Sodium chloride and hydrogen gas."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "The reactivity series lists metals in order of their chemical reactivity. If metal A reacts violently with cold water, metal B reacts slowly with warm acid, and metal C does not react with acid at all, what is the correct arrangement of these metals from least reactive to most reactive?",
+      "options": [
+        "A, B, C",
+        "C, B, A",
+        "B, C, A",
+        "C, A, B"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Potassium is located near the very top of the reactivity series, while iron is located much lower down. When equal-sized pieces of both metals are added to separate test tubes of dilute hydrochloric acid, what difference in behavior would you expect to observe?",
+      "options": [
+        "Iron will react much more vigorously and produce hydrogen gas faster than potassium.",
+        "Potassium will react extremely vigorously and dangerously, while iron will react much more slowly.",
+        "Neither metal will react because they are both below hydrogen in the reactivity series.",
+        "Potassium will form a metal oxide, while iron will form a metal hydroxide."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
     }
   ]
 }

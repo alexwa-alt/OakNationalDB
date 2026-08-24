@@ -1,6 +1,6 @@
 {
   "unitKey": "6Hidden forcesPhysics",
-  "generatedAt": "2026-08-23T08:55:27.628798+00:00",
+  "generatedAt": "2026-08-24T09:10:52.366124+00:00",
   "questions": [
     {
       "question": "An iceberg is floating in the ocean with 90% of its volume submerged beneath the water's surface, and only 10% visible above. Based on physical principles, which of the following statements is correct about its state of floating?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 24
+    },
+    {
+      "question": "An iceberg has about 90% of its volume submerged beneath the ocean surface, with only 10% visible above. What is the correct scientific description of the iceberg's state?",
+      "options": [
+        "Only 10% of the iceberg is floating, while the rest is sinking.",
+        "The entire iceberg is considered to be floating because a portion of it remains above the surface.",
+        "The iceberg is in a state of neutral buoyancy, which is distinct from floating.",
+        "The iceberg is sinking because the majority of its bulk is underwater."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A wooden block floats with exactly half of its volume submerged in a 10 cm deep tray of water. If the block is moved to a 5-meter-deep swimming pool filled with the same water, how will its floating behavior change?",
+      "options": [
+        "It will float higher because the deeper water exerts more overall upward pressure.",
+        "It will float lower because there is more water underneath to pull it down.",
+        "It will float in exactly the same way, as floating does not depend on the depth of the liquid.",
+        "It will sink because the high pressure at the bottom of the pool attracts the block."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A solid block of steel sinks in water, but a toy boat made of the same mass of steel floats easily. Why does the shape of the toy boat allow it to float?",
+      "options": [
+        "The boat's hollow shape allows it to push aside a volume of water that has a mass equal to the boat's mass before the boat is fully submerged.",
+        "The boat's shape traps air underneath it, which actively pushes the water downwards with extra force.",
+        "The boat's shape reduces its mass, making it lighter than the solid block of steel.",
+        "The boat's shape spreads the gravitational pull over a wider area, reducing the weight of the steel."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A student needs to lift a box with a mass of 4.5 kg at a constant speed off the classroom floor. Approximately how much upward force must the student exert to lift this box?",
+      "options": [
+        "0.45 N",
+        "4.5 N",
+        "45 N",
+        "450 N"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A heavy backpack with a mass of 12 kg is resting on a sturdy table. With approximately what downward force does this backpack press on the surface of the table?",
+      "options": [
+        "1.2 N",
+        "12 N",
+        "120 N",
+        "1200 N"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "An astronaut has a mass of 80 kg. On the Moon, the gravitational field strength (g) is approximately 1.6 N/kg. What is the gravitational force (weight) acting on the astronaut on the Moon?",
+      "options": [
+        "50 N",
+        "128 N",
+        "800 N",
+        "12.8 N"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "When a 2 N weight is hung from a spring, it extends by 3 cm. If another 2 N weight is added to make a total force of 4 N, the total extension becomes 6 cm. What will the total extension be if a third 2 N weight is added (total force of 6 N), assuming the elastic limit is not exceeded?",
+      "options": [
+        "8 cm",
+        "9 cm",
+        "12 cm",
+        "15 cm"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A student plots a graph of force applied (y-axis) against the extension of a spring (x-axis) within its elastic limit. Which description best matches the line of best fit for this graph?",
+      "options": [
+        "A curved line that starts flat and gets steeper.",
+        "A straight line passing through the origin (0,0).",
+        "A horizontal straight line that does not change.",
+        "A straight line that starts high on the y-axis and slopes downwards."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why is a steel spring scientifically classified as \"elastic\", whereas a strip of modeling clay is not?",
+      "options": [
+        "The spring requires a larger force to stretch compared to the modeling clay.",
+        "The spring can be stretched to many times its starting length without breaking.",
+        "The spring returns completely to its original length once the stretching force is removed.",
+        "The spring stores thermal energy when a force is applied to stretch it."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A mechanic uses a long spanner to loosen a tight nut on a car wheel. Why is using a longer spanner more effective than using their bare hands?",
+      "options": [
+        "The long handle reduces the distance the hand has to move.",
+        "The long handle multiplies the small force applied by the hand into a much larger force on the nut.",
+        "The long handle reduces the amount of work that needs to be done to loosen the nut.",
+        "The long handle increases the speed at which the nut rotates."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "When you sweep the floor with a broom, your upper hand acts as a pivot while your lower hand moves a short distance to push the broom handle. What advantage does this type of lever provide at the broom's bristles?",
+      "options": [
+        "It multiplies a small force at your hand into a massive force at the bristles.",
+        "It multiplies the small movement of your lower hand into a much larger movement of the bristles.",
+        "It eliminates the friction between the broom bristles and the floor.",
+        "It decreases the distance the bristles travel to make sweeping slower and more precise."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Compare a pair of scissors, a wheelbarrow, and a fishing rod. Which statement correctly describes how they differ as levers?",
+      "options": [
+        "They all have the pivot at the exact center, but use different forces.",
+        "They have different arrangements, with the pivot located in a different position relative to the effort and load.",
+        "Only the wheelbarrow multiplies force, while the others only multiply distance.",
+        "The scissors have a pivot, but the wheelbarrow and fishing rod do not use pivots."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A block of wood exerts a downward force of 60 N on a table. The face of the block in contact with the table has dimensions of 0.5 m by 0.2 m (giving an area of 0.1 m²). What is the pressure exerted by the block on the table?",
+      "options": [
+        "6 Pa",
+        "60 Pa",
+        "600 Pa",
+        "6000 Pa"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A barometer measures atmospheric pressure to be 101,300 newtons per square metre. What is this pressure equivalent to in pascals (Pa)?",
+      "options": [
+        "1,013 Pa",
+        "10,130 Pa",
+        "101,300 Pa",
+        "1,013,000 Pa"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Two boats have the same mass, but Boat A has a wide, flat-bottomed hull while Boat B has a narrow, V-shaped hull. Why is Boat A able to carry a much heavier cargo before sinking compared to Boat B?",
+      "options": [
+        "Boat A's wider hull shape has a smaller surface area, reducing friction.",
+        "Boat A's wider hull has a larger surface area, allowing a much greater maximum upthrust to be generated as it displaces water.",
+        "Boat A's hull shape reduces the gravitational pull acting on the cargo.",
+        "Boat A has less contact with the water, meaning less upward force is needed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "A submarine is diving deep into the ocean. Why must the submarine's hull be built to withstand much higher pressures at 500 meters depth than at 50 meters depth?",
+      "options": [
+        "The density of the water increases rapidly near the ocean floor.",
+        "The temperature drops, causing the water molecules to move faster and hit the hull harder.",
+        "There is a much larger volume and weight of water above the submarine pushing down on it.",
+        "The gravitational field strength is significantly stronger deeper in the ocean."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why do mountaineers climbing Mount Everest often need to use oxygen tanks, and experience lower atmospheric pressure at the summit?",
+      "options": [
+        "The Earth's gravity is much weaker at high altitudes, letting the air float away.",
+        "The wind speed at the summit blows the air away, creating a vacuum.",
+        "There is less air above them pushing down, resulting in fewer air particles and lower pressure.",
+        "The cold temperature at the summit causes air molecules to shrink and disappear."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A student investigates how a rubber band stretches by adding 1 N weights one by one. How will the extension of the rubber band behave compared to a standard metal spring?",
+      "options": [
+        "The rubber band's extension will increase by the exact same number of millimeters for each 1 N added.",
+        "The rubber band's extension will increase by different amounts for each 1 N force added, unlike a spring.",
+        "The rubber band will not extend at all until a force of at least 5 N is applied.",
+        "The rubber band's extension is directly proportional to the force applied throughout the entire test."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "When a heavy filing cabinet is placed on a wooden floor, the floor supports it without breaking. What happens at a microscopic level within the floor to support the cabinet?",
+      "options": [
+        "The particles in the floor expand and become less dense to absorb the weight.",
+        "The particles in the floor are squashed closer together, causing them to push back upwards with a force equal to the cabinet's weight.",
+        "The particles in the floor stop moving entirely to lock the floor in place.",
+        "The floor's particles create a magnetic field that repels the cabinet's metal base."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "A worker applies a force of 50 N perpendicular to the end of a lever that is 0.4 meters long. What is the moment produced about the pivot?",
+      "options": [
+        "12.5 Nm",
+        "20 Nm",
+        "50.4 Nm",
+        "200 Nm"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
     }
   ]
 }

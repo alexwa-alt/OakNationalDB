@@ -1,0 +1,226 @@
+{
+  "unitKey": "8Carbon cycle and climate changeChemistry",
+  "generatedAt": "2026-08-24T09:11:39.612064+00:00",
+  "questions": [
+    {
+      "question": "When fuels containing carbon are burned in oxygen, which gas is commonly released into the atmosphere?",
+      "options": [
+        "Carbon dioxide",
+        "Helium",
+        "Hydrogen",
+        "Argon"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the chemical structure of a single molecule of carbon dioxide?",
+      "options": [
+        "Two carbon atoms and one oxygen atom",
+        "One carbon atom and one oxygen atom",
+        "One carbon atom and two oxygen atoms",
+        "Two carbon atoms and two oxygen atoms"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Approximately what percentage of Earth's atmosphere is made up of carbon dioxide?",
+      "options": [
+        "21%",
+        "0.04%",
+        "78%",
+        "4.0%"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following gases is classified as a greenhouse gas?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Argon",
+        "Carbon dioxide"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the primary consequence of having too many greenhouse gases in the atmosphere?",
+      "options": [
+        "An increase in average global temperature, known as global warming",
+        "A decrease in the global sea levels due to freezing",
+        "An increase in the concentration of nitrogen gas",
+        "A sudden decrease in the rate of photosynthesis"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which type of sedimentary rock burns because it is composed mostly of carbon with some impurities?",
+      "options": [
+        "Limestone",
+        "Sandstone",
+        "Coal",
+        "Shale"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Coal is formed from deep sediments of organic matter that originated from which of the following?",
+      "options": [
+        "Prehistoric plants",
+        "Marine plankton",
+        "Volcanic ash",
+        "Dinosaur bones"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What organisms originally formed the organic matter that became oil and gas millions of years ago?",
+      "options": [
+        "Prehistoric land plants",
+        "Dead plankton mixed with sediments",
+        "Giant ferns and mosses",
+        "Ancient reptiles and mammals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "During the formation of fossil fuels, the decomposing organic matter eventually turned into which type of chemical compounds?",
+      "options": [
+        "Carbohydrates",
+        "Hydrocarbons",
+        "Carbonates",
+        "Hydroxides"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "How does sedimentary rock form after sediment is buried and compressed?",
+      "options": [
+        "Molten lava cools and solidifies on the surface",
+        "Extreme heat melts the grains into a uniform liquid",
+        "Salts from fluids cement the sediment grains together",
+        "Intense pressure alone recrystallizes the minerals without fluids"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In which type of rock are fossils exclusively found?",
+      "options": [
+        "Igneous rock",
+        "Metamorphic rock",
+        "Volcanic rock",
+        "Sedimentary rock"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How do bones buried in sedimentary rock typically turn into stony fossils over a very long time?",
+      "options": [
+        "They are dried out by heat until they turn to stone",
+        "They are slowly dissolved by water and replaced by minerals in the water",
+        "They are crushed by pressure until they fuse with sand",
+        "They react with oxygen to form hard carbon compounds"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What are the two main gases that make up the vast majority of Earth's atmosphere?",
+      "options": [
+        "78% Carbon dioxide and 21% Oxygen",
+        "78% Nitrogen and 21% Oxygen",
+        "50% Nitrogen and 50% Carbon dioxide",
+        "99% Oxygen and 1% Hydrogen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is a beneficial role of greenhouse gases naturally present in Earth's atmosphere?",
+      "options": [
+        "They block all ultraviolet radiation from reaching the surface",
+        "They keep Earth's temperature warm enough for human life",
+        "They provide the oxygen required for animals to breathe",
+        "They prevent the formation of clouds and rain"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What is the chemical test for carbon dioxide gas?",
+      "options": [
+        "It relights a glowing splint",
+        "It burns with a squeaky pop sound",
+        "It forms a white precipitate that turns limewater milky",
+        "It turns damp blue litmus paper red"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which process describes the slow breakdown of rocks on Earth's surface while they remain 'in place'?",
+      "options": [
+        "Erosion",
+        "Weathering",
+        "Deposition",
+        "Compaction"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What is the process that removes and transports material from where bedrock has been broken down?",
+      "options": [
+        "Weathering",
+        "Cementation",
+        "Erosion",
+        "Sedimentation"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Which process directly increases the amount of carbon dioxide in the atmosphere by burning fuel?",
+      "options": [
+        "Photosynthesis",
+        "Condensation",
+        "Combustion",
+        "Freezing"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Which of these processes actively reduces the amount of carbon dioxide in the atmosphere?",
+      "options": [
+        "Respiration by animals",
+        "Photosynthesis by plants and phytoplankton",
+        "Decomposition of dead organisms",
+        "Combustion of wood"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Beside being absorbed by plants, what is another major natural reservoir where carbon dioxide can dissolve?",
+      "options": [
+        "In the core of the Earth",
+        "In the oceans",
+        "In volcanic magma",
+        "In underground oil reservoirs"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    }
+  ]
+}
