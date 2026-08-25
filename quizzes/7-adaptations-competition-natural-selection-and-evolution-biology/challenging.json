@@ -1,6 +1,6 @@
 {
   "unitKey": "7Adaptations, competition, natural selection and evolutionBiology",
-  "generatedAt": "2026-08-24T09:11:21.933892+00:00",
+  "generatedAt": "2026-08-25T09:06:18.766884+00:00",
   "questions": [
     {
       "question": "In a classroom activity, students pick up green and white cocktail sticks scattered across a lawn of green grass in 30 seconds. Which of the following best explains what this model demonstrates?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 35
+    },
+    {
+      "question": "In a classroom simulation, students scatter 50 green and 50 white cocktail sticks on a green lawn. They have 15 seconds to pick up as many as possible. Which of the following best explains why the white sticks are collected much faster than the green ones?",
+      "options": [
+        "The green sticks are physically heavier and harder to pick up.",
+        "The green sticks are camouflaged against the green grass, making them harder for the collectors to see.",
+        "The white sticks are stickier and cling to the students' fingers.",
+        "Students naturally prefer the colour white and choose to ignore the green sticks."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If the green and white cocktail stick simulation on a green lawn is repeated after a heavy snowfall that completely covers the grass in white, how would the survival prediction for each stick colour change?",
+      "options": [
+        "Green sticks will now be collected faster because they stand out against the white snow.",
+        "White sticks will still be collected faster because snow does not affect human vision.",
+        "Both stick colours will be collected at exactly the same rate because snow makes them equally visible.",
+        "Neither stick will be collected because the snow will melt the cocktail sticks."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Some desert plants have very shallow, widespread root systems rather than deep taproots. How does this particular adaptation provide an advantage in a dry desert environment?",
+      "options": [
+        "It allows the plant to anchor itself deeply into bedrock to avoid being blown away.",
+        "It enables the plant to quickly absorb scarce water from light rainfall before it evaporates.",
+        "It helps the plant find underground water tables deep below the surface.",
+        "It prevents the plant from absorbing too much mineral salt from the lower soil layers."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A gardener plants 100 lettuce seeds very close together in a tiny pot. After a few weeks, only a few seedlings grow large, while the rest wither and die. Which ecological concept best explains this outcome?",
+      "options": [
+        "The seedlings are cooperating to share the limited soil space equally.",
+        "The seeds had different genetic plans to sprout at different times of the year.",
+        "Limited resources like light, water, and space led to intense competition where only some survived.",
+        "The soil automatically selected the seeds with the darkest green leaves to grow."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "In a forest of tall trees, some individual giraffes are born with slightly longer necks than others of the same species. During a severe drought where lower leaves are eaten, how does this variation affect competition?",
+      "options": [
+        "It forces the longer-necked giraffes to migrate to find water elsewhere.",
+        "It gives longer-necked individuals a competitive advantage by allowing them to reach food others cannot.",
+        "It causes the shorter-necked giraffes to quickly grow longer necks within their lifetime.",
+        "It makes the longer-necked giraffes more visible to predators, leading to their rapid extinction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which statement best describes what a 'scientific theory' is, in the context of the theory of evolution by natural selection?",
+      "options": [
+        "An educated guess made by a scientist that has not yet been tested or supported by evidence.",
+        "A permanent, unchangeable law of nature that requires no further observation or refinement.",
+        "A general explanation developed from extensive evidence that explains many different observed examples.",
+        "A personal opinion shared by a group of scientists about how organisms might have looked in the past."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A common misconception is that organisms consciously decide to evolve new features to survive environmental changes. Which of the following correctly describes how advantageous features actually arise?",
+      "options": [
+        "They appear randomly due to genetic variation and are then maintained by natural selection if they provide a benefit.",
+        "They are planned in advance by the species so they can prepare for future climates.",
+        "They are directly caused by the organism's physical effort to stretch or strengthen its body.",
+        "They are injected into the organisms by their parents during their developmental stages."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A professional weightlifter trains intensely and develops exceptionally large muscles. If this weightlifter has children, how will their muscles be affected at birth, and why?",
+      "options": [
+        "The children will be born with exceptionally large muscles because evolution occurs within a single lifetime.",
+        "The children will not be born with large muscles because changes in an individual's features during their lifetime are not evolutionary and cannot be passed on.",
+        "The children will have large muscles only if they are born in the same gym environment.",
+        "The children will have slightly larger muscles because the parent's exercise modified their genetic code permanently."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A student discovers a rock containing the fossilised footprint of an ancient dinosaur. How should this fossil be scientifically classified?",
+      "options": [
+        "It is not a true fossil because it does not contain actual preserved bones or teeth.",
+        "It is a fossil because it is a mineralised trace left behind by a once-living organism.",
+        "It is an artificial carving made by early humans to record dinosaur sightings.",
+        "It is a preserved piece of actual dinosaur skin that has dried out over millions of years."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why is it difficult for scientists to reconstruct a complete, perfect history of all past life on Earth using only fossil evidence?",
+      "options": [
+        "Fossils only form in places with active volcanoes, leaving most habitats unrepresented.",
+        "Most dead organisms decay completely or are eaten, so only a small fraction ever become fossilised.",
+        "Fossils can only show the exact colours and soft internal organs of ancient creatures, not their bones.",
+        "Scientific equipment is currently unable to determine the age of any fossil older than ten thousand years."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "An oak tree loses several large branches during a severe storm, leaving it permanently scarred and misshapen. If acorns from this tree are planted, what features should we expect the new oak trees to have?",
+      "options": [
+        "They will grow up misshapen and missing branches because the parent's injury is passed down.",
+        "They will grow up normal because environmental damage is not heritable and cannot be passed to offspring.",
+        "They will grow up extra strong to prevent future storm damage, as trees plan for the future.",
+        "They will fail to grow at all because injured trees only produce infertile seeds."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A species of rabbit has genetic instructions that cause some individuals to have thick fur and others to have thin fur. How does this type of variation behave across generations?",
+      "options": [
+        "It is entirely determined by how much the parent rabbits exercise during their lifetimes.",
+        "It is environmental, meaning thick-furred rabbits will have thin-furred offspring if the weather gets warmer.",
+        "It is heritable, meaning the genetic instructions for fur thickness can be passed from parents to offspring.",
+        "It cannot be passed on because physical features are only determined by the soil and water conditions."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "In a cold environment, birds with dense downy feathers survive winter much better than birds with thin feathers. Over several generations, what is the most likely outcome for this bird population?",
+      "options": [
+        "The proportion of thin-feathered birds will increase as they try harder to stay warm.",
+        "The average density of feathers will decrease because resources are too scarce to grow them.",
+        "Dense downy feathers will become more common because the survivors pass this heritable feature to their offspring.",
+        "The birds will stop reproducing entirely to conserve energy during the cold winter months."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "During the Industrial Revolution, soot from coal factories blackened the trunks of nearby birch trees. How did this human activity affect the natural selection of light-coloured and dark-coloured peppered moths?",
+      "options": [
+        "It had no effect because moths do not rely on tree trunks for survival.",
+        "It changed the selective pressure, making dark moths less visible to predators and more likely to survive and reproduce.",
+        "It forced light-coloured moths to instantly change their DNA to turn dark during their lifetime.",
+        "It caused all moths to stop reproducing until the soot washed away."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "A geologist is organizing a museum display of fossils. Based on scientific evidence, what are the approximate ages of the oldest and newest fossils found on Earth?",
+      "options": [
+        "Oldest are 4.5 billion years old; newest are 1 billion years old.",
+        "Oldest are 3.5 billion years old; newest are around 10 thousand years old.",
+        "Oldest are 200 million years old; newest are 350 thousand years old.",
+        "Oldest are 500 million years old; newest are 200 years old."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "According to scientific evidence, which of the following lists the evolutionary appearance of organisms in the correct chronological order, from the oldest event to the most recent?",
+      "options": [
+        "First mammals (200mya) -> First land plants (500mya) -> Modern humans (350k years ago)",
+        "First land plants (500mya) -> First mammals (200mya) -> Modern humans (350k years ago)",
+        "Modern humans (350k years ago) -> First mammals (200mya) -> First land plants (500mya)",
+        "First land plants (500mya) -> Modern humans (350k years ago) -> First mammals (200mya)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "Emperor penguins live in the freezing environment of the Antarctic. Which of the following is a physical feature that directly suits them to survive this extreme cold?",
+      "options": [
+        "A thick layer of blubber under their skin to trap heat.",
+        "Brightly coloured feathers to attract warm sunlight.",
+        "Long, hollow legs that keep their bodies far above the ice.",
+        "Wide, thin wings designed for rapid flight through cold winds."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Two different species of flowering plants grow in the same meadow. Both rely on the same species of bumblebee to transfer their pollen. In this scenario, what specific resource are these two plant species competing for?",
+      "options": [
+        "Seed dispersers to carry their seeds away.",
+        "Shelter from harsh winds and heavy rain.",
+        "Pollinators to enable successful reproduction.",
+        "Mates of the same species to produce offspring."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A puppy is born with a perfectly healthy tail, but unfortunately loses its tail in an accident when it is young. What type of variation does this taillessness represent?",
+      "options": [
+        "Genetic variation, because it is an instruction stored in the dog's DNA.",
+        "Environmental variation, because it was caused by an event in the dog's life rather than its genes.",
+        "Heritable variation, because its future puppies will also be born without tails.",
+        "Evolutionary variation, because the entire species is adapting to have no tails."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "When discussing the timeline of life and evolution, scientists refer to the age of the Earth. According to scientific evidence, approximately when was the Earth formed?",
+      "options": [
+        "4.5 million years ago",
+        "3.8 billion years ago",
+        "4.5 billion years ago",
+        "10 thousand years ago"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
     }
   ]
 }

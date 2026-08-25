@@ -1,6 +1,6 @@
 {
   "unitKey": "6Hidden forcesPhysics",
-  "generatedAt": "2026-08-24T09:10:52.366124+00:00",
+  "generatedAt": "2026-08-25T09:05:38.326139+00:00",
   "questions": [
     {
       "question": "An iceberg is floating in the ocean with 90% of its volume submerged beneath the water's surface, and only 10% visible above. Based on physical principles, which of the following statements is correct about its state of floating?",
@@ -660,6 +660,226 @@
         "200 Nm"
       ],
       "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "A massive block of dense wood is submerged in a deep lake. Only a tiny fraction of its volume, about 1%, remains above the water's surface. What is the correct scientific description of this object's state?",
+      "options": [
+        "The object is sinking because 99% of it is below the surface.",
+        "The whole of the object is floating because part of it is above the surface.",
+        "Only the top 1% of the object is floating, while the bottom 99% is sinking.",
+        "The object is suspended in a state of neutral buoyancy rather than floating."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "An engineer tests a scale model of a cargo boat in a 30 cm deep laboratory trough and finds it floats with half of its hull submerged. If the same boat is placed in a 10-meter-deep lake filled with the same type of water, how will its floating behavior change?",
+      "options": [
+        "It will float higher because the greater depth of the water increases the total upward pressure.",
+        "It will sink lower because there is more water underneath pulling it down gravitationally.",
+        "It will float in exactly the same way because floating does not depend on the depth of the liquid.",
+        "It will float higher because deep water has a higher density than shallow water."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A solid block of clay with a mass of 500 grams sinks when placed in water. However, when the same 500 grams of clay is molded into a hollow bowl shape, it floats. What is the explanation for this difference?",
+      "options": [
+        "The hollow shape traps air, which chemically reacts with the water to create an upward force.",
+        "Molding the clay increases its overall mass, allowing it to generate more downward force.",
+        "The bowl shape allows the clay to push its own mass of water out of the way before the water can spill over the rim.",
+        "The surface tension of the water increases significantly when the surface area of the clay is stretched out."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "An astronaut needs to lift a crate of equipment with a mass of 4.5 kg on Earth. Ignoring air resistance, what is the approximate vertical force required to lift this crate at a steady speed?",
+      "options": [
+        "0.45 N",
+        "4.5 N",
+        "45 N",
+        "450 N"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A heavy metal sculpture has a mass of 12.5 kg. When it is placed on a flat wooden table on Earth, what force does the sculpture exert downwards on the table's surface?",
+      "options": [
+        "About 1.25 N",
+        "About 12.5 N",
+        "About 125 N",
+        "About 1250 N"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "An object of mass 250 g is suspended from a support. If the gravitational field strength (g) on Earth is approximately 10 N/kg, what is the gravitational force (weight) acting on this object?",
+      "options": [
+        "0.025 N",
+        "2.5 N",
+        "25 N",
+        "2500 N"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A spring has an original length of 10 cm. When a 2 N force is applied, its length becomes 12 cm. If the force is increased to 4 N, and then to 6 N, what will its total length be at each stage if it behaves according to the rules of spring extension?",
+      "options": [
+        "14 cm at 4 N, and 16 cm at 6 N, because the extension increases by 2 cm for every 2 N increase in force.",
+        "14 cm at 4 N, and 18 cm at 6 N, because the extension doubles with each step.",
+        "12 cm at 4 N, and 12 cm at 6 N, because a spring cannot extend past its initial elastic limit.",
+        "16 cm at 4 N, and 22 cm at 6 N, because the force required increases exponentially."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A student plots a graph of a spring's extension against the force applied to it. Which of the following features on the graph would confirm that the extension is directly proportional to the force?",
+      "options": [
+        "A curved line that starts at the origin and levels off at high forces.",
+        "A straight line that passes through the origin (0,0).",
+        "A horizontal straight line that shows the extension remains constant.",
+        "A straight line that starts high on the vertical axis and slopes downwards."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A mechanical device uses several metal coils. Under what condition is one of these coils scientifically classified as being elastic?",
+      "options": [
+        "It can be stretched to more than twice its original length without snapping.",
+        "It returns to its exact original length after the stretching force is removed.",
+        "It requires a very large force to produce even a small change in its shape.",
+        "It permanently changes its shape to adapt to the applied load."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A gardener is struggling to pull a deep-rooted weed out of the ground. She decides to use a metal crowbar as a lever. How does the crowbar help her extract the weed?",
+      "options": [
+        "It multiplies the distance she moves her hand into an even larger movement at the weed end.",
+        "It multiplies her small input force at one end into a much larger output force at the weed end.",
+        "It reduces the friction between the weed's roots and the surrounding soil.",
+        "It temporarily increases the gravitational force acting on the weed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In a certain machine, a lever is set up with the pivot very close to the handle where the operator pushes, and the working tip far away from the pivot. What is the mechanical advantage of this specific arrangement?",
+      "options": [
+        "It multiplies a small force at the handle into a much larger force at the working tip.",
+        "It multiplies a small movement at the handle into a much larger movement at the working tip.",
+        "It reduces the total energy required to complete the mechanical task.",
+        "It ensures that the force at the tip is exactly equal to the force at the handle."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "When comparing a pair of scissors, a wheelbarrow, and a pair of tweezers, they are all classified as levers. Why are they categorized into different classes or types of levers?",
+      "options": [
+        "Because they are made of different materials that affect their elastic properties.",
+        "Because they have their pivots, input forces, and loads in different relative positions.",
+        "Because some of them do not use a pivot to function.",
+        "Because they are used to overcome different states of matter."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A heavy concrete block has a weight of 600 N. It can be placed on the ground on a narrow side with an area of 0.2 square meters, or a wide side with an area of 0.6 square meters. How does the pressure on the ground compare in these two positions?",
+      "options": [
+        "The pressure is the same in both positions because the force (weight) is 600 N in both cases.",
+        "The pressure on the narrow side is 3000 N/m², which is higher than the 1000 N/m² pressure on the wide side.",
+        "The pressure on the wide side is 360 N/m², which is higher than the 120 N/m² pressure on the narrow side.",
+        "The pressure is lower on the narrow side because the force is concentrated."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Why are cargo ships designed with very wide, flat-bottomed hulls rather than narrow, V-shaped hulls?",
+      "options": [
+        "A wider hull reduces the friction between the boat and the water molecules.",
+        "A wider hull has a larger surface area, allowing it to experience a larger maximum upthrust to support heavy loads.",
+        "A wider hull increases the atmospheric pressure acting downwards on the ship.",
+        "A wider hull decreases the mass of water that the ship needs to displace to float."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "A deep-sea diver notices that their ears experience a much stronger squeezing sensation at 30 meters below the surface than at 3 meters. What is the physical cause of this increased pressure?",
+      "options": [
+        "The temperature of the water decreases, causing it to compress the air in the ears.",
+        "There is a greater volume of water below the diver pulling them down.",
+        "There is a greater weight of water above the diver pushing down as depth increases.",
+        "The density of water increases exponentially with every meter of depth."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "When climbing a high mountain, hikers often find that sealed bags of crisps puff up and expand. What causes this phenomenon?",
+      "options": [
+        "The temperature drop at high altitudes causes the gas inside the bag to expand.",
+        "The atmospheric pressure outside the bag reduces with height because there is less air above pushing down.",
+        "The gravitational pull on the gas inside the bag decreases, letting it expand.",
+        "The air inside the bag becomes heavier as the altitude increases."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A student hangs a series of 1 N weights from a rubber band and measures the extension. How will the extension of the rubber band behave compared to a standard metal spring?",
+      "options": [
+        "The rubber band will extend by the exact same number of millimeters for each additional 1 N weight.",
+        "The rubber band's extension will increase by different amounts for each equal increase in force.",
+        "The rubber band will not extend at all until a threshold force of 10 N is reached.",
+        "The rubber band will extend infinitely until it snaps under any small force."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "When a very heavy metal safe is placed on a solid wooden floor, the floor does not break, but it does exert an upward support force. At a microscopic level, what happens to the floor directly under the safe?",
+      "options": [
+        "The particles in the floor expand to fill the spaces between them.",
+        "The particles in the floor are squashed closer together because of the large mass.",
+        "The particles in the floor begin to slide past each other like a liquid.",
+        "The particles in the floor lose their mass to balance the weight of the safe."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "A heavy bookcase is placed on a wooden floor, causing the floor particles underneath to squash together. What is the direct consequence of these particles being squashed closer together?",
+      "options": [
+        "They exert a greater upward force to push back against the bookcase.",
+        "They lose their electrostatic forces and become permanently deformed.",
+        "They begin to vibrate slower, reducing the temperature of the floor.",
+        "They pull the bookcase downwards with an increased gravitational force."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "A mechanic is trying to loosen a tight nut. First, she applies a force of 50 N at a perpendicular distance of 0.2 m from the pivot. Then, she switches to a longer wrench and applies the same 50 N force at a perpendicular distance of 0.4 m. How do the turning effects (moments) compare?",
+      "options": [
+        "The first attempt has a moment of 10 Nm, and the second has a moment of 20 Nm, making the second attempt twice as effective.",
+        "The first attempt has a moment of 250 Nm, and the second has a moment of 125 Nm, making the first attempt twice as effective.",
+        "Both attempts produce the same moment because the applied force is 50 N in both cases.",
+        "The second attempt produces no moment because the distance is too large for the force to act."
+      ],
+      "correctAnswerIndex": 0,
       "learningPointIndex": 37
     }
   ]
