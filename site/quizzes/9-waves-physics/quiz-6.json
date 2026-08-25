@@ -1,0 +1,226 @@
+{
+  "unitKey": "9WavesPhysics",
+  "generatedAt": "2026-08-25T09:07:11.513079+00:00",
+  "questions": [
+    {
+      "question": "Sound waves enter our ears and cause parts of our auditory system to vibrate. Which sequence correctly shows the order in which these parts vibrate?",
+      "options": [
+        "Eardrum, tiny bones, and the cochlea",
+        "Cochlea, eardrum, and tiny bones",
+        "Tiny bones, cochlea, and eardrum",
+        "Eardrum, cochlea, and nerve cells"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Where are the specialised cells that sense vibrations and cause electrical signals to be sent along a nerve to the brain located?",
+      "options": [
+        "Inside the outer ear canal",
+        "On the surface of the eardrum",
+        "Inside the cochlea",
+        "Along the auditory tube"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How does the brain create the sensation of hearing a sound?",
+      "options": [
+        "By receiving mechanical vibrations directly from the skull bones",
+        "By receiving electrical signals from the ear through a nerve",
+        "By sensing the changes in air pressure inside the skull",
+        "By sending electrical signals back to the eardrum to make it vibrate"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the range of sound frequencies that a healthy human ear can typically detect, and in which range is it most sensitive?",
+      "options": [
+        "20 Hz to 20 kHz, being most sensitive to 2-5 kHz waves",
+        "10 Hz to 10 kHz, being most sensitive to 1-3 kHz waves",
+        "50 Hz to 50 kHz, being most sensitive to 5-10 kHz waves",
+        "20 Hz to 20,000 kHz, being most sensitive to 20-50 Hz waves"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which of the following describes sounds that are outside the range of human hearing because their frequencies are either too low or too high?",
+      "options": [
+        "Infrasound is below 20 Hz, and ultrasound is above 20 kHz",
+        "Ultrasound is below 20 Hz, and infrasound is above 20 kHz",
+        "Infrasound is below 2 Hz, and ultrasound is above 200 kHz",
+        "Ultrasound is below 200 Hz, and infrasound is above 20,000 Hz"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "How are sound waves produced when an object, like a drum skin, vibrates?",
+      "options": [
+        "The vibrating object creates a vacuum that pulls air particles along with it",
+        "The vibrating object causes nearby air particles to vibrate as well",
+        "The vibrating object heats up the air, creating thermal currents",
+        "The vibrating object shoots out air particles in all directions"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When a sound wave travels through the air, what happens to the individual air particles?",
+      "options": [
+        "They travel all the way from the source of the sound to the listener's ear",
+        "They spin in small circles but do not move back and forth",
+        "They vibrate parallel to the direction of wave travel, not travelling forwards",
+        "They vibrate up and down at right angles to the direction the sound is travelling"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why is sound classified as a longitudinal wave?",
+      "options": [
+        "Because the air particles vibrate at a right angle to the direction of energy transfer",
+        "Because the wave can only travel over very long distances",
+        "Because the direction of vibration is parallel to the direction of energy transfer",
+        "Because the speed of the wave increases as the wavelength gets longer"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why do sound waves travel faster in liquids and solids than they do in gases?",
+      "options": [
+        "Because the particles are very close, so vibrations are easily passed on",
+        "Because liquids and solids are much warmer than gases",
+        "Because particles in liquids and solids have less mass than gas particles",
+        "Because waves in liquids and solids are transverse rather than longitudinal"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why does sound travel even faster in solids than in liquids?",
+      "options": [
+        "Solids have weaker forces between particles, letting them slide easily",
+        "The strong forces between particles in a solid mean vibrations travel even faster",
+        "Particles in a solid are free to move around and carry the energy directly",
+        "Solid particles are much larger than liquid particles"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is meant by the term 'speed of sound'?",
+      "options": [
+        "The time it takes for a single air particle to travel one metre",
+        "The distance travelled by a sound wave pulse every second",
+        "The number of vibrations that pass a fixed point each second",
+        "The maximum distance a particle moves from its rest position"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which of the following lists the correct approximate speed of sound in air, and how its speed changes in different states?",
+      "options": [
+        "About 340 m/s in air, faster in liquids and faster still in solids",
+        "About 340 m/s in air, slower in liquids and slowest in solids",
+        "About 1500 m/s in air, slower in liquids and faster in solids",
+        "About 340 m/s in air, and it cannot travel through liquids or solids"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What physical phenomenon occurs when sound waves reflect off a hard surface, travel back, and are heard again?",
+      "options": [
+        "Refraction",
+        "Dispersion",
+        "An echo",
+        "Resonance"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A student stands 170 metres away from a large wall and claps. The sound of the clap reflects off the wall and returns as an echo in 1.0 second. What is the calculated speed of sound?",
+      "options": [
+        "170 m/s",
+        "340 m/s",
+        "85 m/s",
+        "510 m/s"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In an experiment to measure the speed of sound, why is it better to measure longer distances and times?",
+      "options": [
+        "It makes the sound wave travel faster through the air",
+        "It means any measurement errors are a smaller proportion of the measurements",
+        "It prevents the sound wave from reflecting off nearby objects",
+        "It increases the frequency of the sound waves being measured"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following defines ultrasound waves?",
+      "options": [
+        "Sound waves with a frequency below 20 Hz that humans cannot hear",
+        "Sound waves with a frequency above 20 000 Hz that humans cannot hear",
+        "Sound waves that travel faster than the speed of light",
+        "Sound waves with a very high amplitude that can cause hearing damage"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How is ultrasound used to image structures inside the human body?",
+      "options": [
+        "It heats up different tissues to create a thermal map",
+        "It reflects from boundaries between different tissues",
+        "It ionises the cells to produce a highly detailed X-ray image",
+        "It is absorbed completely by bones, leaving a shadow on film"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What is the movement of water particles as a water wave moves forward?",
+      "options": [
+        "Each bit of water moves forward along with the wave",
+        "Each bit of water is moving up and down (oscillating), not forward",
+        "Each bit of water moves in a continuous figure-of-eight pattern forward",
+        "Each bit of water remains completely still while only energy moves"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Why are water waves classified as transverse waves?",
+      "options": [
+        "Because the direction of oscillation is parallel to the direction of energy transfer",
+        "Because the direction of oscillation is 90 degrees to the direction of energy transfer",
+        "Because they can only travel through a vacuum",
+        "Because they transfer matter instead of transferring energy"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "How is the amplitude of a water wave defined?",
+      "options": [
+        "The total distance from the very bottom of a trough to the very top of a crest",
+        "The greatest distance water moves above and below the rest position",
+        "The number of complete waves that pass a point in one second",
+        "The distance from one wave crest to the very next wave crest"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "unitKey": "8Carbon cycle and climate changeChemistry",
-  "generatedAt": "2026-08-12T06:18:58.165029+00:00",
+  "generatedAt": "2026-08-25T09:06:47.636458+00:00",
   "questions": [
     {
       "question": "A chemical analyst is modeling the molecular structure of a greenhouse gas. They represent the molecule with three spheres: a central black sphere bonded to two red spheres on either side. What chemical formula and composition does this model represent?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 33
+    },
+    {
+      "question": "If a chemist analyzes a sample of pure carbon dioxide gas, what is the exact atomic ratio and molecular structure they would find?",
+      "options": [
+        "One carbon atom and two oxygen atoms chemically bonded together as a single molecule",
+        "A physical mixture of individual carbon atoms and oxygen molecules in a 1:2 ratio",
+        "Two carbon atoms chemically bonded to one oxygen atom in each molecule",
+        "A lattice of carbon atoms containing trapped bubbles of oxygen gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "If you were to extract all the carbon dioxide from a 10,000-liter sample of dry, unpolluted modern air, approximately how many liters of carbon dioxide would you obtain?",
+      "options": [
+        "0.4 liters",
+        "4 liters",
+        "40 liters",
+        "400 liters"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following best explains why an increase in atmospheric greenhouse gases leads to global warming?",
+      "options": [
+        "It allows more solar radiation to pass through the atmosphere and reach the Earth's surface directly",
+        "It traps more of the heat radiated from the Earth's surface, raising the average global temperature",
+        "It triggers chemical reactions in the atmosphere that release large amounts of thermal energy",
+        "It decreases the rate of heat conduction from the Earth's core to the crust"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why is coal classified as a sedimentary rock that can burn, rather than a mineral or an igneous rock?",
+      "options": [
+        "It is formed from compressed plant remains and is made mostly of carbon with some impurities",
+        "It consists of a uniform crystalline structure of pure carbon formed under extreme heat",
+        "It is created from liquid magma that cooled slowly underground, trapping organic compounds",
+        "It is formed from dissolved ocean salts that crystallize into pure carbon layers"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A geologist is analyzing a rock formation containing crude oil and natural gas. What was the most likely biological origin of these resources millions of years ago?",
+      "options": [
+        "Prehistoric land forests and swamp plants that were buried under thick layers of sand",
+        "Microscopic marine plankton that died and mixed with sediments on the seabed",
+        "Ancient dinosaurs and large marine reptiles buried suddenly by volcanic ash",
+        "Deep-sea hydrothermal vent bacteria that synthesized methane in the absence of sunlight"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "When extracting oil and natural gas from the ground, engineers do not find massive underground liquid lakes. Instead, where are these hydrocarbons stored?",
+      "options": [
+        "Within the solid crystalline lattice of igneous quartz crystals",
+        "Inside the tiny pores of sedimentary rock formations",
+        "Inside large, hollow caves formed by dissolved limestone",
+        "Trapped within layers of impermeable metamorphic slate"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "During the millions of years required to form fossil fuels, what chemical change happens to the organic matter of prehistoric organisms as they decompose under heat and pressure?",
+      "options": [
+        "It is completely oxidized into carbon dioxide and water vapor",
+        "It decomposes into complex hydrocarbon molecules",
+        "It is converted into silicon dioxide and metallic minerals",
+        "It breaks down into pure nitrogen and oxygen gases"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which sequence of processes correctly describes how loose sand grains on a beach eventually become a solid sedimentary sandstone rock over geological time?",
+      "options": [
+        "Melting by volcanic heat, followed by rapid cooling and crystallization",
+        "Burial, intense compaction, and cementation by minerals precipitating from fluids",
+        "Dissolution in rainwater followed by evaporation into a solid crystalline mass",
+        "Biological decay of organic matter which binds the sand grains together into a hard shell"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A geologist finds a vertical cliff face with multiple distinct horizontal layers of sedimentary rock. How can these strata be used to understand the Earth's history?",
+      "options": [
+        "The topmost layer is always the oldest, indicating the original atmospheric conditions",
+        "They provide a relative timeline of deposition and clues about the ancient environments",
+        "The thickness of each layer directly reveals the exact number of years it took to form",
+        "They show how volcanic activity has folded the crust to expose the Earth's mantle"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How does the fossilization of an animal's bone typically occur over thousands of years within sedimentary rock?",
+      "options": [
+        "The original bone material is preserved perfectly without any chemical or physical changes",
+        "Water slowly dissolves the bone and replaces it piece-by-piece with dissolved minerals",
+        "Heat from the Earth's core melts the bone, which recrystallizes into igneous rock",
+        "Acidic fluids dissolve the surrounding rock, leaving a hollow cavity that fills with organic marrow"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "If you dry out a sample of Earth's atmosphere and remove all trace gases, which of the following best describes the remaining mixture?",
+      "options": [
+        "It consists of roughly equal parts of nitrogen, oxygen, and carbon dioxide",
+        "It is composed of approximately 78% nitrogen and 21% oxygen",
+        "It is mostly carbon dioxide with a small amount of oxygen",
+        "It is entirely nitrogen, as all oxygen is bound to carbon"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "If the Earth's atmosphere suddenly lost all of its greenhouse gases, what would be the primary consequence for life on Earth?",
+      "options": [
+        "The surface temperature would drop too low to support human life",
+        "The atmosphere would escape into space because of a lack of density",
+        "Plant photosynthesis would increase rapidly due to increased direct sunlight",
+        "The oceans would boil away because of unfiltered solar radiation"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "To identify an unknown gas produced in a thermal decomposition reaction, a student bubbles it through limewater and observes a white precipitate. What does this test confirm?",
+      "options": [
+        "The gas is oxygen, which oxidizes the calcium ions in the limewater",
+        "The gas is hydrogen, which reduces the water molecules",
+        "The gas is carbon dioxide, which reacts to form an insoluble precipitate",
+        "The gas is nitrogen, which displaces the dissolved oxygen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which of the following scenarios is an example of weathering rather than erosion?",
+      "options": [
+        "A fast-flowing river carving out a deep canyon by carrying sediment downstream",
+        "Strong desert winds blowing fine sand particles away from a dune",
+        "Acid rain slowly reacting with and weakening a limestone statue where it stands",
+        "A glacier dragging boulders across a valley floor, scraping the bedrock"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What is the key distinction between the geological processes of weathering and erosion?",
+      "options": [
+        "Weathering breaks down rocks in place, while erosion moves the broken material away",
+        "Weathering only occurs at night, whereas erosion occurs only during daylight hours",
+        "Weathering is caused only by living things, while erosion is caused only by water",
+        "Weathering builds new rock structures, while erosion breaks them down"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "How does the combustion of fossil fuels affect the global carbon cycle?",
+      "options": [
+        "It converts atmospheric carbon dioxide into solid carbon soot, reducing greenhouse gases",
+        "It increases the amount of carbon dioxide in the atmosphere by releasing stored carbon",
+        "It has no net effect because the carbon was already active in the modern carbon cycle",
+        "It decreases atmospheric carbon dioxide by forcing it to dissolve into groundwater"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Which biological process actively reduces the concentration of carbon dioxide in the atmosphere?",
+      "options": [
+        "Aerobic respiration by soil bacteria",
+        "Decomposition of fallen leaves in a forest",
+        "Photosynthesis by marine phytoplankton and land plants",
+        "Combustion of biomass during forest fires"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "How do the Earth's oceans interact with atmospheric carbon dioxide?",
+      "options": [
+        "They act as a barrier that prevents carbon dioxide from escaping into space",
+        "They can dissolve carbon dioxide, acting as a sink that removes it from the atmosphere",
+        "They chemically convert all carbon dioxide into gaseous oxygen through wave action",
+        "They absorb only nitrogen and oxygen, forcing carbon dioxide to remain in the air"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "Under what conditions are sediments most likely to be deposited to form new sedimentary layers?",
+      "options": [
+        "When a fast-flowing mountain river accelerates down a steep slope",
+        "When strong wind gusts speed up as they pass over a mountain ridge",
+        "When a river slows down as it enters a lake, or when a glacier melts",
+        "When magma cools rapidly upon erupting from an active volcano"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why are fossils found almost exclusively in sedimentary rocks rather than in igneous or metamorphic rocks?",
+      "options": [
+        "Only sedimentary environments have water, which is required to preserve organic tissue",
+        "The extreme heat and pressure that form igneous and metamorphic rocks would destroy organic remains",
+        "Organisms only live in areas where sedimentary rocks are actively being created",
+        "Sedimentary rocks are the only rocks that contain minerals required for fossilization"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
     }
   ]
 }
