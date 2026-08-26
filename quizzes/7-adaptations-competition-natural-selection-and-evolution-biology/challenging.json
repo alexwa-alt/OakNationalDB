@@ -1,6 +1,6 @@
 {
   "unitKey": "7Adaptations, competition, natural selection and evolutionBiology",
-  "generatedAt": "2026-08-25T09:06:18.766884+00:00",
+  "generatedAt": "2026-08-26T09:08:21.280986+00:00",
   "questions": [
     {
       "question": "In a classroom activity, students pick up green and white cocktail sticks scattered across a lawn of green grass in 30 seconds. Which of the following best explains what this model demonstrates?",
@@ -661,6 +661,226 @@
       ],
       "correctAnswerIndex": 2,
       "learningPointIndex": 32
+    },
+    {
+      "question": "In a simulation of natural selection, students use tweezers to pick up green and white cocktail sticks from a green lawn in a set amount of time. What does this simulation demonstrate about predators and prey?",
+      "options": [
+        "Predators have to learn how to change their color to match their surroundings.",
+        "White sticks are easier to see, representing how camouflaged prey are less likely to be eaten.",
+        "Green sticks will eventually mutate into white sticks to avoid being eaten.",
+        "Both green and white sticks have an equal chance of survival because predators hunt by smell."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Using the green and white cocktail stick model on a green lawn over several generations (where survivors reproduce by adding another stick of their own color), what is the predicted change in the population?",
+      "options": [
+        "The proportion of green sticks will increase while the proportion of white sticks will decrease.",
+        "The population will reach an exact 50/50 balance of green and white sticks.",
+        "White sticks will develop green stripes to survive better.",
+        "Both populations will decrease to zero because predators become more efficient."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "If the lawn in the cocktail stick model becomes heavily covered in frost and snow, how would this environmental change affect the prediction of which sticks survive?",
+      "options": [
+        "Green sticks would become easier to see and would be picked up more, causing white sticks to become more common.",
+        "Predators would no longer be able to see any sticks, so both types would survive equally.",
+        "White sticks would try to turn green to blend back into the grass underneath.",
+        "The frosty ground would protect the green sticks from being picked up."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Many desert plants have very deep root systems. What is this specific adaptation and its primary purpose?",
+      "options": [
+        "Thick waxy leaves to store water from the air.",
+        "Deep roots to tap into underground water supplies far below the surface.",
+        "Spines to prevent water loss from the stem during the night.",
+        "Shallow roots to collect overnight dew quickly before it evaporates."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "How does the thick layer of blubber in a seal provide an advantage in its cold marine environment?",
+      "options": [
+        "It increases their surface-area-to-volume ratio so they can absorb heat from the sun.",
+        "It helps them sink faster to the ocean floor to escape predators.",
+        "It provides insulation to reduce heat loss, keeping their internal temperature stable in freezing water.",
+        "It stores oxygen so they can remain underwater for several days without breathing."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why does competition occur between individuals of the same species in a forest?",
+      "options": [
+        "Because they want to share resources to ensure the entire species survives.",
+        "Because resources like space and nutrients are limited, and not every individual can get enough.",
+        "Because individuals are programmed to fight to keep their population from growing too large.",
+        "Because different species always cooperate, leaving only members of the same species to compete."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Plants in a dense woodland often grow very tall and have broad leaves. Which limited resource are they primarily competing for?",
+      "options": [
+        "Pollinators",
+        "Oxygen",
+        "Light",
+        "Seed dispersers"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "In a dry season, some individual giraffes have slightly longer necks than others of the same species. How does this variation affect their ability to compete?",
+      "options": [
+        "The longer-necked giraffes can reach food higher up that others cannot, making them more competitive.",
+        "The shorter-necked giraffes can run faster, allowing them to find water holes first.",
+        "All giraffes are equally successful because they share the available leaves at all heights.",
+        "The longer-necked giraffes will share their food with the shorter-necked giraffes to preserve the herd."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How does natural selection lead to the evolution of a species over many generations?",
+      "options": [
+        "Individuals change their own features when needed, and then pass these newly acquired features to their offspring.",
+        "Organisms with advantageous characteristics are more likely to survive and reproduce, making those traits more common over time.",
+        "The environment forces organisms to mutate in a specific, helpful direction to survive.",
+        "A species decides to change its characteristics to avoid competing with other species."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "In science, what is the best definition of a scientific theory, such as the theory of evolution by natural selection?",
+      "options": [
+        "A temporary guess made by a scientist before any experiments are carried out.",
+        "An idea that has been proven absolutely true and can never be questioned or modified.",
+        "A general explanation developed from a large body of evidence that explains many different observations.",
+        "An opinion held by the majority of the public about how a natural process works."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following statements best describes how new advantageous features arise in a population?",
+      "options": [
+        "They are planned in advance by the species to prepare for future climate changes.",
+        "They appear randomly due to genetic changes, and are then preserved because they help the organism survive.",
+        "They are created by the environment directly modifying the DNA of organisms to help them.",
+        "They only appear when a species is in danger of immediate extinction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "An individual dog loses a leg in an accident but learns to run very quickly on three legs. Why is this change not considered evolution?",
+      "options": [
+        "Because evolution only occurs in plants, not in mammals.",
+        "Because the change occurred during its lifetime and does not alter its genetic code to be passed to offspring.",
+        "Because running on three legs is not an advantage for survival.",
+        "Because evolution only happens when the entire population changes at the exact same second."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which of the following would be correctly classified as a fossil under scientific definitions?",
+      "options": [
+        "A preserved modern leaf that fell from a tree last autumn.",
+        "The mineralised remains of a dinosaur bone or a preserved footprint left in hardened mud.",
+        "A piece of plastic trash that has been buried in sand for ten years.",
+        "An injured animal that has been stuffed and preserved by a taxidermist."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What is a major limitation when scientists try to draw conclusions about ancient life solely from fossil evidence?",
+      "options": [
+        "Fossils cannot be found in sedimentary rocks, which are the most common rocks on Earth.",
+        "Soft-bodied organisms rarely form fossils, meaning the fossil record is incomplete and biased towards hard parts.",
+        "Fossils only show the behavior of animals, never their physical shapes or structures.",
+        "No fossils have ever been found that are older than one million years."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Which of the following is an example of variation caused entirely by the environment or lifestyle rather than genetics?",
+      "options": [
+        "Having blue eyes.",
+        "Developing large muscles through regular weightlifting.",
+        "Having naturally curly hair.",
+        "The biological sex of a mammal."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A person trains hard and becomes a champion runner, developing a very efficient cardiovascular system. Why will their future children not be born with this same level of athletic training?",
+      "options": [
+        "Because athletic ability is a dominant genetic trait that skips a generation.",
+        "Because environmental variations and acquired lifestyle traits are not heritable.",
+        "Because the children's body cells will actively reject any traits gained from exercise.",
+        "Because training only affects the reproductive cells and not the rest of the body."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Why can genetic variation, such as a bird having a sharper beak shape, be passed down through generations?",
+      "options": [
+        "Because it is caused by genetic information which is copied and inherited by offspring.",
+        "Because the parents teach the offspring how to sharpen their beaks on rocks.",
+        "Because the food the bird eats directly rewrites its beak genes every day.",
+        "Because all physical traits are passed on regardless of whether they are genetic or environmental."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "According to the theory of natural selection, what makes an individual organism fit in its environment, and what is the consequence?",
+      "options": [
+        "Being the strongest and most aggressive, which allows it to live forever.",
+        "Having features well-suited to the environment, making it more likely to survive, reproduce, and pass on its genes.",
+        "Being able to change its genetic code at will to match any sudden environmental changes.",
+        "Having the largest number of mutations, regardless of whether they are helpful or harmful."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "How might human-induced air pollution that darkens tree trunks with soot affect the natural selection of a moth species with both light and dark varieties?",
+      "options": [
+        "The light moths will instantly mutate to become dark to save themselves.",
+        "Dark moths will become better camouflaged, survive longer, and become more common in the population.",
+        "The moths will stop reproducing until the trees become clean again.",
+        "Both varieties will die out immediately because moths cannot survive on dark trees."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Based on scientific evidence of Earth's history, which of the following lists the appearance of organisms in the correct chronological order, from oldest to most recent?",
+      "options": [
+        "Land plants (500mya), Mammals (200mya), Modern humans (350kya)",
+        "Modern humans (350kya), Mammals (200mya), Land plants (500mya)",
+        "Mammals (200mya), Land plants (500mya), Modern humans (350kya)",
+        "Land plants (500mya), Modern humans (350kya), Mammals (200mya)"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 35
     }
   ]
 }

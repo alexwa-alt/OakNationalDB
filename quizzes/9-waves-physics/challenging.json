@@ -1,6 +1,6 @@
 {
   "unitKey": "9WavesPhysics",
-  "generatedAt": "2026-08-12T06:19:32.490683+00:00",
+  "generatedAt": "2026-08-26T09:10:05.097722+00:00",
   "questions": [
     {
       "question": "When a sound wave reaches the human ear, which sequence of structures is set into vibration first, second, and third?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 23
+    },
+    {
+      "question": "Which parts of the human ear are directly set into vibration by the arrival of a sound wave?",
+      "options": [
+        "Only the eardrum, which sends air currents to the brain.",
+        "The eardrum, the tiny bones within the ear, and the cochlea.",
+        "Only the tiny bones, which then push directly against the auditory nerve.",
+        "The eardrum and cochlea, while the tiny bones remain completely still to provide support."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How are vibrations converted into electrical signals that can travel to the brain?",
+      "options": [
+        "Specialised cells in the cochlea sense vibrations and cause electrical signals to be sent along a nerve.",
+        "The eardrum acts as a battery, generating current when it is pushed back and forth.",
+        "Tiny bones in the ear rub together to create static electricity which travels down the bone.",
+        "Air particles carrying the electrical charge flow directly from the cochlea to the brain."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "At what point does a person actually experience the sensation of hearing a sound?",
+      "options": [
+        "As soon as the sound wave causes the eardrum to begin vibrating.",
+        "When the specialised cells in the cochlea are bent by the vibration.",
+        "When the brain receives signals from the ear through a nerve.",
+        "When the sound wave physically exits the ear after passing through the bones."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A sound wave generator produces four different frequencies: 15 Hz, 1 kHz, 3 kHz, and 25 kHz. Which of these frequencies can a healthy human ear detect, and which is it most sensitive to?",
+      "options": [
+        "It can detect 15 Hz and 25 kHz, being most sensitive to 15 Hz.",
+        "It can detect 1 kHz and 3 kHz, being most sensitive to 3 kHz.",
+        "It can detect all four frequencies, being equally sensitive to all of them.",
+        "It can detect only 3 kHz, which is the only frequency humans can hear."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Two sound waves are produced in a laboratory: Wave A has a frequency of 12 Hz, and Wave B has a frequency of 30,000 Hz. What are these waves called, and can they be heard by a human?",
+      "options": [
+        "Wave A is ultrasound and Wave B is infrasound; neither can be heard by humans.",
+        "Wave A is infrasound and Wave B is ultrasound; both can be easily heard by humans.",
+        "Wave A is infrasound and Wave B is ultrasound; neither is detected by human ears.",
+        "Wave A is ultrasound and Wave B is infrasound; Wave A can be heard but Wave B cannot."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "As a sound wave travels through a room from a speaker to a listener, what happens to an individual air particle in the middle of the room?",
+      "options": [
+        "It travels all the way from the speaker to the listener's ear at high speed.",
+        "It vibrates parallel to the direction of wave travel, rather than travelling forwards.",
+        "It moves up and down at right angles to the direction of the wave's travel.",
+        "It remains completely motionless, acting as a solid barrier for the wave to bounce off."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why is sound classified as a longitudinal wave?",
+      "options": [
+        "Because the direction of vibration is parallel to the direction of energy transfer.",
+        "Because the particles of the medium vibrate at 90 degrees to the direction of energy transfer.",
+        "Because it can only travel long distances through solid materials.",
+        "Because the wave travels in a straight line without transferring any energy."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why does sound travel faster through liquids and solids than it does through gases?",
+      "options": [
+        "The particles in liquids and solids are very close, so vibrations are easily passed on.",
+        "The particles in liquids and solids are much larger, which allows them to carry more energy.",
+        "Liquids and solids are colder than gases, and cold temperatures speed up sound waves.",
+        "The particles in liquids and solids do not vibrate, which allows the wave to pass through without resistance."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Sound waves travel faster in solids than in liquids. What is the physical explanation for this difference?",
+      "options": [
+        "Solids are denser than liquids, meaning their particles have more space to move around freely.",
+        "The strong forces between particles in solids mean that vibrations travel even faster.",
+        "Liquid particles absorb all sound vibrations and convert them into heat energy instantly.",
+        "Solids have no particles, so the sound wave does not experience any collisions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A sound wave is timed as it travels through three different media: air, water, and iron. Which of the following lists the approximate speed in air and the correct order of speeds from slowest to fastest?",
+      "options": [
+        "About 340 m/s in air; order of speed is iron, water, air.",
+        "About 340 m/s in air; order of speed is air, water, iron.",
+        "About 1500 m/s in air; order of speed is air, iron, water.",
+        "About 340 m/s in air; order of speed is water, iron, air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A person stands a distance away from a tall, hard stone wall and shouts. A moment later, they hear their own voice again. What wave phenomenon has occurred?",
+      "options": [
+        "The sound wave has been absorbed by the wall and re-emitted at a lower pitch.",
+        "The sound wave has reflected from the hard surface, travelled back, and been heard as an echo.",
+        "The sound wave has refracted and bent around the wall to reach the other side.",
+        "The sound wave has increased its frequency upon colliding with the hard surface."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A researcher measures that a sound wave pulse takes 4.0 seconds to travel a distance of 1360 metres through the air. What is the calculated speed of this sound wave?",
+      "options": [
+        "5440 m/s",
+        "340 m/s",
+        "0.0029 m/s",
+        "680 m/s"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In an experiment to measure the speed of sound in air, why is it better to measure the time taken for sound to travel a longer distance?",
+      "options": [
+        "A longer distance allows the sound wave to speed up and travel at its maximum velocity.",
+        "Measuring longer distances and times means any errors are a smaller proportion of the measurements.",
+        "Sound waves lose their frequency over short distances, making them impossible to detect.",
+        "Human reaction times are perfectly eliminated only when the distance is extremely large."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following describes a sound wave that is classified as ultrasound?",
+      "options": [
+        "A wave with a frequency of 15 Hz, which is too low for human ears to detect.",
+        "A wave with a frequency of 25,000 Hz, which is too high for human ears to detect.",
+        "A wave that travels faster than 340 m/s in air and can be heard by all animals.",
+        "A wave with a very large amplitude that causes physical pain when heard by humans."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which statement correctly describes the safety and physical effect of ultrasound waves on the human body?",
+      "options": [
+        "They can cause objects to vibrate, transferring energy, but they do not cause harm to the human body.",
+        "They destroy healthy cells instantly by causing violent chemical explosions.",
+        "They carry dangerous ionizing radiation that alters human DNA.",
+        "They pass through the body without transferring any energy or causing any vibrations."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How does ultrasound technology produce an image of structures inside the human body?",
+      "options": [
+        "The ultrasound waves are absorbed completely by the bones, leaving a shadow on a photographic plate.",
+        "The waves reflect from the boundaries between different tissues, and these reflections are detected.",
+        "The waves cause the tissues to emit light, which is captured by an optical camera.",
+        "The waves speed up in bone and slow down in muscle, creating a magnetic field that is mapped."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following are two practical, non-imaging applications of ultrasound vibrations?",
+      "options": [
+        "Generating electricity in power stations and boiling water for cooking.",
+        "Cleaning delicate objects and helping to treat injuries and illnesses in physiotherapy.",
+        "Sterilising medical instruments with heat and lighting dark rooms.",
+        "Transmitting radio broadcasts over long distances and measuring atmospheric pressure."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "If you watch a small cork floating on water as a wave passes by, how does the water itself move?",
+      "options": [
+        "The water travels forward along with the wave crest towards the shore.",
+        "Each bit of water is moving up and down (oscillating), not forward.",
+        "The water sinks to the bottom and stays there until the wave has completely passed.",
+        "The water spins in a rapid circle on the surface without any vertical movement."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "A water wave is classified as a transverse wave. What does this mean about its motion?",
+      "options": [
+        "The direction of oscillation of the water is parallel to the direction of energy transfer.",
+        "The direction of oscillation is 90° to the direction of energy transfer.",
+        "The wave travels only in one single direction and cannot be reflected.",
+        "The wave transfers matter instead of transferring energy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "How is the amplitude of a water wave defined?",
+      "options": [
+        "The total distance from the bottom of a trough to the top of a crest.",
+        "The greatest distance water moves above and below the rest position.",
+        "The distance between two consecutive crests of the wave.",
+        "The number of waves that pass a fixed point every second."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "unitKey": "8Carbon cycle and climate changeChemistry",
-  "generatedAt": "2026-08-25T09:06:47.636458+00:00",
+  "generatedAt": "2026-08-26T09:09:25.659993+00:00",
   "questions": [
     {
       "question": "A chemical analyst is modeling the molecular structure of a greenhouse gas. They represent the molecule with three spheres: a central black sphere bonded to two red spheres on either side. What chemical formula and composition does this model represent?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 15
+    },
+    {
+      "question": "A student burns a sample of a fuel containing carbon in a closed container with excess oxygen. What is the main carbon-containing gas produced by this reaction, and why?",
+      "options": [
+        "Carbon monoxide, because carbon is fully reduced.",
+        "Carbon dioxide, because carbon is oxidized when carbon-containing fuels burn.",
+        "Carbonic acid, because the carbon reacts with water vapor.",
+        "Methane, because carbon combines with hydrogen in the air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If you analyze a single molecule of carbon dioxide, what is its exact chemical structure and ratio of elements?",
+      "options": [
+        "Two carbon atoms chemically bonded to one oxygen atom.",
+        "One carbon atom chemically bonded to one oxygen atom.",
+        "One carbon atom chemically bonded to two oxygen atoms.",
+        "Two carbon atoms chemically bonded to two oxygen atoms."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A scientist states that carbon dioxide is a trace gas in Earth's atmosphere. What is the approximate percentage of carbon dioxide currently present in our atmosphere?",
+      "options": [
+        "4.0%",
+        "0.4%",
+        "0.04%",
+        "0.004%"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following best describes the role of carbon dioxide as a greenhouse gas in the atmosphere?",
+      "options": [
+        "It absorbs and traps infrared radiation emitted from the Earth's surface.",
+        "It reflects incoming solar ultraviolet radiation back into space.",
+        "It reacts with ozone to release thermal energy into the troposphere.",
+        "It condenses to form clouds that block heat from leaving the atmosphere."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "If human activities continue to release large amounts of greenhouse gases, what is the direct consequence on the global climate system?",
+      "options": [
+        "A decrease in average global temperature due to increased cloud cover blocking the Sun.",
+        "An increase in average global temperature, leading to global warming.",
+        "A sudden depletion of oxygen levels in the upper atmosphere.",
+        "The complete solidification of the polar ice caps due to altered pressure."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A geologist analyzes a sample of coal. Why does this sedimentary rock burn so easily compared to other rock types?",
+      "options": [
+        "It is composed entirely of solidified petroleum hydrocarbons.",
+        "It is made mostly of carbon, along with some impurities.",
+        "It contains high amounts of trapped oxygen gas inside its crystalline structure.",
+        "It is primarily composed of calcium carbonate from ancient shells."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following environments is most likely to have provided the conditions necessary for the formation of coal millions of years ago?",
+      "options": [
+        "Deep ocean trenches where marine plankton accumulated.",
+        "Hot volcanic vents with high concentrations of sulfur.",
+        "Shallow swamps containing deep sediments of organic matter from prehistoric plants.",
+        "Dry desert sand dunes with high wind deposition."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How does the origin of crude oil and natural gas differ from the origin of coal?",
+      "options": [
+        "Oil and gas formed from dead prehistoric land plants, whereas coal formed from marine plankton.",
+        "Oil and gas formed from dead plankton mixed with sediments, whereas coal formed from prehistoric plants.",
+        "Oil and gas formed from volcanic ash, whereas coal formed from deep sediments of animal bones.",
+        "Oil and gas formed from weathered sedimentary rock, whereas coal formed from cooled magma."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Where would a drilling company expect to locate deposits of oil and natural gas within the Earth's crust?",
+      "options": [
+        "Inside large, hollow underground caves in limestone.",
+        "Dissolved within the crystalline structure of igneous rocks like granite.",
+        "Trapped within the pores of sedimentary rock.",
+        "Frozen inside the deepest layers of metamorphic rock."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "During the millions of years of heat and pressure underground, what chemical transformation did the organic matter that formed fossil fuels undergo?",
+      "options": [
+        "It decomposed into simple hydrocarbons.",
+        "It turned entirely into pure oxygen and nitrogen gases.",
+        "It crystallized into diamond and silica structures.",
+        "It evaporated into water vapor and carbon monoxide."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which sequence of processes correctly describes how sedimentary rock is formed from loose sediments?",
+      "options": [
+        "Sediments melt under intense heat and then crystallize into solid rock.",
+        "Sediments are buried and compressed, and salts from fluids cement the grains together.",
+        "Sediments react with atmospheric oxygen to form a hard, oxidized crust.",
+        "Sediments are dissolved by rainwater and then cool slowly at the surface."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A paleontologist is searching for dinosaur fossils. In which type of rock is she likely to find them, and why?",
+      "options": [
+        "Igneous rock, because the heat preserves the hard bones.",
+        "Metamorphic rock, because high pressure crystallizes the fossil structures.",
+        "Sedimentary rock, because fossils are found here but not in other rock types.",
+        "Any rock type, as long as the animal died millions of years ago."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How does a bone buried in sedimentary rock eventually turn into a rock-like fossil over millions of years?",
+      "options": [
+        "The bone is heated until it melts and mixes with the surrounding sedimentary grains.",
+        "The bone is very slowly dissolved by water and replaced by minerals in the water.",
+        "The bone is compressed so tightly that its calcium atoms turn into carbon atoms.",
+        "The bone reacts with oxygen in the soil to turn into a hard metal."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is the composition of Earth's atmosphere by volume under normal, dry conditions?",
+      "options": [
+        "50% nitrogen, 50% oxygen, with traces of other gases.",
+        "78% carbon dioxide, 21% oxygen, with traces of nitrogen.",
+        "78% nitrogen, 21% oxygen, with very small amounts of other gases and particles.",
+        "99% oxygen, with minor amounts of nitrogen and carbon dioxide."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What would be the most immediate consequence for Earth if all greenhouse gases were completely removed from the atmosphere?",
+      "options": [
+        "Earth's temperature would drop significantly, making it too cold for human life.",
+        "Earth's temperature would rise rapidly because more solar radiation would reach the surface.",
+        "The oceans would boil due to the loss of atmospheric pressure.",
+        "The atmosphere would become highly flammable due to the excess oxygen."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A student collects a gas from a reaction and wants to test if it is carbon dioxide. What observation would confirm this?",
+      "options": [
+        "The gas relights a glowing splint.",
+        "The gas burns with a squeaky pop when exposed to a flame.",
+        "The gas forms a white precipitate that turns limewater milky.",
+        "The gas turns damp blue litmus paper red and then bleaches it."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which of the following scenarios is an example of weathering rather than erosion?",
+      "options": [
+        "A river carrying small pebbles downstream to a lake.",
+        "Acid rain slowly dissolving the minerals of a limestone cliff while it remains in place.",
+        "Wind blowing loose sand across a desert dune.",
+        "A glacier scraping rocks along a valley floor as it moves."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How does erosion differ from weathering?",
+      "options": [
+        "Erosion only happens to sedimentary rocks, whereas weathering happens to all rocks.",
+        "Erosion breaks down the rocks in place, whereas weathering moves them away.",
+        "Erosion is the process that removes material from where bedrock has been broken down, whereas weathering is the breakdown in place.",
+        "Erosion is caused only by living organisms, whereas weathering is caused only by wind and water."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "In the carbon cycle, how does the decomposition of dead plants and animals affect the atmosphere?",
+      "options": [
+        "It decreases the amount of carbon dioxide because decomposers absorb carbon dioxide.",
+        "It has no effect because carbon is trapped permanently in the soil.",
+        "It increases the amount of carbon dioxide in the atmosphere.",
+        "It increases the amount of oxygen in the atmosphere as decomposers release it."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Which of the following groups of organisms contributes to reducing the amount of carbon dioxide in the atmosphere?",
+      "options": [
+        "Animals, fungi, and non-photosynthetic bacteria during respiration.",
+        "Plants, phytoplankton, and some bacteria during photosynthesis.",
+        "Decomposers during the breakdown of organic waste.",
+        "Marine organisms when they dissolve their shells in acidic seawater."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
     }
   ]
 }

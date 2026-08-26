@@ -1,0 +1,226 @@
+{
+  "unitKey": "10Disease and drugsBiology",
+  "generatedAt": "2026-08-26T09:10:20.195290+00:00",
+  "questions": [
+    {
+      "question": "Which of the following statements is true about asthma?",
+      "options": [
+        "It is an infectious disease that spreads through coughing.",
+        "It is a non-infectious disease that can cause breathing difficulties.",
+        "It is caused by a bacterial pathogen in the lungs.",
+        "It is a genetic disease that only affects adults."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What physical change occurs in the lungs during an asthma attack?",
+      "options": [
+        "The air sacs (alveoli) fill up with blood.",
+        "The breathing (bronchial) tubes narrow.",
+        "The diaphragm stops moving up and down.",
+        "The ribs fuse together temporarily."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of these are common symptoms of an asthma attack?",
+      "options": [
+        "Wheezing and shortness of breath",
+        "High fever and skin rashes",
+        "Uncontrollable sneezing and watery eyes",
+        "Sharp chest pain and shivering."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How is the medication for treating asthma symptoms typically delivered to the patient?",
+      "options": [
+        "Through a liquid medicine swallowed with water",
+        "Through an injection in the arm",
+        "Through a device called an inhaler",
+        "Through a medicated skin patch"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which of the following is considered a risk factor for developing asthma?",
+      "options": [
+        "Eating too much sugar",
+        "Having a low birth weight",
+        "Experiencing loud noises",
+        "Lack of physical exercise"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is a defining characteristic of infectious diseases?",
+      "options": [
+        "They are always inherited from parents.",
+        "They can be passed from one organism to another.",
+        "They are only caused by lifestyle choices.",
+        "They cannot be treated with any medicine."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What type of organisms or agents are directly responsible for causing infectious diseases?",
+      "options": [
+        "Unbalanced nutrients and minerals",
+        "Chemicals from cigarette smoke",
+        "Pathogens such as viruses and some bacteria",
+        "Genetic mutations in body cells"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why can you not catch a non-infectious disease like heart disease from another person?",
+      "options": [
+        "Non-infectious diseases cannot be passed from one organism to another.",
+        "Non-infectious diseases are only active during the night.",
+        "Non-infectious diseases are killed by the immune system instantly.",
+        "Non-infectious diseases only affect plants."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How do eating an unbalanced diet and not getting enough exercise affect health?",
+      "options": [
+        "They cause immediate bacterial infections.",
+        "They increase the risk of developing lifestyle diseases.",
+        "They prevent the transmission of genetic diseases.",
+        "They directly cure asthma symptoms."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which set of activities is known to increase the risk of developing lifestyle diseases?",
+      "options": [
+        "Exercising regularly and drinking water",
+        "Getting enough sleep and eating vegetables",
+        "Smoking, drinking alcohol, and using drugs",
+        "Washing hands frequently and avoiding dust"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of the following is a key strategy for preventing lifestyle diseases?",
+      "options": [
+        "Avoiding all vaccinations and medicines",
+        "Exercising, eating a balanced diet, and not smoking",
+        "Spending more time indoors near air conditioners",
+        "Consuming high amounts of caffeine daily"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the main purpose of medicines?",
+      "options": [
+        "They are drugs taken purely for relaxation or fun.",
+        "They are drugs that people take when they are ill.",
+        "They are substances used to increase athletic speed.",
+        "They are chemicals used to clean household surfaces."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Recreational drugs can be classified into which two main groups based on their effects on the body?",
+      "options": [
+        "Soluble and insoluble drugs",
+        "Natural and synthetic drugs",
+        "Depressants and stimulants",
+        "Infectious and non-infectious drugs"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What effect do depressant drugs have on the human body?",
+      "options": [
+        "They speed up heart rate and make you feel energetic.",
+        "They slow down thinking and reaction times.",
+        "They improve memory retention and eyesight.",
+        "They cause instant muscle growth and strength."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "While alcohol is a legal depressant, what are the risks of long-term alcohol use?",
+      "options": [
+        "It can cause damage to the brain and liver.",
+        "It leads to an increase in lung capacity.",
+        "It strengthens the bones and joints.",
+        "It cures infectious bacterial diseases."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is the primary effect of stimulant drugs on a person?",
+      "options": [
+        "They make you feel drowsy and ready to sleep.",
+        "They slow down your reaction times.",
+        "They make you feel more alert and can give you quicker thinking and reaction times.",
+        "They temporarily block your ability to hear high-pitched sounds."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why is nicotine, found in tobacco leaves, particularly dangerous?",
+      "options": [
+        "It is a highly addictive substance that affects the body.",
+        "It causes immediate destruction of the stomach lining.",
+        "It cannot be detected in the bloodstream.",
+        "It prevents the absorption of water in the large intestine."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What is the term used for inhaling common chemicals such as glue or paint thinner to become intoxicated?",
+      "options": [
+        "Solvent abuse",
+        "Nicotine vaping",
+        "Alcoholic fermentation",
+        "Caffeine stimulation"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Which of the following is a serious risk associated with solvent abuse?",
+      "options": [
+        "Immediate improvement in lung function",
+        "Long-term health problems and even death",
+        "Immunity to viral infections",
+        "Permanent increase in reaction speed"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Why is vaping considered detrimental to health, similar to smoking cigarettes?",
+      "options": [
+        "It involves consuming carbon dioxide.",
+        "It involves consuming nicotine, which is harmful.",
+        "It completely stops the heart within minutes.",
+        "It causes immediate infectious bacterial diseases."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    }
+  ]
+}
