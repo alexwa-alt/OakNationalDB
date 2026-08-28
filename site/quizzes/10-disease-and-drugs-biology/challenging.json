@@ -1,6 +1,6 @@
 {
   "unitKey": "10Disease and drugsBiology",
-  "generatedAt": "2026-08-12T06:19:43.323911+00:00",
+  "generatedAt": "2026-08-28T20:17:37.945284+00:00",
   "questions": [
     {
       "question": "A patient experiencing an asthma attack finds it much harder to move air into and out of their lungs. Which of the following physical changes in the respiratory system directly explains this sudden difficulty?",
@@ -218,6 +218,226 @@
         "As new, rigorous evidence from long-term health studies emerged, scientists updated their understanding of smoking's harmful effects.",
         "The chemical composition of tobacco plants naturally mutated over time to become toxic to humans.",
         "Early scientists were not allowed to perform experiments, so they had to guess the health effects of smoking."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "During an asthma attack, a patient struggles to breathe. What physical change is occurring within their respiratory system to cause this immediate difficulty?",
+      "options": [
+        "The diaphragm muscle becomes paralyzed and cannot contract to pull air in.",
+        "The bronchial tubes narrow due to muscle contraction and inflammation.",
+        "The alveoli lose their elasticity and permanently collapse, reducing the surface area.",
+        "The trachea becomes completely blocked by hard calcified deposits."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Four children are being monitored by a pediatrician. Based on known risk factors, which child has the highest risk of developing asthma?",
+      "options": [
+        "Child A: Born at a normal weight, lives in a rural area with low pollution, has no family history of asthma.",
+        "Child C: Born at a normal weight, has a balanced diet, exercises daily, but has a cousin with asthma.",
+        "Child B: Born with low birth weight, lives in a highly polluted city, and has a mother who smoked during pregnancy.",
+        "Child D: Born with high birth weight, lives in an area with clean air, but has a mild allergy to strawberries."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A doctor is treating two patients. Patient X has tuberculosis (caused by a bacterium) and Patient Y has cardiovascular disease (linked to diet and inactivity). How do the causes of these diseases compare?",
+      "options": [
+        "Patient X's disease is caused by a cellular pathogen, whereas Patient Y's disease is non-infectious and arises from physiological changes due to lifestyle.",
+        "Both are caused by living cellular pathogens that reproduce inside the host's body.",
+        "Patient X's disease is caused by an environmental toxin, while Patient Y's disease is caused by a non-living virus.",
+        "Both diseases are infectious because they can be passed from person to person through close physical contact."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A student with asthma accidentally shares a water bottle with a classmate. The classmate is worried they might 'catch' asthma. Why is this fear scientifically unfounded?",
+      "options": [
+        "Asthma is only transmissible between close biological relatives through direct contact.",
+        "Asthma is caused by a virus that can only be transmitted through the air, not through shared liquids.",
+        "Sharing water bottles only transmits bacterial diseases, and asthma is caused by a fungal infection.",
+        "Asthma is a non-infectious disease, meaning it is not caused by transmissible pathogens and cannot be passed from person to person."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How does the lifestyle choice of long-term cigarette smoking simultaneously increase the risk of diseases in both the gas exchange system and the circulatory system?",
+      "options": [
+        "It damages the alveoli in the gas exchange system and causes narrowing and hardening of arteries in the circulatory system.",
+        "It increases the volume of the lungs while decreasing the heart rate to dangerously low levels.",
+        "It introduces infectious pathogens that destroy lung tissue and directly block the valves of the heart.",
+        "It liquefies the pleural membranes and decreases the production of red blood cells."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "An individual consistently consumes a diet high in saturated fats and sugar while maintaining a highly sedentary desk job. What is the physiological consequence of this lifestyle on their risk of disease?",
+      "options": [
+        "The body overproduces white blood cells to combat the excess nutrients, leading to infectious immune responses.",
+        "The lungs must work twice as hard to expel unused nutrients, causing chronic swelling of the trachea.",
+        "The lack of physical exertion and excess energy intake can lead to fat deposition in blood vessels, increasing the risk of cardiovascular disease.",
+        "The digestive system stops absorbing minerals, resulting in immediate infectious bacterial growth in the blood."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A patient with a family history of heart disease wants to take proactive steps to minimize their risk of developing this lifestyle-related condition. Which set of daily habits would be most effective?",
+      "options": [
+        "Replacing all solid foods with fruit juices, avoiding exercise to prevent heart strain, and drinking moderate spirits.",
+        "Engaging in regular aerobic exercise, eating a balanced diet low in saturated fats, and avoiding smoking and alcohol.",
+        "Eating a high-calorie diet to boost metabolism, sleeping 12 hours a day, and taking preventative antibiotics.",
+        "Smoking low-tar cigarettes instead of regular ones and relying solely on vitamin supplements without changing physical activity levels."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A scientist is studying two unnamed recreational drugs. Drug A increases heart rate and makes the user feel hyper-alert. Drug B slows down the transmission of nerve impulses, leading to delayed reactions. How should these drugs be classified?",
+      "options": [
+        "Both Drug A and Drug B are stimulants because they are used recreationally.",
+        "Drug A is a depressant; Drug B is a stimulant.",
+        "Drug A is an infectious agent; Drug B is a chemical analgesic.",
+        "Drug A is a stimulant; Drug B is a depressant."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Why is it extremely dangerous to operate heavy machinery or drive a vehicle after consuming a depressant drug?",
+      "options": [
+        "Depressants cause the muscles to contract uncontrollably, leading to sudden involuntary movements.",
+        "Depressants drastically accelerate thought processes, causing the brain to overlook physical obstacles.",
+        "Depressants slow down the nervous system, significantly increasing the time it takes to perceive a hazard and apply the brakes.",
+        "Depressants impair peripheral vision by temporarily paralyzing the optic nerve."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Alcohol is a widely available, legal recreational drug. However, what are the well-documented physiological risks associated with long-term, excessive consumption of alcohol?",
+      "options": [
+        "Permanent structural damage to the brain and severe scarring of the liver tissue.",
+        "Accelerated nerve regeneration in the spinal cord and improved memory retention.",
+        "Increased efficiency of the gas exchange system and strengthening of the bronchial walls.",
+        "Sudden conversion of liver cells into muscle tissue, leading to abdominal rigidity."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How do stimulant drugs temporarily alter a person's cognitive and physical performance?",
+      "options": [
+        "They decrease the speed of electrical impulses along motor neurones to prevent muscle fatigue.",
+        "They slow down the heart rate, allowing the brain to rest and think more deeply.",
+        "They increase alertness and can lead to quicker thinking and faster physical reaction times.",
+        "They block all sensory inputs, allowing the person to focus purely on memory retrieval."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following best describes the dual impact of chronic substance abuse on an individual's overall health?",
+      "options": [
+        "It damages physical organs but has absolutely no effect on brain chemistry or mental well-being.",
+        "It causes severe physical damage to organs such as the liver or lungs, and can also lead to mental health issues like anxiety, depression, or addiction.",
+        "It improves physical endurance while causing temporary, minor mental confusion that resolves instantly.",
+        "It causes mental health issues only if the drug is illegal; legal substances have no physical or mental health risks."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Many people who smoke tobacco express a strong desire to quit but find it incredibly difficult to do so. What chemical explanation accounts for this difficulty?",
+      "options": [
+        "Tobacco leaves contain nicotine, a highly addictive chemical that alters brain chemistry and creates a strong dependency.",
+        "Carbon monoxide in tobacco smoke binds irreversibly to muscle cells, causing physical cravings.",
+        "Tar coats the taste buds, making food taste unpleasant unless nicotine is present in the bloodstream.",
+        "The smoke contains specialized bacteria that colonize the brain and demand more tobacco."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A heavy smoker is diagnosed with chronic obstructive pulmonary disease (COPD) and is warned by their doctor about their elevated risk of heart disease. Why are both of these conditions linked to smoking?",
+      "options": [
+        "The smoke blocks the digestive tract, preventing nutrients from reaching the heart and lungs.",
+        "Smoking introduces pathogens that infect the heart valves while inflating the lung volume.",
+        "Inhaling tobacco smoke damages the delicate structures of the gas exchange system and also negatively affects the cardiovascular system.",
+        "Tobacco smoke contains high levels of carbon dioxide which permanently replaces all oxygen in the blood."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A teenager is found inhaling fumes from a container of industrial glue in an attempt to experience altered perception and intoxication. What is this hazardous practice called?",
+      "options": [
+        "Stimulant therapy",
+        "Herbal inhalation",
+        "Solvent abuse",
+        "Therapeutic vaporization"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why is solvent abuse considered an extremely high-risk behavior, even if tried only once?",
+      "options": [
+        "It causes an instant, irreversible bacterial infection in the digestive tract that resists all antibiotics.",
+        "It permanently stops the body's ability to absorb water, leading to rapid dehydration within hours.",
+        "It causes the lungs to expand to twice their normal size, making breathing impossible.",
+        "It can cause immediate fatal heart failure (sudden sniffing death) or lead to permanent, long-term damage to the brain and kidneys."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "During inhalation, how do the muscles of the respiratory system cooperate to bring air into the lungs?",
+      "options": [
+        "The diaphragm relaxes and moves upwards while the rib cage moves downwards, increasing air pressure in the lungs.",
+        "The diaphragm contracts and flattens while the intercostal muscles move the rib cage up and out, increasing lung volume and lowering pressure.",
+        "The lungs actively contract like muscles to squeeze air in from the windpipe.",
+        "The abdominal muscles push upwards on the heart, forcing the lungs to expand sideways."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "How are healthy human lungs structurally adapted to maximize the efficiency of gas exchange?",
+      "options": [
+        "They have millions of tiny alveoli providing a massive surface area, extremely thin walls for short diffusion paths, and a rich capillary blood supply.",
+        "They contain a single, large, thick-walled air sac that keeps gases compressed under high pressure.",
+        "They are lined with thick muscular tissue to actively pump oxygen directly into the main arteries.",
+        "They have a dry, impermeable surface that prevents water vapor from slowing down the movement of gases."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "Many people switch from smoking traditional cigarettes to using e-cigarettes (vaping) believing it is entirely harmless. What shared chemical risk exists in both vaping and smoking?",
+      "options": [
+        "Both deliver tar, which instantly blocks the main bronchi.",
+        "Both produce high levels of carbon monoxide that turn the lungs black.",
+        "Both rely on burning tobacco leaves to release active chemicals.",
+        "Both involve the consumption of nicotine, an addictive and health-detrimental substance."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "Initially, some early reports suggested vaping might carry no long-term health risks. Over time, as more clinical trials and patient data are collected, medical guidelines are being revised. What fundamental scientific principle does this demonstrate?",
+      "options": [
+        "Once a scientific theory is published, it can never be questioned or changed.",
+        "Scientific ideas are constantly updated, refined, or changed as new, reliable evidence emerges.",
+        "Older scientific studies are always completely false and should be ignored.",
+        "Scientific consensus is decided by public votes rather than empirical evidence."
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 38
