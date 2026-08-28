@@ -1,6 +1,6 @@
 {
   "unitKey": "9WavesPhysics",
-  "generatedAt": "2026-08-26T09:10:05.097722+00:00",
+  "generatedAt": "2026-08-28T20:16:13.144691+00:00",
   "questions": [
     {
       "question": "When a sound wave reaches the human ear, which sequence of structures is set into vibration first, second, and third?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 22
+    },
+    {
+      "question": "Which of the following sequences correctly traces the path of vibrations through the physical structures of the human ear when a sound wave enters?",
+      "options": [
+        "Cochlea to eardrum to tiny bones",
+        "Eardrum to tiny bones to cochlea",
+        "Tiny bones to eardrum to cochlea",
+        "Eardrum to cochlea to tiny bones"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How does the ear convert the physical vibrations of the cochlea into signals the brain can interpret?",
+      "options": [
+        "The tiny bones compress air inside the cochlea, which directly sends electrical shocks to the skull.",
+        "Specialised cells in the cochlea detect the vibrations and generate electrical signals sent via a nerve.",
+        "Vibrations in the cochlea are converted into light pulses that travel down the optic nerve.",
+        "The eardrum itself generates electrical impulses that bypass the cochlea and go to the brain."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "At what stage does a person actually experience the conscious sensation of hearing a sound?",
+      "options": [
+        "When the sound wave first collides with the outer flap of the ear.",
+        "When the tiny bones of the middle ear begin their mechanical oscillation.",
+        "When the brain processes electrical signals received from the ear through a nerve.",
+        "When the fluid inside the cochlea begins to ripple."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A sound engineer wants to play a tone that is easiest for the average human ear to detect at low volumes. Which frequency should they choose?",
+      "options": [
+        "15 Hz",
+        "3,000 Hz",
+        "15,000 Hz",
+        "25,000 Hz"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why can a human not hear a sound wave vibrating at 15 Hz or a sound wave vibrating at 25,000 Hz?",
+      "options": [
+        "Both frequencies are too high to cause any vibration in the human eardrum.",
+        "These waves are electromagnetic rather than mechanical, so they cannot travel through air.",
+        "They are both absorbed completely by the outer ear before reaching the eardrum.",
+        "The 15 Hz wave is infrasound and the 25,000 Hz wave is ultrasound, both of which fall outside the human detection range."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When a guitar string is plucked, how does it initiate a sound wave that travels through the room?",
+      "options": [
+        "The vibrating string repeatedly pushes and pulls on nearby air particles, causing them to vibrate.",
+        "The string shoots a stream of high-speed air particles from the guitar to the listener's ear.",
+        "The string heats up the surrounding air, creating convection currents that carry the sound.",
+        "The string creates a vacuum around itself, which draws in distant air particles at high speeds."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "During the transmission of a sound wave through a long air-filled pipe, what is the motion of an individual air particle?",
+      "options": [
+        "It travels continuously from the speaker end of the pipe to the open end of the pipe.",
+        "It vibrates back and forth parallel to the direction of wave travel without moving forward.",
+        "It moves up and down vertically at a right angle to the length of the pipe.",
+        "It spins in a tight circle while gradually drifting back towards the source of the sound."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What defines sound as a longitudinal wave rather than a transverse wave?",
+      "options": [
+        "The wave can travel through a vacuum without needing any particles to vibrate.",
+        "The particles of the medium vibrate at right angles to the direction of energy transfer.",
+        "The speed of the wave increases when it transitions from a solid to a gas.",
+        "The particles of the medium vibrate parallel to the direction of energy transfer."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why does a sound wave travel significantly faster through liquid water than through air?",
+      "options": [
+        "The particles in liquid water are much closer together, allowing vibrations to be passed on more easily.",
+        "Water particles are lighter than air particles, so they can vibrate much faster.",
+        "Water has no friction, allowing the sound energy to slide through without resistance.",
+        "Sound waves in water are transverse, which are inherently faster than longitudinal waves."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "If you compare the speed of sound in a solid steel bar versus a pool of liquid water, what is the result and the reason behind it?",
+      "options": [
+        "It is faster in the water because the liquid particles can slide past each other more freely.",
+        "It is faster in the steel bar because the strong forces between solid particles allow vibrations to travel even faster.",
+        "It is the same in both because both are condensed states of matter with closely packed particles.",
+        "It is faster in the steel bar because solids are warmer than liquids, which speeds up the wave."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "An explosion occurs underwater near a rocky coast. If three sensors are placed in the air, the water, and the solid rock at equal distances from the explosion, which sensor will detect the sound first?",
+      "options": [
+        "The sensor in the air.",
+        "The sensor in the water.",
+        "The sensor in the solid rock.",
+        "All three sensors will detect the sound at exactly the same time."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A climber shouts toward a smooth vertical cliff face and hears their own voice a short time later. What physical phenomenon causes this?",
+      "options": [
+        "Reflection of sound waves off the hard cliff surface back to the climber.",
+        "Refraction of sound waves as they bend around the top of the cliff.",
+        "Absorption of sound waves by the rock, which then vibrates to produce a new sound.",
+        "Superposition of the outgoing wave with wind currents moving towards the climber."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A student stands 680 meters away from a tall wall and claps. If the speed of sound in air is 340 m/s, how much time will pass between the student clapping and hearing the echo?",
+      "options": [
+        "1.0 second",
+        "2.0 seconds",
+        "4.0 seconds",
+        "0.5 seconds"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Two students are designing an experiment to measure the speed of sound in air. Why is it better to measure the time it takes for sound to travel 500 meters rather than 10 meters?",
+      "options": [
+        "The longer distance and time mean that measurement errors represent a smaller proportion of the overall results.",
+        "Sound travels at a faster speed over longer distances, making it easier to detect.",
+        "Air resistance is lower over longer distances, which prevents the sound wave from changing frequency.",
+        "It is impossible for standard stopwatches to register any time interval for a 10-meter distance."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A device emits a sound wave with a frequency of 25,000 Hz. Why can a nearby human not hear this sound?",
+      "options": [
+        "The wave is too quiet because high frequencies do not carry any energy.",
+        "The frequency is above 20,000 Hz, which is ultrasound and outside the human hearing range.",
+        "The human ear can only detect transverse waves, while this wave is longitudinal.",
+        "The wave is infrasound, which is blocked by the bones of the middle ear."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why is ultrasound safe to use for scanning unborn babies, unlike X-rays?",
+      "options": [
+        "Ultrasound waves carry no energy at all, so they cannot interact with body tissues.",
+        "Ultrasound waves are electromagnetic waves that pass through the body without any absorption.",
+        "Ultrasound waves transfer energy by causing safe physical vibrations that do not cause harm to the human body.",
+        "The human body is completely transparent to ultrasound, meaning no waves are reflected back."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How does an medical ultrasound scanner construct an image of an organ deep inside the human body?",
+      "options": [
+        "It detects ultrasound waves that reflect off the boundaries between different tissues.",
+        "It measures the heat generated when the body tissues completely absorb all the ultrasound waves.",
+        "It records the change in chemical composition of the skin when ultrasound passes through it.",
+        "It uses the ultrasound to light up the organs so a tiny internal camera can take a photo."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A toy duck is floating on a pond when a series of water waves passes by. What is the actual movement of the toy duck as the waves travel from left to right?",
+      "options": [
+        "The duck is carried forward across the pond in the direction of the wave's travel.",
+        "The duck moves up and down in its position and does not travel forward.",
+        "The duck sinks to the bottom of the pond and then rises when the wave has passed.",
+        "The duck moves in a continuous straight line at a right angle to the shore."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Why are water waves classified as transverse waves rather than longitudinal waves?",
+      "options": [
+        "The water moves up and down at 90 degrees to the direction of energy transfer.",
+        "The wave requires a physical medium to travel, whereas longitudinal waves do not.",
+        "The particles of water move in the exact same direction as the wave's energy transfer.",
+        "The amplitude of the wave is always greater than its wavelength."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What happens at a point in a lake where the peaks of two different water waves arrive at the exact same moment?",
+      "options": [
+        "The waves bounce off each other and travel backwards in the directions they came from.",
+        "The waves permanently destroy each other, and no waves travel past that point.",
+        "The water at that point freezes momentarily because the kinetic energy drops to zero.",
+        "The waves add up to create a larger wave peak due to wave superposition."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 23
     }
   ]
 }
