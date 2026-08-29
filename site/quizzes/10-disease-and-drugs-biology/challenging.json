@@ -1,6 +1,6 @@
 {
   "unitKey": "10Disease and drugsBiology",
-  "generatedAt": "2026-08-28T20:17:37.945284+00:00",
+  "generatedAt": "2026-08-29T13:53:30.039909+00:00",
   "questions": [
     {
       "question": "A patient experiencing an asthma attack finds it much harder to move air into and out of their lungs. Which of the following physical changes in the respiratory system directly explains this sudden difficulty?",
@@ -440,6 +440,226 @@
         "Scientific consensus is decided by public votes rather than empirical evidence."
       ],
       "correctAnswerIndex": 1,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "During an asthma attack, what physical change happens to the breathing (bronchial) tubes that makes breathing difficult?",
+      "options": [
+        "They dilate and become filled with excess oxygen.",
+        "They narrow, restricting the passage of air.",
+        "They lengthen and lose their connection to the alveoli.",
+        "They permanently dissolve due to severe inflammation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following combinations represents only risk factors that can increase the likelihood of developing asthma?",
+      "options": [
+        "High birth weight, a high-fiber diet, and regular cardiovascular exercise.",
+        "Air pollution, family history of asthma, and having an allergy.",
+        "Bacterial infections, a high-sugar diet, and a lack of physical activity.",
+        "Excess consumption of caffeine, solvent abuse, and low dietary iron."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why can flu (influenza) be passed from person to person, whereas a condition like coronary heart disease cannot?",
+      "options": [
+        "Flu is caused by pathogens like viruses, while coronary heart disease is non-infectious.",
+        "Flu is caused by a lack of exercise, while heart disease is caused by airborne bacteria.",
+        "Flu only affects the digestive system, whereas heart disease affects the respiratory system.",
+        "Flu is a lifestyle disease, whereas heart disease is an inherited genetic mutation."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which statement correctly distinguishes infectious diseases from non-infectious diseases?",
+      "options": [
+        "Infectious diseases can be passed from one organism to another, while non-infectious diseases cannot.",
+        "Infectious diseases are only caused by lifestyle factors, while non-infectious diseases are caused by pathogens.",
+        "Non-infectious diseases can spread through coughing, while infectious diseases are purely genetic.",
+        "Non-infectious diseases always develop instantly, while infectious diseases always take years to show symptoms."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How do an unbalanced diet and a lack of physical exercise affect a person's health over time?",
+      "options": [
+        "They decrease the body's susceptibility to infectious pathogens like viruses.",
+        "They can increase the risk of developing non-infectious lifestyle diseases.",
+        "They directly cause immediate narrowing of the bronchial tubes.",
+        "They guarantee that a person will develop infectious diseases of the lungs."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which set of actions is most effective for preventing the development of lifestyle diseases?",
+      "options": [
+        "Regular exercise, a balanced diet, avoiding smoking, and avoiding alcohol.",
+        "Taking daily prescription medicines, avoiding caffeine, and reducing sleep.",
+        "Using inhalers, increasing calorie intake, and reducing physical activity.",
+        "Replacing smoking with solvent inhalation and eating high-fat meals."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How are recreational drugs primarily classified based on their general physiological effects on the central nervous system?",
+      "options": [
+        "Legal drugs and illegal drugs.",
+        "Depressants and stimulants.",
+        "Natural substances and synthetic chemicals.",
+        "Solid substances and gaseous inhalants."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A person takes a recreational drug and experiences slowed thinking and delayed reaction times. What class of drug did they most likely consume?",
+      "options": [
+        "A stimulant.",
+        "A depressant.",
+        "An antibiotic.",
+        "A vaccine."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which of the following is a legal depressant that, when used heavily over a long period, can cause severe damage to both the brain and the liver?",
+      "options": [
+        "Caffeine",
+        "Nicotine",
+        "Alcohol",
+        "Cocaine"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How do stimulants affect the body's functioning?",
+      "options": [
+        "They slow down thinking and significantly increase reaction times.",
+        "They make you feel more alert and can give you quicker thinking and reaction times.",
+        "They lower your heart rate and cause immediate muscle relaxation.",
+        "They prevent the absorption of oxygen in the alveoli."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following pairs contains only illegal stimulants used as recreational drugs?",
+      "options": [
+        "Cocaine and ecstasy",
+        "Caffeine and nicotine",
+        "Alcohol and glue",
+        "Nitrous oxide and aspirin"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is the main reason why smoking tobacco is highly addictive and has powerful physical effects on the body?",
+      "options": [
+        "It contains high amounts of carbon dioxide.",
+        "Tobacco leaves naturally contain nicotine, a very addictive substance.",
+        "The smoke contains paint thinner and solvents.",
+        "It contains caffeine, which stimulates the heart."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Regular smoking of tobacco leaves is a major risk factor for which group of diseases?",
+      "options": [
+        "Asthma, COPD, lung cancer, and heart disease",
+        "Type 1 diabetes, food allergies, and influenza",
+        "Brain damage, liver cirrhosis, and measles",
+        "Common cold, malaria, and food poisoning"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What is 'solvent abuse'?",
+      "options": [
+        "Drinking excessive amounts of liquid stimulants like coffee and energy drinks.",
+        "Misusing liquid prescription medicines to cure infectious bacterial diseases.",
+        "Inhaling vaporized chemical substances to become intoxicated.",
+        "Consuming contaminated water containing pathogens."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Which of the following groups contains only common household or industrial substances that are misused in solvent abuse?",
+      "options": [
+        "Paint thinner, glue, and nitrous oxide",
+        "Nicotine, caffeine, and alcohol",
+        "Cocaine, ecstasy, and tobacco",
+        "Aspirin, inhaler medicine, and water"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Why is it vital for survival that oxygen is continuously absorbed into the human body and carbon dioxide is removed?",
+      "options": [
+        "Oxygen is needed for respiration to release energy, while carbon dioxide is a toxic waste product that must be cleared.",
+        "Oxygen cools down the brain, while carbon dioxide is used to build muscle tissue.",
+        "Oxygen is converted directly into blood cells, while carbon dioxide prevents blood from clotting.",
+        "Oxygen is needed to digest food, while carbon dioxide is required to inflate the lungs."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Which of the following is an adaptation of healthy lungs that increases the rate and amount of gas exchange?",
+      "options": [
+        "A small surface area combined with thick, dry cell walls in the bronchi.",
+        "A very large surface area and thin, moist walls in the alveoli.",
+        "Narrowing of the bronchial tubes to build up air pressure.",
+        "A rigid muscular structure that prevents blood flow around the air sacs."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "A student claims that 'vaping is completely safe because it does not involve burning tobacco leaves.' Why is this claim incorrect?",
+      "options": [
+        "Vaping still involves consuming nicotine, which is detrimental to health.",
+        "Vaping contains high levels of caffeine, which slows down the heart.",
+        "Vaping introduces pathogens like bacteria directly into the liver.",
+        "Vaping has been proven to cause identical liver damage to long-term alcohol use."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "What is the current scientific consensus regarding the long-term health effects of vaping?",
+      "options": [
+        "The long-term health effects are completely known and proven to be harmless.",
+        "The health effects of vaping are not yet fully known.",
+        "Scientists have proven vaping has absolutely no effect on the heart or lungs.",
+        "Vaping is known to cure existing lung conditions like asthma and COPD."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "In science, why might advice about the safety of products like e-cigarettes (vaping) change over several decades?",
+      "options": [
+        "Because scientific ideas are updated as new evidence emerges.",
+        "Because manufacturers are allowed to rewrite scientific laws.",
+        "Because the human gas exchange system evolves completely every few years.",
+        "Because old scientific studies are automatically deleted after ten years."
+      ],
+      "correctAnswerIndex": 0,
       "learningPointIndex": 38
     }
   ]

@@ -1,6 +1,6 @@
 {
   "unitKey": "11Patterns in the periodic tableChemistry",
-  "generatedAt": "2026-08-28T20:18:51.483002+00:00",
+  "generatedAt": "2026-08-29T13:53:55.902516+00:00",
   "questions": [
     {
       "question": "Why is helium, a Group 0 element, used to fill balloons rather than hydrogen, despite being slightly heavier?",
@@ -440,6 +440,226 @@
         "Both metals will react at the exact same rate because they are in the same group."
       ],
       "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "The development of the modern periodic table, which allowed for the prediction of undiscovered elements, is credited to which scientist?",
+      "options": [
+        "John Dalton",
+        "Dimitri Mendeleev",
+        "Antoine Lavoisier",
+        "Ernest Rutherford"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Helium is used in party balloons because it does not burn or react with oxygen. Which group of the periodic table does helium belong to, and how is this group described?",
+      "options": [
+        "Group 1, which are highly reactive metals",
+        "Group 7, which are highly reactive non-metals",
+        "Group 0, which are unreactive gases",
+        "Group 2, which are moderately reactive metals"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Xenon and radon are heavy elements located at the bottom of Group 0. What is their physical state under standard room temperature conditions?",
+      "options": [
+        "They are solid metals",
+        "They are dense liquids",
+        "They are gases",
+        "They form a supercooled plasma"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why do Group 0 elements, such as neon and argon, rarely form chemical bonds with other elements?",
+      "options": [
+        "They have an incomplete outer electron shell, making them unstable",
+        "They have complete outer electron shells, making them stable",
+        "Their nuclei are too small to attract other electrons",
+        "They exist only as diatomic molecules that cannot be split"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Going down Group 0 from helium to radon, what trends are observed in their physical properties?",
+      "options": [
+        "Atomic mass, density, and boiling points all increase",
+        "Atomic mass increases, but density and boiling points decrease",
+        "Atomic mass and density increase, but boiling points decrease",
+        "Atomic mass decreases, while density and boiling points increase"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which of the following statements best describes how physical and chemical properties change within any single group of the periodic table?",
+      "options": [
+        "Properties remain completely identical from the top to the bottom of the group",
+        "Properties change gradually as you move down the group",
+        "Properties change randomly and unpredictably between adjacent elements",
+        "Properties only change when moving from left to right, not down a group"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A teacher demonstrates cutting a sample of sodium metal with a scalpel. Which set of properties is characteristic of sodium and other Group 1 metals?",
+      "options": [
+        "They are extremely hard, highly dense, and decrease in reactivity down the group",
+        "They are soft, have lower densities than most other metals, and become more reactive down the group",
+        "They are hard, have very low melting points, and become less reactive down the group",
+        "They are soft, have very high densities, and do not react with air or water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When lithium is added to water, it fizzes and produces a gas that ignites with a squeaky pop. Why are Group 1 elements known as the alkali metals?",
+      "options": [
+        "They react with water to form an acidic solution and oxygen gas",
+        "They react with water to form an alkaline solution and hydrogen gas",
+        "They react with acids to form an alkaline salt and oxygen gas",
+        "They dissolve in water without any chemical reaction to form a neutral solution"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "If a piece of calcium (a Group 2 metal) is added to a beaker of dilute hydrochloric acid, which products will be formed?",
+      "options": [
+        "Calcium chloride (a salt) and hydrogen gas",
+        "Calcium hydroxide and chlorine gas",
+        "Calcium oxide and hydrogen gas",
+        "Calcium chloride (a salt) and oxygen gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How does the reactivity of Group 2 metals compare to Group 1 metals in the same period, and how does Group 2 reactivity change down the group?",
+      "options": [
+        "Group 2 metals are more reactive than Group 1 metals, and reactivity decreases down Group 2",
+        "Group 2 metals are less reactive than Group 1 metals, and reactivity decreases down Group 2",
+        "Group 2 metals are more reactive than Group 1 metals, and reactivity increases down Group 2",
+        "Group 2 metals are less reactive than Group 1 metals, and reactivity increases down Group 2"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "The elements in Group 7 of the periodic table are known as the halogens. What are the common physical hazards associated with these elements?",
+      "options": [
+        "They are highly reactive metals that produce explosive dust",
+        "They are non-metals that produce coloured, toxic vapours",
+        "They are inert gases that can cause suffocation by displacing oxygen",
+        "They are liquid metals that release highly corrosive acidic fumes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "If you examine the states of matter of the Group 7 elements at room temperature starting from the top of the group (fluorine) and moving down to iodine, what trend do you observe?",
+      "options": [
+        "They change from gas to liquid to solid",
+        "They change from solid to liquid to gas",
+        "They are all liquids at room temperature",
+        "They are all gases at room temperature"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "In a displacement reaction, a more reactive halogen displaces a less reactive halogen from its halide solution. Which of the following correctly describes the trend in Group 7 reactivity?",
+      "options": [
+        "Reactivity increases down Group 7, making astatine the most reactive",
+        "Reactivity decreases down Group 7, making fluorine the most reactive",
+        "Reactivity remains constant down the group but depends on temperature",
+        "Reactivity decreases down Group 7, making chlorine less reactive than iodine"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When potassium (Group 1) is reacted with bromine vapour (Group 7), they combine chemically. What is the name of the type of compound formed?",
+      "options": [
+        "Metal hydroxide",
+        "Metal halide",
+        "Metal hydride",
+        "Metal oxide"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A student prepares a sample of sodium chloride (a metal halide) in the lab. What happens when this compound is added to a beaker of pure water?",
+      "options": [
+        "It remains completely insoluble and forms a solid layer at the bottom",
+        "It dissolves completely in the water because metal halides are soluble",
+        "It reacts violently with the water to release toxic chlorine gas",
+        "It floats on top of the water because it is less dense and insoluble"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "When navigating the periodic table, what are the vertical columns and horizontal rows called?",
+      "options": [
+        "Columns are called periods; rows are called groups",
+        "Columns are called groups; rows are called periods",
+        "Columns are called families; rows are called blocks",
+        "Columns are called categories; rows are called series"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How are the elements in the modern periodic table arranged to help scientists identify patterns?",
+      "options": [
+        "They are arranged in alphabetical order by their chemical symbols",
+        "They are arranged in order of their abundance in the Earth's crust",
+        "They are organised into groups and periods according to their properties",
+        "They are arranged chronologically by the year they were discovered"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why are elements such as fluorine, chlorine, bromine, and iodine all placed together in Group 7 of the periodic table?",
+      "options": [
+        "They have similar properties and react in similar ways",
+        "They have the exact same atomic mass and physical state",
+        "They were discovered by the same research group in the same decade",
+        "They are all highly unreactive gases at room temperature"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Apart from vertical groups and horizontal periods, how else can the elements in the periodic table be broadly classified?",
+      "options": [
+        "Into soluble elements, insoluble elements, and transition gases",
+        "Into metals (which include transition metals) and non-metals",
+        "Into radioactive elements and stable synthetic elements",
+        "Into acidic elements, basic elements, and neutral compounds"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Compare magnesium (Group 2, Period 3) and sodium (Group 1, Period 3). Which statement accurately describes their relative reactivity?",
+      "options": [
+        "Magnesium is more reactive than sodium because it has more outer electrons",
+        "Magnesium is less reactive than sodium because Group 2 metals are less reactive than Group 1 metals in the same period",
+        "Both metals have identical reactivity because they are located in the same period",
+        "Sodium is less reactive than magnesium because sodium is softer and less dense"
+      ],
+      "correctAnswerIndex": 1,
       "learningPointIndex": 8
     }
   ]
