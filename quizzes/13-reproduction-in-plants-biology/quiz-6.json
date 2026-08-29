@@ -1,0 +1,226 @@
+{
+  "unitKey": "13Reproduction in plantsBiology",
+  "generatedAt": "2026-08-29T13:55:59.375878+00:00",
+  "questions": [
+    {
+      "question": "How do flowering plants typically reproduce?",
+      "options": [
+        "By splitting in half through binary fission",
+        "Sexually, producing seeds",
+        "Solely by producing asexual spores",
+        "By growing runners without any flowers"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why is plant reproduction so vital for life on Earth?",
+      "options": [
+        "Plants are primary producers that provide food for all animals.",
+        "Plants absorb nitrogen directly from the air to feed animals.",
+        "Plants generate the soil needed for animal movement.",
+        "Plant reproduction is the only source of water in ecosystems."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What do flowers contain that make them essential for plant reproduction?",
+      "options": [
+        "Only protective leaves and stems",
+        "Both male and female sex organs and gametes",
+        "Female gametes only",
+        "Male gametes only"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is another name for the female gametes in flowering plants?",
+      "options": [
+        "Pollen grains",
+        "Ova (egg cells)",
+        "Anthers",
+        "Stigmas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which plant structures carry the male gametes of a flower?",
+      "options": [
+        "Seeds",
+        "Ovules",
+        "Pollen grains",
+        "Petals"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What are the three main parts of a seed, and where is the seed formed?",
+      "options": [
+        "Stigma, style, and ovary; formed in the anther",
+        "Embryo, pollen grain, and nectar; formed in the stem",
+        "Embryo, food store, and a tough outer coat; formed in the ovary",
+        "Root, stem, and leaf; formed in the petal"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is a fruit in botanical terms?",
+      "options": [
+        "The swollen stem of any photosynthetic plant",
+        "A mature, ripened ovary of a seed-producing plant",
+        "An unfertilised flower bud that has withered",
+        "A protective layer produced by the roots"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What are the three main natural agents that seeds are adapted to be dispersed by?",
+      "options": [
+        "Sunlight, soil, and rocks",
+        "Animals, wind, and water",
+        "Heat, cold, and pressure",
+        "Insects, worms, and birds only"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How do pollinators assist in the sexual reproduction of flowering plants?",
+      "options": [
+        "They digest the seeds to help them germinate.",
+        "They transfer pollen from one flower to another.",
+        "They protect the plant roots from pests.",
+        "They provide carbon dioxide directly to the petals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Which group of animals makes up the majority of pollinators, with bees being the largest group?",
+      "options": [
+        "Mammals",
+        "Birds",
+        "Insects",
+        "Reptiles"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What is meant by the term \"food security\" in a country or area?",
+      "options": [
+        "Having enough affordable and nutritious food available",
+        "Locking up agricultural fields to prevent theft",
+        "Relying entirely on imported food supplies",
+        "Using artificial chemicals on all crops to preserve them"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which statement correctly defines pollination?",
+      "options": [
+        "The fusion of male and female gametes to form a zygote",
+        "The movement of seeds away from the parent plant",
+        "The transfer of pollen from the male anther to the female stigma",
+        "The growth of a pollen tube down into the ovary"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What is a key benefit of cross-pollination compared to self-pollination?",
+      "options": [
+        "It requires no wind or insects to transfer pollen.",
+        "It increases genetic variation within a species.",
+        "It guarantees that offspring are identical to the parent.",
+        "It takes less energy for the plant to produce flowers."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "In plant reproduction, what is fertilisation?",
+      "options": [
+        "The transfer of pollen grains by wind or insects",
+        "The fusion of the nuclei from the male and female gametes",
+        "The absorption of minerals from the soil by roots",
+        "The shedding of seeds from a ripe fruit"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "What does a fertilised egg cell (zygote) grow into first before becoming a new plant?",
+      "options": [
+        "An embryo",
+        "A pollen grain",
+        "A mature fruit",
+        "An anther"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "When displaying experimental data, when should you use a bar chart instead of a line graph?",
+      "options": [
+        "When the independent variable is continuous",
+        "When the independent variable is categoric",
+        "When there are no control variables in the investigation",
+        "When the dependent variable has very large values"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Which of these is a common type of seed used in school labs that can easily germinate on wet cotton wool?",
+      "options": [
+        "Oak seeds",
+        "Cress seeds",
+        "Coconut seeds",
+        "Apple seeds"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In an investigation into the factors affecting seed germination, what is the dependent variable?",
+      "options": [
+        "The variable you change, such as temperature",
+        "The variable you measure, such as the number of germinated seeds",
+        "The variables you keep the same, like the type of seed",
+        "The type of container used to hold the seeds"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why must control variables be kept the same during a seed germination investigation?",
+      "options": [
+        "To make sure the independent variable is continuous",
+        "To ensure a valid conclusion can be drawn",
+        "To guarantee that all seeds germinate at the exact same second",
+        "To change the dependent variable more quickly"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "How are wind-dispersed seeds adapted to ensure they can travel far from the parent plant?",
+      "options": [
+        "They are heavy with a thick, sticky outer coat.",
+        "They are light with a large surface area.",
+        "They are brightly coloured to attract animals.",
+        "They are enclosed in juicy, sweet fruits."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    }
+  ]
+}
