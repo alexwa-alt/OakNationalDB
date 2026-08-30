@@ -1,6 +1,6 @@
 {
   "unitKey": "11Patterns in the periodic tableChemistry",
-  "generatedAt": "2026-08-29T13:53:55.902516+00:00",
+  "generatedAt": "2026-08-30T13:51:45.901233+00:00",
   "questions": [
     {
       "question": "Why is helium, a Group 0 element, used to fill balloons rather than hydrogen, despite being slightly heavier?",
@@ -661,6 +661,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 8
+    },
+    {
+      "question": "Why is helium (Group 0) used in airships and weather balloons instead of hydrogen, despite hydrogen being lighter?",
+      "options": [
+        "Helium is a metal and does not float easily.",
+        "Helium is in Group 0, meaning it has an incomplete outer shell.",
+        "Helium is in Group 0 and is unreactive, making it much safer than flammable hydrogen.",
+        "Helium readily reacts with oxygen to form a stable, non-flammable compound."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Neon and Argon are elements in Group 0. Under standard classroom conditions (room temperature), what physical state would you expect a sample of krypton (also in Group 0) to be in?",
+      "options": [
+        "Liquid, because it is further down the group than neon.",
+        "Gas, because all Group 0 elements are gases at room temperature.",
+        "Solid, because its atomic mass is much higher than argon.",
+        "A mixture of liquid and gas depending on the humidity."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why do elements in Group 0 (the noble gases) not easily form chemical bonds with other elements?",
+      "options": [
+        "They have complete outer electron shells, which makes them highly stable.",
+        "They have no electrons in their outer shells, preventing bonding.",
+        "They are too small to share electrons with larger elements.",
+        "Their nuclei contain too many neutrons, which repels other atoms."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Helium (boiling point -269 °C) and Neon (boiling point -246 °C) are the first two elements in Group 0. What is the most reasonable prediction for the boiling point of Argon, the next element down the group?",
+      "options": [
+        "It will be lower than -269 °C, because boiling points decrease down Group 0.",
+        "It will be higher than -246 °C, because boiling points increase down Group 0.",
+        "It will be exactly -257.5 °C, because it must be the average of the two.",
+        "It will be 0 °C, because all other noble gases boil at room temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "If you observe that fluorine (at the top of Group 7) is a pale yellow gas and chlorine (below it) is a green gas, what does this demonstrate about how physical properties change down a group in the periodic table?",
+      "options": [
+        "Properties change randomly with no predictable pattern.",
+        "Properties stay identical for all elements in that group.",
+        "Properties change gradually and progressively down the group.",
+        "Physical properties only change when moving across a period, not down a group."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A student is given a small, dull grey cylinder of a metal. They are able to easily cut it in half with a butter knife, revealing a shiny surface that quickly tarnishes. Which group is this metal most likely from, and what is its reactivity compared to other metals in its group?",
+      "options": [
+        "Group 1, and it is less reactive than the elements below it in the group.",
+        "Group 2, and it is more reactive than any other metal in the periodic table.",
+        "Group 0, and it is extremely unreactive because it is soft.",
+        "Group 7, and its reactivity decreases when cut."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When a small piece of sodium is added to a trough of water containing universal indicator, the indicator turns purple and bubbles of gas are produced. What are the products of this chemical reaction?",
+      "options": [
+        "Sodium oxide and oxygen gas.",
+        "An acidic solution of sodium hydroxide and hydrogen gas.",
+        "An alkaline solution of sodium hydroxide and hydrogen gas.",
+        "Sodium chloride solution and water vapour."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Magnesium is a Group 2 metal. If a piece of magnesium ribbon is placed into a test tube containing dilute hydrochloric acid, what would you expect to observe and produce?",
+      "options": [
+        "No reaction, because Group 2 metals only react with water.",
+        "Bubbles of hydrogen gas and the formation of a soluble magnesium salt.",
+        "Rapid production of chlorine gas and a solid magnesium precipitate.",
+        "The acid turns into an alkali, producing oxygen gas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Calcium and Magnesium are both in Group 2, while Potassium is in Group 1. Calcium and Potassium are in the same period. Which of the following correctly compares their reactivity?",
+      "options": [
+        "Magnesium is more reactive than Calcium, but less reactive than Potassium.",
+        "Potassium is more reactive than Calcium, and Calcium is more reactive than Magnesium.",
+        "Potassium is less reactive than Calcium, and Calcium is less reactive than Magnesium.",
+        "Magnesium, Calcium, and Potassium all have identical reactivity because they are metals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A lab technician is preparing an experiment using bromine, a Group 7 element. Which safety precaution is most critical based on the general properties of Group 7 elements?",
+      "options": [
+        "Use a fume cupboard because Group 7 elements form toxic, coloured vapours.",
+        "Keep it near an open flame because Group 7 elements are highly explosive noble gases.",
+        "Handle it with bare hands because Group 7 elements are soft, non-toxic metals.",
+        "Keep it in a vacuum because it will react violently with nitrogen gas."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Chlorine is a gas at room temperature, while bromine is a liquid. What state would you expect iodine (which is below bromine in Group 7) to be at room temperature?",
+      "options": [
+        "Gas, because states change from solid to gas down Group 7.",
+        "Liquid, because all elements in Group 7 are liquids.",
+        "Solid, because the state of the elements changes from gas to solid down Group 7.",
+        "Plasma, because iodine is highly unstable at room temperature."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "If chlorine (Group 7) reacts very vigorously with iron wool, and iodine (Group 7) reacts much more slowly with iron wool, what does this tell us about the reactivity trend of Group 7?",
+      "options": [
+        "Reactivity increases down the group, so iodine is more reactive.",
+        "Reactivity decreases down the group, so chlorine is more reactive.",
+        "Reactivity remains constant, and the difference is due to the state of the iron.",
+        "Group 7 elements only react when heated in a vacuum."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When sodium (Group 1) is heated and lowered into a jar of chlorine gas (Group 7), a bright yellow flame is seen and a white solid forms. What is this reaction an example of, and what is the product?",
+      "options": [
+        "A halogen reacting with an alkali metal to form a metal halide.",
+        "A noble gas reacting with a transition metal to form an alloy.",
+        "A Group 2 metal reacting with an acid to form a salt.",
+        "A non-metal displacement forming a pure liquid halogen."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A student synthesises a sample of potassium bromide (a metal halide). To test its physical properties, they add a small amount of the white solid to a beaker of pure water. What is the most likely outcome?",
+      "options": [
+        "The solid will float on top of the water without changing.",
+        "The solid will dissolve completely because metal halides are soluble in water.",
+        "The solid will react violently with the water to produce hydrogen gas.",
+        "The solid will turn into a toxic purple gas and escape the beaker."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In the periodic table, how are the horizontal rows and vertical columns organised and named?",
+      "options": [
+        "Rows are called groups, and columns are called periods.",
+        "Rows are called periods, and columns are called groups.",
+        "Both rows and columns are called periods.",
+        "Both rows and columns are called groups."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Who was the Russian scientist responsible for developing the early version of the periodic table, organising elements by their properties and leaving gaps for undiscovered elements?",
+      "options": [
+        "John Dalton",
+        "Dimitri Mendeleev",
+        "Marie Curie",
+        "Ernest Rutherford"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How does the modern periodic table arrange all the known elements so that chemists can easily study them?",
+      "options": [
+        "In alphabetical order of their chemical names from top to bottom.",
+        "By the date they were discovered, starting from ancient times.",
+        "Organised into groups and periods according to their properties.",
+        "Randomly, with metals on the right and non-metals on the left."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "If you are told that element X is in the same vertical column (group) as sodium and potassium, what can you most reliably predict about element X?",
+      "options": [
+        "It will have completely different chemical properties to sodium.",
+        "It will have similar properties to sodium and potassium.",
+        "It will be a dense, unreactive liquid at room temperature.",
+        "It will react with water to produce an acidic solution."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A materials scientist is categorising a newly synthesised material. It conducts electricity, is shiny, can be hammered into sheets, and is highly dense. Into which broad division of the periodic table should this element be classified?",
+      "options": [
+        "Non-metals",
+        "Halogens",
+        "Noble gases",
+        "Metals, which include the transition metals"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Argon, Krypton, and Xenon are Group 0 elements. Argon is at the top of this trio, followed by Krypton, then Xenon. If we compare their densities and atomic masses, which of the following statements is true?",
+      "options": [
+        "Argon has the highest atomic mass and the highest density of the three.",
+        "Xenon has the highest atomic mass and the highest density of the three.",
+        "Krypton has a higher density than Xenon but a lower atomic mass.",
+        "All three have identical densities and atomic masses because they are in the same group."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
     }
   ]
 }

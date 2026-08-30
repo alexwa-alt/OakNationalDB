@@ -1,6 +1,6 @@
 {
   "unitKey": "12Resistance and parallel circuitsPhysics",
-  "generatedAt": "2026-08-29T13:54:20.230352+00:00",
+  "generatedAt": "2026-08-30T13:52:13.211142+00:00",
   "questions": [
     {
       "question": "Two identical bulbs are first connected in series to a 6V battery, and then reconnected in parallel to the same 6V battery. Why do the bulbs shine brighter in the parallel configuration?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 41
+    },
+    {
+      "question": "A student sets up Circuit A with two identical bulbs in series with a 9V battery, and Circuit B with the same two bulbs in parallel with an identical 9V battery. How does the brightness of the bulbs in Circuit B compare to those in Circuit A?",
+      "options": [
+        "The bulbs in Circuit B are brighter because each receives the full battery voltage, whereas in Circuit A the voltage is shared.",
+        "The bulbs in Circuit A are brighter because they are in a single loop, which concentrates the electric current.",
+        "The bulbs in both circuits have the same brightness because they are powered by identical batteries.",
+        "The bulbs in Circuit B are dimmer because the current from the battery must split into two separate paths."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In Setup X, two identical bulbs are connected in parallel to a 6V battery. In Setup Y, the same two bulbs are connected in series to an identical 6V battery. An ammeter measures the total current leaving the battery in each setup. Which statement is correct?",
+      "options": [
+        "The total current in Setup Y is larger because series circuits do not split the current.",
+        "The total current in Setup X is larger because the parallel arrangement has a lower overall resistance, drawing more current.",
+        "Both setups draw the same total current because they use identical batteries and components.",
+        "Setup Y draws twice as much current because the bulbs are connected end-to-end, multiplying the battery's push."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Two identical bulbs, L1 and L2, are first connected in series to a 12V battery, and then reconnected in parallel to the same battery. If we measure the voltage across L1 in both configurations, what will the measurements show?",
+      "options": [
+        "The voltage across L1 is 6V in series and 12V in parallel, so it is larger in the parallel configuration.",
+        "The voltage across L1 is 12V in series and 6V in parallel, so it is larger in the series configuration.",
+        "The voltage across L1 is 12V in both cases because the battery's voltage output remains constant.",
+        "The voltage across L1 is 6V in both cases because the electrical energy is shared equally in both circuits."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why do two identical bulbs connected in parallel to a 9V battery transfer energy from the battery more quickly than if they were connected in series to the same battery?",
+      "options": [
+        "The parallel circuit has a higher overall resistance, forcing the battery to release its energy more rapidly.",
+        "Each bulb in the parallel circuit has the full 9V across it and draws more current, resulting in a higher total power output.",
+        "The series circuit wastes energy in the wire connections between the bulbs, which slows down the energy transfer.",
+        "The battery increases its internal chemical energy output when it detects multiple branches in a circuit."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Lantern P uses a 6V battery to light two identical bulbs connected in parallel. Lantern S uses an identical 6V battery to light the two bulbs in series. If both lanterns are switched on at the same time, what will happen to their batteries?",
+      "options": [
+        "The battery in Lantern S will run out faster because the current must travel through a longer, more difficult path.",
+        "Both batteries will run out at exactly the same time because they contain the same initial amount of stored chemical energy.",
+        "The battery in Lantern P will run out faster because the parallel circuit draws a larger total current, depleting the energy more quickly.",
+        "The battery in Lantern P will last longer because each branch only has to carry half of the total current."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A student wants to decrease the electrical current flowing through a simple test circuit without changing the battery or the material and thickness of the wire. What modification should they make?",
+      "options": [
+        "Use a shorter piece of the wire to decrease the overall resistance.",
+        "Use a longer piece of the wire to increase the overall resistance.",
+        "Coil the wire tightly without changing its length to decrease its resistance.",
+        "Bend the wire into a sharp square shape to restrict the flow of electrons."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which of the following best describes how an electric current moves through a solid copper wire at the microscopic level?",
+      "options": [
+        "Copper atoms slide past each other, carrying electrical charge from one end of the wire to the other.",
+        "Free electrons migrate through the spaces between the fixed metal ions in the copper lattice.",
+        "Positive metal ions move rapidly from the positive terminal to the negative terminal of the power supply.",
+        "Protons jump from the nucleus of one copper atom to the next through the empty space between them."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A 1.0-meter length of nicheome wire has a measured resistance of 5.0 ohms. If a student cuts a piece of the exact same wire that is 2.0 meters long, what will its resistance be?",
+      "options": [
+        "2.5 ohms, because resistance is halved when the length of the conductor is doubled.",
+        "5.0 ohms, because the material and thickness of the wire remain completely unchanged.",
+        "10.0 ohms, because doubling the length of a wire doubles its resistance.",
+        "20.0 ohms, because resistance increases as the square of the length of the conductor."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why does doubling the length of a uniform metal wire cause its electrical resistance to double?",
+      "options": [
+        "It doubles the speed of the electrons, causing twice as many energetic collisions per second.",
+        "It doubles the number of positive metal ions in the path of the flowing electrons, doubling the obstacles in their way.",
+        "It halves the cross-sectional space available for the electrons to pass through the wire.",
+        "It doubles the electrostatic force from the negative terminal, pulling the electrons twice as hard."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A student measures the resistance of several different lengths of a uniform constantan wire. If they plot a graph of resistance on the y-axis against length on the x-axis, what shape should the graph have?",
+      "options": [
+        "A curve that starts steep and flattens out, showing resistance increases more slowly at longer lengths.",
+        "A straight line starting at the origin, showing that resistance is directly proportional to length.",
+        "A horizontal straight line, showing that resistance remains constant regardless of length.",
+        "A downward sloping straight line, showing that resistance decreases as length increases."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "An electric space heater is rated at 2,000 W (which is 2 kW). If this heater is left running continuously for 3 hours, how much energy has it used?",
+      "options": [
+        "6 kilowatt-hours (kWh)",
+        "6,000 kilowatt-hours (kWh)",
+        "1.5 kilowatt-hours (kWh)",
+        "0.67 kilowatt-hours (kWh)"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "An electricity provider charges a rate of 15p for every 'unit' of electricity consumed. If a household uses 100 kilowatt-hours (kWh) of energy, how many units will they be billed for?",
+      "options": [
+        "100 units, because 1 unit of electrical energy on a bill is equal to exactly 1 kWh.",
+        "1,500 units, because units are calculated by multiplying the energy by the unit cost.",
+        "10 units, because 1 unit of electrical energy is defined as equal to 10 kWh.",
+        "360 units, because units are calculated based on hourly consumption throughout the month."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "In a parallel circuit, Branch A has a current of 1.5 A and Branch B has a current of 2.5 A. There are no other branches in the circuit. What is the total current passing through the battery?",
+      "options": [
+        "1.0 A, which is the difference between the currents in the two branches.",
+        "2.0 A, which is the average of the currents in the two branches.",
+        "4.0 A, because the current through each branch adds up to the total current through the battery.",
+        "1.5 A, because the total current is limited by the branch with the lower resistance."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Two copper wires, Wire X and Wire Y, have the exact same length, but Wire X is much thicker than Wire Y. How does the electrical resistance of Wire X compare to Wire Y?",
+      "options": [
+        "Wire X has a smaller resistance than Wire Y because a thicker wire allows current to flow more easily.",
+        "Wire X has a greater resistance than Wire Y because there are more metal atoms blocking the path of the current.",
+        "Both wires have the exact same resistance because they are made of the same material and have the same length.",
+        "Wire X has a smaller resistance because electrons travel at a much higher speed through thicker materials."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Why does increasing the cross-sectional area of a cylindrical wire lead to a smaller electrical resistance?",
+      "options": [
+        "It reduces the total number of metal ions in the wire, resulting in fewer electron-ion collisions.",
+        "It provides a wider path with more space for the electrons to flow, making it easier for them to move.",
+        "It increases the voltage drop across the wire, which naturally lowers the calculated resistance.",
+        "It forces the electrons to pack more tightly together, which accelerates their movement."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "A wire with a cross-sectional area of 0.5 mm² has a resistance of 12 ohms. If we replace it with a wire of identical material and length, but with a cross-sectional area of 1.0 mm², what will its resistance be?",
+      "options": [
+        "24 ohms, because doubling the cross-sectional area doubles the resistance.",
+        "12 ohms, because resistance is independent of the cross-sectional area of a wire.",
+        "6 ohms, because doubling the cross-sectional area halves the resistance.",
+        "3 ohms, because resistance is inversely proportional to the square of the cross-sectional area."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "What is the physical explanation for why doubling the cross-sectional area of a wire halves its resistance?",
+      "options": [
+        "It doubles the voltage across the wire, pushing the electrons twice as fast.",
+        "It doubles the number of electrons that can flow through the wire, doubling the current for a given push.",
+        "It halves the total number of positive metal ions that can collide with the moving electrons.",
+        "It allows the electrons to travel in straight lines without colliding with any metal ions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "When a voltmeter is connected across a high-resistance resistor in an operating circuit, it displays a reading of 8 V. What does this 8 V reading physically measure?",
+      "options": [
+        "The speed at which the electrons are moving through the resistor.",
+        "The total number of electrical charges passing through the resistor every second.",
+        "The size of the 'push' that is moving the electric current through that component.",
+        "The percentage of the battery's chemical energy that has been converted into thermal energy."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 40
+    },
+    {
+      "question": "A 9V battery is connected in parallel to three separate branches. Branch 1 has a bulb, Branch 2 has a buzzer, and Branch 3 has a resistor. What is the voltage across each component?",
+      "options": [
+        "The voltage is split equally, so each component has exactly 3V across it.",
+        "The component with the lowest resistance has 9V, and the other components have 0V.",
+        "The voltage across each branch is 9V, which is the same as the voltage across the battery.",
+        "The voltage across each branch depends on its resistance, and they must add up to 9V."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 41
+    },
+    {
+      "question": "A student wants to measure only the current flowing through a motor that is connected in parallel with a lamp. Where should they connect the ammeter?",
+      "options": [
+        "Next to the battery before any junctions, to capture the total current of the system.",
+        "Within the motor's branch, between its connections to the rest of the circuit.",
+        "In parallel across the motor, connecting to both sides of the motor's terminals.",
+        "Anywhere in the circuit, because current is always identical at every point in a parallel circuit."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
     }
   ]
 }
