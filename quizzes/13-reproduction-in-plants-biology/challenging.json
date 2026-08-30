@@ -1,6 +1,6 @@
 {
   "unitKey": "13Reproduction in plantsBiology",
-  "generatedAt": "2026-08-12T06:19:42.840079+00:00",
+  "generatedAt": "2026-08-30T13:52:40.949403+00:00",
   "questions": [
     {
       "question": "In flowering plants, which of the following events marks the exact moment fertilisation occurs?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 2
+    },
+    {
+      "question": "A student compares asexual reproduction (such as strawberry runners) with sexual reproduction in flowering plants. What is a key biological distinction regarding the genetic outcome of sexual reproduction in these plants?",
+      "options": [
+        "It always produces offspring that are genetically identical to the pollen donor.",
+        "It generates genetic variation by combining alleles from two gametes.",
+        "It relies entirely on mitosis to form the seeds in the ovary.",
+        "It bypasses the need for pollination or fertilisation to form fruit."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "In flowering plants, which of the following correctly describes the location and chromosomal role of the egg cells (ova)?",
+      "options": [
+        "They are female gametes located inside the ovules of the ovary, containing half the genetic material of the parent plant.",
+        "They are male gametes produced in the anthers, carrying the full genetic complement of the plant.",
+        "They are diploid vegetative cells that form the tough outer protective seed coat after fertilisation.",
+        "They are nutrient-rich structures located in the pollen tube that nourish the growing pollen grain."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Anthers release pollen grains during plant reproduction. Which statement correctly identifies the biological role of pollen grains?",
+      "options": [
+        "They are the female organs that receive the sperm nuclei during fertilisation.",
+        "They contain the male gametes and must be transferred to a receptive stigma for reproduction to proceed.",
+        "They directly germinate into a new diploid embryo without needing to fuse with another cell.",
+        "They act as food stores within the seed to nourish the developing root and shoot."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "If a plant disease prevents the development of the food store inside a seed but leaves the embryo and outer coat completely intact, what is the most likely consequence?",
+      "options": [
+        "The seed will germinate normally but will not be able to perform photosynthesis later.",
+        "The seed may start to germinate but will run out of energy before the shoot can establish and photosynthesise.",
+        "The seed coat will fail to harden, making the seed highly vulnerable to water loss.",
+        "The embryo will immediately undergo rapid cell division and grow without needing water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A pea pod contains several peas. Anatomically, what do the pod itself and the individual peas inside represent?",
+      "options": [
+        "The pod is the matured ovary (fruit), and the peas are the fertilised ovules (seeds).",
+        "The pod is the matured stigma, and the peas are the matured anthers.",
+        "The pod is the pollen tube, and the peas are the individual pollen grains.",
+        "The pod is the seed coat, and the peas are the individual female gametes."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A botanist discovers a new plant species with seeds that have a thick, buoyant, fibrous outer husk that is highly resistant to salt degradation. What is the most likely primary adaptation and dispersal mechanism for these seeds?",
+      "options": [
+        "Dispersal by wind, as the fibrous husk allows the seed to float through air currents.",
+        "Dispersal by water, as the buoyancy and salt resistance allow travel across aquatic environments.",
+        "Dispersal by animal ingestion, as the tough husk attracts herbivores to eat it.",
+        "Dispersal by explosive self-projectile mechanisms triggered by contact with water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How does the decline of wild pollinator populations directly threaten global food security?",
+      "options": [
+        "It reduces the rate of photosynthesis in green leafy vegetable crops, lowering their overall nutritional value.",
+        "It leads to lower yield and higher prices of many nutrient-rich insect-pollinated crops, such as fruits and nuts.",
+        "It prevents cereal crops like wheat and rice from being wind-pollinated, destroying basic calorie sources.",
+        "It halts the vegetative reproduction of tubers, making crops like potatoes impossible to harvest."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A gardener covers a flower with a fine mesh bag before it opens to prevent any insects from visiting. However, the flower still successfully develops seeds. What biological process must have occurred?",
+      "options": [
+        "Cross-pollination via insect vectors that managed to chew through the mesh.",
+        "Self-pollination, where pollen from the anther was transferred to the stigma of the same flower or plant.",
+        "Fertilisation occurring without any prior transfer of pollen to the female reproductive parts.",
+        "Parthenogenesis, where the pollen grains were converted into female egg cells."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Why might cross-pollination be evolutionary advantageous compared to self-pollination in a rapidly changing environment?",
+      "options": [
+        "It ensures that offspring are genetically identical to the parent, preserving successful traits.",
+        "It combines genetic material from different parent plants, increasing variation and the likelihood of survival.",
+        "It requires less metabolic energy because the plant does not need to produce nectar or pollen.",
+        "It guarantees that 100% of the pollen grains produced will fertilise an egg cell."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Which of the following events marks the precise moment fertilisation occurs in a flowering plant?",
+      "options": [
+        "When a pollen grain lands on the sticky surface of the stigma.",
+        "When the pollen tube grows down through the style into the ovary.",
+        "When the nucleus of the male gamete fuses with the nucleus of the female egg cell.",
+        "When the ovary walls expand and ripen to form a fleshy fruit."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Following fertilisation, what is the correct sequence of development for the next generation of the plant?",
+      "options": [
+        "Zygote then embryo then seedling (new plant)",
+        "Embryo then zygote then seedling (new plant)",
+        "Seedling then zygote then embryo (new plant)",
+        "Gamete then fruit then zygote (new plant)"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A student investigates how different species of trees (Oak, Ash, Birch) affect the average distance their seeds travel. When presenting the data, which type of graph should be used and why?",
+      "options": [
+        "A line graph, because the species of trees are continuous numerical values.",
+        "A bar chart, because the species of trees represent discrete categoric groups.",
+        "A line graph, because the distance the seeds travel is a continuous dependent variable.",
+        "A bar chart, because the independent variable (distance) must be placed on the y-axis as categories."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "A line graph showing the relationship between wind speed (independent variable) and the distance a dandelion seed travels (dependent variable) has a straight line of best fit sloping upwards from left to right. What trend does this indicate?",
+      "options": [
+        "As wind speed increases, the distance the seed travels remains constant.",
+        "As wind speed increases, the distance the seed travels also increases.",
+        "Higher wind speeds cause the seeds to travel shorter distances.",
+        "There is no correlation between wind speed and the dispersal distance."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Sycamore seeds have large, wing-like structures, whereas burdock seeds have tiny, hooked projections. How do these structural adaptations relate to their dispersal mechanisms?",
+      "options": [
+        "Sycamore seeds are adapted to catch the wind; burdock seeds are adapted to cling to animal fur.",
+        "Sycamore seeds are adapted to float on water; burdock seeds are adapted to be eaten and digested by birds.",
+        "Sycamore seeds are adapted to cling to animal fur; burdock seeds are adapted to catch the wind.",
+        "Both seeds are adapted for wind dispersal, but burdock seeds travel much further due to their weight."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "In an experiment investigating how the mass of a model paper seed affects its flight, what is the dependent variable?",
+      "options": [
+        "The starting height from which the model seed is released.",
+        "The mass of the paper seed.",
+        "The horizontal distance the model seed travels before landing.",
+        "The wind speed generated by the laboratory fan."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "Why is it important to repeat the drop test five times for each model seed design rather than relying on a single measurement?",
+      "options": [
+        "To ensure that the independent variable is changed systematically each time.",
+        "To identify any anomalous results and calculate a more reliable mean distance.",
+        "To convert the categoric data of the seed design into continuous data.",
+        "To guarantee that the seeds will travel further with each subsequent trial."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "In an experiment, four groups of seeds are set up: Group A (warm, moist, light), Group B (warm, dry, light), Group C (cold, moist, light), and Group D (warm, moist, dark). Seeds in Groups A and D germinate successfully, while Groups B and C do not. What can be interpreted from these results?",
+      "options": [
+        "Light is essential for germination, but moisture is not.",
+        "Warmth and moisture are required for germination, while light is not necessary for these seeds.",
+        "Germination only occurs when all four conditions (warmth, moisture, light, and soil) are present.",
+        "Cold temperatures stimulate faster germination than warm temperatures when moisture is present."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A student measures the percentage germination of cress seeds at temperatures of 5 degrees Celsius, 15 degrees Celsius, 25 degrees Celsius, and 35 degrees Celsius. The germination percentages are 0%, 40%, 95%, and 20% respectively. Which of the following is the most accurate scientific conclusion based on these results?",
+      "options": [
+        "Cress seeds germinate best when the temperature is as low as possible.",
+        "Germination rate increases steadily and infinitely as temperature increases.",
+        "The optimum temperature for cress seed germination in this range is around 25 degrees Celsius, with lower rates at extreme temperatures.",
+        "Temperature has no measurable effect on the germination of cress seeds."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "You are planning an investigation to see how different concentrations of a salt solution affect the germination of radish seeds. What is the most appropriate dependent variable to measure to determine the effect?",
+      "options": [
+        "The concentration of salt in the water added to each dish.",
+        "The temperature of the room where the seeds are kept.",
+        "The number of seeds that germinate successfully within a set time frame.",
+        "The total volume of salt solution absorbed by the paper towel."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "To investigate how different light levels affect the germination of lettuce seeds, a student places one batch in a dark cupboard and another on a sunny windowsill. Why must both batches be kept at the same room temperature and receive the same volume of water?",
+      "options": [
+        "To ensure that temperature and water act as additional independent variables.",
+        "To make sure that any difference in germination is due to light levels alone, ensuring a valid conclusion.",
+        "To guarantee that 100% of the seeds in both batches will germinate successfully.",
+        "To allow the student to change three independent variables simultaneously."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
     }
   ]
 }

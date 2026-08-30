@@ -1,0 +1,226 @@
+{
+  "unitKey": "14Climate change and biodiversityBiologyChemistry",
+  "generatedAt": "2026-08-30T13:52:58.434537+00:00",
+  "questions": [
+    {
+      "question": "What is the primary non-renewable resource used to produce most traditional plastic food packaging?",
+      "options": [
+        "Crude oil and other fossil fuels",
+        "Wood pulp from sustainable forests",
+        "Corn starch and plant oils",
+        "Natural gas liquids from renewable biogas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why is plastic waste in landfills and oceans considered a major environmental pollutant?",
+      "options": [
+        "It dissolves quickly, making the water highly acidic.",
+        "It takes a very long time to degrade and can harm organisms.",
+        "It blocks all sunlight from reaching the deep ocean floor within days.",
+        "It releases large amounts of oxygen, causing fish populations to grow uncontrollably."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following describes a sustainable alternative to traditional plastic packaging?",
+      "options": [
+        "Metal-lined single-use foils",
+        "Chlorinated fluorocarbon wraps",
+        "Biodegradable bioplastics made from renewable resources",
+        "Heavy-duty synthetic polymer sheets"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is one major benefit of using plastic packaging for fresh food products?",
+      "options": [
+        "It completely eliminates the need for refrigeration during transport.",
+        "It helps prevent food spoilage and reduces food waste.",
+        "It increases the nutritional value of the food inside over time.",
+        "It accelerates the natural ripening process of fruits."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When deciding whether to use plastic packaging for food, what trade-offs must we carefully weigh up?",
+      "options": [
+        "The cost of the food versus the cost of the supermarket's electricity.",
+        "The weight of the food versus the distance it has to travel.",
+        "The benefits of reducing food waste against emissions from production and damage to biodiversity.",
+        "The color of the packaging against the amount of sugar in the food."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is one of the main human activities driving global deforestation?",
+      "options": [
+        "Building solar farms in desert regions",
+        "Converting forested land for agricultural use",
+        "Collecting fallen branches for domestic heating",
+        "Extracting water from deep underground aquifers"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is a direct consequence of deforestation on local wildlife?",
+      "options": [
+        "An increase in available nesting sites",
+        "Improved adaptation to urban environments",
+        "Habitat loss for many different species",
+        "A rapid increase in genetic diversity"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How does converting natural land for agricultural use affect global ecosystems?",
+      "options": [
+        "It increases the variety of wild animal species.",
+        "It is a major cause of habitat loss and biodiversity loss.",
+        "It helps wild plants grow faster by giving them more space.",
+        "It prevents soil erosion by introducing monoculture crops."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following is a mitigation strategy used to restore lost ecosystems and protect biodiversity?",
+      "options": [
+        "Increasing the use of chemical pesticides on all remaining forests",
+        "Positive land use changes, such as reforestation and rewilding",
+        "Converting national parks into urban residential zones",
+        "Encouraging a diet based entirely on imported processed foods"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why is the future global supply of food considered to be at risk?",
+      "options": [
+        "Due to the decreasing amount of carbon dioxide available for crops to grow",
+        "Because global warming and climate change threaten agricultural systems",
+        "Due to a worldwide shortage of synthetic packaging materials",
+        "Because plants are adapting to grow only in artificial greenhouses"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How do extreme weather events, made more common by climate change, affect farming?",
+      "options": [
+        "They make it much easier to predict harvest times.",
+        "They reduce the need for artificial irrigation.",
+        "They make it more challenging to grow and produce food consistently.",
+        "They increase the natural fertility of agricultural soil worldwide."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What contributes to the overall carbon footprint of the food we buy?",
+      "options": [
+        "Only the breathing of the consumers who buy the food",
+        "The greenhouse gas emissions produced at various stages of food production",
+        "Only the electricity used by the checkout till at the supermarket",
+        "The amount of nitrogen gas absorbed by the food during cooking"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How can individual consumers help reduce greenhouse gas emissions associated with food production?",
+      "options": [
+        "By eating more imported out-of-season foods",
+        "By making changes to our diets to choose foods with lower environmental impacts",
+        "By cooking all foods for twice as long to destroy carbon compounds",
+        "By replacing fresh water with carbonated drinks"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why does cutting down forests disrupt the Earth's carbon cycle?",
+      "options": [
+        "Fewer trees mean less carbon dioxide is absorbed from the atmosphere for photosynthesis.",
+        "It stops plants from releasing carbon dioxide through respiration.",
+        "It increases the rate at which plants convert nitrogen into carbon.",
+        "It causes the soil to absorb twice as much carbon dioxide as before."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is the role of carbon dioxide (CO2) in the atmosphere regarding global temperatures?",
+      "options": [
+        "It reflects all solar radiation back into deep space, cooling the Earth.",
+        "It is a greenhouse gas that enhances the greenhouse effect and contributes to climate change.",
+        "It breaks down the ozone layer to allow cold polar winds to escape.",
+        "It blocks heat from leaving the oceans, causing tides to stop."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How does deforestation affect the movement of water through the water cycle?",
+      "options": [
+        "It increases the overall humidity of the local atmosphere.",
+        "It disrupts the cycle because fewer trees are absorbing and transpiring water.",
+        "It prevents rain from falling directly onto the soil.",
+        "It forces clouds to move faster across the land."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Why does clearing forests increase the risk of flooding and threaten food security?",
+      "options": [
+        "It causes rivers to dry up instantly, leaving no water for crops.",
+        "It leads to more surface runoff of water, which can flood farmland and ruin crops.",
+        "It increases the amount of groundwater stored in deep underground reservoirs.",
+        "It prevents any rain from falling on agricultural fields."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What is the primary cause of modern global warming and climate change?",
+      "options": [
+        "Natural variations in the distance between the Earth and the Moon",
+        "Human emissions of greenhouse gases into the atmosphere",
+        "Heat released from the core of the Earth through volcanic activity",
+        "An increase in the amount of dust entering the atmosphere from space"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why does climate change present a survival challenge for many wild species?",
+      "options": [
+        "It alters habitat conditions, meaning species may no longer be well adapted to live there.",
+        "It makes all habitats completely identical to one another.",
+        "It causes animals to lose their ability to reproduce permanently.",
+        "It increases the gravity in their local ecosystems."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "How can climate change and more frequent extreme weather events directly impact ecosystems?",
+      "options": [
+        "They lead to a rapid increase in the number of new species being born.",
+        "They can lead to a significant loss of biodiversity.",
+        "They make ecosystems entirely immune to human activities.",
+        "They prevent any natural selection from occurring."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    }
+  ]
+}
