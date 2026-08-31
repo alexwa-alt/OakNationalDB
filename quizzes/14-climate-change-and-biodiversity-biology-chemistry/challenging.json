@@ -1,6 +1,6 @@
 {
   "unitKey": "14Climate change and biodiversityBiologyChemistry",
-  "generatedAt": "2026-08-12T06:20:15.241681+00:00",
+  "generatedAt": "2026-08-31T16:15:40.025154+00:00",
   "questions": [
     {
       "question": "Why does the widespread packaging of supermarket foods in traditional plastics pose a long-term resource depletion problem, even before the plastic becomes waste?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 23
+    },
+    {
+      "question": "Many food items in supermarkets are wrapped in single-use plastic packaging. What is the primary environmental concern regarding the raw materials used to manufacture these traditional plastics?",
+      "options": [
+        "They are synthesized from non-renewable fossil fuels, depleting finite resources.",
+        "They are derived from fast-growing agricultural crops, leading to heavy pesticide use.",
+        "They require excessive amounts of fresh water to extract from underground reserves.",
+        "They are obtained by mining rare metal ores, causing widespread soil erosion."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When plastic waste enters marine and terrestrial ecosystems, why does it pose a long-term threat to organisms rather than breaking down quickly?",
+      "options": [
+        "It undergoes rapid chemical degradation into non-toxic gases that alter atmospheric pressure.",
+        "It is highly resistant to natural decomposition, persisting as a pollutant that can physically harm or be ingested by wildlife.",
+        "It dissolves easily in water, creating highly acidic environments that bleach coral reefs.",
+        "It acts as a fertilizer, causing massive algal blooms that deplete oxygen in lakes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Some companies are replacing traditional petroleum-based food wraps with biodegradable bioplastics. Why is this considered a more sustainable alternative?",
+      "options": [
+        "Bioplastics are made from renewable biological resources and can break down more easily in the environment.",
+        "Bioplastics do not require any energy or land to produce, resulting in zero initial emissions.",
+        "Bioplastics can be melted down infinitely without ever losing their original strength or shape.",
+        "Bioplastics actively absorb greenhouse gases directly from the air while sitting on supermarket shelves."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A local grocery store decides to remove all plastic packaging from its fresh cucumber and berry sections. What is a likely negative consequence of this action?",
+      "options": [
+        "The crops will absorb more carbon dioxide during transport, reducing their nutritional value.",
+        "Food spoilage will increase rapidly, leading to a higher volume of food waste.",
+        "The fruits and vegetables will instantly lose their natural defenses against pests.",
+        "Consumers will be exposed to higher levels of natural radiation from the unshielded food."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When deciding whether to package berries in plastic containers, scientists must perform a life-cycle assessment. What key trade-off must be balanced in this decision?",
+      "options": [
+        "The cost of shipping against the natural taste preferences of regional consumers.",
+        "The benefit of preventing food spoilage against the greenhouse gas emissions of production and the threat of plastic pollution to biodiversity.",
+        "The thickness of the plastic walls against the speed at which the fruits ripen on the shelf.",
+        "The water used to wash the plastic against the amount of sunlight required to grow the crops."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "To produce enough food for the global population, vast areas of land are dedicated to agriculture. What is a key pressure associated with growing crops for human and animal consumption?",
+      "options": [
+        "It requires a significant amount of land use, which reduces the space available for natural ecosystems.",
+        "It relies entirely on artificial indoor lighting, which drains urban electricity grids.",
+        "It prevents the natural flow of all major rivers, drying up the oceans.",
+        "It forces wild plants to hybridize, making them completely immune to natural decomposition."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following describes the primary relationship between global agricultural expansion and deforestation?",
+      "options": [
+        "Clearing forests is a minor side effect of urban development, having no link to agriculture.",
+        "Deforestation occurs naturally as trees die out to make room for crop wild relatives.",
+        "Converting forest land into fields and pastures for agriculture is one of the leading causes of deforestation.",
+        "Forests are cut down mainly to obtain wood ash, which is the only viable fertilizer for crops."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "When a large area of tropical forest is cleared and converted into a cattle ranch, what is the direct impact on the local ecosystem?",
+      "options": [
+        "An increase in ecological niches, leading to a rapid rise in native plant species.",
+        "The creation of a stable, self-sustaining climate that prevents extreme weather.",
+        "A significant loss of natural habitat, which drives a decline in biodiversity.",
+        "A reduction in soil erosion because grass roots hold soil better than deep tree roots."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which combination of actions represents effective mitigation strategies to reduce habitat loss and promote ecological recovery?",
+      "options": [
+        "Increasing pesticide use in wild areas and importing more exotic species.",
+        "Adopting plant-rich diets and engaging in positive land-use changes like reforestation and rewilding.",
+        "Converting remaining national parks into highly managed commercial pine plantations.",
+        "Flooding dry grassland habitats to create artificial deep-water reservoirs."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "How does global warming directly threaten the stability of global food production?",
+      "options": [
+        "It increases the atmospheric concentration of oxygen, which stunts crop growth.",
+        "It alters temperature and rainfall patterns, making traditional farming regions less viable for crop cultivation.",
+        "It causes crops to photosynthesize so rapidly that they deplete all atmospheric nitrogen.",
+        "It solidifies groundwater resources, preventing plants from absorbing minerals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Climate change has led to an increase in the frequency and intensity of droughts and floods. How does this trend impact agricultural systems?",
+      "options": [
+        "It makes food production more challenging and unpredictable due to crop damage and soil erosion.",
+        "It benefits farmers by naturally irrigating crops without the need for manual watering systems.",
+        "It eliminates the need for crop rotation by naturally sterilizing the soil of all pathogens.",
+        "It stabilizes crop yields by ensuring that weather conditions remain constant year-round."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A loaf of bread has a carbon footprint that includes emissions from tractor fuel, fertilizer manufacture, transport, and bakery ovens. What does this demonstrate about food production?",
+      "options": [
+        "Only the final transport stage contributes to the carbon footprint of food.",
+        "Greenhouse gases are emitted at multiple stages of food production, adding to its total carbon footprint.",
+        "Baking bread is the only stage of the food supply chain that releases greenhouse gases.",
+        "Agricultural machinery is designed to absorb carbon dioxide from the atmosphere."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How can shifting from a diet high in red meat to a predominantly plant-based diet help limit global climate change?",
+      "options": [
+        "Plant-based diets require more packaging, which stores carbon safely in landfills.",
+        "Growing crops for direct human consumption generally produces fewer greenhouse gas emissions than raising livestock, reducing our overall carbon footprint.",
+        "Plants do not release any gases during transport, whereas livestock release oxygen.",
+        "Eating plants directly reduces the amount of solar radiation that reaches the Earth's surface."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How does large-scale deforestation disrupt the carbon cycle?",
+      "options": [
+        "It increases the rate of photosynthesis in the soil, leading to an excess of oxygen.",
+        "It results in fewer trees to absorb carbon dioxide from the atmosphere for photosynthesis, leaving more CO₂ in the air.",
+        "It stops cellular respiration in all animals, causing carbon dioxide levels to drop to zero.",
+        "It prevents carbon from dissolving in rainwater, which stops the formation of clouds."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Why does an increase in atmospheric carbon dioxide (CO₂) contribute to global climate change?",
+      "options": [
+        "It is a greenhouse gas that traps heat in the atmosphere, enhancing the greenhouse effect.",
+        "It reflects all incoming sunlight back into space, causing the Earth's surface to cool rapidly.",
+        "It reacts with nitrogen gas to create ozone, which blocks all heat from escaping the Earth.",
+        "It increases the density of the air, causing the atmosphere to shrink closer to the ground."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How does the removal of a forest canopy disrupt the water cycle in that local region?",
+      "options": [
+        "It increases the amount of water vapor in the air by speeding up evaporation from deep underground.",
+        "It reduces the amount of water absorbed by roots and transpired into the atmosphere, leading to drier local climates.",
+        "It forces clouds to form at lower altitudes, causing continuous light drizzle instead of rain.",
+        "It prevents water from evaporating from nearby lakes, causing them to overflow."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Following significant deforestation, a region experiences heavy rainfall. Why does this create a major hazard for local communities and food security?",
+      "options": [
+        "The soil absorbs too much water, causing plants to grow too quickly and lose their nutritional value.",
+        "Without trees to intercept rain and absorb water, surface runoff increases, leading to severe flooding that can destroy crops.",
+        "The rainfall is completely blocked from reaching the ground, causing a severe artificial drought.",
+        "The water becomes highly alkaline, which prevents any seeds from germinating in the region."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What is the primary driver of the rapid global warming and climate change observed over the last century?",
+      "options": [
+        "Changes in the Earth's distance from the Sun due to orbital shifts.",
+        "Human activities that release large quantities of greenhouse gases into the atmosphere.",
+        "Heat released from underwater volcanic eruptions and tectonic plate movements.",
+        "A natural decrease in the rate of photosynthesis by ocean phytoplankton."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Polar bears rely on sea ice to hunt seals. As global temperatures rise and sea ice melts, how does this illustrate the impact of climate change on species?",
+      "options": [
+        "Polar bears will rapidly adapt by growing gills to hunt fish underwater.",
+        "The physical conditions of the habitat are changing, making polar bears less well adapted to survive there.",
+        "The change in conditions will cause seal populations to migrate onto dry land to escape the bears.",
+        "Polar bears will stop reproducing to prevent competition for the remaining ice."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "How can more frequent extreme weather events, such as severe prolonged droughts, lead to a decline in biodiversity?",
+      "options": [
+        "They cause all species to undergo rapid mutations, resulting in a single super-species.",
+        "They can destroy habitats and exceed the survival limits of many species, leading to localized or widespread extinctions.",
+        "They force all plants to become carnivores, which disrupts the natural food web.",
+        "They increase the level of nutrients in the soil, which prevents any plant growth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
     }
   ]
 }

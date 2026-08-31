@@ -1,6 +1,6 @@
 {
   "unitKey": "13Reproduction in plantsBiology",
-  "generatedAt": "2026-08-30T13:52:40.949403+00:00",
+  "generatedAt": "2026-08-31T16:15:08.979087+00:00",
   "questions": [
     {
       "question": "In flowering plants, which of the following events marks the exact moment fertilisation occurs?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 9
+    },
+    {
+      "question": "A scientist wants to produce offspring from a flowering plant that inherit a combination of traits from two different parent plants. Which process must occur to achieve this?",
+      "options": [
+        "Vegetative propagation from a stem cutting.",
+        "Sexual reproduction involving the fusion of gametes.",
+        "Asexual budding from the root system.",
+        "Fragmentation of the leaf tissue."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "If a plant breeder removes the anthers from a flower before they mature, which process is directly prevented from occurring in that specific flower?",
+      "options": [
+        "The reception of pollen by the female stigma.",
+        "The production of male gametes by that flower.",
+        "The formation of the female egg cells in the ovary.",
+        "The growth of the pollen tube to the ovule."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of the following statements correctly identifies the location and role of egg cells (ova) in flowering plants?",
+      "options": [
+        "They are produced in the anthers and act as the male gametes.",
+        "They are produced in the ovules and act as the female gametes.",
+        "They are stored in the pollen grains and carry genetic material to the stigma.",
+        "They are located on the style and physically trap pollen grains."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "During a microscopic analysis of a flower, a student observes a structure designed to be transferred to other flowers to deliver male genetic material. What is this structure and what does it carry?",
+      "options": [
+        "Ovule, carrying female gametes.",
+        "Pollen grain, carrying male gametes.",
+        "Anther, carrying zygotes.",
+        "Filament, carrying embryos."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A seed is dissected and found to have a tough outer coat, a small undeveloped plant, and a supply of starch. What are these three components, and where did the seed originally develop?",
+      "options": [
+        "Seed coat, embryo, and food store; developed inside the pollen tube.",
+        "Seed coat, zygote, and anther; developed inside the filament.",
+        "Seed coat, embryo, and food store; developed inside the ovary.",
+        "Seed coat, radicle, and style; developed inside the stigma."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Tomatoes, cucumbers, and pea pods are often called vegetables in supermarkets, but biologically they are fruits. What is the scientific justification for classifying them as fruits?",
+      "options": [
+        "They are sweet and can be eaten raw.",
+        "They develop from the sepals and petals of the flower.",
+        "They are the mature, ripened ovaries of seed-producing plants.",
+        "They contain chloroplasts and perform photosynthesis."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A botanist discovers a new plant species growing along a fast-flowing river. The seeds are enclosed in a buoyant, waterproof fibrous husk. What is the most likely primary dispersal agent for this seed, and why?",
+      "options": [
+        "Wind, because the fibrous husk catches air currents easily.",
+        "Water, because the buoyant, waterproof husk allows the seed to float downstream.",
+        "Animals, because the fibrous husk acts as a hook to cling to animal fur.",
+        "Gravity, because the heavy husk causes the seed to fall straight down."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A farmer notices that a greenhouse crop produces flowers but never develops any fruit. What could be a biological reason for this, and how does a pollinator solve this problem?",
+      "options": [
+        "The flowers lack sunlight; pollinators provide warmth to the petals.",
+        "The flowers lack nutrients; pollinators transfer minerals from the soil.",
+        "The pollen is not reaching the stigmas; pollinators physically transfer pollen from anther to stigma.",
+        "The flowers are sterile; pollinators fuse with the egg cells to create seeds."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "When analyzing the biodiversity of pollinators in an orchard, a student records bees, butterflies, birds, and bats. Which group represents the majority of global pollinators, and which specific organism is the most significant within that group?",
+      "options": [
+        "Mammals, with bats being the largest group.",
+        "Birds, with hummingbirds being the largest group.",
+        "Insects, with bees being the largest group.",
+        "Insects, with butterflies being the largest group."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A nation is assessing whether its population has reliable, ongoing access to sufficient, affordable, and highly nutritious food. Which term describes this specific condition of food availability and access?",
+      "options": [
+        "Agricultural sustainability.",
+        "Food security.",
+        "Dietary diversity.",
+        "Ecological balance."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "To safeguard the future supply of insect-pollinated crops like apples and almonds, conservationists advocate for reducing chemical sprays and restoring wild meadows. Why are these actions vital for human food security?",
+      "options": [
+        "They reduce the amount of carbon dioxide in the atmosphere directly.",
+        "They protect pollinating insects from pesticides and habitat loss, ensuring continued crop pollination.",
+        "They prevent the wind from damaging fragile flower petals during the spring.",
+        "They increase the nutritional value of the soil by eliminating all insects."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A student draws a diagram representing pollination. Which arrow correctly traces the physical path of pollen transfer during this process?",
+      "options": [
+        "From the female ovary to the male filament.",
+        "From the female stigma to the male anther.",
+        "From the male anther to the female stigma.",
+        "From the male pollen tube to the female ovule."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A plant breeder wants to produce a population of flowers with high genetic diversity to help them survive a changing climate. Which type of pollination should they encourage, and why?",
+      "options": [
+        "Self-pollination, because it combines genes from different parts of the same flower.",
+        "Cross-pollination, because it transfers pollen between different plants, increasing genetic variation.",
+        "Self-pollination, because it ensures that only the best traits of a single plant are preserved.",
+        "Cross-pollination, because it prevents any mutations from occurring in the offspring."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Which of the following describes the precise moment of fertilisation in flowering plants?",
+      "options": [
+        "When a pollen grain lands on the sticky surface of the stigma.",
+        "When a pollen tube begins to grow downwards through the style.",
+        "When the nucleus of the male gamete fuses with the nucleus of the female gamete.",
+        "When the ovary wall starts to swell and ripen into a fruit."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Following successful fertilisation, a single diploid cell is formed. What is this cell called, what does it directly develop into, and what is its ultimate fate?",
+      "options": [
+        "Zygote, which grows into an embryo and eventually a new plant.",
+        "Embryo, which grows into a zygote and eventually a fruit.",
+        "Seed coat, which grows into an endosperm and eventually a flower.",
+        "Gamete, which grows into a pollen grain and eventually an anther."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A student investigates how the concentration of a fertilizer (measured in grams per litre) affects the germination rate of seeds. Another student investigates how different soil types (clay, sand, loam) affect the germination rate. Which chart types should they use to display their results?",
+      "options": [
+        "Both should use line graphs because they are investigating germination.",
+        "The first student should use a bar chart; the second should use a line graph.",
+        "The first student should use a line graph; the second should use a bar chart.",
+        "Both should use bar charts because soil type and fertilizer concentration are both categoric."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Dandelion seeds have a parachute-like structure of fine hairs, whereas burdock seeds have tiny hooks. How do these physical adaptations match their dispersal mechanisms?",
+      "options": [
+        "Dandelions are adapted for water dispersal (large surface area to float); burdock is adapted for wind dispersal.",
+        "Dandelions are adapted for wind dispersal (lightweight with high surface area); burdock is adapted for animal dispersal (hooks to cling to fur).",
+        "Dandelions are adapted for animal dispersal (hairs stick to skin); burdock is adapted for self-dispersal (hooks burst open).",
+        "Both are adapted for wind dispersal, but burdock is designed to sink faster."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "In an investigation where students drop paper model seeds from a fixed height to see how wing length affects dispersal distance, what are the variables?",
+      "options": [
+        "Independent variable: release height; Dependent variable: wing length.",
+        "Independent variable: wing length; Dependent variable: distance the seed travels.",
+        "Independent variable: distance the seed travels; Dependent variable: wing length.",
+        "Independent variable: drop location; Dependent variable: weight of the paper."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "A student measures the flight distance of a model seed five times at a wing length of 4 cm. The distances recorded are: 1.2 m, 1.3 m, 3.5 m, 1.2 m, and 1.3 m. How should the student handle these results to get a reliable mean?",
+      "options": [
+        "Add all five values together and divide by five.",
+        "Ignore the 3.5 m value as an anomaly, repeat that measurement, and calculate the mean of the consistent trials.",
+        "Keep only the 3.5 m value because it represents the maximum potential distance.",
+        "Round all values to the nearest whole number before calculating the mean."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "In an experiment, seeds kept at 4°C showed 5% germination, seeds at 20°C showed 90% germination, and seeds at 45°C showed 10% germination. Which statement represents a scientifically sound conclusion based on these results?",
+      "options": [
+        "Warm temperatures always prevent seeds from germinating.",
+        "Seed germination is highest at moderate temperatures (around 20°C) and decreases at extreme high or low temperatures.",
+        "Cress seeds will only germinate if they are placed on wet cotton wool in complete darkness.",
+        "Temperature has no effect on the rate of germination because some seeds germinated in all conditions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
     }
   ]
 }
