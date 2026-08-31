@@ -1,0 +1,226 @@
+{
+  "unitKey": "1ForcesPhysics",
+  "generatedAt": "2026-08-31T16:15:58.567399+00:00",
+  "questions": [
+    {
+      "question": "If two forces of equal size are acting on a box in opposite directions, what can we say about these forces?",
+      "options": [
+        "They are balanced.",
+        "They are unbalanced.",
+        "They create a turning effect.",
+        "They are contact forces."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "An object has a force of 10 N pushing it to the right and a force of 4 N pulling it to the left. What is the resultant force acting on the object?",
+      "options": [
+        "14 N to the right",
+        "6 N to the right",
+        "14 N to the left",
+        "6 N to the left"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "When the forces acting on a moving car are balanced, what happens to the car's speed?",
+      "options": [
+        "The speed increases.",
+        "The speed decreases.",
+        "There is no change in speed.",
+        "The car immediately stops."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If a toy boat has a 5 N force pushing it east and a 2 N force pushing it west, in which direction will the resultant force act?",
+      "options": [
+        "West, because it has the smaller force",
+        "East, because it has the bigger force",
+        "North, because the forces cancel out",
+        "South, because of gravity"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How does the size of the resultant force acting on an object affect its change in speed?",
+      "options": [
+        "The greater the resultant force, the greater or faster the change in speed.",
+        "The greater the resultant force, the slower the change in speed.",
+        "The size of the resultant force has no effect on the change in speed.",
+        "A greater resultant force prevents any change in speed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following best describes the force of friction?",
+      "options": [
+        "A force that pulls objects towards the Earth",
+        "The force of one surface gripping or rubbing on another",
+        "The force that pushes things up in water",
+        "A force that only acts in a vacuum"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is the primary reason for adding a lubricant, like oil, between two moving metal surfaces?",
+      "options": [
+        "To increase the weight of the metal parts",
+        "To reduce the friction between the surfaces",
+        "To make the surfaces rougher",
+        "To increase the contact area"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which scientific instrument is used to measure the size of a force?",
+      "options": [
+        "A thermometer",
+        "A newton meter",
+        "A measuring cylinder",
+        "A weighing balance"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is the standard scientific unit used to measure force?",
+      "options": [
+        "Kilograms (kg)",
+        "Newtons (N)",
+        "Joules (J)",
+        "Metres (m)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What must you do to a newton meter before starting an experiment if no forces are acting on it?",
+      "options": [
+        "Adjust it so that it reads zero",
+        "Set it to its maximum scale reading",
+        "Shake it to loosen the internal spring",
+        "Heat it up to calibrate it"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In an experiment investigating friction, you test different materials (wood, plastic, rubber, metal). What type of chart should you use to display your results?",
+      "options": [
+        "A line graph",
+        "A scatter graph",
+        "A bar chart",
+        "A pie chart only"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "To make an investigation a fair test, how many variables should we change?",
+      "options": [
+        "Only the variable we are testing",
+        "At least two variables",
+        "All of the variables",
+        "None of the variables"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "During a fair test, what must be done to all the variables that we are not testing?",
+      "options": [
+        "They must be changed randomly.",
+        "They must be kept the same for every measurement.",
+        "They must be ignored completely.",
+        "They must be increased gradually."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which of the following describes contact forces?",
+      "options": [
+        "They only act when objects are touching.",
+        "They can act with or without objects touching.",
+        "They only act in outer space.",
+        "They only act when objects are moving away from each other."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "What is a key characteristic of non-contact forces?",
+      "options": [
+        "They can only act when objects are rubbing together.",
+        "They can act with or without the objects touching.",
+        "They are only found inside magnetic materials.",
+        "They require a lubricant to work."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What is drag?",
+      "options": [
+        "A non-contact force that pulls objects towards the ground",
+        "A contact force that pushes against objects moving through liquids or gases",
+        "The force that causes objects to speed up in a vacuum",
+        "A force that only acts when two solid surfaces rub together"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "In physics diagrams, what do force arrows represent?",
+      "options": [
+        "The speed of a moving object",
+        "The direction of a force",
+        "The time it takes for a force to act",
+        "The distance an object has travelled"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "How is the size of a force represented when drawing force arrows?",
+      "options": [
+        "By the colour of the arrow",
+        "By the length of the arrow",
+        "By the width of the arrowhead",
+        "By the angle of the arrow"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "Why does a heavy loaded lorry require a much greater braking distance than a light car travelling at the same speed?",
+      "options": [
+        "The motion of heavier objects is harder to stop.",
+        "Heavier objects experience less air resistance.",
+        "Heavier objects are not affected by gravity.",
+        "The motion of heavier objects is easier to stop."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "In science, what is a force?",
+      "options": [
+        "A type of energy store",
+        "A push or a pull",
+        "The speed of an object",
+        "The temperature of a substance"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 40
+    }
+  ]
+}
