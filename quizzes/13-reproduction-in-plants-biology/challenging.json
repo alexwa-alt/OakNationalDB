@@ -1,6 +1,6 @@
 {
   "unitKey": "13Reproduction in plantsBiology",
-  "generatedAt": "2026-08-31T16:15:08.979087+00:00",
+  "generatedAt": "2026-09-01T13:34:00.760978+00:00",
   "questions": [
     {
       "question": "In flowering plants, which of the following events marks the exact moment fertilisation occurs?",
@@ -661,6 +661,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 4
+    },
+    {
+      "question": "A plant breeder is trying to increase the resilience of a crop species to a newly introduced disease. Why would they encourage cross-pollination over self-pollination?",
+      "options": [
+        "Cross-pollination ensures that all offspring are genetically identical clones of the healthier parent.",
+        "Cross-pollination increases genetic variation within the species, making it more likely some offspring can survive the disease.",
+        "Cross-pollination allows the pollen to fuse directly with the seed coat to create stronger protective layers.",
+        "Cross-pollination reduces the number of seeds produced, allowing the parent plant to focus more energy on disease defense."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A scientist examines a developing seed under a microscope. Which option correctly identifies where this seed was formed and the role of its internal food store?",
+      "options": [
+        "Formed in the anther; the food store provides energy for pollinating insects.",
+        "Formed in the ovary; the food store provides nutrients to the embryo before it can photosynthesise.",
+        "Formed on the stigma; the food store attracts pollen grains to germinate.",
+        "Formed in the ovule; the food store hardens to become the tough outer seed coat."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Farmers in a region decide to clear wild hedgerows and increase chemical pesticide use to maximise crop yields. What is a long-term risk of these actions on food security?",
+      "options": [
+        "It will increase the nutritional value of crops but make them too expensive for local people.",
+        "It destroys habitats and kills pollinating insects, leading to reduced pollination of food crops and lower yields.",
+        "It encourages wind pollination, which causes the crops to produce toxic seeds.",
+        "It completely stops plants from taking up water, meaning no crops can grow at all."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "An investigator measures the height of germinated bean seedlings grown in five different types of soil: clay, sandy, loamy, chalky, and peaty. Which type of graph should they use to display their results, and why?",
+      "options": [
+        "A line graph, because the soil type is a continuous variable.",
+        "A bar chart, because the height of the seedlings is a categoric variable.",
+        "A bar chart, because soil type is a categoric variable.",
+        "A line graph, because seedling height is a continuous variable and must be on the x-axis."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Two model seeds, Model A and Model B, are dropped from the same height. Model A has a large paper wing and is very light. Model B is heavy and has no wing. Which seed model is better adapted for wind dispersal, and why?",
+      "options": [
+        "Model A, because its large surface area and low weight slow its descent, allowing wind to carry it further.",
+        "Model B, because its high weight helps it cut through air currents to travel faster in a straight line.",
+        "Model A, because its aerodynamic shape allows it to fall straight down to avoid predators.",
+        "Model B, because having no wing reduces air resistance, letting it glide long distances."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "An experiment is set up to investigate how temperature affects the germination of cress seeds. Why must the investigator keep all seed trays in complete darkness throughout the experiment?",
+      "options": [
+        "To make sure that temperature is the independent variable being tested.",
+        "To ensure light levels are controlled, so any difference in germination can be attributed solely to temperature.",
+        "Because seeds require complete darkness to activate their food stores for germination.",
+        "To prevent the water in the cotton wool from evaporating at all."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "In a biology lab, a student argues that a pea pod is scientifically a fruit, while another argues it is a vegetable because it is savoury. Which scientific explanation settles this debate?",
+      "options": [
+        "It is a vegetable because it grows close to the ground and does not contain sweet sugars.",
+        "It is a fruit because it is the mature, ripened ovary of the plant and contains seeds.",
+        "It is a fruit because it was formed directly from the pollen grains of the flower.",
+        "It is a vegetable because pea seeds are dispersed by wind rather than animals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which of the following statements accurately describes the process of fertilisation in flowering plants?",
+      "options": [
+        "It is the landing of pollen grains on the sticky surface of the stigma.",
+        "It is the growth of a pollen tube down the style to reach the ovary.",
+        "It is the fusion of the nucleus of a male gamete from a pollen grain with the nucleus of a female gamete inside an ovule.",
+        "It is the division of a zygote to form an embryo within the ripening seed."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "The data shows germination rates of seeds under different conditions: Tray 1 (Wet cotton wool, 20 degrees C, open to air) has 95% germination; Tray 2 (Dry cotton wool, 20 degrees C, open to air) has 0% germination; Tray 3 (Wet cotton wool, 4 degrees C, open to air) has 5% germination; Tray 4 (Wet cotton wool, 20 degrees C, sealed container with an oxygen absorber) has 2% germination. What does this investigation show about the conditions required for germination?",
+      "options": [
+        "Germination requires only water and warm temperatures; oxygen is not necessary.",
+        "Germination requires water, a warm temperature, and oxygen.",
+        "Germination is fastest at low temperatures if oxygen is removed.",
+        "Germination requires soil nutrients, water, and sunlight."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the primary biological function and nature of a pollen grain?",
+      "options": [
+        "It is the female gamete that is fertilised inside the ovary.",
+        "It is a protective spore that grows directly into a new plant seedling.",
+        "It carries the male gametes and is transferred to the female parts of a flower.",
+        "It acts as a food source to nourish the growing embryo inside the seed."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A student measures the dispersal distance of a model seed five times: 1.2m, 1.3m, 4.8m, 1.1m, and 1.2m. How should they process these results to find a valid representative mean?",
+      "options": [
+        "Add all five measurements together and divide by 5.",
+        "Identify 4.8m as an anomaly, exclude it, and calculate the mean of the remaining four values.",
+        "Replace the 4.8m reading with 0.0m and then calculate the average of all five values.",
+        "Use only the median value of 1.2m and ignore the need to calculate any mean."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "Why are animal pollinators, such as bees, essential for the sexual reproduction of many flowering plants?",
+      "options": [
+        "They transport female egg cells from the ovary to the soil where they can grow.",
+        "They transfer pollen from the male anther of one flower to the female stigma of another.",
+        "They digest the outer seed coat of fruits, allowing the embryo inside to germinate.",
+        "They carry nutrients from the soil directly to the flower's reproductive organs."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A student investigates cress seed germination. Trays with water, oxygen, and warmth show 90% germination. Trays lacking any one of these factors show 0% germination. Which is the most scientifically accurate conclusion?",
+      "options": [
+        "Cress seeds will only germinate if they are provided with light, water, and warm temperatures.",
+        "Germination in cress seeds is dependent on the simultaneous presence of water, oxygen, and a warm temperature.",
+        "Water is the single most important factor for germination, while oxygen and temperature are optional.",
+        "Cress seeds contain enough food stores to germinate without any external environmental factors."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which statement best explains why reproduction in flowering plants is classified as sexual reproduction?",
+      "options": [
+        "It involves only one parent plant producing genetically identical offsets from its roots.",
+        "It relies on external agents like wind and insects to disperse seeds to new habitats.",
+        "It involves the fusion of male and female gametes to produce genetically diverse offspring.",
+        "It takes place inside specialized vegetative structures called tubers."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which of the following best describes the concept of 'food security' for a country?",
+      "options": [
+        "Having physical locks and armed guards on grain stores to prevent theft.",
+        "Ensuring that all crops are grown organically without any mechanical machinery.",
+        "Having reliable access to sufficient quantities of affordable, nutritious food.",
+        "Restricting food choices so that citizens only eat crops grown within their immediate town."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A line graph shows germination rate on the y-axis and temperature on the x-axis. The line of best fit rises steeply from 5 degrees C to 25 degrees C, plateaus, and then drops sharply to zero at 45 degrees C. What does this line of best fit indicate?",
+      "options": [
+        "Germination rate is completely independent of temperature changes.",
+        "As temperature increases, germination rate always increases indefinitely.",
+        "There is an optimum temperature range for germination, beyond which high temperatures rapidly stop the process.",
+        "Seeds germinate best at freezing temperatures because the line starts low."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "A certain seed is covered in tiny, curved hooks. How is this seed adapted to be dispersed?",
+      "options": [
+        "It is designed to float on water currents to reach distant riverbanks.",
+        "It is designed to catch the wind and glide like a parachute.",
+        "It is adapted to stick to the fur of passing animals, which carry it away.",
+        "It is adapted to be eaten by birds and pass through their digestive systems unharmed."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A student is planning an investigation to find the minimum volume of water needed for cress seeds to germinate on cotton wool. Which of the following describes a flaw in their plan?",
+      "options": [
+        "Using the same type of cress seeds in each dish.",
+        "Placing different numbers of seeds in each dish, ranging from 5 to 50 seeds.",
+        "Keeping all the dishes in the same incubator set at 20 degrees C.",
+        "Measuring the volume of water added to each dish using a graduated syringe."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What are egg cells (ova) in flowering plants, and where are they located?",
+      "options": [
+        "They are male gametes located inside the pollen grains on the anther.",
+        "They are female gametes located inside the ovules within the ovary.",
+        "They are protective layers located on the outer surface of the petals.",
+        "They are nutrient stores located in the stem of the plant."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In an investigation where paper spinner models are dropped to simulate wind-dispersed seeds, students vary the length of the paper wings. What is the dependent variable in this experiment?",
+      "options": [
+        "The length of the paper wings on the model seeds.",
+        "The height from which the model seeds are dropped.",
+        "The horizontal distance the model seeds travel from the drop point.",
+        "The speed of the fan simulating the wind."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 35
     }
   ]
 }

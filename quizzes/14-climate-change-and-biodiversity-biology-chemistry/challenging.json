@@ -1,6 +1,6 @@
 {
   "unitKey": "14Climate change and biodiversityBiologyChemistry",
-  "generatedAt": "2026-08-31T16:15:40.025154+00:00",
+  "generatedAt": "2026-09-01T13:34:28.632477+00:00",
   "questions": [
     {
       "question": "Why does the widespread packaging of supermarket foods in traditional plastics pose a long-term resource depletion problem, even before the plastic becomes waste?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 24
+    },
+    {
+      "question": "A school canteen wants to reduce its environmental footprint by analyzing its packaging. Why is traditional plastic packaging considered unsustainable from a resources perspective, even before it becomes waste?",
+      "options": [
+        "It is made from crude oil and natural gas, which are finite resources that cannot be replenished.",
+        "It releases high amounts of oxygen during its manufacturing process, destabilizing the atmosphere.",
+        "It is made from organic plant material that requires excessive agricultural land and irrigation.",
+        "It cannot be recycled under any circumstances, meaning it must always go to landfills."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When plastic waste enters marine ecosystems, why does it pose a long-term threat to marine organisms compared to natural waste like fallen leaves?",
+      "options": [
+        "Plastics degrade rapidly into toxic gases that deplete dissolved oxygen within hours.",
+        "Plastics do not easily biodegrade, remaining in the environment for centuries and causing physical harm or ingestion risks.",
+        "Plastics attract predatory species, unnaturally increasing the rate of predation in coastal areas.",
+        "Plastics dissolve in seawater to form highly concentrated strong acids that lower the ocean's pH."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A company designs a new food container made from starch-based bioplastics rather than petroleum-based polyethylene. Why is this considered a more sustainable alternative?",
+      "options": [
+        "Starch-based bioplastics never decompose, meaning they lock away carbon forever.",
+        "They are made from renewable agricultural resources and can be broken down by microorganisms.",
+        "They require zero energy to manufacture and do not release any greenhouse gases during production.",
+        "They are completely impermeable to all gases, eliminating the need for any preservation techniques."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If a supermarket decides to immediately ban all plastic packaging on fresh produce without any alternative, what is a likely negative environmental consequence?",
+      "options": [
+        "An increase in greenhouse gas emissions from decomposed, spoiled food that is wasted.",
+        "A sudden drop in the rate of photosynthesis in nearby agricultural fields.",
+        "An immediate decrease in the demand for fossil fuels for transport.",
+        "A rise in the salt content of the soil due to rapid moisture evaporation from the food."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When deciding whether to use plastic wrap for cucumbers, what trade-off must environmental scientists evaluate?",
+      "options": [
+        "The balance between preventing food spoilage versus the emissions from plastic production and the impact of plastic waste on ecosystems.",
+        "The balance between the high weight of plastic compared to heavy glass versus the natural toxicity of plastic to human skin.",
+        "The speed at which plastic decomposes in sunlight versus the amount of carbon dioxide cucumbers release during transpiration.",
+        "The cost of transporting plastic raw materials versus the thermal energy absorbed by the cucumber during refrigeration."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following best describes the primary driving force behind the large-scale clearing of tropical rainforests globally?",
+      "options": [
+        "Harvesting old trees specifically to produce wood chips for renewable biomass power stations.",
+        "Clearing land to establish new urban centers and high-density residential housing.",
+        "Converting forested land into agricultural space for growing crops and grazing livestock.",
+        "Removing trees to prevent natural forest fires from spreading to nearby desert regions."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "When a large area of forest is cleared for timber and farming, how does this directly impact the local biodiversity?",
+      "options": [
+        "It causes species to immediately mutate and adapt to open grassland conditions.",
+        "It leads to habitat loss, leaving many specialized species without the food, shelter, and breeding sites they need to survive.",
+        "It increases biodiversity because new species of large predators can hunt more easily in open spaces.",
+        "It stops the nitrogen cycle entirely, preventing any plants from growing in the surrounding regions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why does expanding agricultural land to feed a growing human population often lead to a decline in global biodiversity?",
+      "options": [
+        "Monoculture crops attract invasive species that actively hunt all native forest organisms to extinction.",
+        "The fertilizers used in agriculture prevent wild plants from performing respiration.",
+        "Converting diverse natural ecosystems into simplified farmland destroys habitats, driving many native species out.",
+        "Agricultural crops release toxic gases that are lethal to most wild mammal species."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which combination of strategies would be most effective at both reducing global greenhouse gas emissions and restoring lost biodiversity?",
+      "options": [
+        "Increasing meat consumption to reduce crop land use, combined with building concrete sea walls.",
+        "Shifting toward more plant-based diets and converting abandoned agricultural land back into natural forests and wild habitats.",
+        "Replacing all natural forests with fast-growing bioenergy crops and spraying chemical fertilizers over oceans.",
+        "Banning all organic farming methods and replacing them with intensive indoor vertical livestock farming."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why does a rise in global average temperatures pose a direct threat to global food security?",
+      "options": [
+        "High temperatures prevent crop plants from absorbing carbon dioxide for photosynthesis.",
+        "Climate change alters weather patterns and water availability, making traditional crop cultivation unpredictable and risky.",
+        "Warmer temperatures freeze the nutrients in the soil, making them inaccessible to plant roots.",
+        "Solar radiation becomes too weak to support the growth of primary consumers in agricultural systems."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How do more frequent extreme weather events, such as prolonged droughts and intense flooding caused by climate change, affect farming?",
+      "options": [
+        "They stabilize crop yields by washing away weeds and providing constant water to dry areas.",
+        "They make it highly challenging to produce food because they can physically destroy crops, erode fertile soil, and disrupt planting seasons.",
+        "They encourage crops to develop natural resistance to pests, reducing the need for chemical pesticides.",
+        "They accelerate the decomposition of rocks, rapidly creating extremely fertile new topsoil within weeks."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When calculating the total carbon footprint of a loaf of bread, which stages of its production must be included?",
+      "options": [
+        "Only the carbon dioxide released when the bread is baked in the consumer's home oven.",
+        "Only the emissions from the tractor fuel used during the harvesting of the wheat.",
+        "The greenhouse gas emissions from machinery, fertilizer manufacture, transport, processing, and packaging.",
+        "The oxygen absorbed by the yeast during the fermentation process of the dough."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How can individual dietary choices contribute to international efforts to limit global climate change?",
+      "options": [
+        "By choosing foods with lower production emissions, such as plant-based proteins, we reduce the demand for high-emission agricultural practices.",
+        "By eating only cooked foods, we reduce the amount of heat energy lost to the atmosphere.",
+        "By consuming more imported exotic fruits, we help distribute carbon emissions evenly across different countries.",
+        "By reducing water intake, we increase the amount of fresh water available for ocean levels to rise safely."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "An environmental scientist compares the greenhouse gas emissions per kilogram of beef versus a kilogram of lentils. What is the primary benefit of analyzing this data?",
+      "options": [
+        "It helps us determine which food item contains more vitamins and minerals per serving.",
+        "It allows us to understand the relative environmental impact of our food choices to make more sustainable dietary decisions.",
+        "It shows us how quickly beef decomposes in a landfill compared to lentils.",
+        "It measures the exact amount of water that is evaporated during the cooking process of both foods."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Why does the widespread cutting down of trees disrupt the carbon cycle and increase global warming?",
+      "options": [
+        "Fewer trees mean less carbon dioxide is taken out of the atmosphere through photosynthesis, causing the gas to accumulate.",
+        "Dead trees release large amounts of oxygen, which chemically reacts with nitrogen to form greenhouse gases.",
+        "The removal of tree roots prevents carbon dioxide from dissolving into underground water reservoirs.",
+        "Without trees, soil bacteria are forced to perform anaerobic respiration, releasing pure carbon gas."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is the mechanism by which increased levels of atmospheric carbon dioxide (CO₂) lead to global warming?",
+      "options": [
+        "CO₂ blocks incoming solar radiation, trapping cold air near the polar ice caps.",
+        "CO₂ absorbs and re-emits infrared radiation emitted from the Earth's surface, trapping heat in the atmosphere.",
+        "CO₂ reacts with ozone to create a physical blanket that prevents wind from cooling the oceans.",
+        "CO₂ acts as a direct fuel source for volcanic eruptions, raising the surface temperature of the Earth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How does large-scale deforestation directly disrupt the local water cycle?",
+      "options": [
+        "It increases the rate of transpiration, causing excessive rainfall and constant storms.",
+        "It reduces the amount of water absorbed by roots and transpired into the atmosphere, which can lead to reduced rainfall and drier climates.",
+        "It stops condensation from occurring in the upper atmosphere, preventing clouds from forming anywhere on Earth.",
+        "It causes groundwater to turn acidic, preventing water from evaporating from the oceans."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "When trees are removed from a hillside, why does this increase the risk of flooding in nearby agricultural valleys?",
+      "options": [
+        "Without tree canopy and roots to intercept and absorb water, more rainfall becomes surface runoff, leading to flooding that can destroy crops.",
+        "The absence of trees allows wind to push river water uphill into the farming areas.",
+        "Falling leaves from remaining trees block the riverbeds, forcing water to flow sideways onto fields.",
+        "The soil becomes highly magnetic, pulling water down from the clouds at a much faster rate."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following is a direct, active mitigation strategy designed to combat the negative effects of deforestation on the climate?",
+      "options": [
+        "Replacing natural forests with paved urban areas to prevent forest fires.",
+        "Implementing laws to protect existing forests from clearing, alongside planting new trees (reforestation).",
+        "Introducing non-native herbivorous species to eat the lower branches of forest trees.",
+        "Encouraging the burning of agricultural waste inside closed forest environments."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "If a species of alpine flower is highly adapted to cold, snowy winters, how might climate change affect its survival in its current habitat?",
+      "options": [
+        "The warmer, drier winters mean the flower may no longer be well adapted to the altered conditions, reducing its chances of survival.",
+        "The flower will immediately change its genetic code within a single season to prefer hot, dry weather.",
+        "The increased carbon dioxide will make the flower grow so large that it will no longer need water or soil.",
+        "The change in conditions will cause the flower to produce seeds that can fly to other continents automatically."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
     }
   ]
 }

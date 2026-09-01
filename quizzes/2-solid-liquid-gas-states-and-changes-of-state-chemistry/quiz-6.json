@@ -1,0 +1,226 @@
+{
+  "unitKey": "2Solid, liquid, gas states and changes of stateChemistry",
+  "generatedAt": "2026-09-01T13:35:16.252829+00:00",
+  "questions": [
+    {
+      "question": "At what temperature does water boil and also condense under standard conditions?",
+      "options": [
+        "0°C",
+        "50°C",
+        "100°C",
+        "120°C"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is steam?",
+      "options": [
+        "Water in the solid state",
+        "Water in the liquid state",
+        "Water in the gas state",
+        "A mixture of hydrogen and oxygen gas"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What happens to the volume of a substance when it changes from a liquid to a gas by boiling?",
+      "options": [
+        "Its volume increases",
+        "Its volume decreases",
+        "Its volume stays exactly the same",
+        "Its volume becomes zero"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How do particles behave when a substance condenses?",
+      "options": [
+        "They move further apart",
+        "They move closer together",
+        "They stop moving completely",
+        "They increase in size"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What change occurs to a Bunsen burner flame when you open the air hole?",
+      "options": [
+        "It changes from a hot blue flame to an orange sooty flame",
+        "It changes from an orange sooty flame to a hotter, cleaner blue flame",
+        "It changes from a green flame to a yellow safety flame",
+        "The flame goes out immediately"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "If you need to light a Bunsen burner in a science laboratory, where should you light your splint from?",
+      "options": [
+        "The nearest Bunsen burner that is already lit",
+        "A match at the teacher's desk only",
+        "The gas tap directly",
+        "A Bunsen burner on the far side of the room"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How should a lit splint be carried safely across a laboratory?",
+      "options": [
+        "Pointing directly upwards with both hands",
+        "Angled slightly downwards and shielded by the other hand",
+        "Waving it gently from side to side to keep it lit",
+        "Angled upwards and held as high as possible"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which statement correctly compares the energy of different states of matter for a substance?",
+      "options": [
+        "Gas states have the least energy, solids have the most",
+        "Liquids have the most energy, gases have the least",
+        "Solids have the least energy, gas states have the most",
+        "Solids, liquids, and gases all have the same amount of energy"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of the following is true about evaporation?",
+      "options": [
+        "It can only happen at a substance's boiling point",
+        "It can happen at temperatures below a substance's boiling point",
+        "It only happens when a substance is freezing",
+        "It requires the liquid to reach 100°C to start"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How does temperature affect the rate at which water evaporates?",
+      "options": [
+        "The hotter the water, the more slowly it evaporates",
+        "Temperature has no effect on the speed of evaporation",
+        "The hotter the water, the more quickly it evaporates",
+        "Water only evaporates when it is cooled down"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What state change occurs when a substance melts?",
+      "options": [
+        "It changes from liquid to gas",
+        "It changes from gas to solid",
+        "It changes from solid to liquid",
+        "It changes from liquid to solid"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What state change occurs when a substance freezes?",
+      "options": [
+        "It changes from liquid to solid",
+        "It changes from solid to liquid",
+        "It changes from gas to liquid",
+        "It changes from liquid to gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "For a pure substance, how do its melting point and freezing point compare?",
+      "options": [
+        "The melting point is always higher than the freezing point",
+        "The melting point is always lower than the freezing point",
+        "They are the same temperature",
+        "They have no relationship to each other"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What holds the particles in fixed positions when a substance is in its solid state?",
+      "options": [
+        "Gravitational forces between the particles",
+        "Forces of attraction between the particles",
+        "The high energy of the particles",
+        "Air pressure pushing them together"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Describe the particles in a liquid state.",
+      "options": [
+        "They are held in rigid, fixed positions and cannot move",
+        "They are held together but have enough energy to break free to move around",
+        "They have no forces holding them together and are very far apart",
+        "They move in straight lines without ever touching each other"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "How does the strength of the force of attraction between particles affect a substance's melting point?",
+      "options": [
+        "The stronger the force of attraction, the higher the melting point",
+        "The stronger the force of attraction, the lower the melting point",
+        "The strength of the force of attraction does not affect the melting point",
+        "Stronger attractions prevent substances from ever melting"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which set of temperatures correctly identifies the freezing point of water, typical room temperature, and normal human body temperature?",
+      "options": [
+        "Water freezes at 100ºC, room temp is 37ºC, body temp is 20ºC",
+        "Water freezes at 0ºC, room temp is 20ºC, body temp is 37ºC",
+        "Water freezes at 0ºC, room temp is 37ºC, body temp is 100ºC",
+        "Water freezes at -10ºC, room temp is 20ºC, body temp is 37ºC"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which of these is a property of a substance in its gas state?",
+      "options": [
+        "It has a fixed shape and cannot flow",
+        "It cannot be compressed and has a fixed volume",
+        "It can flow, fills the whole of a container, and can be compressed",
+        "It can flow but cannot be compressed"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What is present in the space between the particles in a gas?",
+      "options": [
+        "Air",
+        "Water vapour",
+        "Nothing at all",
+        "Tiny dust particles"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Which statement describes the properties of a substance in the liquid state?",
+      "options": [
+        "It has a fixed shape, does not flow, and cannot be compressed",
+        "It can flow, fills the shape of its container, and cannot be compressed",
+        "It can flow, fills the whole container, and can be compressed",
+        "It has a fixed shape, can flow, and can be compressed"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    }
+  ]
+}
