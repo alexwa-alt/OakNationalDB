@@ -1,6 +1,6 @@
 {
   "unitKey": "1ForcesPhysics",
-  "generatedAt": "2026-08-12T06:04:29.797558+00:00",
+  "generatedAt": "2026-09-01T13:34:49.100011+00:00",
   "questions": [
     {
       "question": "A toy boat is pulled northwards with a force of 12 N by a string, while the water current pushes it southwards with a force of 4 N, and the wind blows it southwards with a force of 3 N. What is the resultant force on the boat?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 32
+    },
+    {
+      "question": "A book is resting on a table. The earth pulls down on the book with a force of 5 N, and the table pushes up on the book with a force of 5 N. Which statement correctly describes this scenario?",
+      "options": [
+        "The forces are balanced because they are equal in size and act in opposite directions.",
+        "The forces are unbalanced because they act on different objects.",
+        "The forces are balanced because they are equal in size and act in the same direction.",
+        "The forces are unbalanced because gravity is stronger than the support force of the table."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A toy car has a forward force of 10 N pushing it to the right and a friction force of 4 N pulling it to the left. What is the resultant force acting on the car?",
+      "options": [
+        "14 N to the right",
+        "6 N to the right",
+        "6 N to the left",
+        "14 N to the left"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "An ice hockey puck is sliding across a perfectly smooth, frictionless ice rink at a constant speed of 5 meters per second. What can we conclude about the forces acting on the puck in the direction of its motion?",
+      "options": [
+        "There is a small forward force keeping it in motion.",
+        "The forward force must be slightly larger than the backward force.",
+        "The forces in the direction of motion are balanced, resulting in zero net force.",
+        "The backward force of friction is gradually slowing it down."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "During a tug-of-war, Team A pulls to the left with a force of 450 N, while Team B pulls to the right with a force of 500 N. In which direction does the resultant force act?",
+      "options": [
+        "To the left, because Team A has less friction.",
+        "To the right, because Team B exerts the larger force.",
+        "It does not act in any direction because the forces cancel out.",
+        "Downwards, due to the combined mass of both teams."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Two identical shopping carts are pushed with different forces. Cart X is pushed with a resultant force of 10 N, while Cart Y is pushed with a resultant force of 30 N. What will be the difference in their motion?",
+      "options": [
+        "Cart X will change its speed faster than Cart Y.",
+        "Cart Y will change its speed faster than Cart X.",
+        "Both carts will change their speed at the exact same rate.",
+        "Cart Y will immediately stop, while Cart X will continue to accelerate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A student winds up a toy car by compressing its internal spring and then places it on the floor. Which energy store increases as the spring is compressed?",
+      "options": [
+        "Gravitational store",
+        "Thermal store",
+        "Kinetic store",
+        "Elastic store"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why is it much harder to slide a heavy wooden crate across a rough concrete floor than across a smooth polished wooden floor?",
+      "options": [
+        "The concrete floor creates a larger contact area with the crate.",
+        "Friction between the crate and the rough concrete is greater, slowing down or preventing movement.",
+        "The concrete floor exerts a stronger magnetic pull on the crate.",
+        "There is no friction acting on the polished wooden floor."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "When bicycle chains become dry, they are hard to pedal and squeak. Adding chain oil makes pedaling much smoother. How does the oil achieve this effect?",
+      "options": [
+        "The oil acts as a lubricant that is added between the moving surfaces to reduce friction.",
+        "The oil increases the grip between the metal links to prevent slipping.",
+        "The oil increases the mass of the chain, giving it more kinetic energy.",
+        "The oil chemically melts away the rough parts of the metal permanently."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Before starting an experiment to measure the weight of different wooden blocks, a student notices that the pointer on their spring balance (newton meter) points to 0.5 N when nothing is hanging from it. What must the student do?",
+      "options": [
+        "Subtract 0.5 N from only the first measurement they record.",
+        "Adjust the newton meter to read zero when no force is applied.",
+        "Ignore the error because it will not affect the final conclusions.",
+        "Multiply all subsequent readings by 0.5 to correct the scale."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A student wants to measure a force that they estimate to be around 8.5 N. They have four newton meters available with different scales. Which meter is the most appropriate to choose?",
+      "options": [
+        "A 0 to 1 N meter with 0.1 N divisions.",
+        "A 0 to 5 N meter with 0.5 N divisions.",
+        "A 0 to 10 N meter with 0.1 N divisions.",
+        "A 0 to 100 N meter with 10 N divisions."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A student tests how different types of surfaces (carpet, wood, tile, bubble wrap) affect the distance a toy car travels. What type of chart should they use to display their results, and why?",
+      "options": [
+        "A line graph, because both variables are continuous.",
+        "A bar chart, because the independent variable (surface type) is categoric.",
+        "A scatter graph, because they are looking for a numerical correlation.",
+        "A pie chart, because the total distance must equal 100%."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "After completing an investigation on friction, a student writes: 'We found that rougher surfaces cause more friction. This is because the wooden block required a force of 4.2 N to slide on sandpaper, but only 1.5 N on polished wood.' Why is this a good conclusion?",
+      "options": [
+        "It states what was found out and also explains how the data supports it.",
+        "It lists all the raw data collected without making any claims.",
+        "It describes the step-by-step method used during the experiment.",
+        "It suggests improvements that could be made to the experimental setup."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "In an experiment investigating how the mass of a toy car affects the distance it rolls down a ramp, which of the following describes how a fair test is maintained?",
+      "options": [
+        "The height of the ramp, the surface of the ramp, and the release method are kept the same for every measurement.",
+        "A different ramp height is used for each mass to keep the speed constant.",
+        "The mass of the car is kept constant while changing the surface of the ramp.",
+        "Multiple students release the car at different times using different techniques."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which of the following correctly pairs a force with its classification as a contact force?",
+      "options": [
+        "Friction, because it only acts when two surfaces are touching.",
+        "Gravity, because it pulls objects down when they touch the ground.",
+        "Magnetism, because magnets must touch to attract or repel.",
+        "Static electricity, because hair must touch a balloon to be attracted."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A piece of paper is attracted upwards towards a statically charged plastic ruler without the ruler actually touching the paper. Which statement best explains this?",
+      "options": [
+        "Static electricity is a contact force that only works through air currents.",
+        "The paper is experiencing a non-contact force, which can act without the objects touching.",
+        "The ruler is creating a temporary gravitational field that pulls the paper.",
+        "A contact force is acting because the air molecules are pushing the paper."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A skydiver is falling through the air. As their speed increases, they feel a growing upward force pushing against their movement. What is the correct term and classification for this force?",
+      "options": [
+        "Drag, which is a non-contact force that acts through a vacuum.",
+        "Friction, which is a non-contact force that only acts on solid metals.",
+        "Drag, which is a contact force that pushes against objects moving through liquids or gases.",
+        "Gravity, which is a contact force pushing upwards against the skydiver."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "In a physics diagram, two forces acting on a box are represented by arrows. Arrow A is twice as long as Arrow B. What does this difference in length represent?",
+      "options": [
+        "Arrow A represents a force that acts over a longer distance than Arrow B.",
+        "Arrow A represents a force of greater size (magnitude) than Arrow B.",
+        "Arrow A represents a force that acts for a longer duration than Arrow B.",
+        "Arrow A represents a contact force, while Arrow B represents a non-contact force."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "A book is resting on a wooden table. Which of the following is the most precise and standard way to label the upward force arrow acting on the book?",
+      "options": [
+        "'The upward force of the table'",
+        "'Force acting on the table by the book'",
+        "'Force acting on the book by the table'",
+        "'Gravity pulling down'"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "A massive container ship and a small motorboat are both traveling at the same speed of 10 knots. Why does the container ship require a much larger braking force and distance to come to a complete stop?",
+      "options": [
+        "Objects with a greater mass need a greater force to change their motion.",
+        "Small boats have more friction acting on them from the water.",
+        "Container ships experience less drag because of their streamlined shape.",
+        "The motorboat has a larger chemical energy store than the container ship."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 39
+    },
+    {
+      "question": "A lump of clay is sitting stationary on a workbench. A student presses down on it with their hand, flattening it. What role did the force from the hand play in this scenario?",
+      "options": [
+        "The force was needed to change the shape of the clay.",
+        "The force was only needed to keep the clay stationary.",
+        "The force was not necessary because clay changes shape naturally over time.",
+        "The force was a non-contact force that didn't touch the clay."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 41
     }
   ]
 }
