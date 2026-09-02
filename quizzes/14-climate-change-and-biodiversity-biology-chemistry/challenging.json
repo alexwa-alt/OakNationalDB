@@ -1,6 +1,6 @@
 {
   "unitKey": "14Climate change and biodiversityBiologyChemistry",
-  "generatedAt": "2026-09-01T13:34:28.632477+00:00",
+  "generatedAt": "2026-09-02T12:52:31.653137+00:00",
   "questions": [
     {
       "question": "Why does the widespread packaging of supermarket foods in traditional plastics pose a long-term resource depletion problem, even before the plastic becomes waste?",
@@ -661,6 +661,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 22
+    },
+    {
+      "question": "Many food manufacturers package their products in plastics. Why is the raw material origin of most traditional plastic packaging considered unsustainable?",
+      "options": [
+        "It is processed from sand and clay, which require high energy to mine.",
+        "It is derived from crude oil, which is a finite fossil fuel that cannot be replenished.",
+        "It is made from biological waste that competes with food crops.",
+        "It relies on plant starches that deplete agricultural soils of nutrients."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When plastic waste enters marine ecosystems, why does it present a severe long-term ecological hazard compared to organic waste?",
+      "options": [
+        "It dissolves rapidly, releasing highly concentrated toxic ions into the seawater.",
+        "It has a molecular structure that resists natural decomposers, allowing it to persist for centuries and physically harm marine life.",
+        "It sinks immediately to the deep ocean floor, blocking geothermal vents and preventing deep-sea photosynthesis.",
+        "It reacts with salt water to form a layer that prevents oxygen from dissolving in the ocean."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A company wants to replace its traditional oil-derived polyethene bags with a bioplastic made from polylactic acid (derived from corn starch). Why is this considered a more sustainable alternative?",
+      "options": [
+        "It is made from renewable biological resources and can break down naturally under the right conditions.",
+        "It requires absolutely no energy to produce and does not release any carbon dioxide during manufacturing.",
+        "It is completely indestructible and can be reused indefinitely without ever degrading.",
+        "It actively absorbs greenhouse gases from the atmosphere while sitting on supermarket shelves."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A supermarket is considering removing all plastic wrap from its fresh cucumbers. What is a likely negative consequence of this action that could harm the environment overall?",
+      "options": [
+        "Cucumbers will photosynthesize faster, depleting the carbon dioxide in the store.",
+        "Increased food spoilage will lead to higher amounts of food waste, wasting the resources used to grow them.",
+        "The cucumbers will absorb nitrogen gas from the air and become toxic.",
+        "Customers will consume more water because unwrapped cucumbers lose their mineral content."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A life-cycle assessment is conducted for packaging a new snack bar. Why must scientists weigh up the benefits of using plastic packaging against its environmental drawbacks?",
+      "options": [
+        "Because plastic packaging is highly toxic to consumers but has no carbon footprint.",
+        "Because the reduction in food waste from packaging must be balanced against the emissions and habitat damage caused by its production and disposal.",
+        "Because plastic packaging always has a lower carbon footprint than no packaging, but it damages the ozone layer.",
+        "Because the energy required to recycle plastic is always exactly equal to the energy required to grow food crops."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following sequences best describes how global demand for meat can drive deforestation?",
+      "options": [
+        "Increased meat demand -> higher livestock emissions -> acid rain -> destruction of forests.",
+        "Increased meat demand -> more land cleared to grow animal feed crops and graze cattle -> large-scale deforestation.",
+        "Increased meat demand -> more wild animals hunted -> disruption of forest food webs -> trees dying out.",
+        "Increased meat demand -> farmers using synthetic fertilizers -> fertilizer runoff poisoning forest tree roots."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A large area of tropical rainforest is cleared to establish a palm oil plantation. How does this land conversion affect the biodiversity of the area?",
+      "options": [
+        "Biodiversity increases because palm trees support a wider variety of specialized herbivores than native rainforest trees.",
+        "Biodiversity remains constant because the total mass of plant material in the plantation matches the original forest.",
+        "Biodiversity decreases significantly because a complex, multi-species habitat is replaced with a monoculture, destroying varied niches.",
+        "Biodiversity increases because clearing the forest allows more sunlight to reach the soil, promoting new wild weed species."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "To mitigate the environmental impact of current agricultural practices, a region decides to implement a rewilding project on former farmland. What is the main ecological benefit of this mitigation strategy?",
+      "options": [
+        "It increases the efficiency of crop harvesting by using autonomous machinery.",
+        "It allows natural habitats to recover, enhancing biodiversity and capturing carbon as native vegetation grows back.",
+        "It guarantees that the soil will become sterile so that pest species cannot survive.",
+        "It reduces the local temperature to freezing, stopping the decomposition of organic matter."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "How do more frequent extreme weather events, such as prolonged droughts and intense heatwaves caused by climate change, directly threaten global food security?",
+      "options": [
+        "They accelerate the natural evolution of crops into non-edible wild varieties.",
+        "They make it difficult for crops to grow and survive, leading to lower yields or complete crop failures.",
+        "They increase the oxygen concentration in the atmosphere, which stunts plant respiration.",
+        "They cause crops to absorb too much nitrogen from the dry soil, making the food taste bitter."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When calculating the total carbon footprint of a loaf of bread, which stages of production must be included?",
+      "options": [
+        "Only the fuel used by the tractor when harvesting the wheat.",
+        "Only the electricity used by the bakery to bake the loaf of bread.",
+        "Every stage, including fertilizer manufacture, tractor fuel, crop processing, baking, transport, and packaging.",
+        "Only the decomposition of the bread wrapper after the consumer throws it away."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How can a widespread societal shift towards eating more plant-based foods and less meat help limit global climate change?",
+      "options": [
+        "Plants do not respire, so growing more crops reduces the total carbon dioxide released by living things.",
+        "Plant-based diets generally require less land and produce fewer greenhouse gas emissions per portion of food than meat-based diets.",
+        "Eating plants increases human core body temperature, reducing the need for home heating.",
+        "Animal farming consumes ozone, whereas plant farming generates ozone to repair the upper atmosphere."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A student compares greenhouse gas emissions data for different diets. They find that a diet high in beef has a much higher carbon footprint than a vegan diet. What is the most scientifically accurate conclusion they can draw?",
+      "options": [
+        "Vegan diets have zero environmental impact because growing crops does not release any greenhouse gases.",
+        "Food choices directly influence total greenhouse gas emissions, and reducing animal product consumption can significantly lower an individual's carbon footprint.",
+        "The carbon footprint of beef is high only because cows release carbon dioxide during photosynthesis.",
+        "Transporting vegetables always produces more emissions than raising and processing local livestock."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How does large-scale deforestation directly disrupt the carbon cycle?",
+      "options": [
+        "Removing trees increases the rate at which carbon is fixed into glucose by the soil bacteria.",
+        "Fewer trees mean less carbon dioxide is absorbed from the atmosphere via photosynthesis, leaving more CO2 to contribute to global warming.",
+        "Dead tree roots release oxygen which oxidizes nitrogen gas in the atmosphere into carbon dioxide.",
+        "The lack of leaves prevents carbon dioxide from dissolving into groundwater through transpiration."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Carbon dioxide (CO2) is often described as a greenhouse gas. What is the mechanism by which increased atmospheric CO2 contributes to climate change?",
+      "options": [
+        "It absorbs outgoing infrared radiation emitted from the Earth's surface and re-radiates it, trapping heat in the atmosphere.",
+        "It reacts with solar radiation to produce extra thermal energy directly in the upper stratosphere.",
+        "It destroys the ozone layer, allowing more high-energy ultraviolet light to heat the ocean depths directly.",
+        "It blocks cold air from space from entering the Earth's atmosphere, leading to a build-up of internal heat."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why does clearing a large forest area disrupt the local water cycle?",
+      "options": [
+        "Because dead wood absorbs more water from the air, causing local droughts.",
+        "Because fewer trees are present to absorb water from the soil and transpire it back into the atmosphere as water vapor.",
+        "Because without trees, clouds cannot physically form low enough to release rain over the land.",
+        "Because tree roots secrete chemicals that turn liquid water into water vapor without needing heat."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Following deforestation, heavy rainfall often leads to severe flooding. Why does this occur, and how does it threaten food security?",
+      "options": [
+        "The lack of trees increases rainfall frequency, which floods crops and prevents them from getting enough sunlight.",
+        "Without tree roots to hold soil and absorb water, surface runoff increases, causing floods that wash away fertile topsoil and destroy crops.",
+        "Deforested soils absorb too much water, causing underground aquifers to burst and drown crop roots from below.",
+        "The lack of transpiration makes the air extremely dry, causing crops to dry out even during a flood."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following is a proactive mitigation strategy to combat the environmental impacts of deforestation?",
+      "options": [
+        "Replacing all natural forests with fast-growing non-native grass lawns.",
+        "Implementing legal protections to prevent logging in vulnerable forests and active reforestation projects to replant native trees.",
+        "Increasing the use of synthetic wood alternatives made from non-biodegradable fossil-fuel plastics.",
+        "Relocating all forest-dwelling animal species into urban zoos to protect them from habitat loss."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What is the primary driver of the rapid global warming and climate change observed over the last century?",
+      "options": [
+        "Natural fluctuations in the Earth's orbit that bring us closer to the Sun every hundred years.",
+        "An increase in volcanic activity releasing molten lava into the oceans and heating them up.",
+        "Human activities, such as burning fossil fuels and deforestation, which release large quantities of greenhouse gases into the atmosphere.",
+        "A temporary increase in the intensity of solar flares emitted by the Sun."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Many Arctic seals rely on stable sea ice platforms to rest, give birth, and nurse their pups. How does climate change affect their survival?",
+      "options": [
+        "Warmer temperatures cause the seals' fur to fall out, meaning they can no longer swim in cold water.",
+        "Rising temperatures melt sea ice, changing their habitat conditions so that their existing adaptations are no longer as effective for survival.",
+        "The seals are forced to hibernate during the summer, meaning they miss the key hunting season.",
+        "The melting ice releases high concentrations of salt, which makes the sea water too dense for the seals to dive."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "As global temperatures rise, a species of mountain butterfly finds its current habitat at the base of the mountain too warm. How might this species survive, and why is this not a guaranteed solution for all species?",
+      "options": [
+        "It can hibernate for several decades until the climate cools down, but other species cannot hibernate.",
+        "It can migrate to higher, cooler altitudes, but other species may face physical barriers, lack suitable food, or have nowhere higher to go.",
+        "It can change its diet to eat rocks instead of plants, but most other species cannot adapt their digestive systems so quickly.",
+        "It can genetically mutate within its own lifetime to tolerate extreme heat, whereas larger animals cannot mutate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
     }
   ]
 }

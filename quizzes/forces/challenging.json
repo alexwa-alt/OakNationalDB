@@ -1,6 +1,6 @@
 {
   "unitKey": "1ForcesPhysics",
-  "generatedAt": "2026-09-01T13:34:49.100011+00:00",
+  "generatedAt": "2026-09-02T12:53:12.987263+00:00",
   "questions": [
     {
       "question": "A toy boat is pulled northwards with a force of 12 N by a string, while the water current pushes it southwards with a force of 4 N, and the wind blows it southwards with a force of 3 N. What is the resultant force on the boat?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 41
+    },
+    {
+      "question": "A toy boat experiences a forward thrust of 12 N from its propeller, a water resistance force of 8 N acting in the opposite direction, and a strong wind pushing it forward with a force of 3 N. What is the resultant force acting on the boat?",
+      "options": [
+        "17 N forward",
+        "7 N forward",
+        "23 N forward",
+        "1 N backward"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "During a tug-of-war, Team A pulls to the left with a force of 450 N, while Team B pulls to the right with a force of 480 N. Which of the following describes the resulting motion and direction of the rope's center?",
+      "options": [
+        "The rope moves to the left because the resultant force acts to the left.",
+        "The rope moves to the right because the resultant force acts to the right.",
+        "The rope does not move because both teams are pulling.",
+        "The rope moves to the right with a force of 930 N."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Four identical shopping carts are pushed from rest. Cart A has a resultant force of 5 N, Cart B has 12 N, Cart C has 3 N, and Cart D has 8 N. Assuming all other factors are identical, which cart will experience the fastest change in speed?",
+      "options": [
+        "Cart A",
+        "Cart B",
+        "Cart C",
+        "Cart D"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When we say a fully charged battery or a raised weight has energy, what does this fundamentally mean about the object in terms of physical interactions?",
+      "options": [
+        "It contains a physical fluid called energy that flows out during a collision.",
+        "It possesses properties that allow it to interact with other objects, cause changes, or make things happen.",
+        "It is immune to external forces like friction and gravity until the energy is gone.",
+        "It must be actively moving or emitting light at that exact moment."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Two highly polished metal blocks are placed together. Even though they look perfectly smooth to the naked eye, a microscopic analysis explains why a small frictional force still exists between them. Why does this friction occur?",
+      "options": [
+        "The microscopic peaks and troughs on the surfaces still touch and lock together.",
+        "The blocks are chemically bonding and melting into a single piece.",
+        "The air pressure between the blocks is pushing them apart.",
+        "One block is always heavier than the other block."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Before starting an experiment to measure the pulling force on a wooden block, a student notices that the pointer on their spring balance (newton meter) sits at 0.5 N when nothing is hanging from it. What action should the student take to ensure their measurements are accurate?",
+      "options": [
+        "Subtract 0.5 N from only the final average of their results.",
+        "Adjust the scale or pointer to read zero when no force is applied.",
+        "Add 0.5 N to every reading they record during the experiment.",
+        "Proceed with the experiment since a small starting offset does not affect the force readings."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A student needs to measure a small friction force expected to be around 0.8 N. They have three newton meters available: Meter X (range 0-1 N, divisions of 0.05 N), Meter Y (range 0-10 N, divisions of 0.5 N), and Meter Z (range 0-50 N, divisions of 5 N). Which meter should they select and why?",
+      "options": [
+        "Meter Z, because its large range prevents it from breaking if the force is slightly higher.",
+        "Meter Y, because a 10 N scale is the standard size for all school laboratory experiments.",
+        "Meter X, because its scale is best suited to measure small forces with high precision.",
+        "Any of the meters, as they will all give the exact same reading of 0.8 N."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "An investigator tests how different materials (rubber, wood, steel, and plastic) affect the friction force when dragged across a concrete floor. How should they present their final data, and why?",
+      "options": [
+        "A line graph, because the independent variable is continuous.",
+        "A bar chart, because the independent variable is categoric.",
+        "A scatter graph, because there are two continuous variables.",
+        "A pie chart, because the friction forces must add up to 100 percent."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A mechanical engineer tests four different oils on a steel hinge to find the most effective lubricant. She measures the force needed to move the hinge before and after applying each oil. Which of the following results indicates the most effective lubricant?",
+      "options": [
+        "Oil A: the force required to move the hinge increased by 2 N.",
+        "Oil B: the force required to move the hinge remained exactly the same.",
+        "Oil C: the force required to move the hinge decreased by 8 N.",
+        "Oil D: the force required to move the hinge decreased by 2 N."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which of the following represents a complete and scientifically sound conclusion for an investigation into how surface roughness affects friction?",
+      "options": [
+        "We dragged a block over sandpaper, wood, and plastic, and we used a newton meter to record the forces.",
+        "The rougher the surface, the greater the friction force, because the sandpaper required a force of 4.5 N while the smooth plastic only required 1.2 N.",
+        "Friction is a contact force that slows things down, which is why cars have brakes made of rubber.",
+        "The experiment was a fair test because we used the same block and pulled it at the same speed every time."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A group of students is investigating how the mass of a toy car affects the distance it travels after rolling down a ramp. To make this a fair test, which set of variables must they keep constant?",
+      "options": [
+        "The mass of the car, the height of the ramp, and the release method.",
+        "The height of the ramp, the surface of the ramp, and the release method.",
+        "The mass of the car, the surface of the ramp, and the distance travelled.",
+        "The distance travelled, the time taken, and the mass of the car."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A student holds a strong magnet near an iron paperclip resting on a table. Before the magnet even touches the paperclip, the paperclip leaps upward onto the magnet. Which statement correctly explains this observation?",
+      "options": [
+        "Magnetic forces can only act when two objects are in direct physical contact.",
+        "Magnetic forces are non-contact forces that can act with or without physical contact.",
+        "The paperclip jumped because of air currents created by the movement of the hand.",
+        "Gravity stopped acting on the paperclip once the magnet was brought close."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A skydiver falls through the air before opening their parachute. What is the nature of the drag force acting on the skydiver?",
+      "options": [
+        "It is a non-contact force that pulls the skydiver toward the clouds.",
+        "It is a contact force caused by air particles pushing against the moving skydiver.",
+        "It is an electrostatic force that attracts the skydiver to the surrounding air.",
+        "It is a magnetic force that slows down the metal parts of the parachute."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "A student draws a force diagram of a swimmer. The arrow pointing forward (thrust) is drawn 4 cm long, while the arrow pointing backward (drag) is drawn 2 cm long. What does this difference in arrow length represent?",
+      "options": [
+        "The thrust force is acting over a longer distance than the drag force.",
+        "The thrust force is twice as large in size as the drag force.",
+        "The swimmer is accelerating downwards because of the drag force.",
+        "The drag force is being applied for a longer period of time than the thrust."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "When drawing a force arrow to represent the upward normal contact force of the ground acting on a heavy box, where should the tail (starting point) of the arrow be positioned?",
+      "options": [
+        "At the very top of the box, pointing towards the sky.",
+        "At the center of gravity of the Earth, pointing downwards.",
+        "At the point of contact between the bottom of the box and the ground.",
+        "Floating 2 cm above the box to avoid overlapping the diagram."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "A book rests on a wooden table. Which of the following is the most scientifically precise and complete label for the upward force supporting the book?",
+      "options": [
+        "Upward force of gravity",
+        "Force acting on the table by the book",
+        "Force acting on the book by the table",
+        "Friction on the floor"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "A massive cargo ship and a small speedboat are both travelling at 5 m/s. Why does the cargo ship require a much larger force and a longer distance to come to a complete stop compared to the speedboat?",
+      "options": [
+        "The cargo ship has a smaller surface area in contact with the water.",
+        "The cargo ship has a greater mass, meaning it needs a greater force to change its motion.",
+        "The speedboat is affected by a larger gravity force due to its design.",
+        "Water resistance does not act on objects with a large mass."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 39
+    },
+    {
+      "question": "A lump of clay is sitting stationary on a workbench. Which of the following actions demonstrates that a force is required to change either its motion or its shape?",
+      "options": [
+        "Leaving the clay untouched overnight so that it dries out.",
+        "Squeezing the clay with your hands to flatten it into a pancake.",
+        "Observing the clay while it remains perfectly still in a draft-free room.",
+        "Shifting your viewpoint to look at the clay from a different angle."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 41
+    },
+    {
+      "question": "An airplane travels at a constant speed of 250 m/s in a straight line. What can be concluded about the forces acting on the airplane?",
+      "options": [
+        "The forward thrust must be much greater than the drag force to maintain this high speed.",
+        "The forces are balanced, meaning there is no resultant force and no change in speed.",
+        "There are no forces at all acting on the airplane while it is high in the air.",
+        "The lift force is the only active force keeping the airplane at a constant altitude."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "When a cyclist applies the brakes to slow down a bicycle, how is energy transferred between the system's stores by the action of forces?",
+      "options": [
+        "Energy is destroyed by the friction force, reducing the total energy in the universe.",
+        "Mechanical work done by the friction force transfers energy from the kinetic store to the thermal store of the brakes.",
+        "The kinetic energy is converted into a physical force that vanishes once the bicycle stops.",
+        "Chemical energy is transferred directly into gravitational energy without any force acting."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
     }
   ]
 }
