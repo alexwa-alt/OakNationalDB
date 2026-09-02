@@ -1,0 +1,226 @@
+{
+  "unitKey": "3CellsBiology",
+  "generatedAt": "2026-09-02T12:54:36.714613+00:00",
+  "questions": [
+    {
+      "question": "Although animal and plant cells are often drawn flat on a page, what is their actual shape in real life?",
+      "options": [
+        "They are completely flat and two-dimensional",
+        "They have a three-dimensional shape",
+        "They are perfect hollow cylinders",
+        "They change into random shapes every second"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following lists contains only structures commonly found in animal cells?",
+      "options": [
+        "Chloroplast, cell wall, nucleus",
+        "Cytoplasm, cell membrane, nucleus, mitochondria",
+        "Vacuole, cell wall, cytoplasm",
+        "Mitochondria, chloroplast, vacuole, cell membrane"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the main function of the mitochondria in an animal cell?",
+      "options": [
+        "To control all the activities of the cell",
+        "To release energy through respiration",
+        "To store genetic material",
+        "To hold the cell together and act as a barrier"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is a unicellular organism?",
+      "options": [
+        "An organism made of a single living cell",
+        "An organism made of exactly two cells",
+        "An organism with no cells at all",
+        "An organism with millions of cells"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which statement is true about multicellular organisms?",
+      "options": [
+        "They are made of only one cell that does every job",
+        "They are made of multiple cells, and all cells do the exact same job",
+        "They are made of more than one cell, and different cells perform different jobs",
+        "They do not contain any specialized cells"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "In multicellular organisms, what is formed when similar cells join together to perform a specific job?",
+      "options": [
+        "An organ system",
+        "A tissue",
+        "A unicellular organism",
+        "An organelle"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What is the correct scientific term for a group of different tissues working together to perform a specific job?",
+      "options": [
+        "An organ",
+        "An organ system",
+        "An organism",
+        "A cell colony"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What are the living building blocks that make up all organisms?",
+      "options": [
+        "Atoms",
+        "Cells",
+        "Tissues",
+        "Organs"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why do we need a microscope to see individual cells?",
+      "options": [
+        "Because cells are usually too small to see with the unaided eye",
+        "Because cells only exist inside dark rooms",
+        "Because cells are transparent and have no mass",
+        "Because cells move too fast to be seen by humans"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which scientific instrument is most commonly used in a school laboratory to observe cells on a prepared slide?",
+      "options": [
+        "A magnifying glass",
+        "A telescope",
+        "A light microscope",
+        "A spectroscope"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of these is a true statement about plant cells?",
+      "options": [
+        "Plant cells do not have a nucleus",
+        "Plant cells have some common structures shared across different plants",
+        "Plant cells are exactly identical to animal cells in every way",
+        "Plant cells lack a cytoplasm"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following structures is found in plant cells but NOT in animal cells?",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Cell wall",
+        "Cytoplasm"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is the function of the permanent vacuole in a plant cell?",
+      "options": [
+        "To carry out photosynthesis",
+        "To control what enters and leaves the cell",
+        "To contain cell sap and help keep the cell firm",
+        "To release energy from glucose"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is the main reason for adding a chemical stain to a cell sample before viewing it under a microscope?",
+      "options": [
+        "To kill any bacteria on the slide",
+        "To make it easier to see some parts of the cells",
+        "To glue the cover slip down tightly",
+        "To change the magnification of the lens"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "How should observations from a light microscope be recorded in a science notebook?",
+      "options": [
+        "As a colorful oil painting",
+        "As a scientific line drawing",
+        "As a detailed written paragraph only",
+        "As a 3D clay model"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What makes specialised cells different from general cells?",
+      "options": [
+        "They have shapes, sizes, and structures adapted for the specific jobs they do",
+        "They can live outside an organism indefinitely",
+        "They contain no genetic material",
+        "They do not require nutrients to survive"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Which of the following is an example of a specialised plant cell?",
+      "options": [
+        "Red blood cell",
+        "Nerve cell",
+        "Root hair cell",
+        "Muscle cell"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Which of the following statements about life processes is correct?",
+      "options": [
+        "Only animals undergo life processes",
+        "Plants do not require any life processes",
+        "The same basic life processes happen in all living organisms",
+        "Unicellular organisms do not carry out life processes"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Which of these is a complete list of life processes shared by all living organisms?",
+      "options": [
+        "Movement, reproduction, sensitivity, growth, respiration, excretion, nutrition",
+        "Breathing, walking, thinking, sleeping, eating, growing, talking",
+        "Photosynthesis, digestion, circulation, hearing, running, smelling",
+        "Melting, freezing, evaporating, condensing, dissolving, burning"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Under what condition is movement considered a true sign of life for an organism?",
+      "options": [
+        "When the organism is carried by the wind",
+        "When the organism moves itself to achieve something",
+        "When the organism is washed away by water",
+        "When the organism expands due to heat"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    }
+  ]
+}

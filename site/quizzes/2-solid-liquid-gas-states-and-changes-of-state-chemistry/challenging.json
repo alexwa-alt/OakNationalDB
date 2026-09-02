@@ -1,6 +1,6 @@
 {
   "unitKey": "2Solid, liquid, gas states and changes of stateChemistry",
-  "generatedAt": "2026-08-12T06:04:26.984109+00:00",
+  "generatedAt": "2026-09-02T12:54:05.821915+00:00",
   "questions": [
     {
       "question": "If pure water is heated until it boils at 100°C, at what temperature will the resulting steam begin to condense back into liquid water if it is cooled under the same atmospheric pressure?",
@@ -220,6 +220,226 @@
         "The volume increases slightly because of the expansion of liquid water."
       ],
       "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "If pure water is being cooled from 120°C, at what temperature will it transition from a gas to a liquid, and what is this temperature point called?",
+      "options": [
+        "100°C, its condensing point",
+        "100°C, its melting point",
+        "0°C, its freezing point",
+        "120°C, its boiling point"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "During an experiment, a student boils liquid nitrogen to form nitrogen gas. Which statement best describes what happens to the nitrogen particles during this state change?",
+      "options": [
+        "The particles grow in size to occupy the new volume.",
+        "The particles move much further apart from each other.",
+        "The particles begin to vibrate in fixed positions.",
+        "The particles lose energy and clump together"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A student wants to heat a beaker of water as quickly as possible without leaving soot on the bottom of the beaker. What adjustment should they make to the Bunsen burner, and why?",
+      "options": [
+        "Close the air hole completely to get a bright yellow-orange flame.",
+        "Open the air hole to get a hotter, cleaner blue flame.",
+        "Turn down the gas tap to make the orange flame smaller.",
+        "Remove the collar completely so that the air cannot mix with the gas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "When moving across a laboratory to light a Bunsen burner with a wooden splint, what is the safest way to carry the lit splint?",
+      "options": [
+        "Pointing vertically upwards to keep the flame away from the floor.",
+        "Angled slightly downwards and shielded with your other hand.",
+        "Held horizontally at arm's length while walking quickly.",
+        "Waving it gently from side to side so it does not extinguish."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Equal masses of the same substance are compared in its solid, liquid, and gas states. Which of the following correctly ranks the states from the one with the least total energy to the one with the most total energy?",
+      "options": [
+        "Gas, liquid, solid",
+        "Solid, liquid, gas",
+        "Liquid, solid, gas",
+        "Gas, solid, liquid"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A puddle of water on a pavement disappears on a cool autumn day when the temperature is only 12°C. How is this possible?",
+      "options": [
+        "Water can only change to a gas when it reaches its boiling point of 100°C.",
+        "Water in its liquid state can evaporate at temperatures well below its boiling point.",
+        "The water must have sunk into the solid concrete rather than turning into gas.",
+        "The cold air forced the water to freeze and then immediately sublimate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "An industrial dryer needs to remove moisture from fabric. Based on the behavior of water, why is hot air used instead of cold air?",
+      "options": [
+        "Hot water evaporates more slowly, allowing the fabric to dry more evenly.",
+        "Hot air increases the boiling point of the water so it can boil instantly.",
+        "The hotter the water, the more quickly it evaporates.",
+        "Hot air chemically converts water particles into hydrogen and oxygen."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A sample of a pure unknown metal is observed to melt at exactly 660°C. If you have a liquid sample of this same pure metal and cool it down, at what temperature will it begin to freeze?",
+      "options": [
+        "At a temperature much lower than 660°C, because freezing requires much less energy.",
+        "At exactly 660°C, because the melting point and freezing point of a pure substance are the same.",
+        "At 0°C, because all liquids freeze at the same temperature as water.",
+        "At a temperature higher than 660°C, because liquid particles have more energy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why does a solid iron bar maintain its fixed shape and refuse to flow when placed into a large bucket?",
+      "options": [
+        "The particles in a solid are held in fixed positions by forces of attraction between them.",
+        "The particles are extremely large and cannot squeeze past each other.",
+        "There is absolutely no energy remaining in the particles of a solid.",
+        "The forces of attraction between the particles have been completely broken."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which statement best explains why liquid water can flow and take the shape of its container, yet cannot easily be compressed into a smaller volume?",
+      "options": [
+        "The particles have no forces of attraction between them, allowing them to move completely independently.",
+        "The particles are held together but have enough energy to break free and move around each other.",
+        "The particles are fixed in a rigid grid but vibrate very violently.",
+        "The particles are separated by massive gaps filled with air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Substance X melts at -97°C, while Substance Y melts at 801°C. What does this tell us about the forces of attraction between the particles in these two substances?",
+      "options": [
+        "Substance X has stronger forces of attraction between its particles than Substance Y.",
+        "Substance Y has stronger forces of attraction between its particles than Substance X.",
+        "Both substances have identical forces of attraction, but Substance Y is much heavier.",
+        "Neither substance has any forces of attraction between its particles when solid."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "If you place a beaker of pure water in a room kept at exactly 20°C, what state will the water be in, and what is this temperature commonly referred to?",
+      "options": [
+        "Solid state, because 20°C is below the freezing point of water.",
+        "Liquid state, because 20°C is room temperature, which is above the freezing point of water.",
+        "Gas state, because 20°C is body temperature, which causes rapid boiling.",
+        "Liquid state, because 20°C is the boiling point of water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A scientist pumps a small amount of gas into a large, sealed, empty glass jar. Which of the following correctly describes the behavior of the gas?",
+      "options": [
+        "It sinks to the bottom of the jar and maintains a flat, fixed surface.",
+        "It clumps together in the center of the jar in a fixed solid shape.",
+        "It flows to fill the entire container and can be compressed if the jar's volume is reduced.",
+        "It cannot flow or be compressed because gases behave exactly like liquids."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Why is a gas able to expand indefinitely to fill any container it is placed in?",
+      "options": [
+        "The particles have enough energy to be free of the attractive forces between them.",
+        "The particles are constantly dividing to create more particles.",
+        "The forces of attraction between gas particles become infinitely strong.",
+        "Air pressure outside the container actively pulls the gas particles apart."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "If you could zoom in and look at a sample of pure helium gas, what would you find in the spaces between the helium particles?",
+      "options": [
+        "Tiny particles of air and water vapor",
+        "Pure liquid helium filling the gaps",
+        "Nothing at all",
+        "Heat energy in the form of a light blue liquid"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A heavy copper block is moved from a small wooden crate into a large spherical glass bowl. How do the shape and volume of the copper block change?",
+      "options": [
+        "It flows to take the shape of the bowl, but its volume remains the same.",
+        "It maintains its fixed shape, does not flow, and cannot be compressed.",
+        "It expands to fill the entire bowl and can easily be compressed.",
+        "It crumbles into a liquid-like state because its container has changed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "If 50 ml of liquid water is poured from a tall narrow cylinder into a wide flat dish, what happens to the water?",
+      "options": [
+        "It keeps its original cylinder shape and refuses to spread out.",
+        "It flows to take the shape of the dish, but its volume cannot be compressed to a smaller size.",
+        "It instantly compresses itself to occupy only half of its original volume.",
+        "It expands to fill the entire room as a gas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "A student looks at a clear, pure sample of liquid alcohol under a standard classroom school microscope but cannot see any individual particles. Why is this?",
+      "options": [
+        "Liquid alcohol does not contain any particles until it freezes.",
+        "The particles have melted and merged into one continuous giant particle.",
+        "All substances are made of particles that are far too small to see with the naked eye or standard microscopes.",
+        "Alcohol is a gas in disguise and has no physical particles."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "When a kettle of water boils on a stove, the lid starts to rattle and lift. What physical change causes this effect?",
+      "options": [
+        "The water particles shrink, leaving more empty space that pushes the lid.",
+        "The substance increases significantly in volume when it transitions to the gas state.",
+        "The liquid water expands slightly as it turns into ice inside the kettle.",
+        "The metal of the kettle contracts, forcing the water level to rise."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If a sealed, flexible bag filled with hot water vapor is cooled down until the vapor condenses back into liquid water, what will happen to the volume of the bag?",
+      "options": [
+        "The volume will decrease because a substance decreases in volume when it condenses into a liquid.",
+        "The volume will increase because liquid particles are much larger than gas particles.",
+        "The volume will remain exactly the same because the mass of the water has not changed.",
+        "The volume will expand violently because condensing releases trapped air."
+      ],
+      "correctAnswerIndex": 0,
       "learningPointIndex": 3
     }
   ]
