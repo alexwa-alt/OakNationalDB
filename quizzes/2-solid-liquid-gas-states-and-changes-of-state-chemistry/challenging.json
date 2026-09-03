@@ -1,6 +1,6 @@
 {
   "unitKey": "2Solid, liquid, gas states and changes of stateChemistry",
-  "generatedAt": "2026-09-02T12:54:05.821915+00:00",
+  "generatedAt": "2026-09-03T12:55:14.415197+00:00",
   "questions": [
     {
       "question": "If pure water is heated until it boils at 100°C, at what temperature will the resulting steam begin to condense back into liquid water if it is cooled under the same atmospheric pressure?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 3
+    },
+    {
+      "question": "If pure water is heated until it boils, and the steam produced is captured and cooled until it condenses, how do the boiling point and condensing point of this water compare?",
+      "options": [
+        "The boiling point is 100°C, but the condensing point is slightly lower due to energy loss.",
+        "The boiling point is 100°C, which is exactly the same temperature as its condensing point.",
+        "The boiling point is higher than 100°C, while the condensing point is lower than 100°C.",
+        "The condensing point is 100°C, but the boiling point can vary depending on the heating rate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When 10 ml of liquid water is completely boiled in a sealed, flexible container, what happens to the total volume occupied by the water substance?",
+      "options": [
+        "It remains exactly 10 ml because the mass of the water has not changed.",
+        "It decreases because gas particles are smaller than liquid particles.",
+        "It increases significantly because the substance increases in volume in the gas state.",
+        "It increases slightly only because the temperature of the container increases."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "During a laboratory experiment, steam is cooled inside a syringe until it condenses into liquid water. What happens to the water particles during this condensation process?",
+      "options": [
+        "The particles move closer together.",
+        "The particles shrink in size.",
+        "The particles stop moving completely.",
+        "The particles move further apart."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A student is heating a beaker of water and notices black soot forming on the bottom of the beaker. What adjustment should they make to the Bunsen burner to prevent this and heat the water faster?",
+      "options": [
+        "Close the air hole to make the flame orange and quieter.",
+        "Open the air hole to change the flame to a hotter, cleaner, blue flame.",
+        "Turn the gas tap down to reduce the supply of gas to the burner.",
+        "Blow gently on the flame to increase the oxygen supply."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which of the following describes the correct and safe way to transport a lit wooden splint across a science laboratory to light a Bunsen burner?",
+      "options": [
+        "Hold the splint pointing vertically upwards to prevent it from burning down too quickly.",
+        "Run quickly with the splint held horizontally so the flame does not blow out.",
+        "Carry the splint with the flame angled slightly downwards and shielded by the other hand.",
+        "Hold the splint pointing directly downwards with your arm fully extended to your side."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "An equal mass of a substance is kept at three different temperatures so that it exists as a solid, a liquid, and a gas. How does the energy of the substance compare across these three states?",
+      "options": [
+        "The solid state has the most energy, and the gas state has the least.",
+        "The liquid state has the most energy, while the solid and gas states have equal energy.",
+        "The gas state has the most energy, and the solid state has the least.",
+        "All three states have the same amount of energy because the mass is equal."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A shallow puddle of water on a road disappears after a few hours on a cool autumn day when the temperature is only 12°C. Which statement best explains this?",
+      "options": [
+        "Liquid water can only turn into a gas when it reaches its boiling point of 100°C.",
+        "The water must have soaked entirely into the road because evaporation cannot occur below 100°C.",
+        "A substance in its liquid state can evaporate at temperatures below its boiling point.",
+        "The air temperature of 12°C is actually above the boiling point of impure rainwater."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Two identical cups, one containing hot water at 80°C and the other containing cold water at 20°C, are left in the same room. Why does the level of water in the hot cup decrease faster?",
+      "options": [
+        "The hotter the water, the more quickly it evaporates.",
+        "Cold water cannot evaporate at room temperature, so its level remains completely constant.",
+        "The hot water is boiling, which is the only way water can escape into the air.",
+        "The cold water is absorbing moisture from the air, which refills the cup."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A scientist measures the temperature of a drying puddle of pure water and finds it is 15°C. Is it possible for water to evaporate at this temperature?",
+      "options": [
+        "No, because evaporation is another word for boiling, which only happens at 100°C.",
+        "Yes, because water evaporates at temperatures that are lower than 100°C.",
+        "No, because water only evaporates when the air temperature is at least 50°C.",
+        "Yes, but only if the water is boiling rapidly at 15°C."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "When liquid candle wax is left to cool, it gradually hardens into solid wax. Which of the following describes this change of state?",
+      "options": [
+        "Melting, where a liquid changes to a solid.",
+        "When it freezes, a substance changes from the liquid state to the solid state.",
+        "Condensation, where a gas changes to a solid.",
+        "Evaporation, where a liquid changes to a gas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A sample of pure chemical X melts at 45°C. What is the freezing point of this same pure chemical X?",
+      "options": [
+        "0°C, because all substances freeze at the same temperature as water.",
+        "90°C, which is double the melting point.",
+        "45°C, because the melting point and freezing point of a pure substance are the same temperature.",
+        "-45°C, because freezing is the negative opposite of melting."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why does a solid iron block maintain a fixed shape and not flow when transferred from a small box to a larger tray?",
+      "options": [
+        "The particles are free to slide past each other but cannot escape.",
+        "The particles have high kinetic energy and repel each other into fixed positions.",
+        "In the solid state, forces of attraction between particles hold them in fixed positions.",
+        "There are no forces of attraction, leaving the particles stuck in place by gravity."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "How do the forces and movement of particles in liquid water compare to those in solid ice?",
+      "options": [
+        "Particles in liquid water have no forces of attraction between them at all.",
+        "Particles in liquid water are held in fixed positions but vibrate much faster than in ice.",
+        "In the liquid state, particles are held together but have enough energy to break free to move around.",
+        "Particles in liquid water are further apart than in steam and cannot move."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Substance A melts at -100°C, while Substance B melts at 1500°C. What can you infer about the forces of attraction between the particles in these two substances?",
+      "options": [
+        "The forces of attraction between particles in Substance A are much stronger than in Substance B.",
+        "The stronger the force of attraction between particles in a substance, the higher its melting point, so B has stronger forces.",
+        "Both substances have identical forces of attraction, but Substance B has larger particles.",
+        "Substance A has no forces of attraction, while Substance B has repulsive forces."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A beaker of water is kept in a room at 20°C. A student places their finger into the water. What are the correct temperatures of freezing water, the room, and the student's body?",
+      "options": [
+        "Water freezes at 100°C, room temperature is 37°C, and body temperature is 20°C.",
+        "Water freezes at 0°C, room temperature is about 20°C, and body temperature is about 37°C.",
+        "Water freezes at 0°C, room temperature is 37°C, and body temperature is 100°C.",
+        "Water freezes at -10°C, room temperature is 20°C, and body temperature is 98°C."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A gas is pumped into a syringe, and the plunger is pushed down. The gas flows to fill the new shape, shrinks in volume, and fills the entire container. Which properties of a gas does this demonstrate?",
+      "options": [
+        "In the gas state a substance has a fixed shape, cannot flow, and can be compressed.",
+        "In the gas state a substance can flow, it fills the whole of a container and can be compressed.",
+        "In the gas state a substance cannot flow, does not fill its container, and cannot be compressed.",
+        "In the gas state a substance can flow, has a fixed volume, and cannot be compressed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Why are gas particles able to spread out and fill any size container they are placed in?",
+      "options": [
+        "In the gas state, particles have enough energy to be free of the attractive forces between them.",
+        "The particles are extremely large and physically crowd each other out.",
+        "Gravity pulls gas particles upwards, overcoming all other forces.",
+        "The attractive forces between gas particles are stronger than in solids, pulling them apart."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "If we could look at a container of pure helium gas under an imaginary super-microscope, what would we find in the space between the helium atoms?",
+      "options": [
+        "Air molecules such as nitrogen and oxygen.",
+        "Tiny particles of heat energy.",
+        "Liquid helium filling the gaps.",
+        "There is nothing at all between the particles."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A heavy granite block is placed inside a round bowl. The granite does not change its shape to match the bowl, does not flow, and its volume cannot be reduced by pressing on it. What state of matter properties does this show?",
+      "options": [
+        "In the solid state a substance can flow, fills the container, and can be compressed.",
+        "In the solid state a substance has a fixed shape, it does not flow and cannot be compressed.",
+        "In the solid state a substance has a fixed shape, can flow, and can be compressed.",
+        "In the solid state a substance has a flexible shape, flows slowly, and can be compressed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "When juice is poured from a carton into a glass, it flows easily and takes the shape of the glass, but you cannot squeeze the glass to make the juice occupy a smaller volume. What state of matter properties are described?",
+      "options": [
+        "In the liquid state a substance can flow, fills the container, and can be compressed.",
+        "In the liquid state a substance has a fixed shape, cannot flow, and can be compressed.",
+        "In the liquid state a substance can flow, it fills the shape of its container and cannot be compressed.",
+        "In the liquid state a substance cannot flow, has a fixed shape, and can be compressed."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "unitKey": "3CellsBiology",
-  "generatedAt": "2026-08-12T06:04:36.474964+00:00",
+  "generatedAt": "2026-09-03T12:56:41.924547+00:00",
   "questions": [
     {
       "question": "A student looks at a cheek cell under a microscope and describes it as a flat circle. Why is this description incomplete?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 28
+    },
+    {
+      "question": "Many textbook diagrams show cells as flat, circular, or rectangular shapes. Which statement best corrects this common misconception about cell structure?",
+      "options": [
+        "Cells are actually flat disks that only expand when they divide.",
+        "Cells are complex three-dimensional objects, resembling spheres, boxes, or irregular 3D shapes.",
+        "Cells are two-dimensional when active but fold into three dimensions only when dormant.",
+        "Cells have no physical boundaries and exist as fluid droplets that change dimension constantly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If a drug specifically disables the mitochondria in a muscle cell, what immediate consequence will this have on the cell's function?",
+      "options": [
+        "The cell will be unable to control what enters and leaves its boundaries.",
+        "The cell will stop producing proteins because the site of protein synthesis is destroyed.",
+        "The cell will lack the energy required to contract because aerobic respiration cannot occur.",
+        "The cell's genetic material will escape into the cytoplasm because the boundary breaks down."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A student uses a plastic bag filled with water and a small ping-pong ball inside to represent a cell. What is a key limitation of this model compared to a 3D scientific model of a real animal cell?",
+      "options": [
+        "It represents the cell as a 2D object instead of a 3D object.",
+        "It lacks internal structures like mitochondria and does not show the semi-permeable nature of the membrane.",
+        "It assumes that the cytoplasm is made entirely of gas rather than a jelly-like liquid.",
+        "It suggests that the nucleus is always larger than the entire cell boundary."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following describes a fundamental characteristic of a unicellular organism?",
+      "options": [
+        "It consists of multiple cells that can easily survive if separated from each other.",
+        "It is a single, independent living cell that carries out all necessary life processes on its own.",
+        "It requires at least two cells of different types working together to survive.",
+        "It has no nucleus or cytoplasm because it is too small to contain them."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In a multicellular organism like a human, why can't a single skin cell survive and function independently if isolated from the body?",
+      "options": [
+        "Multicellular organisms are composed of specialized cells that rely on other cell types to perform vital functions they cannot do themselves.",
+        "Skin cells do not contain any genetic material to guide their own processes.",
+        "Once a cell joins a multicellular organism, it loses its cell membrane and cannot hold its contents.",
+        "Cells in multicellular organisms are physically linked and share a single giant nucleus."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A student is examining a piece of muscle. How does this muscle qualify as a \"tissue\" in a multicellular organism?",
+      "options": [
+        "It is made of different organs working together to pump blood.",
+        "It consists of a collection of similar, joined cells that work together to perform the specific job of contraction.",
+        "It is a single, giant cell that has multiple nuclei to control its large volume.",
+        "It is a mixture of plant and animal cells that cooperatively store energy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "The stomach contains muscle tissue, epithelial tissue, and nerve tissue. Together, these tissues allow the stomach to churn and digest food. How should the stomach be classified in the organizational hierarchy?",
+      "options": [
+        "As an organ system, because it performs more than one chemical reaction.",
+        "As a tissue, because it is made of cells that look identical.",
+        "As an organ, because it is a group of different tissues working together to perform a specific job.",
+        "As a unicellular organism, because it can function outside the body."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "The Euglena is a unicellular organism that lives in pond water. It has a flagellum (a whip-like tail) and chloroplasts. How do these adaptations help it survive as a single-celled organism?",
+      "options": [
+        "The flagellum helps it find light so its chloroplasts can make food through photosynthesis.",
+        "The chloroplasts allow it to hunt other organisms, while the flagellum digests them.",
+        "The flagellum acts as a protective cell wall, while the chloroplasts store water.",
+        "These structures allow it to divide into multiple cells to form a complex tissue."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which statement best describes the fundamental composition of all living organisms?",
+      "options": [
+        "They are made of non-living mineral crystals that expand when wet.",
+        "They are composed of living building blocks called cells.",
+        "They are made of pure water held together by a network of chemical energy.",
+        "Only animals are made of cells, while plants are made of fibers."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why do scientists use microscopes rather than their unaided eyes to study the internal structures of cheek cells?",
+      "options": [
+        "Cheek cells only exist when exposed to intense artificial light.",
+        "Cells are usually far too small to be resolved or seen with the unaided eye.",
+        "The human eye cannot see objects that contain water.",
+        "Unaided eyes can only see structures that are green, and cheek cells are colorless."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When preparing to view plant tissue under a light microscope, why must the tissue sample be sliced extremely thin?",
+      "options": [
+        "To allow light to pass through the specimen so the cells can be clearly observed.",
+        "To prevent the cells from moving around on the slide.",
+        "To ensure that the nucleus of each cell is popped open.",
+        "To convert the three-dimensional cells into permanent two-dimensional shapes."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A student looks through a microscope but the image of the plant cells is blurry and too small to identify any structures. What steps should they take to resolve this?",
+      "options": [
+        "Increase the light brightness to maximum and slide the cover slip off.",
+        "Adjust the focus knobs to sharpen the image and switch to a higher power objective lens for greater magnification.",
+        "Replace the slide with a thicker sample and use a lower power objective lens.",
+        "Pour water directly onto the eyepiece to clean the lens."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following lists structures that are found in plant cells but are absent in typical animal cells?",
+      "options": [
+        "Nucleus, cytoplasm, and cell membrane",
+        "Cell wall, large permanent vacuole, and chloroplasts",
+        "Mitochondria, cell wall, and cell membrane",
+        "Cytoplasm, vacuole, and nucleus"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What would happen to a plant cell if its permanent vacuole were completely removed?",
+      "options": [
+        "The cell would lose its main water storage and support system, causing it to lose turgor and become floppy.",
+        "The cell would no longer be able to control which substances enter and exit.",
+        "The cell would be unable to release energy from glucose during respiration.",
+        "The cell would immediately burst because water pressure would increase uncontrollably."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "When preparing a temporary slide of onion epidermal cells, why is a coverslip lowered gently at an angle onto the specimen?",
+      "options": [
+        "To make sure the cells align in a perfectly straight line.",
+        "To avoid trapping air bubbles, which can look like dark rings and obscure the cells.",
+        "To crush the cell walls so that the cytoplasm can flow out.",
+        "To prevent the stain from evaporating into the air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "A student prepares a slide of human cheek cells but cannot see the nucleus under the microscope. What preparation step did they likely omit?",
+      "options": [
+        "Boiling the cells in water to make them swell.",
+        "Adding a chemical stain, such as methylene blue, to color and highlight specific cell structures.",
+        "Placing the cells in a dark room for twenty minutes before viewing.",
+        "Slicing the cheek cells into vertical strips with a scalpel."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "When creating a scientific line drawing of cells observed under a microscope, which rule must a student follow to ensure scientific accuracy?",
+      "options": [
+        "Use heavy shading and sketch lines to make the drawing look realistic and artistic.",
+        "Draw what is actually seen using clear, unbroken lines without shading, and label structures with straight lines.",
+        "Use colored crayons to represent the bright artificial light of the microscope.",
+        "Draw hypothetical structures that should be there, even if they are not visible on the slide."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Why is it incorrect to assume that every single plant cell has chloroplasts?",
+      "options": [
+        "Chloroplasts are only found in animal cells, not plant cells.",
+        "Cells in parts of the plant that do not receive light, such as root cells, do not have chloroplasts because they cannot perform photosynthesis.",
+        "Chloroplasts only appear in plant cells during the winter months.",
+        "Only dead plant cells contain chloroplasts."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "How does the structure of a specialised cell relate to its function?",
+      "options": [
+        "All specialised cells have the exact same shape and size so they can replace each other if damaged.",
+        "Specialised cells have specific shapes, sizes, and structures that adapt them to carry out their specific jobs efficiently.",
+        "Specialised cells can change their shape instantly to perform any function required by the organism.",
+        "Specialised cells lack a cell membrane to allow them to merge with other cells."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Which of the following describes movement as a true sign of life (life process) in an organism?",
+      "options": [
+        "A dead leaf being blown across a field by a strong gust of wind.",
+        "A sunflower slowly turning its face during the day to track the position of the sun.",
+        "A piece of dust floating down through the air onto a table.",
+        "Water flowing down a riverbed due to the pull of gravity."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
     }
   ]
 }

@@ -1,0 +1,226 @@
+{
+  "unitKey": "4Our solar system and beyondPhysics",
+  "generatedAt": "2026-09-03T12:57:07.797074+00:00",
+  "questions": [
+    {
+      "question": "Historically, how did people once describe the shape of the Earth and the movement of the stars and Sun?",
+      "options": [
+        "The Earth was flat, and all the stars and the Sun moved around it.",
+        "The Earth was a sphere, and it moved around a flat Sun.",
+        "The Earth was flat, but it spun while the stars remained completely still.",
+        "The Earth was a sphere, and it remained still at the absolute edge of the universe."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Up until which century did the majority of people believe that the Earth was located at the very centre of the universe?",
+      "options": [
+        "The 12th century",
+        "The 16th century",
+        "The 19th century",
+        "The 21st century"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which scientific instrument has provided critical observational evidence to help us develop our understanding of the universe?",
+      "options": [
+        "Microscope",
+        "Barometer",
+        "Telescope",
+        "Seismometer"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the angle of the tilt of the axis on which the Earth spins?",
+      "options": [
+        "12.5 degrees",
+        "23.5 degrees",
+        "45.0 degrees",
+        "90.0 degrees"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In what direction does gravity pull objects when they are near massive bodies like planets, moons, or stars?",
+      "options": [
+        "Towards the center of the massive body",
+        "Away from the surface into outer space",
+        "In a sideways direction parallel to the equator",
+        "Towards the magnetic north pole only"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How does the mass of an object affect the strength of its gravitational pull?",
+      "options": [
+        "The greater the mass, the weaker its gravity.",
+        "The greater the mass, the stronger its gravity.",
+        "The mass of an object has no effect on its gravity.",
+        "Gravity only depends on the size, not the mass of the object."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is the effect of Earth's gravity pulling the Moon towards the centre of the Earth?",
+      "options": [
+        "It causes the Moon to spin faster on its own axis.",
+        "It pushes the Moon further away into deep space.",
+        "It changes the Moon's direction, keeping it in orbit around Earth.",
+        "It stops the Moon from rotating at all."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why does the Earth continuously change its direction and orbit around the Sun?",
+      "options": [
+        "Because the Sun's gravity pulls Earth towards the centre of the Sun.",
+        "Because magnetic fields repel the Earth away from the outer solar system.",
+        "Because solar winds push the Earth in a circular path.",
+        "Because the Earth's oceans create a tidal drag that pulls it around."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What happens to rays of light when they hit a surface face-on compared to when they hit at an angle?",
+      "options": [
+        "They are more spread out when they hit face-on.",
+        "They are less spread out when they hit face-on.",
+        "They change color when they hit at an angle.",
+        "They reflect completely and do not heat the surface at all."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "At what time of day is the heating effect of the Sun greatest at any given place on Earth?",
+      "options": [
+        "At sunrise",
+        "At midday",
+        "At sunset",
+        "At midnight"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which of the following best describes a planet?",
+      "options": [
+        "A small piece of ice that burns up in the atmosphere.",
+        "An extremely large sphere of hot gas that gives out its own light.",
+        "A very large sphere of rock or gas that orbits a star.",
+        "A cluster of billions of stars grouped together in space."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What does our solar system consist of?",
+      "options": [
+        "Only the Earth and the Moon.",
+        "The Sun and all the objects that orbit the Sun.",
+        "Every star and planet in our galaxy.",
+        "A collection of distant galaxies that do not contain stars."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "How do the distances between objects in our solar system compare to the actual sizes of those objects?",
+      "options": [
+        "The distances are very, very large compared to the sizes of the objects.",
+        "The distances are roughly equal to the diameters of the objects.",
+        "The objects are so close together that they constantly touch.",
+        "The distances are extremely small compared to the sizes of the objects."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What are the seasons in the Northern and Southern hemispheres in December?",
+      "options": [
+        "Both hemispheres experience summer.",
+        "Both hemispheres experience winter.",
+        "The Northern hemisphere has summer, and the Southern hemisphere has winter.",
+        "The Northern hemisphere has winter, and the Southern hemisphere has summer."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Why do countries near the Equator not experience distinct summer and winter seasons?",
+      "options": [
+        "They are tilted completely away from the Sun all year.",
+        "They stay close to 'face-on' to the Sun all year.",
+        "They do not receive any light rays from the Sun.",
+        "They are shielded by the Earth's thickest clouds all year."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why do the stars in the night sky appear much smaller and dimmer than our Sun?",
+      "options": [
+        "Because they are much further away.",
+        "Because they do not emit any light of their own.",
+        "Because they are covered by cosmic dust clouds.",
+        "Because they are physically smaller than a standard planet."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What is a light-year?",
+      "options": [
+        "The time it takes for Earth to orbit the Sun once.",
+        "The distance that light travels in one year.",
+        "The time it takes for light to travel from the Sun to the Earth.",
+        "The distance from the Earth to the nearest star."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What are galaxies in the universe?",
+      "options": [
+        "Solid rings of dust orbiting a single planet.",
+        "Groups of stars, with billions of stars in each group.",
+        "Small groups of up to ten planets orbiting a moon.",
+        "Clouds of gas containing only a single star."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Which motion of the Earth explains the cycle of day and night?",
+      "options": [
+        "Earth's orbit around the Sun.",
+        "Earth's spin.",
+        "Earth's tilt changing back and forth.",
+        "Earth's orbit around the Moon."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "Which shape best describes the path of Earth's orbit around the Sun?",
+      "options": [
+        "A highly elongated oval",
+        "A perfect square",
+        "An almost perfect circle",
+        "A random spiral"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 35
+    }
+  ]
+}
