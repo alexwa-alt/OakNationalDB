@@ -1,6 +1,6 @@
 {
   "unitKey": "1ForcesPhysics",
-  "generatedAt": "2026-09-02T12:53:12.987263+00:00",
+  "generatedAt": "2026-09-03T12:54:34.680082+00:00",
   "questions": [
     {
       "question": "A toy boat is pulled northwards with a force of 12 N by a string, while the water current pushes it southwards with a force of 4 N, and the wind blows it southwards with a force of 3 N. What is the resultant force on the boat?",
@@ -661,6 +661,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 32
+    },
+    {
+      "question": "A toy boat is floating on a pond. The wind blows it north with a force of 12 N, while the water current pushes it south with a force of 8 N. What is the resultant force acting on the boat?",
+      "options": [
+        "4 N north",
+        "4 N south",
+        "20 N north",
+        "20 N south"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "An electric car is travelling along a straight road at a constant speed of 50 mph. What can we conclude about the horizontal forces acting on the car?",
+      "options": [
+        "The forward thrust force is greater than the backward resistive forces.",
+        "The forward thrust force is less than the backward resistive forces.",
+        "The forward thrust force is exactly equal to the backward resistive forces.",
+        "There are no forces acting on the car in the horizontal direction."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Two identical spacecraft are drifting in deep space. Spacecraft A has a resultant force of 100 N applied to it, while Spacecraft B has a resultant force of 300 N applied to it. How will their motions compare over the next ten seconds?",
+      "options": [
+        "Spacecraft B will reach a higher speed in the ten seconds than Spacecraft A.",
+        "Spacecraft A and B will change speed at the exact same rate because they have the same mass.",
+        "Spacecraft A will change its speed more rapidly than Spacecraft B.",
+        "Spacecraft B will travel at a constant speed while Spacecraft A accelerates."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A battery-powered fan is sitting on a table. In physics, what does it mean to say that the battery in this system 'has energy'?",
+      "options": [
+        "It contains a physical substance called energy that flows like a liquid.",
+        "It possesses properties that allow it to interact, cause changes, and make things happen.",
+        "It is actively moving or transferring heat to its surroundings at all times.",
+        "It has a special force field around it that repels other objects."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Under a high-powered microscope, even highly polished metal surfaces appear to have tiny microscopic hills and valleys. How does this microscopic structure relate to friction?",
+      "options": [
+        "The microscopic hills and valleys of the two surfaces interlock, which causes friction.",
+        "The valleys trap air which acts as a vacuum, increasing the pull between surfaces.",
+        "Polishing removes all microscopic hills, meaning polished metal has absolutely zero friction.",
+        "The hills create magnetic attraction between the atoms of the two surfaces."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A student notices that when nothing is hanging from their newton meter, the pointer rests at the 0.5 N mark instead of 0 N. What must the student do before taking a measurement, and why?",
+      "options": [
+        "Subtract 0.5 N from all final measurements without adjusting the meter.",
+        "Adjust the zero calibration screw until the pointer aligns with 0 N when no force is applied.",
+        "Add 0.5 N to all final measurements to compensate.",
+        "Select a different newton meter because this one is permanently broken."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A student needs to measure the force required to pull a heavy wooden block across a table. They estimate the force will be around 8 N. Which newton meter is the most appropriate to choose?",
+      "options": [
+        "A 0-1 N meter with 0.05 N divisions",
+        "A 0-5 N meter with 0.1 N divisions",
+        "A 0-10 N meter with 0.2 N divisions",
+        "A 0-100 N meter with 2 N divisions"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "An experiment is conducted to measure the friction force when sliding a block over four different materials: wood, glass, sandpaper, and plastic. Why is a bar chart the correct way to display this data?",
+      "options": [
+        "The independent variable (type of material) is categoric, consisting of distinct types.",
+        "The dependent variable (friction force) is a continuous numerical scale.",
+        "The control variables are kept constant throughout the experiment.",
+        "A bar chart is the only way to show the relationship between two continuous variables."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Which of the following represents a complete scientific conclusion for an investigation into how the surface area of a parachute affects its fall time?",
+      "options": [
+        "The larger parachute took 8.4 seconds to fall, whereas the smaller parachute took 4.2 seconds.",
+        "We dropped parachutes of different sizes from the school balcony and timed them with a stopwatch.",
+        "Parachutes with a larger surface area take longer to fall because they experience greater air resistance, as shown by our data where the 1 m² parachute took 3 seconds longer to fall than the 0.5 m² one.",
+        "I think that if we make the parachute larger, it will trap more air and slow down the fall because air resistance is a force."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Students are testing how different types of running shoe soles affect the friction force on a wooden ramp. To ensure a fair test, which of the following practices must they follow?",
+      "options": [
+        "They must change both the weight inside the shoe and the shoe sole material for each test.",
+        "They must use a different ramp surface for every shoe type tested.",
+        "They must keep the total mass of the shoe, the ramp angle, and the ramp surface identical for every measurement.",
+        "They must pull each shoe at a completely different speed every time they measure."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which of the following observations best demonstrates that non-contact forces can act both when objects are touching and when they are not touching?",
+      "options": [
+        "A magnet can hold a paperclip tightly against itself, and it can also attract the paperclip from 2 cm away.",
+        "A person can push a swing only when their hands make physical contact with the swing seat.",
+        "An apple falls from a tree to the ground because gravity only starts working once the apple detaches.",
+        "Friction slows down a sliding book when it touches the table, but not when it is lifted into the air."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Why is drag classified as a contact force when a submarine moves through the ocean?",
+      "options": [
+        "It is caused by the submarine's hull physically colliding with and pushing past the water molecules.",
+        "It acts on the submarine even when there are no water molecules surrounding it.",
+        "It is a force that only exists when the submarine's engine is turned off.",
+        "It is a non-contact force that depends on the gravitational pull of the ocean floor."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "A student compresses a metal spring. Which statement correctly describes the energy transfer taking place during this interaction?",
+      "options": [
+        "Energy is destroyed as the spring is squashed, reducing the overall energy of the system.",
+        "Energy is transferred by the force applied by the student's hands, changing the elastic property of the spring.",
+        "The spring gains chemical energy because its temperature decreases during compression.",
+        "No energy is transferred because the spring does not move from one location to another."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "A book rests quietly on a wooden table. Following the best practice for labeling force arrows, how should the upward support force acting on the book be labeled?",
+      "options": [
+        "The force acting on the table by the book.",
+        "The force acting on the book by gravity.",
+        "The force acting on the book by the table.",
+        "The force acting on the table by the earth."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "A warehouse worker needs to push two crates across a smooth floor. Crate X has a mass of 10 kg, and Crate Y has a mass of 50 kg. To start both crates moving with the same acceleration, how do the required forces compare?",
+      "options": [
+        "Both crates require the same force to start moving because they are on the same smooth floor.",
+        "Crate X requires a greater force to start moving because its smaller mass makes it stickier.",
+        "Crate Y requires a greater force to start moving because its greater mass offers more resistance to changes in motion.",
+        "No force is required to start either crate moving because the floor is smooth."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 39
+    },
+    {
+      "question": "A balloon is subject to an upward buoyancy force of 15 N and a downward gravitational force of 22 N. In which direction will the resultant force act, and why?",
+      "options": [
+        "Upwards, because the buoyancy force is the active force lifting the balloon.",
+        "Downwards, because the gravitational force is the larger of the two opposing forces.",
+        "It will not move in any direction because the forces cancel each other out.",
+        "Horizontally, because the two vertical forces balance each other out."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A group of students measures the distance a toy car travels five times, obtaining: 1.2 m, 1.3 m, 2.9 m, 1.2 m, and 1.3 m. What is the primary benefit of having taken these repeat measurements?",
+      "options": [
+        "To ensure that the car travels further with each attempt.",
+        "To identify that 2.9 m is an anomalous result that should be investigated or excluded.",
+        "To prove that the experiment was a fair test without needing to control other variables.",
+        "To allow them to change the independent variable mid-way through the experiment."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "When drawing a force arrow representing the pull of gravity acting on a falling skydiver, where should the tail (starting point) of the arrow be drawn?",
+      "options": [
+        "At the air molecules surrounding the skydiver's parachute.",
+        "At the center of gravity of the skydiver, where the force acts.",
+        "Far below the skydiver, pointing towards the ground.",
+        "Directly above the skydiver's head, showing where they fell from."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "A lump of modeling clay sits on a desk. A student squeezes the clay into a flat pancake shape. What does this change in shape demonstrate?",
+      "options": [
+        "A force was applied, which changed the shape of the object.",
+        "Clay changes shape naturally over time without any external forces.",
+        "The clay's mass decreased significantly when its shape changed.",
+        "The clay experienced balanced forces that prevented any physical changes."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 41
+    },
+    {
+      "question": "An engineer tests four different oils on a steel hinge. Oil A results in a friction force of 12 N, Oil B results in 4 N, Oil C results in 18 N, and Oil D results in 8 N. Which oil is the most effective lubricant?",
+      "options": [
+        "Oil C, because it maintains the highest force.",
+        "Oil B, because it reduces the friction force to the lowest value.",
+        "Oil A, because its force is closest to the average of all the oils.",
+        "Oil D, because it provides a moderate amount of resistance."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
     }
   ]
 }
