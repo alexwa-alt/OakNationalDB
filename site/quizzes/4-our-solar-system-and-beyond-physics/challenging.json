@@ -1,6 +1,6 @@
 {
   "unitKey": "4Our solar system and beyondPhysics",
-  "generatedAt": "2026-08-12T06:04:25.665378+00:00",
+  "generatedAt": "2026-09-04T12:51:05.775876+00:00",
   "questions": [
     {
       "question": "In ancient times, people observed the Sun rising and setting, and stars shifting across the night sky. Based on these immediate, unfiltered sensory observations, which of the following models of the universe did they construct?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 36
+    },
+    {
+      "question": "Why did the geocentric model (Earth at the centre), widely believed until the 16th century, seem so intuitive to early observers compared to the heliocentric model?",
+      "options": [
+        "Because they could not feel the Earth moving and saw the Sun, Moon, and stars rising and setting daily.",
+        "Because early telescopes clearly showed all other planets orbiting the Earth.",
+        "Because the Earth's magnetic field made objects fall toward the equator.",
+        "Because stars changed their relative positions to one another daily."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Earth spins on an axis tilted at 23.5 degrees. If Earth's axis were suddenly straightened so that it had a 0-degree tilt relative to its orbit, what would be the most direct consequence for a country located at 45 degrees North latitude?",
+      "options": [
+        "The country would experience permanent winter conditions with 24 hours of darkness.",
+        "The country would no longer experience distinct seasons, having nearly identical day length and temperatures year-round.",
+        "The country would experience extreme seasonal shifts, with hotter summers and colder winters than before.",
+        "The length of a day (one full spin of the Earth) would change from 24 hours to 12 hours."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Imagine a newly discovered planet, Planet X, has twice the mass of Earth but is the exact same physical size. How would the gravitational pull on an astronaut standing on the surface of Planet X compare to their weight on Earth?",
+      "options": [
+        "It would be half as strong, because a denser planet concentrates gravity inward.",
+        "It would be exactly the same, because gravitational pull depends only on the physical size of the planet.",
+        "It would be twice as strong, because the strength of gravity increases with the mass of the object.",
+        "It would be four times as strong, because gravity scales with the square of the planet's mass."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "The gravity of Earth extends far into space, keeping the Moon in orbit. If a spacecraft travels from the Earth to a point four times further away than the Moon, which of the following statements is true about Earth's gravitational pull on the spacecraft?",
+      "options": [
+        "Earth's gravity ceases completely once a spacecraft leaves the Moon's orbit.",
+        "Earth's gravity still pulls on the spacecraft, but the pull is significantly weaker than it is at the Moon's distance.",
+        "Earth's gravity pulls on the spacecraft with the exact same strength as it does on the Moon.",
+        "Earth's gravity becomes stronger because there is no atmosphere to block the gravitational waves."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "The Moon travels in a continuous orbit around the Earth rather than flying off into deep space in a straight line. What role does Earth's gravity play in maintaining this orbit?",
+      "options": [
+        "It acts as a repulsive force that keeps the Moon pushed away at a safe, constant distance.",
+        "It pulls the Moon continuously toward the centre of the Earth, constantly changing its direction of travel.",
+        "It speeds up the Moon's rotation so that it spins on its axis at the exact same rate as its orbit.",
+        "It creates a magnetic drag that slows the Moon down, preventing it from escaping Earth's field."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A solar heating panel is installed on a roof. To maximize the heating effect of the Sun's rays at midday, how should the panel be oriented relative to the incoming sunlight?",
+      "options": [
+        "It should be tilted at an acute angle so the sunlight grazes across the surface.",
+        "It should be aligned perfectly parallel to the incoming sun rays.",
+        "It should face directly toward the Sun so the rays hit the panel face-on (at a 90-degree angle).",
+        "It should face away from the Sun to capture the ambient scattered light from the sky."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "When a flashlight is shone directly face-on at a wall, it creates a bright, concentrated circle of light. If you tilt the flashlight so the beam hits the wall at a steep angle, what happens to the light and why?",
+      "options": [
+        "The light becomes brighter because the beam travels a shorter distance to the edges.",
+        "The light spreads out over a larger area, making the illumination on any single spot dimmer.",
+        "The light concentrates into a smaller, more intense spot because of refraction.",
+        "The light disappears because rays can only reflect when hitting a surface face-on."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "At a specific location on Earth, why is the heating effect of the Sun greatest at midday compared to sunrise or sunset?",
+      "options": [
+        "Because the Sun is physically closer to the Earth at midday than it is at sunrise or sunset.",
+        "Because the Sun's rays strike the Earth's surface most directly (closest to face-on) at midday.",
+        "Because the Sun shines with a higher intrinsic brightness (luminosity) at midday.",
+        "Because the Earth's atmosphere is thinnest at midday due to tidal stretching."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "If we were to build a highly accurate scale model of the solar system where the Earth is represented by a small marble (1 cm in diameter), how would the distances between the planets compare to the sizes of the marble planets?",
+      "options": [
+        "The distances would be very small, with the next planet only a few millimetres away.",
+        "The distances would be roughly the same size as the diameters of the marbles.",
+        "The distances would be extremely large, requiring hundreds of metres or even kilometres of space between the marbles.",
+        "The distances would be exactly ten times the diameter of the Sun's model sphere."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "As the Earth completes its annual orbit around the Sun, how does the orientation of its tilted axis change in space, and what is the consequence of this?",
+      "options": [
+        "The axis wobbles rapidly, pointing toward the Sun in summer and away from it in winter.",
+        "The axis does not change its direction in space, meaning different hemispheres are tilted toward the Sun at different points in the orbit.",
+        "The axis rotates 180 degrees every six months to ensure that the equator always faces the Sun directly.",
+        "The axis aligns itself to always point directly at the Sun, keeping the Northern Hemisphere permanently warmer."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "In December, why does the Southern Hemisphere experience summer while the Northern Hemisphere experiences winter?",
+      "options": [
+        "The Earth is physically closer to the Sun on its southern side during December.",
+        "The Northern Hemisphere is tilted towards the Sun in December, while the Southern Hemisphere is tilted away.",
+        "The Southern Hemisphere is tilted towards the Sun in December, receiving more direct sunlight, while the Northern Hemisphere is tilted away.",
+        "The Sun emits more radiation from its southern half during December."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Many countries located near the Equator, such as Ecuador or Kenya, do not experience distinct summer and winter seasons. What explains this phenomenon?",
+      "options": [
+        "They are shielded from seasonal changes by the Earth's thickest atmospheric layer.",
+        "Their position on Earth remains close to 'face-on' to the Sun's rays all year round, regardless of Earth's tilt.",
+        "The Earth's tilt does not affect the equator because the equator does not spin.",
+        "They are always tilted directly away from the Sun, keeping them at a constant cool temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "The Sun and the star Sirius are both extremely large, hot spheres of gas that emit their own light. Why does Sirius appear as a tiny, dim point of light in the night sky while the Sun appears as a large, blindingly bright disk?",
+      "options": [
+        "Sirius is much smaller and cooler than the Sun.",
+        "Sirius is located much further away from Earth than the Sun is.",
+        "Sirius does not produce its own light and only reflects light from other stars.",
+        "The Earth's atmosphere blocks 99% of the light coming from Sirius but lets sunlight pass through."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Why do astronomers use the unit 'light-years' to describe distances to other stars and galaxies, rather than kilometres or miles?",
+      "options": [
+        "Because a light-year measures the time it takes for a star to complete one orbit around its galaxy.",
+        "Because distances in space are so incredibly vast that using kilometres would result in numbers too large to be practical.",
+        "Because light travels at different speeds depending on which galaxy it is passing through.",
+        "Because kilometres only measure distances on flat surfaces, whereas light-years measure curved space."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Which of the following best describes the scale and structure of the universe as we understand it?",
+      "options": [
+        "It consists of a single galaxy containing billions of stars, surrounded by an empty void.",
+        "It contains billions of galaxies, each of which is made up of billions of stars.",
+        "It contains thousands of stars orbiting a single supermassive planet at the absolute center.",
+        "It consists of eight planets and one star, with nothing existing beyond our solar system."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "If Earth's rotation on its axis suddenly slowed down so that it took 48 hours instead of 24 hours to complete one spin, how would this affect the cycle of day and night?",
+      "options": [
+        "Day and night would still last 12 hours each, but there would be two sunrises per day.",
+        "The entire cycle of one day and one night would take 48 hours, meaning daytime and nighttime would each double in length.",
+        "Day and night would cease to exist, and one half of the Earth would be in permanent daylight.",
+        "The length of day and night would remain unchanged because day and night are caused by Earth's orbit, not its spin."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "The Earth orbits the Sun once every 365.25 days. How do we account for the extra 0.25 of a day in our calendar system?",
+      "options": [
+        "We shorten every fourth year by one full day.",
+        "We add an extra day to the calendar every four years (a leap year) to keep the calendar aligned with Earth's orbit.",
+        "We ignore the fraction because the speed of Earth's orbit increases slightly each year to make up for it.",
+        "We add a few minutes to the length of every hour during the winter months."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "Which of the following is the most accurate description of the path Earth takes as it orbits the Sun over the course of a year?",
+      "options": [
+        "An elongated oval (ellipse) that brings Earth twice as close to the Sun in summer as in winter.",
+        "An almost perfect circle, meaning the Earth's distance from the Sun remains relatively constant throughout the year.",
+        "A spiral path that draws the Earth slightly closer to the Sun with every single orbit.",
+        "A figure-eight pattern that causes the Earth to cross through the Sun's equator twice a year."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "The Moon appears to change its shape (phases) when viewed from Earth over the course of about a month. What is the actual cause of this changing appearance?",
+      "options": [
+        "The Earth's shadow blocks out different portions of the Moon on a daily cycle.",
+        "As the Moon orbits the Earth, we see different amounts of its sunlit half from our perspective on Earth.",
+        "The Moon physically expands and contracts as it gets closer to and further from the Sun.",
+        "Clouds in the upper atmosphere block different parts of the Moon depending on the time of month."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "During summer in the UK, the weather is warmer and there are more hours of daylight. Which of the following observations is also true during summer compared to winter?",
+      "options": [
+        "The Sun appears much lower in the sky at midday.",
+        "The Sun appears higher in the sky at midday.",
+        "The Sun rises much later in the morning and sets earlier in the evening.",
+        "The Sun is physically much closer to the Earth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
     }
   ]
 }

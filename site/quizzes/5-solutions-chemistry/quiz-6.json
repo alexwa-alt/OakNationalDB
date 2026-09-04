@@ -1,0 +1,226 @@
+{
+  "unitKey": "5SolutionsChemistry",
+  "generatedAt": "2026-09-04T12:51:53.633442+00:00",
+  "questions": [
+    {
+      "question": "Brownian motion describes which of the following phenomena?",
+      "options": [
+        "The random motion of particles suspended in a medium.",
+        "The settling of heavy particles at the bottom of a container.",
+        "The chemical reaction between an acid and an alkali.",
+        "The change of state from a liquid to a gas during boiling."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What happens to the movement of particles in a gas or a solution when the temperature is increased?",
+      "options": [
+        "They slow down and become tightly packed.",
+        "They move more quickly.",
+        "They stop moving completely.",
+        "They only move in a single direction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why is a suspension not considered a true solution?",
+      "options": [
+        "The solid particles can be seen and will eventually settle over time.",
+        "It consists of only one pure substance.",
+        "The liquid evaporates instantly when mixed.",
+        "The particles are too small to be filtered out."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When mixing 50 cm³ of water and 50 cm³ of ethanol, the total volume is slightly less than 100 cm³. What is the explanation for this?",
+      "options": [
+        "Some of the liquid evaporated instantly.",
+        "One type of particle fits into the spaces between the other type of particle.",
+        "The particles expanded and took up less space.",
+        "Mass was destroyed during the mixing process."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which of the following statements correctly compares dissolving and melting?",
+      "options": [
+        "Dissolving requires heat to break bonds, while melting requires a solvent.",
+        "Melting is a chemical change, whereas dissolving is a physical change.",
+        "Both are physical processes, but they are not the same thing.",
+        "Dissolving and melting are identical chemical reactions."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why must scientific methods be written clearly?",
+      "options": [
+        "To guarantee that the experiment will always produce the exact same speed of reaction.",
+        "So that they are both repeatable and reproducible.",
+        "To make sure no other scientist can copy the experiment.",
+        "To allow the experiment to be carried out without any equipment."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How is a solution formed in chemistry?",
+      "options": [
+        "When a soluble solid dissolves in an appropriate solvent.",
+        "When an insoluble solid settles at the bottom of a beaker of water.",
+        "When a gas turns directly into a solid without becoming a liquid.",
+        "When two liquids are stirred together and form two distinct layers."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "If 10 g of salt is completely dissolved in 100 g of water, what is the total mass of the resulting salt solution?",
+      "options": [
+        "90 g",
+        "100 g",
+        "110 g",
+        "1000 g"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which piece of equipment and unit should be used to measure the volume of a liquid?",
+      "options": [
+        "A balance, measuring in grams (g)",
+        "A thermometer, measuring in degrees Celsius (°C)",
+        "A ruler, measuring in centimetres (cm)",
+        "A measuring cylinder, measuring in cubic centimetres (cm³)"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What is a key characteristic of a pure material regarding its physical properties?",
+      "options": [
+        "It melts and boils over a wide range of temperatures.",
+        "It has a fixed melting point and boiling point.",
+        "Its boiling point changes every time it is measured.",
+        "It does not have any melting point."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What effect do impurities have on the melting and boiling points of a material?",
+      "options": [
+        "They keep the melting and boiling points exactly the same.",
+        "They change the melting and boiling point of the material.",
+        "They prevent the material from ever changing state.",
+        "They only affect the boiling point, never the melting point."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How do mixtures behave when they are heated to melt or boil?",
+      "options": [
+        "They melt or boil at a single, precise temperature.",
+        "They melt or boil over a range of temperatures.",
+        "They do not melt or boil at all.",
+        "They only change state when a catalyst is added."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "At a given temperature, what is true about the amount of solute that can dissolve in a solvent?",
+      "options": [
+        "There is a limit to how much solute can dissolve.",
+        "An infinite amount of solute can always dissolve.",
+        "No solute can dissolve unless the mixture is stirred.",
+        "The solute will always float on top of the solvent."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "What often happens to dissolved solutes as a hot solution is allowed to cool down?",
+      "options": [
+        "They turn into gas and escape.",
+        "They may become insoluble and form crystals.",
+        "They multiply in mass.",
+        "They chemically react to form water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "In a scientific graph, how can a line of best fit be helpful?",
+      "options": [
+        "It shows the exact location of every anomalous result.",
+        "It helps to identify and describe relationships between variables.",
+        "It guarantees that the experiment was carried out perfectly.",
+        "It removes the need to collect any actual data."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "Which of the following sets of factors can affect the solubility of a substance?",
+      "options": [
+        "The size of the solute pieces, the choice of solvent, or the temperature of the solvent.",
+        "Only the color of the container and the time of day.",
+        "The room's air pressure and the mass of the beaker.",
+        "Only the shape of the stirring rod used."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "In an investigation, what is the independent variable?",
+      "options": [
+        "The variable that is kept the same to keep the test fair.",
+        "The variable that is observed or measured.",
+        "The variable that is changed by the investigator.",
+        "The variable that has no effect on the results."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "What is the definition of the dependent variable in a science experiment?",
+      "options": [
+        "The factor that the scientist decides to change.",
+        "The factor that is observed or measured during the investigation.",
+        "The equipment used to record the time.",
+        "The substance that remains unchanged throughout."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 39
+    },
+    {
+      "question": "What name is given to the variables that are kept the same throughout an investigation?",
+      "options": [
+        "Independent variables",
+        "Dependent variables",
+        "Control variables",
+        "Uncontrolled variables"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 40
+    },
+    {
+      "question": "Why do we only change the variable being tested in a fair test?",
+      "options": [
+        "To make the experiment run as quickly as possible.",
+        "So that it is clear that it made a difference to the results.",
+        "To ensure that the equipment does not break.",
+        "To make the graph easier to draw by hand."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 41
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "unitKey": "2Solid, liquid, gas states and changes of stateChemistry",
-  "generatedAt": "2026-09-03T12:55:14.415197+00:00",
+  "generatedAt": "2026-09-04T12:48:35.364458+00:00",
   "questions": [
     {
       "question": "If pure water is heated until it boils at 100°C, at what temperature will the resulting steam begin to condense back into liquid water if it is cooled under the same atmospheric pressure?",
@@ -661,6 +661,226 @@
       ],
       "correctAnswerIndex": 2,
       "learningPointIndex": 31
+    },
+    {
+      "question": "A scientist cools water vapor down to observe its condensation, and then heats liquid water up to observe its boiling. How do the temperatures at which these two phase changes occur compare under identical atmospheric pressure?",
+      "options": [
+        "The water condenses at a higher temperature than it boils.",
+        "The water condenses at 100°C and boils at 100°C.",
+        "The water condenses at a lower temperature than it boils.",
+        "The water condenses at 0°C and boils at 100°C."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "During an experiment, a liquid is heated in a sealed, expandable syringe until it completely boils into a gas. What happens to the volume occupied by the substance, and why?",
+      "options": [
+        "The volume decreases slightly because the gas particles lose their structure.",
+        "The volume remains identical because the number of particles has not changed.",
+        "The volume increases significantly because the gas state occupies much more space than the liquid state.",
+        "The volume increases only because the particles themselves have expanded in size."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "When steam inside a closed container condenses into liquid water, what is happening to the behavior of the individual water particles?",
+      "options": [
+        "They move closer together.",
+        "They move further apart.",
+        "They shrink in size.",
+        "They stop moving completely."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A student is heating a beaker of water and notices that the bottom of the beaker is getting covered in black soot. What adjustment should they make to the Bunsen burner to get a cleaner, hotter flame?",
+      "options": [
+        "Close the air hole completely.",
+        "Turn the gas tap down to reduce the gas flow.",
+        "Lift the Bunsen burner by its collar.",
+        "Open the air hole."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "When transferring a lit wooden splint from one Bunsen burner to another across a laboratory bench, what is the correct safety technique?",
+      "options": [
+        "Carry the splint vertically upright with the flame as high as possible.",
+        "Carry the splint with the flame angled slightly downwards, shielding it with your other hand.",
+        "Run quickly with the splint angled upwards so the wind does not extinguish it.",
+        "Carry the splint horizontally while waving it gently to keep the flame alive."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Comparing the same mass of a single pure substance in its solid, liquid, and gas states, how does the energy of the states compare?",
+      "options": [
+        "The solid state has the least energy, while the gas state has the most energy.",
+        "The gas state has the least energy, while the solid state has the most energy.",
+        "The liquid state has the most energy, while the solid state has the least energy.",
+        "All three states possess the exact same amount of thermal energy."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A puddle of ethanol is left on a laboratory bench at 20°C. Ethanol has a boiling point of 78°C. What will happen to the puddle over time?",
+      "options": [
+        "It will remain completely unchanged because it cannot turn into a gas below 78°C.",
+        "It will freeze because 20°C is too far below its boiling point.",
+        "It will slowly evaporate because a liquid can change to a gas at temperatures below its boiling point.",
+        "It will instantly boil because the ambient air supplies enough energy."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Wet clothes are hung out to dry on a cool day when the temperature is only 15°C. Why do the clothes dry?",
+      "options": [
+        "The water on the clothes must reach 100°C before any of it can leave the fabric.",
+        "Water can evaporate at temperatures much lower than 100°C.",
+        "The wind physically pushes the liquid water off the clothes without any state change.",
+        "The fabric of the clothes absorbs and permanently destroys the water molecules."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A scientist is studying a sample of pure gallium. She finds that solid gallium melts into a liquid at exactly 29.76°C. At what temperature would you expect liquid gallium to freeze back into a solid?",
+      "options": [
+        "At a temperature slightly below 0°C.",
+        "At a temperature significantly higher than 29.76°C.",
+        "At exactly 29.76°C.",
+        "At 100°C."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why does a solid block of iron maintain a fixed shape and refuse to flow when placed in a large container?",
+      "options": [
+        "Strong forces of attraction between the particles hold them in fixed positions.",
+        "The particles are completely static and have zero energy.",
+        "The particles are larger than those in liquids, preventing them from sliding.",
+        "There are no forces of attraction, leaving the particles free to lock together mechanically."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Substance X melts at -97°C, while Substance Y melts at 801°C. What does this difference in melting points tell us about the forces of attraction between the particles in these substances?",
+      "options": [
+        "Substance X has larger particles that cannot move easily.",
+        "Substance Y has no forces of attraction between its particles.",
+        "The forces of attraction between particles are much stronger in Substance X than in Substance Y.",
+        "The forces of attraction between particles are much stronger in Substance Y than in Substance X."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A student measures the temperature of a beaker of pure water in a typical classroom and finds it is 20°C. They then hold a small vial of the water in their closed hand. What are the most likely temperatures of the water at the start and after being held for a long time?",
+      "options": [
+        "It starts at room temperature (around 20°C) and warms up towards body temperature (around 37°C).",
+        "It starts at freezing temperature (0°C) and warms up to room temperature (20°C).",
+        "It starts at room temperature (around 20°C) and warms up to boiling temperature (100°C).",
+        "It starts at room temperature (around 20°C) and cools down towards 0°C."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which set of properties correctly describes carbon dioxide gas stored inside a sealed, adjustable canister?",
+      "options": [
+        "It can flow, it fills the entire canister, and it can be compressed into a smaller volume.",
+        "It has a fixed shape, cannot flow, and can be easily compressed.",
+        "It can flow, only fills the bottom of the canister, and cannot be compressed.",
+        "It has a fixed shape, fills the entire canister, and cannot be compressed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "If you could zoom in to look at the space between the particles in a flask containing pure oxygen gas, what would you find in those gaps?",
+      "options": [
+        "Air.",
+        "Nothing at all (a vacuum).",
+        "Very thin liquid oxygen.",
+        "Heat energy waves in solid form."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A student tries to squeeze a solid copper cylinder into a smaller volume and then tries to pour it into a beaker. What will they observe, and why?",
+      "options": [
+        "It will compress easily but will not flow, because solid particles can be pushed together.",
+        "It will flow to take the shape of the beaker but cannot be compressed.",
+        "It will not change volume and will not flow, because solids have a fixed shape and cannot be compressed.",
+        "It will easily compress and flow because copper is a soft metal."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Why is a liquid suitable for use in hydraulic brake systems in cars, where force must be transmitted through pipes without losing volume under pressure?",
+      "options": [
+        "It has a fixed shape so it does not leak out of the pipes.",
+        "It can flow to fit the pipes but cannot be compressed.",
+        "It can be easily compressed to store extra energy.",
+        "It has no forces of attraction between its particles, allowing infinite expansion."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Two identical shallow dishes are filled with 50 mL of water. Dish A is kept at 15°C, while Dish B is kept at 45°C. What will be observed regarding the rate of evaporation?",
+      "options": [
+        "Dish A will dry up faster because cooler water particles are more stable.",
+        "Both dishes will evaporate at the exact same rate because they have the same surface area.",
+        "Neither dish will evaporate because both temperatures are below 100°C.",
+        "Dish B will dry up faster because hotter water evaporates more quickly."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Iron has a melting point of 1538°C. If a block of iron is sitting in a furnace at 1200°C, what state of matter is it in?",
+      "options": [
+        "Liquid state.",
+        "Solid state.",
+        "Gas state.",
+        "A mixture of liquid and gas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How do the particles in liquid water behave compared to those in solid ice?",
+      "options": [
+        "In liquid water, the particles have completely lost all forces of attraction and behave independently.",
+        "In liquid water, the particles are locked in fixed positions but vibrate much faster than in ice.",
+        "In liquid water, the particles are held together but have enough energy to break free and move around each other.",
+        "In liquid water, the particles are spaced much further apart than in steam."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "After using a Bunsen burner for 10 minutes to boil some water, a student needs to pack it away. Which part of the Bunsen burner is safe to touch because it does not get hot?",
+      "options": [
+        "The chimney (barrel).",
+        "The collar directly over the air hole.",
+        "The heavy base.",
+        "The metal mesh of the tripod."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
     }
   ]
 }
