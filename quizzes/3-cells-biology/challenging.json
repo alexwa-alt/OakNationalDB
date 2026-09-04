@@ -1,6 +1,6 @@
 {
   "unitKey": "3CellsBiology",
-  "generatedAt": "2026-09-03T12:56:41.924547+00:00",
+  "generatedAt": "2026-09-04T12:49:20.059677+00:00",
   "questions": [
     {
       "question": "A student looks at a cheek cell under a microscope and describes it as a flat circle. Why is this description incomplete?",
@@ -438,6 +438,226 @@
         "A sunflower slowly turning its face during the day to track the position of the sun.",
         "A piece of dust floating down through the air onto a table.",
         "Water flowing down a riverbed due to the pull of gravity."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "When looking at a diagram of a cheek cell in a textbook, it appears flat like a pancake. If you were to analyze a real cheek cell in a living organism, how does its actual shape compare to this representation?",
+      "options": [
+        "It is completely flat but has many layered membranes on top of each other.",
+        "It is a three-dimensional structure with depth, similar to a gel-filled bag or cushion.",
+        "It is a hollow sphere with no internal contents, unlike the flat diagram.",
+        "It alternates between 2D and 3D shapes depending on whether it is dividing."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A scientist treats an animal cell with a chemical that completely stops the mitochondria from functioning. Which immediate consequence would you expect to observe in this cell?",
+      "options": [
+        "The cell will be unable to control which substances enter and exit.",
+        "The cytoplasm will turn from a jelly-like substance into a rigid, solid structure.",
+        "The cell will no longer be able to release energy from glucose to power its activities.",
+        "The genetic material inside the cell will immediately leak out into the surrounding environment."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Students are comparing a 2D line drawing of a cell with a 3D plastic model of the same cell. Which of the following is a limitation of the 2D model that the 3D model helps to overcome?",
+      "options": [
+        "The 2D model cannot show the location of the nucleus.",
+        "The 2D model fails to represent the spatial relationships and depths of organelles like mitochondria.",
+        "The 2D model cannot represent the cell membrane as a barrier.",
+        "The 2D model is unable to use color to distinguish different parts."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "In a multicellular organism like a human, cells are highly specialized. What is the main advantage of having different cells take on different, specific jobs rather than every cell doing every job?",
+      "options": [
+        "It increases the overall efficiency of the organism because cells can develop structures optimized for one particular task.",
+        "It allows individual cells to survive independently if they are separated from the body.",
+        "It ensures that if one cell dies, all other cells of that type can regenerate instantly.",
+        "It prevents the organism from needing to consume nutrients from the outside environment."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "The stomach contains muscle tissue, epithelial tissue, and glandular tissue. Together, these tissues enable the stomach to digest food. The stomach then works with the mouth, esophagus, and intestines. How should we classify the stomach and the group of parts it works with?",
+      "options": [
+        "The stomach is an organ, and the group of parts is an organ system.",
+        "The stomach is a tissue, and the group of parts is an organ.",
+        "The stomach is an organ system, and the group of parts is an organism.",
+        "The stomach is a cell colony, and the group of parts is a tissue system."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "An amoeba is a unicellular organism that lives in pond water. It uses temporary, finger-like projections of its cytoplasm called pseudopodia to engulf food particles. Which statement best explains this adaptation?",
+      "options": [
+        "It is a multicellular tissue structure designed to filter water.",
+        "It is a rigid cell wall adaptation that prevents the amoeba from bursting.",
+        "It is an organ system that coordinates movement across the entire pond.",
+        "It is a specialized single-cell structure that allows the organism to obtain nutrition without a mouth."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A student wants to observe the cells making up a small leaf. Why is she unable to see individual cells simply by holding the leaf up to the light with her unaided eyes?",
+      "options": [
+        "Plant cells only become visible when they are dead and dried out.",
+        "The human eye cannot resolve objects that are as small as typical cells without magnification.",
+        "Cells do not have any physical boundaries unless they are stained under a microscope.",
+        "The cells in a leaf are constantly moving too fast to be detected by the human eye."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "To observe the cellular structure of an onion skin tissue, what is the correct sequence of tools a student must use to make the cells visible to their eye?",
+      "options": [
+        "Place the tissue in a test tube, heat it, and observe with a magnifying glass.",
+        "Place the tissue on a slide, position it under a light microscope, and look through the eyepiece.",
+        "Place the tissue on a petri dish, add water, and observe under a desk lamp.",
+        "Place the tissue on a slide, dry it in an oven, and use a camera with a standard zoom lens."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A student is looking at a plant tissue slide under a light microscope. She can see a blurry outline of some cells, but cannot distinguish any individual structures like the cell wall or nucleus. What should she adjust to clearly observe these structures?",
+      "options": [
+        "Change to a lower magnification lens and turn off the light source.",
+        "Move the slide manually side-to-side very quickly to create contrast.",
+        "Adjust the focus knob to sharpen the image and increase the magnification of the objective lens.",
+        "Replace the slide with a thicker piece of tissue to block more light."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "When comparing a cell from a plant root to a cell from a plant leaf, which structure would you expect to find in the leaf cell but NOT in the root cell, and why?",
+      "options": [
+        "Cell wall, because root cells do not need structural support underground.",
+        "Large permanent vacuole, because root cells store water in their cytoplasm instead.",
+        "Cell membrane, because root cells absorb water directly through their cell walls.",
+        "Chloroplasts, because root cells are underground and do not receive light for photosynthesis."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "If a plant cell's permanent vacuole were to lose all its water and shrink, what would be the most likely physical effect on the plant cell and the plant as a whole?",
+      "options": [
+        "The cell would burst due to increased internal pressure, causing the plant to grow taller.",
+        "The cell would lose its internal turgor pressure, causing the plant to wilt.",
+        "The cell wall would dissolve, causing the plant to turn into a liquid state.",
+        "The cell would immediately start photosynthesizing at a much faster rate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Root hair cells have a long, thin, finger-like extension. How does this specific shape adapt the root hair cell for its function in the plant?",
+      "options": [
+        "It allows the cell to swim through the soil to find water sources.",
+        "It provides a sharp point to penetrate rocks and hard clay in the soil.",
+        "It increases the surface area of the cell, allowing it to absorb water and minerals more efficiently.",
+        "It allows the cell to capture sunlight that filters deep down into the soil."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why is it important to slice a specimen extremely thin when preparing a tissue slide to be viewed under a light microscope?",
+      "options": [
+        "Thin specimens prevent the slide from breaking under the heavy objective lens.",
+        "Light must be able to pass through the specimen so that the cells can be clearly seen.",
+        "Thick specimens will react chemically with the glass slide and ruin the microscope.",
+        "Thin specimens ensure that the cells stay alive for several weeks on the slide."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "When preparing a slide of human cheek cells, a student struggles to see the nucleus because the cell is nearly transparent. What step should they take to resolve this issue?",
+      "options": [
+        "Add a drop of a chemical stain, like methylene blue, to color the nucleus and make it stand out.",
+        "Shine a brighter, unfiltered white light directly onto the dry slide.",
+        "Heat the slide over a Bunsen burner until the cell turns black.",
+        "Use a thicker cover slip to compress the nucleus and make it darker."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "When creating a scientific line drawing of cells observed under a microscope, which of the following is a rule that must be followed to ensure scientific accuracy?",
+      "options": [
+        "Use heavy shading and artistic coloring to make the organelles look realistic.",
+        "Sketch the cells quickly using sketchy, overlapping pencil strokes to show movement.",
+        "Draw clear, single lines with a sharp pencil, and do not cross label lines.",
+        "Draw only the structures you think should be there, even if you cannot see them."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Red blood cells are animal cells, but they lack a nucleus when they are mature. What is the biological reason for this deviation from the standard animal cell model?",
+      "options": [
+        "It allows the red blood cell to divide more rapidly in the bloodstream.",
+        "It frees up more space inside the cell to carry oxygen using hemoglobin.",
+        "It prevents the red blood cell from consuming the oxygen it is transporting.",
+        "It allows the red blood cell to change its DNA to match different organs."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A nerve cell (neuron) has a long, wire-like structure called an axon. How does this structural adaptation relate directly to its specialized function in the body?",
+      "options": [
+        "It enables the cell to transmit electrical signals rapidly over long distances.",
+        "It allows the cell to contract and pull bones to create movement.",
+        "It allows the cell to store large amounts of fat for energy.",
+        "It helps the cell to engulf foreign bacteria in the blood."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Consider a red blood cell and a root hair cell. Which statement correctly compares their structural adaptations for their respective transport jobs?",
+      "options": [
+        "Both cells have cell walls to prevent them from bursting during transport.",
+        "Both cells lack nuclei so they have more space to store the substances they transport.",
+        "The red blood cell has chloroplasts to generate energy, while the root hair cell has cilia to move water.",
+        "The red blood cell is biconcave to increase surface area for oxygen, while the root hair cell has a long extension to increase surface area for water absorption."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "An organism detects a chemical in its environment and swims away from it. Which two life processes are directly demonstrated by this action?",
+      "options": [
+        "Excretion and Growth",
+        "Sensitivity and Movement",
+        "Nutrition and Reproduction",
+        "Respiration and Growth"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Dust particles are blown across a room by a gust of wind, while a microscopic paramecium swims toward a decaying leaf to feed. Why is the paramecium's movement considered a sign of life, whereas the dust's movement is not?",
+      "options": [
+        "The paramecium moves faster than the dust particles.",
+        "The paramecium moves itself actively to achieve a purpose (finding food), whereas the dust is moved passively by an external force.",
+        "The paramecium is visible under a microscope, while dust is visible to the naked eye.",
+        "The paramecium changes its chemical composition when it moves, but dust does not."
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 31
