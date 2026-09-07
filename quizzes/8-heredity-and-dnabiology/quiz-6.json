@@ -1,0 +1,226 @@
+{
+  "unitKey": "8Heredity and DNABiology",
+  "generatedAt": "2026-09-07T14:21:30.095038+00:00",
+  "questions": [
+    {
+      "question": "What chemical substance is the genetic material in living organisms made of?",
+      "options": [
+        "Protein",
+        "DNA",
+        "Glucose",
+        "Starch"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which statement best describes the structure of a DNA molecule?",
+      "options": [
+        "A single straight chain of proteins",
+        "A long chemical molecule made of two joined chains of smaller units",
+        "A ring of sugars connected by fats",
+        "Three separate chains of amino acids linked by water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What term is used to describe the entire collection of DNA found within a cell?",
+      "options": [
+        "The genotype",
+        "The chromosome",
+        "The genome",
+        "The gene pool"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the name given to the spiralled shape of the two DNA chains with links across the middle?",
+      "options": [
+        "Single strand",
+        "Double helix",
+        "Triple coil",
+        "Crossed loop"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which of these is a chemical substance that can be extracted directly from the cells of organisms like fruit?",
+      "options": [
+        "Chlorophyll only",
+        "DNA",
+        "Cellulose only",
+        "Hemoglobin"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When DNA is successfully extracted from fruit cells in a school laboratory, what does the extracted DNA look like?",
+      "options": [
+        "A dry, brightly colored powder",
+        "A clear, watery liquid that cannot be separated",
+        "A white or cloudy, sticky, stringy substance",
+        "Hard, crystalline blue blocks"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which of the following is true about the genomes of different organisms?",
+      "options": [
+        "Only animals have a genome; plants and bacteria do not",
+        "All organisms have a genome, and there are both similarities and differences between them",
+        "Every single species on Earth has an identical genome",
+        "Genomes only exist in multicellular organisms"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Into what tightly-packed structures is the DNA of a genome wound up?",
+      "options": [
+        "Ribosomes",
+        "Chromosomes",
+        "Chloroplasts",
+        "Vacuoles"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Where are the 23 pairs of chromosomes in a human body cell stored?",
+      "options": [
+        "In the cytoplasm",
+        "In the cell membrane",
+        "In the nucleus",
+        "In the mitochondria"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What are the sections of DNA that store instructions for inherited features and life processes called?",
+      "options": [
+        "Proteins",
+        "Hormones",
+        "Genes",
+        "Nuclei"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is the main role of non-coding sections of DNA?",
+      "options": [
+        "They contain instructions that control when the information in genes is used",
+        "They are waste products that the cell immediately destroys",
+        "They only store instructions for making physical scars",
+        "They are converted directly into cell walls"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "In which part of a plant, animal, or fungus cell is the genetic material stored?",
+      "options": [
+        "The cytoplasm",
+        "The cell wall",
+        "The nucleus",
+        "The vacuole"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Where do bacterial cells store their genetic material?",
+      "options": [
+        "In the nucleus",
+        "In the cytoplasm",
+        "In the chloroplast",
+        "In the vacuole"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is the scientific term for the process of organisms passing on features to their offspring?",
+      "options": [
+        "Heredity",
+        "Respiration",
+        "Photosynthesis",
+        "Adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Why do offspring often show a family resemblance to their parents and siblings?",
+      "options": [
+        "They inherit features from only one parent",
+        "They inherit features from both parents",
+        "They choose to copy their parents' physical features",
+        "They are exposed to the same weather conditions"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which of the following statements about offspring variation is true?",
+      "options": [
+        "All offspring are exact identical copies of their parents",
+        "Offspring usually vary and are not identical to their parents or siblings, except for identical twins",
+        "Only male offspring inherit features from their parents",
+        "Offspring never show any resemblance to their parents"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which features are able to be inherited by offspring?",
+      "options": [
+        "Any feature that a parent develops during their lifetime",
+        "Only features caused by instructions in the genetic material",
+        "Only features that are caused by the environment",
+        "Features that are learned through practice and training"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Which statement describes how lifestyle and environmental features affect inheritance?",
+      "options": [
+        "They are easily passed on to offspring through DNA",
+        "They cannot be inherited by offspring",
+        "They alter the genes of the offspring before birth",
+        "They are always inherited if the parent has them for a long time"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "How did Rosalind Franklin's team in London obtain an image of a DNA molecule in 1952?",
+      "options": [
+        "By using a standard light microscope",
+        "By using X-rays",
+        "By drawing a diagram from memory",
+        "By using a magnifying glass"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Who used picture evidence from Rosalind Franklin's group to complete a model describing the double helix structure of DNA?",
+      "options": [
+        "Charles Darwin and Alfred Wallace",
+        "Gregor Mendel and Louis Pasteur",
+        "James Watson and Francis Crick",
+        "Isaac Newton and Robert Hooke"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 34
+    }
+  ]
+}

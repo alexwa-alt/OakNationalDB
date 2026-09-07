@@ -1,6 +1,6 @@
 {
   "unitKey": "7Sound, light and visionPhysics",
-  "generatedAt": "2026-08-12T06:16:00.005206+00:00",
+  "generatedAt": "2026-09-07T14:21:10.841817+00:00",
   "questions": [
     {
       "question": "A student sits in a completely dark room. They turn on a smartphone screen, which lights up, and they can also see a white mug on the table. Which statement correctly describes these objects?",
@@ -218,6 +218,226 @@
         "Sound waves are caused by vibrating particles, so they cannot travel through a vacuum where there are no particles.",
         "The vacuum pump reverses the frequency of the sound waves until they become ultrasound.",
         "The lack of air pressure stops the metal hammer from actually vibrating the bell."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "A student shines a laser beam onto a sheet of white matte paper and a polished metal mirror. Why can the laser spot on the paper be seen from almost any angle in the room, while the spot on the mirror can only be seen from one specific angle?",
+      "options": [
+        "The paper reflects light in a regular way while the mirror scatters light in all directions.",
+        "The paper scatters the light in many directions, whereas the mirror reflects the light in a single, regular direction.",
+        "The paper absorbs all the light and re-emits it, while the mirror only reflects a small fraction of the light.",
+        "The paper is a luminous object that generates its own light, whereas the mirror is a non-luminous object."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "When a person walks from a brightly lit room into a dark room, their vision takes time to adjust. Which statement correctly describes the pathway of light and the detection mechanism in the eye during this transition?",
+      "options": [
+        "Light enters through the retina, which expands to let more light in, and is detected by the pupil at the front of the eye.",
+        "Light enters through the pupil, which becomes smaller to focus light onto the iris at the back of the eye.",
+        "Light enters through the pupil, which dilates to let more light in, and is detected by the light-sensitive retina at the back.",
+        "Light is emitted by the retina, passes out through the pupil, and reflects back from objects to allow vision."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "In a clean, dust-free laboratory, a scientist shines a powerful green laser pointer across the room. The laser beam itself is completely invisible until it hits the opposite wall, where a bright green dot appears. Why is the beam invisible in the air?",
+      "options": [
+        "The light in the beam is travelling faster than the speed of light, preventing it from being detected in mid-air.",
+        "The light travels in a vacuum within the room, so there are no air particles to absorb the laser energy.",
+        "No light from the beam is scattered or reflected towards the scientist's eyes until it hits the wall.",
+        "The laser beam is made of non-luminous light that only becomes luminous when it makes contact with a solid surface."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "An explorer stands in front of a distant, flat cliff face and claps their hands. They hear an echo exactly 1.2 seconds later. Which of the following best explains why this echo occurs?",
+      "options": [
+        "The sound wave is absorbed by the soft cliff face, which slowly vibrates and recreates a new sound wave.",
+        "The sound wave reflects off the hard surface of the cliff and travels back to the explorer's ears.",
+        "The sound wave travels through the solid cliff, speeds up, and exits the other side to circle back.",
+        "The clap causes the air molecules to travel physically to the cliff, bounce off it, and return to the explorer."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A recording studio designer wants to prevent echoes in a tracking room without completely deadening the sound. They cover one wall with jagged, uneven wooden blocks of various depths. How does this design help?",
+      "options": [
+        "The irregular wooden blocks absorb all the sound energy, converting it entirely into heat.",
+        "The uneven surface reflects sound in a regular, single direction to keep the echo focused away from the microphone.",
+        "The irregular surface reflects sound in many different directions, scattering and spreading the sound out to prevent a distinct echo.",
+        "The wooden blocks vibrate at a frequency that cancels out the incoming sound waves through destructive interference."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why does lining the inside of a noisy machine enclosure with thick, soft felt significantly reduce the escape of high-pitched squeaks?",
+      "options": [
+        "The felt acts as a vacuum chamber, preventing any particles from vibrating inside the machine.",
+        "The sound waves transfer energy to the soft felt by making its flexible particles vibrate, absorbing the sound.",
+        "The soft felt has extremely strong bonds between its particles, preventing them from vibrating at all.",
+        "The felt reflects the sound waves back and forth so quickly that they speed up and disappear."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A highway department is building a barrier next to a residential area to reduce traffic noise. Which combination of materials and strategies would be effective for this purpose?",
+      "options": [
+        "Using a porous, soft material layer facing the highway to absorb the noise, or a solid, hard concrete wall to reflect it away from the houses.",
+        "Using a thin, highly flexible plastic sheet that allows the sound waves to pass through without any change in amplitude.",
+        "Using a smooth, hard concrete wall to absorb the sound energy, converting it into vibrating mechanical energy inside the houses.",
+        "Using an open mesh wire fence that scatters the sound waves into a vacuum."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A light ray strikes a flat mirror. The angle between the incoming light ray and the surface of the mirror is 35 degrees. What is the angle of incidence?",
+      "options": [
+        "35 degrees",
+        "55 degrees",
+        "90 degrees",
+        "70 degrees"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A ray of light is aimed at a plane mirror such that the angle between the incident ray and the reflected ray is 80 degrees. What is the angle of reflection, and where is it measured from?",
+      "options": [
+        "80 degrees, measured from the mirror's surface.",
+        "40 degrees, measured from the mirror's surface.",
+        "80 degrees, measured from the normal line.",
+        "40 degrees, measured from the normal line."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "When you look at a glowing candle in a flat glass mirror, you see an image of the candle behind the mirror. Which statement correctly explains why you see this image?",
+      "options": [
+        "The mirror acts as a light source, generating new light rays that match the shape of the candle.",
+        "Light from the candle reflects off the mirror obeying the laws of reflection, and some of these reflected rays enter your eyes.",
+        "The mirror absorbs the light from the candle and projects a hologram onto the air in front of your eyes.",
+        "Light rays pass directly through the silver backing of the mirror and bend toward your eyes from behind the wall."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A person stands 2.5 metres in front of a large vertical mirror. They place a small cup on a table 1.0 metre directly behind them. How far is the person's eye from the image of the cup in the mirror?",
+      "options": [
+        "3.5 metres",
+        "5.0 metres",
+        "6.0 metres",
+        "1.5 metres"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A student wearing a t-shirt with the word PHYSICS printed on the front stands looking directly into a flat wall mirror. How does the word appear to the student in the mirror?",
+      "options": [
+        "Upside down, but with the letters in the correct left-to-right order.",
+        "The right way up, but with the letters reversed horizontally (laterally inverted).",
+        "Both upside down and reversed horizontally (laterally inverted).",
+        "Exactly the same as it appears on their t-shirt when they look down at it directly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A student tests three sheets of material (X, Y, and Z) by placing them between a light source and a light sensor. Material X lets 98% of the light pass through. Material Y lets 0% of the light pass through. Which classification is correct?",
+      "options": [
+        "Material X is opaque because it transmits light; Material Y is transparent because it blocks light.",
+        "Material X is transparent because it transmits light; Material Y is opaque because it does not transmit light.",
+        "Material X is transparent because it reflects all light; Material Y is opaque because it refracts all light.",
+        "Both materials are transparent because light is a wave that can pass through all matter."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "When a small, intense light bulb is switched on in the center of a very large, dark hall, which of the following describes how the light travels to the distant corners?",
+      "options": [
+        "The light curves around obstacles at a slow pace, gradually filling the corners of the room.",
+        "The light travels in straight lines at an extremely high speed, spreading out in all directions as it moves away from the bulb.",
+        "The light travels in spiral paths, maintaining a constant beam width and brightness regardless of the distance.",
+        "The light travels in straight lines but slows down continuously until it eventually stops at the boundaries of the hall."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "A student sets up a point light source, a solid wooden ball, and a white screen. Why does a sharp, dark shadow of the ball appear on the screen?",
+      "options": [
+        "The ball bends the light rays around its surface, focusing them onto a single dark point on the screen.",
+        "The ball is an opaque object that blocks the straight-travelling light rays, leaving an unlit area on the screen behind it.",
+        "The ball absorbs the light and projects a dark beam of shadow-energy onto the screen.",
+        "The light source emits a mixture of light and dark rays, and the ball selectively filters out only the light rays."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A musician plucks a guitar string gently, then plucks the same string much harder. How do the vibrations and the resulting sound change when the string is plucked harder?",
+      "options": [
+        "The frequency of the vibration increases, making the sound have a much higher pitch.",
+        "The amplitude of the vibration increases, making the sound louder.",
+        "The amplitude of the vibration decreases, making the sound quieter but more sustained.",
+        "Both the amplitude and frequency decrease, keeping the volume the same but lowering the pitch."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A digital sound generator increases the number of vibrations it produces per second from 200 Hz to 800 Hz, while keeping the maximum displacement of the vibrating element the same. What change is heard in the sound?",
+      "options": [
+        "The sound becomes four times louder, but its pitch remains exactly the same.",
+        "The sound's pitch becomes higher because the frequency of the vibrations has increased.",
+        "The sound's pitch becomes lower because the vibrations occur more slowly.",
+        "The sound becomes quieter because high frequencies cannot carry energy as effectively."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "A referee blows a whistle at the center of a football field. A spectator sitting in the front row hears a very loud sound, while a spectator in the top row of the stadium hears a quiet sound. Why does the sound get quieter further away?",
+      "options": [
+        "The frequency of the sound wave decreases as it travels, which lowers the volume.",
+        "The sound wave spreads out as it travels, which decreases the amplitude of the vibrations.",
+        "The air particles near the top row are heavier, preventing them from vibrating at all.",
+        "The sound wave loses its speed as it travels, causing the vibrations to stop before reaching the top row."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Why does sound travel significantly faster through a solid steel rod than through the air?",
+      "options": [
+        "Steel particles are much larger and carry the sound wave physically from one end of the rod to the other.",
+        "The steel has no particles inside it, creating a vacuum that allows sound to travel without any resistance.",
+        "There are strong attractive forces between the particles in a solid, so when one particle vibrates, many others vibrate almost immediately.",
+        "Solids are highly flexible, allowing the sound waves to stretch the particles over long distances very quickly."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "In a classic physics demonstration, an electric bell is suspended inside a glass jar. As a pump removes the air from the jar, the ringing bell becomes quieter and quieter until it cannot be heard at all. Why does this happen?",
+      "options": [
+        "The vacuum absorbs the sound energy and converts it into light waves inside the jar.",
+        "Without air particles to be set vibrating by the bell, the sound wave cannot travel through the vacuum to the outside.",
+        "The lack of air pressure stops the bell's hammer from physically striking the metal dome.",
+        "Sound waves travel so fast in a vacuum that their frequency becomes too high for the human ear to detect."
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 32

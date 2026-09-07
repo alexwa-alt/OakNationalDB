@@ -1,6 +1,6 @@
 {
   "unitKey": "5SolutionsChemistry",
-  "generatedAt": "2026-08-12T06:04:33.173453+00:00",
+  "generatedAt": "2026-09-07T14:20:07.092305+00:00",
   "questions": [
     {
       "question": "A student observes pollen grains dancing randomly under a microscope when suspended in water. If the water is replaced by a slightly thicker liquid at the same temperature, what is the best explanation of what happens to this motion?",
@@ -220,6 +220,226 @@
         "Because sugar dissolves at the same rate regardless of temperature or volume."
       ],
       "correctAnswerIndex": 1,
+      "learningPointIndex": 41
+    },
+    {
+      "question": "Under a microscope, pollen grains suspended in water are seen moving erratically. Why do these visible pollen grains move randomly?",
+      "options": [
+        "Because they are being randomly bumped and pushed by the invisible, fast-moving water particles around them.",
+        "Because the pollen grains themselves are living organisms that actively swim in all directions.",
+        "Because the pollen grains are undergoing a chemical reaction with the water, causing them to self-propel.",
+        "Because the water molecules have melted, creating empty gaps that pollen grains fall into randomly."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If a drop of food coloring is carefully placed at the bottom of a completely still beaker of water, after several days the color is evenly distributed without any stirring. What explains this?",
+      "options": [
+        "Because gravity pulls the food coloring particles up and down until they are chemically destroyed.",
+        "Because liquid particles are free to move and will eventually reach a random, uniform distribution throughout.",
+        "Because the food coloring particles melt into the water particles, losing their individual mass.",
+        "Because the food coloring particles are heavier than water, causing them to eventually float to the top and stay there."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A student stirs a spoonful of flour into water. The mixture looks cloudy, but after an hour, a layer of white flour forms at the bottom and the liquid above is almost clear. What type of mixture is this, and why?",
+      "options": [
+        "It is a solution, because the flour has completely dissolved into its respective atoms.",
+        "It is a pure substance, because the flour and water have undergone a physical state change to become a single gas.",
+        "It is a suspension, because the solid particles remain visible and eventually settle to the bottom over time.",
+        "It is a saturated solution, because cooling the mixture caused the flour particles to melt."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When a solid solute is added to a solvent, what energetic barrier must be overcome first for dissolving to actually occur?",
+      "options": [
+        "The solute particles must be melted by raising the solvent's temperature to its boiling point.",
+        "The air pressure acting on the surface of the solvent must be completely eliminated.",
+        "The chemical bonds inside the water molecules must be broken down into hydrogen and oxygen.",
+        "The attractive forces holding the individual solute particles together must be overcome."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A student carefully measures 50 cm³ of pure ethanol and 50 cm³ of pure water. When they mix them together, the total volume of the mixture is only 96 cm³. What is the scientific explanation for this observation?",
+      "options": [
+        "Some of the mass of the ethanol was destroyed during the chemical reaction.",
+        "Particles of one substance fit into the empty spaces between the particles of the other substance.",
+        "The ethanol particles melted the water particles, reducing their individual volumes.",
+        "The mixture became a pure substance with a much higher density and lower mass."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A student states: 'When sugar is stirred into hot tea, it melts because the tea is hot.' How should a teacher correct this misconception?",
+      "options": [
+        "Dissolving requires a solvent to interact with and disperse the solute, whereas melting only requires heat to change a solid to a liquid.",
+        "Melting is a chemical change that creates new substances, while dissolving is a physical change.",
+        "Sugar cannot dissolve in hot liquids; it can only melt when it is cooled down to room temperature.",
+        "Dissolving is a physical process, whereas melting is a chemical process that destroys the mass of the sugar."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why is it vital to write a scientific method with precise quantities, specific equipment, and clear step-by-step instructions?",
+      "options": [
+        "To guarantee that the dependent variable changes in exactly the same way regardless of the control variables.",
+        "To convert the physical process of dissolving into a permanent chemical reaction.",
+        "To ensure that the investigation can be repeated by the same person, and reproduced by different people, to get similar results.",
+        "To make sure that the total mass of the mixture is greater than the sum of the individual masses."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A student dissolves 15 g of salt into 100 g of water in a sealed beaker. What will be the total mass of the resulting salt solution?",
+      "options": [
+        "Slightly less than 115 g, because some of the salt mass is lost when its particles fit into the spaces of water.",
+        "Exactly 100 g, because the salt dissolved and therefore its mass is no longer present.",
+        "More than 115 g, because a chemical reaction occurred which created extra mass.",
+        "Exactly 115 g, because the mass of the mixed substances adds together and mass is conserved."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A student wants to measure exactly 45 cm³ of a liquid solvent to investigate how fast a solute dissolves. Which piece of equipment and unit should they use?",
+      "options": [
+        "A measuring cylinder, measuring in cm³.",
+        "A balance, measuring in grams.",
+        "A thermometer, measuring in °C.",
+        "A beaker, measuring in grams."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A sample of a white solid is heated slowly. It begins to melt at exactly 114 °C and is completely liquid at 114 °C. What does this sharp, fixed melting point suggest about the solid?",
+      "options": [
+        "It is a mixture of several different substances with different densities.",
+        "It is a pure material made of only one type of substance.",
+        "It is a suspension that has settled over time.",
+        "It is an impure substance containing a high concentration of dissolved gases."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Water normally freezes at 0 °C. When salt is added to water, the mixture now freezes at -4 °C. Why does this change occur?",
+      "options": [
+        "The salt acts as a catalyst that speeds up the chemical destruction of the water.",
+        "Salt is a pure substance that has a fixed melting point of -4 °C.",
+        "The presence of impurities, like salt, changes the melting and freezing points of the substance.",
+        "The salt particles have melted into the water, increasing the total volume of the water."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "You are heating a liquid substance in a lab. It starts boiling at 78 °C, but as you continue heating, the temperature steadily rises to 95 °C while it continues to boil. What does this tell you about the liquid?",
+      "options": [
+        "It is a pure substance that is undergoing a rapid chemical reaction.",
+        "The thermometer is broken because pure materials always boil at a steadily increasing temperature.",
+        "It is a suspension where the solid particles are settling to the bottom.",
+        "It is a mixture, because mixtures boil over a range of temperatures rather than a single fixed point."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "A student keeps adding spoonfuls of sugar to 100 cm³ of water at 20 °C. Eventually, no matter how much they stir, the sugar just sits at the bottom. What does this demonstrate?",
+      "options": [
+        "At any given temperature, there is a limit to how much solute can dissolve in a solvent.",
+        "The sugar has melted and turned into a gas, which pushed the liquid out.",
+        "The water has become a pure material with a fixed boiling point.",
+        "The forces of attraction between water molecules have become infinitely strong."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A student dissolves 50 g of a substance in 100 cm³ of hot water at 80 °C. As the solution cools down to 20 °C, they notice solid crystals starting to appear at the bottom. Why does this happen?",
+      "options": [
+        "The water particles have shrunk, squeezing the solute particles out of existence.",
+        "The solute becomes less soluble and can turn back into an insoluble solid as the solution cools.",
+        "The cooling process has caused a chemical reaction that created new mass.",
+        "The solute has melted because the temperature decreased."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "After plotting their results on a scatter graph of solubility versus temperature, a student draws a smooth curve through the points. How does this line of best fit help the student?",
+      "options": [
+        "It automatically corrects any errors they made in measuring the mass of the solute.",
+        "It proves that the independent variable was not controlled during the test.",
+        "It helps them to identify and describe the relationship between temperature and solubility.",
+        "It shows that the mixture has a fixed melting point and is therefore pure."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "Which of the following is the most complete and scientifically sound conclusion for an investigation into how temperature affects the solubility of salt?",
+      "options": [
+        "Salt dissolves very quickly when you stir it, because stirring is a physical process.",
+        "The temperature of the water was kept at 40 °C throughout the entire fair test.",
+        "A measuring cylinder was used to measure 50 cm³ of water because it is accurate.",
+        "As the temperature of the water (independent variable) increases, the mass of salt that dissolves (dependent variable) increases."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "A student wants to increase how much of a solid solute can dissolve in a liquid. Which set of factors could affect the solubility of this substance?",
+      "options": [
+        "The size of the solute pieces, the choice of solvent, or the temperature of the solvent.",
+        "The size of the beaker, the color of the spatula, or the room's air pressure.",
+        "The mass of the balance, the 2D drawing style of the equipment, or the time of day.",
+        "Whether the mixture is a suspension or a pure substance with a fixed boiling point."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "A student investigates how changing the type of solvent (water, ethanol, or propanone) affects how much of a food dye dissolves. What is the independent variable in this investigation?",
+      "options": [
+        "The mass of food dye that dissolves.",
+        "The type of solvent used.",
+        "The temperature of the room.",
+        "The volume of the measuring cylinder."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "When investigating how the temperature of water affects the solubility of sugar, a student uses the same volume of water (100 cm³), the same brand of sugar, and the same stirring speed each time. What are these kept-the-same factors called?",
+      "options": [
+        "Independent variables.",
+        "Dependent variables.",
+        "Control variables.",
+        "Random variables."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 40
+    },
+    {
+      "question": "In an investigation to see if solute particle size affects how quickly it dissolves, why must the student keep the solvent temperature, solvent volume, and stirring speed exactly the same?",
+      "options": [
+        "To make sure the total mass of the mixture is less than the sum of the individual masses.",
+        "To prevent the solute from turning into a pure substance with a fixed melting point.",
+        "To allow the liquid particles to stop moving completely so that Brownian motion can occur.",
+        "To ensure it is a fair test, so that only the particle size is changed and any effect on dissolving time is clearly due to it."
+      ],
+      "correctAnswerIndex": 3,
       "learningPointIndex": 41
     }
   ]
