@@ -1,6 +1,6 @@
 {
   "unitKey": "6EcosystemsBiology",
-  "generatedAt": "2026-08-12T06:13:40.035321+00:00",
+  "generatedAt": "2026-09-07T14:20:41.604788+00:00",
   "questions": [
     {
       "question": "A species of lizard has evolved a tail that easily detaches when grabbed, allowing it to escape while the predator is distracted by the wriggling tail. How does this adaptation compare to predator adaptations?",
@@ -218,6 +218,226 @@
         "They permanently turn the water into a solid, preventing fish from swimming.",
         "They cause the water temperature to rise to boiling point, killing all organisms.",
         "They stimulate aquatic plants to grow so fast that they consume all the liquid water."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "A scientist observes a species of lizard with eyes on the sides of its head, allowing a near 360-degree field of view, while a hawk in the same area has forward-facing eyes that provide excellent depth perception. How do these traits reflect the ecological roles of these animals?",
+      "options": [
+        "The lizard's side-facing eyes help it locate prey over long distances, while the hawk's forward-facing eyes help it detect predators from behind.",
+        "The lizard's side-facing eyes help it detect approaching predators from almost any angle, while the hawk's forward-facing eyes help it accurately judge distances to capture prey.",
+        "Both animals have adapted these eye positions to make them more efficient at finding plants to eat in their shared habitat.",
+        "The hawk's eye position is an adaptation to avoid being hunted by larger birds, while the lizard's eye position is used to communicate with mates."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A synthetic chemical spilled into a lake does not easily break down. It is absorbed by microscopic algae, which are eaten by small fish, which are then eaten by large fish. If we measure the concentration of this chemical in the organisms, what pattern would we expect to find up the food chain?",
+      "options": [
+        "The concentration decreases at each higher level because organisms break down the chemical during respiration.",
+        "The concentration remains exactly the same in all organisms because it cannot be absorbed by animal tissues.",
+        "The concentration increases at each successive level because the chemical is retained in tissues and accumulates as biomass is consumed.",
+        "The chemical is only found in the algae, as animal digestive systems prevent the absorption of persistent synthetic substances."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "In an aquatic ecosystem contaminated with a heavy metal, why are top predators like eagles or large predatory fish more severely affected by the toxin than the herbivorous fish?",
+      "options": [
+        "Herbivorous fish have evolved special enzymes to completely neutralise heavy metals, whereas top predators lack these enzymes.",
+        "Top predators must consume large quantities of prey over their lifetime, resulting in a much higher concentration of the non-breaking-down toxin in their bodies.",
+        "Heavy metals only become toxic when they react with the digestive acids found specifically in carnivorous birds and large fish.",
+        "Top predators absorb the toxin directly from the air and water at a faster rate than organisms lower down the food chain."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A farming community notices a sharp decline in the hatching success of local birds of prey after spraying a new chemical to control crop-eating beetles. Which process best explains how agricultural spraying affected these predatory birds?",
+      "options": [
+        "The birds directly consumed the sprayed crops, which poisoned their reproductive organs.",
+        "The chemical washed into the soil, killing the plants that the birds of prey rely on for nesting material.",
+        "The pesticide accumulated in the beetles and then concentrated further up the food chain as larger animals ate the insects and were then eaten by the birds.",
+        "The pesticide reacted with the air to create a toxic gas that specifically targets the respiratory systems of nesting birds."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which of the following best describes what makes up a forest ecosystem?",
+      "options": [
+        "Only the community of different tree species and the soil bacteria that help them grow.",
+        "Only the physical factors such as the temperature, rainfall, wind speed, and soil chemistry of the forest.",
+        "The community of plants, animals, and microorganisms, along with the physical factors like soil, water, and climate they interact with.",
+        "The total number of a single species of deer living in the forest and their immediate food sources."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A student is studying a freshwater pond habitat. Which group of components correctly classifies both the biotic and abiotic parts of this habitat?",
+      "options": [
+        "Biotic: pondweed and frogs; Abiotic: water temperature and dissolved oxygen levels.",
+        "Biotic: dissolved mineral ions and mud; Abiotic: fish and water snails.",
+        "Biotic: sunlight and water flow; Abiotic: algae and decomposers.",
+        "Biotic: frogs and fish; Abiotic: pondweed and water lilies."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Due to climate change, a woodland habitat experiences much drier and hotter summers. How is this environmental change most likely to affect the organisms living there?",
+      "options": [
+        "All species will instantly adapt by mutating their genes to survive with less water.",
+        "Species that rely on high moisture levels may struggle to survive, potentially forcing them to migrate or die out in that area.",
+        "The plants will stop performing photosynthesis entirely and switch to consuming organic matter from the soil.",
+        "It will have no effect because organisms are completely independent of the abiotic factors in their habitat."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "In a food chain consisting of: Grass, Grasshopper, Lizard, and Snake, what is the biological meaning of the arrow pointing from the grasshopper to the lizard?",
+      "options": [
+        "It shows that the lizard hunts and physically moves the grasshopper to a new location.",
+        "It indicates that energy and biomass are transferred from the grasshopper to the lizard when the lizard eats it.",
+        "It represents the flow of carbon dioxide from the lizard back to the grasshopper during respiration.",
+        "It shows that the grasshopper population size is always greater than the lizard population size."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Consider the food chain: Oak tree -> Caterpillars -> Blue tits -> Sparrowhawks. If a disease suddenly wipes out the majority of the blue tit population, what is the most likely immediate effect on the other populations?",
+      "options": [
+        "The caterpillar population will decrease, and the sparrowhawk population will increase.",
+        "The caterpillar population will increase due to fewer predators, and the sparrowhawk population will decrease due to less food.",
+        "The oak trees will stop growing, and the sparrowhawks will start eating the oak leaves.",
+        "There will be no effect on any other population because each species in a food chain is entirely independent."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why is a food web a more realistic model of an ecosystem than a single, linear food chain?",
+      "options": [
+        "A food web shows that consumers only eat one specific type of organism throughout their lives.",
+        "A food web represents the complex reality that most consumers eat more than one type of prey and belong to multiple interconnected food chains.",
+        "A food web excludes decomposers and abiotic factors, making it simpler and more accurate than a food chain.",
+        "A food web shows how energy is recycled from the top predators directly back to the sun."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "If a catastrophic event blocked out all sunlight on Earth, stopping photosynthesis, why would even strict carnivores like lions eventually die out?",
+      "options": [
+        "Carnivores require direct sunlight to synthesise essential vitamins and regulate their body temperature.",
+        "Carnivores depend on herbivores for food, and those herbivores would starve once the producers could no longer make food.",
+        "Carnivores would immediately begin consuming decomposers, which would poison them.",
+        "Without sunlight, the atmosphere would lose all of its nitrogen, preventing carnivores from building proteins."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "An invasive disease reduces the population of fruit-eating birds in a forest. How is this loss most likely to affect the wild fruit trees in that forest?",
+      "options": [
+        "The trees will produce more flowers but will fail to produce any seeds because pollination will stop.",
+        "The trees will produce seeds, but fewer new saplings will grow far away from parent trees because there are no birds to disperse the seeds.",
+        "The trees will immediately adapt to disperse their seeds using wind instead of birds.",
+        "The trees will grow much faster because they no longer have to spend energy producing fruits for birds."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which of the following scenarios best illustrates the concept of interdependence between producers and consumers in a meadow?",
+      "options": [
+        "Grasses absorbing water from the soil while rabbits breathe in oxygen from the air.",
+        "Flowering plants providing nectar to bees, while the bees pollinate the flowers so they can reproduce and make seeds.",
+        "Caterpillars eating leaves while hawks hunt mice in a different part of the meadow.",
+        "Mushrooms decomposing dead wood and releasing mineral ions back into the soil."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "How does a global decline in pollinating insects directly threaten human food security?",
+      "options": [
+        "It would prevent the growth of wind-pollinated cereal crops like wheat and rice, which make up the bulk of human calories.",
+        "It would lead to a lower yield of many fruit, vegetable, and nut crops that rely on insects to reproduce, reducing the global food supply.",
+        "It would cause livestock animals to die out immediately because they only eat insect-pollinated plants.",
+        "It would stop plants from absorbing carbon dioxide, leading to a direct lack of oxygen for humans."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "In a classic predator-prey cycle, what typically happens to the predator population shortly after the prey population crashes due to overgrazing?",
+      "options": [
+        "The predator population increases because they switch to eating plants.",
+        "The predator population crashes shortly after because there is less food available for them.",
+        "The predator population remains completely stable because they are unaffected by the prey's food supply.",
+        "The predators migrate permanently to the ocean to hunt aquatic species."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Why is maintaining high biodiversity in a rainforest ecosystem beneficial to human society?",
+      "options": [
+        "High biodiversity ensures that only one dominant species of tree grows, making timber harvesting much easier.",
+        "A diverse range of species increases the chances of discovering new active chemical compounds that can be developed into medicines.",
+        "High biodiversity prevents any natural changes in weather from occurring, keeping the climate perfectly constant.",
+        "It reduces the total number of insects, which prevents diseases from spreading to humans."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Which human activity is a direct example of habitat destruction that reduces biodiversity?",
+      "options": [
+        "Creating a new urban nature reserve to protect native wildflowers.",
+        "Clearing large areas of ancient woodland to build a new highway and housing estate.",
+        "Enforcing laws that limit the amount of fish commercial boats can catch.",
+        "Testing local river water to monitor the levels of dissolved oxygen."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Why are seed banks considered crucial for conserving the genetic diversity of wild plant species?",
+      "options": [
+        "They store seeds in conditions that cause them to mutate rapidly, creating entirely new species of plants.",
+        "They preserve a wide variety of seeds from different populations, ensuring we can replant species with diverse genetic traits if they go extinct in the wild.",
+        "They convert plant seeds into artificial food sources that can feed humans without the need for farming.",
+        "They allow scientists to grow plants without needing abiotic factors like water, soil, or sunlight."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "A farmer sprays a chemical pesticide (specifically a herbicide) on a field of wheat. How does killing the weeds in the field help the wheat crops produce a higher yield?",
+      "options": [
+        "The dead weeds release toxic gases that repel insect pests from eating the wheat.",
+        "It removes competition, allowing the wheat crops to access more light, water, and soil nutrients.",
+        "The wheat crops absorb the herbicide and use it as an additional source of energy for photosynthesis.",
+        "It encourages the wheat crops to grow taller so they can be pollinated by birds."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "What is a potential negative environmental consequence of using large amounts of chemical fertilisers on farmland near a river?",
+      "options": [
+        "The fertilisers can wash into the river, causing rapid algae growth that eventually depletes dissolved oxygen and suffocates fish.",
+        "The fertilisers make the river water too acidic for any aquatic plants to perform photosynthesis.",
+        "The chemicals cause the river water to evaporate much faster, drying up the habitat.",
+        "The fertilisers attract land predators, which then overhunt the fish in the river."
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 37
