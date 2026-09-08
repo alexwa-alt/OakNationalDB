@@ -1,6 +1,6 @@
 {
   "unitKey": "8Heredity and DNABiology",
-  "generatedAt": "2026-08-12T06:13:32.330939+00:00",
+  "generatedAt": "2026-09-08T12:59:53.991252+00:00",
   "questions": [
     {
       "question": "DNA is described as a long chemical molecule made of two chains of smaller units. If a scientist breaks all the chemical bonds holding the two chains together but leaves the bonds within each chain intact, what would they observe?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 34
+    },
+    {
+      "question": "DNA is described as a long chemical polymer. Which of the following best describes the fundamental structure of this molecule?",
+      "options": [
+        "A single long protein chain folded into a complex 3D shape.",
+        "Two separate chains made of smaller chemical units that are joined together.",
+        "A triple strand of lipid molecules connected by sugar bridges.",
+        "Multiple independent rings of carbohydrates linked by peptide bonds."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A scientist sequences all of the DNA found within a single somatic cell of a rare fern species. What is the correct biological term for this complete set of DNA?",
+      "options": [
+        "The proteome",
+        "The genotype",
+        "The genome",
+        "The karyotype"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "When visualizing the physical shape of a DNA molecule, how are the two chains and their connections arranged?",
+      "options": [
+        "They are arranged as a flat, ladder-like structure that remains completely straight.",
+        "They form a single tightly coiled spring with no links across the middle.",
+        "They are spiralled around each other in a double helix, with linking units bridging the middle.",
+        "They form a sphere where the chains cross randomly and tie into knots."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Students are evaluating a physical model of DNA made from plastic beads and wire. Which of the following represents a limitation or weakness of using such a physical model?",
+      "options": [
+        "It shows that DNA consists of repeating smaller units joined together.",
+        "It represents the overall double helix shape in a three-dimensional way.",
+        "It cannot show the actual chemical bonds, dynamic movement, or the scale of real atoms.",
+        "It helps students visualize how the two strands run in opposite directions."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "During a DNA extraction experiment, a student expects to see individual double helix molecules using a standard classroom magnifying glass. Why is this expectation incorrect?",
+      "options": [
+        "Single DNA molecules are too small to be seen with the unaided eye; we can only see them when millions of molecules clump together.",
+        "DNA is a gas when extracted, so it cannot be viewed under any optical magnification.",
+        "The extraction process always breaks DNA down into single atoms which are invisible.",
+        "DNA only becomes visible when it reacts with oxygen and turns into a dark metal."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "In a fruit DNA extraction protocol, why is dishwashing liquid (detergent) mixed with salt and added to the crushed fruit before filtering?",
+      "options": [
+        "To dye the DNA a bright color so it is easily visible in the filter paper.",
+        "To break open the cell and nuclear membranes to release the DNA.",
+        "To neutralize the natural sugars so they do not turn into alcohol.",
+        "To convert the DNA from a solid state into a dissolved gas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "If we compare the genomes of a human, a banana plant, and a bacterium, which statement is most scientifically accurate?",
+      "options": [
+        "They share no similarities because they belong to completely different kingdoms of life.",
+        "Their genomes contain the same total amount of DNA and identical gene sequences.",
+        "They all have genomes made of DNA, containing both unique sequences and some shared similarities.",
+        "Only humans have a genome; plants and bacteria store their genetic information as proteins."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What is the structural relationship between DNA and chromosomes inside a eukaryotic cell?",
+      "options": [
+        "Chromosomes are proteins that chemically digest DNA molecules when the cell needs energy.",
+        "DNA molecules are wound up and tightly packed into structures called chromosomes.",
+        "Chromosomes are small liquid droplets that float inside the double helix of DNA.",
+        "DNA is a temporary shield that wraps around chromosomes to protect them from light."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How does the organization and location of genetic material in a human body cell compare to that in a bacterium?",
+      "options": [
+        "Humans have 23 pairs of chromosomes in the nucleus; bacteria have one chromosome stored in the cytoplasm.",
+        "Humans have a single circular chromosome in the cytoplasm; bacteria have 23 pairs in a nucleus.",
+        "Both human cells and bacteria store 23 pairs of chromosomes inside a well-defined nucleus.",
+        "Humans store genetic material in the cytoplasm; bacteria store it in a membrane-bound nucleus."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of the following best describes what a gene is and its primary function?",
+      "options": [
+        "A gene is a protein coat that protects the cell membrane from external chemicals.",
+        "A gene is a section of DNA on a chromosome that stores instructions for an inherited feature or life process.",
+        "A gene is a carbohydrate chain used by cells to store excess glucose.",
+        "A gene is the specialized liquid found inside the nucleus of plant cells."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A large proportion of a eukaryotic genome consists of non-coding DNA. What is a primary function of these non-coding regions?",
+      "options": [
+        "They are waste materials that the cell must eject during division.",
+        "They contain instructions that control when and how the information in genes is used.",
+        "They are converted directly into glucose to power cellular respiration.",
+        "They act as physical anchors that glue the cell to surrounding tissues."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "An alien life form is discovered to have cells containing a nucleus, cytoplasm, and cell membrane. In which of these structures would you expect to find its genetic material if it behaves like Earth's eukaryotic organisms?",
+      "options": [
+        "Suspended freely in the cytoplasm only",
+        "Embedded within the lipid bilayer of the cell membrane",
+        "Stored securely inside the nucleus",
+        "Dissolved in the cell wall pores."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A student is looking at a microscopic organism under a high-powered microscope. They note that the cell has a cell wall and cytoplasm, but lacks a nucleus. Where is its DNA located?",
+      "options": [
+        "It does not have any DNA because it lacks a nucleus.",
+        "Its DNA is floating freely in the cytoplasm.",
+        "Its DNA is stored inside a chloroplast.",
+        "Its DNA is bound to the outer surface of the cell wall."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How does the chemical structure of DNA function as an instructional manual for an organism's life processes?",
+      "options": [
+        "The sequence of smaller molecules along the DNA chains forms a biological code used as instructions.",
+        "The physical weight of the DNA molecule determines which chemical reactions occur in the cytoplasm.",
+        "DNA acts as a filter that physically blocks harmful chemicals from entering the cell.",
+        "The temperature of the DNA molecule signals different proteins to break down."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why do biological siblings (not identical twins) usually look similar to each other and to their parents, but not exactly identical?",
+      "options": [
+        "They inherit all of their genetic material from only one parent, which changes based on their diet.",
+        "They inherit different combinations of genetic material from both of their parents.",
+        "They only share environmental features and do not inherit any genetic material from parents.",
+        "Their genetic material is copied entirely from the mother, but modified by the father's environment."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which of the following statements about variation among offspring is correct?",
+      "options": [
+        "Offspring from asexual reproduction are always genetically diverse, while sexual offspring are identical.",
+        "Identical twins are the only common exception to the rule that offspring vary and are not identical to their parents or siblings.",
+        "All offspring are exact copies of their fathers due to stronger genetic dominance.",
+        "Environmental factors completely prevent any genetic variation from appearing in offspring."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A professional weightlifter develops extremely large muscles through intense training. If they have a child, why won't the child be born with exceptionally large muscles?",
+      "options": [
+        "Muscular features are carried on non-coding DNA, which is never inherited.",
+        "Only features caused by instructions in the genetic material can be passed on to offspring.",
+        "The child will inherit the muscle size, but it only appears when they reach adulthood.",
+        "Muscle cells lack DNA entirely, so their features cannot be coded."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Which of the following features is caused entirely by the environment and lifestyle, meaning it cannot be passed on to offspring?",
+      "options": [
+        "A scar on a person's knee from falling off a bicycle.",
+        "The natural pigmentation and color of a person's eyes.",
+        "The shape of a person's earlobes.",
+        "The natural blood group of an individual."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "How did scientists eventually determine the three-dimensional double helix model of DNA in 1953?",
+      "options": [
+        "A single scientist worked in complete isolation without looking at anyone else's data.",
+        "Scientists collected pieces of evidence, shared findings, and built upon each other's work.",
+        "They used a computer simulation that automatically generated the structure without physical data.",
+        "They copied the structure of a known protein and assumed DNA must be identical."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "What critical contribution did Rosalind Franklin's team make to the discovery of the structure of DNA in 1952?",
+      "options": [
+        "They synthesized the first artificial DNA molecule in a test tube.",
+        "They used X-rays to produce a high-quality diffraction image of a DNA molecule.",
+        "They proved that bacteria do not contain any genetic material.",
+        "They discovered that DNA is located only in the cell membrane."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
     }
   ]
 }

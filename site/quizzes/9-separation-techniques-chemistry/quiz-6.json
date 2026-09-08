@@ -1,0 +1,226 @@
+{
+  "unitKey": "9Separation techniquesChemistry",
+  "generatedAt": "2026-09-08T13:01:37.079483+00:00",
+  "questions": [
+    {
+      "question": "If you analyze a completely pure chemical substance using paper chromatography, what will you see on the chromatogram?",
+      "options": [
+        "Only one spot",
+        "Multiple spots at different heights",
+        "A continuous streak of colors",
+        "No spots at all"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why does a mixture of food dyes produce multiple spots at different heights on a chromatogram?",
+      "options": [
+        "Because it contains only one chemical compound",
+        "Because a mixture produces many spots on a chromatogram",
+        "Because the paper has dissolved the dyes",
+        "Because the solvent has reacted with the paper"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why is a pencil used to draw the starting line on chromatography paper instead of a pen?",
+      "options": [
+        "Pencil lead is cheaper than ink",
+        "Pencil is insoluble in water",
+        "Pencil ink travels faster than the solvent",
+        "Pencil marks are magnetic"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Under what condition is simple distillation most appropriate for separating a mixture?",
+      "options": [
+        "When separating a mixture containing only two substances",
+        "When separating a mixture of five different gases",
+        "When the substances have identical boiling points",
+        "When separating insoluble solids from a liquid"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When would a chemist choose fractional distillation instead of simple distillation?",
+      "options": [
+        "To separate an insoluble solid from a liquid",
+        "To separate mixtures with three or more substances, or substances with similar boiling points",
+        "To attract magnetic substances from a non-magnetic mixture",
+        "To filter out large sand particles from water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the consequence if the condenser warms up during a distillation experiment?",
+      "options": [
+        "The condensation rate will increase",
+        "The liquid will freeze inside the condenser",
+        "The condenser becomes less effective and more gas will escape",
+        "The boiling point of the mixture will decrease"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What happens when you use evaporation to remove a solvent from a solution?",
+      "options": [
+        "It leads to the production of a saturated solution",
+        "It turns the solute into a gas",
+        "It makes the remaining solution more dilute",
+        "It decreases the temperature of the solute"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which process describes the reforming of a solute as crystals from a saturated solution following a change in conditions?",
+      "options": [
+        "Filtration",
+        "Chromatography",
+        "Decanting",
+        "Crystallisation"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Where does the solvent go when a solution is left to undergo crystallisation?",
+      "options": [
+        "It sinks to the bottom of the container",
+        "It evaporates into the air around you",
+        "It chemically bonds with the container",
+        "It reacts to form a new solid"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is the effect of allowing a solvent to evaporate very slowly during crystallisation?",
+      "options": [
+        "No crystals will form at all",
+        "Larger crystals form",
+        "Smaller, finer crystal powder is produced",
+        "The crystals will turn into liquid"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A student has a mixture of sand, copper, and iron filings. Which materials will be attracted if they use a magnet?",
+      "options": [
+        "Only copper",
+        "Only sand",
+        "Iron and steel",
+        "Copper and iron"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How can you separate an insoluble solid, like sand, from a liquid?",
+      "options": [
+        "Using a filter by a process known as filtration",
+        "By heating the mixture until it boils",
+        "By using a strong magnet",
+        "By chromatography"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is the purpose of adding a drop of water to a filter funnel when setting up filtration?",
+      "options": [
+        "To dissolve the insoluble solids beforehand",
+        "To help keep the filter paper cone open for easy filtering",
+        "To wash the funnel clean of chemical residues",
+        "To cool down the hot mixture being filtered"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What happens to immiscible liquids if they are mixed and then allowed to settle?",
+      "options": [
+        "They will dissolve completely into each other",
+        "They will react chemically to form a solid",
+        "They do not mix and one will float above the other",
+        "They will instantly evaporate into the air"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of these methods can be used to separate two immiscible liquids?",
+      "options": [
+        "Paper chromatography",
+        "Decanting or using a separating funnel",
+        "Simple distillation only",
+        "Crystallisation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "If you leave a mixture of miscible liquids in a sealed container for a long time, what will happen?",
+      "options": [
+        "They will separate into distinct layers",
+        "They do not separate into layers",
+        "The bottom liquid will crystallise",
+        "They will turn into immiscible liquids"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "How can the boiling points of miscible liquids be used to separate them?",
+      "options": [
+        "By using a magnet to attract the lower boiling point liquid",
+        "By changing states through heating and cooling",
+        "By filtering the mixture through paper",
+        "By letting them settle into layers over time"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Which sequence of techniques is required to separate pure salt from rock salt?",
+      "options": [
+        "Making a solution, filtration, and crystallisation",
+        "Simple distillation, chromatography, and magnetism",
+        "Decanting, fractional distillation, and evaporation",
+        "Filtration, chromatography, and decanting"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "On what scientific principle does distillation work to separate a solution?",
+      "options": [
+        "One part of a solution having a different boiling point than the other part",
+        "One component being magnetic while the other is not",
+        "The difference in particle size between solute and solvent",
+        "One substance being soluble and the other being insoluble"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Why should the condenser in a distillation setup be kept cold?",
+      "options": [
+        "To prevent the glass from shattering from intense heat",
+        "To speed up condensation",
+        "To slow down the boiling rate of the mixture",
+        "To stop the solvent from evaporating in the flask"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    }
+  ]
+}
