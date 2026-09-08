@@ -1,6 +1,6 @@
 {
   "unitKey": "7Sound, light and visionPhysics",
-  "generatedAt": "2026-09-07T14:21:10.841817+00:00",
+  "generatedAt": "2026-09-08T12:59:23.191862+00:00",
   "questions": [
     {
       "question": "A student sits in a completely dark room. They turn on a smartphone screen, which lights up, and they can also see a white mug on the table. Which statement correctly describes these objects?",
@@ -438,6 +438,226 @@
         "Without air particles to be set vibrating by the bell, the sound wave cannot travel through the vacuum to the outside.",
         "The lack of air pressure stops the bell's hammer from physically striking the metal dome.",
         "Sound waves travel so fast in a vacuum that their frequency becomes too high for the human ear to detect."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "A student shines a narrow beam of light onto a piece of white paper and a glass mirror. How does the light behave on these two surfaces?",
+      "options": [
+        "The mirror reflects the light in one direction (regular reflection), while the paper does not reflect light at all.",
+        "Both surfaces reflect light, but the mirror reflects it in a regular way while the paper scatters it in many directions.",
+        "The mirror reflects all the light, whereas the paper absorbs all the light and reflects none.",
+        "Both surfaces scatter the light in all directions, but the mirror does so more intensely."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "An object is placed in a completely sealed, pitch-black room where no light can enter. A person with perfect vision stands in the room. Why can they not see the object?",
+      "options": [
+        "Their eyes need time to adjust to the darkness before they can see the small amount of light emitted by the object.",
+        "No light from the object is entering their eyes, which is necessary for anything to be seen.",
+        "The human eye can only detect light that has been reflected from a mirror-like surface.",
+        "The light from the object is traveling too slowly in the dark to reach their eyes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following correctly describes the roles of the pupil and the retina when a person looks at a candle flame?",
+      "options": [
+        "Light is emitted from the pupil and is detected when it bounces back onto the retina.",
+        "Light enters the eye through the retina and is detected by the light-sensitive pupil at the front.",
+        "Light enters the eye through the pupil and is detected by the light-sensitive retina at the back.",
+        "Light is focused by the retina and enters the brain directly through the pupil."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "In a dusty room, a beam of sunlight shining through a window is clearly visible. In a clean room with no dust, the same beam cannot be seen from the side. Why is this?",
+      "options": [
+        "Dust particles block the light, making the area around the beam appear darker and more visible.",
+        "The light beam in the clean room travels too fast to be detected by the human eye.",
+        "In the dusty room, light hits the dust particles and scatters towards your eyes, making the beam visible.",
+        "Dust particles act as miniature light sources that emit their own light when heated by the sun."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A person stands in front of a tall, hard stone cliff and shouts. They hear an echo 1.2 seconds later. What caused this echo to occur?",
+      "options": [
+        "The sound wave was absorbed by the cliff and then re-emitted as a new sound wave.",
+        "The sound wave reflected off the hard surface of the cliff and travelled back to the person's ears.",
+        "The sound wave bent around the cliff and returned from the other side.",
+        "The air particles near the cliff vibrated faster, creating a higher-pitched copy of the shout."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A recording studio is lined with soft foam panels on the walls. How do these soft panels reduce the sound levels inside the room?",
+      "options": [
+        "The panels reflect all sound waves back to the source, preventing them from spreading.",
+        "The panels contain a vacuum which prevents sound waves from travelling through them.",
+        "Sound waves transfer energy to the soft panels by making their particles vibrate, absorbing the sound.",
+        "The panels increase the frequency of the sound waves until they are too high for humans to hear."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A single ray of light travels through the air and strikes a flat, polished silver mirror. What happens to this ray after it hits the mirror?",
+      "options": [
+        "It scatters in all directions because silver is made of tiny irregular crystals.",
+        "It is completely absorbed by the silver and converted into thermal energy.",
+        "It reflects off the mirror and travels in a single, predictable direction.",
+        "It splits into multiple rays that travel parallel to the surface of the mirror."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A student is measuring the angles of reflection for a science experiment. From which reference line must they measure the angle of incidence and the angle of reflection?",
+      "options": [
+        "From the surface of the mirror itself.",
+        "From an imaginary line drawn at 90 degrees to the mirror's surface, called the normal.",
+        "From the line representing the incoming light ray to the outgoing light ray.",
+        "From the horizontal table surface on which the mirror is placed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "If a ray of light strikes a flat mirror at an angle of 35 degrees to the normal, what will be the angle between the reflected ray and the normal?",
+      "options": [
+        "35 degrees, on the opposite side of the normal.",
+        "55 degrees, on the same side of the normal.",
+        "35 degrees, on the same side of the normal.",
+        "90 degrees, along the surface of the mirror."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "When you look at your reflection in a plane mirror, where does the image appear to be located?",
+      "options": [
+        "Exactly on the physical surface of the mirror.",
+        "Behind the mirror, at the point where the reflected light rays seem to have come from.",
+        "In front of the mirror, halfway between your eyes and the mirror surface.",
+        "Inside your eye's pupil, where the rays first cross."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A toy car is placed 15 cm in front of a flat vertical mirror. What is the position of the image of the toy car relative to the mirror?",
+      "options": [
+        "15 cm behind the mirror, directly opposite the toy car.",
+        "30 cm behind the mirror, shifted slightly to the left.",
+        "7.5 cm behind the mirror, directly opposite the toy car.",
+        "15 cm in front of the mirror, superimposed on the toy car itself."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "You stand in front of a mirror wearing a T-shirt with the word 'PHYSICS' printed on it. How does the word appear to you in the mirror reflection?",
+      "options": [
+        "Upside down and the letters reversed from right to left.",
+        "The right way up and exactly the same as you see it on your chest.",
+        "The right way up, but laterally inverted (reversed from right to left).",
+        "Upside down, but with the letters in the correct left-to-right order."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A student holds three sheets of different materials between a lamp and a wall: clear glass, tracing paper, and cardboard. Which statement correctly describes their properties?",
+      "options": [
+        "Clear glass is transparent because it transmits light; cardboard is opaque because it does not transmit light.",
+        "Tracing paper is opaque because it reflects all light; cardboard is transparent because it absorbs light.",
+        "Clear glass is opaque because it lets light pass; cardboard is transparent because it blocks light.",
+        "Tracing paper is transparent because it blocks light; clear glass is opaque because it scatters light."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A lighthouse emits a powerful beam of light into the night. Which of the following describes how this light travels through the air?",
+      "options": [
+        "In curved paths at a slow speed, keeping a constant beam width.",
+        "In straight lines at an extremely high speed, spreading out as it travels.",
+        "In zig-zag patterns at the speed of sound, getting narrower as it travels.",
+        "In straight lines at a moderate speed, staying completely parallel without spreading."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "An opaque circular disc is placed between a small lamp and a white screen. A dark shadow is cast on the screen. What is this shadow?",
+      "options": [
+        "An area where light rays have bent around the disc and met on the screen.",
+        "An unlit area in the shape of the disc because the disc blocked the straight-travelling light.",
+        "A region where the screen has absorbed the light and re-emitted dark energy.",
+        "An area where the light rays from the lamp have been reflected back to the lamp."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Two musical notes are played on a piano. The first note is played gently, and the second note is struck very hard, but both keys are the same note (Middle C). How do the sound waves of these two notes compare?",
+      "options": [
+        "The second note has a higher frequency than the first note.",
+        "The second note has a greater amplitude than the first note, making it louder.",
+        "The first note has a greater amplitude than the second note, making it quieter.",
+        "Both notes have the same amplitude, but the second note travels faster through the air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A violinist slides their finger up a string, making the sound go from a low pitch to a very high pitch. What is happening to the physical vibration of the string to cause this change?",
+      "options": [
+        "The amplitude of the vibration is increasing.",
+        "The frequency of the vibration is increasing, meaning it vibrates more often per second.",
+        "The speed of the sound wave travelling through the air is increasing.",
+        "The vibration is stopping completely, leaving only the harmonics."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why does sound travel faster through water (a liquid) than through air (a gas)?",
+      "options": [
+        "Water particles are much lighter than air particles, so they can travel faster from the source to the ear.",
+        "Water particles are closer together than air particles, allowing vibrations to be passed on more easily.",
+        "Water is a better absorber of sound, which concentrates the energy and speeds it up.",
+        "Liquid particles do not vibrate, allowing the sound wave to slide through them without friction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Sound travels through different materials at different speeds. In which of the following materials will sound travel the fastest, and why?",
+      "options": [
+        "Air, because the particles are far apart and have plenty of room to move freely.",
+        "Water, because it is a liquid and the particles can easily flow past each other.",
+        "Steel, because it is a solid with strong attractive forces between particles so many vibrate when one does.",
+        "A vacuum, because there are no particles to block or slow down the sound wave."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "An astronaut on a spacewalk outside the International Space Station strikes two metal tools together. Why can another astronaut nearby not hear this collision?",
+      "options": [
+        "The space suits completely absorb all internal and external sound vibrations.",
+        "Sound is a vibration of particles, and since space is a vacuum with no particles, sound cannot travel.",
+        "The temperature in space is too cold for particles to vibrate.",
+        "The speed of light in space is too fast, which overrides and cancels out any sound waves."
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 32

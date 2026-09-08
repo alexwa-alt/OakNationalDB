@@ -1,6 +1,6 @@
 {
   "unitKey": "6EcosystemsBiology",
-  "generatedAt": "2026-09-07T14:20:41.604788+00:00",
+  "generatedAt": "2026-09-08T12:57:23.304804+00:00",
   "questions": [
     {
       "question": "A species of lizard has evolved a tail that easily detaches when grabbed, allowing it to escape while the predator is distracted by the wriggling tail. How does this adaptation compare to predator adaptations?",
@@ -440,6 +440,226 @@
         "The fertilisers attract land predators, which then overhunt the fish in the river."
       ],
       "correctAnswerIndex": 0,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "An evolutionary biologist studies an island where a new predator has been introduced. The local lizards, which are prey, have started developing longer hind legs. How does the development of longer hind legs in these lizards most likely serve as an adaptation to the new predator?",
+      "options": [
+        "It allows them to run faster to escape the predator's pursuit.",
+        "It helps them blend in with the tall grasses on the island.",
+        "It makes them appear larger and more intimidating to the predator.",
+        "It enables them to dig deeper burrows to hide during the day."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A chemical plant accidentally spills a substance into a lake. Scientists notice that even after ten years, the concentration of this substance in the lake's sediment remains virtually unchanged. Which property of the toxic substance best explains why its concentration has not decreased over a decade?",
+      "options": [
+        "It is highly soluble in water, allowing it to dissolve quickly.",
+        "It is a persistent substance that does not break down easily.",
+        "It is highly volatile and evaporates into the air.",
+        "It is rapidly absorbed and metabolized by aquatic plants."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Microscopic algae in a bay absorb small amounts of a non-biodegradable industrial chemical. Zooplankton eat the algae, small fish eat the zooplankton, and eagles eat the small fish. What is the primary mechanism by which this toxic chemical eventually reaches the eagles at the top of the food chain?",
+      "options": [
+        "The chemical evaporates from the water and is inhaled directly by the eagles.",
+        "The chemical is passed along each trophic level when predators consume their prey.",
+        "The chemical is manufactured within the bodies of the eagles themselves.",
+        "The chemical is dissolved in the rain that eagles drink."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "In a marine ecosystem contaminated with mercury, herons (top predators) are found to have extremely high concentrations of mercury in their tissues, leading to thin eggshells and reproductive failure. Why are the top predators in this ecosystem experiencing the most severe damage from the mercury contamination?",
+      "options": [
+        "They absorb mercury directly through their feathers from the air.",
+        "Mercury concentrations accumulate and increase at each successive level of the food chain.",
+        "Top predators have weaker immune systems than lower-level consumers.",
+        "Mercury is only toxic to warm-blooded animals and does not affect fish or algae."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A farmer applies a persistent synthetic pesticide to a crop to control aphids. Nearby, a population of predatory hawks begins to decline due to reproductive failure caused by the pesticide. Which of the following best describes how agricultural practices led to this decline in the hawk population?",
+      "options": [
+        "The pesticide directly poisoned the air around the hawks' nesting sites.",
+        "The hawks ate the crops directly, receiving a lethal dose of the pesticide.",
+        "The pesticide accumulated in the tissues of insect-eating birds which were then eaten by the hawks.",
+        "The pesticide reduced the amount of carbon dioxide available to the local trees."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A biologist is studying a forest ecosystem. They want to understand how a sudden drought affects both the soil nutrient levels and the population of decomposers. Why must the biologist study both the abiotic physical environment and the living organisms to understand this ecosystem?",
+      "options": [
+        "Ecosystems consist only of non-living physical components like water and soil.",
+        "Living organisms and their physical environment interact and are completely interdependent.",
+        "Physical factors like drought only affect non-living parts of the environment.",
+        "Decomposers are the only organisms that do not interact with their physical environment."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Due to climate change, a wetland habitat experiences significantly warmer temperatures and lower water levels during the summer months. How are these environmental changes most likely to affect the native species adapted to cold, deep water?",
+      "options": [
+        "They will automatically mutate to thrive in warm, dry conditions within a few days.",
+        "They will face increased difficulty surviving as their habitat no longer meets their survival needs.",
+        "They will stop reproducing to save energy until the cold water returns.",
+        "They will switch to consuming land plants to survive."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Consider the following food chain: Grass -> Grasshopper -> Frog -> Snake. What does the arrow pointing from the grasshopper to the frog represent?",
+      "options": [
+        "The movement of the frog chasing the grasshopper.",
+        "The transfer of biomass from the grasshopper to the frog.",
+        "The transfer of carbon dioxide from the frog to the grasshopper.",
+        "The genetic information passed from the grasshopper to its offspring."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In a simple food chain (Oak tree -> Caterpillar -> Blue tit -> Sparrowhawk), a disease suddenly wipes out most of the blue tit population. What is a likely short-term consequence of this population change on the other organisms in this food chain?",
+      "options": [
+        "The caterpillar population will decrease and the sparrowhawk population will increase.",
+        "The caterpillar population will increase and the sparrowhawk population will decrease.",
+        "The oak tree population will decrease and the sparrowhawk population will increase.",
+        "All other populations will remain completely unaffected."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "An ecologist is comparing a simple food chain diagram with a complex food web diagram of the same woodland community. What advantage does the food web diagram have over a single food chain diagram for representing this community?",
+      "options": [
+        "It shows that each animal in the community only eats one specific type of organism.",
+        "It illustrates several interconnected feeding relationships, reflecting the true complexity of the community.",
+        "It lists all the non-living resources like sunlight and water that the organisms use.",
+        "It guarantees that all populations in the web are always exactly the same size."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A student argues that because some humans eat a 100% meat diet, they are completely independent of plants and other producers. What is the scientific flaw in the student's argument?",
+      "options": [
+        "Meat contains high levels of chlorophyll which originally came from plants.",
+        "The animals that provide the meat must eat producers (or other consumers that eat producers) to survive.",
+        "Humans can photosynthesize when they do not eat vegetables.",
+        "Meat is classified as a producer because it provides energy to humans."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "A certain species of tree produces sweet, fleshy fruits containing hard seeds, and has bright, scented flowers. How does this tree species depend on different animals to complete its life cycle?",
+      "options": [
+        "Insects disperse its seeds by carrying them away, and birds pollinate its flowers.",
+        "Insects pollinate its flowers, and birds disperse its seeds after eating the fruits.",
+        "Insects eat the seeds to destroy them, and birds provide carbon dioxide for pollination.",
+        "The tree does not depend on animals because wind performs both pollination and seed dispersal."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "In an agricultural ecosystem, a severe decline in bee populations leads to a drastic reduction in the yield of fruit crops, which in turn reduces the food available for local rodent populations. Which concept does this scenario best illustrate?",
+      "options": [
+        "Producers can survive perfectly well without any interactions with consumers.",
+        "Consumers and producers are interdependent through processes like pollination and feeding relationships.",
+        "Rodents and bees compete directly for the same nesting sites.",
+        "Pollination is only beneficial to insects and does not affect other animals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Global initiatives are being launched to protect wild pollinator habitats near agricultural fields growing crops like apples, almonds, and tomatoes. Why are these pollinator conservation efforts directly linked to human food security?",
+      "options": [
+        "Pollinators directly eat the agricultural pests that destroy crops.",
+        "Many of our food crops rely on pollinators to produce fruits and seeds, ensuring a stable food supply.",
+        "Pollinators fertilize the soil by releasing nutrients when they fly.",
+        "Pollinators are a major direct source of protein in the human diet."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "In a classic predator-prey relationship (lynx and snowshoe hare), scientists notice that whenever the hare population drops, the lynx population drops shortly after. What is the most likely reason for this lag in the lynx population decline?",
+      "options": [
+        "Lynx migrate to other areas as soon as hare numbers decrease.",
+        "A reduction in the prey population leads to food scarcity, causing a decrease in predator survival and reproduction.",
+        "Hares transmit a deadly disease to lynx when their population is low.",
+        "Lynx stop hunting and hibernate when hares are scarce."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A tropical rainforest has high biodiversity, whereas a nearby single-crop pine plantation has very low biodiversity. Why is the tropical rainforest considered more resilient and beneficial to humans than the pine plantation?",
+      "options": [
+        "High biodiversity makes the rainforest easier to harvest completely for timber.",
+        "High biodiversity helps keep the habitat healthy and provides a wider variety of potential medicines and food resources.",
+        "The rainforest has fewer species interacting, which reduces competition.",
+        "Low biodiversity habitats produce more oxygen and water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Scientists are collecting and freezing seeds from wild relatives of crop plants from all over the world to store them in a secure underground vault. What is the primary purpose of conserving these seeds in a gene bank?",
+      "options": [
+        "To sell them to local farmers at a higher price next season.",
+        "To preserve genetic diversity so we can breed crops with useful traits, like disease resistance, in the future.",
+        "To allow the seeds to mutate into new species while they are frozen.",
+        "To prevent wild plants from growing and competing with agricultural crops."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "A farmer notices that caterpillars are eating the leaves of her cabbage crop, reducing the yield. She decides to spray an insecticide (a type of pesticide). How does this chemical treatment help the cabbage crop grow better?",
+      "options": [
+        "It acts as a nutrient that the cabbages absorb through their roots.",
+        "It kills the insects that feed on the cabbage leaves, preventing damage to the crop.",
+        "It increases the rate of pollination of the cabbage flowers by attracting bees.",
+        "It directly speeds up the process of photosynthesis in the plants."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "A farmer applies a herbicide (a type of pesticide) to a wheat field. Soon after, the wild mustard plants growing between the wheat rows die, and the wheat grows taller. Why did removing the wild mustard plants help the wheat crops grow better?",
+      "options": [
+        "It eliminated weeds that were competing with the wheat for light, water, and soil nutrients.",
+        "The dead mustard plants released toxic chemicals that stimulated wheat growth.",
+        "It allowed more insect pests to focus on eating the mustard instead of the wheat.",
+        "It increased the temperature of the soil around the wheat roots."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "Rain washes excess agricultural chemicals from a farm into a nearby stream, resulting in a sudden die-off of local fish and aquatic insects. Which of the following best explains this negative environmental outcome?",
+      "options": [
+        "The chemicals are strictly beneficial and the fish died from overeating.",
+        "Fertilisers and pesticides can run off into waterways and act as pollutants that harm aquatic wildlife.",
+        "The chemicals caused the water to evaporate, leaving the fish dry.",
+        "The fish suffered from a lack of competition from land animals."
+      ],
+      "correctAnswerIndex": 1,
       "learningPointIndex": 37
     }
   ]
