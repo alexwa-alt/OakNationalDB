@@ -1,6 +1,6 @@
 {
   "unitKey": "7Sound, light and visionPhysics",
-  "generatedAt": "2026-09-08T12:59:23.191862+00:00",
+  "generatedAt": "2026-09-09T13:02:23.873586+00:00",
   "questions": [
     {
       "question": "A student sits in a completely dark room. They turn on a smartphone screen, which lights up, and they can also see a white mug on the table. Which statement correctly describes these objects?",
@@ -661,6 +661,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 32
+    },
+    {
+      "question": "A student shines a laser beam at a sheet of white paper and a glass mirror. Why is the laser beam's spot visible on the paper from many angles, but the beam on the mirror is only visible from one specific angle?",
+      "options": [
+        "The paper absorbs all the light except for a small spot, whereas the mirror reflects all of the light.",
+        "The paper has an irregular surface that scatters light in many directions, while the mirror reflects it in a regular, single direction.",
+        "The paper acts as a luminous source once illuminated, while the mirror remains non-luminous.",
+        "The paper transmits some light which bends its path, while the mirror prevents any transmission."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "In a completely dark room containing a red apple and a green leaf, a single blue spotlight is turned on, illuminating only the apple. An observer sits in the dark corner of the room. Why can the observer see the apple but not the leaf?",
+      "options": [
+        "The apple emits its own red light in the dark, whereas the leaf requires external light to activate its pigments.",
+        "Blue light enters the observer's eyes directly from the spotlight, allowing their brain to construct an image of both objects.",
+        "Light from the spotlight reflects off the apple and enters the observer's eye, but no light from any source reflects off the leaf into their eye.",
+        "The leaf absorbs all blue light and reflects nothing, while the apple is a luminous object that does not need illumination."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "In a science fiction film, a spaceship fires a laser beam through the vacuum of outer space. An observer looking from the side sees the beam glowing bright green. Why is this scientifically inaccurate?",
+      "options": [
+        "Laser beams are only visible if they are green, but space vacuums turn all light red.",
+        "In a vacuum, there are no particles to scatter or reflect the light beam towards the observer's eye.",
+        "Light cannot travel through a vacuum, so the laser beam would stop immediately after leaving the ship.",
+        "The vacuum of space completely absorbs light energy, converting it into heat before it can be seen."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A person stands 85 meters away from a large, flat concrete wall and claps their hands. They hear a distinct repeat of the clap a short moment later. What physical process explains this second sound?",
+      "options": [
+        "The sound wave was absorbed by the wall and re-emitted at a lower frequency.",
+        "The sound wave reflected off the hard concrete surface and travelled back to the person's ears.",
+        "The sound wave vibrated the air particles so rapidly that they created a secondary physical clap.",
+        "The sound wave refracted through the wall and was amplified by the air on the other side."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why do recording studios cover their walls with bumpy, egg-carton-shaped foam instead of leaving them as flat, painted plasterboard?",
+      "options": [
+        "Bumpy surfaces focus the reflected sound waves into a single, sharp echo towards the microphone.",
+        "Irregular surfaces scatter the sound waves in many directions, preventing a strong, distinct echo from returning.",
+        "Bumpy surfaces increase the speed of sound, making the recorded audio sound clearer.",
+        "Flat surfaces absorb too much sound energy, making the recording room too quiet."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "When sound waves hit a thick, soft woollen curtain, the sound is significantly muffled. What happens to the energy of the sound waves in this process?",
+      "options": [
+        "The energy is destroyed completely when it hits the dense fibres of the wool.",
+        "The energy is converted into light energy as the wool fibres undergo chemical changes.",
+        "The sound waves transfer their energy to the soft wool particles, making them vibrate and absorbing the sound.",
+        "The sound waves are reflected back and forth inside the curtain until they speed up and escape."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A single narrow ray of light from a laser pointer is directed at a highly polished, flat silver mirror. What describes the path of the light after it hits the mirror?",
+      "options": [
+        "It scatters in all directions, creating a diffuse glow across the entire room.",
+        "It bounces off the mirror and travels in a single, specific direction as a narrow ray.",
+        "It splits into a spectrum of colors, each travelling in a different direction.",
+        "It stops completely, depositing all its energy as heat at the point of impact."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A student is measuring angles of reflection. They draw a line representing the mirror, and a perpendicular line representing the normal. How should they measure the angle of incidence?",
+      "options": [
+        "From the incoming light ray to the surface of the mirror.",
+        "From the outgoing light ray to the surface of the mirror.",
+        "From the incoming light ray to the imaginary normal line.",
+        "From the normal line to the surface of the mirror."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A ray of light hits a flat mirror such that the angle between the incoming ray and the mirror surface is 30 degrees. What is the angle of reflection?",
+      "options": [
+        "30 degrees",
+        "60 degrees",
+        "90 degrees",
+        "120 degrees"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "When you look at your reflection in a flat bathroom mirror, where does your brain perceive your face to be located?",
+      "options": [
+        "Right on the very front surface of the glass mirror.",
+        "Floating in the air halfway between your actual face and the mirror.",
+        "Behind the mirror, at the position where the reflected light rays appear to diverge from.",
+        "Inside your own eye, where the light rays first crossed."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A toy car is placed 15 cm in front of a flat vertical mirror. If the toy car is then moved 5 cm closer to the mirror, what is the new distance between the toy car and its virtual image?",
+      "options": [
+        "10 cm",
+        "20 cm",
+        "30 cm",
+        "40 cm"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "You stand in front of a mirror and raise your right hand. Which of the following describes the image you see?",
+      "options": [
+        "The image is upside down and appears to raise its left hand.",
+        "The image is the right way up and appears to raise its right hand on the same side.",
+        "The image is the right way up but appears to raise its left hand.",
+        "The image is upside down but appears to raise its right hand."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A student places three different sheets of material in front of a flashlight: a sheet of clear glass, a sheet of frosted greaseproof paper, and a sheet of thick cardboard. Which statement correctly describes how they affect light?",
+      "options": [
+        "The glass is opaque, the paper is transparent, and the cardboard is reflective.",
+        "The glass transmits light because it is transparent, while the cardboard does not transmit light because it is opaque.",
+        "The paper is transparent because it blocks all light, while the glass is opaque because it transmits light.",
+        "All three materials are transparent, but they transmit light at different speeds."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A solid wooden ball is placed between a small lamp and a white screen. A dark shadow of the ball appears on the screen. Why does this shadow form?",
+      "options": [
+        "The wooden ball bends the light rays around its edges, leaving a dark spot in the middle.",
+        "The wooden ball blocks the straight-travelling light rays, leaving an unlit area on the screen.",
+        "The wooden ball absorbs the darkness from the room and projects it onto the screen.",
+        "Light rays from the lamp slow down as they pass through the ball, creating a dim region."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "An oscilloscope displays two different sound waves. Wave A has a crest height (from the center line) of 2 cm, while Wave B has a crest height of 4 cm. Both waves have the same spacing between crests. How do these sounds compare?",
+      "options": [
+        "Wave B has a higher pitch than Wave A, but they have the same volume.",
+        "Wave B is louder than Wave A, and they have the same pitch.",
+        "Wave A is louder than Wave B, and they have the same pitch.",
+        "Wave A has a higher pitch than Wave B, but they have the same volume."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A guitar player tightens a string, causing it to vibrate much more rapidly (more times per second) when plucked. What change will a listener hear in the sound produced?",
+      "options": [
+        "The sound will have a lower pitch because the frequency has increased.",
+        "The sound will have a higher pitch because the frequency has increased.",
+        "The sound will be much louder because the frequency has decreased.",
+        "The sound will be much quieter because the frequency has decreased."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "As you walk away from an outdoor concert speaker, the music becomes quieter. What is happening to the physical sound wave as it travels further through the air?",
+      "options": [
+        "The frequency of the wave decreases, which makes the pitch sound lower.",
+        "The wave spreads out, causing the amplitude of the vibrations to decrease.",
+        "The wavelength of the sound decreases, causing the sound to travel faster.",
+        "The sound wave converts completely into light energy as it encounters air resistance."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Why does sound travel significantly faster through an iron railway track than it does through the air?",
+      "options": [
+        "Iron particles are completely hollow, allowing sound waves to pass through without any resistance.",
+        "The particles in iron are held by strong attractive forces, causing many particles to vibrate quickly when one does.",
+        "Iron particles do not vibrate at all, which allows sound to bypass them instantly.",
+        "Air particles have stronger attractive forces, which holds the sound wave back."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "An electric bell is placed inside a sealed glass jar. As an air pump removes all the air from the jar, the sound of the bell fades away until it cannot be heard, even though the hammer can still be seen striking the metal. Why does this happen?",
+      "options": [
+        "The vacuum absorbs the light so we can see the hammer, but it blocks the sound from exiting the glass.",
+        "Sound waves require particles to vibrate and pass on the energy; without particles in a vacuum, sound cannot travel.",
+        "The lack of air pressure stops the metal bell from physically vibrating.",
+        "Sound travels so fast in a vacuum that it passes through the observer's ears without being detected."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "When a whistle is blown across a quiet room, a person on the other side hears it. What actually travels from the whistle to the person's ear?",
+      "options": [
+        "Individual air particles from inside the whistle travel across the room and enter the person's ear.",
+        "A pattern of vibrations is passed from particle to particle, while the individual air particles only vibrate back and forth.",
+        "A stream of empty space is pushed through the air, carrying the sound energy.",
+        "Heat energy travels across the room, which the ear translates into sound."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
     }
   ]
 }

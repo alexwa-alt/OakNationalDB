@@ -1,6 +1,6 @@
 {
   "unitKey": "9Separation techniquesChemistry",
-  "generatedAt": "2026-08-12T06:13:28.300900+00:00",
+  "generatedAt": "2026-09-09T13:05:19.272072+00:00",
   "questions": [
     {
       "question": "A chemist performs chromatography on a sample of food dye and observes a single spot that has travelled up the paper. What can they conclude about the dye sample?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 7
+    },
+    {
+      "question": "A forensic scientist needs to analyze a tiny speck of ink recovered from a crime scene to determine if it matches a suspect's pen. Why is chromatography particularly suited for this task?",
+      "options": [
+        "It can be used to separate and analyze minute samples of a substance.",
+        "It relies on the ink reacting with the paper to form a permanent record.",
+        "It can only analyze large volumes of liquids by evaporating them.",
+        "It measures the boiling point of the ink components to identify them."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A student performs chromatography on a sample of a food dye and observes that it produces only a single spot on the chromatogram, even when different solvents are used. What does this result indicate about the food dye?",
+      "options": [
+        "The dye is a complex mixture of several different pigments.",
+        "The dye is a pure substance.",
+        "The dye did not dissolve in any of the solvents.",
+        "The dye has reacted chemically with the paper."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A chemist is testing a sample of a liquid medication. If the medication is a mixture of active ingredients and additives, what would you expect to see on its chromatogram?",
+      "options": [
+        "No spots at all, as mixtures do not travel up the paper.",
+        "A single spot that changes color over time.",
+        "Multiple spots at different heights on the chromatogram.",
+        "A single large spot that stays at the baseline."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How can a student determine if an unknown food dye contains the banned coloring agent \"Red 40\" using paper chromatography?",
+      "options": [
+        "By seeing if the unknown dye has the exact same boiling point as Red 40.",
+        "By running the unknown dye alongside a known sample of Red 40 and comparing if their spots travel the same distance.",
+        "By filtering the unknown dye to see if Red 40 is left behind as a residue on the paper.",
+        "By measuring the total mass of the chromatogram before and after the run."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why do chemists draw the baseline of a chromatogram in pencil rather than using a standard black ink pen?",
+      "options": [
+        "Pencil lead is more visible through the solvent front than black ink.",
+        "Pencil lead is insoluble in water, so it won't dissolve and run up the paper with the sample.",
+        "Pencil lead acts as a catalyst to help speed up the separation process.",
+        "Ink pens are too heavy and would tear the fragile chromatography paper."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A chemical plant needs to separate a mixture of acetone (boiling point 56 degrees Celsius), ethanol (boiling point 78 degrees Celsius), and water (boiling point 100 degrees Celsius). Which technique is most appropriate for this task?",
+      "options": [
+        "Simple distillation",
+        "Fractional distillation",
+        "Filtration",
+        "Paper chromatography"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "During a distillation experiment, the cold water supply to the condenser is accidentally turned off, causing the condenser to warm up. What is the most likely consequence of this?",
+      "options": [
+        "The rate of condensation will increase, producing more pure liquid quickly.",
+        "The condenser will become less effective, and more gas will escape into the air.",
+        "The boiling point of the liquid in the flask will immediately drop.",
+        "The solid solute will start to crystallize inside the condenser tube."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How does the process of crystallisation reform a solute as solid crystals from a saturated solution?",
+      "options": [
+        "By filtering the solution through extremely fine mesh paper under high pressure.",
+        "By changing conditions, such as cooling the saturated solution, which reduces solubility.",
+        "By adding a chemical catalyst that turns the liquid solvent into a solid.",
+        "By boiling the solution until all of the solute evaporates into the air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A student wants to grow large, well-defined copper sulfate crystals. What conditions should they use for the crystallisation process?",
+      "options": [
+        "Cool the solution rapidly in an ice bath so the solvent freezes.",
+        "Boil the solution vigorously until all the liquid has evaporated.",
+        "Allow the solvent to evaporate very slowly at room temperature.",
+        "Stir the solution constantly while heating it on a Bunsen burner."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A recycling center needs to separate a mixture of shredded metals containing copper, aluminum, brass, and steel. Which property can be directly used to isolate the steel from the other metals?",
+      "options": [
+        "Steel is the only metal in the mixture that is attracted to magnets.",
+        "Steel is insoluble in water, while the other metals are soluble.",
+        "Steel has a much lower melting point than copper and aluminum.",
+        "Steel floats on water, whereas the other metals sink."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A student accidentally knocks some sand into a beaker of water. Which method and reasoning should they use to retrieve the dry sand?",
+      "options": [
+        "Distillation, because sand has a lower boiling point than water.",
+        "Chromatography, because sand and water will travel at different speeds up paper.",
+        "Filtration, because sand is an insoluble solid and will be trapped by the filter paper.",
+        "Crystallisation, because evaporating the water will make the sand grow into larger crystals."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "If oil and water are poured into the same beaker and left to stand, they do not mix. Which statement correctly describes their behavior and arrangement?",
+      "options": [
+        "They are miscible, and the water will float on top of the oil.",
+        "They are immiscible, and the less dense oil will float above the water.",
+        "They are miscible, and they will form a uniform single-layer solution.",
+        "They are immiscible, and they will spontaneously react to form a solid."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A mixture contains olive oil and water. Which apparatus would be most efficient to cleanly separate these two immiscible liquids?",
+      "options": [
+        "A Liebig condenser",
+        "A separating funnel",
+        "A Buchner filtration flask",
+        "A chromatography column"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "You mix a sample of ethanol and water together in a flask. If you leave the flask sealed on a shelf for several weeks, what will happen to the mixture?",
+      "options": [
+        "The ethanol and water will separate into two distinct layers because they are miscible.",
+        "The ethanol will evaporate to the top of the flask, leaving pure water at the bottom.",
+        "The liquids will not separate into layers because miscible liquids remain fully mixed.",
+        "The ethanol will crystallize out of the water due to the long waiting period."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "How can a mixture of two miscible liquids, such as propanol and water, be separated?",
+      "options": [
+        "By filtering the mixture, since one liquid will have larger molecules than the other.",
+        "By using their different boiling points to separate them through changes of state.",
+        "By using a separating funnel to drain the bottom layer of liquid.",
+        "By passing a powerful magnet through the liquid mixture."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "When choosing a method to separate a mixture of sulfur powder and iron filings, why is magnetic separation chosen over filtration?",
+      "options": [
+        "Because sulfur is soluble in water and iron is not.",
+        "Because the specific properties of the substances (iron is magnetic, sulfur is not) determine the best technique.",
+        "Because filtration only works for separating two liquids of different densities.",
+        "Because magnetic separation is the only method that can separate any solid mixture."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A mixture contains sand, salt, and iron filings. Why cannot a single separation technique isolate all three components in their pure forms?",
+      "options": [
+        "Because the mixture contains more than two components, so multiple different techniques must be used in sequence.",
+        "Because sand and salt have the exact same chemical properties.",
+        "Because iron filings will dissolve if any separation technique is attempted.",
+        "Because mixtures with three components can only be separated by chemical reactions."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "To obtain pure, dry salt from a sample of rock salt (which contains insoluble rock and soluble salt), what is the correct sequence of steps?",
+      "options": [
+        "Filtration, then crystallisation, then dissolving in water.",
+        "Dissolving in water (making a solution), then filtration, then crystallisation.",
+        "Simple distillation, then magnetic separation, then chromatography.",
+        "Evaporation to dryness, then decanting, then manual sorting."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Why is simple distillation effective at separating pure water from a salty water solution?",
+      "options": [
+        "Because salt and water have different boiling points, allowing water to vaporize while salt remains behind.",
+        "Because salt is lighter than water and will evaporate first at lower temperatures.",
+        "Because water reacts chemically with the glass of the flask to leave salt behind.",
+        "Because the filter paper in the distillation apparatus traps the dissolved salt."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Why is it important to continuously run cold water through the outer sleeve of a Liebig condenser during distillation?",
+      "options": [
+        "To keep the condenser cold, which speeds up the rate of condensation of the vapor.",
+        "To wash away any impurities that might build up on the outside of the glass.",
+        "To increase the pressure inside the distillation flask so the liquid boils faster.",
+        "To prevent the glass from melting due to the high temperature of the flame."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
     }
   ]
 }
