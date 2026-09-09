@@ -1,6 +1,6 @@
 {
   "unitKey": "8Heredity and DNABiology",
-  "generatedAt": "2026-09-08T12:59:53.991252+00:00",
+  "generatedAt": "2026-09-09T13:04:50.808035+00:00",
   "questions": [
     {
       "question": "DNA is described as a long chemical molecule made of two chains of smaller units. If a scientist breaks all the chemical bonds holding the two chains together but leaves the bonds within each chain intact, what would they observe?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 32
+    },
+    {
+      "question": "Which statement best describes the fundamental chemical structure of a single DNA molecule?",
+      "options": [
+        "It consists of two long chains of smaller chemical units joined together.",
+        "It is a single long protein chain folded into a complex three-dimensional shape.",
+        "It is composed of three interlocking carbohydrate rings linked by lipids.",
+        "It is a branched network of glucose molecules held together by weak hydrogen bonds."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "An organism's genome is best defined as which of the following?",
+      "options": [
+        "Only the active genes that code for visible physical characteristics.",
+        "The complete set of all the DNA found within one of its cells.",
+        "The total mass of proteins produced by the organism throughout its life.",
+        "The genetic material inherited exclusively from the maternal parent."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "When visualizing the three-dimensional structure of a DNA molecule, how are the two chains arranged?",
+      "options": [
+        "They run parallel to each other without any connections between them.",
+        "They are spiralled around one another in a double helix with cross-links.",
+        "They form a closed concentric circle with one chain completely inside the other.",
+        "They are folded into a series of flat, stacked sheets connected at the corners."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why is it that we can see DNA during a classroom extraction experiment, even though individual DNA molecules are invisible to the unaided eye?",
+      "options": [
+        "The extraction process causes the DNA molecules to expand in size significantly.",
+        "The chemical reagents dye the individual DNA molecules to make them fluoresce.",
+        "Thousands of DNA molecules clump together during precipitation to form a visible mass.",
+        "The cell walls of the fruit merge with the DNA to form a thick, visible layer."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How does the organization and storage of genetic material compare between a human cheek cell and a bacterium?",
+      "options": [
+        "Humans have 23 pairs of chromosomes in the nucleus, while bacteria have one chromosome in the cytoplasm.",
+        "Humans have 46 pairs of chromosomes in the cytoplasm, while bacteria have 23 single chromosomes in a nucleus.",
+        "Humans have a single circular chromosome in the nucleus, while bacteria have 23 pairs in the cytoplasm.",
+        "Both human cells and bacteria store 23 pairs of chromosomes inside a distinct nucleus."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the primary function of the specific sections of DNA known as genes?",
+      "options": [
+        "They form the physical outer membrane that protects the nucleus from damage.",
+        "They act as structural scaffolds that keep the chromosome tightly wound.",
+        "They store instructions for inherited features and essential life processes.",
+        "They serve as energy storage units that are broken down during respiration."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "If a section of DNA is identified as 'non-coding DNA', what role does it play in the cell?",
+      "options": [
+        "It has no function at all and is eventually destroyed by cell enzymes.",
+        "It contains instructions that control when the information in genes is used.",
+        "It codes for the production of lipid molecules instead of proteins.",
+        "It is used to build the cell wall in both plant and animal cells."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "In which of the following groups of organisms is the genetic material stored inside a specialized, membrane-bound nucleus?",
+      "options": [
+        "Plants, animals, and fungi",
+        "Bacteria, plants, and viruses",
+        "Animals, bacteria, and archaea",
+        "Fungi, bacteria, and protozoa without membranes"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A student looks at a bacterium under a microscope. Where is the bacterium's genetic material located, and why?",
+      "options": [
+        "In the nucleus, because all living cells contain a nucleus to protect their DNA.",
+        "In the cytoplasm, because bacteria are microorganisms that lack a nucleus.",
+        "Inside the cell wall, because bacteria do not have cytoplasm.",
+        "Attached to the outer capsule, because bacteria lack internal genetic material."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How does DNA act as an instruction manual for an organism's characteristics and functions?",
+      "options": [
+        "By releasing electrical impulses directly to the cell membrane.",
+        "By acting as a chemical catalyst that speeds up physical movement.",
+        "By being built from molecules that form a code used to build features and control life processes.",
+        "By physically changing its shape to match the required structure of the cell."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A pair of oak trees reproduce and produce acorns that grow into new oak trees. This species resemblance is a result of which biological concept?",
+      "options": [
+        "Environmental adaptation during the offspring's early growth.",
+        "Organisms making offspring of the same kind when they reproduce.",
+        "Random changes in the soil nutrients where the seeds germinated.",
+        "The offspring copying the physical shape of nearby mature trees."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why do siblings in a family typically look similar to each other and their parents, but are not identical?",
+      "options": [
+        "They inherit features from both parents, creating a unique combination of shared traits.",
+        "They share the exact same environment, which forces their physical features to align.",
+        "Children actively choose which physical characteristics to copy from their parents.",
+        "Only the father's genetic material is expressed in the offspring, limiting variation."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which of the following best explains how biological features are passed from parents to offspring during reproduction?",
+      "options": [
+        "Offspring absorb nutrients containing physical traits from their parents' surroundings.",
+        "Genetic material containing instructions is transferred from parents to offspring.",
+        "Parents teach their offspring how to develop specific physical features.",
+        "The physical actions of the parents during their lifetime are copied by the offspring."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A professional weightlifter develops large, strong muscles through years of intensive training. Why will their future children not be born with these enlarged muscles?",
+      "options": [
+        "Muscle size is a trait that skips a generation in human inheritance.",
+        "Only features caused by instructions in the genetic material can be inherited.",
+        "Genetic material is only passed down from the mother, not the father.",
+        "The children's bodies will actively reject any traits related to physical strength."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Why is a scar on a person's arm not passed on to their biological children?",
+      "options": [
+        "Scars are caused by the environment and lifestyle, so they cannot be inherited.",
+        "The genetic material in the nucleus repairs itself before reproduction.",
+        "Scars are recessive genetic traits that require two copies to appear.",
+        "Environmental features are only inherited if they occur before adulthood."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Which of the following timelines correctly describes the discovery of DNA and the determination of its structure?",
+      "options": [
+        "DNA was discovered in 1953, and its structure was worked out the same year.",
+        "DNA was discovered in 1869, but scientists did not work out its structure until 1953.",
+        "DNA structure was modeled in 1869, but the substance itself was only found in 1953.",
+        "DNA was discovered by ancient philosophers, but named in 1952."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "How was the model of the double helix structure of DNA developed by scientists?",
+      "options": [
+        "A single scientist worked in isolation to deduce the structure purely from theory.",
+        "Scientists collected evidence and shared their findings to collaboratively build the model.",
+        "It was discovered by accident when analyzing starch molecules under a light microscope.",
+        "It was proposed by a government committee without using experimental evidence."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "What crucial contribution did Rosalind Franklin’s team make to the discovery of DNA’s structure in 1952?",
+      "options": [
+        "They built the first three-dimensional cardboard model of the double helix.",
+        "They used X-rays to produce an image of a DNA molecule.",
+        "They proved that DNA was not the genetic material of living organisms.",
+        "They extracted DNA from fruit cells for the very first time in history."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "How did James Watson from Cambridge obtain the key visual evidence needed to understand the shape of DNA?",
+      "options": [
+        "He performed the X-ray crystallization experiments himself in his own laboratory.",
+        "He was shown the picture of DNA taken by Rosalind Franklin’s team by Maurice Wilkins.",
+        "He found the photograph published in a popular daily newspaper.",
+        "He drew a theoretical diagram that happened to match Franklin's image by chance."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "Who used the X-ray picture evidence to construct and complete the first accurate physical model of the DNA double helix?",
+      "options": [
+        "Rosalind Franklin and Maurice Wilkins",
+        "James Watson and Francis Crick",
+        "Gregor Mendel and Charles Darwin",
+        "Louis Pasteur and Robert Hooke"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
     }
   ]
 }

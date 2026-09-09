@@ -1,0 +1,226 @@
+{
+  "unitKey": "10Human skeleton and musclesBiology",
+  "generatedAt": "2026-09-09T13:07:11.006610+00:00",
+  "questions": [
+    {
+      "question": "What happens when a muscle attached to a bone contracts?",
+      "options": [
+        "It exerts a force on the bone to make it move",
+        "It pushes the bone away from the joint",
+        "It dissolves the surrounding bone tissue",
+        "It has no physical effect on the bone"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the name of the scientific field that studies the movement of muscles and bones?",
+      "options": [
+        "Geophysics",
+        "Biomechanics",
+        "Ecology",
+        "Astrophysics"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What do we call the turning effect of a force when a bone pivots at a joint?",
+      "options": [
+        "Friction",
+        "Gravity",
+        "A moment",
+        "Velocity"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which statement is true regarding the moment produced when a bone pivots at a joint?",
+      "options": [
+        "It is always a constant value of zero",
+        "Its size cannot be measured or determined",
+        "Its size can be calculated",
+        "It only exists in non-living things"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which of the following is the place where bones meet?",
+      "options": [
+        "A tendon",
+        "A joint",
+        "A muscle",
+        "A nerve"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is the primary role of muscles in relation to the skeletal system?",
+      "options": [
+        "They make the bones weaker",
+        "They can move bones",
+        "They turn bones into cartilage",
+        "They prevent bones from receiving blood"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In what way do muscles exert force on bones to create movement?",
+      "options": [
+        "They can only push by expanding",
+        "They can only pull by contracting",
+        "They can push and pull equally",
+        "They do not exert any force on bones"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How do muscles in an antagonistic pair work to move a bone at a joint?",
+      "options": [
+        "Both muscles pull in the exact same direction at once",
+        "One muscle contracts while the other relaxes",
+        "Both muscles relax completely to cause movement",
+        "One muscle turns into bone while the other disappears"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following is a true statement about the composition of the human body?",
+      "options": [
+        "The human body contains muscles",
+        "The human body is made entirely of bone with no muscles",
+        "The human body contains no muscle tissue at all",
+        "Muscles are only found in the digestive system"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What is muscle in the human body?",
+      "options": [
+        "A single giant non-living cell",
+        "A type of tissue made up of specialised cells",
+        "A collection of air-filled tubes",
+        "A mineral deposit with no cellular structure"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What are the two main states of activity for muscles?",
+      "options": [
+        "Freezing and melting",
+        "Contracting and relaxing",
+        "Dissolving and solidifying",
+        "Growing and shrinking"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which two substances are required by muscles in order for them to contract?",
+      "options": [
+        "Carbon dioxide and water",
+        "Sugar and oxygen",
+        "Nitrogen and fat",
+        "Calcium and carbon dioxide"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What are the three main types of muscle found in human organ systems?",
+      "options": [
+        "Hard, soft, and rough muscle",
+        "Cardiac, smooth, and skeletal muscle",
+        "Brain, liver, and skin muscle",
+        "Bone, blood, and hair muscle"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What structure is the human skeleton made up of?",
+      "options": [
+        "Skin",
+        "Ligaments only",
+        "Bones",
+        "Muscles"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is the scientific definition of a joint?",
+      "options": [
+        "A place where muscles turn into fat",
+        "A place where two or more bones meet",
+        "The center of a long bone",
+        "A type of blood vessel in the arm"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What are two key functions of the human skeleton?",
+      "options": [
+        "Producing oxygen and digesting nutrients",
+        "Supporting the body and providing protection for organs",
+        "Pumping blood and thinking",
+        "Filtering waste and storing carbon dioxide"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which of the following is true about bones?",
+      "options": [
+        "They are completely non-living structures",
+        "They are made of living tissue made up of cells",
+        "They do not contain any cells",
+        "They are made entirely of dead wood fibers"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Where in the human body are red and white blood cells made?",
+      "options": [
+        "In the brain tissue",
+        "In the bone marrow",
+        "In the skeletal muscles",
+        "In the heart chambers"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Why do muscles that move bones at a joint need to work in antagonistic pairs?",
+      "options": [
+        "Because muscles can only pull and cannot push",
+        "Because one muscle is always asleep",
+        "Because bones can only move when pushed",
+        "Because joints do not allow bones to bend"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How does the skeleton help protect vital organs like the heart and lungs?",
+      "options": [
+        "By absorbing them into the bone marrow",
+        "By providing a hard protective skeletal barrier around them",
+        "By making the organs turn into bone",
+        "By secreting soft fluids to dissolve impacts"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    }
+  ]
+}
