@@ -1,0 +1,226 @@
+{
+  "unitKey": "11Heating and coolingPhysics",
+  "generatedAt": "2026-09-10T13:03:18.814670+00:00",
+  "questions": [
+    {
+      "question": "A metal spoon, a wooden table, and a plastic cup are left in a classroom overnight. What can we say about their temperatures in the morning?",
+      "options": [
+        "The metal spoon will be much colder than the wooden table.",
+        "All three objects will have reached the same temperature as the room.",
+        "The plastic cup will be warmer than the metal spoon.",
+        "The wooden table will have stayed at its original temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What happens to the particles inside a metal bar when it is heated?",
+      "options": [
+        "They stop moving entirely and lock into position.",
+        "They start to slide past each other and flow.",
+        "They vibrate more quickly about their fixed positions.",
+        "They turn into gas particles and escape immediately."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "When a liquid is heated, what happens to the spacing between its particles?",
+      "options": [
+        "The particles get closer together.",
+        "The separation of the particles increases.",
+        "The particles stay exactly the same distance apart.",
+        "The particles disappear, leaving empty spaces."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why does the liquid level in a thermometer rise when it is placed in hot water?",
+      "options": [
+        "The heating causes the liquid to expand.",
+        "The liquid gets heavier and pushes upwards.",
+        "The liquid contracts and takes up less space.",
+        "The glass tube shrinks and squeezes the liquid up."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "How does the movement of particles in a cup of hot tea at 80°C compare to a cup of warm tea at 40°C?",
+      "options": [
+        "The particles in the 80°C tea are moving faster on average.",
+        "The particles in the 80°C tea are moving slower on average.",
+        "The particles in both cups are moving at exactly the same speed.",
+        "The particles in the 80°C tea have stopped moving."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A mug of boiling water at 95°C and a mug of warm water at 40°C are placed in a room at 20°C. Which mug will cool down fastest at the very beginning?",
+      "options": [
+        "The 40°C mug, because it is closer to room temperature.",
+        "Both mugs will cool down at the exact same rate.",
+        "The 95°C mug, because the temperature difference between it and the air is greater.",
+        "Neither mug will cool down because the room is too warm."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Two different materials of the same mass are heated with the same energy. One heats up very quickly, while the other heats up very slowly. What does this demonstrate?",
+      "options": [
+        "All materials require the same amount of energy to change temperature.",
+        "It is easier to increase the temperature of some materials than others.",
+        "The material that heated up slowly is a better thermal conductor.",
+        "The material that heated up quickly must have a higher mass."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why do different substances have different thermal properties, such as needing different amounts of heating to raise their temperature?",
+      "options": [
+        "Some substances do not contain any particles at all.",
+        "The mass of particles and the attractive forces between them vary in different substances.",
+        "All substances have identical particles, but some are packed tighter.",
+        "Particles in some substances never move when heated."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "If Substance A has a higher specific heat capacity than Substance B, what is true about 1 kg of each substance at 50°C?",
+      "options": [
+        "Substance A has more energy in its thermal store than Substance B.",
+        "Substance B has more energy in its thermal store than Substance A.",
+        "Both substances contain the same amount of energy because their masses are equal.",
+        "Neither substance contains any energy because they are at the same temperature."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In which states of matter do the particles move in random directions?",
+      "options": [
+        "Gases only.",
+        "Liquids and gases only.",
+        "Solids, liquids, and gases.",
+        "Solids and liquids only."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "You have two identical iron blocks, Block X and Block Y. Block X is at 80°C and Block Y is at 30°C. Which block has more energy in its thermal store?",
+      "options": [
+        "Block Y, because cooler objects store more energy.",
+        "Block X, because for identical objects, the one at a higher temperature has more energy.",
+        "They both have the same energy because they are identical blocks.",
+        "Neither block has any energy because they are solid."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A small cup of water at 60°C and a large bucket of water at 60°C are compared. Which contains more energy in its thermal store?",
+      "options": [
+        "The small cup, because the heat is more concentrated.",
+        "They contain the same energy because they are at the same temperature.",
+        "The large bucket, because it has more particles and therefore more energy.",
+        "The large bucket, because water in a bucket is always hotter than in a cup."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How should you position your eyes to take an accurate reading from a glass thermometer?",
+      "options": [
+        "Look down at the thermometer from directly above.",
+        "Position your eye so it is level with the top of the coloured liquid.",
+        "Tilt the thermometer towards you and read it from a 45-degree angle.",
+        "Look up at the thermometer from below the liquid line."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What are the melting and boiling points of pure water under normal conditions?",
+      "options": [
+        "Melts at 0ºC, boils at 100ºC.",
+        "Melts at 10ºC, boils at 100ºC.",
+        "Melts at 0ºC, boils at 50ºC.",
+        "Melts at -10ºC, boils at 110ºC."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "If you mix a cup of hot water at 80°C with a cup of cold water at 10°C, what will the final temperature of the mixture be?",
+      "options": [
+        "It will stay exactly at 80°C.",
+        "It will drop to below 10°C.",
+        "It will be cooler than 80°C but warmer than 10°C.",
+        "It will rise above 80°C because of the mixing energy."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "If you mix 1 litre of cold water at 10°C with a tiny splash (10 ml) of boiling water at 100°C, what will the final temperature be closest to?",
+      "options": [
+        "It will be very close to 10°C, because there was much more cold water.",
+        "It will be exactly 55°C, the halfway point.",
+        "It will be very close to 100°C, because boiling water is stronger.",
+        "It will be 0°C, because mixing always drops the temperature."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What happens to the movement of particles when a cold metal spoon is placed into a hot bowl of soup?",
+      "options": [
+        "The soup particles move more quickly and the spoon particles move more slowly.",
+        "The soup particles move more slowly and the spoon particles move more quickly.",
+        "The particles in both the spoon and the soup stop moving.",
+        "There is no change in the movement of particles in either substance."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "What happens to the temperature along a thermal conductor, like a copper rod, when one end is heated?",
+      "options": [
+        "The temperature along the conductor increases very slowly.",
+        "The temperature along the conductor increases quickly.",
+        "Only the heated end changes temperature; the rest remains freezing cold.",
+        "The temperature drops instantly along the entire rod."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Why is heat transferred very slowly through thermal insulators?",
+      "options": [
+        "Thermal insulators do not contain any particles that can vibrate.",
+        "The particles in thermal insulators are too large to move at all.",
+        "It is hard for vibrating particles in insulators to cause nearby particles to vibrate as well.",
+        "Insulators only allow particles to move in one straight direction."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Why does a woollen jumper keep you warm on a cold day?",
+      "options": [
+        "Wool produces its own heat energy through a chemical reaction.",
+        "It traps air, and gases are very poor thermal conductors, which provides good insulation.",
+        "The jumper allows cold air to pass through quickly to cool your skin.",
+        "Wool has zero particles, so heat cannot move through it."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    }
+  ]
+}

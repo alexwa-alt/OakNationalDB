@@ -1,6 +1,6 @@
 {
   "unitKey": "9Separation techniquesChemistry",
-  "generatedAt": "2026-09-09T13:05:19.272072+00:00",
+  "generatedAt": "2026-09-10T13:01:12.347124+00:00",
   "questions": [
     {
       "question": "A chemist performs chromatography on a sample of food dye and observes a single spot that has travelled up the paper. What can they conclude about the dye sample?",
@@ -438,6 +438,226 @@
         "To wash away any impurities that might build up on the outside of the glass.",
         "To increase the pressure inside the distillation flask so the liquid boils faster.",
         "To prevent the glass from melting due to the high temperature of the flame."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A forensic scientist has a tiny smear of ink from a crime scene and needs to both identify the components and isolate them for further testing. Which separation technique is uniquely suited for both of these tasks simultaneously?",
+      "options": [
+        "Simple distillation, because it preserves the solvent and solute.",
+        "Paper chromatography, because it can analyze and separate minute samples.",
+        "Fractional crystallisation, because it yields high-purity solid samples.",
+        "Decanting, because it separates solid residues from liquid phases rapidly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A chemist runs a chromatogram on an unknown liquid sample. After the solvent front has fully traveled up the paper, only one distinct spot is visible. What does this observation suggest about the sample?",
+      "options": [
+        "The sample is a mixture of substances with identical solubilities.",
+        "The sample is a pure substance.",
+        "The sample must be an insoluble solid that did not dissolve.",
+        "The sample consists of at least two miscible liquids."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "An unknown dye is analyzed using paper chromatography. If the chromatogram displays three distinct spots at different heights along the paper, what can be concluded about the dye?",
+      "options": [
+        "It is a single pure compound that decomposed during the test.",
+        "It is a mixture containing at least three different substances.",
+        "It is a pure substance because all spots are in a single vertical lane.",
+        "It is an immiscible liquid mixture that has separated by density."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "To identify an illegal performance-enhancing drug in an athlete's urine sample, a lab technician runs the sample alongside a known reference sample of the drug on the same chromatography paper. How can they confirm the drug is present?",
+      "options": [
+        "By checking if the unknown sample leaves a larger spot than the reference sample.",
+        "By comparing the spots to see if they travel the exact same distance and match the reference spot.",
+        "By measuring if the unknown sample travels faster than the solvent front.",
+        "By observing if both samples completely dissolve and leave no spots on the paper."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why is a pencil line, rather than an ink pen line, used to draw the starting baseline on a chromatography paper?",
+      "options": [
+        "Pencil graphite is insoluble in chromatography solvents and will not run or interfere with the chromatogram.",
+        "Ink absorbs too much water and causes the chromatography paper to tear.",
+        "Pencil graphite reacts chemically with the dyes to make them travel faster.",
+        "Ink is completely insoluble in water and would block the movement of other substances."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A chemical plant needs to separate a mixture of acetone (boiling point 56 °C), ethanol (boiling point 78 °C), and water (boiling point 100 °C). Which technique should they use to successfully obtain pure fractions of each?",
+      "options": [
+        "Simple distillation, because the components have different states of matter.",
+        "Decanting, because the liquids will form three separate layers if left to settle.",
+        "Fractional distillation, because the mixture contains three substances with different boiling points.",
+        "Paper chromatography, because it is the most efficient method for large-volume industrial separations."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "During a distillation experiment, a student notices that the cold water supply to the condenser has been accidentally turned off, causing the outer jacket of the condenser to warm up. What is the most likely consequence of this?",
+      "options": [
+        "The boiling point of the mixture will decrease, speeding up the distillation.",
+        "The condenser will become less effective, and more gas will escape into the room.",
+        "The distillate collected in the beaker will become highly concentrated and pure.",
+        "The liquid in the distillation flask will stop boiling due to the pressure buildup."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A student has a hot, saturated solution of copper sulfate. How can they reform the copper sulfate solute as solid crystals?",
+      "options": [
+        "By heating the solution to dryness so that the copper sulfate decomposes into a gas.",
+        "By filtering the hot solution immediately through a pre-wetted paper.",
+        "By allowing the saturated solution to cool, which changes the conditions and triggers crystallisation.",
+        "By adding an immiscible liquid to force the copper sulfate into the top layer."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Two students are trying to grow large, well-defined crystals of alum. Student A leaves their saturated solution uncovered in a cool room, while Student B heats their solution on a hotplate to dry it quickly. What will be the outcome?",
+      "options": [
+        "Student A will get larger crystals because slower solvent evaporation allows more orderly crystal growth.",
+        "Student B will get larger crystals because the heat provides energy to build bigger structures.",
+        "Both students will obtain crystals of the exact same size, but Student B's crystals will form faster.",
+        "Student A's crystals will be smaller because the cool room prevents the alum from solidifying properly."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A recycling center wants to separate iron and steel scraps from a conveyor belt mixed with aluminum cans and plastic bottles. Why is magnetic separation highly effective for this task?",
+      "options": [
+        "Aluminum and plastic are weakly magnetic and will be repelled, leaving iron behind.",
+        "Magnets specifically attract iron and steel, allowing them to be pulled away from non-magnetic materials.",
+        "Magnetic fields cause the aluminum cans to melt, leaving only solid steel on the belt.",
+        "Iron and steel are the only materials that dissolve when exposed to a magnetic field."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A muddy water sample contains fine sand particles suspended in water. Why is filtration an appropriate technique to separate the sand from the water?",
+      "options": [
+        "Sand is soluble in water and will pass through the filter paper to form a distillate.",
+        "Sand is an insoluble solid, so its particles are blocked by the filter paper while the liquid passes through.",
+        "Filtration heats the mixture, causing the water to vaporize and leave the sand behind.",
+        "The filter paper chemically reacts with the sand to convert it into a soluble salt."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "When setting up a filtration apparatus, why is it recommended to place a drop of water onto the dry filter paper cone once it is placed inside the funnel?",
+      "options": [
+        "It chemically activates the cellulose in the paper to absorb more impurities.",
+        "It helps keep the folded filter paper cone open and adhered to the funnel walls for easy filtering.",
+        "It dissolves any insoluble particles that might clog the pores of the filter paper.",
+        "It cools down the funnel to prevent the solvent from evaporating during filtration."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "If oil and water are shaken vigorously together in a beaker and then left undisturbed for ten minutes, what will be observed, and why?",
+      "options": [
+        "They will remain completely mixed because shaking creates a permanent chemical bond.",
+        "They will separate into two layers with the oil floating on top, because they are immiscible liquids.",
+        "They will separate into two layers with the water floating on top, because oil is denser than water.",
+        "The oil will dissolve completely into the water, forming a clear, single-phase solution."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A technician has a mixture of oil and water and wants to separate them cleanly. Which method or apparatus is best suited for this separation?",
+      "options": [
+        "Simple distillation, because oil and water have the same boiling point.",
+        "A separating funnel, which allows the denser bottom liquid layer to be drained off.",
+        "Paper chromatography, because oil and water have different solubility rates.",
+        "Crystallisation, because cooling the mixture will cause the oil to form large crystals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "If a mixture of ethanol and water (which are miscible liquids) is left to sit in a sealed container for several days, what will happen to the mixture?",
+      "options": [
+        "They will separate into two distinct layers, with ethanol floating on top.",
+        "They will not separate into layers, because miscible liquids remain fully mixed.",
+        "The ethanol will crystallize at the bottom of the container.",
+        "The water will evaporate to the top of the container while the ethanol sinks."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Since miscible liquids do not separate into layers on their own, how can a mixture of two miscible liquids like ethanol and water be separated?",
+      "options": [
+        "By using a separating funnel to drain the bottom layer.",
+        "By using a magnet to attract the polar ethanol molecules.",
+        "By utilizing their different boiling points to separate them through state changes (distillation).",
+        "By filtering the mixture to trap the larger ethanol molecules in the filter paper."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A dry mixture contains iron filings, sand, and salt. Why is it impossible to separate all three components using only a single separation technique?",
+      "options": [
+        "The mixture contains more than two components with different physical properties, requiring multiple distinct techniques.",
+        "All three substances have the exact same solubility and magnetic properties.",
+        "Iron and salt will chemically react to form an inseparable compound when mixed with sand.",
+        "Sand is soluble in water, which prevents magnets from attracting the iron filings."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "To obtain pure salt crystals from a sample of crude rock salt (a mixture of salt and insoluble sand), which sequence of steps must be performed in the correct order?",
+      "options": [
+        "Crystallisation, followed by filtration, followed by dissolving in water.",
+        "Dissolving in water (making a solution), followed by filtration, followed by crystallisation.",
+        "Simple distillation, followed by magnetic separation, followed by decanting.",
+        "Fractional distillation, followed by dissolving in water, followed by filtration."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What is the underlying physical principle that allows simple distillation to separate a liquid solvent from a soluble solid solute?",
+      "options": [
+        "The solid solute is magnetic, while the liquid solvent is non-magnetic.",
+        "The components of the solution have significantly different boiling points, allowing one to vaporize while the other remains.",
+        "The solid solute is lighter than the liquid solvent and floats to the top of the flask.",
+        "The solvent and solute are immiscible, so they naturally form layers when heated."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Why is it critical to continuously run cold water through the jacket of a Liebig condenser during a distillation experiment?",
+      "options": [
+        "To keep the condenser cold so that the rising vapor condenses rapidly back into a liquid.",
+        "To heat the vapor further so that it can escape into the gas collection jar.",
+        "To wash away any impurities that might stick to the outside of the glass tube.",
+        "To prevent the distillation flask from cracking due to sudden pressure drops."
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 28
