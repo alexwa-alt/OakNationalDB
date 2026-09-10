@@ -1,6 +1,6 @@
 {
   "unitKey": "10Human skeleton and musclesBiology",
-  "generatedAt": "2026-08-12T06:13:35.963205+00:00",
+  "generatedAt": "2026-09-10T13:02:50.981373+00:00",
   "questions": [
     {
       "question": "When a muscle attached to a bone contracts, what direct physical consequence causes the bone to move?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 7
+    },
+    {
+      "question": "When a person lifts their foot off the ground by bending their knee, how does the muscle attached to the leg bone cause this movement?",
+      "options": [
+        "The muscle relaxes, which pushes the lower leg bone backwards.",
+        "The muscle contracts, exerting a pulling force on the lower leg bone.",
+        "The muscle expands in volume, creating hydraulic pressure against the bone.",
+        "The muscle contracts, exerting a pushing force to rotate the bone."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A sports scientist is analyzing the angles of a runner's limbs and the forces exerted on their joints during a sprint. Which branch of science is this study most directly classified under?",
+      "options": [
+        "Biomechanics",
+        "Biochemistry",
+        "Bioenergetics",
+        "Biogenesis"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "When you hold a heavy book in your hand with your arm bent at the elbow, a turning effect is created around the elbow joint. What is the scientific term for this turning effect of a force?",
+      "options": [
+        "Friction",
+        "Moment",
+        "Acceleration",
+        "Momentum"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If a person holds a 50 N weight at a perpendicular distance of 0.3 meters from their elbow joint, what is the size of the moment produced about the elbow?",
+      "options": [
+        "15.0 N m",
+        "166.7 N/m",
+        "50.3 N",
+        "5.0 N m"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why is it impossible for a single muscle on its own to both lower and raise your arm at the elbow joint?",
+      "options": [
+        "Muscles can only pull by contracting; they cannot push to move a bone in the opposite direction.",
+        "Muscles can only push by expanding; they cannot pull bones toward themselves.",
+        "A single muscle lacks the nervous connections required to reverse its movement direction.",
+        "Muscles become permanently locked once they contract and require an external force to reset."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "When bending the arm at the elbow, the biceps muscle contracts while the triceps muscle relaxes. To straighten the arm, the reverse happens. What term describes this pairing of muscles?",
+      "options": [
+        "Synergistic pairs",
+        "Antagonistic pairs",
+        "Symbiotic pairs",
+        "Auxiliary pairs"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which statement best describes the biological organization of a muscle in the human body?",
+      "options": [
+        "It is an organ system made of unspecialised cells that can transform into any cell type.",
+        "It is a type of tissue made up of highly specialised cells adapted for contraction.",
+        "It is a single giant cell that spans the entire length of the limb.",
+        "It is a non-cellular crystalline structure that responds to electrical impulses."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "During intense exercise, a runner's muscle cells must rapidly produce energy. Which two key substances must be delivered to the muscle tissue by the blood to support continuous contraction?",
+      "options": [
+        "Sugar and carbon dioxide",
+        "Nitrogen and sugar",
+        "Sugar and oxygen",
+        "Oxygen and carbon dioxide"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of the following correctly matches a type of muscle with its primary location and role in the body?",
+      "options": [
+        "Cardiac muscle — lines the walls of the stomach to help churn food.",
+        "Smooth muscle — forms the heart wall to pump blood around the body.",
+        "Skeletal muscle — attaches to bones to allow voluntary movement of limbs.",
+        "Cardiac muscle — controls the diameter of blood vessels to regulate blood pressure."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of the following correctly pairs a part of the human skeleton with its protective function?",
+      "options": [
+        "The ribcage protects the lungs and heart.",
+        "The femur protects the kidneys.",
+        "The skull protects the thyroid gland.",
+        "The spine protects the stomach."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A student claims that bones are dead, dry structures that do not change once a person stops growing. Why is this claim scientifically incorrect?",
+      "options": [
+        "Bones are made of non-living calcium crystals that grow by absorbing water.",
+        "Bones are made of living tissue containing active cells that constantly repair and remodel the bone.",
+        "Bones contain active muscle cells that allow the bone itself to contract and expand.",
+        "Bones are entirely liquid on the inside and only have a dead outer shell."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "If a patient's bone marrow is severely damaged by disease, which of the following bodily processes would be most directly compromised?",
+      "options": [
+        "The production of red and white blood cells.",
+        "The digestion and absorption of sugars in the small intestine.",
+        "The transmission of electrical nerve impulses to skeletal muscles.",
+        "The physical filtration of air entering the lungs."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "When a muscle receives a signal from the nervous system to initiate movement, what physical change occurs in its fibers, and what happens when the signal stops?",
+      "options": [
+        "The fibers expand to push the bone, and then dissolve.",
+        "The fibers contract to shorten the muscle, and then relax to return to their resting state.",
+        "The fibers turn into bone tissue temporarily, and then liquefy.",
+        "The fibers stretch to lengthen the muscle, and then snap back like a rubber band."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "In the human skeletal system, what is the specific term used to describe the precise location where two or more bones meet?",
+      "options": [
+        "A ligament",
+        "A joint",
+        "A tendon",
+        "A marrow"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following is the most accurate definition of a joint in the human skeletal system?",
+      "options": [
+        "A type of flexible bone that connects muscles to skin.",
+        "A point where two or more bones meet.",
+        "The central cavity inside a bone where marrow is located.",
+        "A band of tissue that contracts to generate force."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How do skeletal muscles and bones interact to allow a person to wave their hand?",
+      "options": [
+        "The bones contract and pull on the muscles to create motion.",
+        "The muscles generate electrical fields that repel the bones, causing them to swing.",
+        "The muscles contract, applying forces that pull and move the bones.",
+        "The bones expand in size, pushing the muscles out of the way."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following statements about the internal structure of the human body is correct?",
+      "options": [
+        "It is supported by an external shell made of chitin.",
+        "It contains an internal skeleton made up of bones.",
+        "It relies entirely on pressurized fluid columns rather than bones for support.",
+        "It contains a skeleton made entirely of cartilage with no true bones."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "When a person bends their leg at the knee, the hamstring muscle on the back of the thigh contracts. What must the quadriceps muscle on the front of the thigh do at the same time to allow this movement?",
+      "options": [
+        "It must contract with equal force.",
+        "It must relax.",
+        "It must detach from the bone temporarily.",
+        "It must push against the kneecap."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "To increase the moment (turning effect) of a force acting at a joint without changing the amount of force exerted by the muscle, what change must occur?",
+      "options": [
+        "The force must be applied closer to the pivot point of the joint.",
+        "The force must be applied further away from the pivot point of the joint.",
+        "The temperature of the muscle tissue must be decreased.",
+        "The bone must be made shorter and lighter."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which type of muscle tissue is responsible for the involuntary, rhythmic contractions that pump blood through the circulatory system?",
+      "options": [
+        "Skeletal muscle",
+        "Smooth muscle",
+        "Cardiac muscle",
+        "Rough muscle"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
     }
   ]
 }

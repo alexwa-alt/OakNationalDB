@@ -1,6 +1,6 @@
 {
   "unitKey": "8Heredity and DNABiology",
-  "generatedAt": "2026-09-09T13:04:50.808035+00:00",
+  "generatedAt": "2026-09-10T13:00:31.186492+00:00",
   "questions": [
     {
       "question": "DNA is described as a long chemical molecule made of two chains of smaller units. If a scientist breaks all the chemical bonds holding the two chains together but leaves the bonds within each chain intact, what would they observe?",
@@ -658,6 +658,226 @@
         "James Watson and Francis Crick",
         "Gregor Mendel and Charles Darwin",
         "Louis Pasteur and Robert Hooke"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "Which statement best describes the fundamental chemical structure of a DNA molecule?",
+      "options": [
+        "It is a single, continuous chain of proteins folded into a complex three-dimensional shape.",
+        "It consists of two long chains composed of smaller chemical units that are linked together.",
+        "It is a branched network of carbohydrate rings held together by metallic bonds.",
+        "It is a series of independent lipid molecules that temporarily align inside the cell."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "An organism's muscle cell and skin cell contain the exact same total set of DNA. What term refers to this complete set of genetic material within a cell?",
+      "options": [
+        "Proteome",
+        "Cytoplasm",
+        "Genome",
+        "Chromosome"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How are the two chains in a DNA molecule arranged and connected to each other?",
+      "options": [
+        "They run parallel and straight next to each other with no physical connections between them.",
+        "They form a single looped ring with chemical links branching outward like spokes on a wheel.",
+        "They are spiralled around one another in a double helix shape, held together by chemical links across the middle.",
+        "They are folded into a spherical ball with all chemical links concentrated on the outer surface."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A student constructs a physical model of DNA using plastic beads and wire. When evaluating this model, which of the following represents a strength of using physical models in science?",
+      "options": [
+        "It can show the exact size and scale of actual atoms without any simplification.",
+        "It helps scientists visualize 3D spatial arrangements that are too small to see directly.",
+        "It behaves dynamically and undergoes chemical reactions in exactly the same way as real DNA.",
+        "It completely replaces the need for any further experimental evidence or testing."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why can you see the DNA extracted from a strawberry in a test tube without a microscope, even though individual DNA molecules are invisible to the unaided eye?",
+      "options": [
+        "The extraction process causes the DNA molecules to expand in size by absorbing water.",
+        "The chemicals used during extraction make the DNA glow in the dark.",
+        "Thousands of DNA molecules clump together during extraction, making the mass large enough to see.",
+        "The heat applied during extraction turns the DNA into a solid crystalline block."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "During a DNA extraction experiment from kiwi fruit, a student blends the fruit and then passes the mixture through a paper filter. What is the main purpose of this filtration step?",
+      "options": [
+        "To separate the soluble DNA from the insoluble cell wall debris and large tissue clumps.",
+        "To chemically break open the cell membranes and release the genetic material.",
+        "To precipitate the DNA out of the solution so it forms visible white strands.",
+        "To neutralize the basic extraction buffer and adjust the pH of the mixture."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "When scientists compare the genomes of a human, a chimpanzee, and a banana plant, what are they likely to find?",
+      "options": [
+        "Only humans have a genome; chimpanzees and bananas do not contain genomes.",
+        "Their genomes are identical because all living things must use the exact same genetic instructions.",
+        "Their genomes are completely different with no overlapping sequences or similarities whatsoever.",
+        "All three have genomes, but there are both shared similarities and distinct differences between them."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How is the large volume of DNA that makes up an organism's genome efficiently stored inside a microscopic cell?",
+      "options": [
+        "It is broken down into tiny individual atoms that float freely in the cytoplasm.",
+        "It is wound up very tightly into organized, compact structures called chromosomes.",
+        "It is converted into a liquid state and stored within the cell vacuole.",
+        "It is stored as a single, loose, uncoiled strand that stretches across the entire cell."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How do the number and location of chromosomes in a typical human body cell compare to those in a bacterial cell?",
+      "options": [
+        "Humans have 23 pairs of chromosomes in the nucleus; bacteria have one chromosome in the cytoplasm.",
+        "Humans have 1 chromosome in the nucleus; bacteria have 23 pairs of chromosomes in the cytoplasm.",
+        "Humans have 23 pairs of chromosomes in the cytoplasm; bacteria have one chromosome in the nucleus.",
+        "Both humans and bacteria have 23 pairs of chromosomes stored inside a nucleus."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of the following best describes the role of a gene within a chromosome?",
+      "options": [
+        "It is a protein shell that protects the outer boundary of the chromosome.",
+        "It is a specific section of DNA that contains instructions for inherited features and life processes.",
+        "It is a chemical that actively digests unwanted nutrients inside the cell nucleus.",
+        "It is a structural link that connects the chromosome to the cell membrane."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Not all regions of a chromosome's DNA contain instructions for building proteins. What is a key function of the 'non-coding' sections of DNA?",
+      "options": [
+        "They act as waste disposal sites for toxic materials inside the nucleus.",
+        "They control when and how the instructions in genes are used by the cell.",
+        "They are converted directly into sugars to provide energy for the cell.",
+        "They prevent the DNA from dissolving in the water inside the nucleus."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A scientist is analyzing cells from a mushroom (a fungus). Where should they look to find the genetic material?",
+      "options": [
+        "Floating freely throughout the cytoplasm.",
+        "Embedded within the rigid cell wall.",
+        "Inside the nucleus of the cell.",
+        "Attached to the outer surface of the cell membrane."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why is the location of genetic material in a bacterium different from that in an animal cell?",
+      "options": [
+        "Bacteria are larger and require their genetic material to be spread throughout the cell wall.",
+        "Bacteria do not have a nucleus, so their genetic material is stored in the cytoplasm.",
+        "Bacteria store their genetic material outside the cell membrane to infect other hosts.",
+        "Bacteria have multiple nuclei, allowing genetic material to be stored in specialized compartments."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How does DNA function as an 'instruction manual' for an organism?",
+      "options": [
+        "By physically changing its shape to match the organs it wants to build.",
+        "By using the arrangement of its chemical units as a code to build features and control life processes.",
+        "By releasing electrical signals that travel directly to the brain of the organism.",
+        "By absorbing nutrients from the environment and transforming them into hormones."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Two non-identical sibling puppies from the same litter share many physical features, but also have noticeable differences. Why do they look similar to each other and to their parents?",
+      "options": [
+        "They copy each other's physical appearance as they grow up in the same environment.",
+        "They inherited a blend of genetic features from both parents.",
+        "They only inherit genetic features from the mother, while the father influences their size.",
+        "They are cloned copies of one parent, but the environment changed them."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which of the following statements about variation among offspring from sexual reproduction is correct?",
+      "options": [
+        "Offspring are always exact genetic duplicates of one of their parents.",
+        "All offspring from the same parents are completely identical to each other in every way.",
+        "Except for identical twins, offspring usually show variation and are not identical to their parents or each other.",
+        "Offspring show no resemblance to their parents because variation is entirely random."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A professional athlete develops very strong muscles through years of intense training. Why will their future children not be born with these exceptionally strong muscles?",
+      "options": [
+        "The children will inherit the muscles, but they will shrink immediately after birth.",
+        "Strong muscles are an acquired feature that is not coded in the parent's genetic material, so it cannot be inherited.",
+        "Genetic material is only passed down from the mother, so the father's training has no effect.",
+        "The training damaged the parent's DNA, preventing the muscle genes from being passed on."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Which of the following is a feature that a person cannot pass on to their biological children, and why?",
+      "options": [
+        "Natural eye colour, because it is determined solely by diet during childhood.",
+        "A scar from an injury, because it is caused by the environment and does not alter the genetic material.",
+        "Blood group, because it is a temporary condition that changes based on lifestyle.",
+        "Lobed earlobes, because they are acquired through environmental exposure."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Identify the option that correctly pairs a feature determined by genetic information with a feature determined by the environment.",
+      "options": [
+        "Genetic: Eye colour; Environment: Having a scar",
+        "Genetic: Language spoken; Environment: Natural hair colour",
+        "Genetic: Having a sun tan; Environment: Blood group",
+        "Genetic: Pierced ears; Environment: Shape of nose"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "How did James Watson and Francis Crick determine that DNA has a double helix structure in 1953?",
+      "options": [
+        "They used a powerful light microscope to look directly at a single DNA molecule.",
+        "They used X-ray picture evidence produced by Rosalind Franklin's team to complete their physical model.",
+        "They isolated DNA from fruit cells and watched it spiral under a magnifying glass.",
+        "They proposed the double helix structure purely by guessing, without any experimental or visual evidence."
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 34
