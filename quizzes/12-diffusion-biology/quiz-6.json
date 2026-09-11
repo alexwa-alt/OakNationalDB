@@ -1,0 +1,226 @@
+{
+  "unitKey": "12DiffusionBiology",
+  "generatedAt": "2026-09-11T13:00:07.255801+00:00",
+  "questions": [
+    {
+      "question": "What allows particles of a liquid to move through a material by diffusion?",
+      "options": [
+        "If the material is magnetic",
+        "If the material is permeable",
+        "If the material is solid metal",
+        "If the material is completely waterproof"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In a practical investigation, what can be seen when a colored liquid diffuses into a plain jelly cube?",
+      "options": [
+        "The liquid stays only on the outer surface of the cube without entering.",
+        "The jelly cube immediately melts into a liquid state.",
+        "The color slowly spreads inwards from the outer edges of the jelly cube.",
+        "The jelly cube turns into gas and disappears."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What is the predicted effect of increasing temperature on the diffusion of a colored liquid into a jelly cube?",
+      "options": [
+        "Diffusion happens at a faster rate.",
+        "Diffusion stops completely.",
+        "Diffusion slows down.",
+        "Temperature has no effect on the speed of diffusion."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If you compare a small jelly cube and a large jelly cube, which one will have its center reached by a diffusing liquid first?",
+      "options": [
+        "The larger cube because it has a larger surface area.",
+        "The smaller cube because the liquid has a shorter distance to travel to the center.",
+        "Both will reach the center at the exact same time because size does not affect diffusion.",
+        "Neither, because liquid cannot diffuse into jelly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why do particles diffuse faster into a jelly cube at higher temperatures?",
+      "options": [
+        "The particles gain kinetic energy and move faster.",
+        "The particles become heavier and sink quicker.",
+        "The jelly cube expands and creates massive visible holes.",
+        "The particles stop colliding with each other."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why can only certain substances pass through a selectively-permeable membrane?",
+      "options": [
+        "Only magnetic particles can pass through.",
+        "Their particles are small enough to fit through the tiny holes in the membrane.",
+        "The membrane dissolves when touched by any substance.",
+        "Only particles that carry a negative charge can pass."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When diffusion occurs across a selectively-permeable membrane, in which direction do the individual particles move?",
+      "options": [
+        "Only from the left side to the right side of the membrane.",
+        "Only from the higher concentration side to the lower concentration side.",
+        "In both directions across the membrane.",
+        "They do not move through the membrane, only along its surface."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "If there is a high concentration of glucose inside a Visking tubing bag and a low concentration in the surrounding water, what is the net movement of glucose?",
+      "options": [
+        "Net movement of glucose out of the bag into the water.",
+        "Net movement of glucose from the water into the bag.",
+        "No net movement because glucose cannot pass through.",
+        "Glucose will move in a circular motion inside the bag only."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "In an experiment using Visking tubing filled with starch and amylase, what is observed regarding the net movement of starch particles?",
+      "options": [
+        "Starch easily diffuses out because its molecules are extremely small.",
+        "There is no net movement of starch out of the tubing because starch molecules are too large to pass through.",
+        "Starch moves out of the tubing rapidly by active transport.",
+        "The Visking tubing dissolves completely in the presence of starch."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "If iodine turns blue-black in the presence of starch, and iodine diffuses into Visking tubing containing starch, what is the correct explanation for the inside of the tubing turning blue-black?",
+      "options": [
+        "Starch molecules diffused out of the tubing to meet the iodine.",
+        "Iodine molecules are small enough to diffuse through the tubing membrane into the starch solution.",
+        "The membrane of the tubing broke down completely.",
+        "Water molecules pushed the starch out of the tubing."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which statement is true about the composition of cell cytoplasm?",
+      "options": [
+        "It is a continuous solid block with no individual components.",
+        "It is made up of particles, just like all other substances.",
+        "It contains only water and is completely free of any particles.",
+        "It is made of empty space with no matter in it."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How do small substances like oxygen enter a living cell?",
+      "options": [
+        "By passing through tiny holes in the cell membrane.",
+        "By breaking the cell membrane apart completely.",
+        "By dissolving the cell wall and entering through a vacuole.",
+        "By attaching to the outside of the cell without entering."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why are some substances, like large starch molecules, unable to diffuse into a cell?",
+      "options": [
+        "They are repelled by the cell's electric field.",
+        "They are too big to pass through the holes in the cell membrane.",
+        "They are too heavy to move at all.",
+        "They are liquid, and only gases can enter cells."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What makes a cell membrane 'selectively-permeable'?",
+      "options": [
+        "It allows all substances to pass through freely.",
+        "It allows only certain substances to diffuse through it.",
+        "It blocks every single substance from entering the cell.",
+        "It can only let water pass through but nothing else."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In which direction is the net movement of oxygen particles across a cell membrane when respiration is happening inside the cell?",
+      "options": [
+        "Up a concentration gradient, from low concentration to high concentration.",
+        "Down a concentration gradient, from high concentration outside to low concentration inside.",
+        "There is no net movement because oxygen cannot pass through the membrane.",
+        "In a random direction that depends on the cell's shape."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How do particles behave in a fluid during diffusion?",
+      "options": [
+        "They move in perfectly straight parallel lines without touching.",
+        "They move in random directions and collide with each other all the time.",
+        "They stop moving completely once they are evenly spread.",
+        "They only move when an external force like gravity pulls them."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is meant by the 'concentration' of a substance in a liquid or gas?",
+      "options": [
+        "The total weight of the container holding the substance.",
+        "The number of particles in a specific volume of the liquid or gas.",
+        "The temperature of the liquid or gas.",
+        "The speed at which the particles are moving."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What does it mean when we say the net movement of particles is 'down a concentration gradient'?",
+      "options": [
+        "Particles move from an area of lower concentration to an area of higher concentration.",
+        "Particles move from an area of higher concentration to an area of lower concentration.",
+        "Particles move only downwards due to gravity.",
+        "Particles move in a circle around the highest concentration point."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is the definition of diffusion?",
+      "options": [
+        "The active transport of particles using energy from respiration.",
+        "The passive movement of particles from an area of higher to lower concentration.",
+        "The movement of water through a semi-permeable membrane only.",
+        "The chemical reaction between two different gases."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why do particles spread out from an area of high concentration to low concentration during diffusion?",
+      "options": [
+        "Because they are repelled by the container walls.",
+        "Because of their random motion and constant collisions.",
+        "Because they are actively swimming towards empty space.",
+        "Because they always follow magnetic fields."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    }
+  ]
+}

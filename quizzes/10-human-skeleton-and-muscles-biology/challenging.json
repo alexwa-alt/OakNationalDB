@@ -1,6 +1,6 @@
 {
   "unitKey": "10Human skeleton and musclesBiology",
-  "generatedAt": "2026-09-10T13:02:50.981373+00:00",
+  "generatedAt": "2026-09-11T12:55:04.610900+00:00",
   "questions": [
     {
       "question": "When a muscle attached to a bone contracts, what direct physical consequence causes the bone to move?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 2,
       "learningPointIndex": 12
+    },
+    {
+      "question": "When a muscle contracts, how does it physically cause a bone to move?",
+      "options": [
+        "By pushing the bone away from the joint",
+        "By exerting a pulling force on the bone to which it is attached",
+        "By expanding and increasing pressure on the joint",
+        "By temporarily softening the bone at the attachment site"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "An engineer designs a prosthetic arm by analysing the forces and angles involved when a human lifts a heavy box. Which branch of science is this analysis primarily based on?",
+      "options": [
+        "Biomechanics",
+        "Biochemistry",
+        "Geophysics",
+        "Histology"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "When you hold a heavy object in your hand with your elbow bent, what scientific term describes the turning effect of the force exerted by your biceps as it pivots at the elbow joint?",
+      "options": [
+        "Friction",
+        "Velocity",
+        "A moment",
+        "Kinetic energy"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If you want to calculate the size of the turning effect (moment) produced when your bicep pulls on your forearm at the elbow, which two measurements would you need to multiply together?",
+      "options": [
+        "The force exerted by the muscle and the distance from the pivot to the force",
+        "The mass of the forearm bone and the speed of the movement",
+        "The length of the muscle and the angle of the joint",
+        "The volume of the muscle and the surface area of the joint"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which of the following best describes what happens at a joint in the human skeleton?",
+      "options": [
+        "Muscles fuse together to form a solid protective barrier",
+        "Two or more bones meet, allowing for potential movement or stability",
+        "Red blood cells are filtered out of the circulatory system",
+        "Nerve cells undergo rapid division to repair tissue damage"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is the primary mechanism by which skeletal muscles enable physical activities like running or jumping?",
+      "options": [
+        "By expanding and pushing bones apart at the joint",
+        "By dissolving bone minerals to temporarily increase flexibility",
+        "By contracting to pull and move the bones of the skeleton",
+        "By sending electrical impulses directly into the bone marrow"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A student claims that when they straighten their arm, their triceps muscle actively pushes the forearm bone down. Why is this claim scientifically incorrect?",
+      "options": [
+        "Muscles can only pull by contracting; they cannot push",
+        "The triceps is not attached to the forearm bone",
+        "Straightening the arm does not involve any muscle activity",
+        "Muscles can only push and cannot pull"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "The biceps and triceps work together to control the movement of the forearm. When the biceps contracts to bend the arm, what must the triceps do, and what is this pairing called?",
+      "options": [
+        "The triceps must contract; this is a cooperative pair",
+        "The triceps must relax; this is an antagonistic pair",
+        "The triceps must push; this is a synergistic pair",
+        "The triceps must dissolve; this is a degenerative pair"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which statement about the presence of muscles in the human body is correct?",
+      "options": [
+        "Muscles are only found in the limbs to control movement",
+        "Muscles are distributed throughout the human body to perform various movement and physiological functions",
+        "Only the heart contains muscle tissue in the human body",
+        "Muscles are only present where bones need to be protected from impact"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What is muscle tissue composed of?",
+      "options": [
+        "A non-living matrix of calcium and phosphate ions",
+        "Specialised cells that are adapted for contraction",
+        "Rigid protein fibers that cannot change shape",
+        "Dead cells that act as a cushion for nerves"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "How do muscles change their physical state to facilitate movement?",
+      "options": [
+        "They can contract (shorten) and relax (return to original length)",
+        "They can expand (lengthen) and harden to push bones",
+        "They temporarily liquefy and then solidify",
+        "They rotate around the bone to create a twisting force"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "During intense exercise, why do your breathing and heart rates increase to supply more oxygen and sugar (glucose) to your muscles?",
+      "options": [
+        "To allow muscles to convert into bone tissue",
+        "Because muscles require oxygen and sugar to contract",
+        "To cool down the muscles by filling them with air",
+        "To prevent muscles from relaxing"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Identify the correct match between the muscle type and its role in an organ system.",
+      "options": [
+        "Cardiac muscle in the heart pumps blood; smooth muscle moves food in the digestive system; skeletal muscle moves bones",
+        "Skeletal muscle pumps blood; cardiac muscle lines the stomach; smooth muscle moves bones",
+        "Smooth muscle is only found in the brain; cardiac muscle is in the lungs; skeletal muscle is in the liver",
+        "Cardiac muscle moves bones; skeletal muscle pumps blood; smooth muscle is not found in organ systems"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What does the human skeleton consist of?",
+      "options": [
+        "A network of fluid-filled tubes",
+        "A framework made up of bones",
+        "Solid bands of pure cartilage with no mineral content",
+        "A single, continuous plate of calcium"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is the biological definition of a joint?",
+      "options": [
+        "The point where a muscle attaches to a tendon",
+        "A place where two or more bones meet",
+        "The outer protective layer of a long bone",
+        "A group of cells that produce red blood cells"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How does the skeleton protect vital organs such as the brain, heart, and lungs?",
+      "options": [
+        "By secreting enzymes that neutralise toxins",
+        "By forming hard, physical barriers (like the skull and ribcage) around them",
+        "By absorbing impact and turning into liquid",
+        "By filtering out harmful pathogens before they reach the organs"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Why is it correct to describe bones as 'living tissue' rather than dead structures?",
+      "options": [
+        "They are made of living cells that grow, repair, and require nutrients",
+        "They can actively swim through the bloodstream to repair damage",
+        "They are made entirely of water and dissolved gases",
+        "They can contract and relax just like muscle tissue"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Apart from providing structure, what critical role does bone marrow play in the circulatory and immune systems?",
+      "options": [
+        "It produces hormones that regulate digestion",
+        "It is the site where red and white blood cells are made",
+        "It filters carbon dioxide directly out of the body",
+        "It stores oxygen for use during anaerobic respiration"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "If a muscle is unable to push, how does a joint return to its original position after a movement?",
+      "options": [
+        "The muscle reverses its structure and pushes the bone back",
+        "An opposing muscle contracts to pull the bone in the opposite direction",
+        "The bone naturally springs back due to elastic pressure without muscle help",
+        "Gravity is the only force that can return a joint to its original position"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "If a muscle cell is deprived of sugar (glucose) and oxygen, what will it be unable to do?",
+      "options": [
+        "Contract",
+        "Absorb calcium",
+        "Divide to make new bone cells",
+        "Synthesize bone marrow"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
     }
   ]
 }
