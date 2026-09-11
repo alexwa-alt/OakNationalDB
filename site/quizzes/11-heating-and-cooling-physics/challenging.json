@@ -1,6 +1,6 @@
 {
   "unitKey": "11Heating and coolingPhysics",
-  "generatedAt": "2026-08-12T06:16:31.663944+00:00",
+  "generatedAt": "2026-09-11T12:59:30.201378+00:00",
   "questions": [
     {
       "question": "A metal spoon, a wooden block, and a woollen glove are placed on a table in a sealed room maintained at exactly 20 °C. After 48 hours, a student measures the temperature of each object using a contact thermometer. What will the thermometer readings show?",
@@ -220,6 +220,226 @@
         "It will keep the potato warm but will cause the cold soda to warm up much faster than normal."
       ],
       "correctAnswerIndex": 0,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "A wooden desk, a metal chair, and a plastic cup have been sitting in a draught-free, sealed classroom at 20 °C for over 24 hours. Which statement correctly compares their temperatures?",
+      "options": [
+        "The metal chair is the coldest, the plastic cup is the warmest, and the wooden desk is in between.",
+        "All three objects have exactly the same temperature of 20 °C.",
+        "The wooden desk and plastic cup are at 20 °C, but the metal chair is slightly colder because metal is a conductor.",
+        "Their temperatures cannot be determined without knowing their starting temperatures before they were put in the room."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When a solid copper block is heated from 20 °C to 80 °C, what happens to the individual copper particles and the spacing between them?",
+      "options": [
+        "The individual particles expand in size, while the spacing between them remains completely constant.",
+        "The individual particles do not change size, but the average separation between them increases.",
+        "The individual particles shrink, allowing more particles to crowd together and increase the density.",
+        "The individual particles stop vibrating, which allows them to drift further apart."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A tight brass ring is stuck on a steel rod. To remove the brass ring, an engineer decides to heat the brass ring quickly. Why does this method work?",
+      "options": [
+        "Heating the brass ring causes its particles to vibrate more, making the ring expand and loosen from the rod.",
+        "Heating causes the brass particles to pack more tightly together, making the ring larger in thickness but wider in diameter.",
+        "Heating causes the brass particles to lose mass, allowing the ring to slide off easily.",
+        "Heating causes the steel rod to shrink while the brass ring remains at a constant volume."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A hot mug of cocoa is left on a table. As it cools down, energy is transferred from the cocoa to the surrounding air. What happens to the speed of the particles in the cocoa and the air during this process?",
+      "options": [
+        "The cocoa particles begin to move less quickly, while the air particles move more quickly.",
+        "The cocoa particles begin to move more quickly, while the air particles move less quickly.",
+        "Both the cocoa particles and the air particles begin to move less quickly.",
+        "The speed of the cocoa particles remains constant, while the air particles slow down."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Two identical mugs contain the same volume of coffee. Mug A is at 90 °C in a room at 20 °C, while Mug B is at 40 °C in the same room. Which mug will experience the faster rate of temperature drop in the first minute, and why?",
+      "options": [
+        "Mug B, because it is closer to the room temperature and requires less energy loss to cool down.",
+        "Mug A, because the greater temperature difference between the coffee and the air causes a faster rate of cooling.",
+        "Both mugs will cool down at the same rate because they have the same volume of coffee.",
+        "Mug A, because hot particles are heavier than cooler particles and fall out of the liquid faster."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why do equal masses of iron and water behave differently when heated with the same amount of energy?",
+      "options": [
+        "Iron particles have the same mass as water particles, but iron particles do not experience attractive forces.",
+        "Water and iron have different particle masses and different attractive forces between their particles.",
+        "The particles in water are completely stationary, whereas the particles in solid iron move freely.",
+        "Iron particles expand when heated, whereas water particles shrink when heated."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A chef wants to heat 1 kg of vegetable oil and 1 kg of water from 20 °C to 80 °C. What must the chef do to achieve this, given that oil and water are different substances?",
+      "options": [
+        "Apply the exact same amount of heating to both, as they have the same mass and starting temperature.",
+        "Provide different amounts of heating because different substances require different amounts of energy to reach the same temperature.",
+        "Heat the water less than the oil, because water particles are inherently hotter than oil particles.",
+        "Heat only the oil, because oil is a thermal insulator and will automatically heat the water through contact."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "You have two blocks of the same mass and temperature: Block X is made of copper, and Block Y is made of wood. If both are placed into separate identical beakers of cold water, they cause different amounts of temperature rise in the water. Why does this happen?",
+      "options": [
+        "Copper and wood have different temperatures, even though they are measured at the same value.",
+        "The same amount of different materials at the same temperature can store and transfer different amounts of energy.",
+        "The wood block dissolves in the water, which prevents any energy from transferring.",
+        "Copper particles destroy energy as they cool, whereas wood particles create energy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Substance A has a specific heat capacity of 4200 J/kg°C, and Substance B has a specific heat capacity of 900 J/kg°C. If you have 1 kg of each substance at 50 °C, which one has more energy in its thermal store?",
+      "options": [
+        "Substance B, because its lower specific heat capacity allows its particles to move much faster.",
+        "Substance A, because a higher specific heat capacity means 1 kg of the substance stores more energy at a given temperature.",
+        "Both have the same energy because they are at the exact same temperature and have the same mass.",
+        "Neither substance has any thermal energy because they are both below 100 °C."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following statements best describes the movement of particles in solids, liquids, and gases?",
+      "options": [
+        "Particles in gases move randomly, but particles in liquids and solids move in highly organised, predictable patterns.",
+        "The directions in which particles move or vibrate are random in solids, liquids, and gases alike.",
+        "Only liquid particles move randomly; solid particles do not move at all, and gas particles move only upwards.",
+        "Particles in solids vibrate randomly, but liquid and gas particles only move in straight lines parallel to gravity."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "If the temperature of a substance is steadily increased, what happens to the motion of its particles?",
+      "options": [
+        "The particles vibrate faster in a solid, or move past each other faster in a liquid or gas.",
+        "The particles begin to move in fixed circular paths rather than random directions.",
+        "The particles slow down in order to absorb and store the extra heat energy.",
+        "The particles in a solid start to spin, while those in a gas completely stop moving."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Two identical iron frying pans are on a stove. Pan A is at 180 °C, and Pan B is at 80 °C. Which frying pan has more energy in its thermal store, and why?",
+      "options": [
+        "Pan B, because lower temperatures mean the particles are more closely packed and can store more energy.",
+        "Pan A, because for two identical objects, the one at a higher temperature has more energy.",
+        "They have the same thermal energy because they are identical in mass and material.",
+        "Pan A, because the particles have grown larger in size, which increases their total mass."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Two copper blocks, Block P and Block Q, are both at a temperature of 60 °C. Block P has a mass of 2 kg, while Block Q has a mass of 0.5 kg. Which block contains more thermal energy?",
+      "options": [
+        "Block P, because it has more particles of the same substance at the same temperature, so it has more energy.",
+        "Block Q, because the smaller mass allows the particles to pack together more tightly and vibrate faster.",
+        "Both blocks contain the same amount of thermal energy because their temperatures are identical.",
+        "Block Q, because less energy is wasted keeping a large mass warm."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "When measuring the temperature of a liquid with a glass laboratory thermometer, how should you position your eyes to get an accurate reading?",
+      "options": [
+        "Look down at the thermometer from slightly above to see the shape of the liquid surface clearly.",
+        "Your eye must be level with the top of the coloured liquid column to avoid parallax errors.",
+        "Look up at the thermometer from below to make sure you can see the scale markings clearly.",
+        "It does not matter where your eye is positioned as long as the thermometer is held completely still."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "If you mix 400 ml of hot water at 80 °C with 100 ml of cold water at 20 °C in an insulated jug, what can you predict about the final temperature of the mixture?",
+      "options": [
+        "The final temperature will be exactly 50 °C, which is the perfect average of the two temperatures.",
+        "The final temperature will be closer to 80 °C than to 20 °C, because there was more of the hot water.",
+        "The final temperature will be closer to 20 °C, because cold water has a stronger cooling effect than hot water.",
+        "The final temperature will rise above 80 °C due to the friction of mixing."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A cold metal spoon at 5 °C is placed into a bowl of hot soup at 70 °C. What happens to the speed of the particles in the soup and the spoon?",
+      "options": [
+        "The particles in the soup move more slowly, while the particles in the spoon move more quickly.",
+        "The particles in both the soup and the spoon move more quickly.",
+        "The particles in the soup move more quickly, while the particles in the spoon move more slowly.",
+        "The particles in the spoon stop moving completely, transferring all their energy to the soup particles."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "You heat one end of a long rod made of a thermal conductor. What do you observe happening to the temperature along the rod?",
+      "options": [
+        "The temperature along the conductor increases quickly as energy is rapidly transferred along it.",
+        "The temperature at the heated end rises, but the rest of the rod remains cold forever.",
+        "The temperature increases very slowly, taking hours for any change to reach the other end.",
+        "The temperature along the rod decreases because conductors convert heat into light."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "At a microscopic level, how does a thermal conductor transfer energy along its length so quickly when heated?",
+      "options": [
+        "Vibrating particles quickly cause the particles near to them to vibrate as well.",
+        "The particles at the hot end travel physically from one end of the conductor to the other.",
+        "The particles in a conductor shrink, allowing empty space to carry heat radiation.",
+        "The particles stop vibrating entirely, allowing heat waves to pass through unimpeded."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Double-glazed windows and fiberglass loft rolls both contain trapped air. Why does trapped air make them highly effective insulators?",
+      "options": [
+        "Air is a solid that blocks any movement of heat particles through physical barriers.",
+        "Gases are very poor thermal conductors, so trapping air prevents effective energy transfer.",
+        "Trapped air particles move much faster than free air particles, which destroys cold energy.",
+        "Trapped air causes the surrounding materials to contract and become denser, blocking heat."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "A camper wraps a hot bottle of soup in a thick woolen blanket. Later, they use the same clean blanket to wrap a cold bottle of ice water. What effect does the blanket have in both cases?",
+      "options": [
+        "It heats up the hot soup and warms up the ice water.",
+        "It cools down the hot soup and keeps the ice water cold.",
+        "It keeps the hot soup warm and keeps the cold ice water cool by reducing energy transfer.",
+        "It has no effect on either bottle because wool only works on living organisms."
+      ],
+      "correctAnswerIndex": 2,
       "learningPointIndex": 34
     }
   ]
