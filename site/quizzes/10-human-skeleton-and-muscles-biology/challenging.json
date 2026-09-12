@@ -1,6 +1,6 @@
 {
   "unitKey": "10Human skeleton and musclesBiology",
-  "generatedAt": "2026-09-11T12:55:04.610900+00:00",
+  "generatedAt": "2026-09-12T12:14:53.019102+00:00",
   "questions": [
     {
       "question": "When a muscle attached to a bone contracts, what direct physical consequence causes the bone to move?",
@@ -661,6 +661,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 11
+    },
+    {
+      "question": "When a person lifts a heavy book, how does the muscle attached to the forearm bone cause it to move upwards?",
+      "options": [
+        "By expanding and pushing the forearm bone upwards from below.",
+        "By contracting and exerting a pulling force on the forearm bone.",
+        "By relaxing and letting gravity pull the upper arm down.",
+        "By secreting a fluid that makes the bone slide upwards."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "An engineer is analyzing the forces, angles, and movements of a high jumper's legs during takeoff. Which area of science is this analysis most directly a part of?",
+      "options": [
+        "Biomechanics",
+        "Biochemistry",
+        "Geophysics",
+        "Biomimicry"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "When you hold a heavy dumbbell in your hand with your arm bent at the elbow, what term best describes the turning effect of the force acting around your elbow joint?",
+      "options": [
+        "Friction",
+        "Tension",
+        "A moment",
+        "Acceleration"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If a muscle exerts a force of 50 N at a perpendicular distance of 0.04 m from the pivot of a joint, how would you calculate the size of the turning effect (moment) produced?",
+      "options": [
+        "Multiply the force by the perpendicular distance: 50 N * 0.04 m",
+        "Divide the force by the perpendicular distance: 50 N / 0.04 m",
+        "Add the force and the distance: 50 N + 0.04 m",
+        "Square the distance and multiply by the force: 50 N * (0.04 m)^2"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which of the following statements correctly identifies the anatomical structural feature where two or more individual bones come together in the human body?",
+      "options": [
+        "At a tendon insertion",
+        "At a joint",
+        "At a marrow cavity",
+        "At a ligament sheath"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is the primary functional relationship between skeletal muscles and bones during physical activities like walking?",
+      "options": [
+        "Bones generate electrical signals that cause muscles to change shape.",
+        "Muscles act as levers that are moved by the rigid shifting of bones.",
+        "Muscles exert forces that pull on and move the bones.",
+        "Bones absorb the excess energy produced when muscles expand."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why must your body use different muscles to bend your arm at the elbow and to straighten it again?",
+      "options": [
+        "Muscles can only exert force by pulling when they contract; they cannot push bones to extend them.",
+        "Muscles lose all their energy after a single movement and need time to recover.",
+        "The brain can only send signals to one muscle at a time in any limb.",
+        "Bending requires skeletal muscle, while straightening requires smooth muscle."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "When you bend your elbow, your biceps muscle contracts. What must happen to the triceps muscle at the same time to allow this movement to occur smoothly?",
+      "options": [
+        "The triceps must also contract with equal force.",
+        "The triceps must relax.",
+        "The triceps must detach from the forearm bone temporarily.",
+        "The triceps must turn into bone tissue."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which statement is true regarding the presence and distribution of muscles in the human body?",
+      "options": [
+        "Muscles are only found in the limbs and are completely absent from the torso.",
+        "Muscles are distributed throughout the human body to enable both movement and internal organ function.",
+        "Muscles only exist directly beneath the skin and do not occur deep inside the body.",
+        "Only the upper half of the human body contains functional muscle tissue."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following best describes the microscopic structure of a muscle?",
+      "options": [
+        "It is a non-cellular gel-like matrix reinforced by calcium deposits.",
+        "It is a type of tissue composed of highly specialised cells capable of changing length.",
+        "It is a collection of dead cell walls filled with pressurized water.",
+        "It is a single giant cell that stretches from the shoulder to the hand."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "How do the physical states of a muscle change during active movement compared to a state of rest?",
+      "options": [
+        "The muscle changes from a liquid state to a solid state.",
+        "The muscle contracts (shortens and tightens) to produce force, and relaxes (lengthens and softens) to return to its original state.",
+        "The muscle expands in volume by absorbing water and then shrinks by releasing it.",
+        "The muscle cells divide rapidly to make the muscle longer, then self-destruct to make it shorter."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "During a long-distance run, a runner's leg muscles require a continuous supply of which two substances from the bloodstream to keep contracting?",
+      "options": [
+        "Carbon dioxide and nitrogen",
+        "Sugar and oxygen",
+        "Calcium and carbon dioxide",
+        "Water and lactic acid"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which type of muscle is correctly matched with its location and role in the human body's organ systems?",
+      "options": [
+        "Skeletal muscle – lines the walls of blood vessels to pump blood.",
+        "Cardiac muscle – found only in the heart to pump blood throughout the circulatory system.",
+        "Smooth muscle – attached to the skeleton to allow voluntary movement of limbs.",
+        "Cardiac muscle – lines the digestive tract to push food along."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the structural framework of the human body that provides its shape and consists of hard, mineralized structures?",
+      "options": [
+        "A muscular sheath",
+        "A skeleton made up of bones",
+        "A network of cartilaginous tubes",
+        "A hydrostatic fluid cavity"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In the human skeleton, what is the term used to describe any location where two or more separate bones come together?",
+      "options": [
+        "A ligament",
+        "A tendon",
+        "A joint",
+        "A marrow cavity"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How does the ribcage demonstrate the dual functions of the skeleton?",
+      "options": [
+        "It produces digestive enzymes while storing fat.",
+        "It keeps the upper body upright (support) and shields the heart and lungs from impact (protection).",
+        "It contracts to pump air into the lungs and relaxes to release carbon dioxide.",
+        "It dissolves to release calcium into the stomach while absorbing oxygen."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Why is a bone able to grow, repair itself after a fracture, and adapt to physical exercise?",
+      "options": [
+        "Because bones are made of living tissue containing active cells.",
+        "Because bones are entirely dry, dead mineral structures that absorb external materials.",
+        "Because bones are covered in a layer of muscle that rebuilds them from the outside.",
+        "Because bones are hollow tubes filled with air that can expand under pressure."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "If a patient has a disease that severely damages their bone marrow, which vital function will be most directly and immediately disrupted?",
+      "options": [
+        "The transmission of nerve impulses from the brain to the feet.",
+        "The production of red and white blood cells.",
+        "The digestion of proteins in the stomach.",
+        "The filtration of urea by the kidneys."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A physical therapist calculates the moment at a patient's knee joint. If the force exerted by the quadriceps tendon is 200 N and its perpendicular distance from the knee joint pivot is 0.05 meters, what is the size of the moment?",
+      "options": [
+        "4000 N m",
+        "10 N m",
+        "200.05 N m",
+        "10,000 N m"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why is the relationship between the biceps and triceps muscles referred to as 'antagonistic'?",
+      "options": [
+        "Because they both contract at the exact same time to lock the joint in place.",
+        "Because they produce opposing movements; when one contracts to bend the joint, the other must relax, and vice versa.",
+        "Because they are located in completely different parts of the body and never interact.",
+        "Because they fight for the same oxygen supply, causing one to weaken when the other is active."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
     }
   ]
 }

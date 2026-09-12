@@ -1,0 +1,226 @@
+{
+  "unitKey": "13Climate change and living sustainablyBiologyChemistryPhysics",
+  "generatedAt": "2026-09-12T12:16:24.007882+00:00",
+  "questions": [
+    {
+      "question": "What is the definition of climate?",
+      "options": [
+        "The daily changes in wind speed and temperature in a local area.",
+        "The average weather conditions for a particular location over a long period of time.",
+        "The atmospheric pressure and rainfall recorded over a single week.",
+        "The seasonal differences in daylight hours across the planet."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is causing global warming and climate change?",
+      "options": [
+        "Emissions of greenhouse gases from human activities.",
+        "An increase in volcanic activity on the ocean floor.",
+        "Natural changes in the distance between the Earth and the Sun.",
+        "A gradual decrease in the Earth's atmospheric pressure."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What does climate change include?",
+      "options": [
+        "A decrease in the strength of ocean tides globally.",
+        "An increase in the frequency of extreme weather events such as droughts, storms and floods.",
+        "A steady decrease in the number of active volcanoes.",
+        "An increase in the Earth's gravitational pull."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What must we do to successfully limit climate change?",
+      "options": [
+        "Rely solely on plants to naturally absorb all excess carbon without changing our behavior.",
+        "We all need to work together to reduce emissions of greenhouse gases to limit climate change.",
+        "Stop all agricultural activity and food production worldwide.",
+        "Wait for future technologies to completely replace the atmosphere."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following lists the factors that add to the carbon footprint of food?",
+      "options": [
+        "Only the distance food is transported from the farm to the shop.",
+        "Land-use change, farming, processing, transport, retail and packaging.",
+        "Only the materials used to package the final product.",
+        "The energy used by the consumer to cook the food at home."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which of the following is true regarding the carbon footprints of meat and plant-based food products?",
+      "options": [
+        "Meat and plant-based products have different carbon footprints.",
+        "They have the exact same carbon footprint because both are agricultural products.",
+        "Plant-based products always have a higher carbon footprint than meat.",
+        "Neither meat nor plant-based products have a carbon footprint."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "When is food production considered to be more sustainable?",
+      "options": [
+        "When it maximizes short-term crop yields regardless of soil erosion.",
+        "When it uses as much fresh water and artificial fertilizer as possible.",
+        "When it has a smaller, negative impact on the environment.",
+        "When it relies entirely on air freight for international distribution."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How can changes in our diet and a reduction in food waste help us eat more sustainably?",
+      "options": [
+        "By increasing our reliance on heavily packaged and processed foods.",
+        "By lowering greenhouse gas emissions.",
+        "By forcing all food to be grown indoors using artificial light.",
+        "By encouraging the consumption of out-of-season imported crops."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What do temperature data show about the Earth's average surface temperature over the last century or so?",
+      "options": [
+        "An unusual, rapid increase in the Earth's average surface temperature.",
+        "A steady and continuous cooling trend across all continents.",
+        "No change at all compared to historical averages.",
+        "A slow, predictable decrease in temperature."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What is the name given to the recent increase in the Earth's average surface temperature?",
+      "options": [
+        "The ozone effect.",
+        "Global warming.",
+        "Thermal convection.",
+        "Atmospheric pressure."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What relationship is shown between temperature data and greenhouse gas emissions data?",
+      "options": [
+        "There is a correlation between data showing increasing temperature and data showing increasing greenhouse gas emissions.",
+        "There is no relationship or pattern between the two sets of data.",
+        "The data show that rising temperatures cause greenhouse gas emissions to drop.",
+        "The data show that greenhouse gas emissions decrease as temperatures rise."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What do most scientists agree is the cause of global warming?",
+      "options": [
+        "An increase in solar radiation due to changes in the Sun's core.",
+        "Emissions from human activities are increasing the greenhouse effect, causing global warming.",
+        "Natural cycles of heat rising from the Earth's mantle.",
+        "A decrease in the overall thickness of the Earth's atmosphere."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How can thermal insulators help to make a building more energy-efficient?",
+      "options": [
+        "They generate heat energy to warm the rooms automatically.",
+        "Thermal insulators can reduce the energy needed to heat a building.",
+        "They allow heat to escape more quickly during cold weather.",
+        "They convert solar energy directly into usable electricity."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What is the benefit of using thermostats in a building's heating system?",
+      "options": [
+        "They increase the rate of heat transfer through the walls.",
+        "They generate renewable energy to power home appliances.",
+        "Thermostats can control temperature automatically in different rooms and help reduce unnecessary heating.",
+        "They prevent any fresh air from entering the building."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why do renewable resources not run out?",
+      "options": [
+        "They are stored in infinite quantities deep inside the Earth.",
+        "They are replenished faster than they are used up.",
+        "They are completely indestructible and cannot be destroyed.",
+        "They are synthetic materials manufactured in large factories."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Under what condition is a resource like wood considered renewable?",
+      "options": [
+        "Some resources, such as wood, are only renewable if they are used sustainably.",
+        "Wood is always renewable, no matter how quickly we chop down forests.",
+        "Wood is only renewable if it is imported from tropical regions.",
+        "Wood is never renewable because trees take too long to grow."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Which statement is true regarding sustainable transport?",
+      "options": [
+        "We cannot have sustainable transport that uses petrol or diesel fuel.",
+        "Petrol and diesel vehicles are sustainable as long as they have modern filters.",
+        "Only public transport using diesel engines is considered sustainable.",
+        "Any vehicle is sustainable if it travels at a constant speed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What is the role of the natural greenhouse effect on Earth?",
+      "options": [
+        "It causes extreme weather events like hurricanes to happen daily.",
+        "A natural greenhouse effect maintains optimal temperature range for life on Earth.",
+        "It blocks all heat from the Sun from reaching the planet's surface.",
+        "It causes the oceans to boil away over time."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "How are human activities affecting the Earth's greenhouse effect?",
+      "options": [
+        "Human activities are decreasing the amount of greenhouse gases, cooling the planet.",
+        "Human activities are increasing the amount of greenhouse gases in the atmosphere, increasing the greenhouse effect.",
+        "Human activities have absolutely no effect on the natural greenhouse effect.",
+        "Human activities are causing the greenhouse gases to escape into space."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What actions can we take to minimise the amount of waste we produce?",
+      "options": [
+        "Incinerate, bury, and discard.",
+        "Reuse, reduce, recycle is what we can do to minimise waste.",
+        "Export, accumulate, and replace.",
+        "Landfill, burn, and export."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    }
+  ]
+}

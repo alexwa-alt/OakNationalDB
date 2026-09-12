@@ -1,6 +1,6 @@
 {
   "unitKey": "12DiffusionBiology",
-  "generatedAt": "2026-08-12T06:16:29.406398+00:00",
+  "generatedAt": "2026-09-12T12:15:56.883087+00:00",
   "questions": [
     {
       "question": "A scientist places a dye on top of two different solid blocks, Block A and Block B. The dye penetrates deep into Block A but remains entirely on the surface of Block B. What is the most accurate conclusion about these blocks?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 7
+    },
+    {
+      "question": "A student places a solid block of wax and a block of gelatin in water containing blue dye. After two hours, only the gelatin block is blue throughout. Which statement best explains this observation?",
+      "options": [
+        "Gelatin is permeable to the dye solution, allowing its particles to diffuse through, whereas wax is impermeable.",
+        "The wax contains larger particles than the gelatin, which blocks the dye from entering.",
+        "Water molecules are too large to pass through the wax but easily dissolve the gelatin.",
+        "Gelatin actively pumps the blue dye into its structure, while wax lacks active transport."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A student places a jelly cube containing universal indicator into an acid solution. Over time, they observe a color change moving inward from the outer edges. What does this visual boundary represent?",
+      "options": [
+        "The region where the indicator has been completely destroyed by the acid.",
+        "The limit of how far the acid particles have diffused into the jelly at that point in time.",
+        "The area where the jelly has melted due to the chemical reaction with the acid.",
+        "The point where water particles are leaving the cube to dilute the acid outside."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Identical jelly cubes are placed in equal volumes of blue dye at 10°C, 25°C, and 50°C. After 10 minutes, the cubes are sliced in half. Which prediction about the undyed core of the cubes is most accurate?",
+      "options": [
+        "The undyed core will be smallest in the 50°C cube because high temperature increases particle kinetic energy and diffusion rate.",
+        "The undyed core will be smallest in the 10°C cube because colder temperatures make the jelly matrix more porous.",
+        "The undyed core will be the same size in all cubes because temperature only affects the rate of active transport, not passive diffusion.",
+        "The undyed core will be largest in the 50°C cube because heat causes the dye particles to expand and get trapped at the surface."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Three agar cubes of different sizes (1 cm³, 8 cm³, and 27 cm³) are soaked in dye. If they are all left in the dye for the exact same duration, which cube will have the greatest percentage of its total volume penetrated by the dye?",
+      "options": [
+        "The 27 cm³ cube, because its larger volume pulls more dye particles inward by gravity.",
+        "The 8 cm³ cube, because it has an intermediate surface area to volume ratio.",
+        "The 1 cm³ cube, because it has the largest surface area to volume ratio, allowing dye to reach its center faster relative to its size.",
+        "All three cubes will have the same percentage of volume penetrated because the rate of diffusion is constant."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When acid diffuses into an alkaline jelly cube containing phenolphthalein, the pink color disappears. Which particle-level explanation best accounts for the speed of this color change increasing at higher temperatures?",
+      "options": [
+        "The acid particles collide with the jelly matrix more violently, breaking it apart to create larger channels.",
+        "The acid particles gain kinetic energy, move faster, and collide more frequently, speeding up their net movement into the cube.",
+        "The heat causes the phenolphthalein indicator particles to break down, accelerating the color change.",
+        "The jelly particles expand at higher temperatures, which mechanically pushes the acid particles toward the center."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A synthetic membrane has pores that are exactly 1.5 nanometers (nm) in diameter. Glucose molecules are 0.9 nm in diameter, while starch molecules are 5.0 nm in diameter. If a solution of both is placed inside the membrane, what will diffuse out?",
+      "options": [
+        "Only glucose will diffuse out because its molecules are smaller than the membrane pores.",
+        "Only starch will diffuse out because larger molecules exert more pressure on the pores.",
+        "Both glucose and starch will diffuse out because both are soluble in water.",
+        "Neither will diffuse out because the pores must be larger than the sum of both molecular sizes."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A Visking tubing bag filled with a 5% glucose solution is placed in a beaker containing a 5% glucose solution. Which statement correctly describes the movement of glucose molecules across the tubing membrane?",
+      "options": [
+        "Glucose molecules stop moving across the membrane entirely because the concentration is equal on both sides.",
+        "Glucose molecules continue to move through the membrane, but they only move from the outside of the bag to the inside.",
+        "Glucose molecules move through the membrane in both directions at equal rates, resulting in no net change in concentration.",
+        "Glucose molecules only move outward because the pressure inside the bag forces them through the pores."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A selectively-permeable bag containing a 20% sucrose solution is placed into a beaker containing a 5% sucrose solution. The membrane is permeable to water but impermeable to sucrose. What will be the net direction of water movement?",
+      "options": [
+        "There will be a net movement of water out of the bag into the beaker to dilute the external solution.",
+        "There will be a net movement of water into the bag from the beaker, moving from a higher water concentration to a lower water concentration.",
+        "Water will move in both directions at the exact same rate, so there will be no net movement.",
+        "Sucrose will move out of the bag into the beaker until both solutions reach 12.5% concentration."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A student sets up a Visking tubing bag containing starch suspension and places it in a beaker of iodine solution (which turns blue-black in the presence of starch). After 30 minutes, the liquid inside the bag turns blue-black, but the liquid in the beaker remains orange-brown. What does this observation prove?",
+      "options": [
+        "Starch has diffused out of the bag into the beaker, but iodine was unable to enter the bag.",
+        "Iodine particles have diffused into the bag, but starch particles were too large to diffuse out of the bag.",
+        "The membrane is impermeable to both substances, and the reaction only occurred on the outer surface of the tubing.",
+        "Water has moved out of the bag by osmosis, concentrating the starch so that it changes color on its own."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "In an experiment, a Visking tubing bag filled with a concentrated salt solution is placed in a beaker of pure water. Over time, the concentration of salt in the beaker increases. Which explanation best accounts for this observation?",
+      "options": [
+        "Salt ions are small enough to pass through the pores of the Visking tubing, so they move down their concentration gradient into the beaker.",
+        "Water molecules have reacted with the Visking tubing, creating larger holes that allow the salt to leak out.",
+        "The Visking tubing has actively pumped the salt ions into the beaker using energy from the surrounding water.",
+        "The salt ions have dissolved the Visking tubing membrane, allowing the entire solution to mix freely."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which of the following statements best describes the physical nature of a cell's cytoplasm in relation to diffusion?",
+      "options": [
+        "Cytoplasm is a continuous fluid containing no individual particles, which allows nutrients to glide through without friction.",
+        "Cytoplasm is made up of moving particles, including water and dissolved solutes, which constantly collide with diffusing substances.",
+        "Cytoplasm is a solid structure where particles are fixed in place, preventing any internal movement of molecules.",
+        "Cytoplasm is a vacuum that pulls external substances inward through the cell membrane by suction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Oxygen is vital for cellular respiration. How does oxygen enter a muscle cell from the surrounding blood capillaries?",
+      "options": [
+        "It is actively pumped through specialized protein valves that require energy.",
+        "It dissolves the cell membrane lipid layer permanently to create temporary pathways.",
+        "It diffuses down its concentration gradient through tiny microscopic pathways in the cell membrane.",
+        "It is carried into the cell inside vesicles by endocytosis."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why are large protein molecules synthesized inside a cell unable to leave the cell by simple diffusion through the cell membrane?",
+      "options": [
+        "Protein molecules are too large to pass through the tiny pores of the cell membrane.",
+        "Proteins are insoluble in water and cannot move unless they are in gaseous form.",
+        "The cell membrane only allows positively charged ions to pass through its pores.",
+        "Inside the cell, proteins are held in place by strong magnetic forces that prevent passive movement."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A cell membrane is described as \"selectively-permeable.\" What does this term mean in the context of cellular transport?",
+      "options": [
+        "The membrane allows all substances to pass through at the same rate regardless of particle size.",
+        "The membrane acts as a solid wall that completely blocks all substances from entering or leaving.",
+        "The membrane allows only certain substances to diffuse through its pores, while blocking others based on properties like size.",
+        "The membrane only allows water to pass through, completely blocking all other small molecules and ions."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A cell has a high concentration of carbon dioxide inside its cytoplasm compared to the surrounding tissue fluid. What will be the net movement of carbon dioxide?",
+      "options": [
+        "Carbon dioxide will show a net movement out of the cell, down its concentration gradient.",
+        "Carbon dioxide will show a net movement into the cell, up its concentration gradient.",
+        "Carbon dioxide will not move because the cell membrane blocks all waste products.",
+        "Carbon dioxide will move into and out of the cell at equal rates with zero net movement."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Why do individual perfume particles eventually spread throughout a still room even though there is no wind?",
+      "options": [
+        "The particles are attracted to the walls of the room by gravitational forces.",
+        "The particles move in random directions, constantly colliding with air particles and bouncing off in new directions.",
+        "The particles naturally repel each other, forcing them to move in straight lines directly away from the source.",
+        "The particles are lighter than air, so they rise to the ceiling and then fall down uniformly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Container A has 10 dye particles in 100 mL of water, while Container B has 50 dye particles in 100 mL of water. Which statement correctly compares their concentration?",
+      "options": [
+        "Container A has a higher concentration because the dye particles have more space to move around.",
+        "Container B has a higher concentration because there are more dye particles per unit volume of water.",
+        "Both containers have the same concentration because the volume of water is identical.",
+        "Container B has a lower concentration because the dye particles are packed too closely to dissolve."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A drop of food coloring is carefully placed at the bottom of a glass of still water. Over time, the color spreads evenly. Which statement best describes the \"net movement\" during this process?",
+      "options": [
+        "Dye particles move only upward because gravity does not affect dissolved particles.",
+        "There is an overall movement of dye particles from the region of high concentration at the bottom to the region of low concentration at the top.",
+        "Dye particles move randomly, but water particles push them all to the top of the glass.",
+        "Dye particles only move towards areas where there are other dye particles of the same type."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which of the following is the most accurate definition of diffusion?",
+      "options": [
+        "The active transport of molecules across a cell membrane requiring energy from ATP.",
+        "The passive movement of particles from an area of higher concentration to an area of lower concentration.",
+        "The movement of water molecules from a dilute solution to a concentrated solution through a membrane.",
+        "The rapid streaming of cytoplasm inside a living cell to distribute nutrients."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A single-celled organism is placed in an environment where the concentration of oxygen is extremely low compared to the inside of the cell. What will happen to the net movement of oxygen?",
+      "options": [
+        "Oxygen will continue to enter the cell because cells always absorb oxygen regardless of external concentration.",
+        "Oxygen will show a net movement out of the cell into the environment, down its concentration gradient.",
+        "The cell membrane will close all its pores to prevent oxygen from escaping, resulting in zero movement.",
+        "Oxygen will be actively pumped into the cell to maintain metabolic activities without any loss."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
     }
   ]
 }
