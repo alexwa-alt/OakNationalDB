@@ -1,6 +1,6 @@
 {
   "unitKey": "11Heating and coolingPhysics",
-  "generatedAt": "2026-09-11T12:59:30.201378+00:00",
+  "generatedAt": "2026-09-12T12:15:26.346259+00:00",
   "questions": [
     {
       "question": "A metal spoon, a wooden block, and a woollen glove are placed on a table in a sealed room maintained at exactly 20 °C. After 48 hours, a student measures the temperature of each object using a contact thermometer. What will the thermometer readings show?",
@@ -440,6 +440,226 @@
         "It has no effect on either bottle because wool only works on living organisms."
       ],
       "correctAnswerIndex": 2,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "A metal spoon, a wooden table, and a plastic cup have been sitting in a room at 20 °C for 24 hours. Which statement correctly describes their temperatures?",
+      "options": [
+        "The metal spoon is colder than 20 °C, the wooden table is at 20 °C, and the plastic cup is warmer.",
+        "All three objects have reached exactly the same temperature of 20 °C.",
+        "The wooden table and plastic cup are at 20 °C, but the metal spoon is slightly colder because metal is a conductor.",
+        "The objects will never reach the exact same temperature unless they are in direct contact with each other."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When a block of copper is heated from 20 °C to 80 °C, what happens to its particles?",
+      "options": [
+        "The individual copper particles grow larger in size, taking up more space.",
+        "The spacing between the copper particles increases, while the size of the particles themselves remains constant.",
+        "The particles move closer together because the bonds between them strengthen.",
+        "The particles vibrate so much that they slide past each other, but their average separation remains unchanged."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "An engineer designs a concrete bridge with small gaps between the concrete slabs. Why is this design necessary when considering temperature changes?",
+      "options": [
+        "To allow the slabs to contract without cracking during hot summer days.",
+        "To prevent the slabs from pushing against each other and warping when they expand during hot weather.",
+        "To make sure water drains easily so that the concrete particles can absorb moisture and shrink.",
+        "To allow the air between the slabs to heat up and increase the overall mass of the bridge."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A hot mug of tea is placed on a table in a cool room. Over time, the tea cools down. What is happening at the particle level during this process?",
+      "options": [
+        "The tea particles transfer energy to the surrounding air particles, causing the tea particles to slow down and the air particles to speed up.",
+        "Cold particles from the air enter the mug and slow down the rapid movement of the tea particles.",
+        "The tea particles lose mass as they cool, which reduces their overall speed of movement.",
+        "The air particles transfer their cold energy to the tea particles, which causes the tea particles to stop vibrating."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Two identical cups containing different amounts of hot coffee are placed in the same room at 20 °C. Cup A starts at 90 °C and Cup B starts at 50 °C. Which cup cools down faster initially, and why?",
+      "options": [
+        "Cup B cools faster because it is closer to the room temperature, requiring less energy transfer to reach equilibrium.",
+        "Cup A cools faster because the greater temperature difference between it and the room results in a more rapid rate of energy transfer.",
+        "Both cups cool at the exact same rate because they are in the same room and contain the same liquid.",
+        "Cup B cools faster because smaller temperature differences allow particles to transfer energy more efficiently."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "If you supply the exact same amount of thermal energy to 1 kg of water and 1 kg of copper, the copper will undergo a much larger temperature increase than the water. What does this demonstrate?",
+      "options": [
+        "Water has a lower capacity to store thermal energy than copper.",
+        "It is easier to increase the temperature of copper than it is to increase the temperature of water.",
+        "Copper particles are much lighter and therefore need less energy to move at all.",
+        "Thermal energy always increases the temperature of solids more than liquids."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why do different substances, such as iron and water, require different amounts of heating to raise their temperatures by the same amount?",
+      "options": [
+        "Because the mass of their individual particles and the strengths of the attractive forces between them are different.",
+        "Because solids have no spaces between their particles, whereas liquids have large empty gaps.",
+        "Because some substances contain particles that can be easily destroyed by heating.",
+        "Because the temperature of water is naturally fixed, whereas metals can have any temperature."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "You have two insulated containers: one has 1 kg of water at 80 °C, and the other has 1 kg of iron at 80 °C. If each is used to heat up a separate, identical block of ice, why does the water melt significantly more ice than the iron does?",
+      "options": [
+        "Water is a liquid and can flow around the ice to transfer heat, whereas the solid iron cannot.",
+        "The same mass of water and iron at the same temperature can cause different amounts of heating.",
+        "Iron particles have a higher starting speed than water particles at the same temperature.",
+        "Water contains more mass than iron when they are at the same temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Substance X has a specific heat capacity of 4,200 J/kg°C, and Substance Y has a specific heat capacity of 800 J/kg°C. If you have 1 kg of each substance at 50 °C, which statement is true?",
+      "options": [
+        "Substance Y contains more energy in its thermal store because its particles are more tightly bound.",
+        "Substance X contains more energy in its thermal store than Substance Y at this temperature.",
+        "Both substances contain the exact same amount of thermal energy because they are at the same temperature.",
+        "Substance Y will take longer to cool down to room temperature than Substance X."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following statements accurately describes the direction of movement of particles in different states of matter?",
+      "options": [
+        "Particles in solids move randomly, but particles in liquids and gases follow predictable, structured paths.",
+        "Particles in gases move randomly, but particles in solids and liquids do not move in random directions.",
+        "The directions in which particles move or vibrate are random in solids, liquids, and gases.",
+        "Particles only move randomly when a substance is heated above its boiling point."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "As the temperature of a substance increases, what change occurs to the movement of its particles?",
+      "options": [
+        "The particles in a solid vibrate faster, while particles in a liquid or gas move past each other more quickly.",
+        "The particles in a solid stop vibrating, while particles in a liquid begin to move in straight, fixed lines.",
+        "The particles in a liquid slow down to prevent the substance from expanding too quickly.",
+        "Only gas particles speed up; solid and liquid particles maintain a constant speed but change their direction."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "You have two identical copper blocks, Block A and Block B, with the same mass. Block A is at 90 °C, and Block B is at 30 °C. How do their energy stores compare?",
+      "options": [
+        "Block B has more energy in its thermal store because cooler particles can pack more tightly together.",
+        "Both blocks contain the exact same amount of energy because they are made of the exact same material and have the same mass.",
+        "Block A has more energy because, for two identical objects, the one at a higher temperature has more energy.",
+        "Block A has less energy because heating a substance causes its particles to escape, reducing its stored energy."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Container A contains 100 ml of water at 60 °C, and Container B contains 500 ml of water at 60 °C. Which container's water has more energy in its thermal store, and why?",
+      "options": [
+        "Container A, because the thermal energy is more concentrated in a smaller volume of water.",
+        "Container B, because it has more particles of the same substance at the exact same temperature.",
+        "Both have the same thermal energy because their temperatures are identical.",
+        "Container B, because the water particles in larger volumes move much faster than in smaller volumes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "To obtain an accurate temperature reading using a traditional liquid-in-glass thermometer, how should a student position themselves?",
+      "options": [
+        "Look down at the thermometer from a high angle to see the curved surface of the liquid clearly.",
+        "Look up from below the thermometer scale to ensure the lowest numbers are visible.",
+        "Ensure their eye is perfectly level with the top of the coloured liquid column.",
+        "Hold the thermometer at arm's length and tilt it slightly to catch the light."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A student mixes 100 ml of water at 80 °C with 100 ml of water at 20 °C. What can be predicted about the final temperature of the mixture?",
+      "options": [
+        "The final temperature will be exactly 100 °C as the temperatures of the two liquids add together.",
+        "The final temperature will be cooler than 20 °C because mixing disrupts the kinetic energy of the particles.",
+        "The final temperature will be cooler than 80 °C but warmer than 20 °C.",
+        "The final temperature will remain at 80 °C because the hot water particles dominate the mixture."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "If you mix 500 ml of water at 90 °C with 100 ml of water at 20 °C, what will be true about the final temperature of the mixture?",
+      "options": [
+        "The final temperature will be exactly halfway between 90 °C and 20 °C.",
+        "The final temperature will be closer to 90 °C because there was more of the hot water.",
+        "The final temperature will be closer to 20 °C because cold water is denser and absorbs heat faster.",
+        "The final temperature will exceed 90 °C because of the rapid collision of particles during mixing."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A cold metal spoon at 5 °C is placed into a bowl of hot soup at 75 °C. What happens to the movement of the particles in both substances?",
+      "options": [
+        "The soup particles speed up, and the spoon particles slow down.",
+        "The soup particles slow down, and the spoon particles speed up.",
+        "The particles in both the soup and the spoon speed up as they collide.",
+        "The particles in both the soup and the spoon slow down to reach equilibrium."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why does the temperature along a metal rod increase so quickly when one end of it is held in a flame?",
+      "options": [
+        "The heat melts the metal particles, allowing them to flow rapidly to the cold end.",
+        "The hot air from the flame travels through hollow channels inside the metal rod.",
+        "The vibrating particles at the hot end quickly cause the particles near to them to vibrate as well.",
+        "The metal particles at the hot end swap places with the cold particles at the other end."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Double-glazed windows consist of two panes of glass separated by a layer of trapped air. Why does this design make the window a good thermal insulator?",
+      "options": [
+        "Gases are very poor thermal conductors, and trapping the air prevents it from transferring heat easily.",
+        "The trapped air layer absorbs all the cold particles before they can reach the inner pane.",
+        "Glass is a highly effective thermal conductor, so the air is only there to keep the glass panes stable.",
+        "The air layer allows thermal energy to radiate back outside at a much faster rate."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "Why is a thick thermal sleeve useful both for keeping a hot coffee mug warm and for keeping a cold can of soda cold?",
+      "options": [
+        "The sleeve generates its own heat for the coffee and absorbs coldness from the soda can.",
+        "The sleeve acts as an insulator, slowing down the transfer of thermal energy both into the cold soda and out of the hot coffee.",
+        "The sleeve increases the surface area, which allows the ambient room temperature to stabilize the drinks.",
+        "The sleeve prevents particles from evaporating from the surface of both containers."
+      ],
+      "correctAnswerIndex": 1,
       "learningPointIndex": 34
     }
   ]
