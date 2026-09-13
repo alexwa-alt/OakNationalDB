@@ -1,6 +1,6 @@
 {
   "unitKey": "11Heating and coolingPhysics",
-  "generatedAt": "2026-09-12T12:15:26.346259+00:00",
+  "generatedAt": "2026-09-13T13:22:23.506718+00:00",
   "questions": [
     {
       "question": "A metal spoon, a wooden block, and a woollen glove are placed on a table in a sealed room maintained at exactly 20 °C. After 48 hours, a student measures the temperature of each object using a contact thermometer. What will the thermometer readings show?",
@@ -661,6 +661,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 34
+    },
+    {
+      "question": "A metal spoon, a wooden block, and a plastic cup are left on a table in a room kept at 20 ºC for 24 hours. If we measure their temperatures, what will we find?",
+      "options": [
+        "The metal spoon will be the coldest because metals naturally feel colder than wood and plastic.",
+        "The metal spoon, wooden block, and plastic cup will all have a temperature of exactly 20 ºC.",
+        "The plastic cup will have the highest temperature because plastic is a good thermal insulator.",
+        "The temperatures will still depend on the material, with the wooden block having the intermediate temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A copper rod is heated at one end. Which of the following best describes what happens to the particles at the heated end of this solid?",
+      "options": [
+        "The particles start moving freely from one end of the copper rod to the other.",
+        "The particles stop moving entirely as they absorb the thermal energy.",
+        "The particles begin to vibrate more quickly in their fixed positions.",
+        "The particles expand in size, causing them to squeeze closer together."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A beaker of water is heated on a Bunsen burner. What happens to the water particles as the temperature of the liquid increases?",
+      "options": [
+        "They begin to vibrate in fixed positions and can no longer slide past each other.",
+        "They move around more quickly, increasing their average speed.",
+        "They break down into hydrogen and oxygen gas particles instantly.",
+        "They stay at the same speed but get much heavier."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "When a solid brass ball is heated, it can no longer pass through a metal ring that it easily slid through when cold. Why does the separation of the particles change to cause this?",
+      "options": [
+        "The particles themselves expand and grow larger, reducing the gaps between them.",
+        "The particles vibrate more vigorously, causing their average separation to increase.",
+        "The particles lose energy, which makes them repel each other and pack tighter.",
+        "The particles escape the solid and form a gas layer around the ball, increasing its volume."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "An engineer leaves small gaps between rails on a railway track. Which physical phenomenon of solids is this design intended to safely accommodate during hot summer days?",
+      "options": [
+        "The contraction of the rails when they absorb thermal energy.",
+        "The expansion of the rails as heating causes them to take up more space.",
+        "The melting of the rails into a liquid state due to solar radiation.",
+        "The sudden increase in the mass of the rails as they get hotter."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A hot cup of tea is left on a desk. As it cools down, energy is transferred from the tea to the surrounding air. What happens to the movement of the particles in the tea during this process?",
+      "options": [
+        "They begin to move less quickly as they transfer energy to the air particles.",
+        "They stop moving entirely once the tea's temperature falls below 50 ºC.",
+        "They begin to move more quickly because they are losing mass.",
+        "They maintain the exact same speed, but the air particles slow down."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Two identical cups of coffee are made. Cup A is at 90 ºC, and Cup B is at 50 ºC. Both are placed in a room where the air temperature is 20 ºC. Which cup will experience the fastest initial rate of cooling?",
+      "options": [
+        "Cup B, because it is closer to room temperature and needs less energy to cool down.",
+        "Cup A, because the greater temperature difference between it and the air causes it to cool down faster.",
+        "Both will cool down at the exact same rate because they contain the same volume of liquid.",
+        "Cup A, because hot liquids have a lower density which speeds up conduction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "You have 1 kg of water and 1 kg of copper. You want to raise the temperature of both by 10 ºC. Why does the copper reach this temperature much faster when heated with the same source?",
+      "options": [
+        "Because all substances require the exact same amount of energy, but copper conducts it faster.",
+        "Because it is easier to increase the temperature of some materials, like copper, than others, like water.",
+        "Because copper particles are much lighter and therefore cannot absorb energy.",
+        "Because water is an insulator and cannot change its temperature at all."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why do different substances have different thermal behaviors, such as requiring different amounts of energy to raise their temperature?",
+      "options": [
+        "Because some substances do not contain particles and are completely continuous.",
+        "Because the mass of particles and the attractive forces between particles are different in different substances.",
+        "Because some substances have particles that are completely stationary even at high temperatures.",
+        "Because the particles in metals are always twice as large as the particles in non-metals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Two different blocks, one made of iron and one made of aluminium, have the same mass. To raise both blocks from 20 ºC to 50 ºC, what is true about the heating required?",
+      "options": [
+        "They need the exact same amount of heating because they have the same mass and starting temperature.",
+        "Different substances need different amounts of heating to reach the same temperature.",
+        "The aluminium block will not require any heating because it is a lightweight metal.",
+        "Only the iron block will require heating because metals with higher density heat up automatically."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Two identical insulated containers hold equal masses of different liquids at 80 ºC: Container X has water and Container Y has oil. If you use each to heat up identical cold metal blocks, the block placed in Container X reaches a higher temperature. Why?",
+      "options": [
+        "Because the same amount of different materials at the same temperature can cause different amounts of heating.",
+        "Because water particles are larger than oil particles and physically push heat into the block.",
+        "Because oil is a thermal conductor and retains all its heat, preventing transfer.",
+        "Because water always cools down faster than oil regardless of the temperature difference."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Substance A has a higher specific heat capacity than Substance B. If you have 1 kg of each substance at the same temperature, what does this tell you about their thermal stores?",
+      "options": [
+        "Substance B has more energy in its thermal store because its particles are heavier.",
+        "Substance A has more energy in its thermal store because a higher specific heat capacity means 1 kg of a substance has more energy at a given temperature.",
+        "Both substances have the exact same amount of energy in their thermal stores because their temperatures and masses are equal.",
+        "Neither substance has any energy in its thermal store because they are below boiling point."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Compare a solid iron block at 100 ºC and an identical solid iron block at 20 ºC. How does the behavior of the particles in the hotter block compare to the colder one?",
+      "options": [
+        "The particles in the 100 ºC block vibrate faster than the particles in the 20 ºC block.",
+        "The particles in the 100 ºC block move freely around the block, whereas in the 20 ºC block they are fixed.",
+        "The particles in the 100 ºC block are larger and heavier than those in the 20 ºC block.",
+        "The particles in both blocks vibrate at the exact same speed, but the hotter block has more particles."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "You have two identical copper spheres. Sphere A is at a temperature of 80 ºC, and Sphere B is at a temperature of 30 ºC. Which sphere has more energy in its thermal store, and why?",
+      "options": [
+        "Sphere B, because cooler objects store energy more efficiently.",
+        "Sphere A, because for two identical objects, the one at a higher temperature has more energy.",
+        "They have the same amount of energy because they are made of the same substance and have the same mass.",
+        "Neither sphere has any energy because they are both solids."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Two blocks of copper are both at a temperature of 25 ºC. Block X has a mass of 2 kg, while Block Y has a mass of 0.5 kg. Which block has more energy in its thermal store?",
+      "options": [
+        "Block Y, because its smaller mass allows the particles to vibrate with less resistance.",
+        "Block X, because for two objects made of the same substance at the same temperature, the one with more particles has more energy.",
+        "Both blocks have the same energy because their temperatures are identical.",
+        "Neither block has any thermal energy because 25 ºC is close to room temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "When measuring the temperature of a liquid using a glass thermometer, how must you position yourself to get an accurate reading?",
+      "options": [
+        "You must look down at the thermometer from above to see the depth of the liquid.",
+        "Your eye needs to be level with the top of the coloured liquid in the glass tube.",
+        "You must hold the thermometer at arm's length and tilt it at a 45-degree angle.",
+        "You must read the scale from below the level of the liquid to account for reflection."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A student mixes 400 ml of hot water at 80 ºC with 100 ml of cold water at 20 ºC. What can be predicted about the final temperature of the mixture?",
+      "options": [
+        "The final temperature will be exactly 50 ºC, because it is the halfway point.",
+        "The final temperature will be closer to 80 ºC because there was more of the hot water.",
+        "The final temperature will be closer to 20 ºC because cold water is more dense and dominates the mixture.",
+        "The final temperature will be above 80 ºC due to the friction of mixing."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A cold metal spoon is placed into a hot bowl of soup. What happens to the particles of the soup and the spoon?",
+      "options": [
+        "The soup particles begin to move more slowly, and the spoon particles begin to vibrate more quickly.",
+        "The soup particles begin to move more quickly, and the spoon particles begin to vibrate more slowly.",
+        "Both the soup and spoon particles speed up as they gain energy from the surroundings.",
+        "The soup particles stop moving entirely, while the spoon particles melt."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why does a metal rod conduct heat much faster than a wooden rod when one end is placed in a flame?",
+      "options": [
+        "In the metal conductor, vibrating particles quickly cause the particles near to them to vibrate as well.",
+        "Metal contains hollow channels that allow hot air to flow quickly to the other end.",
+        "The wood particles are so tightly packed that they cannot vibrate at all.",
+        "Metal particles are magnetic and attract heat energy from the air."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Why are double-glazed windows, which contain a layer of air trapped between two panes of glass, highly effective at reducing heat loss from a house?",
+      "options": [
+        "Because air is a solid that blocks all forms of particle movement.",
+        "Because materials that contain trapped air provide good insulation, as gases are very poor thermal conductors.",
+        "Because the trapped air speeds up the convection currents to push heat back inside.",
+        "Because glass and air combine to form a vacuum which destroys thermal energy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
     }
   ]
 }

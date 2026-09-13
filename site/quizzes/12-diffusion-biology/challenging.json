@@ -1,6 +1,6 @@
 {
   "unitKey": "12DiffusionBiology",
-  "generatedAt": "2026-09-12T12:15:56.883087+00:00",
+  "generatedAt": "2026-09-13T13:24:04.138265+00:00",
   "questions": [
     {
       "question": "A scientist places a dye on top of two different solid blocks, Block A and Block B. The dye penetrates deep into Block A but remains entirely on the surface of Block B. What is the most accurate conclusion about these blocks?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 14
+    },
+    {
+      "question": "A student places a drop of blue ink onto two different solid blocks: Block A is made of waterproof plastic, and Block B is made of agar gel. The ink stays on the surface of Block A but spreads through Block B. What property must Block B have to allow this?",
+      "options": [
+        "It must be actively transporting the ink particles.",
+        "It must be impermeable to the liquid ink.",
+        "It must be permeable to the liquid ink.",
+        "It must be colder than Block A."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In a practical investigation, a jelly cube containing an indicator is placed in an acid. After some time, the outer edges of the jelly cube change colour, while the very centre remains unchanged. What does this observation show about the process of diffusion?",
+      "options": [
+        "Diffusion occurs instantly throughout the entire volume of the jelly cube.",
+        "The acid particles enter the jelly from the outside and gradually move inwards.",
+        "The jelly particles are moving out of the cube into the acid faster than the acid moves in.",
+        "The indicator prevents the acid from reaching the centre of the cube."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Two identical jelly cubes are placed into beakers of blue dye. Beaker A is kept at 5 degrees Celsius, and Beaker B is kept at 40 degrees Celsius. After 15 minutes, both cubes are cut in half. What would you expect to observe?",
+      "options": [
+        "The dye has penetrated further into the cube from Beaker B than the cube from Beaker A.",
+        "The dye has penetrated further into the cube from Beaker A than the cube from Beaker B.",
+        "The dye has penetrated to the exact same depth in both cubes.",
+        "No dye has entered either cube because temperature does not affect liquid diffusion."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Three different-sized agar jelly cubes (1 cubic centimetre, 8 cubic centimetres, and 27 cubic centimetres) containing an alkaline indicator are placed in a container of acid. After 5 minutes, which cube will have the highest percentage of its volume reached by the diffusing acid?",
+      "options": [
+        "The 27 cubic centimetre cube because it has a larger surface area to absorb the acid.",
+        "The 8 cubic centimetre cube because its intermediate size balances volume and surface area.",
+        "The 1 cubic centimetre cube because the acid has a shorter distance to travel to reach its center.",
+        "All three cubes will have the exact same percentage of their volume reached."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When the temperature of a liquid surrounding a jelly cube is increased, the liquid diffuses into the jelly faster. How can particle theory explain this observation?",
+      "options": [
+        "Higher temperatures make the jelly particles expand and block the pathways of the liquid.",
+        "Higher temperatures give the liquid particles more kinetic energy, so they move and collide faster, increasing the rate of diffusion.",
+        "Higher temperatures cause the liquid particles to stick together, making them pass through the jelly more easily.",
+        "Higher temperatures reduce the gravity acting on the liquid particles, allowing them to float into the jelly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A membrane contains microscopic pores of a specific size. If starch molecules are large polymers and glucose molecules are small simple sugars, which of the following will occur when a mixture of both is placed inside the membrane?",
+      "options": [
+        "Both starch and glucose will diffuse out through the pores easily.",
+        "Only glucose molecules will diffuse out because they are small enough to fit through the pores.",
+        "Only starch molecules will diffuse out because their larger size forces them through.",
+        "Neither molecule will diffuse out because membranes only allow water to pass."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A selectively-permeable membrane separates two solutions of oxygen. There is a higher concentration of oxygen on Side A than on Side B. Which statement correctly describes the movement of individual oxygen particles?",
+      "options": [
+        "Oxygen particles move only from Side A to Side B.",
+        "Oxygen particles move only from Side B to Side A.",
+        "Oxygen particles move in both directions across the membrane, but more move from A to B than B to A.",
+        "Oxygen particles do not move at all once a concentration difference is established."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A bag made of a selectively-permeable membrane contains a 5% glucose solution. It is placed in a beaker containing a 20% glucose solution. If glucose can pass through the membrane, what will be the direction of the net movement of glucose particles?",
+      "options": [
+        "Net movement of glucose will be out of the bag into the beaker.",
+        "Net movement of glucose will be from the beaker into the bag.",
+        "There will be no net movement because the concentrations are already in dynamic equilibrium.",
+        "Glucose will move in equal numbers in both directions, so there is no overall trend."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A piece of Visking tubing is filled with starch solution and placed into a beaker of iodine solution. Iodine particles are small enough to pass through the tubing, but starch particles are too large. What would you expect to observe after 30 minutes?",
+      "options": [
+        "The solution inside the Visking tubing turns blue-black, while the beaker remains orange-brown.",
+        "The solution in the beaker turns blue-black, while the inside of the tubing remains cloudy white.",
+        "Both the inside of the tubing and the beaker turn blue-black.",
+        "No colour change occurs anywhere because Visking tubing is completely impermeable to all substances."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "In an experiment, Visking tubing filled with a concentrated glucose solution is placed in a beaker of pure water. After 20 minutes, glucose is detected in the beaker water. How can this observation be explained?",
+      "options": [
+        "The Visking tubing broke down and dissolved in the pure water.",
+        "Glucose molecules moved by active transport from the lower concentration to the higher concentration.",
+        "Glucose molecules diffused down their concentration gradient through the tiny pores in the Visking tubing.",
+        "Water molecules pushed the glucose molecules out of the tubing through force of gravity."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "When we study diffusion in biological cells, we must remember that the cytoplasm inside the cell is not a continuous, uniform solid, but is actually:",
+      "options": [
+        "A single giant molecule that cannot be divided.",
+        "An empty space where nutrients are stored as energy waves.",
+        "Made up of many individual particles, including water and dissolved substances, that are constantly interacting.",
+        "A solid block of jelly that has no free-moving particles."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Oxygen is vital for respiration in animal cells. How does oxygen enter a cell from the surrounding blood capillaries?",
+      "options": [
+        "It is pumped through large protein channels using energy from respiration.",
+        "It diffuses through small holes in the cell membrane down a concentration gradient.",
+        "It is swallowed by the cell membrane wrapping around it in a bubble.",
+        "It cannot enter the cell directly and must be converted into carbon dioxide first."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Inside a muscle cell, there are large protein molecules and small mineral ions. Why are the large protein molecules unable to diffuse out of the cell into the tissue fluid, even if their concentration inside is very high?",
+      "options": [
+        "Protein molecules are too large to fit through the small holes in the cell membrane.",
+        "Protein molecules are repelled by the electrical charge of the cell membrane.",
+        "The cell membrane actively traps proteins using energy.",
+        "Proteins can only move through the membrane when the cell is dividing."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why is the cell membrane described as selectively-permeable?",
+      "options": [
+        "It allows all substances to pass through freely to keep the cell in balance.",
+        "It allows only certain substances to pass through while preventing others, based on factors like particle size.",
+        "It is completely impermeable, blockading the cell from its external environment.",
+        "It only permits substances to leave the cell, but never allows them to enter."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A cell has a carbon dioxide concentration of 2% inside its cytoplasm, while the surrounding fluid has a carbon dioxide concentration of 0.04%. What will be the net movement of carbon dioxide?",
+      "options": [
+        "There will be a net movement of carbon dioxide out of the cell, down the concentration gradient.",
+        "There will be a net movement of carbon dioxide into the cell, down the concentration gradient.",
+        "There will be no net movement because the membrane blocks all carbon dioxide.",
+        "Carbon dioxide will actively be pumped into the cell against the concentration gradient."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "If you could track a single perfume particle diffusing through the air in a room, what would its path look like?",
+      "options": [
+        "A straight, direct line from the bottle to the opposite wall.",
+        "A series of random, zig-zag movements caused by constant collisions with air particles.",
+        "A circular orbit around the source of the perfume.",
+        "A downward curve towards the floor due to gravity, with no horizontal movement."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Beaker A contains 10 grams of salt dissolved in 100 ml of water. Beaker B contains 10 grams of salt dissolved in 500 ml of water. How do the concentrations of salt particles in the two beakers compare?",
+      "options": [
+        "Beaker B has a higher concentration because it has more total volume.",
+        "Both beakers have the same concentration because they contain the same mass of salt.",
+        "Beaker A has a higher concentration because there are more salt particles per unit volume of water.",
+        "Neither beaker has a concentration because salt does not form particles when dissolved."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What does the phrase down a concentration gradient mean in the context of particle movement?",
+      "options": [
+        "Particles move from an area of higher concentration to an area of lower concentration.",
+        "Particles move from an area of lower concentration to an area of higher concentration.",
+        "Particles move downward towards the ground due to gravitational forces.",
+        "Particles move faster when they are in a highly concentrated solution."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which of the following is a key feature of diffusion?",
+      "options": [
+        "It is an active process that requires energy from cellular respiration.",
+        "It is a passive process that relies on the random movement of particles from higher to lower concentration.",
+        "It only occurs in solid materials when they are heated.",
+        "It requires a living cell membrane to take place and cannot occur in non-living systems."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A scientist treats a cell with a chemical that makes its cell membrane completely permeable to all substances. What is the most likely consequence for the cell?",
+      "options": [
+        "The cell will function better because it can import nutrients much faster.",
+        "The cell will lose its ability to control what enters and leaves, leading to cell damage or death.",
+        "The cell membrane will become twice as thick to protect the cell.",
+        "The cytoplasm will turn into a gas and evaporate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
     }
   ]
 }
