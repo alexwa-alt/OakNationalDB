@@ -1,6 +1,6 @@
 {
   "unitKey": "13Climate change and living sustainablyBiologyChemistryPhysics",
-  "generatedAt": "2026-08-12T06:16:29.546891+00:00",
+  "generatedAt": "2026-09-13T13:25:50.446508+00:00",
   "questions": [
     {
       "question": "Which of the following observations is an example of climate rather than weather?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 29
+    },
+    {
+      "question": "A meteorologist states that a city's summers are becoming drier on average compared to records from 50 years ago. Why is this considered a statement about climate rather than weather?",
+      "options": [
+        "Weather only refers to temperature, while climate refers to rainfall levels.",
+        "It describes a long-term pattern of atmospheric conditions over decades rather than day-to-day changes.",
+        "It is based on predictions made by computer simulations rather than direct physical observations.",
+        "Weather cannot be measured over a large geographical area, whereas climate can."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How does climate change directly influence the frequency of extreme weather events such as severe droughts and intense floods?",
+      "options": [
+        "It stabilizes atmospheric circulation, concentrating rainfall only over oceans and leaving land dry.",
+        "It increases the overall energy in the climate system, leading to more intense water cycles and extreme weather patterns.",
+        "It permanently blocks wind currents, causing either continuous rain or no rain at all in fixed locations.",
+        "It depletes the Earth's atmosphere, allowing solar radiation to directly dry out lands or evaporate whole seas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why does farming livestock for human consumption typically release more greenhouse gases and use more resources than farming crops?",
+      "options": [
+        "Animals convert plant energy inefficiently, requiring vast amounts of crops, land, and water, while producing methane.",
+        "Animals consume oxygen and release carbon dioxide during respiration, which plants never do.",
+        "Crop farming does not require any land-use change, machinery, or artificial fertilizers.",
+        "Livestock absorb heat from the sun and radiate it directly into the atmosphere, causing local warming."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When assessing the carbon footprint of imported canned tomatoes, which of the following combinations of stages must be analyzed to get an accurate total footprint?",
+      "options": [
+        "Only the transport from the farm to the retail store and the canning process.",
+        "Only the emissions from the soil during farming and the final decomposition of the can.",
+        "Land-use changes, farming practices, canning, transport, supermarket storage, and packaging.",
+        "The energy used by the consumer to cook the tomatoes and the manufacturing of the cooking stove."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A school kitchen wants to lower its carbon footprint by swapping ingredients. Why does replacing beef with a plant-based protein source like lentils significantly reduce greenhouse gas emissions?",
+      "options": [
+        "Lentils do not require water or soil nutrients to grow, unlike livestock.",
+        "Plants absorb more carbon dioxide during transport than they release during growth and harvesting.",
+        "Livestock farming requires multiple stages of energy loss and releases potent greenhouse gases like methane during digestion.",
+        "Lentils have a unique cellular structure that absorbs and traps greenhouse gases when stored in a pantry."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following actions provides the most direct and sustainable reduction in greenhouse gas emissions related to our food system?",
+      "options": [
+        "Buying more food than needed to ensure local supermarkets remain fully stocked.",
+        "Planning meals to minimize food waste and incorporating more plant-based meals into our diet.",
+        "Shipping all organic food waste to distant countries to keep local landfills empty.",
+        "Replacing tap water with bottled water produced using carbon-neutral energy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Scientists have plotted global average temperature and atmospheric carbon dioxide levels over the last 150 years. What does the relationship between these two datasets show?",
+      "options": [
+        "An inverse correlation, where temperatures decrease as carbon dioxide levels rise.",
+        "A strong correlation, indicating that temperature increases mirror the rise in greenhouse gas emissions.",
+        "No mathematical relationship, showing that temperature changes are entirely independent of gas levels.",
+        "A temporary correlation that only exists during summer months in the Northern Hemisphere."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Two identical houses are heated to 20°C. House A has thick loft insulation and double-glazed windows, while House B has no insulation and single-glazed windows. How does insulation affect the energy needed to maintain this temperature?",
+      "options": [
+        "House A requires less energy because insulation blocks cold air from physically entering the house.",
+        "House A requires less energy because the insulators reduce the rate of heat transfer to the cold outside.",
+        "House B requires less energy because heat escape routes allow fresh, warm solar radiation to enter.",
+        "Both houses require the same energy because insulation only delays cooling once the heating is turned off."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A community aims to heat all its homes using only low-capacity wind turbines and solar panels. Why is improving wall and roof insulation a crucial first step to achieving this?",
+      "options": [
+        "Insulation physically generates extra heat energy when exposed to renewable electricity.",
+        "It reduces the rate of heat loss, allowing smaller, renewable heating systems to maintain a stable temperature.",
+        "Insulating materials convert solar radiation directly into electrical energy inside the walls.",
+        "It prevents renewable electricity from escaping through the windows and walls of the house."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "On a freezing winter day (-5°C), a heater in a 20°C room is switched off. On a mild spring day (15°C), the same heater is switched off in the same room. How does the rate of cooling compare?",
+      "options": [
+        "The room cools down faster on the winter day because the larger temperature difference increases the rate of heat transfer.",
+        "The room cools down faster on the spring day because mild air absorbs heat more rapidly than freezing air.",
+        "The room cools down at the same rate on both days because the internal temperature of the room starts at 20°C.",
+        "The room cools down slower on the winter day because the extreme cold compresses the air, trapping heat inside."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How does planting deciduous trees and shrubs close to the south-facing walls of a house help manage its temperature throughout the year?",
+      "options": [
+        "They block wind in summer to keep the house warm, and drop leaves in winter to let cold air circulate.",
+        "They transpire water to cool the surroundings in hot weather, and provide wind shelter to reduce heat loss in cold weather.",
+        "They act as electrical conductors, absorbing lightning heat in summer and releasing it into the house in winter.",
+        "They absorb all infrared radiation in winter while reflecting solar heat back into the house during summer."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why is wind energy classified as a renewable resource, whereas coal is classified as non-renewable?",
+      "options": [
+        "Wind is replenished by natural processes faster than it is consumed, while coal takes millions of years to form.",
+        "Wind can be stored indefinitely in batteries, while coal immediately disappears once mined.",
+        "Wind energy does not release any carbon dioxide when harvested, whereas coal does.",
+        "Wind is a synthetic resource created by human technology, while coal is a natural product."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Under what conditions can wood harvested from a forest be classified as a renewable energy resource?",
+      "options": [
+        "Only if the wood is treated with chemical preservatives so that it burns at a much lower temperature.",
+        "Only if new trees are planted and grown at least as fast as the mature trees are harvested.",
+        "Only if the wood is harvested from ancient, undisturbed rainforests that have never been managed.",
+        "Wood is always renewable regardless of how it is managed because trees can always grow back eventually."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why can we not have a sustainable transport system that relies on petrol or diesel buses and cars?",
+      "options": [
+        "Petrol and diesel are highly volatile liquids that evaporate too quickly to be transported safely over long distances.",
+        "These fuels are non-renewable resources that release greenhouse gases, contributing to long-term climate damage.",
+        "Combustion engines are too quiet to prevent pedestrian accidents in modern sustainable cities.",
+        "Petrol and diesel engines cannot operate in extreme weather conditions caused by climate change."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "How can altering the design of a new building, such as orienting large windows to face south and using high-thermal-mass materials, make it more sustainable?",
+      "options": [
+        "It allows the building to actively produce fossil fuels from solar energy.",
+        "It uses natural solar heating to reduce the building's reliance on external energy sources for heating.",
+        "It prevents the building from ever experiencing any temperature differences compared to the outside.",
+        "It increases the building's total weight, making it highly resistant to extreme floods."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What would happen to the average temperature of the Earth if the natural greenhouse effect did not exist?",
+      "options": [
+        "It would rise dramatically because solar radiation would hit the surface without any atmospheric filtration.",
+        "It would drop significantly, making the Earth too cold to support most forms of life.",
+        "It would remain exactly the same, but weather events would become completely unpredictable.",
+        "It would fluctuate wildly between 100°C during the day and -100°C at night due to the lack of wind."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "How do greenhouse gases in the Earth's atmosphere maintain the natural greenhouse effect?",
+      "options": [
+        "They absorb incoming high-energy ultraviolet radiation from the sun and reflect it back into space.",
+        "They absorb outgoing infrared radiation emitted from the Earth's surface and re-radiate it in all directions.",
+        "They physically block cold winds from the upper atmosphere from descending to the Earth's surface.",
+        "They react chemically with oxygen to produce heat energy directly within the troposphere."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "How are human activities, such as burning fossil fuels and deforestation, altering the greenhouse effect?",
+      "options": [
+        "They are creating a completely new layer of the atmosphere that blocks all sunlight from reaching the ground.",
+        "They are increasing the concentration of greenhouse gases, trapping more outgoing infrared radiation and warming the planet.",
+        "They are destroying greenhouse gases, causing the atmosphere to thin and heat to escape more easily.",
+        "They are cooling the upper atmosphere, which forces the lower atmosphere to expand and heat up."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "How does sending household waste to landfills and incinerators contribute to global warming?",
+      "options": [
+        "It releases greenhouse gases like methane from decaying organic waste in landfills and carbon dioxide from burning waste in incinerators.",
+        "It prevents the Earth's crust from absorbing excess heat from the atmosphere by covering the ground with waste.",
+        "It creates physical barriers that block cool ocean breezes from reaching urban areas.",
+        "It decreases the atmospheric pressure, causing the air to retain more thermal energy."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Why does the sustainable use of resources, such as freshwater and timber, require us to limit our current consumption rates?",
+      "options": [
+        "Because resources naturally degrade and disappear if they are not actively harvested by humans.",
+        "To ensure that these resources can naturally replenish and remain available for future generations.",
+        "To encourage the rapid development of synthetic, non-biodegradable alternatives.",
+        "Because limiting consumption forces the Earth to produce these resources at a faster rate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
     }
   ]
 }

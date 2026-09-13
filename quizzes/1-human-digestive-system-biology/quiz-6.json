@@ -1,0 +1,226 @@
+{
+  "unitKey": "1Human digestive systemBiology",
+  "generatedAt": "2026-09-13T13:26:08.999820+00:00",
+  "questions": [
+    {
+      "question": "Why must large food molecules like proteins and carbohydrates be digested in the human body?",
+      "options": [
+        "To turn them into vitamins",
+        "To break them down into smaller molecules that can be absorbed",
+        "To make them taste better",
+        "To convert them directly into carbon dioxide gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Once nutrients are absorbed from our food, how do they reach the cells in our body where they are needed?",
+      "options": [
+        "They are carried by the nervous system",
+        "They are pumped through the lymphatic system only",
+        "They are transported by the blood around the body",
+        "They float through air pockets in the muscles"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How do some very small nutrient molecules move from the digestive system into the blood?",
+      "options": [
+        "By the process of diffusion",
+        "By being squeezed through tiny valves",
+        "By active evaporation",
+        "By dissolving into the bones first"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of these features of the small intestine lining helps to increase the amount of absorption?",
+      "options": [
+        "A smooth, thick layer of protective wax",
+        "A large surface area provided by many tiny folds and villi",
+        "A very cold temperature to slow down movement",
+        "A hard, muscular shell that grinds food"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is a bacterium, such as those found in our digestive system?",
+      "options": [
+        "A multi-cellular animal with a simple heart",
+        "A tiny plant that uses sunlight to make food",
+        "A microscopic organism consisting of a single living cell",
+        "A non-living chemical crystal"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which statement is true about all the bacteria found in the world?",
+      "options": [
+        "All bacteria cause harmful diseases and must be destroyed",
+        "Some bacteria cause disease, but many are harmless and some are helpful",
+        "Bacteria only exist inside the human stomach and nowhere else",
+        "Bacteria are all helpful and none can cause diseases"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Where in the human body do helpful bacteria naturally live to assist with our digestive health?",
+      "options": [
+        "Inside the windpipe",
+        "Inside the human digestive system",
+        "Directly inside the red blood cells",
+        "On the surface of the teeth only"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How do helpful bacteria inside our digestive system assist in digesting foods like certain plant fibres?",
+      "options": [
+        "They release enzymes that digest food we cannot digest ourselves",
+        "They heat up the stomach using chemical energy",
+        "They physically chew the food with microscopic teeth",
+        "They acidify the food until it melts into gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How do helpful gut bacteria protect us from harmful pathogens that enter our digestive system?",
+      "options": [
+        "They produce white blood cells to attack them",
+        "They compete against the pathogens for resources and space",
+        "They build physical walls around the pathogens",
+        "They absorb the pathogens into their own cells"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What is the main difference between mechanical and chemical digestion?",
+      "options": [
+        "Mechanical digestion uses enzymes, while chemical digestion only uses water",
+        "Mechanical digestion physically breaks food into smaller pieces, while chemical digestion uses chemicals to break chemical bonds",
+        "Mechanical digestion only happens in the liver, while chemical digestion happens in the mouth",
+        "Mechanical digestion produces new nutrients, while chemical digestion only moves food"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which three main groups of nutrients make up the bulk of the food we eat?",
+      "options": [
+        "Vitamins, minerals, and water",
+        "Carbohydrates, proteins, and fats",
+        "Sugars, starch, and fibre only",
+        "Calcium, iron, and sodium"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What role do enzymes play in the chemical digestion of our food?",
+      "options": [
+        "They slow down digestion so the body can absorb nutrients gradually",
+        "They act as biological catalysts to speed up the chemical breakdown of nutrients",
+        "They physically crush the food in the stomach",
+        "They act as hormones that control our appetite"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When enzymes digest proteins, what smaller molecules are they broken down into?",
+      "options": [
+        "Fatty acids and glycerol",
+        "Starch and simple sugars",
+        "Amino acids",
+        "Carbon dioxide and water"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "If you want to test a food sample to see if it contains starch, which chemical reagent should you add?",
+      "options": [
+        "Biuret solution",
+        "Ethanol",
+        "Iodine solution",
+        "Benedict's solution"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which reagent is used to test for the presence of simple sugars, which are produced when starch is broken down?",
+      "options": [
+        "Benedict's solution",
+        "Iodine solution",
+        "Biuret solution",
+        "Hydrochloric acid"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A student adds Biuret reagent to a food sample, and the solution turns from blue to purple. What does this result indicate?",
+      "options": [
+        "The food contains a high amount of starch",
+        "The food contains protein",
+        "The food is rich in simple sugars",
+        "The food contains fats only"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which of the following shows the correct order in which food moves through the organs of the digestive system?",
+      "options": [
+        "Mouth -> Stomach -> Small Intestine -> Large Intestine",
+        "Mouth -> Large Intestine -> Stomach -> Small Intestine",
+        "Stomach -> Mouth -> Small Intestine -> Large Intestine",
+        "Mouth -> Esophagus -> Large Intestine -> Small Intestine"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How is the stomach adapted to help break down food during digestion?",
+      "options": [
+        "It has a highly alkaline environment to dissolve fats",
+        "It has muscular walls to churn food and produces acid and enzymes",
+        "It is extremely dry to absorb water quickly",
+        "It is lined with tiny hairs that filter out large food particles"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What happens to the food material that cannot be digested or absorbed by the body?",
+      "options": [
+        "It is turned into urine in the kidneys",
+        "It is passed out of the body as faeces",
+        "It is breathed out through the lungs as carbon dioxide",
+        "It is stored forever in the liver"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why does the presence of villi in the small intestine speed up the absorption of nutrients?",
+      "options": [
+        "Villi make the small intestine wider so more food can fit",
+        "Villi greatly increase the surface area available for absorption",
+        "Villi cool down the food so it dissolves faster",
+        "Villi produce mucus that traps the nutrients"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    }
+  ]
+}
