@@ -1,6 +1,6 @@
 {
   "unitKey": "13Climate change and living sustainablyBiologyChemistryPhysics",
-  "generatedAt": "2026-09-13T13:25:50.446508+00:00",
+  "generatedAt": "2026-09-15T13:42:45.902785+00:00",
   "questions": [
     {
       "question": "Which of the following observations is an example of climate rather than weather?",
@@ -440,6 +440,226 @@
         "Because limiting consumption forces the Earth to produce these resources at a faster rate."
       ],
       "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "A scientist notes that a specific city experienced an unusually cold week in July, but its average July temperature over the past 30 years has steadily increased. How does this relate to weather and climate?",
+      "options": [
+        "The cold week is a weather event, whereas the 30-year warming trend represents a change in climate.",
+        "The cold week represents a local climate shift, while the 30-year trend is merely a series of weather patterns.",
+        "Both the cold week and the 30-year trend are defined as climate because they describe temperature changes.",
+        "The cold week disproves the 30-year climate trend because climate is defined by the most recent data point."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If global temperatures continue to rise, how is the occurrence of extreme weather events like droughts, storms, and floods expected to change according to climate models?",
+      "options": [
+        "They will become more frequent.",
+        "They will become less frequent but much more intense.",
+        "Their frequency will remain unchanged, but they will happen in different seasons.",
+        "Floods will increase in frequency, but droughts will decrease in frequency."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "When assessing the total carbon footprint of a loaf of bread, which stages of its lifecycle must be evaluated?",
+      "options": [
+        "Farming, processing, transport, retail, and packaging, as well as any land-use changes.",
+        "Only the farming and transport stages, as retail and packaging do not release greenhouse gases.",
+        "Only the baking process and the delivery to the supermarket.",
+        "Land-use changes and farming only, because plant growth absorbs carbon dioxide to offset later stages."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why do meat-based foods generally have a significantly larger carbon footprint than plant-based foods?",
+      "options": [
+        "Animals require large amounts of land and feed, and some produce methane, leading to higher emissions per gram of protein.",
+        "Plants do not release any greenhouse gases during their farming, harvesting, or processing stages.",
+        "Meat products require much longer transport distances to reach consumers than plant-based products.",
+        "Plant-based foods absorb more carbon dioxide during packaging and retail than meat products."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How does reducing household food waste directly contribute to lowering global greenhouse gas emissions?",
+      "options": [
+        "It decreases the demand for food production and reduces the amount of decomposing organic waste in landfills.",
+        "It increases the rate at which plants absorb carbon dioxide from the atmosphere.",
+        "It prevents oxygen from being converted into carbon dioxide inside home kitchens.",
+        "It reduces the energy required by household refrigerators to store fresh food."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What does the historical temperature data from the last century show about the Earth's average surface temperature?",
+      "options": [
+        "An unusually rapid and significant increase compared to historical trends.",
+        "A steady, slow decrease followed by a sudden drop in temperature.",
+        "A completely stable temperature with minor seasonal fluctuations.",
+        "A cyclical pattern of warming and cooling that matches the previous ten thousand years exactly."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "When scientists plot global temperature data and greenhouse gas emissions data over the last 150 years on the same graph, what key relationship is observed?",
+      "options": [
+        "A strong correlation, where both temperature and greenhouse gas emissions show a matching upward trend.",
+        "An inverse relationship, where rising temperatures correspond to a drop in greenhouse gas emissions.",
+        "No correlation, as temperature fluctuates randomly while emissions rise steadily.",
+        "A delayed relationship, where temperature increases precede greenhouse gas rises by several decades."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the consensus among the vast majority of climate scientists regarding global warming?",
+      "options": [
+        "Emissions from human activities are increasing the greenhouse effect, which is causing global warming.",
+        "Global warming is entirely caused by natural solar cycles, and human emissions have no measurable impact.",
+        "While global warming is happening, there is no agreement on whether greenhouse gases are involved.",
+        "Global warming is a temporary local phenomenon that will naturally resolve within the next decade."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A family wants to reduce the energy needed to heat their home during winter. How does installing thick loft insulation achieve this?",
+      "options": [
+        "It is a good thermal insulator that slows down the rate of heat transfer out of the house.",
+        "It generates its own thermal energy to keep the air inside the house warm.",
+        "It traps cold air inside the loft so it cannot enter the living spaces below.",
+        "It reflects solar radiation back into the rooms to increase the temperature."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Why does improving a building's thermal insulation make it much easier to transition to heating it using only renewable resources?",
+      "options": [
+        "It reduces the total heating energy demand, meaning smaller, renewable heating systems can meet the building's needs.",
+        "It chemically converts renewable electricity into thermal energy more efficiently.",
+        "Well-insulated buildings generate their own wind and solar power internally.",
+        "Insulation prevents renewable energy from escaping, whereas non-renewable heat cannot be trapped."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A house has its heating turned off on a very cold winter night (-5°C outside) and on a mild autumn night (12°C outside). If the indoor temperature starts at 21°C in both cases, when will the house cool down most rapidly?",
+      "options": [
+        "On the winter night, because the larger temperature difference between inside and outside increases the rate of heat transfer.",
+        "On the autumn night, because milder outside air allows heat to escape more freely.",
+        "At the exact same rate on both nights, because the indoor starting temperature is identical.",
+        "On the winter night, but only if the outdoor air pressure is higher than the indoor pressure."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How does planting deciduous trees and shrubs close to a house affect the local temperature surrounding the building across different seasons?",
+      "options": [
+        "It increases the outside temperature on cold days by blocking wind, and decreases it on hot days through shade and transpiration.",
+        "It keeps the outside temperature permanently higher throughout both summer and winter.",
+        "It lowers the outside temperature during the winter and raises it during the summer.",
+        "It has no effect on the outside temperature, but it chemically filters the warmth of the air entering the windows."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why are energy sources like wind and solar classified as renewable resources, whereas coal and oil are not?",
+      "options": [
+        "Wind and solar are replenished faster than they are used up, while coal and oil take millions of years to form.",
+        "Wind and solar do not release any thermal energy when they are used to generate electricity.",
+        "Coal and oil are synthetic materials, whereas wind and solar are naturally occurring elements.",
+        "Renewable resources can be stored indefinitely without any loss of energy over time."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Under what condition can wood harvested from forests be classified as a renewable resource?",
+      "options": [
+        "Only if new trees are planted and grown at least as fast as the timber is harvested and used.",
+        "As long as the wood is burned for heating rather than being used to build furniture.",
+        "Only if the trees are grown in tropical rainforests where the climate is constantly warm.",
+        "Because wood is organic, it is always automatically renewable regardless of how fast we harvest it."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why is it impossible to have a truly sustainable transport system if the vehicles rely on petrol or diesel fuel?",
+      "options": [
+        "Burning petrol and diesel releases greenhouse gases and uses up finite, non-renewable fossil fuels.",
+        "Petrol and diesel engines are legally prohibited from using any energy-saving technologies.",
+        "Fossil fuels cannot be transported safely without causing major oil spills every year.",
+        "Vehicles using liquid fuels require twice as much friction to move along roads as electric vehicles."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What would happen to the temperature of the Earth's surface if there were no natural greenhouse effect in the atmosphere?",
+      "options": [
+        "It would drop to a level far too cold to support most forms of life.",
+        "It would rise continuously because solar radiation would hit the surface directly without being reflected.",
+        "It would remain exactly the same, but day and night temperatures would become identical.",
+        "It would fluctuate wildly between extremely hot days and absolute zero nights, averaging out to room temperature."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "How do human activities, such as burning fossil fuels and deforestation, affect the Earth's greenhouse effect?",
+      "options": [
+        "They increase the concentration of greenhouse gases in the atmosphere, strengthening the greenhouse effect and trapping more heat.",
+        "They create a secondary, artificial greenhouse layer that blocks solar energy from reaching the planet.",
+        "They destroy the natural greenhouse gases, causing the atmosphere to thin out and let in harmful cosmic rays.",
+        "They speed up the escape of thermal radiation into space, causing unpredictable local cooling."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Why does sending household waste to landfills and incinerators contribute to climate change?",
+      "options": [
+        "Landfills release methane during anaerobic decomposition, and incinerators release carbon dioxide when burning waste.",
+        "Landfills absorb solar radiation, heating the crust, while incinerators deplete the ozone layer directly.",
+        "Both methods destroy organic matter that would otherwise absorb carbon dioxide from the air.",
+        "Landfills and incinerators alter the Earth's gravitational pull, changing how the atmosphere retains heat."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "When applying the waste hierarchy (reduce, reuse, recycle), why is 'reducing' consumption considered the most effective way to minimise waste and emissions?",
+      "options": [
+        "It avoids the energy use, resource extraction, and emissions associated with manufacturing new products entirely.",
+        "It allows materials to be melted down and reformed without using any thermal energy.",
+        "It guarantees that all products purchased will biodegrade within a few days of disposal.",
+        "It shifts the responsibility of waste management entirely onto the natural environment."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "What is the primary long-term goal of the sustainable use of natural resources?",
+      "options": [
+        "To ensure that resources remain available in sufficient quantities for future generations to meet their needs.",
+        "To completely stop the use of all natural materials and replace them with synthetic alternatives.",
+        "To maximize the short-term economic profit from harvesting resources before they naturally disappear.",
+        "To keep resources locked away in nature without ever harvesting them for human use."
+      ],
+      "correctAnswerIndex": 0,
       "learningPointIndex": 31
     }
   ]
