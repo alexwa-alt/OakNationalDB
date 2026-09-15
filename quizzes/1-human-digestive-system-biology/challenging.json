@@ -1,6 +1,6 @@
 {
   "unitKey": "1Human digestive systemBiology",
-  "generatedAt": "2026-08-12T06:16:31.174088+00:00",
+  "generatedAt": "2026-09-15T13:43:17.485277+00:00",
   "questions": [
     {
       "question": "Why must large molecules like proteins and fats be broken down during digestion?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 15
+    },
+    {
+      "question": "Why is the chemical breakdown of large food molecules like proteins and fats necessary before they can be used by the body?",
+      "options": [
+        "Large molecules cannot physically pass through the semi-permeable membranes of the digestive tract into the bloodstream.",
+        "Large molecules would react chemically with blood plasma and cause clotting.",
+        "Large molecules are too heavy for the blood to transport to the body's cells.",
+        "Large molecules must be broken down so they can be rebuilt directly into the exact same structures in the stomach."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A person absorbs glucose in their small intestine. How does this glucose reach a muscle cell in the leg to provide energy?",
+      "options": [
+        "It travels through specialized lymphatic vessels directly connecting the gut to major muscles.",
+        "It is absorbed into the blood and pumped by the heart through blood vessels to the leg cells.",
+        "It diffuses slowly through the interstitial fluids of the body from organ to organ.",
+        "It is carried by red blood cells which engulf the glucose molecules."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "During digestion, some nutrients can be absorbed into the blood by simple diffusion. Which condition must be met for this passive process to occur effectively?",
+      "options": [
+        "The nutrient molecules must be small enough and there must be a higher concentration of them in the gut than in the blood.",
+        "The nutrient molecules must be large and there must be active transport pumps working in the cell membranes.",
+        "The blood must have a higher concentration of the nutrient than the liquid inside the small intestine.",
+        "The molecules must be water-insoluble so they can dissolve directly through the muscular wall of the stomach."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "The lining of the small intestine is folded into thousands of tiny, finger-like projections called villi. How does this structural adaptation directly maximize the rate of nutrient absorption?",
+      "options": [
+        "It increases the surface area over which nutrients can diffuse into the blood.",
+        "It muscularly squeezes the food to force nutrients through the intestinal walls.",
+        "It lowers the temperature of the intestine so enzymes work more safely.",
+        "It increases the volume of the intestinal cavity so more food can be stored."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which of the following statements correctly describes a single bacterium living within the human gut?",
+      "options": [
+        "It is a multicellular microorganism that lacks any cellular boundaries.",
+        "It is a non-living organic particle that replicates by invading human host cells.",
+        "It is a living microorganism made of a single cell that carries out its own life processes.",
+        "It is a microscopic eukaryotic cell containing a membrane-bound nucleus and mitochondria."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "While some bacteria are pathogens that cause illness, how do harmless or helpful bacteria compare to them?",
+      "options": [
+        "Helpful bacteria are always much larger than pathogenic bacteria.",
+        "Helpful bacteria do not cause disease and can provide benefits to their host, unlike pathogens.",
+        "Harmless bacteria are non-living, whereas pathogens are living organisms.",
+        "Harmless bacteria only live on the skin, while pathogens only live in the blood."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following describes the natural habitat and state of helpful bacteria in the human body?",
+      "options": [
+        "They live inside the human digestive system as part of a healthy gut ecosystem.",
+        "They are transient invaders that are constantly destroyed by stomach acid and never survive.",
+        "They live only inside the liver where they assist in filtering harmful toxins.",
+        "They reside inside the red blood cells to assist with oxygen transport."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How do helpful gut bacteria assist humans in digesting complex plant materials, such as certain dietary fibers?",
+      "options": [
+        "They physically chew the food using microscopic, tooth-like structures.",
+        "They release enzymes that break down chemical bonds in food molecules we cannot digest ourselves.",
+        "They absorb the complex molecules whole and convert them into mineral salts.",
+        "They produce strong acids that chemically burn the fiber into smaller units."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How do helpful bacteria in our digestive system help protect us from harmful pathogens that we might ingest with food?",
+      "options": [
+        "They release antibodies into the bloodstream to neutralize foreign viruses.",
+        "They physically block and compete against the pathogens for space and nutrients.",
+        "They engulf and digest the pathogens through phagocytosis.",
+        "They increase the acidity of the mouth to kill incoming microbes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following correctly pairs a type of digestion with its description and a primary location where it occurs?",
+      "options": [
+        "Mechanical digestion: breaking chemical bonds using enzymes; occurs mainly in the mouth.",
+        "Chemical digestion: physical breaking of food into smaller pieces; occurs mainly in the stomach.",
+        "Mechanical digestion: physical breaking of food into smaller pieces; occurs in the mouth and stomach.",
+        "Chemical digestion: physical churning of food by muscles; occurs mainly in the small intestine."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A student analyzes a meal consisting of grilled chicken, buttered toast, and an egg. What are the three main types of large food molecules that make up this meal?",
+      "options": [
+        "Carbohydrates, proteins, and fats.",
+        "Starch, glucose, and amino acids.",
+        "Minerals, vitamins, and dietary fiber.",
+        "Proteins, enzymes, and nucleic acids."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What is the primary role of digestive enzymes during the breakdown of food in the alimentary canal?",
+      "options": [
+        "They act as reactants that are completely consumed to provide energy to the body.",
+        "They act as biological catalysts that speed up the chemical digestion of carbohydrates, proteins, and fats.",
+        "They change the temperature of the stomach to allow chemical reactions to occur.",
+        "They mechanically grind large food particles into smaller pieces."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "According to the digestive processes of the human body, what are the final products of the chemical digestion of proteins, fats, and carbohydrates?",
+      "options": [
+        "Proteins break down into fatty acids, fats into amino acids, and carbohydrates into starch and sugars.",
+        "Proteins break down into amino acids, fats into fatty acids and glycerol, and carbohydrates into starch and sugars.",
+        "Proteins break down into glycerol, fats into starch, and carbohydrates into amino acids.",
+        "Proteins break down into starch and sugars, fats into amino acids, and carbohydrates into fatty acids."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A student wants to test a food sample to see if it contains starch. Which chemical reagent should they use, and what is the positive result?",
+      "options": [
+        "Biuret reagent, which turns from blue to purple.",
+        "Iodine solution, which turns from orange-brown to blue-black.",
+        "Benedict's solution, which turns from blue to brick-red when heated.",
+        "Ethanol, which forms a cloudy white emulsion."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "After incubating starch with amylase (an enzyme) for 30 minutes, a student wants to test if the starch has been broken down into sugars. Which reagent and condition should they use?",
+      "options": [
+        "Iodine solution at room temperature.",
+        "Biuret solution at room temperature.",
+        "Benedict's solution, heated in a water bath.",
+        "Ethanol, shaken and mixed with cold water."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A student performs three food tests on a liquid food sample. Iodine test: remains orange-brown. Biuret test: turns purple. Benedict's test (heated): turns brick-red. What does the sample contain?",
+      "options": [
+        "Starch and protein, but no sugar.",
+        "Protein and sugar, but no starch.",
+        "Starch and sugar, but no protein.",
+        "Fat and starch, but no protein."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which of the following represents the correct sequence of major organs that a piece of food passes through after it is swallowed?",
+      "options": [
+        "Oesophagus -> Stomach -> Small Intestine -> Large Intestine",
+        "Oesophagus -> Stomach -> Large Intestine -> Small Intestine",
+        "Oesophagus -> Liver -> Stomach -> Small Intestine",
+        "Stomach -> Oesophagus -> Small Intestine -> Large Intestine"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How is the stomach specifically adapted to carry out its functions in the digestive system?",
+      "options": [
+        "It has a highly alkaline environment to neutralize any acid produced by gut bacteria.",
+        "It has muscular walls to churn food and glands that secrete acid and digestive enzymes.",
+        "It is lined with millions of villi to absorb digested nutrients directly into the blood.",
+        "It has a very thin, single-cell layer wall to allow rapid diffusion of large fat molecules."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What happens to dietary fiber and other materials in our food that cannot be digested by the human body?",
+      "options": [
+        "They are absorbed by the large intestine and converted into energy in the liver.",
+        "They are filtered out of the blood by the kidneys and excreted as urine.",
+        "They pass through the digestive system and are eliminated from the body as faeces.",
+        "They are broken down by stomach acid into carbon dioxide and exhaled."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How does the rich network of blood capillaries inside each villus of the small intestine contribute to efficient nutrient absorption?",
+      "options": [
+        "It keeps the temperature of the intestine high enough to melt large fat molecules.",
+        "It constantly carries absorbed nutrients away, maintaining a steep concentration gradient for diffusion.",
+        "It pumps digestive enzymes directly into the center of the small intestine.",
+        "It prevents bacteria from entering the rest of the body by filtering the absorbed food."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
     }
   ]
 }

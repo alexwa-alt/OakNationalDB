@@ -1,0 +1,226 @@
+{
+  "unitKey": "3BiodiversityBiology",
+  "generatedAt": "2026-09-15T13:43:58.959202+00:00",
+  "questions": [
+    {
+      "question": "What is the main purpose of an animal having adaptations?",
+      "options": [
+        "To help them survive in their specific environment",
+        "To make them look different from other species",
+        "To allow them to change their species over time",
+        "To help them find human caretakers"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following is an example of a physical adaptation in an animal?",
+      "options": [
+        "Migrating south for the winter",
+        "Having thick fur to stay warm",
+        "Hunting only during the night",
+        "Huddling together to keep warm"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What type of adaptation is being nocturnal (active at night)?",
+      "options": [
+        "Physical adaptation",
+        "Physiological adaptation",
+        "Structural adaptation",
+        "Behavioural adaptation"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why is high biodiversity important for ecosystems and habitats?",
+      "options": [
+        "It ensures only one strong species survives",
+        "It helps to maintain healthy, stable habitats",
+        "It reduces the amount of oxygen in the atmosphere",
+        "It makes it easier to build roads and cities"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What does the term 'gene pool' refer to in biology?",
+      "options": [
+        "The total volume of water where aquatic organisms live",
+        "The range of DNA and genetic information within a species",
+        "A collection of cells stored in a laboratory freezer",
+        "The physical traits that develop due to the environment"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following is a method used by scientists to maintain biodiversity?",
+      "options": [
+        "Replacing natural forests with single-crop farms",
+        "Using gene banks, conservation, and protection zones",
+        "Introducing invasive species to new habitats",
+        "Harvesting all resources from an ecosystem quickly"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why do scientists use sampling to study populations in a habitat?",
+      "options": [
+        "Because they want to collect and keep every single organism",
+        "Because it would be impossible to count every individual organism in a large area",
+        "Because sampling is more accurate than counting the actual population",
+        "Because organisms only appear when scientists use sampling tools"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What are quadrats, and what are they used to sample?",
+      "options": [
+        "Long nets used to capture fast-flying birds and insects",
+        "Square frames used to sample plants or slow-moving animals",
+        "Glass jars used to collect soil and water microbes",
+        "Electronic sensors used to track animal migration routes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why is it important that quadrat sampling is usually done randomly?",
+      "options": [
+        "To make sure the scientists can choose the most interesting areas",
+        "To avoid bias and get a representative set of results",
+        "To ensure that only the rarest plants are counted",
+        "To speed up the process so less data is collected"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What scientific tool is designed to help identify different species based on their characteristics?",
+      "options": [
+        "A classification key",
+        "A quadrat frame",
+        "A weighing scale",
+        "A gene bank database"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is an ecosystem made up of?",
+      "options": [
+        "Only the non-living things in a specific area like rocks and water",
+        "Only the plants that grow in a particular type of soil",
+        "A community of organisms interacting with each other and their non-living surroundings",
+        "A single species of animal living in isolation from other living things"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Organisms in an ecosystem are 'interdependent'. What does this mean?",
+      "options": [
+        "They can survive completely on their own without any other organisms",
+        "They depend upon each other for the resources they need to survive",
+        "They belong to the exact same species and share DNA",
+        "They only compete and never help or rely on one another"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why do all living organisms depend on decomposers?",
+      "options": [
+        "They are the primary source of food at the start of all food chains",
+        "They break down dead organisms and recycle useful substances for reuse",
+        "They hunt predators to keep prey populations under control",
+        "They convert sunlight directly into sugar for plants to use"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What does 'biodiversity' measure?",
+      "options": [
+        "The total mass of all living things in a habitat",
+        "The range of different living organisms in an area",
+        "The rate of reproduction in a single animal species",
+        "The amount of non-living material in an ecosystem"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which of the following is a physical adaptation of a plant?",
+      "options": [
+        "Growing roots deeper or shallower, and having spines to deter consumers",
+        "Dropping leaves only when touched by a human",
+        "Bending towards a window to receive more sunlight",
+        "Releasing seeds only during the night"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which of these is a behavioural adaptation in plants?",
+      "options": [
+        "Having a waxy coating on leaves",
+        "Growing towards light",
+        "Developing long, deep taproots",
+        "Growing sharp thorns on stems"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What is biomass?",
+      "options": [
+        "The total number of individual organisms in an ecosystem",
+        "The mass of living material in one or more organisms",
+        "The speed at which energy passes through a food chain",
+        "The weight of the non-living parts of a habitat"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "What does a pyramid of biomass show?",
+      "options": [
+        "The total population size of each species in an area",
+        "The biomass of organisms at each stage in a food chain",
+        "The speed of decomposition of organic material",
+        "The amount of water stored in different trophic levels"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Where is the producer always located in a pyramid of biomass?",
+      "options": [
+        "At the very top of the pyramid",
+        "In the middle of the pyramid",
+        "At the bottom of the pyramid",
+        "It is excluded from the pyramid"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What is represented in a pyramid of number?",
+      "options": [
+        "The total dry weight of organisms at each level",
+        "The number of organisms at each trophic level in a food chain",
+        "The amount of energy lost as heat at each level",
+        "The number of different species in the entire ecosystem"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    }
+  ]
+}

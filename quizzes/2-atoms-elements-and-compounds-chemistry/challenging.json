@@ -1,6 +1,6 @@
 {
   "unitKey": "2Atoms, elements and compoundsChemistry",
-  "generatedAt": "2026-08-12T06:16:33.014738+00:00",
+  "generatedAt": "2026-09-15T13:43:40.435426+00:00",
   "questions": [
     {
       "question": "During a reaction, methane gas burns in oxygen to form carbon dioxide and water. If we analyze the atoms before and after the reaction, what must be true about the total collection of atoms?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 34
+    },
+    {
+      "question": "During a reaction between methane and oxygen, carbon dioxide and water are formed. If we count the total number of carbon, hydrogen, and oxygen atoms before the reaction, how will they compare to the total number after the reaction?",
+      "options": [
+        "There will be fewer atoms because some were converted into energy during the reaction.",
+        "There will be the exact same number of each type of atom because atoms are only rearranged.",
+        "There will be more atoms because new chemical bonds create additional matter.",
+        "The number of atoms depends on how violently the reactants combusted."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If the reactants in a chemical reaction contain the exact same atoms as the products, what actually changes during the reaction to form the new products?",
+      "options": [
+        "The chemical identity of the individual atoms changes into new elements.",
+        "Some atoms are destroyed while other new atoms are created to balance them.",
+        "The atoms are rearranged and bonded to each other in a different way.",
+        "The mass of the individual atoms increases due to the energy released."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A student is asked to draw a diagram representing John Dalton's model of an atom. Which of the following best describes what the student should draw?",
+      "options": [
+        "A sphere with positive charge containing tiny embedded negative particles.",
+        "A solid, indivisible sphere that cannot be broken down into smaller parts.",
+        "A small, dense central nucleus surrounded by orbiting electrons.",
+        "A cloud of negative charge with a tiny central positive point."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A sample of a substance is analyzed and found to contain only atoms that have 6 protons in their nucleus. Based on this, how should this substance be classified?",
+      "options": [
+        "As a compound, because it can be broken down into simpler substances.",
+        "As a mixture, because the atoms are not chemically bonded.",
+        "As an element, because it is made up of only one type of atom.",
+        "As a metalloid, because it contains both metal and non-metal atoms."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Carbon monoxide (CO) and carbon dioxide (CO2) both consist of carbon and oxygen atoms. Why do they have such different physical and chemical properties?",
+      "options": [
+        "CO is a compound, whereas CO2 is a mixture of carbon and oxygen.",
+        "They contain different elements that have different types of atoms.",
+        "They contain the same elements, but in a different ratio.",
+        "CO contains metallic bonds, while CO2 contains non-metallic bonds."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "An unknown element X is shiny and conducts electricity moderately well, but it is brittle and shatters when hit with a hammer. Where on the periodic table is this element most likely to be found, and what is its classification?",
+      "options": [
+        "On the far left, classified as an alkali metal.",
+        "On the border between metals and non-metals, classified as a metalloid.",
+        "On the far right, classified as a noble gas.",
+        "In the middle section, classified as a transition metal."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "When sodium metal (a highly reactive, soft metal) is mixed with chlorine gas (a toxic, yellow-green gas), they react vigorously to form sodium chloride (common table salt). Which statement correctly describes sodium chloride?",
+      "options": [
+        "It is a mixture because the original properties of sodium and chlorine are still present.",
+        "It is an element because it is a pure substance that cannot be split by physical means.",
+        "It is a compound made of two different elements chemically bonded together.",
+        "It is a metalloid because it contains both a metal and a non-metal."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A student observes that sodium is a soft, shiny metal that reacts violently with water, and chlorine is a toxic green gas. When they react, they form sodium chloride, which is a white, edible solid that dissolves harmlessly in water. What general rule about chemistry does this demonstrate?",
+      "options": [
+        "Elements lose their atoms when they form compounds.",
+        "A compound can have entirely different properties from the elements it is made from.",
+        "The properties of a compound are always an average of the properties of its elements.",
+        "Compounds retain the chemical reactivity of their constituent elements."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "An engineer needs a material to make a lightweight, strong, and durable wire that can easily carry electrical current and be bent into tight loops without breaking. What group of elements should she look at?",
+      "options": [
+        "Non-metals, because they are brittle and poor thermal conductors.",
+        "Metalloids, because they are completely inert and do not react with air.",
+        "Metals, because they are strong, malleable, ductile, and good electrical conductors.",
+        "Noble gases, because they are monatomic and highly stable."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Most non-metals are poor conductors of electricity. However, there is a common form of carbon that is a good conductor of both electricity and heat. What is this substance?",
+      "options": [
+        "Diamond",
+        "Graphite",
+        "Silicon",
+        "Sulfur"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "If you are looking at the Periodic Table, where would you expect to find the elements that are typically dull, brittle, and poor conductors of heat, compared to those that are shiny and malleable?",
+      "options": [
+        "Dull, brittle elements are on the left; shiny, malleable elements are on the right.",
+        "Dull, brittle elements are on the right; shiny, malleable elements are on the left and middle.",
+        "Dull, brittle elements are in the middle; shiny, malleable elements are in the right-hand column.",
+        "Both types of elements are randomly scattered across all sections of the table."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Under standard conditions, oxygen gas exists as O2. What does this formula tell us about oxygen?",
+      "options": [
+        "It is a compound containing two different types of atoms.",
+        "It is a monatomic non-metal that does not form bonds.",
+        "It is a diatomic molecule containing two atoms of the same element.",
+        "It is a mixture of two separate oxygen atoms."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "When iron reacts with sulfur under high heat, they bond chemically to form a simple binary compound. What is the correct name of this compound to show that chemical bonding has occurred?",
+      "options": [
+        "Iron sulfur",
+        "Iron sulfate",
+        "Iron sulfide",
+        "Iron carbonate"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A white powder is heated, and it releases carbon dioxide gas, leaving behind a metal oxide. The original powder was a compound containing metal atoms bonded to a -CO3 group. What is the name of this group of compounds?",
+      "options": [
+        "Metal sulfates",
+        "Metal nitrates",
+        "Metal carbonates",
+        "Metal hydroxides"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Copper sulfate (CuSO4) is a bright blue substance. Based on its chemical formula, which polyatomic group is bonded to the copper atom?",
+      "options": [
+        "Carbonate (-CO3)",
+        "Nitrate (-NO3)",
+        "Sulfate (-SO4)",
+        "Hydroxide (-OH)"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A single isolated neon atom does not have a boiling point, nor is it 'shiny' or 'dull' on its own. Why is this?",
+      "options": [
+        "These physical properties only emerge when many atoms are grouped together as an element.",
+        "Neon is a noble gas and therefore has no physical properties at all.",
+        "A single atom is too small to be governed by the laws of chemistry.",
+        "The properties of a single atom are identical to the bulk properties of the element."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "In a school science experiment, copper carbonate powder is heated in a test tube to produce copper oxide and carbon dioxide. What are the reactants in this chemical reaction?",
+      "options": [
+        "Copper oxide and carbon dioxide",
+        "Copper carbonate only",
+        "Copper, carbon, and oxygen as individual elements",
+        "The heat energy applied to the test tube"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When magnesium metal is burned in the presence of oxygen gas, a bright white light is emitted, and a white powder called magnesium oxide is formed. What represents the product(s) of this chemical reaction?",
+      "options": [
+        "Magnesium and oxygen",
+        "Magnesium oxide only",
+        "Only the bright white light",
+        "Magnesium oxide and nitrogen gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "The formula for sulfuric acid is H2SO4. Which of the following lists all the different elements present in sulfuric acid, as shown by their chemical symbols?",
+      "options": [
+        "Helium, Sulfur, Oxygen",
+        "Hydrogen, Sodium, Oxygen",
+        "Hydrogen, Sulfur, Oxygen",
+        "Hydrogen, Silicon, Oxygen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why do water (H2O), hydrogen peroxide (H2O2), and carbon dioxide (CO2) have completely distinct chemical identities and behaviors?",
+      "options": [
+        "They are all mixtures of different gases that have not been bonded.",
+        "Each compound contains a different combination or ratio of elements.",
+        "Only water is a compound, whereas the others are elements.",
+        "They contain the same elements but in different states of matter at room temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
     }
   ]
 }
