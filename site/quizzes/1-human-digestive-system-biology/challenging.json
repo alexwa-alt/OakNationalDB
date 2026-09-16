@@ -1,6 +1,6 @@
 {
   "unitKey": "1Human digestive systemBiology",
-  "generatedAt": "2026-09-15T13:43:17.485277+00:00",
+  "generatedAt": "2026-09-16T13:36:17.289118+00:00",
   "questions": [
     {
       "question": "Why must large molecules like proteins and fats be broken down during digestion?",
@@ -440,6 +440,226 @@
         "It prevents bacteria from entering the rest of the body by filtering the absorbed food."
       ],
       "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why must large insoluble molecules like proteins and starch be broken down into smaller soluble molecules during digestion?",
+      "options": [
+        "To allow them to pass through the walls of the digestive system and enter the blood.",
+        "To enable them to be converted directly into water and carbon dioxide in the stomach.",
+        "To prevent them from being attacked by beneficial bacteria living in the large intestine.",
+        "To make sure they can be dissolved in saliva before reaching the oesophagus."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Once nutrients are absorbed into the blood from the digestive system, how do they reach the muscle cells in a runner's legs?",
+      "options": [
+        "They flow through the digestive tract directly into the muscular tissues of the lower limbs.",
+        "They are carried by the bloodstream as it is pumped around the body by the heart.",
+        "They are transported through specialized air tubes that connect the lungs to the muscles.",
+        "They diffuse from cell to cell starting from the stomach wall down to the legs."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Glucose molecules can enter the bloodstream from the small intestine via diffusion. Which statement best describes this process?",
+      "options": [
+        "Glucose molecules are pumped against a concentration gradient using energy from respiration.",
+        "Glucose molecules move from an area of high concentration in the intestine to a lower concentration in the blood because they are small enough.",
+        "Large starch molecules are pulled through microscopic pores by water pressure.",
+        "Specialized bacteria carry the glucose molecules across the membrane using active transport."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How do the millions of tiny, finger-like projections called villi in the small intestine adapt it for efficient absorption?",
+      "options": [
+        "They secrete strong acids that chemically digest food molecules faster.",
+        "They increase the surface area and have a very thin outer layer of cells next to a rich blood supply.",
+        "They muscularly contract to push undigested food quickly into the large intestine.",
+        "They act as filters that block all water from entering the bloodstream."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which of the following correctly describes a bacterium found in the human gut?",
+      "options": [
+        "It is a multicellular organism with specialized tissues for digestion.",
+        "It is a non-living particle that reproduces only inside human cells.",
+        "It is a microorganism made of a single living cell.",
+        "It is a type of tiny plant that uses sunlight to make its own food."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which statement best describes the overall relationship between humans and the bacteria found in our environment and bodies?",
+      "options": [
+        "All bacteria cause harmful diseases and must be eliminated from our digestive system.",
+        "Some bacteria are pathogens that cause disease, but many are harmless and some are actually helpful to us.",
+        "Bacteria only become living organisms when they enter a host, where they are always beneficial.",
+        "Most bacteria are harmful pathogens, while only a few harmless species exist in soil."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Where in the human digestive system do we find the largest populations of helpful, symbiotic bacteria that assist in our digestive health?",
+      "options": [
+        "In the highly acidic environment of the stomach.",
+        "Inside the salivary glands of the mouth.",
+        "In the lower parts of the digestive tract, particularly the large intestine.",
+        "Inside the gallbladder where bile is stored."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Humans lack the genes to produce enzymes that break down certain complex plant fibres. How do gut bacteria help us overcome this?",
+      "options": [
+        "They absorb the fibres whole and store them so they do not block our digestive tract.",
+        "They release their own enzymes to digest these fibres into smaller molecules we can absorb.",
+        "They convert the fibres into stomach acid to help chemically burn the food.",
+        "They physically chew the plant fibres using microscopic structures on their cell walls."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How does having a healthy population of helpful bacteria in our digestive system protect us from harmful pathogens that we might swallow?",
+      "options": [
+        "Helpful bacteria produce antibodies that circulate in our blood to kill viruses.",
+        "They outcompete the pathogens for food and space, making it harder for pathogens to multiply.",
+        "They raise the temperature of the stomach to destroy any incoming harmful microorganisms.",
+        "They coat the teeth in a protective enamel layer that blocks pathogens from entering."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following correctly compares mechanical and chemical digestion?",
+      "options": [
+        "Mechanical digestion uses biological catalysts, whereas chemical digestion only happens in the mouth.",
+        "Mechanical digestion physically breaks food into smaller pieces to increase surface area, while chemical digestion uses enzymes to break chemical bonds.",
+        "Mechanical digestion only occurs in the stomach, while chemical digestion only occurs in the small intestine.",
+        "Mechanical digestion changes the chemical identity of food molecules, whereas chemical digestion does not."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A student analyses a meal consisting of grilled chicken, olive oil, and steamed rice. Which major groups of food molecules are represented here?",
+      "options": [
+        "Only proteins and water, as fats and carbohydrates are not found in natural foods.",
+        "Proteins (chicken), fats (olive oil), and carbohydrates (rice).",
+        "Fiber and minerals only, since these foods do not contain energy-providing molecules.",
+        "Starch (chicken), sugars (olive oil), and amino acids (rice)."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What is the primary role of digestive enzymes in the human body?",
+      "options": [
+        "They act as reactants that are completely used up to make new muscle tissue.",
+        "They act as biological catalysts that speed up the chemical breakdown of carbohydrates, proteins, and fats.",
+        "They provide the main source of thermal energy needed to keep the stomach warm.",
+        "They physically grind food particles into a liquid paste in the esophagus."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "If a meal containing starch, protein, and fat is fully digested by enzymes, what are the resulting end-products that can be absorbed?",
+      "options": [
+        "Starch is broken down into fatty acids, protein into sugars, and fat into amino acids.",
+        "Starch is broken down into sugars, protein into amino acids, and fat into fatty acids and glycerol.",
+        "Starch is broken down into amino acids, protein into glycerol, and fat into sugars.",
+        "All three are broken down into carbon dioxide, water, and nitrogen gas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A student wants to test a food sample for the presence of starch. Which chemical reagent should they add, and what is the positive result?",
+      "options": [
+        "Biuret reagent, which turns from blue to purple.",
+        "Iodine solution, which turns from orange-brown to blue-black.",
+        "Ethanol, which forms a cloudy white emulsion.",
+        "Benedict's solution, which turns from blue to brick-red when heated."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "To test if amylase has successfully broken down starch into smaller sugar molecules, which reagent should be used and under what condition?",
+      "options": [
+        "Iodine solution at room temperature.",
+        "Benedict's solution, which must be heated in a hot water bath.",
+        "Biuret reagent, which must be shaken vigorously with ethanol.",
+        "Water and indicator paper left in a cold freezer."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A food sample is tested with different reagents. It produces a blue-black colour with iodine, remains blue with Biuret reagent, and produces a cloudy white emulsion with ethanol. What does this food contain?",
+      "options": [
+        "Starch and fat, but no protein.",
+        "Protein and sugar, but no fat.",
+        "Starch and protein, but no fat.",
+        "Sugar and fat, but no starch."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which of the following lists the major organs of the digestive system in the correct order that food passes through them?",
+      "options": [
+        "Mouth -> Stomach -> Oesophagus -> Large Intestine -> Small Intestine",
+        "Mouth -> Oesophagus -> Stomach -> Small Intestine -> Large Intestine",
+        "Mouth -> Stomach -> Small Intestine -> Oesophagus -> Large Intestine",
+        "Oesophagus -> Mouth -> Stomach -> Large Intestine -> Small Intestine"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How is the stomach adapted to perform its function in the digestive system?",
+      "options": [
+        "It has a highly alkaline environment to neutralise food before it enters the mouth.",
+        "It has muscular walls to churn food and produces hydrochloric acid and protease enzymes to break down proteins.",
+        "It is lined with villi to absorb the majority of digested fats and sugars directly into the blood.",
+        "It has no muscles so that food can sit undisturbed for several days."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What happens to the materials in our food that our digestive system cannot break down or absorb?",
+      "options": [
+        "They are absorbed into the blood and exhaled through the lungs as carbon dioxide.",
+        "They are destroyed by stomach acid and converted into urine in the kidneys.",
+        "They pass through the large intestine and are eliminated from the body as faeces.",
+        "They are stored permanently in the liver to build new cells."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "In addition to villi, how does the rich network of blood capillaries inside each villus help increase the rate of nutrient absorption?",
+      "options": [
+        "It maintains a steep concentration gradient by rapidly carrying absorbed nutrients away.",
+        "It pumps digestive enzymes directly into the center of the small intestine.",
+        "It physically squeezes the villi to force food down into the large intestine.",
+        "It keeps the small intestine cold to prevent nutrients from breaking down."
+      ],
+      "correctAnswerIndex": 0,
       "learningPointIndex": 3
     }
   ]

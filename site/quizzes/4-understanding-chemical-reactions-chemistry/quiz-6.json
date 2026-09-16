@@ -1,0 +1,226 @@
+{
+  "unitKey": "4Understanding chemical reactionsChemistry",
+  "generatedAt": "2026-09-16T13:42:42.337653+00:00",
+  "questions": [
+    {
+      "question": "Which of the following is a common sign that a chemical reaction has taken place?",
+      "options": [
+        "A change in the shape of a solid when bent",
+        "A change in colour, bubbling, or a change of temperature",
+        "A liquid turning into a gas by boiling",
+        "A solid dissolving in water to make a solution"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why do bubbles often appear during a chemical reaction in a liquid?",
+      "options": [
+        "A gas is being produced by the reaction",
+        "The liquid is evaporating due to cooling",
+        "Air is being trapped from the room",
+        "The liquid is undergoing a physical change"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What happens to the atoms in the reactants during a chemical reaction?",
+      "options": [
+        "They are destroyed and replaced by completely new atoms",
+        "They stay in the exact same arrangement but change their size",
+        "They rearrange themselves to form new substances",
+        "They turn into energy and disappear"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which statement is generally true about chemical reactions?",
+      "options": [
+        "They can easily be reversed by freezing the products",
+        "They are irreversible, meaning they cannot easily be undone",
+        "They can be reversed by filtering out the reactants",
+        "They always reverse themselves after a few minutes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What three things are required to start a combustion reaction?",
+      "options": [
+        "Fuel, oxygen, and an initial source of energy, usually heat",
+        "Carbon dioxide, water, and light",
+        "Nitrogen, fuel, and a catalyst",
+        "Hydrogen, water, and cold temperature"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What process does the term 'burning' specifically describe?",
+      "options": [
+        "The reaction of substances with oxygen, commonly referred to when there are visible flames",
+        "The melting of a solid into a liquid using a burner",
+        "The evaporation of water from an aqueous solution",
+        "The breakdown of a substance by electricity"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Under what condition is water often formed during a chemical reaction?",
+      "options": [
+        "Only when nitrogen and carbon are heated together",
+        "If oxygen and hydrogen atoms are present in the reactants",
+        "When a metal reacts with a noble gas",
+        "If carbon dioxide is mixed with pure helium"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which gas is often formed in chemical reactions if oxygen and carbon atoms are present in the reactants?",
+      "options": [
+        "Carbon dioxide",
+        "Hydrogen gas",
+        "Nitrogen dioxide",
+        "Carbon monoxide only"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What is a characteristic of both carbon dioxide and water molecules formed in reactions?",
+      "options": [
+        "They consist of large, complex structures with weak bonds",
+        "They consist of small molecules that form easily with strong bonds",
+        "They are highly unstable and break down instantly",
+        "They can only exist in the solid state at room temperature"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What happens during a decomposition reaction?",
+      "options": [
+        "Two elements combine to form a single larger compound",
+        "A single compound breaks down into two or more products",
+        "An acid reacts with an alkali to form a neutral salt",
+        "A solid dissolves in a liquid to form a clear mixture"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What do decomposition reactions usually require in order to occur?",
+      "options": [
+        "Extremely cold temperatures or freezing conditions",
+        "High pressure and the removal of all oxygen",
+        "Heat, light, or electricity to provide energy",
+        "Continuous stirring in an open container"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "When a metal carbonate is heated and undergoes decomposition, what products typically form?",
+      "options": [
+        "A metal oxide and carbon dioxide gas",
+        "Hydrogen gas and a metal chloride",
+        "Pure metal and water vapour",
+        "Carbon monoxide and a metal hydroxide"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is the term for a chemical reaction in which a substance combines with oxygen?",
+      "options": [
+        "Reduction",
+        "Decomposition",
+        "Neutralisation",
+        "Oxidation"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following are examples of oxidation reactions?",
+      "options": [
+        "Melting ice and boiling water",
+        "Combustion and rusting",
+        "Neutralisation and filtration",
+        "Dissolving salt and chromatography"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What is always one of the products of an oxidation reaction?",
+      "options": [
+        "Water",
+        "Pure hydrogen",
+        "An oxide",
+        "Carbon dioxide"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How do precipitation reactions occur?",
+      "options": [
+        "When a solid dissolves completely into a liquid",
+        "When two solutions combine to form an insoluble solid",
+        "When a liquid freezes into a solid at low temperatures",
+        "When a gas condenses into a liquid on a cold surface"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is the appearance of a precipitate clear evidence of?",
+      "options": [
+        "That a chemical reaction has occurred",
+        "That the temperature has dropped below freezing",
+        "That a physical change of melting has finished",
+        "That the solution has evaporated completely"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How does the total mass of the products in a chemical reaction compare to the total mass of the reactants?",
+      "options": [
+        "The mass of the products is always greater than the reactants",
+        "The mass of the products is always less than the reactants",
+        "The mass of the products is the same as the mass of the reactants",
+        "The mass depends on whether a gas was released or not"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is the purpose of a word equation in chemistry?",
+      "options": [
+        "To show the microscopic sizes of individual atoms",
+        "To calculate the exact mass of the products formed",
+        "To provide a simple way of describing chemical reactions",
+        "To count the number of electrons in a molecule"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What do chemical equations represent about a reaction?",
+      "options": [
+        "How the atoms in the reactants rearrange to form the products",
+        "The time it takes for a reaction to go to completion",
+        "The physical state changes from solid to liquid",
+        "The cost of the chemicals used in the laboratory"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    }
+  ]
+}
