@@ -1,6 +1,6 @@
 {
   "unitKey": "3BiodiversityBiology",
-  "generatedAt": "2026-08-12T06:17:06.624543+00:00",
+  "generatedAt": "2026-09-16T13:39:04.644571+00:00",
   "questions": [
     {
       "question": "A scientist measures the biodiversity of two different fields. Field A has 100 dandelions and 1 poppy. Field B has 10 different wildflower species, with 10 individuals of each species. Which field has higher biodiversity, and why?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 2,
       "learningPointIndex": 11
+    },
+    {
+      "question": "A desert fennec fox has extremely large ears that help it lose heat in a hot climate. If the desert temperature gradually cools over thousands of years, how might this adaptation change?",
+      "options": [
+        "The foxes will immediately shrink their ears within their lifetime to stay warm.",
+        "Foxes with smaller ears may be more likely to survive and pass on their genes, gradually reducing average ear size.",
+        "The foxes will stop reproducing until the environment becomes hot again.",
+        "The large ears will change function to gather water from the air instead of releasing heat."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "An Arctic hare has a thick coat of white fur in winter, which changes to brown in summer. Which of the following best explains why this physical adaptation is beneficial?",
+      "options": [
+        "The fur color changes to help the hare absorb more sunlight during the winter months.",
+        "The white fur provides insulation in winter and camouflage against snow, reducing predation risk.",
+        "The physical change allows the hare to migrate faster over icy terrain.",
+        "The brown fur in summer helps the hare sweat and release excess body heat."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Some desert rodents are nocturnal, staying inside underground burrows during the hottest parts of the day and foraging only at night. How is this classified compared to having salt-excreting glands?",
+      "options": [
+        "Being nocturnal is a behavioral adaptation, whereas having salt-excreting glands is a physical adaptation.",
+        "Being nocturnal is a physical adaptation, whereas having salt-excreting glands is a behavioral adaptation.",
+        "Both are behavioral adaptations because they involve active survival choices made by the rodent.",
+        "Both are physical adaptations because they are determined by the rodent's genetics."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A woodland habitat loses its top predator due to overhunting. Soon after, the herbivore population surges and overgrazes the vegetation, leading to soil erosion and the loss of several bird species. What does this ecological collapse demonstrate about biodiversity?",
+      "options": [
+        "High biodiversity is only necessary for the survival of the top predators in an ecosystem.",
+        "Biodiversity has no effect on physical habitat structures like soil and water quality.",
+        "Maintaining biodiversity across different levels is crucial for keeping a habitat stable and healthy.",
+        "Herbivores are the only organisms responsible for maintaining a healthy habitat."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A small, isolated population of cheetahs has very low genetic diversity due to a past near-extinction event. Why does this limited gene pool put the species at a higher risk of extinction?",
+      "options": [
+        "A smaller gene pool means individual cheetahs cannot physically adapt their own DNA when they encounter a new disease.",
+        "A limited range of DNA makes it highly likely that all individuals will be equally vulnerable to a single environmental change or pathogen.",
+        "The cheetahs will stop producing offspring because they prefer to mate with genetically distinct species.",
+        "The lack of DNA variety prevents the cheetahs from migrating to new geographical areas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A rare wildflower species is threatened by urban development. Conservationists decide to collect its seeds to store in a sub-zero seed bank while also declaring its natural habitat a protected reserve. How do these actions help maintain biodiversity?",
+      "options": [
+        "The seed bank increases the mutation rate of the seeds, while the reserve prevents any natural evolution from occurring.",
+        "These methods preserve the genetic material of the species and protect the living population from destructive human activity.",
+        "Storing seeds in a gene bank allows the wild plants in the reserve to instantly regenerate if a fire occurs.",
+        "The reserve eliminates all natural competition between species, ensuring that only this wildflower grows."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "An ecologist wants to determine the population of dandelions in a 10,000 square meter meadow. Why do they use sampling rather than counting every individual dandelion?",
+      "options": [
+        "Sampling is the only way to get an absolutely 100% accurate count of every plant in the area.",
+        "It is practically impossible to count every single dandelion due to time, cost, and the risk of double-counting or missing plants.",
+        "Dandelions constantly move around the field, making a direct count invalid.",
+        "Counting every plant would destroy the meadow's soil, preventing future growth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A student wants to estimate the population of organisms in a rocky shore ecosystem. For which of the following organisms would a quadrat be the most appropriate sampling tool?",
+      "options": [
+        "Fast-swimming crabs that dart between rock pools.",
+        "Seagulls nesting on high, inaccessible cliff faces.",
+        "Limpets and slow-moving sea snails attached to the rocks.",
+        "Shoals of small fish swimming in the open water."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A student is sampling clover in a school field. Instead of throwing the quadrat randomly, they place it only in the lush green areas near the trees where clover is clearly visible. How does this approach affect their results?",
+      "options": [
+        "It makes the results more accurate because it focuses on where the clover actually grows.",
+        "It introduces bias, leading to an overestimation of the total clover population in the field.",
+        "It makes the sampling random because the student chose the lush areas without using a map.",
+        "It ensures that the sample is representative of the entire field's diverse conditions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "While exploring a forest, a group of students finds an unfamiliar insect. Which tool should they use to systematically identify the exact species of this insect based on its observable physical features?",
+      "options": [
+        "A pyramid of numbers representing the forest.",
+        "A random quadrat grid of the forest floor.",
+        "A classification key consisting of a series of branching questions.",
+        "A gene bank database containing DNA sequences."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following best describes what makes up a forest ecosystem?",
+      "options": [
+        "Only the community of different tree species living in the forest area.",
+        "The non-living factors, such as soil, water, and air temperature, excluding the living organisms.",
+        "A community of interacting organisms, such as trees, birds, insects, and fungi, along with their non-living physical environment.",
+        "A collection of animals of the same species interacting with one another for mating."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In a meadow, field mice rely on grass seeds for food, and owls rely on field mice. If a disease wipes out the grass population, the owl population also decreases. What ecological concept does this scenario demonstrate?",
+      "options": [
+        "Organisms in an ecosystem are independent and unaffected by changes in other species.",
+        "Organisms are interdependent, meaning they rely on other species for their survival needs.",
+        "Grass is a decomposer that directly recycles nutrients for the owls.",
+        "Owls are producers that can easily switch to making their own food when mice are scarce."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A marine food chain consists of phytoplankton (microscopic algae), zooplankton, small fish, and sharks. If a chemical pollutant blocks all sunlight from reaching the upper ocean layer, how will this affect the sharks?",
+      "options": [
+        "The sharks will be unaffected because they do not eat phytoplankton.",
+        "The sharks will adapt to eat the chemical pollutant instead of fish.",
+        "The sharks will starve because all organisms in the food chain ultimately depend on the phytoplankton (producers) to create food.",
+        "The sharks will begin to photosynthesize to survive."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "In a sealed forest terrarium, all bacteria and fungi in the soil are completely sterilized and removed, but plants and animals remain. Over time, what will be the most likely consequence for the plants?",
+      "options": [
+        "Plants will grow much faster because there are no harmful microbes in the soil.",
+        "Plants will eventually die because decomposers are needed to break down dead organic matter and recycle essential nutrients back into the soil.",
+        "Plants will convert into decomposers themselves to recycle their own fallen leaves.",
+        "The animals will eat more plants, which will naturally replenish the soil's nutrients without needing microbes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "An ecologist compares two ponds. Pond A contains 150 individuals of one single fish species. Pond B contains 50 individuals spread across 10 different species of fish, insects, and plants. Which pond has higher biodiversity?",
+      "options": [
+        "Pond A, because it has a higher total number of living individuals.",
+        "Pond B, because biodiversity is a measure of the range of different living organisms present.",
+        "Both ponds have the same biodiversity because they are both aquatic habitats.",
+        "Neither pond has biodiversity because biodiversity only applies to land ecosystems."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "A cactus species lives in an extremely arid desert where herbivores are active. Which combination of physical adaptations would best help this plant survive in this environment?",
+      "options": [
+        "Broad, thin leaves to maximize water loss and colorful flowers to attract herbivores.",
+        "Shallow, widespread roots to quickly absorb rare rainfall, and sharp spines to deter herbivores from eating its water-storing stems.",
+        "Deep roots that avoid water entirely, and soft, smooth stems that make it easy for herbivores to climb.",
+        "No roots at all to avoid soil pathogens, and a behavioral adaptation of moving away from herbivores."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A houseplant is placed on a windowsill. Over several weeks, its stem bends and grows significantly toward the glass. How should this response be classified?",
+      "options": [
+        "It is a physical adaptation, as the plant is physically changing its cellular structure permanently.",
+        "It is a behavioral adaptation, as the plant is actively adjusting its growth direction in response to the light source.",
+        "It is an environmental accident, as plants do not have adaptations that respond to light.",
+        "It is a decomposer response, as the plant is trying to find dead organic matter near the window."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Why is biomass in a food chain usually estimated rather than measured exactly by drying and weighing every single organism in a habitat?",
+      "options": [
+        "Estimating is preferred because drying organisms to find their dry mass requires killing them, which would destroy the ecosystem.",
+        "Biomass is constantly changing every second, so an exact measurement is mathematically impossible.",
+        "Biomass can only be measured for plants, while animal biomass must always be guessed.",
+        "Measuring exact wet weight is highly inaccurate because animals lose weight when they run."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "A pyramid of biomass for a specific grassland food chain shows a very wide bar at the bottom, a narrower bar in the middle, and a tiny bar at the top. What do these bars represent?",
+      "options": [
+        "The total number of individual organisms found at each trophic level.",
+        "The physical height of the plants and animals at each stage of the food chain.",
+        "The total mass of living material at each stage of the food chain, which decreases as you move up.",
+        "The speed at which energy is transferred between different predators."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "In an oak forest, thousands of caterpillars feed on a single large oak tree, and ten blue tits feed on the caterpillars. If you were to draw a pyramid of numbers for this food chain, what would it look like?",
+      "options": [
+        "It would be a perfect pyramid shape with the widest bar at the bottom representing the single oak tree.",
+        "It would be inverted or spindle-shaped, with a very narrow bar at the bottom for the single oak tree, and a much wider bar above it for the caterpillars.",
+        "It would have no bars because a single tree cannot be represented in ecological diagrams.",
+        "It would look exactly like a pyramid of biomass, with the heaviest oak tree at the bottom."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
     }
   ]
 }

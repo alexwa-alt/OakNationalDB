@@ -1,6 +1,6 @@
 {
   "unitKey": "2Atoms, elements and compoundsChemistry",
-  "generatedAt": "2026-09-15T13:43:40.435426+00:00",
+  "generatedAt": "2026-09-16T13:37:16.681791+00:00",
   "questions": [
     {
       "question": "During a reaction, methane gas burns in oxygen to form carbon dioxide and water. If we analyze the atoms before and after the reaction, what must be true about the total collection of atoms?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 10
+    },
+    {
+      "question": "During a reaction inside a sealed container, methane gas reacts with oxygen to form carbon dioxide and water. If we analyze the atoms before and after the reaction, which of the following statements is correct?",
+      "options": [
+        "There are more atoms in the products because new elements were created during the reaction.",
+        "There are fewer atoms in the products because some matter was converted into heat energy.",
+        "The total number and types of atoms in the reactants are identical to those in the products.",
+        "The atoms in the products are entirely different from the atoms that made up the reactants."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "In a chemical reaction between iron and sulfur to form iron sulfide, how do the atoms in the product differ from the atoms in the reactants?",
+      "options": [
+        "The iron and sulfur atoms have merged to form a completely new type of atom.",
+        "The iron and sulfur atoms are now arranged and chemically bonded to each other differently.",
+        "The iron atoms have lost their atomic structure and turned into sulfur atoms.",
+        "The atoms in the product are physically smaller and more tightly packed than in the reactants."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "John Dalton's early 19th-century atomic model was highly influential. Which of the following descriptions best represents Dalton's view of an individual atom?",
+      "options": [
+        "A solid, indivisible sphere that cannot be broken down into smaller pieces.",
+        "A positively charged sphere with tiny negative electrons embedded throughout it.",
+        "A tiny dense nucleus orbited by electrons in distinct energy levels.",
+        "A cloud of negative charge surrounding a central cluster of protons and neutrons."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A substance is analyzed and found to consist entirely of atoms that all have exactly 6 protons in their nuclei. Based on this observation, how should this substance be classified?",
+      "options": [
+        "As a compound, because it contains many identical atoms bonded together.",
+        "As a mixture, because the atoms are not chemically bonded to a different element.",
+        "As an element, because it is made up of only one type of atom.",
+        "As a metalloid, because it has properties intermediate between metals and non-metals."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "The chemical formula for aluminum sulfate is Al2(SO4)3. Based on the subscripts in this formula, what is the total number of oxygen atoms present in one formula unit of this compound?",
+      "options": [
+        "4 oxygen atoms",
+        "7 oxygen atoms",
+        "12 oxygen atoms",
+        "24 oxygen atoms"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Carbon monoxide (CO) and carbon dioxide (CO2) are two distinct gases. Which of the following best explains why they have different chemical and physical properties?",
+      "options": [
+        "Carbon monoxide is a mixture, whereas carbon dioxide is a pure compound.",
+        "They contain different elements, as carbon dioxide contains a unique form of oxygen.",
+        "They contain the same elements, but their atoms are combined in different numerical ratios.",
+        "Carbon dioxide contains carbon atoms that have twice the mass of those in carbon monoxide."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Silicon is located along the staircase line of the periodic table. It is shiny like a metal, but it is brittle and is only a moderate conductor of electricity. How is silicon classified?",
+      "options": [
+        "As a transition metal",
+        "As a metalloid",
+        "As a noble gas",
+        "As a halogen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Sodium is a highly reactive metal that reacts violently with water, and chlorine is a toxic, green gas. When they react, they form sodium chloride (table salt), which we safely eat. What does this demonstrate?",
+      "options": [
+        "Sodium chloride retains the toxic properties of chlorine but loses the reactivity of sodium.",
+        "A compound can have entirely different properties from the elements that react to make it.",
+        "The reaction was incomplete, leaving safe elements behind.",
+        "Chlorine gas and sodium metal are actually mixtures of safer elements."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Copper is commonly used to make electrical wiring and cooking pans. Which set of properties makes copper suitable for these specific applications?",
+      "options": [
+        "High electrical conductivity, high thermal conductivity, and high ductility.",
+        "High electrical conductivity, low density, and high brittleness.",
+        "Low melting point, high thermal conductivity, and high malleability.",
+        "High electrical insulation, high strength, and dull appearance."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Most non-metals are poor conductors of electricity. However, there is a crystalline form of carbon that is an excellent electrical conductor and is used to make electrodes. What is this substance?",
+      "options": [
+        "Diamond",
+        "Graphite",
+        "Sulfur",
+        "Silicon"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "If you are looking at the periodic table, where would you expect to find the elements that are typically shiny, malleable, and good conductors of electricity compared to those that are dull and brittle?",
+      "options": [
+        "Shiny, conductive elements are on the right; dull, brittle elements are on the left.",
+        "Shiny, conductive elements are on the left and middle; dull, brittle elements are on the right.",
+        "Shiny, conductive elements are in the bottom row only; dull, brittle elements are in the top row.",
+        "Both types of elements are distributed randomly across all columns of the periodic table."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Nitrogen gas makes up about 78% of Earth's atmosphere. In its natural elemental state, how does nitrogen exist?",
+      "options": [
+        "As individual, unbonded nitrogen atoms.",
+        "As diatomic molecules, each containing two nitrogen atoms bonded together.",
+        "As large, continuous networks of thousands of nitrogen atoms.",
+        "As triatomic molecules, with three nitrogen atoms bonded in a ring."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Helium, neon, and argon are found in the far right-hand column of the periodic table. Which of the following describes their atomic structure in nature?",
+      "options": [
+        "They form diatomic molecules to achieve stability.",
+        "They exist as monatomic atoms that do not chemically bond with each other.",
+        "They form giant covalent structures with metallic properties.",
+        "They exist as liquid compounds at standard room temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "When magnesium ribbon burns in the presence of oxygen gas, a white powdery compound is produced. What is the correct name of this compound?",
+      "options": [
+        "Magnesium oxygenate",
+        "Magnesium sulfate",
+        "Magnesium oxide",
+        "Magnesium carbonate"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A student heats a green powder, which releases carbon dioxide gas and leaves behind a black solid. The original green powder was a compound containing copper, carbon, and oxygen. How should this compound be classified?",
+      "options": [
+        "Copper sulfate",
+        "Copper carbonate",
+        "Copper nitrate",
+        "Copper oxide"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "In the chemical reaction represented by the word equation: zinc + sulfuric acid -> zinc sulfate + hydrogen, which substances are classified as the reactants?",
+      "options": [
+        "Zinc sulfate and hydrogen",
+        "Zinc and zinc sulfate",
+        "Zinc and sulfuric acid",
+        "Sulfuric acid and hydrogen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "During a practical investigation, a student mixes hydrochloric acid with sodium hydroxide. The temperature rises, and sodium chloride and water are formed. What are the products of this reaction?",
+      "options": [
+        "Hydrochloric acid and sodium hydroxide",
+        "Sodium chloride and water",
+        "Hydrochloric acid and sodium chloride",
+        "Sodium hydroxide and water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Iron filings and sulfur powder are thoroughly mixed together at room temperature without heating. Why is this mixture not considered a compound?",
+      "options": [
+        "The iron and sulfur atoms have not undergone a chemical reaction to form chemical bonds.",
+        "The iron and sulfur have reacted, but they did not change their state of matter.",
+        "The mixture contains more iron atoms than sulfur atoms, which prevents bonding.",
+        "Iron is a metal and sulfur is a non-metal, so they cannot form a compound."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A single atom of gold cannot be described as shiny or malleable. Why is this the case?",
+      "options": [
+        "Gold atoms only become shiny when they react with oxygen in the air.",
+        "The physical properties of bulk elements emerge from many atoms interacting, and are different from those of a single atom.",
+        "Single atoms of gold are actually gaseous and only turn solid when grouped.",
+        "A single gold atom is made of different elements that must combine to show metallic properties."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "You are given an unknown solid element that is dull in appearance and shatters into pieces when hit with a hammer. It also fails to conduct electricity. What is the most likely classification of this element?",
+      "options": [
+        "A transition metal",
+        "An alkali metal",
+        "A non-metal",
+        "A metalloid"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
     }
   ]
 }
