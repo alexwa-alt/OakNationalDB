@@ -1,6 +1,6 @@
 {
   "unitKey": "4Understanding chemical reactionsChemistry",
-  "generatedAt": "2026-08-12T06:17:02.315011+00:00",
+  "generatedAt": "2026-09-17T13:39:32.492707+00:00",
   "questions": [
     {
       "question": "A student mixes two clear, colourless liquids in a flask. She notices that the flask becomes very cold to the touch, but there is no bubbling or visible colour change. Which statement best explains this observation?",
@@ -220,6 +220,226 @@
         "To list the common names of the chemicals involved in the reaction."
       ],
       "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A student mixes two room-temperature liquids in a beaker. After mixing, they observe that the beaker feels hot to the touch, and a white cloud of gas forms. Why is this considered a chemical reaction rather than just physical mixing?",
+      "options": [
+        "The liquids have simply dissolved in each other, which always releases heat.",
+        "The temperature change and new gas formation indicate a chemical change has occurred.",
+        "Any mixing of two liquids will naturally result in a change of state from liquid to gas.",
+        "The beaker absorbing heat from the surroundings proves a physical change happened."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "During a chemical reaction between nitrogen gas and hydrogen gas to form ammonia, what happens to the individual nitrogen and hydrogen atoms?",
+      "options": [
+        "Some nitrogen atoms are converted into hydrogen atoms to balance the ratio.",
+        "The atoms are destroyed and entirely new ammonia atoms are created from energy.",
+        "The original bonds break, and the same atoms rearrange to form new chemical bonds in ammonia.",
+        "The atoms clump together without any change in how they are bonded to each other."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "When wood burns in a campfire, it turns into ash, water vapour, and carbon dioxide. Why is it practically impossible to turn the ash and gases back into wood?",
+      "options": [
+        "Chemical reactions are generally irreversible because the atoms have rearranged into highly stable new substances.",
+        "The heat from the fire has destroyed the original atoms completely.",
+        "Physical changes like burning can only be reversed by cooling them in a freezer.",
+        "The gases produced have escaped, but if they were trapped, wood would spontaneously reform."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A pile of dry wood is sitting in a forest surrounded by air containing 21% oxygen. Why does the wood not spontaneously burst into flames?",
+      "options": [
+        "There is too much oxygen in the atmosphere, which actually dampens the combustion reaction.",
+        "An initial source of energy, such as heat, is required to start the combustion reaction.",
+        "Wood is not a fuel and requires another chemical agent to make it combustible.",
+        "The wood must first be converted into a gas before oxygen can interact with it."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following best describes what scientists mean when they use the common term 'burning'?",
+      "options": [
+        "Any physical change that produces a significant amount of smoke.",
+        "The reaction of a substance with oxygen, accompanied by visible flames.",
+        "The thermal decomposition of a solid without any gas being involved.",
+        "The melting of a metal when exposed to extremely high temperatures."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "During the combustion of hydrocarbons, carbon dioxide and water are almost always produced. Why are these two substances so commonly formed in such reactions?",
+      "options": [
+        "They consist of small molecules that form very easily because of their strong chemical bonds.",
+        "They are the only substances that can exist as gases at room temperature.",
+        "They contain weak bonds that allow them to break apart and release energy constantly.",
+        "Oxygen atoms can only ever bind to carbon and hydrogen atoms, preventing other products."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "In a laboratory experiment, a student heats a single green powder in a test tube. They observe that a black solid remains and a gas is released. What type of chemical reaction has occurred?",
+      "options": [
+        "A precipitation reaction, because a solid residue was left behind.",
+        "A decomposition reaction, because a single compound broke down into multiple products.",
+        "A combustion reaction, because oxygen was used up to create the black solid.",
+        "A reversible physical change, because heating always changes the color of compounds temporarily."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A sealed jar of hydrogen peroxide slowly breaks down over several months when left on a shelf, but decomposes rapidly if exposed to bright sunlight. Why does light speed up this process?",
+      "options": [
+        "Light acts as a reactant that combines with hydrogen peroxide to form a new oxide.",
+        "Decomposition reactions typically require an input of energy, such as light, to occur.",
+        "The light cools the solution down, which destabilizes the chemical bonds.",
+        "Light removes the oxygen from the air inside the jar, forcing decomposition."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "If you strongly heat a sample of copper carbonate in a test tube and bubble the escaping gas through limewater, the limewater turns cloudy. What are the products of this decomposition?",
+      "options": [
+        "Copper metal, carbon, and oxygen gas",
+        "Copper oxide and carbon dioxide gas",
+        "Copper hydroxide and carbon monoxide gas",
+        "Copper carbonate gas and water vapour"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Carbon dioxide fire extinguishers work by blanketing a fire in a dense gas. Which requirement of the 'fire triangle' is directly cut off by this action?",
+      "options": [
+        "The fuel source",
+        "The initial heat energy",
+        "The oxygen supply",
+        "The chemical catalyst"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "When magnesium ribbon is heated in air, it reacts with a gas to form a white powder called magnesium oxide. What chemical process has occurred?",
+      "options": [
+        "Decomposition",
+        "Oxidation",
+        "Precipitation",
+        "Reduction"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which pair of processes both represent examples of oxidation reactions?",
+      "options": [
+        "The combustion of methane gas and the rusting of an iron nail",
+        "The melting of ice and the boiling of water",
+        "The thermal decomposition of copper carbonate and the filtration of salty water",
+        "The dissolving of sugar in tea and the neutralization of an acid"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "An engineer is comparing the oxidation of iron (rusting) with the oxidation of a hydrocarbon fuel (combustion). What must be true about the products of both reactions?",
+      "options": [
+        "Both reactions will produce only water as their sole product.",
+        "Both reactions will yield an oxide, but the other products of the reactions will differ.",
+        "Neither reaction can produce an oxide because oxygen is consumed.",
+        "Both reactions must produce exactly the same set of products because they are both oxidations."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A student mixes a clear solution of lead nitrate with a clear solution of potassium iodide. Instantly, a bright yellow solid forms and settles to the bottom. What type of reaction is this?",
+      "options": [
+        "Decomposition, because a solid is broken down into two liquids.",
+        "Combustion, because the reaction is highly energetic and bright.",
+        "Precipitation, because two solutions combined to form an insoluble solid.",
+        "Oxidation, because potassium has gained oxygen during the mixing."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "When testing an unknown liquid, a scientist adds a few drops of another solution and notices a cloudy precipitate forming. What does the appearance of this precipitate tell the scientist?",
+      "options": [
+        "A chemical reaction has occurred, creating a new insoluble substance.",
+        "The liquid has undergone a purely physical change of state from liquid to solid.",
+        "The mixture has reached its boiling point and is starting to evaporate.",
+        "The two liquids have completely dissolved into each other without reacting."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Why is precipitation a valuable process in municipal water treatment facilities?",
+      "options": [
+        "It turns dissolved water molecules into solid ice to make filtration easier.",
+        "It allows dissolved, unwanted contaminants to form insoluble solids so they can be filtered out.",
+        "It evaporates the water rapidly, leaving all impurities behind in the tank.",
+        "It adds oxygen gas to the water to improve its taste and smell."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "In a chemistry lab, a technician adds silver nitrate solution to an unknown clear solution, and a white precipitate immediately forms. How is precipitation being used here?",
+      "options": [
+        "To generate heat to measure the energy change of the reaction.",
+        "To perform qualitative analysis to identify the presence of specific substances.",
+        "To dissolve any solid impurities that were originally in the unknown solution.",
+        "To neutralize a highly concentrated acid safely."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "If 12 grams of carbon reacts completely with 32 grams of oxygen gas in a sealed container, what will be the total mass of the carbon dioxide gas produced?",
+      "options": [
+        "12 grams, because the oxygen gas is completely destroyed during burning.",
+        "20 grams, because some mass is lost as light energy.",
+        "44 grams, because the mass of the products must equal the mass of the reactants.",
+        "56 grams, because gas molecules expand and increase in mass when heated."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "The chemical formula for glucose is C6H12O6. What specific information does this formula convey about a single molecule of glucose?",
+      "options": [
+        "It shows that glucose contains 6 carbon atoms, 12 hydrogen atoms, and 6 oxygen atoms.",
+        "It shows that glucose is made of 24 different types of elements.",
+        "It shows the exact physical arrangement and shape of the bonds in the molecule.",
+        "It indicates that the molecule will decompose into 6 carbon dioxide and 12 water molecules."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which statement best describes what a balanced chemical equation demonstrates about a chemical reaction?",
+      "options": [
+        "It shows the physical state of each substance and how fast the reaction occurs.",
+        "It represents how the atoms in the reactants rearrange to form the products while keeping the total number of each atom constant.",
+        "It proves that some atoms are converted into energy to power the reaction.",
+        "It indicates that the reactants and products are completely different elements."
+      ],
+      "correctAnswerIndex": 1,
       "learningPointIndex": 23
     }
   ]

@@ -1,6 +1,6 @@
 {
   "unitKey": "3BiodiversityBiology",
-  "generatedAt": "2026-09-16T13:39:04.644571+00:00",
+  "generatedAt": "2026-09-17T13:38:00.130452+00:00",
   "questions": [
     {
       "question": "A scientist measures the biodiversity of two different fields. Field A has 100 dandelions and 1 poppy. Field B has 10 different wildflower species, with 10 individuals of each species. Which field has higher biodiversity, and why?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 31
+    },
+    {
+      "question": "An Arctic hare has a thick coat of white fur in winter and brown fur in summer. If climate change causes snow to melt much earlier in spring, how does this adaptation initially affect the hare's survival?",
+      "options": [
+        "The white fur makes the hare highly visible to predators against the brown, snowless ground.",
+        "The hare immediately changes its genetic code to grow brown fur earlier.",
+        "The white fur helps the hare absorb more heat from the sun to stay warm.",
+        "The hare's food source will increase, compensating for any visibility issues."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following describes a physical adaptation that directly helps a prey animal escape from predators rather than cope with climate?",
+      "options": [
+        "A desert lizard burrowing underground during the hottest part of the day.",
+        "A gazelle having eyes on the sides of its head to provide a wide field of view.",
+        "An owl hunting silently at night to catch mice unawares.",
+        "A bear hibernating through the winter to conserve energy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A desert rodent spends the hot daylight hours sleeping in an underground burrow and emerges only at night to forage. Which type of adaptation is this rodent demonstrating, and what is its primary purpose?",
+      "options": [
+        "A physical adaptation to reduce water loss from its skin.",
+        "A behavioural adaptation to avoid extreme daytime temperatures and reduce water loss.",
+        "A physical adaptation to increase its metabolic rate in the cold night air.",
+        "A behavioural adaptation to help it find mates that are active during the day."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why does a highly biodiverse forest ecosystem tend to recover more successfully from a disease outbreak that targets a specific tree species compared to a single-species tree plantation?",
+      "options": [
+        "The biodiverse forest contains alternative tree species that can fill the ecological roles of the lost trees, maintaining habitat stability.",
+        "In a biodiverse forest, all other tree species will quickly mutate to replace the dead trees.",
+        "Diseases cannot spread in ecosystems that have high biodiversity.",
+        "Biodiverse forests have fewer decomposers, which prevents the disease from spreading through the soil."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A conservation team is worried about a small, isolated population of cheetahs because they have a very small gene pool. Why is a small gene pool a major concern for the survival of this species?",
+      "options": [
+        "It means the cheetahs will have to compete more with other species for food.",
+        "It increases the chance that the population will suddenly produce too many offspring.",
+        "It reduces the likelihood that some individuals will possess the genetic traits needed to survive a new disease or environmental change.",
+        "It prevents the cheetahs from being able to hunt larger prey."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following best describes how a seed bank contributes to maintaining biodiversity for the future?",
+      "options": [
+        "It grows millions of plants in a greenhouse to release oxygen into the atmosphere.",
+        "It stores a wide variety of plant seeds in controlled conditions to preserve genetic diversity in case species become extinct in the wild.",
+        "It genetically modifies wild plants to make them resistant to all pests before planting them.",
+        "It acts as a public garden where visitors can learn about local plant species."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "An ecologist wants to find out how many dandelions are growing in a massive 10-hectare public park. Why do they use sampling rather than counting every single dandelion?",
+      "options": [
+        "Counting every dandelion would be too time-consuming and practically impossible over such a large area.",
+        "Sampling guarantees an absolutely perfect count that is more accurate than counting every plant.",
+        "Dandelions constantly move around the park, making a direct count invalid.",
+        "Sampling changes the soil chemistry, which helps the remaining dandelions grow better."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "For which of the following investigations would using a 1-metre square quadrat be the most appropriate sampling technique?",
+      "options": [
+        "Estimating the population of fast-flying butterflies in a meadow.",
+        "Tracking the migration routes of swallows across continents.",
+        "Estimating the abundance of limpets attached to a rocky seashore.",
+        "Counting the number of badgers living in a woodland area."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Students want to estimate the clover population in a school field using quadrats. Why should they throw the quadrats randomly (e.g., using a random number generator for coordinates) instead of placing them where they see the most clover?",
+      "options": [
+        "To ensure they collect the maximum amount of clover possible for analysis.",
+        "To avoid bias, which would otherwise lead to an overestimation of the clover population.",
+        "To make sure they do not damage any other plant species in the field.",
+        "To complete the sampling in the shortest possible time."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A student finds an unknown insect in a leaf litter sample. How can they use a dichotomous classification key to identify the specific species of this insect?",
+      "options": [
+        "By comparing the insect's DNA sequence with a database of known genomes.",
+        "By answering a series of yes/no questions about the insect's physical features until they reach the species name.",
+        "By measuring the total biomass of the insect and comparing it to a list of average weights.",
+        "By observing the insect's feeding behavior over several weeks to see what it eats."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following is the best example of a complete ecosystem?",
+      "options": [
+        "All the oak trees living within a specific woodland area.",
+        "A flock of migrating birds interacting with each other as they fly south.",
+        "The temperature, rainfall, and soil nutrient levels of a desert region.",
+        "The community of fish, plants, and microbes in a pond interacting with the water, dissolved oxygen, and mud."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In a woodland, caterpillars eat oak leaves, and blue tits eat the caterpillars. If a disease destroys most of the oak trees, how does this demonstrate interdependence?",
+      "options": [
+        "The blue tit population will remain unaffected because they do not eat oak leaves.",
+        "The caterpillars will find another food source, which will actually increase the blue tit population.",
+        "The blue tit population will likely decrease because there will be fewer caterpillars due to the loss of oak leaves.",
+        "The oak trees will grow back faster because there are fewer caterpillars to eat them."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why would a sudden, complete block of sunlight from a volcanic ash cloud eventually cause a decline in carnivorous wolves, even though wolves do not eat plants?",
+      "options": [
+        "Wolves need sunlight to synthesize vitamin D to survive.",
+        "The lack of sunlight prevents producers from photosynthesising, leading to a collapse of the herbivores that wolves feed on.",
+        "Wolves are scared of the dark and will stop hunting.",
+        "Volcanic ash directly poisons only the meat that wolves eat."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What would be the most direct consequence for plants in a forest if all decomposers, such as fungi and bacteria, were completely removed?",
+      "options": [
+        "Plants would grow much faster because they would not have to compete with fungi for water.",
+        "The soil would quickly run out of essential recycled nutrients, severely limiting plant growth.",
+        "Herbivores would eat more plants to compensate for the missing decomposers.",
+        "Plants would stop absorbing carbon dioxide because decomposers are no longer releasing oxygen."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "An ecologist measures the biodiversity of two different fields. Field A contains 500 dandelion plants and nothing else. Field B contains 100 dandelions, 100 buttercups, 100 daisies, and 100 clover plants. Which field has higher biodiversity and why?",
+      "options": [
+        "Field A, because it has a higher total number of individual plants.",
+        "Field B, because it has a wider range of different living organisms.",
+        "Field A, because dandelions are more complex than the other species.",
+        "Both fields have the same biodiversity because they both contain plants."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Cacti are well-adapted to survive in extremely dry desert environments. Which of the following is a physical adaptation of a cactus designed specifically to deter consumers?",
+      "options": [
+        "A thick, waxy stem that stores water.",
+        "Broad, flat leaves to capture maximum sunlight.",
+        "Sharp spines instead of leaves to prevent animals from eating them.",
+        "Deep taproots that reach underground water tables."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A houseplant is placed on a windowsill and, over several weeks, its stem bends and grows towards the glass. What type of adaptation is this, and why is it beneficial?",
+      "options": [
+        "A physical adaptation that strengthens the stem to withstand wind.",
+        "A behavioural adaptation that maximises light absorption for photosynthesis.",
+        "A physical adaptation to help the plant absorb water from the window condensation.",
+        "A behavioural adaptation to attract insect pollinators from outside."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "How is the biomass of a population of oak trees in a forest best defined and estimated?",
+      "options": [
+        "It is the total volume of water stored inside the tree trunks.",
+        "It is the total mass of living material in the trees, which can be estimated from sample measurements.",
+        "It is the total number of individual oak trees in the forest.",
+        "It is the rate at which the trees produce glucose during photosynthesis."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "In a healthy terrestrial ecosystem, why does a pyramid of biomass almost always have a wide base at the bottom that narrows towards the top?",
+      "options": [
+        "Because there are always fewer individual organisms at lower trophic levels.",
+        "Because energy and biomass are lost at each stage of the food chain, leaving less biomass to support the next level.",
+        "Because top predators are physically much smaller than the producers.",
+        "Because decomposers consume most of the biomass before it can reach the herbivores."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A single oak tree supports thousands of caterpillars, which are then eaten by ten blue tits. What would the pyramid of numbers look like for this food chain?",
+      "options": [
+        "A true pyramid shape, with the widest bar at the bottom and the narrowest at the top.",
+        "An inverted pyramid, where the top bar is wider than the middle bar.",
+        "A spindle-shaped pyramid, with a very narrow bar at the bottom (the single oak tree), a very wide bar in the middle (the caterpillars), and a narrow bar at the top (the blue tits).",
+        "A completely straight column where all bars are equal in width."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
     }
   ]
 }
