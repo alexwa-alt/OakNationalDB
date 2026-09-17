@@ -1,6 +1,6 @@
 {
   "unitKey": "2Atoms, elements and compoundsChemistry",
-  "generatedAt": "2026-09-16T13:37:16.681791+00:00",
+  "generatedAt": "2026-09-17T13:37:29.102011+00:00",
   "questions": [
     {
       "question": "During a reaction, methane gas burns in oxygen to form carbon dioxide and water. If we analyze the atoms before and after the reaction, what must be true about the total collection of atoms?",
@@ -661,6 +661,226 @@
       ],
       "correctAnswerIndex": 2,
       "learningPointIndex": 18
+    },
+    {
+      "question": "A student mixes solid citric acid with sodium hydrogencarbonate solution in a beaker. The temperature decreases, and carbon dioxide gas is produced alongside sodium citrate and water. Which substances are the reactants in this process?",
+      "options": [
+        "Citric acid and sodium hydrogencarbonate",
+        "Sodium citrate, water, and carbon dioxide",
+        "Only citric acid",
+        "Only carbon dioxide"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When magnesium ribbon is heated in a crucible with oxygen from the air, a white powder called magnesium oxide is formed. In this reaction, what constitutes the product?",
+      "options": [
+        "Magnesium oxide only",
+        "Magnesium and oxygen only",
+        "Magnesium, oxygen, and magnesium oxide",
+        "Heat energy and oxygen"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A student burns 12 g of carbon in 32 g of oxygen gas inside a sealed container to produce 44 g of carbon dioxide gas. What can be concluded about the atoms in this closed system before and after the reaction?",
+      "options": [
+        "The total number and types of atoms are identical in the reactants and the products.",
+        "Some carbon atoms were converted into oxygen atoms to balance the mass.",
+        "New carbon dioxide atoms were created during the combustion process.",
+        "The reactant atoms were destroyed, and entirely new product atoms of equal mass were formed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "When methane gas (CH4) reacts with oxygen gas (O2) to form carbon dioxide (CO2) and water (H2O), how do the atoms in the products differ from those in the reactants?",
+      "options": [
+        "The same atoms are present, but they have rearranged to form different chemical bonds.",
+        "The atoms in the products have been split into smaller subatomic particles to form new elements.",
+        "The carbon and hydrogen atoms have lost their original nuclei to form oxygen-like atoms.",
+        "The atoms are bonded in the exact same arrangement, but their physical states have changed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "If you were to use John Dalton's early 19th-century model of the atom to explain a chemical reaction, how would you represent an atom of oxygen?",
+      "options": [
+        "As a solid, indivisible sphere that cannot be split into smaller parts.",
+        "As a cloud of negative charge containing tiny positive particles.",
+        "As a central positive nucleus surrounded by orbiting electrons.",
+        "As a hollow sphere filled with smaller charged sub-particles."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A canister contains a pure substance. Analysis shows that every single atom in the canister has exactly 8 protons in its nucleus. What type of substance is this?",
+      "options": [
+        "An element",
+        "A compound",
+        "A mixture of elements",
+        "A compound of oxygen"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "An unknown mineral is analyzed and found to contain atoms of copper, iron, and sulfur. Which of the following formulas could represent this mineral?",
+      "options": [
+        "CuFeS2",
+        "CoIrS",
+        "CuFeSi",
+        "CPFeS"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "In the formula for aluminium sulfate, Al2(SO4)3, what is the total number of oxygen atoms represented in one formula unit?",
+      "options": [
+        "12",
+        "4",
+        "3",
+        "7"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Carbon monoxide (CO) is a highly toxic, odourless gas, whereas carbon dioxide (CO2) is a gas used by plants in photosynthesis. How do these two substances demonstrate compound composition?",
+      "options": [
+        "They contain the same elements but in different ratios, resulting in completely different properties.",
+        "They are different mixtures of the same elements, so they have the same chemical properties.",
+        "Carbon monoxide is an element, whereas carbon dioxide is a compound containing the same atoms.",
+        "They contain different types of carbon and oxygen atoms that determine their toxicity."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A scientist is comparing two elements, sulfur and sodium. Why is it impossible for these two elements to behave identically under the same conditions?",
+      "options": [
+        "Each element consists of its own unique type of atom with its own distinct properties.",
+        "Sodium is a compound and sulfur is a mixture, giving them different behaviors.",
+        "Sulfur contains multiple types of atoms while sodium contains only one.",
+        "Their physical properties can be identical, but their chemical formulas must always contain different subscripts."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Silicon is shiny and can conduct electricity, but it is also brittle and does not conduct heat well. How should silicon be classified based on these properties?",
+      "options": [
+        "As a metalloid, because it exhibits a mix of metallic and non-metallic properties.",
+        "As a typical metal, because it is shiny and conducts electricity.",
+        "As a typical non-metal, because it is brittle and is a poor thermal conductor.",
+        "As a compound, because it has properties of two different categories of elements."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "If you heat a mixture of iron filings and sulfur powder gently, they do not bond. However, strong heating causes a glowing reaction to occur, forming a black solid that is not magnetic. What does this transition represent?",
+      "options": [
+        "The formation of a compound from two different elements chemically bonding.",
+        "The physical mixing of two elements to form a new alloy.",
+        "The breakdown of a compound into its constituent pure elements.",
+        "The change of sulfur from a metal to a non-metal element."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Sodium is a highly reactive metal that explodes in water, and chlorine is a toxic green gas. When they react, they form sodium chloride (table salt), which we eat safely on food. Which chemical principle does this demonstrate?",
+      "options": [
+        "A compound can have entirely different properties from the elements that make it.",
+        "Elements retain their individual hazards and properties even after they form compounds.",
+        "The properties of a compound are always an average of the properties of its constituent elements.",
+        "Toxic elements always cancel each other out when mixed physically."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Copper is widely used to make electrical wiring and water pipes. Which set of properties makes copper ideal for these specific applications?",
+      "options": [
+        "It conducts electricity extremely well, is malleable and ductile, and is strong.",
+        "It is a poor thermal conductor but is highly flexible and lightweight.",
+        "It is brittle and dull, allowing it to be easily shaped without breaking.",
+        "It has a low melting point and dissolves slightly in water to prevent clogs."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A student is building an electrical circuit and needs a material to act as an electrode. They find a solid, dark grey, non-metal material called graphite. Will this material work, and why?",
+      "options": [
+        "Yes, because graphite is an unusual non-metal that is a good electrical conductor.",
+        "No, because all non-metals are poor electrical conductors.",
+        "Yes, because graphite is a metal element found on the left of the periodic table.",
+        "No, because graphite only conducts heat, not electricity."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A student is looking for a gaseous, poor conductor of electricity to use as an insulator. In which region of the periodic table are they most likely to find an element with these properties?",
+      "options": [
+        "On the right-hand side, where non-metals are located.",
+        "In the middle section, where transition metals are located.",
+        "On the far left-hand side, where alkali metals are located.",
+        "In the bottom rows only, where radioactive metals are located."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "If you could zoom in to look at a sample of pure nitrogen gas at room temperature, what would you observe?",
+      "options": [
+        "Pairs of nitrogen atoms chemically bonded together as diatomic molecules.",
+        "Single, isolated nitrogen atoms floating independently.",
+        "Long chains of hundreds of nitrogen atoms bonded in a network.",
+        "Nitrogen atoms bonded to oxygen atoms from the surrounding air."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "If zinc metal is reacted with sulfur powder under high temperatures, a new chemical compound is formed. What is the correct name of this compound?",
+      "options": [
+        "Zinc sulfide",
+        "Zinc sulfurate",
+        "Zinc sulfite",
+        "Zinc sulfur"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A student adds hydrochloric acid to a white powder, and it fizzes vigorously, producing carbon dioxide gas. The teacher explains that the powder contains a metal atom bonded to a -CO3 group. What is the general name for this type of compound?",
+      "options": [
+        "Metal carbonate",
+        "Metal sulfate",
+        "Metal nitrate",
+        "Metal chloride"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A scientist has a sample of an unknown pure substance. To help identify which element it is, they measure the exact temperature at which it changes from a solid to a liquid. Why is this a reliable method?",
+      "options": [
+        "Each element has a unique, fixed melting point under standard conditions.",
+        "The melting point of any element changes randomly depending on how it was made.",
+        "All elements melt at the exact same temperature, allowing them to be separated from compounds.",
+        "Melting points only apply to compounds, so if it melts, it is not an element."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 31
     }
   ]
 }
