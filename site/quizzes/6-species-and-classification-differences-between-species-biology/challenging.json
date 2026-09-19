@@ -1,6 +1,6 @@
 {
   "unitKey": "6Species and classification (differences between species)Biology",
-  "generatedAt": "2026-08-12T06:17:03.828850+00:00",
+  "generatedAt": "2026-09-19T12:36:46.424845+00:00",
   "questions": [
     {
       "question": "When scientists classify organisms into a hierarchy of groups within larger groups, what is their primary basis for grouping?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 12
+    },
+    {
+      "question": "When scientists discover a new insect in a rainforest, how do they decide which existing family it belongs to?",
+      "options": [
+        "By checking if it can survive in the same temperature range as other insects",
+        "By comparing its physical structures to those of known insects to see where its features fit best",
+        "By observing if it prefers to eat the same plants as other insects in that area",
+        "By measuring its overall size and weight to match it with similar-sized animals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following lists the classification groups in the correct order from the largest, most inclusive group down to the smallest?",
+      "options": [
+        "Kingdom, Family, Class, Order, Phylum, Genus, Species",
+        "Species, Genus, Family, Order, Class, Phylum, Kingdom",
+        "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "Kingdom, Phylum, Class, Family, Order, Species, Genus"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "If you compare the organisms in the Kingdom group to those in the Genus group, what trend would you observe?",
+      "options": [
+        "The Kingdom contains more organisms which share fewer similarities with each other than those in the Genus.",
+        "The Kingdom contains fewer organisms which share more similarities with each other than those in the Genus.",
+        "The Genus contains more organisms which share fewer similarities with each other than those in the Kingdom.",
+        "Both groups contain the same number of organisms but the Genus has fewer similarities."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A horse and a donkey can mate to produce a mule. However, mules are almost always sterile and cannot produce offspring. What does this tell us about horses and donkeys?",
+      "options": [
+        "They belong to the same species because they can successfully mate.",
+        "They belong to different species because their offspring is not fertile.",
+        "They belong to the same genus but have identical genes.",
+        "They belong to different kingdoms because they have different features."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "The scientific name for the red fox is Vulpes vulpes. What do the two parts of this binomial name represent?",
+      "options": [
+        "The first part is the species and the second part is the genus.",
+        "The first part is the kingdom and the second part is the phylum.",
+        "The first part is the family and the second part is the species.",
+        "The first part is the genus and the second part is the species."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why do scientists sometimes need to use microscopes instead of just looking at external body parts to classify simple organisms?",
+      "options": [
+        "To identify internal cellular structures like the presence of a nucleus or cell wall.",
+        "To see if the organism can move around in its environment.",
+        "To measure the exact length of the organism's limbs.",
+        "To count how many legs or antennae the organism has."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A cell is observed to have a cell wall, a cell membrane, and cytoplasm, but it does not contain a nucleus. Which group of organisms does this cell most likely belong to?",
+      "options": [
+        "Animals",
+        "Fungi",
+        "Bacteria",
+        "Plants"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "An organism is multicellular, has cell walls made of chitin, and does not perform photosynthesis. Into which kingdom should this organism be classified?",
+      "options": [
+        "Plants",
+        "Fungi",
+        "Animals",
+        "Bacteria"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What is the primary purpose of using a classification key in biology?",
+      "options": [
+        "To determine the exact age and evolutionary history of an organism",
+        "To identify which taxonomic group an unknown organism belongs to",
+        "To count the total population size of a species in an ecosystem",
+        "To change the scientific binomial name of an existing species"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How is a typical dichotomous classification key structured to help identify an organism?",
+      "options": [
+        "As a list of scientific names sorted in alphabetical order.",
+        "As a single complex question with multiple choice answers ranging from A to Z.",
+        "As a series of questions, each offering two contrasting choices about physical features.",
+        "As a diagram showing how an organism's cells divide over time."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "How does the scientific system of classification help us make sense of global biodiversity?",
+      "options": [
+        "It provides a structured framework to group, name, and study millions of diverse organisms systematically.",
+        "It allows us to predict the exact date when a species will become extinct.",
+        "It reduces the actual number of species living in the wild to make them easier to count.",
+        "It forces all organisms to adapt to the same environmental conditions."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Students are studying organisms in a school pond. Which of the following is the most scientific way to record their observations?",
+      "options": [
+        "Write a fictional story about what the pond creatures might do at night.",
+        "Estimate the sizes of the organisms by memory after returning to the classroom.",
+        "Only write down the names of the organisms they already recognize.",
+        "Note down specific, measurable physical traits and behaviors of each organism in a structured table."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "While exploring a woodland, you find an unknown leaf with jagged edges and a hairy underside. How should you use a classification key to identify the tree it came from?",
+      "options": [
+        "Search through the key for the most attractive picture and assume it is the correct tree.",
+        "Follow the step-by-step questions in the key, starting at the beginning, matching the leaf's features to the choices.",
+        "Skip the first few questions and start in the middle of the key where it lists trees.",
+        "Guess the name of the tree first, then find a question in the key that matches your guess."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "When investigating small invertebrates living under logs in a school garden, what is the best practice to minimise disruption to the ecosystem?",
+      "options": [
+        "Keep the invertebrates in sealed plastic tubs inside the classroom permanently.",
+        "Carefully roll the log back to its exact original position after observing the organisms.",
+        "Clear away all leaf litter and logs from the area to make future observations easier.",
+        "Spray the area with insecticide so only the target species remain for study."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Two plants look very similar and grow in the same field, but pollen from one cannot fertilise the other to produce viable seeds. What can be concluded about these plants?",
+      "options": [
+        "They belong to different species because they cannot successfully reproduce to make fertile offspring.",
+        "They belong to the same species because they live in the same habitat and look similar.",
+        "They belong to the same species but one plant has mutated cell walls.",
+        "They belong to different kingdoms because their reproductive cells are incompatible."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A multicellular organism has a nucleus, chloroplasts, and cell walls made of cellulose. Which kingdom does this organism belong to?",
+      "options": [
+        "Animals",
+        "Bacteria",
+        "Fungi",
+        "Plants"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which cell structure is present in the cells of plants, fungi, and bacteria, but is completely absent in animal cells?",
+      "options": [
+        "Cell wall",
+        "Cell membrane",
+        "Cytoplasm",
+        "Ribosomes"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why is there more variation among organisms within the Phylum group than within the Family group?",
+      "options": [
+        "Because Family is a larger group that contains a wider variety of kingdoms.",
+        "Because organisms in a Phylum have identical genetic sequences.",
+        "Because Phylum is a larger, more inclusive classification group with fewer shared characteristics.",
+        "Because the Family group contains organisms from completely different kingdoms."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why do scientists worldwide use the binomial system (like Homo sapiens) instead of common names (like 'human')?",
+      "options": [
+        "To make scientific papers look more complicated and professional.",
+        "To avoid confusion caused by translation differences and regional common names.",
+        "To ensure that only trained scientists can understand which organism is being discussed.",
+        "Because binomial names are updated every year to reflect new habitats."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following field-work actions represents a hazard to the local biodiversity and should be avoided?",
+      "options": [
+        "Uprooting multiple rare plants to take back to the lab for identification.",
+        "Using a soft paint brush to gently move small insects into a viewing pot.",
+        "Wearing sturdy boots and staying on designated pathways during the survey.",
+        "Washing hands thoroughly after handling soil and pond water samples."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
     }
   ]
 }

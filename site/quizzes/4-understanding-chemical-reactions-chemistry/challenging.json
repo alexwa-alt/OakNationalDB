@@ -1,6 +1,6 @@
 {
   "unitKey": "4Understanding chemical reactionsChemistry",
-  "generatedAt": "2026-09-17T13:39:32.492707+00:00",
+  "generatedAt": "2026-09-19T12:35:31.301541+00:00",
   "questions": [
     {
       "question": "A student mixes two clear, colourless liquids in a flask. She notices that the flask becomes very cold to the touch, but there is no bubbling or visible colour change. Which statement best explains this observation?",
@@ -438,6 +438,226 @@
         "It represents how the atoms in the reactants rearrange to form the products while keeping the total number of each atom constant.",
         "It proves that some atoms are converted into energy to power the reaction.",
         "It indicates that the reactants and products are completely different elements."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A student mixes two clear liquids in a flask. The flask suddenly feels cold to the touch and a bright yellow colour appears, but no gas is released. Which statement best explains this observation?",
+      "options": [
+        "A physical mixing process has occurred because no gas bubbles were observed.",
+        "A chemical reaction has occurred, as indicated by the temperature drop and colour change.",
+        "No reaction took place because temperature decreases only occur during physical cooling.",
+        "The substances have dissolved in each other, which always causes a spontaneous colour change."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "During an experiment, a student adds zinc metal to hydrochloric acid and observes bubbles rapidly forming on the metal surface. What is the direct cause of these bubbles?",
+      "options": [
+        "The liquid acid is boiling due to the heat generated in the mixture.",
+        "Air trapped inside the zinc metal is being squeezed out as it dissolves.",
+        "A gas is being produced as a new substance during the chemical reaction.",
+        "The zinc is reacting with dissolved oxygen to turn water into steam."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "When methane reacts with oxygen to form carbon dioxide and water, what happens to the individual atoms involved?",
+      "options": [
+        "The original atoms are destroyed and entirely new, heavier atoms are created.",
+        "The atoms rearrange themselves to form different combinations and new substances.",
+        "The atoms fuse together into a single giant molecule containing all the reactant elements.",
+        "The carbon and hydrogen atoms remain bonded exactly as before, but oxygen surrounds them."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "After heating a piece of wood in a campfire, you are left with ash and gases that escape into the air. Why is this process considered a chemical reaction rather than a physical change?",
+      "options": [
+        "The process is easily reversed by cooling down the ash and capturing the gases.",
+        "The change in state from solid wood to gas is a typical physical process.",
+        "New substances have been formed, and the process is generally irreversible.",
+        "Wood is a mixture, and physical processes only happen to pure substances."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A scientist wants to start a combustion reaction inside a sealed chamber. The chamber contains a sample of methane gas (fuel) and pure nitrogen gas. A spark plug is fired, but no reaction occurs. What is missing?",
+      "options": [
+        "An initial source of energy to start the reaction.",
+        "Oxygen gas to act as the reactant with the fuel.",
+        "Carbon dioxide to act as a catalyst for the spark.",
+        "A solid metal surface to absorb the nitrogen."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When ethanol (which contains carbon, hydrogen, and oxygen atoms) is burned in a plentiful supply of air (containing oxygen), what is a likely product formed because of the present atoms?",
+      "options": [
+        "Liquid hydrogen, because hydrogen atoms are freed from ethanol.",
+        "Water, because hydrogen and oxygen atoms are present and combine.",
+        "Hydrochloric acid, because chlorine is present in the surrounding air.",
+        "Pure carbon, because hydrogen and oxygen atoms completely destroy each other."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "During the thermal decomposition of a mystery organic compound, carbon dioxide gas is detected. What does this tell you about the elements originally present in the reactants?",
+      "options": [
+        "The reactants must have contained only carbon atoms.",
+        "The reactants must have contained only oxygen atoms.",
+        "Oxygen and carbon atoms must have been present in the reaction.",
+        "Hydrogen and nitrogen must have been the main components of the reactant."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why are carbon dioxide and water so frequently produced in many different chemical reactions, such as combustion?",
+      "options": [
+        "They consist of large, complex polymers that require minimal energy to construct.",
+        "They are made of small molecules that form easily with strong chemical bonds.",
+        "They have very weak bonds, meaning they require almost no atoms to form.",
+        "They are the only compounds that can exist in the gaseous state at room temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "In a laboratory, a scientist heats a sample of pure copper carbonate in a test tube. Over time, it turns into solid copper oxide and releases carbon dioxide gas. How should this reaction be classified?",
+      "options": [
+        "A combustion reaction, because oxygen is consumed from the air.",
+        "A decomposition reaction, because a single compound breaks down into two products.",
+        "A precipitation reaction, because a new solid is formed from two solutions.",
+        "A displacement reaction, because copper has swapped places with carbon."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Silver chloride is a stable compound when stored in a dark brown bottle. However, when poured onto a watch glass and left on a sunny windowsill, it slowly turns grey and releases chlorine gas. What does this tell us about this decomposition reaction?",
+      "options": [
+        "It is a spontaneous combustion reaction that requires no energy.",
+        "It is a decomposition reaction that requires light energy to occur.",
+        "It is a precipitation reaction driven by the evaporation of water.",
+        "It is an oxidation reaction where silver combines with nitrogen."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "If a chemist heats a green powder of copper carbonate strongly in a test tube, what products are typically expected to form?",
+      "options": [
+        "Copper metal, carbon, and oxygen gas.",
+        "Copper oxide and carbon dioxide gas.",
+        "Copper hydride and carbon monoxide gas.",
+        "Copper hydroxide and pure liquid carbon."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A safety engineer is designing a fire suppression system. To stop a combustion reaction instantly, the system must remove at least one key component. According to the scientific requirements of combustion, which of the following actions would successfully stop the reaction?",
+      "options": [
+        "Increasing the concentration of fuel while keeping heat and oxygen constant.",
+        "Completely removing the oxygen supply, even if fuel and heat are still present.",
+        "Adding a spark to ignite any leftover carbon dioxide molecules.",
+        "Reducing the pressure of the nitrogen gas surrounding the flame."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "When magnesium metal is heated in a crucible, it reacts with the surrounding air to produce a white ash called magnesium oxide. What general term describes this type of chemical reaction?",
+      "options": [
+        "Thermal decomposition, because a compound is broken down.",
+        "Precipitation, because a solid is formed from two liquids.",
+        "Oxidation, because the substance has combined with oxygen.",
+        "Neutralisation, because an acid has reacted with a base."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which pair of everyday chemical processes are both examples of oxidation reactions?",
+      "options": [
+        "The thermal decomposition of copper carbonate and the boiling of water.",
+        "The burning of wood (combustion) and the rusting of an iron nail.",
+        "Mixing vinegar with baking soda and the freezing of liquid nitrogen.",
+        "The precipitation of silver chloride and the dissolving of salt in water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "When comparing the oxidation of iron (rusting) to the oxidation of methane (combustion), what is a common feature regarding their chemical products?",
+      "options": [
+        "Both reactions produce exactly the same set of chemical products.",
+        "One of the products of each reaction is always an oxide, though the other products vary.",
+        "Neither reaction forms an oxide; they only produce pure elements.",
+        "Both reactions must produce carbon dioxide as their sole oxide product."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A student mixes a clear solution of lead nitrate with a clear solution of potassium iodide. Instantly, a bright yellow solid forms and settles at the bottom. What type of reaction has occurred?",
+      "options": [
+        "A combustion reaction, because light was emitted.",
+        "A decomposition reaction, because a substance broke down.",
+        "A precipitation reaction, because two solutions combined to form an insoluble solid.",
+        "An oxidation reaction, because oxygen was transferred between the salts."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "You mix two clear, room-temperature liquids in a beaker. A cloudy solid suddenly appears suspended in the liquid, though there is no temperature change or fizzing. What can you conclude?",
+      "options": [
+        "No chemical reaction took place because there was no temperature change.",
+        "A chemical reaction has occurred, as evidenced by the appearance of a precipitate.",
+        "The liquids simply boiled, creating a solid residue of gas.",
+        "A physical change occurred where one of the liquids evaporated instantly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Why are precipitation reactions used as a key step in industrial municipal water treatment facilities?",
+      "options": [
+        "To boil the water quickly using the heat released from the precipitate.",
+        "To dissolve useful gases like oxygen more effectively into the water.",
+        "To remove unwanted, dissolved substances from the water by turning them into insoluble solids.",
+        "To turn the water into a solid block of ice so it can be transported easily."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A student burns 5 grams of magnesium ribbon in a sealed glass container containing 10 grams of oxygen gas. After the reaction is complete, 8 grams of magnesium oxide powder is formed, and some oxygen remains. What is the total mass of the contents inside the sealed container after the reaction?",
+      "options": [
+        "Exactly 8 grams, because only the solid product has mass.",
+        "Exactly 15 grams, because the mass of the products must equal the mass of the reactants.",
+        "More than 15 grams, because the reaction created new atoms.",
+        "Less than 15 grams, because some mass was converted into light energy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which statement best describes what a balanced chemical equation represents?",
+      "options": [
+        "It shows the physical state of the reactants and how fast they melt.",
+        "It represents how the atoms in the reactants rearrange to form the products.",
+        "It illustrates the total amount of heat energy lost to the surroundings.",
+        "It lists the names of the elements in alphabetical order."
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 23
