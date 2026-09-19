@@ -1,6 +1,6 @@
 {
   "unitKey": "5Moving by forcePhysics",
-  "generatedAt": "2026-08-12T06:17:04.019237+00:00",
+  "generatedAt": "2026-09-19T12:36:09.717884+00:00",
   "questions": [
     {
       "question": "Runner A runs at a speed of 8 m/s while Runner B runs at 5 m/s. Which statement correctly compares their journey over a fixed 100-metre distance?",
@@ -221,6 +221,226 @@
       ],
       "correctAnswerIndex": 2,
       "learningPointIndex": 37
+    },
+    {
+      "question": "Two cars, X and Y, travel the exact same 50 km route. Car X completes the journey in 40 minutes, while Car Y completes it in 50 minutes. What does this tell us about their speeds?",
+      "options": [
+        "Car X had a greater speed than Car Y, so it took a shorter time to cover the distance.",
+        "Car Y had a greater speed than Car X, but encountered more delays.",
+        "Both cars had the exact same average speed because the distance covered was identical.",
+        "Car X travelled at a lower speed to conserve energy over the set distance."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A toy car is rolling forward along a smooth, flat track. A student begins to apply a constant force in the opposite direction of its motion. What happens to the car's speed?",
+      "options": [
+        "The speed of the car will decrease because a resultant force acts against its motion.",
+        "The speed of the car will remain constant because the applied force is constant.",
+        "The car will immediately stop and remain completely stationary.",
+        "The car's speed will increase because any applied force causes an increase in speed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "On a distance-time graph, Section A of a journey rises 10 metres over a span of 2 seconds, while Section B rises 20 metres over a span of 10 seconds. How do the speeds of these two sections compare?",
+      "options": [
+        "Section A represents faster movement because its line has a steeper gradient.",
+        "Section B represents faster movement because the total distance covered is larger.",
+        "Both sections show the same speed because they both slope upwards.",
+        "Section B represents faster movement because it took a longer time to complete."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A skydiver is falling through the air and eventually reaches a stable, constant speed. Which statement correctly describes the forces acting on the skydiver at this point?",
+      "options": [
+        "The upward drag force is equal in size to the downward gravitational force.",
+        "The downward gravitational force has become zero.",
+        "The upward drag force is much larger than gravity, keeping them suspended.",
+        "There are no forces acting on the skydiver anymore."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Two identical model landers are dropped from the same height. Lander A uses a parachute with a surface area of 1 square metre, and Lander B uses a parachute with a surface area of 2 square metres. Why does Lander B fall more slowly?",
+      "options": [
+        "The larger surface area of Lander B's parachute produces a bigger drag force.",
+        "The larger surface area of Lander B's parachute increases the downward pull of gravity.",
+        "Lander B's parachute reduces the mass of the lander, making it lighter.",
+        "Lander B's parachute completely eliminates air resistance."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A cyclist's journey is represented on a distance-time graph. For 10 minutes, the line on the graph is perfectly horizontal and flat at a distance of 5 km. What was the cyclist doing during this time?",
+      "options": [
+        "The cyclist was stationary (not moving).",
+        "The cyclist was moving at a constant speed of 5 km/h.",
+        "The cyclist was accelerating rapidly to increase their speed.",
+        "The cyclist was riding back to their starting position."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "On a distance-time graph tracking a dog running in a park, the line slopes upwards for 20 seconds, and then slopes downwards for 10 seconds. What does the downward slope represent?",
+      "options": [
+        "The dog is moving in the opposite direction, back towards its starting position.",
+        "The dog has stopped moving completely and is resting.",
+        "The dog is slowing down but still moving in the original direction.",
+        "The dog is moving at an extremely high speed in the same direction."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A car travels 60 miles in 1 hour, but its speedometer reads 70 mph at one point and 30 mph at another. What does the speedometer reading at any single second represent?",
+      "options": [
+        "The instantaneous speed of the car at that particular moment.",
+        "The average speed of the car over the entire journey.",
+        "The total distance the car is guaranteed to travel in the next hour.",
+        "The constant speed the car maintained throughout the trip."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A student is measuring the position of a toy car against a ruler. Why must they position their eyes directly in line with the marking they are reading?",
+      "options": [
+        "To ensure they are in line with the observation, preventing errors like parallax.",
+        "To increase the speed at which they can write down the measurements.",
+        "To prevent the toy car from accidentally colliding with the ruler.",
+        "To change the scale of the ruler so that it reads in smaller divisions."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "In an experiment measuring how long it takes for a marble to roll down a ramp, a group of students decides to record five separate time measurements instead of just one. How does this improve their investigation?",
+      "options": [
+        "Repeating the readings helps to reduce the effect of random timing errors when calculating the average.",
+        "Repeating the readings guarantees that no systematic errors can occur in the stopwatch.",
+        "Repeating the readings increases the speed of the marble as it rolls down.",
+        "Repeating the readings automatically makes the ramp steeper each time."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A student records the following times for a trolley to travel 1 metre: 1.2s, 1.3s, 3.5s, 1.2s, and 1.4s. What should they do with the 3.5s reading when calculating the average speed?",
+      "options": [
+        "Exclude it because it is an anomalous reading that would make the average inaccurate.",
+        "Include it because all collected data points must be used to keep the test fair.",
+        "Add it to the fastest time and ignore the remaining trials.",
+        "Divide only this reading by 5 to find its individual average."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A heavy wooden block is slid across a rough concrete floor from left to right. In which direction does the friction force act on the block?",
+      "options": [
+        "From right to left, opposing the direction of movement.",
+        "From left to right, assisting the movement of the block.",
+        "Straight down, pulling the block towards the centre of the Earth.",
+        "Straight up, lifting the block off the concrete floor."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A probe in deep space, far away from the gravitational pull of any stars or planets, turns off its propulsion engines. What will happen to its motion?",
+      "options": [
+        "It will continue to move at a steady speed in a straight line.",
+        "It will slow down gradually and eventually come to a complete stop.",
+        "It will immediately stop in place because there is no force pushing it.",
+        "It will begin to loop in a circle around the point where the engines stopped."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Why do modern high-speed passenger trains have sleek, curved, and tapered front ends rather than flat, boxy profiles?",
+      "options": [
+        "The streamlined shape reduces the drag force acting on the train.",
+        "The streamlined shape increases the gravitational force holding the train to the tracks.",
+        "The streamlined shape increases the friction between the wheels and the tracks.",
+        "The streamlined shape reduces the train's mass so it requires less engine power."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "As a cyclist pedals faster and faster down a steep hill, what happens to the air resistance (drag force) they experience?",
+      "options": [
+        "The drag force increases as the cyclist's speed increases.",
+        "The drag force decreases because they cut through the air more quickly.",
+        "The drag force remains completely constant regardless of speed.",
+        "The drag force drops to zero once they reach their maximum speed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "On the distance axis of a graph, the major grid lines go from 0 to 10 metres. There are 5 small grid squares between these two lines. What is the value of each small division?",
+      "options": [
+        "2 metres, because the large division value (10) divided by the number of small divisions (5) is 2.",
+        "0.5 metres, because the number of small divisions (5) divided by the large division value (10) is 0.5.",
+        "5 metres, because there are 5 small grid squares.",
+        "1 metre, because each small square always represents 1 unit on a standard axis."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Two speedboats are tested for exactly 30 seconds. Boat A travels 600 metres, while Boat B travels 900 metres. What does this tell us about their speeds?",
+      "options": [
+        "Boat B had a greater speed because it travelled more distance in that certain time.",
+        "Boat A had a greater speed because it completed the run in a shorter time.",
+        "Both boats had the same speed because the test duration was exactly the same.",
+        "Boat B had a lower speed because it had to cover a larger distance."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A skydiver is falling at a stable terminal velocity of 120 mph. They then deploy their parachute. How does this affect their terminal velocity?",
+      "options": [
+        "Their terminal velocity decreases because the parachute increases the drag force.",
+        "Their terminal velocity remains exactly the same because terminal velocity is a fixed constant.",
+        "Their terminal velocity increases because the larger surface area gathers more gravitational pull.",
+        "Their terminal velocity drops to zero instantly, bringing them to a complete stop mid-air."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "An engineering team modifies a high-speed sports car by adding a highly streamlined body kit. How does this modification affect the car's maximum performance?",
+      "options": [
+        "It can increase the top speed of the car by reducing drag.",
+        "It will decrease the top speed because the extra body panels add too much mass.",
+        "It will have no effect on top speed, but will increase the downward gravitational pull.",
+        "It allows the car to stop more quickly by increasing the friction on the road."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "A parachutist has reached their final, steady top speed during descent. How does the upward drag force on the parachute compare to the downward force of gravity on the jumper?",
+      "options": [
+        "The drag force is the exact same size as the force of gravity.",
+        "The drag force is much larger than the force of gravity.",
+        "The force of gravity is larger than the drag force, causing continued acceleration.",
+        "The drag force is zero because they are moving at a steady speed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
     }
   ]
 }
