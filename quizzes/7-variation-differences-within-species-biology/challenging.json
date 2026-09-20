@@ -1,6 +1,6 @@
 {
   "unitKey": "7Variation (differences within species)Biology",
-  "generatedAt": "2026-08-12T09:36:20.773265+00:00",
+  "generatedAt": "2026-09-20T13:11:24.147609+00:00",
   "questions": [
     {
       "question": "A student monitors a population of snails and groups them based on whether they have a banded shell or an unbanded shell. What type of variation is this, and what is its defining characteristic?",
@@ -660,6 +660,226 @@
         "The missing leg is a discontinuous genetic variation that is recessive."
       ],
       "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A scientist is classifying variations in a population of ladybirds. She notes that some ladybirds have 2 spots, some have 7 spots, and some have 10 spots, with absolutely no ladybirds having fractional or intermediate spot numbers like 4.5. How should this feature be classified?",
+      "options": [
+        "As continuous variation, because the number of spots can be counted numerically.",
+        "As discontinuous variation, because the feature falls into distinct, separate categories with no intermediates.",
+        "As environmental variation, because the number of spots is determined by the aphid population size.",
+        "As continuous variation, because there is a wide range of spot counts across different ladybird species."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When measuring the exact leaf lengths of 100 oak trees, a student finds that the values range smoothly from 5.2 cm to 14.8 cm, including values like 7.34 cm and 11.05 cm. What type of variation does leaf length represent, and why?",
+      "options": [
+        "Discontinuous variation, because leaf length can be grouped into small, medium, and large categories.",
+        "Discontinuous variation, because the maximum leaf length is limited by the tree's age.",
+        "Continuous variation, because the feature can take any numerical value within a continuous range.",
+        "Continuous variation, because leaf lengths are identical across all branches of a single tree."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following correctly pairs a human feature and a plant feature with their correct type of variation?",
+      "options": [
+        "Discontinuous: Human blood group & Plant leaf width; Continuous: Human height & Plant petal number",
+        "Discontinuous: Human lobed/lobeless ears & Plant seed coat texture; Continuous: Human body mass & Plant stem length",
+        "Discontinuous: Human height & Plant stem length; Continuous: Human eye colour & Plant flower colour",
+        "Discontinuous: Human mass & Plant root length; Continuous: Human blood group & Plant leaf number"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A class is planning to collect primary data on variation. Group A decides to record the tongue-rolling ability of 50 students, while Group B decides to measure the hand span of the same 50 students. Which of the following represents the correct method for collecting and preparing to record these primary data types?",
+      "options": [
+        "Group A must use a ruler to get continuous values, while Group B must tally categories like 'can' and 'cannot'.",
+        "Group A should record 'can roll' or 'cannot roll' as tally categories, while Group B should use a measuring tape to record hand spans in centimetres.",
+        "Both groups must record their data using exact millimetre measurements to ensure high accuracy for both discontinuous and continuous variation.",
+        "Group A should plot a line graph during data collection, while Group B should plot a pie chart directly on their clipboards."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A biology student has collected the body lengths of 150 adult woodlice. Why is a histogram or a line graph more appropriate for displaying this data than a bar chart?",
+      "options": [
+        "Because body length is continuous data that can take any value, requiring continuous intervals along the horizontal axis rather than discrete categories.",
+        "Because a histogram allows each individual woodlouse to be plotted as a separate, distinct bar with gaps between them.",
+        "Because discontinuous data like woodlouse length must be shown with lines to highlight the gaps between different species.",
+        "Because a line graph is only used when the variable being measured has fewer than five possible categories."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When plotting a histogram for the heights of 200 sunflower plants, what is a crucial rule that must be followed regarding the horizontal axis and the bars?",
+      "options": [
+        "Each sunflower height must be plotted as a separate bar, leaving a distinct gap between every bar to show individual variation.",
+        "The horizontal axis must be divided into continuous, equal-width intervals (bins), and the bars must touch to show the continuous nature of the data.",
+        "The bars should be ordered from tallest to shortest, with the width of each bar representing the number of sunflowers in that category.",
+        "The horizontal axis must list individual sunflower names or labels, with the bars remaining separate to prevent overlapping data."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Examine the description of a histogram displaying the shell diameters of a population of garden snails. The histogram shows a bell-shaped curve, with the tallest bars in the middle range (1.8 cm to 2.2 cm) and very short bars at the extreme ends (1.0 cm and 3.0 cm). What does this distribution tell us about the population?",
+      "options": [
+        "Most snails in the population have either extremely small or extremely large shell diameters.",
+        "The population consists of two entirely separate species that do not overlap in size.",
+        "Most snails have a shell diameter close to the average, with fewer individuals showing extreme values at either end.",
+        "The snail shells grow in discrete steps, meaning no snails have diameters between 2.0 cm and 2.1 cm."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A clone of a plant is divided into two parts. One part is grown in nutrient-rich soil with plenty of light, and it grows tall with many leaves. The other part is grown in poor soil with low light, and it remains short with few leaves. What does this experiment demonstrate about continuous variation in plant height?",
+      "options": [
+        "Plant height is determined solely by the genetic information inherited from the parent plant.",
+        "Continuous variation, like plant height, is influenced by both genetic factors and environmental conditions.",
+        "The environment can permanently alter the genetic code of the plant clone to make it short.",
+        "Continuous variation is unaffected by lifestyle or environment, and the differences observed were due to random mutations."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "You are tasked with representing data collected on the ABO blood groups of 80 students. Why is a bar chart with gaps between the bars the correct way to display this data?",
+      "options": [
+        "Because blood groups represent continuous variation, and the gaps show that the data can take any value between groups.",
+        "Because blood groups are discontinuous data consisting of distinct, non-overlapping categories, and the gaps emphasize this separation.",
+        "Because a bar chart is only used when the total number of participants is less than 50.",
+        "Because the gaps allow the reader to easily estimate the average blood group of the entire class."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "When plotting a bar chart to represent the different feather colours of a poultry flock (brown, white, black, speckled), which of the following practices is correct?",
+      "options": [
+        "The feather colours must be arranged along a numerical scale on the horizontal axis, with the bars touching each other.",
+        "The vertical axis must show the categories of feather colours, while the horizontal axis represents the frequency using continuous bins.",
+        "The categories (brown, white, black, speckled) should be placed on the horizontal axis with gaps between the bars to show they are discrete categories.",
+        "The bars must be plotted as a continuous line graph because feather colour can change gradually over the bird's lifetime."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "An analyst looks at a bar chart showing the frequency of different pea seed shapes (round or wrinkled) in a harvest. One bar is very tall (round) and the other is short (wrinkled), with a clear gap between them. Which of the following is an accurate interpretation of this chart?",
+      "options": [
+        "The pea seeds show continuous variation, with most seeds being partially round and partially wrinkled.",
+        "The chart shows discontinuous variation, where seeds belong to one of two distinct, non-overlapping categories.",
+        "The environment has caused the wrinkled peas to gradually transition into round peas over time.",
+        "The gap between the bars indicates that there are many peas with intermediate shapes that were not recorded."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A person's blood type (A, B, AB, or O) is a classic example of discontinuous variation. Which of the following statements best explains the underlying cause of this variation?",
+      "options": [
+        "It is determined by a combination of a person's diet, physical fitness levels, and genetic inheritance.",
+        "It is entirely determined by genetic inheritance and is unaffected by the person's environment, lifestyle, or climate.",
+        "It changes gradually throughout a person's life depending on the type of food they eat and the diseases they contract.",
+        "It is caused entirely by environmental factors during early development in the womb, with no genetic basis."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A pair of golden retrievers mate and produce a litter of puppies. Although the puppies have slight differences, they are unmistakably dogs of the golden retriever breed, rather than cats or foxes. What biological principle does this illustrate?",
+      "options": [
+        "Offspring inherit features only from the environment in which they are raised.",
+        "When organisms reproduce, they make offspring of the same kind, maintaining species resemblance.",
+        "Offspring are identical clones of the maternal parent due to natural replication.",
+        "Species resemblance is determined entirely by the temperature during gestation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "In a human family, three siblings all have a mixture of physical features that resemble both their mother and their father, such as their father's nose shape and their mother's eye colour. Why do these family resemblances occur?",
+      "options": [
+        "The siblings inherited all their physical features from a single dominant parent.",
+        "The siblings copy the facial expressions and physical habits of their parents after birth.",
+        "Offspring inherit genetic features from both parents, leading to a blend of similarities to both parents and one another.",
+        "The environment in which the family lives shapes their physical features to look identical over time."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How are inherited features, such as natural hair colour or lobed ears, physically passed down from parents to their offspring during reproduction?",
+      "options": [
+        "Through the transmission of proteins directly from the parent's digestive tract to the offspring.",
+        "By the passage of DNA, containing genetic instructions, from parents to offspring during fertilisation.",
+        "Through the physical environment and climate influencing the developing embryo's skin cells.",
+        "By the parents teaching the offspring how to express certain physical traits after birth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A young pine tree is growing on a very windy, exposed cliffside. Over several years, its trunk becomes permanently bent and stunted compared to other pine trees of the same species growing in a sheltered valley. What is the primary cause of this bent trunk feature?",
+      "options": [
+        "A rapid mutation in the tree's DNA caused by the wind, which will be passed to all its seeds.",
+        "The lifestyle and environmental forces acting on the tree, modifying its physical growth and shape.",
+        "The tree's genetic programming, which was designed to make it bend regardless of where it was planted.",
+        "A complete lack of species resemblance due to the high altitude of the cliffside."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A farmer breeds two award-winning sheep to produce a lamb, hoping the lamb will be identical to the parents. However, the lamb has a slightly different fleece thickness and a unique pattern of spots on its face. Why is this variation between offspring and parents typical?",
+      "options": [
+        "Because sexual reproduction usually results in variation, meaning offspring are not typically identical to their parents or each other.",
+        "Because the lamb's DNA was completely replaced by environmental factors after its birth.",
+        "Because sheep do not exhibit species resemblance when bred under controlled farm conditions.",
+        "Because the parents' genes were damaged by the breeding process, preventing normal inheritance."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Compare the differences between a domestic dog and a grey wolf (two different species) with the differences between a German Shepherd and a Chihuahua (two varieties of the same species). Which of the following general biological rules is correct?",
+      "options": [
+        "Differences within a single species are always far greater than the differences between entirely different species.",
+        "Differences between different species are typically greater than the differences within a single species.",
+        "There are no measurable physical differences between different species, only within species.",
+        "Species resemblance ensures that all species on Earth are identical, meaning variation only exists within families."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "If you look closely at a field of daisies, you will notice that some have slightly longer petals, some have yellow-green centers, and others have pale yellow centers, even though they all belong to the species Bellis perennis. What is the scientific term for these differences among individuals of the same species?",
+      "options": [
+        "Speciation",
+        "Adaptation",
+        "Variation",
+        "Classification"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "An indoor cat has a small nick in its left ear because it got caught on a wire toy when it was a kitten. Which of the following statements correctly classifies this variation?",
+      "options": [
+        "It is an inherited genetic variation because it changed the shape of the cat's ear permanently.",
+        "It is a continuous variation because the size of the nick can be measured on a millimetre scale.",
+        "It is an environmental variation caused only by the environment and physical injury, with no genetic basis.",
+        "It is a combined variation because the cat's lifestyle interacted with its ear-healing genes to create the nick."
+      ],
+      "correctAnswerIndex": 2,
       "learningPointIndex": 19
     }
   ]

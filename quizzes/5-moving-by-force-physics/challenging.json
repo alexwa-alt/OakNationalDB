@@ -1,6 +1,6 @@
 {
   "unitKey": "5Moving by forcePhysics",
-  "generatedAt": "2026-09-19T12:36:09.717884+00:00",
+  "generatedAt": "2026-09-20T13:06:59.225671+00:00",
   "questions": [
     {
       "question": "Runner A runs at a speed of 8 m/s while Runner B runs at 5 m/s. Which statement correctly compares their journey over a fixed 100-metre distance?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 14
+    },
+    {
+      "question": "Two cars, A and B, travel along the same 10-kilometre stretch of road. If Car B travels at a much higher speed than Car A, what is the effect on its journey time?",
+      "options": [
+        "Car B takes less time than Car A to cover the 10 kilometres.",
+        "Car B takes more time than Car A because it has to cover a greater distance.",
+        "Both cars take the exact same amount of time to cover the distance.",
+        "Car B takes less time because a higher speed reduces the physical distance."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A toy car is rolling forward along a smooth level floor. A student applies a constant resultant force in the opposite direction to the car's motion. What is the effect of this resultant force?",
+      "options": [
+        "The car continues at a steady speed because forces do not affect rolling objects.",
+        "The speed of the car decreases because the resultant force opposes its motion.",
+        "The car immediately reverses direction without changing its speed.",
+        "The speed of the car increases because any applied force makes things go faster."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "An object falling through the air has reached its terminal velocity. Which statement correctly describes the forces acting on it at this moment?",
+      "options": [
+        "The drag force has become larger than the constant gravitational force.",
+        "The upward drag force and the downward gravitational force are equal in size.",
+        "The gravitational force has dropped to zero due to the fast movement.",
+        "There are no forces acting on the object at all."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A skydiver with an open parachute is falling at a steady top speed. How does the upward force of drag on the parachute compare to the downward force of gravity on the jumper?",
+      "options": [
+        "The drag force is larger than the force of gravity to keep them floating.",
+        "The force of gravity is larger than the drag force to keep them moving downwards.",
+        "The drag force is the exact same size as the force of gravity on the jumper.",
+        "Both forces have decreased to zero because the speed is no longer changing."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "On a distance-time graph, Section X has an upward sloping line, while Section Y has a downward sloping line. What does this tell you about the object's movement?",
+      "options": [
+        "The object is speeding up in Section X and slowing down in Section Y.",
+        "The object is moving in opposite directions in Section X and Section Y.",
+        "The object is moving uphill in Section X and downhill in Section Y.",
+        "The object is moving in Section X but has stopped completely in Section Y."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A sprinter runs a 100-meter race. A speed camera records their speed at exactly 4.2 seconds into the race. What type of speed measurement does this camera record?",
+      "options": [
+        "The average speed over the entire race.",
+        "The instantaneous speed at that particular moment.",
+        "The terminal speed of the sprinter.",
+        "The constant speed of the sprinter."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A student measures the time taken for a trolley to roll down a ramp four times, recording: 2.1s, 2.2s, 4.5s, and 2.0s. How should they handle the 4.5s reading when calculating the average?",
+      "options": [
+        "Include it in the calculation because all data points must be averaged.",
+        "Exclude 4.5s because it is anomalous and would make the average inaccurate.",
+        "Replace the other three readings with 4.5s because it is the largest value.",
+        "Add 4.5s only to the smallest reading before finding the average."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A spacecraft is coasting through deep space with its engines turned off. Assuming there is no gravity and no gas particles to cause friction, what will happen to its motion?",
+      "options": [
+        "It will slowly lose speed and eventually come to a complete stop.",
+        "It will continue to move at a steady speed in a straight line.",
+        "It will instantly stop moving because there is no force pushing it forward.",
+        "It will continue to accelerate because there is no friction to hold it back."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Why do engineers design high-speed trains with long, tapered, pointed noses rather than flat, vertical front ends?",
+      "options": [
+        "To increase the downward gravitational force and keep the train on the tracks.",
+        "To reduce the drag force acting against the train's forward movement.",
+        "To increase the friction between the wheels and the steel tracks.",
+        "To allow the train to generate its own forward resultant force from the wind."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "Two metal balls of identical mass are dropped from the same height. Ball A is a smooth sphere, while Ball B is a crumpled, irregular shape. Why does Ball B take longer to reach the ground?",
+      "options": [
+        "Ball B experiences a weaker force of gravity because of its crumpled shape.",
+        "Ball B has a shape that experiences a larger drag force as it falls.",
+        "Ball B loses some of its mass due to air resistance as it falls.",
+        "Ball B experiences less friction because it has more flat surfaces."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A skydiver tests two different parachutes. Parachute X has a larger surface area than Parachute Y. How does the surface area affect the drag force at a given speed?",
+      "options": [
+        "Parachute X experiences a smaller drag force because it is wider.",
+        "Parachute X experiences a bigger drag force due to its larger surface.",
+        "Both parachutes experience the same drag force because the skydiver's weight is identical.",
+        "Parachute X experiences a bigger drag force only because gravity pulls harder on larger surfaces."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "As a speedboat accelerates from a standstill up to its maximum speed, what happens to the drag force exerted on it by the water?",
+      "options": [
+        "The drag force increases as the speedboat's speed increases.",
+        "The drag force decreases because the boat rises up out of the water.",
+        "The drag force remains completely constant regardless of how fast it goes.",
+        "The drag force decreases to zero once the boat reaches its top speed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "To measure the position of a rolling cylinder against a stationary meter ruler accurately, where must a student stand to make the observation?",
+      "options": [
+        "At a slight angle to the side to see the start and finish lines simultaneously.",
+        "Directly in line with the specific mark they are observing.",
+        "Slightly above the ruler looking downwards at a forty-five-degree angle.",
+        "At the starting line, looking along the length of the ruler towards the finish."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "On a distance-time graph, there is a single plotted point at the coordinates (5 seconds, 15 meters). What information does this specific point directly provide?",
+      "options": [
+        "The object is traveling at a constant speed of 3 meters per second.",
+        "The object is located 15 meters from the start at the 5-second mark.",
+        "The object has been stationary for a total duration of 5 seconds.",
+        "The object has a resultant force acting on it at 5 seconds."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "A distance-time graph for a toy car shows a perfectly horizontal, flat line between 4 seconds and 8 seconds. What does this line indicate about the car's motion?",
+      "options": [
+        "The car is moving at a high, steady speed.",
+        "The car is stationary and not moving during this time.",
+        "The car is reversing back to its starting position.",
+        "The car is accelerating at a steady rate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A remote-controlled car travels a total distance of 120 meters in a time of 40 seconds. What is the speed of the car?",
+      "options": [
+        "3 m/s",
+        "4800 m/s",
+        "0.33 m/s",
+        "80 m/s"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A constant forward resultant force acts on a boat for a duration of 15 seconds. What happens to the speed of the boat during this time?",
+      "options": [
+        "The speed increases instantly in the first second and then remains constant.",
+        "The speed changes continuously throughout the entire 15 seconds.",
+        "The speed remains unchanged until the resultant force stops acting.",
+        "The speed increases and decreases in a repeating cycle every second."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "In a school laboratory, why do students take three separate timing readings for a trolley rolling down a ramp and find the average?",
+      "options": [
+        "To completely eliminate systematic calibration errors in the stopwatch.",
+        "To reduce the effect of random errors in starting and stopping the timer.",
+        "To ensure the trolley experiences a different gravitational pull on each run.",
+        "To increase the speed of the trolley with each successive run."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "How does a streamlined shape help a fish or a submarine travel more easily and faster through water?",
+      "options": [
+        "It increases the gravitational force pulling the object forward.",
+        "It reduces the amount of water that must be pushed out of the way as it moves.",
+        "It increases the friction of the fluid to help propel the object forward.",
+        "It creates a vacuum behind the object that pulls it forward."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "As a skydiver falls through the atmosphere and speeds up before opening their parachute, how does the gravitational force acting on them change?",
+      "options": [
+        "The gravitational force increases as their speed increases.",
+        "The gravitational force decreases as air resistance builds up.",
+        "The gravitational force pulls down with a steady, constant force.",
+        "The gravitational force drops to zero once they reach high speeds."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
     }
   ]
 }
