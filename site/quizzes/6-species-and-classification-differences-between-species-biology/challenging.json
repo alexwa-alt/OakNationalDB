@@ -1,6 +1,6 @@
 {
   "unitKey": "6Species and classification (differences between species)Biology",
-  "generatedAt": "2026-09-19T12:36:46.424845+00:00",
+  "generatedAt": "2026-09-20T13:07:36.198124+00:00",
   "questions": [
     {
       "question": "When scientists classify organisms into a hierarchy of groups within larger groups, what is their primary basis for grouping?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 13
+    },
+    {
+      "question": "A taxonomist is grouping several newly discovered beetle species. She groups those with similar antennae together, then groups those groups based on leg structure. What fundamental principle of classification does this demonstrate?",
+      "options": [
+        "Organisms are classified into nested groups within larger groups based on similarities and differences.",
+        "Classification only uses external features to place organisms into a single, un-nested list.",
+        "Organisms are grouped randomly first, then sorted by their evolutionary age.",
+        "Classification is done solely by microscopic analysis of cell walls."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If two organisms belong to the same Class, which of the following taxonomic ranks in the hierarchy from kingdom down to species must they also share?",
+      "options": [
+        "Family",
+        "Genus",
+        "Kingdom",
+        "Species"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How do the number of organisms and the degree of similarity between them change as you move from the species level up to the kingdom level?",
+      "options": [
+        "The number of organisms increases, but they share fewer similarities.",
+        "The number of organisms decreases, and they share more similarities.",
+        "The number of organisms increases, and they share more similarities.",
+        "The number of organisms decreases, and they share fewer similarities."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A horse (Equus caballus) and a donkey (Equus asinus) can mate to produce a mule. Mules are almost always sterile and cannot produce offspring. What does this tell us about horses and donkeys?",
+      "options": [
+        "They belong to the same species because they can mate and produce a living offspring.",
+        "They belong to different species because their offspring are sterile.",
+        "They belong to different species because they have completely different genes.",
+        "They belong to the same genus but are the same species due to similar features."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Two populations of songbirds look identical but have different mating songs. When brought together in a lab, they do not mate. Are they the same species according to the biological species concept?",
+      "options": [
+        "Yes, because their physical features are identical.",
+        "No, because they do not naturally reproduce to produce fertile offspring.",
+        "Yes, because they share the same genetic code for appearance.",
+        "No, because they live in different geographical areas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "The scientific name for the domestic cat is Felis catus. What do the two parts of this binomial name represent?",
+      "options": [
+        "Felis is the species; catus is the genus.",
+        "Felis is the genus; catus is the species.",
+        "Felis is the family; catus is the genus.",
+        "Felis is the kingdom; catus is the species."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A scientist discovers a single-celled organism in a hot spring. Why might they need to examine its cellular structure under an electron microscope to classify it, rather than just looking at its overall shape?",
+      "options": [
+        "Overall shape is never used in classification.",
+        "Microscopic, cellular-level features are essential for distinguishing between kingdoms like bacteria and single-celled eukaryotes.",
+        "Only multicellular organisms can be classified by their outward physical appearance.",
+        "Microscopes can change the DNA of the organism to make it easier to identify."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following correctly pairs a cell feature with the group of organisms that possesses it?",
+      "options": [
+        "Bacteria: Cell wall made of chitin",
+        "Fungi: Cell wall made of chitin and no chloroplasts",
+        "Plants: No cell wall but contain chloroplasts",
+        "Animals: Cell wall made of cellulose"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "You are examining an unknown organism under a microscope and observe cell walls made of cellulose, a distinct nucleus, and large vacuoles, but no chloroplasts. How would you classify this organism?",
+      "options": [
+        "It is a bacterium because it lacks chloroplasts.",
+        "It is a fungus because it has a cell wall but no chloroplasts.",
+        "It is a plant because it has plant-like cellular features such as a cellulose cell wall, even though it lacks chloroplasts.",
+        "It is an animal because it cannot perform photosynthesis."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "An organism is found to be multicellular, its cells have nuclei, but they completely lack cell walls. Into which kingdom should this organism be classified?",
+      "options": [
+        "Plants",
+        "Fungi",
+        "Bacteria",
+        "Animals"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A student finds an unfamiliar insect in the school garden. How can a classification key help them?",
+      "options": [
+        "It can predict the future evolutionary changes of the insect.",
+        "It can determine the exact age of the individual insect.",
+        "It allows them to identify the group or species the insect belongs to based on observable features.",
+        "It provides a list of chemical treatments to preserve the insect."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following best describes how a standard dichotomous classification key is structured?",
+      "options": [
+        "A series of open-ended questions where the user writes a description.",
+        "A series of questions with two contrasting choices about the features of the organisms.",
+        "A single list of all known species ranked by their size.",
+        "A diagram showing the genetic sequence of different organisms."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why is classifying organisms into a structured system crucial for global conservation efforts to protect biodiversity?",
+      "options": [
+        "It allows scientists to rename species whenever they want.",
+        "It helps us organise, identify, and make sense of the vast variety of life, ensuring threatened species are correctly targeted for protection.",
+        "It guarantees that no more species will go extinct.",
+        "It simplifies biodiversity by reducing the actual number of species in the wild."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "When recording observations of wild plants in a local woodland, why is it important to note both physical features and the specific habitat where they were found?",
+      "options": [
+        "Habitat conditions are irrelevant to identification but good for drawing.",
+        "It ensures that other scientists can find the exact same individual plant to pick it.",
+        "The habitat provides context that, along with physical features, helps correctly interpret and identify the species.",
+        "Plants change their species depending on the weather of the day."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "You are using a classification key in a damp meadow to identify a small crawling animal. The key asks if the animal has legs. You notice it has very tiny, almost invisible protrusions. How should you proceed to ensure an accurate classification?",
+      "options": [
+        "Make a guess and skip to the end of the key.",
+        "Examine the specimen closely with a hand lens to confirm if these protrusions function as jointed legs before choosing the path.",
+        "Assume the key is wrong and write your own path.",
+        "Stop using the key and class it as a new species of worm immediately."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "During a field study of rock pool organisms, which of the following practices best demonstrates minimizing harm to the living organisms?",
+      "options": [
+        "Keeping collected animals in a small bucket of warm tap water for several hours.",
+        "Carefully turning rocks back to their original positions after looking underneath them.",
+        "Removing rare seaweeds to study them under a microscope back at school.",
+        "Scraping all organisms off a rock to count them more easily."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why are there fewer shared characteristics among organisms in the kingdom Animalia than among organisms in the family Felidae (cats)?",
+      "options": [
+        "The kingdom is a much larger group containing highly diverse organisms, whereas a family is smaller and contains closely related organisms.",
+        "The family Felidae contains more organisms than the entire Animal kingdom.",
+        "Kingdoms only classify organisms based on their size, not their characteristics.",
+        "Organisms in a kingdom do not share any common ancestors or genes."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following represents the correct format and structure of a binomial name for the grey wolf?",
+      "options": [
+        "Canis Lupus (both words capitalized and underlined)",
+        "canis lupus (all lowercase, italicized)",
+        "Canis lupus (first word capitalized, second lowercase, italicized)",
+        "Lupus canis (species name first, genus name second)"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "How do the cells of a bacterium differ fundamentally from the cells of a multicellular fungus?",
+      "options": [
+        "Bacterial cells have chloroplasts, while fungal cells do not.",
+        "Bacterial cells lack a nucleus, whereas fungal cells contain a nucleus.",
+        "Fungal cells lack a cell wall, while bacterial cells have one.",
+        "Fungal cells are always prokaryotic, while bacterial cells are eukaryotic."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A student is designing a classification key for four trees: Oak, Pine, Holly, and Birch. What makes 'Does it have green leaves?' a poor first question for their key?",
+      "options": [
+        "It is too difficult to answer.",
+        "All four trees have green leaves, so this question does not help separate them into groups.",
+        "Questions in keys must only ask about the height of the trees.",
+        "Leaves change colour every hour, making it unreliable."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
     }
   ]
 }

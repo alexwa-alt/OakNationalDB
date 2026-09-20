@@ -1,0 +1,226 @@
+{
+  "unitKey": "8Earth's resourcesChemistry",
+  "generatedAt": "2026-09-20T13:11:45.482147+00:00",
+  "questions": [
+    {
+      "question": "Which of the following is true about the melting point of rock?",
+      "options": [
+        "It is very low.",
+        "It is very high.",
+        "It is exactly the same as water.",
+        "Rocks cannot melt under any conditions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is melted rock called when it is underground?",
+      "options": [
+        "Lava",
+        "Magma",
+        "Granite",
+        "Basalt"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Where does extrusive igneous rock form?",
+      "options": [
+        "Deep inside Earth's mantle",
+        "Inside Earth's crust",
+        "Outside Earth's crust",
+        "In Earth's core"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What main factor determines the size of crystals in cooled igneous rock?",
+      "options": [
+        "The rate at which the melted rock cools",
+        "The amount of water present in the rock",
+        "The type of fossils embedded in the rock",
+        "The atmospheric pressure above the rock"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following describes the types of grains that rocks can contain?",
+      "options": [
+        "Only perfectly square grains",
+        "Round or interlocking grains",
+        "Only liquid-filled grains",
+        "Grains that are always invisible"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How are atoms arranged inside a crystal?",
+      "options": [
+        "In a random, chaotic jumble",
+        "In a very regular pattern",
+        "In loose, moving layers",
+        "In hollow, air-filled spheres"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What conditions between tectonic plates allow large crystals to grow inside solid rock?",
+      "options": [
+        "Extremely low temperatures and zero pressure",
+        "High pressure and high temperature",
+        "The presence of rushing surface water",
+        "Rapid freezing at the surface"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Under what conditions do metamorphic rocks form, altering their original structures?",
+      "options": [
+        "Rapid cooling at the Earth's surface",
+        "Extreme pressure and temperature",
+        "Slow evaporation of salty lakes",
+        "Gentle accumulation of sand and mud"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why do some metamorphic rocks easily separate into thin, flat sheets?",
+      "options": [
+        "Because they contain round, loose sand grains",
+        "Because their crystals are aligned",
+        "Because they are made entirely of liquid magma",
+        "Because they cooled very rapidly on the surface"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What do rocks consist of?",
+      "options": [
+        "Only pure liquid elements",
+        "Minerals and rock fragments",
+        "Fossilised wood only",
+        "Man-made synthetic chemicals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What is a mineral?",
+      "options": [
+        "A man-made mixture of different plastics",
+        "A naturally occurring pure substance with a crystal structure",
+        "Any rock that contains animal fossils",
+        "A type of organic soil used for farming"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which of the following best describes the shape and outer structure of the Earth?",
+      "options": [
+        "A flat disc with a thick crust, entirely covered in ice",
+        "A spherical, rocky planet with a thin crust, partially covered in water",
+        "A perfect cube made of solid iron, with no water",
+        "A gaseous sphere with a thick crust, completely dry"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is the dense, rocky layer located directly under Earth's crust called?",
+      "options": [
+        "The outer core",
+        "The inner core",
+        "The mantle",
+        "The atmosphere"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following correctly describes the centre of the Earth?",
+      "options": [
+        "A liquid core surrounded by solid mantle",
+        "A solid metallic core surrounded by a liquid outer core",
+        "A hollow space filled with pressurized gas",
+        "A core made entirely of liquid water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "How do temperature and pressure change towards the centre of Earth, and what is the state of the inner core?",
+      "options": [
+        "They decrease, making the inner core liquid",
+        "They increase, making the inner core extremely hot and solid",
+        "They stay constant, keeping the inner core gas",
+        "They increase, making the inner core a cold liquid"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What evidence supports the idea that Earth's continents were once all joined together?",
+      "options": [
+        "The fact that all oceans are exactly the same depth",
+        "Rock formations and fossils",
+        "The identical weather patterns on all continents today",
+        "The presence of active volcanoes on every island"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What are the slowly moving pieces that Earth's crust is broken into called?",
+      "options": [
+        "Glaciers",
+        "Tectonic plates",
+        "Mantle plumes",
+        "Sandy grains"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which features are characteristic of sedimentary rocks?",
+      "options": [
+        "Large interlocking crystals aligned in one direction",
+        "Distinct grains that are stuck together",
+        "Glassy textures with no distinct grains",
+        "Liquid layers that flow easily"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "How do the crystals in igneous rocks compare to those in metamorphic rocks?",
+      "options": [
+        "Igneous crystals point in many directions, while metamorphic crystals mostly line up",
+        "Igneous crystals are aligned, while metamorphic crystals point in many directions",
+        "Both rock types contain crystals that are perfectly round and do not point anywhere",
+        "Neither rock type contains any crystals at all"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What makes a rock non-porous rather than porous?",
+      "options": [
+        "Containing round grains that do not touch",
+        "Containing interlocking grains or interlocking crystals",
+        "Being made completely of organic fossil shells",
+        "Having large air gaps between its fragments"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    }
+  ]
+}
