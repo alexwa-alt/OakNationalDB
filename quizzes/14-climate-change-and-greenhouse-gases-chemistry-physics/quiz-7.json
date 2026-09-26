@@ -1,0 +1,226 @@
+{
+  "unitKey": "14Climate change and greenhouse gasesChemistryPhysics",
+  "generatedAt": "2026-09-26T13:26:45.799605+00:00",
+  "questions": [
+    {
+      "question": "How do scientists calculate global surface temperatures to ensure accuracy?",
+      "options": [
+        "By using a single highly advanced satellite orbiting the Earth.",
+        "By taking tens of thousands of temperature measurements worldwide.",
+        "By measuring temperatures only in major capital cities.",
+        "By averaging temperatures from the deepest parts of the oceans."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When scientists analyse global temperature changes, what do they compare current regional temperatures with?",
+      "options": [
+        "The long-term average temperature for that specific region.",
+        "The temperature of the nearest desert.",
+        "The global temperature recorded exactly one year ago.",
+        "The theoretical maximum temperature possible on Earth."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What general trend has been observed in overall global surface temperatures since the industrial revolution in the 1850s?",
+      "options": [
+        "They have remained completely stable.",
+        "They have been steadily decreasing.",
+        "They have been increasing.",
+        "They have fluctuated with no clear long-term direction."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following can scientists study to get reliable data about temperature changes from hundreds or thousands of years ago?",
+      "options": [
+        "Deep sea sand dunes and modern weather reports.",
+        "The movement of tectonic plates and active volcanoes.",
+        "Tree rings and ice cores.",
+        "Fossilised animal bones and coal deposits."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the main environmental consequence of the increasing levels of greenhouse gases in Earth's atmosphere?",
+      "options": [
+        "A decrease in global sea levels and cooler oceans.",
+        "Global warming and climate change.",
+        "The complete destruction of the ozone layer.",
+        "An increase in solar radiation reaching the upper atmosphere."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "How does methane compare to carbon dioxide as a greenhouse gas?",
+      "options": [
+        "Methane is less potent than carbon dioxide.",
+        "Methane is a more potent greenhouse gas than carbon dioxide.",
+        "Methane and carbon dioxide have the exact same warming effect.",
+        "Methane is only harmful when it reacts with carbon dioxide."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What is the primary effect of having greenhouse gases naturally present in Earth's atmosphere?",
+      "options": [
+        "They keep the atmosphere warmer than it would be without them.",
+        "They block all heat from the Sun from reaching the Earth's surface.",
+        "They make the atmosphere much colder by reflecting sunlight.",
+        "They prevent any oxygen from escaping into space."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why does the melting of land-based ice sheets due to increased temperatures cause sea levels to rise?",
+      "options": [
+        "It releases trapped air bubbles that push the water upwards.",
+        "It moves more water from the land into the sea.",
+        "Melting ice sheets decrease the density of seawater, making it take up less space.",
+        "The cold water from ice sheets causes ocean currents to speed up."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why does the melting of floating sea ice in the summer NOT raise sea levels?",
+      "options": [
+        "Floating ice is already displacing its own weight of water, so melting it does not add water to the sea.",
+        "The melted sea ice immediately evaporates into the atmosphere.",
+        "Sea ice is made of fresh water which is less dense than sea water.",
+        "The melted ice is quickly absorbed by marine life."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Apart from melting land ice, what is another major reason why global sea levels are rising?",
+      "options": [
+        "Warmer oceans and seas expand in volume.",
+        "Increased rainfall directly fills up the ocean basins.",
+        "Undersea volcanic eruptions push water upwards.",
+        "Tides are becoming stronger and more frequent."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following are produced when we burn fuels for transport?",
+      "options": [
+        "Only carbon dioxide and water vapour.",
+        "Greenhouse gases, other pollutant gases, and particulates.",
+        "Pure oxygen and nitrogen gas.",
+        "Helium and non-toxic soot particles."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which statement correctly compares the emissions of petrol/diesel vehicles and electric vehicles?",
+      "options": [
+        "Electric vehicles burn fuel directly, whereas petrol vehicles use electricity.",
+        "Neither petrol nor electric vehicles release any emissions.",
+        "Petrol and diesel vehicles burn fuels, while electric vehicles do not, though power stations may burn fuel to make their electricity.",
+        "Electric vehicles produce more tailpipe pollutants than diesel vehicles."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How does carbon capture and storage (CCS) technology work?",
+      "options": [
+        "It converts CO₂ into oxygen in the upper atmosphere.",
+        "It releases CO₂ into deep ocean currents to be diluted.",
+        "It separates CO₂ from other emissions and stores it in suitable deep underground locations.",
+        "It burns CO₂ at high temperatures to turn it into harmless ash."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is a major drawback of using carbon capture and storage technology despite its ability to reduce CO₂ emissions?",
+      "options": [
+        "It causes an increase in local sulfur emissions.",
+        "It is very expensive to implement and run.",
+        "It only works during the summer months.",
+        "It requires the use of radioactive materials."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Roughly what percentage of global greenhouse gas emissions is produced by the energy sector?",
+      "options": [
+        "Around 10%",
+        "Around 25%",
+        "Around 50%",
+        "Around 75%"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Under what conditions will a car use more energy to travel a distance of 100 km?",
+      "options": [
+        "If the car is lighter or travels at lower speeds.",
+        "If the car is heavier or travels at higher speeds.",
+        "If the car is painted a darker colour.",
+        "If the car travels during the night."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "How does maintaining the correct air pressure in car tyres affect energy use?",
+      "options": [
+        "It causes the car to use less energy.",
+        "It has no effect on the energy consumed by the car.",
+        "It increases the energy needed because of increased friction.",
+        "It only saves energy when driving downhill."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why will renewable energy resources not run out?",
+      "options": [
+        "They are stored in infinite underground tanks.",
+        "They are replenished more quickly than we use them up.",
+        "They do not release any energy when used.",
+        "They are created by chemical reactions in the Earth's core."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "How is a turbine spun to generate electricity when burning fuels like biomass, oil, or gas?",
+      "options": [
+        "By using the direct force of falling ashes.",
+        "By using moving steam produced by burning the fuel.",
+        "By using the gravitational pull of the fuel.",
+        "By using the wind generated by cooling fans."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Which of the following technologies produces electricity without needing an electric generator with a spinning turbine?",
+      "options": [
+        "Wind turbines",
+        "Hydroelectric dams",
+        "Coal-fired power stations",
+        "Solar panels"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 33
+    }
+  ]
+}

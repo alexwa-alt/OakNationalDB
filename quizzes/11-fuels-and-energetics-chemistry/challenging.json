@@ -1,6 +1,6 @@
 {
   "unitKey": "11Fuels and energeticsChemistry",
-  "generatedAt": "2026-08-16T08:52:47.046584+00:00",
+  "generatedAt": "2026-09-26T13:15:23.285233+00:00",
   "questions": [
     {
       "question": "A student burns a small piece of ethanol under a copper can of water. Which statement best describes how energy is transferred to the water?",
@@ -661,6 +661,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 24
+    },
+    {
+      "question": "A student burns a small piece of ethanol under a beaker of water. Which statement best explains how the energy change is detected in this setup?",
+      "options": [
+        "The fuel gains energy from the water, lowering the water's temperature.",
+        "Burning the fuel transfers energy by heating the surroundings, which increases the temperature of the water.",
+        "The combustion reaction absorbs thermal energy from the air, making the beaker cold.",
+        "The chemical bonds in the water break, releasing energy that heats the ethanol."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "To compare the energy output of two different liquid fuels, a student heats water in a boiling tube using a spirit burner. Why is this method effective for comparing energy transfers?",
+      "options": [
+        "Water has a very low boiling point, so it boils instantly to show the maximum energy.",
+        "The rise in water temperature serves as an indicator of the relative amount of energy transferred by each fuel.",
+        "The boiling tube prevents any energy from escaping to the air, ensuring 100% efficiency.",
+        "It allows the student to measure the chemical mass of the heat directly rather than temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "In an experiment to compare the energy released by ethanol and propanol, a student wants to ensure a fair comparison of the fuels' properties. Why must the mass of each fuel burned during the test be kept identical?",
+      "options": [
+        "Because different fuels must transfer the exact same total energy to the water.",
+        "To ensure that the energy transferred per unit mass can be compared directly.",
+        "Because heavier fuels always have a lower boiling point than lighter fuels.",
+        "To keep the volume of water in the boiling tube from evaporating."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "When comparing the energy transferred by different fuels using a water-heating setup, which set of water variables must be kept constant to ensure the comparison is valid?",
+      "options": [
+        "The initial temperature of the water and the volume of water used.",
+        "The final boiling temperature of the water and the mass of the boiling tube.",
+        "The volume of water and the duration the water is allowed to boil.",
+        "The depth of the thermometer in the water and the chemical purity of the fuel."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A scientist cools a sample of liquid stearic acid and records its temperature over time. On the resulting cooling curve, a flat, horizontal section (plateau) is observed. What does this plateau represent?",
+      "options": [
+        "The substance is heating up rapidly due to an endothermic process.",
+        "A change of state is occurring, during which the temperature remains constant.",
+        "The substance has completely evaporated and no longer has a measurable temperature.",
+        "The thermometer has reached its minimum physical limit and cannot measure lower temperatures."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "As a hot gas cools down in a closed container, it eventually turns into a liquid. Which of the following describes the energy transfer and state change occurring during this process?",
+      "options": [
+        "The substance transfers energy into the surroundings by heating and condenses.",
+        "The substance absorbs energy from the surroundings and freezes.",
+        "The substance transfers energy into the surroundings and evaporates.",
+        "The substance absorbs energy from the surroundings and condenses."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A beaker of hot water is left on a laboratory bench. Over 30 minutes, the temperature of the water decreases from 80 °C to 25 °C. What is happening to the energy of the water during this time?",
+      "options": [
+        "Energy is being created inside the water, causing its particles to slow down.",
+        "Energy is absorbed from the colder surroundings, causing the water temperature to drop.",
+        "Energy is released to the surroundings as the water cools, observed as a decrease in its temperature.",
+        "Energy is converted into mass, making the water heavier as it cools."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "In a school lab, a student mixes two solutions in a polystyrene cup. The temperature of the mixture increases from 21 °C to 29 °C. How should this chemical reaction be classified?",
+      "options": [
+        "Endothermic, because energy is absorbed by the reactants from the thermometer.",
+        "Exothermic, because it causes an increase in the temperature of the surroundings.",
+        "Endothermic, because the chemical bonds in the products contain more energy than the reactants.",
+        "Exothermic, because the system has absorbed thermal energy from the air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "When ammonium nitrate dissolves in water, the temperature of the solution drops from 20 °C to 12 °C. What type of reaction is this, and why?",
+      "options": [
+        "Exothermic, because energy is released, lowering the temperature of the surroundings.",
+        "Endothermic, because it causes a decrease in the temperature of the surroundings.",
+        "Exothermic, because the water molecules gain kinetic energy.",
+        "Endothermic, because the temperature of the surroundings increases to balance the system."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which statement correctly describes the energy transfer in an exothermic chemical reaction?",
+      "options": [
+        "Energy is transferred from the surroundings to the reactants.",
+        "Energy is transferred from the reactants to the surroundings.",
+        "Energy is created within the products without any transfer.",
+        "Energy is destroyed to lower the temperature of the products."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "During an endothermic reaction, how is energy exchanged between the system and its environment?",
+      "options": [
+        "Energy is transferred from the surroundings to the products.",
+        "Energy is transferred from the products to the surroundings.",
+        "Energy is released as light, causing the surroundings to warm up.",
+        "No energy is exchanged because the reaction occurs instantly."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When solid ice is heated, it turns into liquid water, and with further heating, it becomes water vapor. What is the role of heating in these state changes?",
+      "options": [
+        "Heating transfers energy out of the substance, causing its bonds to strengthen.",
+        "Heating transfers energy into the substance, which can cause it to melt, evaporate, or boil.",
+        "Heating destroys the molecules, converting them into pure thermal energy.",
+        "Heating keeps the temperature of the substance constant without changing its physical state."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why are melting, evaporation, and boiling classified as endothermic processes?",
+      "options": [
+        "They release energy to the surroundings, causing a temperature rise.",
+        "They require energy to be transferred into the substance from the surroundings.",
+        "They decrease the overall internal energy of the substance.",
+        "They occur only when the surroundings are at absolute zero."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What thermodynamic classification do condensing and freezing fall under, and why?",
+      "options": [
+        "Endothermic, because they require the substance to absorb heat from the surroundings.",
+        "Exothermic, because energy is released to the surroundings during these processes.",
+        "Endothermic, because the temperature of the substance must increase to change state.",
+        "Exothermic, because they destroy thermal energy to make the particles move faster."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which statement accurately describes the modern generation of electricity in the United Kingdom?",
+      "options": [
+        "Over half of the electricity is generated from the Sun, wind, and falling water.",
+        "Almost all electricity is generated by burning coal in large thermal power stations.",
+        "No electricity is generated from renewable sources like wind or solar.",
+        "Nuclear power is the only method used to generate electricity in the UK."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In many active thermal power stations across the UK, how is water converted into steam to begin the process of electricity generation?",
+      "options": [
+        "By using solar panels to focus sunlight directly onto the water pipes.",
+        "By burning natural gas and oil to heat the water.",
+        "By mixing water with highly reactive alkali metals to cause an exothermic reaction.",
+        "By passing the water through volcanic geothermal vents."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "In a thermal power station, what is the correct sequence of physical actions that leads to the generation of electricity?",
+      "options": [
+        "Moving steam pushes turbines, which drive electric generators that produce electricity.",
+        "Burning fuel directly spins the electric generators without needing a turbine.",
+        "Steam cools down into liquid water, which directly powers the electric outlets.",
+        "Electric generators boil the water, which then pushes the turbines backwards."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which of the following statements is true regarding the use of fossil fuels in UK power stations today?",
+      "options": [
+        "Coal is the primary fossil fuel burned, while natural gas has been completely phased out.",
+        "Natural gas and oil are fossil fuels used in power stations, whereas coal is no longer used.",
+        "Both coal and wood have been entirely banned, leaving oil as the sole energy source.",
+        "Fossil fuels are no longer used in any capacity in UK power stations."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "When evaluating different combustible fuels, which group of fuels all release greenhouse gases and pollutants when they are burned?",
+      "options": [
+        "Natural gas, oil, waste, and wood",
+        "Wind, solar, falling water, and geothermal",
+        "Hydrogen, oxygen, and pure liquid nitrogen",
+        "Only coal and crude oil, while wood and waste burn completely cleanly"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why are wind, solar, and hydroelectric energy classified as renewable resources?",
+      "options": [
+        "They can be burned multiple times without losing any of their mass.",
+        "They will not run out because they are replenished more quickly than we use them up.",
+        "They do not transfer any energy to the surroundings when they are used.",
+        "They are created artificially in laboratories at a very low cost."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
     }
   ]
 }

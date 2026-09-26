@@ -1,6 +1,6 @@
 {
   "unitKey": "12Making imagesPhysics",
-  "generatedAt": "2026-08-17T09:07:20.243573+00:00",
+  "generatedAt": "2026-09-26T13:24:09.612180+00:00",
   "questions": [
     {
       "question": "A student makes a pinhole camera with two tiny pinholes placed very close to each other on the front face instead of one. What will they observe on the screen?",
@@ -881,6 +881,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 34
+    },
+    {
+      "question": "A student pokes three tiny holes close together in the front face of a pinhole camera instead of just one. What will they observe on the screen?",
+      "options": [
+        "A single image that is three times brighter.",
+        "Three separate, dim, inverted images.",
+        "A single, extremely sharp but inverted image.",
+        "Three upright, bright images overlapping perfectly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A pinhole camera has a small circular hole. If a student uses a pin to double the diameter of this hole, how does the path of light change and affect the image?",
+      "options": [
+        "Light travels in curved paths, making the image sharper and brighter.",
+        "Light from each point on the object passes through the hole in more directions, making the image brighter but more blurred.",
+        "Light travels through the centre of the hole only, causing the image to become smaller and dimmer.",
+        "Light rays are refracted by the larger hole, focusing them into a sharper, brighter image."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A student places an opaque piece of cardboard so that it covers the top half of a convex lens forming an image of a candle on a screen. What happens to the image?",
+      "options": [
+        "Only the bottom half of the candle's image is visible on the screen.",
+        "Only the top half of the candle's image is visible on the screen.",
+        "The complete image of the candle is still visible, but it is dimmer.",
+        "The image disappears completely because light can no longer pass through the lens."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A student looks at how a converging lens refracts light. Which of the following correctly describes how different parts of the lens affect the light?",
+      "options": [
+        "Light rays passing near the edges of the lens are bent more than those passing close to the centre.",
+        "Light rays passing close to the centre are bent significantly more than those passing near the edges.",
+        "The entire surface of the lens bends light by exactly the same angle, regardless of position.",
+        "The lens only refracts light at its absolute centre, while the edges reflect all light."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "You stand 2.5 metres in front of a large plane mirror. If you take a 0.5-metre step backward, what is the new distance between you and your reflection, and how has the size of your reflection changed?",
+      "options": [
+        "6.0 metres, and the reflection is the same size as you.",
+        "3.0 metres, and the reflection is smaller than you.",
+        "5.0 metres, and the reflection is larger than you.",
+        "4.0 metres, and the reflection is the same size as you."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why are reflections in a flat mirror described as \"virtual\" images?",
+      "options": [
+        "Because they are upside down and cannot be projected onto a physical screen.",
+        "Because they appear at a location where light rays only seem to have come from, rather than where light rays actually originate or meet.",
+        "Because the light rays physically focus behind the glass of the mirror to create a real picture.",
+        "Because they only exist when someone is actively looking at the mirror, and disappear when we turn away."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "An object appears blue when illuminated by white light. What colour will this object appear if it is placed in a dark room under a pure red light bulb?",
+      "options": [
+        "Blue, because objects always retain their true colour.",
+        "Red, because white objects reflect any incident light.",
+        "Black, because it does not reflect red light.",
+        "Magenta, because the red light mixes with the blue object."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A ray of light travels through air and enters a flat, transparent block of plastic at an angle of 35 degrees to the normal. What happens to the direction of the light ray inside the plastic?",
+      "options": [
+        "It continues in a straight line with no change in direction.",
+        "It bends towards the normal, making its angle with the normal less than 35 degrees.",
+        "It bends away from the normal, making its angle with the normal greater than 35 degrees.",
+        "It reflects directly backward along the normal line."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A light ray passes through air and enters a rectangular glass block with parallel sides at an angle. It then exits the block back into the air. Which statement correctly describes the path of the emerging ray compared to the original incoming ray?",
+      "options": [
+        "The emerging ray travels in a completely different direction, perpendicular to the original ray.",
+        "The emerging ray travels in its original direction but is shifted parallel to its original path.",
+        "The emerging ray is perfectly aligned with the original ray as if no bending occurred.",
+        "The emerging ray is bent directly back towards the source along its original path."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "If a stage lighting technician mixes equal intensities of pure green light and pure blue light on a white screen, what colour will the screen appear?",
+      "options": [
+        "Yellow",
+        "Cyan",
+        "Magenta",
+        "White"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "How does the human retina detect different aspects of light entering the eye?",
+      "options": [
+        "Rod cells detect red, green, and blue light, while cone cells only detect overall brightness.",
+        "Three types of cone cells detect either red, green, or blue light, while rod cells detect the brightness of the light.",
+        "A single type of cell detects all colours and brightness levels simultaneously by changing shape.",
+        "Light is converted into sound waves by the retina, which are then detected by the brain."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A close-up inspection of a television screen reveals millions of tiny pixels. How do these pixels produce a yellow light?",
+      "options": [
+        "Yellow pigments are physically painted onto the glass screen and lit from behind.",
+        "Only the red and green pixels in that area are turned on at a high brightness.",
+        "The blue pixels are turned to maximum brightness while red and green are turned off.",
+        "The pixels physically rotate to filter out everything except yellow wavelengths."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "When a beam of white sunlight passes through a transparent triangular prism, it splits into a spectrum of colours. Why does this happen?",
+      "options": [
+        "The prism adds colored pigments to the white light as it passes through.",
+        "Different colours of light refract by different amounts when entering and leaving the prism.",
+        "The prism filters out all the white light, leaving only the dark parts.",
+        "The white light is reflected off the triangular faces of the prism, turning into a rainbow."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "In a darkened room, a student uses a pinhole camera to look at a glowing light bulb. Which statement explains why the light from the top of the bulb ends up at the bottom of the screen?",
+      "options": [
+        "Light travels in straight lines from the bulb, passing through the tiny hole to reach the opposite side of the screen.",
+        "Light rays bend sharply as they squeeze through the tiny pinhole, reversing their direction.",
+        "The pinhole camera is filled with air that acts like a lens, flipping the light upside down.",
+        "Light from the top of the bulb is absorbed by the front face, while light from the bottom is reflected."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "You hold a card with the word \"PHYSICS\" written on it and turn it to face a flat, vertical mirror. Why does the word appear backwards (laterally inverted) in the mirror?",
+      "options": [
+        "The mirror physically reverses the light rays left-to-right as they bounce off.",
+        "As you turn the card to face the mirror, you rotate it, and the mirror reflects what is directly in front of it.",
+        "The glass of the mirror is curved slightly, which flips the letters horizontally.",
+        "Light rays from the left side of the card travel faster than light rays from the right side."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A white T-shirt is viewed under a stage spotlight that is emitting only green light. What colour will the T-shirt appear to a viewer, and why?",
+      "options": [
+        "Green, because white objects reflect all colours of light, including the incident green light.",
+        "Black, because white objects can only reflect white light and absorb all other colours.",
+        "White, because the T-shirt's material always reflects white light regardless of the spotlight.",
+        "Red, because green light triggers the red cone cells in the viewer's eyes."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Why does a black asphalt road feel very hot on a sunny day compared to a white painted line on the same road?",
+      "options": [
+        "Black objects reflect all colors of light, which warms the surrounding air.",
+        "Black objects absorb all colours of light, converting the light energy into heat.",
+        "White objects absorb more light energy than black objects but release it faster.",
+        "Light rays are refracted inside the black road, trapping the light as sound waves."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A swimmer looks down at a coin lying on the concrete bottom of a shallow, clear swimming pool. Why does the coin appear to be closer to the surface than it actually is?",
+      "options": [
+        "The water acts as a flat mirror, creating a real image above the surface.",
+        "Refraction bends the light rays leaving the water, creating a virtual image where the light rays seem to come from.",
+        "The coin floats slightly upwards due to the pressure of the water.",
+        "Light travels slower in air than in water, making objects appear larger and closer."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "When we look at a yellow object, how does our brain perceive this colour based on the signals from our eyes?",
+      "options": [
+        "The brain receives signals from yellow-specific cone cells that only detect yellow light.",
+        "The brain interprets a combination of signals from red and green cone cells that are triggered by the light.",
+        "The rod cells send a high-frequency signal that bypasses the cone cells completely.",
+        "The blue cone cells are highly stimulated, while the red and green cone cells remain inactive."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "When using a convex lens to project an image of a flower onto a screen, how is the image of a single petal formed?",
+      "options": [
+        "Only one ray of light from the petal passes through the exact centre of the lens to reach the screen.",
+        "All the light rays coming from that single point on the petal are focused by the lens to the same corresponding point on the screen.",
+        "The lens filters out all other parts of the flower, leaving only the petal's image.",
+        "Scattered light rays from different points of the flower are mixed randomly on the screen to form a blurry shape."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
     }
   ]
 }
