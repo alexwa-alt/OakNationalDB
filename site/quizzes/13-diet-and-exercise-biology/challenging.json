@@ -1,6 +1,6 @@
 {
   "unitKey": "13Diet and exerciseBiology",
-  "generatedAt": "2026-08-18T09:00:03.916751+00:00",
+  "generatedAt": "2026-09-26T13:25:00.467516+00:00",
   "questions": [
     {
       "question": "An elite teenage athlete and a sedentary adult office worker are comparing their dietary needs. Which of the following statements correctly evaluates their comparative requirements for specific nutrients?",
@@ -881,6 +881,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 33
+    },
+    {
+      "question": "A student burns a 2g sample of food beneath a boiling tube containing 20g of water. The temperature of the water rises from 20 °C to 70 °C. Using the formula: Energy (J) = mass of water (g) × temperature rise (°C) × 4.2, what is the calculated energy transferred to the water?",
+      "options": [
+        "4,200 J",
+        "1,680 J",
+        "8,400 J",
+        "420 J"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A graph plots a person's heart rate after they finish exercising at minute 5, where their heart rate is 150 bpm. Their resting heart rate is 70 bpm. If their heart rate returns to and stabilizes at 70 bpm at minute 10, how can their recovery time be determined from the graph?",
+      "options": [
+        "By finding the total time from the start of exercise to the end of recovery, which is 10 minutes.",
+        "By calculating the time elapsed from when exercise ended to when the heart rate returned to resting rate, which is 5 minutes.",
+        "By reading the time it took to reach the peak heart rate, which is 5 minutes.",
+        "By finding the time when the heart rate was halfway back to resting level, which is 8 minutes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Two friends perform the same high-intensity workout. Afterwards, Alex's heart rate returns to its resting rate in 3 minutes, while Jordan's takes 7 minutes. What does this indicate about their physical fitness?",
+      "options": [
+        "Jordan is fitter because their heart works harder for a longer recovery period.",
+        "Alex is fitter because a shorter recovery time shows a more efficient cardiovascular system.",
+        "They have identical fitness levels because both of their heart rates eventually returned to resting levels.",
+        "Alex is less fit because their heart rate dropped too quickly, which can cause poor oxygen circulation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A patient presents with bleeding gums and joint pain. The doctor diagnoses scurvy, which is caused by a lack of vitamin C in the diet. Why is scurvy classified as a deficiency disease?",
+      "options": [
+        "It is caused by not consuming enough of a specific, essential nutrient.",
+        "It is an infectious illness that spreads rapidly in poor weather conditions.",
+        "It is caused by consuming too much of an unhealthy mineral group.",
+        "It is a temporary condition caused by not drinking enough water during meals."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "To calculate a person's Body Mass Index (BMI) to assess their health, which physical measurements are needed, and how are they mathematically combined?",
+      "options": [
+        "Height in centimeters multiplied by body mass in kilograms.",
+        "Body mass in kilograms divided by the square of height in meters.",
+        "Height in meters divided by the square of body mass in kilograms.",
+        "Body mass in grams divided by total height in centimeters."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "During a vigorous physical education lesson, students notice their heart rates and breathing rates increase. What is the physiological reason for this change?",
+      "options": [
+        "To transport more carbon dioxide to muscles to fuel anaerobic pathways.",
+        "To decrease body temperature so muscle enzymes do not denature.",
+        "To supply active muscle cells with more oxygen for increased cellular respiration.",
+        "To limit the amount of glucose used by the brain during physical stress."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "An investigation measures the effect of four distinct categories of exercise (walking, jogging, cycling, and sprinting) on heart rate. If this data is plotted on a bar chart, how should the variables be arranged?",
+      "options": [
+        "The categoric independent variable (type of exercise) goes on the x-axis, and the dependent variable (heart rate) goes on the y-axis.",
+        "The continuous independent variable (heart rate) goes on the x-axis, and the dependent variable (type of exercise) goes on the y-axis.",
+        "The categoric dependent variable (type of exercise) goes on the y-axis, and the independent variable (heart rate) goes on the x-axis.",
+        "Heart rate goes on the x-axis, and the duration of the exercise goes on the y-axis."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Why does an active teenage athlete require a different amount of specific nutrients compared to a sedentary elderly individual?",
+      "options": [
+        "The teenager requires more energy and protein to support rapid growth and high levels of physical activity.",
+        "The elderly individual has a much faster metabolism and requires fewer vitamins but more fats.",
+        "Sedentary lifestyles require more overall carbohydrates to maintain a higher resting blood glucose level.",
+        "Teenagers have a lower body mass index and therefore require extra lipids to maintain core body temperature."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A food label indicates that one serving of a snack provides 15% of the Reference Intake (RI) for saturated fat. How should a consumer use this information to maintain a healthy diet?",
+      "options": [
+        "They must eat at least seven more servings of this snack to meet their minimum daily fat requirement.",
+        "They should avoid consuming any other fat-containing foods for the rest of that day.",
+        "They should track their overall diet to ensure their total daily saturated fat intake does not exceed 100% RI.",
+        "They can assume the food contains no fat because any percentage under 20% is rounded down to zero."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "When comparing two snacks, Snack A contains 250 kcal (calories) and Snack B contains 1,000 kJ (kilojoules). Knowing that 1 kcal is approximately equivalent to 4.2 kJ, which snack provides more energy?",
+      "options": [
+        "Snack A, because 250 kcal is equivalent to approximately 1,050 kJ, which is more than 1,000 kJ.",
+        "Snack B, because 1,000 is a larger number than 250, regardless of the unit of measurement.",
+        "Snack A, because calories are always twice as energy-dense as kilojoules in biological systems.",
+        "Both snacks provide identical energy because 1 kcal is exactly equal to 4.0 kJ."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which statement best explains why consuming food is essential for the process of cellular respiration in humans?",
+      "options": [
+        "Food acts as a direct physical barrier that protects cells from mechanical damage.",
+        "Food provides glucose, which acts as fuel that reacts with oxygen to release energy for vital life processes.",
+        "Food contains fiber, which is broken down within cells to release heat directly.",
+        "Food is converted into water, which is needed to dissolve oxygen inside the mitochondria."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "If an individual consistently consumes more energy from food than their body expends over a prolonged period, what is the biological consequence?",
+      "options": [
+        "The extra energy is entirely lost as heat, keeping their body mass index (BMI) stable.",
+        "The excess energy is stored as fat, causing their body mass index (BMI) to rise, potentially leading to obesity.",
+        "Their body mass index (BMI) will decrease because the digestive system must work harder to process the surplus.",
+        "The body automatically converts all excess energy into muscle tissue, lowering the risk of metabolic diseases."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "In what way can chronic obesity increase the risk of developing coronary heart disease?",
+      "options": [
+        "It can lead to the buildup of fatty deposits in the coronary arteries, reducing blood flow and oxygen delivery to the heart muscle.",
+        "It causes the lungs to expand excessively, which physically constricts the chambers of the heart.",
+        "It prevents blood from clotting, causing frequent internal bleeding in the cardiac tissue.",
+        "It slows down the resting heart rate to dangerous levels, preventing oxygen from reaching brain cells."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "In an experiment investigating how different types of exercise affect heart rate, which variables must be controlled to ensure a fair test?",
+      "options": [
+        "The heart rate of the participant and the temperature of the room.",
+        "The person performing the exercises and the duration of each exercise period.",
+        "The type of exercise performed and the initial resting heart rate of different participants.",
+        "The exact speed of the physical movements and the breathing rate of the participant."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "A student repeats a food-burning experiment three times with a piece of dried bread. The recorded temperature changes of the water are 18 °C, 22 °C, and 20 °C. What mean temperature rise should they use for their energy calculations?",
+      "options": [
+        "18 °C",
+        "20 °C",
+        "21 °C",
+        "60 °C"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "After running a race, an athlete continues to breathe heavily for several minutes. How does the science of cellular respiration explain this observation?",
+      "options": [
+        "The cells need extra carbon dioxide to rebuild the glucose molecules that were consumed.",
+        "The body requires extra oxygen to recover from anaerobic respiration and process metabolic waste products.",
+        "The lungs must draw in large volumes of cool air to reduce the temperature of active muscle groups.",
+        "The heart needs to rest completely, so the lungs temporarily take over the task of pumping blood."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "What is the scientific definition of 'recovery time' in relation to physical exercise?",
+      "options": [
+        "The duration of exercise required to double a person's resting heart rate.",
+        "The time taken for the heart rate to reach its maximum peak during intense physical activity.",
+        "The time it takes for the heart rate to return to its resting rate after exercise has stopped.",
+        "The total hours of sleep required to recover from a high-intensity workout session."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Besides serving as an energy source, why is a regular intake of food nutrients, such as proteins, essential for a growing child?",
+      "options": [
+        "They provide the physical building materials (biomass) needed to construct new cells for growth and tissue repair.",
+        "They act as an impermeable barrier that stops all chemical reactions in the body.",
+        "They are required by the liver to convert carbon dioxide back into oxygen.",
+        "They directly replace the water molecules lost during perspiration."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A student wants to compare the chemical energy content of a potato crisp and a piece of dried pasta. What is the most appropriate experimental method?",
+      "options": [
+        "Dissolve equal masses of each food in acid and measure the volume of gas released.",
+        "Burn equal masses of each food under a known volume of water and compare the temperature changes.",
+        "Measure how much water each food absorbs when soaked in cold liquid for 24 hours.",
+        "Feed different quantities of the foods to animals and measure their running speeds."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why is consuming a single food source, such as white rice, insufficient for long-term health even if it provides enough daily calories?",
+      "options": [
+        "Rice does not contain any carbohydrates, which are the primary energy source for humans.",
+        "A healthy body requires a balanced diet containing all food groups to prevent deficiency diseases and support all vital functions.",
+        "A single-food diet stops the digestive tract from undergoing any physical movement.",
+        "Eating only one type of food causes the blood to become toxic with excess vitamins."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
     }
   ]
 }
