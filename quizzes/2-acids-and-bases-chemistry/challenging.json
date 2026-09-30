@@ -1,6 +1,6 @@
 {
   "unitKey": "2Acids and basesChemistry",
-  "generatedAt": "2026-08-21T09:05:00.188363+00:00",
+  "generatedAt": "2026-09-30T15:11:07.643741+00:00",
   "questions": [
     {
       "question": "A scientist is testing an unknown powder. She adds it to an acid and finds that a chemical reaction occurs, forming water and a compound called a salt. Based on this observation, what category of substance must the powder be?",
@@ -881,6 +881,226 @@
       ],
       "correctAnswerIndex": 2,
       "learningPointIndex": 31
+    },
+    {
+      "question": "A solution of hydrochloric acid is diluted, causing its pH to increase from 3 to 5. How has the concentration of hydrogen ions changed during this dilution?",
+      "options": [
+        "It is 2 times lower.",
+        "It is 20 times lower.",
+        "It is 100 times lower.",
+        "It is 100 times higher."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A student neutralises potassium hydroxide with nitric acid. What is the correct name of the salt produced in this reaction?",
+      "options": [
+        "Potassium nitrate",
+        "Potassium nitric oxide",
+        "Hydrogen nitrate",
+        "Potassium hydroxide nitrate"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "When copper carbonate powder is added to a beaker of sulfuric acid, bubbles of gas are produced and a blue solution of copper sulfate forms. Aside from copper sulfate, what other substances are produced in this reaction?",
+      "options": [
+        "Hydrogen gas only",
+        "Water and hydrogen gas",
+        "Water and carbon dioxide gas",
+        "Hydrogen gas and carbon dioxide gas"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Four different acidic solutions have hydrogen ion concentrations of varying levels. Solution A has the highest concentration of hydrogen ions, while Solution D has the lowest. Which of the following statements is true regarding their pH values?",
+      "options": [
+        "Solution A has the lowest pH, and Solution D has the highest pH.",
+        "Solution A has the highest pH, and Solution D has the lowest pH.",
+        "Both Solution A and Solution D will have a pH of exactly 7.",
+        "Solution A has a pH of 14, and Solution D has a pH of 0."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "An ancient outdoor marble statue has begun to lose its fine details over several decades. Which chemical reaction explains why the solid marble is being slowly used up?",
+      "options": [
+        "Marble reacts with oxygen in the air to form soluble carbon dioxide gas.",
+        "Acid rain reacts with marble to produce a soluble salt, water, and carbon dioxide.",
+        "Pure rainwater acts as an alkali, dissolving the calcium carbonate in the marble.",
+        "Acid rain neutralises the marble, turning it entirely into solid metal oxides."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A piece of magnesium ribbon is dropped into a test tube containing hydrochloric acid. If you were to collect the gas produced and evaporate the remaining liquid, which products would you isolate?",
+      "options": [
+        "Magnesium chloride salt and oxygen gas",
+        "Magnesium hydroxide and hydrogen gas",
+        "Magnesium chloride salt and hydrogen gas",
+        "Magnesium oxide and water"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Sulfur dioxide is a gas released from burning fossil fuels. When sulfur dioxide gas dissolves in water droplets in the atmosphere, what type of solution is formed?",
+      "options": [
+        "A strongly alkaline solution",
+        "An acidic solution",
+        "A neutral solution with a pH of 7",
+        "A basic solution that turns red litmus paper blue"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A student wants to confirm that a reaction has produced carbon dioxide gas rather than hydrogen. What experimental test should they perform, and what result confirms carbon dioxide?",
+      "options": [
+        "Put a lit splint into the gas; it should extinguish with a squeaky pop.",
+        "Bubble the gas through limewater; the limewater should turn cloudy.",
+        "Bubble the gas through limewater; the limewater should turn bright blue.",
+        "Put a glowing splint into the gas; the splint should relight."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "In the chemical equation representing a neutralisation reaction: NaOH(aq) + HCl(aq) -> NaCl(aq) + H2O(l), what does the symbol \"(aq)\" represent?",
+      "options": [
+        "The substance is a pure liquid.",
+        "The substance is dissolved in water to form a solution.",
+        "The substance is in a gaseous state.",
+        "The substance is a solid precipitate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "During a reaction between zinc and sulfuric acid, gas bubbles are rapidly produced. Which method and result would uniquely identify this gas as hydrogen?",
+      "options": [
+        "Pass the gas into limewater; the solution turns milky.",
+        "Hold a glowing splint near the mouth of the tube; the splint relights.",
+        "Introduce a lit splint to the gas; a characteristic squeaky pop sound is heard.",
+        "Hold damp blue litmus paper in the gas; the paper turns red."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A student tests three mystery clear liquids (X, Y, and Z) using a homemade red cabbage indicator solution. Liquid X turns the indicator pink, liquid Y turns it purple, and liquid Z turns it green. What are the correct classifications of these liquids?",
+      "options": [
+        "X is neutral, Y is acidic, Z is alkaline",
+        "X is acidic, Y is neutral, Z is alkaline",
+        "X is alkaline, Y is neutral, Z is acidic",
+        "X is acidic, Y is alkaline, Z is neutral"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Copper oxide and sodium hydroxide are both bases because they react with acids to form salts. However, sodium hydroxide dissolves easily in water, while copper oxide does not. Which statement correctly describes them?",
+      "options": [
+        "Both copper oxide and sodium hydroxide are alkalis.",
+        "Sodium hydroxide is an alkali, but copper oxide is not.",
+        "Copper oxide is an alkali, but sodium hydroxide is not.",
+        "Neither substance can form an alkaline solution."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If a spill of dilute sulfuric acid needs to be neutralised safely in a lab without producing a large volume of gas, a solid metal oxide like magnesium oxide can be added. Why does this reaction work to neutralise the acid?",
+      "options": [
+        "Magnesium oxide is a base that reacts with the acid to form a salt and water.",
+        "Magnesium oxide is an acid that reacts with sulfuric acid to make a neutral gas.",
+        "Magnesium oxide is a non-metal oxide that makes the solution alkaline.",
+        "Magnesium oxide dissolves to form a highly corrosive acid."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A lab technician has two unlabelled bottles. One contains dilute hydrochloric acid and the other contains sodium hydroxide solution. How can litmus paper be used to identify them?",
+      "options": [
+        "Hydrochloric acid will turn red litmus blue; sodium hydroxide will turn blue litmus red.",
+        "Hydrochloric acid will turn blue litmus red; sodium hydroxide will turn red litmus blue.",
+        "Hydrochloric acid will turn blue litmus red; sodium hydroxide will have no effect on red litmus.",
+        "Both liquids will turn blue litmus paper red because they are both solutions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Calcium carbonate is the main compound in limestone. What is the exact chemical composition of the \"carbonate group\" present in this compound?",
+      "options": [
+        "One carbon atom bonded to two oxygen atoms",
+        "One carbon atom bonded to three oxygen atoms",
+        "Three carbon atoms bonded to one oxygen atom",
+        "One carbon atom bonded to one oxygen atom"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which of the following represents the correct general word equation for the reaction of a reactive metal with an acid?",
+      "options": [
+        "metal + acid -> metal oxide + hydrogen",
+        "metal + acid -> metal salt + water",
+        "metal + acid -> metal salt + hydrogen",
+        "metal + acid -> metal carbonate + water"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "When a chemical neutralisation reaction occurs between a basic metal hydroxide and an acid, what are the generic products formed?",
+      "options": [
+        "Metal oxide and hydrogen gas",
+        "Metal salt and water",
+        "Metal carbonate and carbon dioxide",
+        "Non-metal oxide and water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Why is universal indicator often preferred over litmus paper when measuring the acidity or alkalinity of several different household solutions?",
+      "options": [
+        "Litmus paper is highly corrosive, whereas universal indicator is safe to eat.",
+        "Universal indicator changes to many different colours, allowing us to estimate the specific pH value.",
+        "Litmus paper only works for alkaline solutions, while universal indicator only works for acids.",
+        "Universal indicator permanently changes the pH of the solution to make it neutral."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "In a science lab, a student is asked to mix aqueous sodium hydroxide with aqueous hydrochloric acid. What are the chemical formulas of these two starting reactants?",
+      "options": [
+        "NaH(aq) and HClO(aq)",
+        "NaOH(aq) and HCl(aq)",
+        "SOH(aq) and HAl(aq)",
+        "NaOH(s) and HCl(g)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A chemist heats black copper oxide powder with warm dilute sulfuric acid. The black powder reacts and dissolves to form a blue solution. What are the products of this reaction?",
+      "options": [
+        "Copper sulfate (a metal salt) and water",
+        "Copper carbonate and hydrogen gas",
+        "Copper hydroxide and oxygen gas",
+        "Copper sulfate (a metal salt) and hydrogen gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
     }
   ]
 }

@@ -1,0 +1,226 @@
+{
+  "unitKey": "4Plant nutrition and photosynthesisBiology",
+  "generatedAt": "2026-09-30T15:13:29.425026+00:00",
+  "questions": [
+    {
+      "question": "What structures inside the cells of a plant leaf contain the machinery needed for photosynthesis?",
+      "options": [
+        "Chloroplasts",
+        "Mitochondria",
+        "Vacuoles",
+        "Cell walls"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In which part of a plant cell does the process of photosynthesis actually take place?",
+      "options": [
+        "In the nucleus",
+        "In the chloroplasts",
+        "In the cytoplasm",
+        "In the cell membrane"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What is the role of chlorophyll, the green substance found inside chloroplasts?",
+      "options": [
+        "To absorb light energy for photosynthesis",
+        "To absorb water from the soil",
+        "To release carbon dioxide into the air",
+        "To store glucose as starch"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why is it an advantage for plant leaves to be very thin?",
+      "options": [
+        "It helps them float in water",
+        "It allows light to easily pass through to the cells containing chloroplasts",
+        "It prevents water from escaping the leaf",
+        "It makes it easier for roots to absorb minerals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How does having a large surface area benefit a plant's leaves?",
+      "options": [
+        "It helps the plant stand upright",
+        "It reduces the amount of water lost by evaporation",
+        "It allows the leaf to absorb more light for photosynthesis",
+        "It protects the leaf from being eaten by insects"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which gas do plant leaves absorb directly from the air to use as a raw material in photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Water vapour"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What happens to the oxygen gas that is produced during the process of photosynthesis?",
+      "options": [
+        "It is released from the leaves into the air",
+        "It is stored in the roots as food",
+        "It is converted directly into minerals",
+        "It is completely used up to make chloroplasts"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the scientific term for the process where gases like carbon dioxide and oxygen enter and leave a plant leaf?",
+      "options": [
+        "Transpiration",
+        "Gas exchange",
+        "Respiration",
+        "Fertilisation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What are the tiny pores or holes on the surface of a leaf that allow gas exchange to happen called?",
+      "options": [
+        "Capillaries",
+        "Stomata",
+        "Chloroplasts",
+        "Veins"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "By which process do gas molecules move through the open stomata of a leaf?",
+      "options": [
+        "Diffusion",
+        "Osmosis",
+        "Active transport",
+        "Suction"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why are plants described as \"producers\" in an ecosystem?",
+      "options": [
+        "They produce oxygen for themselves to breathe",
+        "They make their own food using photosynthesis",
+        "They produce soil from decaying matter",
+        "They consume other organisms for energy"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Under which of the following conditions is it possible for photosynthesis to take place in a plant?",
+      "options": [
+        "Only when there is light",
+        "Only in complete darkness",
+        "Only during the winter season",
+        "At any time, regardless of light levels"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of these statements best describes the nature of photosynthesis?",
+      "options": [
+        "It is a physical change that melts wax on the leaves",
+        "It is a single physical mixing process of gases",
+        "It is a series of chemical reactions that take place inside cells",
+        "It is a mechanical process carried out by the roots"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What are the chemical reactants and products of the photosynthesis process?",
+      "options": [
+        "Reactants: oxygen and glucose; Products: water and carbon dioxide",
+        "Reactants: water and carbon dioxide; Products: oxygen and glucose",
+        "Reactants: minerals and nitrogen; Products: water and carbon dioxide",
+        "Reactants: glucose and carbon dioxide; Products: oxygen and water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What does a word equation or word summary of photosynthesis represent?",
+      "options": [
+        "A model of the overall chemical reactions of the process",
+        "A physical diagram of the leaf structures",
+        "A list of all the minerals absorbed by the roots",
+        "The exact speed at which gas exchange occurs"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following groups of resources must a plant have from its environment to stay alive and grow?",
+      "options": [
+        "Light, air, water, and minerals",
+        "Light, soil, glucose, and oxygen gas only",
+        "Sugar, warmth, insects, and carbon dioxide",
+        "Water, oxygen, glucose, and darkness"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Through which parts of the plant are water and minerals absorbed?",
+      "options": [
+        "Through the leaves",
+        "Through the flowers",
+        "Through the roots",
+        "Through the stem"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which of the following is true about water and minerals for a plant?",
+      "options": [
+        "They are the main food source absorbed by the plant",
+        "They are not food, but plants still need food to stay alive and grow",
+        "They replace the need for photosynthesis entirely",
+        "They are produced by the plant during the night"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How do plants obtain the food they need to survive?",
+      "options": [
+        "They absorb dissolved food molecules from the soil",
+        "They trap and digest small insects through their roots",
+        "They do not take in food from their surroundings; they make it themselves",
+        "They feed on organic matter floating in the air"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What type of food do plants make during photosynthesis, and what is it used for?",
+      "options": [
+        "They make minerals, which are used to absorb more water",
+        "They make carbohydrates, which they use for growth and as an energy source",
+        "They make proteins, which are used to attract pollinating insects",
+        "They make fats, which are stored to keep the leaves warm in winter"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    }
+  ]
+}
