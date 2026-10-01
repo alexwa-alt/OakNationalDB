@@ -1,6 +1,6 @@
 {
   "unitKey": "4Plant nutrition and photosynthesisBiology",
-  "generatedAt": "2026-08-23T08:54:26.645547+00:00",
+  "generatedAt": "2026-10-01T15:38:05.348229+00:00",
   "questions": [
     {
       "question": "A student examines a plant cell under a microscope and identifies small, green structures within the cytoplasm. What are these structures, and in which part of the plant are they most abundant?",
@@ -878,6 +878,226 @@
         "It is a carbohydrate, which the plant uses for growth and as a source of energy.",
         "It is carbon dioxide gas, which is stored in the leaves to prevent wilting.",
         "It is water, which is stored in the roots to keep the plant hydrated."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Under a microscope, a student notices that plant leaf cells contain distinct green structures that are absent in animal cells. What are these structures?",
+      "options": [
+        "Nuclei",
+        "Chloroplasts",
+        "Mitochondria",
+        "Cell membranes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which of the following cellular structures is the specific site where the chemical process of photosynthesis takes place?",
+      "options": [
+        "The cell wall",
+        "The vacuole",
+        "The nucleus",
+        "The chloroplast"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What is the primary function of chlorophyll, the green substance found inside chloroplasts?",
+      "options": [
+        "To absorb light energy for photosynthesis",
+        "To absorb water from the soil",
+        "To allow gases to enter the leaf",
+        "To store glucose for growth"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why are the leaves of most plants very thin rather than thick and fleshy?",
+      "options": [
+        "To allow light to pass through to the cells containing chloroplasts",
+        "To prevent carbon dioxide from leaving the leaf too quickly",
+        "To make it easier for water to be transported from the roots",
+        "To reduce the amount of chlorophyll the plant needs to make"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How does having a large surface area benefit a plant leaf during photosynthesis?",
+      "options": [
+        "It reduces the rate of water loss through transpiration",
+        "It maximizes the absorption of light for photosynthesis",
+        "It helps the leaf stay cool under direct sunlight",
+        "It increases the structural strength of the leaf"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which gas must a plant take in from the surrounding air to use as a raw material for photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Water vapour"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What is the fate of the oxygen gas that is produced during the process of photosynthesis?",
+      "options": [
+        "It is stored in the roots for growth",
+        "It is used to make carbohydrates",
+        "It is released as a gas from leaves into the air",
+        "It is dissolved in water to make minerals"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "The constant movement of carbon dioxide into a leaf and oxygen out of a leaf is an example of which biological process?",
+      "options": [
+        "Transpiration",
+        "Gas exchange",
+        "Active transport",
+        "Mineral nutrition"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which specialized features on the surface of a leaf allow for the gas exchange necessary for photosynthesis?",
+      "options": [
+        "Chloroplasts",
+        "Veins",
+        "Root hairs",
+        "Stomata"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "By what physical process do gas molecules move through open stomata into and out of the leaf?",
+      "options": [
+        "Diffusion",
+        "Osmosis",
+        "Active transport",
+        "Capillary action"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "In an ecosystem, plants are referred to as producers. What is the biological reason for this name?",
+      "options": [
+        "They produce seeds to ensure the survival of their species",
+        "They make their own food using a process called photosynthesis",
+        "They produce mineral nutrients that enrich the surrounding soil",
+        "They absorb organic food molecules from their environment"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "If a green plant is provided with abundant water, carbon dioxide, and minerals but is kept in complete darkness, what will happen to its photosynthesis?",
+      "options": [
+        "It will stop because photosynthesis can only happen when there is light",
+        "It will continue at a slower rate using stored heat energy",
+        "It will speed up to compensate for the lack of light",
+        "It will switch to using minerals as a source of light"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of the following is the most accurate description of photosynthesis?",
+      "options": [
+        "It is a single physical change occurring on the leaf surface",
+        "It is a series of chemical reactions that take place inside cells",
+        "It is a mechanical process of filtering nutrients from water",
+        "It is a physical process of evaporating excess water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which of the following correctly identifies both the reactants and the products of photosynthesis?",
+      "options": [
+        "Reactants: oxygen and glucose; Products: water and carbon dioxide",
+        "Reactants: water and carbon dioxide; Products: oxygen and glucose",
+        "Reactants: water and minerals; Products: carbon dioxide and starch",
+        "Reactants: carbon dioxide and oxygen; Products: water and glucose"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Photosynthesis actually involves many complex chemical reactions. How should we view the simple word summary 'carbon dioxide + water -> glucose + oxygen'?",
+      "options": [
+        "As a literal step-by-step list of every reaction that occurs",
+        "As a model of the process that summarizes the main reactants and products",
+        "As a physical description of how gases flow through stomata",
+        "As an explanation of how plants absorb minerals from roots"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "To remain alive, grow, and function properly, what four resources must plants obtain from their environment?",
+      "options": [
+        "Light, air, water, and minerals",
+        "Soil, oxygen, warmth, and glucose",
+        "Fertilizer, starch, shade, and insects",
+        "Carbon dioxide, warmth, soil, and organic food"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Plants must take in several resources to survive. How do they divide this task between their leaves and their roots?",
+      "options": [
+        "They take in water and gases through leaves, and light and minerals through roots",
+        "They take in light and gases through leaves, and water and minerals through roots",
+        "They take in light and minerals through leaves, and gases and water through roots",
+        "They take in all resources through their roots and none through leaves"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A student states: 'Plants do not need food because they get everything they need by absorbing water and minerals.' Why is this statement incorrect?",
+      "options": [
+        "Water and minerals are not food, but plants do need food to stay alive and grow",
+        "Water and minerals are food, but plants also need to hunt for insects",
+        "Plants do not require food, they only need water to survive",
+        "Water is converted into mineral food by the action of wind"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which of the following statements best explains how plants obtain the food they need to stay alive and grow?",
+      "options": [
+        "They absorb dissolved food particles from the surrounding soil through their roots",
+        "They take in food from their surroundings by absorbing decaying matter",
+        "They do not take in food from their surroundings; they are producers that make their own food",
+        "They feed on tiny insects that land on their leaves"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What chemical group does the food made by plants belong to, and how is it utilized by the plant?",
+      "options": [
+        "It is a mineral, used to strengthen root systems",
+        "It is a carbohydrate, used for growth and as a source of energy",
+        "It is a protein, used to capture light in the leaves",
+        "It is water, used to keep the plant hydrated in dry weather"
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 19
