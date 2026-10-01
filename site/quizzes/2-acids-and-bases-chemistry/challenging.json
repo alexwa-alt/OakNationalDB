@@ -1,6 +1,6 @@
 {
   "unitKey": "2Acids and basesChemistry",
-  "generatedAt": "2026-09-30T15:11:07.643741+00:00",
+  "generatedAt": "2026-10-01T15:35:51.231921+00:00",
   "questions": [
     {
       "question": "A scientist is testing an unknown powder. She adds it to an acid and finds that a chemical reaction occurs, forming water and a compound called a salt. Based on this observation, what category of substance must the powder be?",
@@ -1101,6 +1101,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 22
+    },
+    {
+      "question": "If Solution A has a pH of 5 and Solution B has a pH of 3, how does the acidity of Solution B compare to Solution A?",
+      "options": [
+        "Solution B is 2 times more acidic than Solution A.",
+        "Solution B is 20 times more acidic than Solution A.",
+        "Solution B is 100 times more acidic than Solution A.",
+        "Solution B is 1000 times more acidic than Solution A."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A student measures the concentration of hydrogen ions in four different hydrochloric acid solutions. Which solution will have the lowest pH value?",
+      "options": [
+        "The solution with the lowest concentration of hydrogen.",
+        "The solution with the highest concentration of hydrogen.",
+        "The solution with a moderate, neutral-range concentration of hydrogen.",
+        "The concentration of hydrogen has no effect on the pH value."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A student mixes copper oxide (a base) with sulfuric acid. What is the correct name of the metal salt produced in this reaction?",
+      "options": [
+        "Copper sulfur",
+        "Copper sulfate",
+        "Oxide sulfate",
+        "Sulfuric copper"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "When calcium carbonate reacts with hydrochloric acid, which of the following represents the correct set of products formed?",
+      "options": [
+        "Calcium chloride, water, and carbon dioxide",
+        "Calcium chloride and hydrogen gas",
+        "Calcium hydroxide and carbon dioxide",
+        "Calcium oxide, water, and chlorine gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Statues made of marble (calcium carbonate) gradually degrade over time when exposed to acid rain. What chemical reaction explains this degradation?",
+      "options": [
+        "Marble dissolves physically in rainwater without any chemical change.",
+        "Acid rain reacts with marble to produce a salt, water, and carbon dioxide, consuming some of the marble.",
+        "Acid rain reacts with marble to produce a metal oxide and hydrogen gas, which wears away the stone.",
+        "The acid rain neutralises the marble to form only pure water and oxygen gas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following represents the correct word equation for the reaction between magnesium metal and nitric acid?",
+      "options": [
+        "magnesium + nitric acid → magnesium nitrate + hydrogen",
+        "magnesium + nitric acid → magnesium nitride + water",
+        "magnesium + nitric acid → magnesium oxide + nitrogen",
+        "magnesium + nitric acid → magnesium nitrate + water + carbon dioxide"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Sulfur dioxide is a non-metal oxide gas. If sulfur dioxide gas is dissolved in pure water, what kind of solution is formed and what would be its pH?",
+      "options": [
+        "An alkaline solution with a pH greater than 7.",
+        "A neutral solution with a pH of exactly 7.",
+        "An acidic solution with a pH less than 7.",
+        "A concentrated base with a pH of 14."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A student adds red cabbage indicator to an unknown clear liquid, and the mixture turns green. What does this tell us about the liquid?",
+      "options": [
+        "The liquid is highly acidic.",
+        "The liquid is neutral, like pure water.",
+        "The liquid is an alkali.",
+        "The liquid is a concentrated acid."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "In the chemical equation Zn(s) + 2HCl(aq) → ZnCl2(aq) + H2(g), what do the state symbols (s) and (aq) tell us about the zinc and hydrochloric acid?",
+      "options": [
+        "Zinc is a solid, and hydrochloric acid is in an aqueous solution (dissolved in water).",
+        "Zinc is a solution, and hydrochloric acid is a gas.",
+        "Zinc is a solid, and hydrochloric acid is a pure liquid.",
+        "Zinc is a gas, and hydrochloric acid is a solid."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "During an experiment where a metal reacts with an acid, a student collects a gas in a test tube. How can they safely confirm that this gas is hydrogen?",
+      "options": [
+        "Bubble the gas through limewater and look for a cloudy appearance.",
+        "Put a glowing splint into the tube and see if it relights.",
+        "Introduce a lit splint to the mouth of the tube and listen for a squeaky pop.",
+        "Check if the gas turns blue litmus paper red."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "To confirm that carbon dioxide is released during a reaction between a metal carbonate and an acid, which test should be performed and what is the expected result?",
+      "options": [
+        "Hold a lit splint at the mouth of the tube; it should make a squeaky pop.",
+        "Bubble the gas through limewater; the limewater should turn cloudy.",
+        "Bubble the gas through water; the water should turn blue.",
+        "Hold a damp red litmus paper in the gas; it should turn blue."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Sodium hydroxide dissolves in water to form a solution. Which of the following statements correctly describes sodium hydroxide?",
+      "options": [
+        "It is an insoluble base that forms an acidic solution.",
+        "It is a soluble base, meaning it is an alkali that forms an alkaline solution.",
+        "It is an acid because it reacts with water to release hydrogen gas.",
+        "It is a neutral salt that does not affect litmus paper."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "When a piece of zinc is added to a beaker of dilute sulfuric acid, the beaker becomes warm, bubbles are produced, and the piece of zinc gradually gets smaller. What is happening?",
+      "options": [
+        "A physical dissolving process that absorbs heat from the surroundings.",
+        "An endothermic reaction where the metal is melting due to high temperatures.",
+        "An exothermic chemical reaction where the metal is reacting and reducing in size.",
+        "A neutralisation reaction where the zinc acts as an acid and neutralises the sulfuric acid."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "How do metal oxides, such as copper oxide, behave chemically when mixed with acids?",
+      "options": [
+        "They react with acids to neutralise them, acting as bases.",
+        "They react with acids to release highly explosive oxygen gas.",
+        "They act as acids themselves, lowering the pH of the mixture further.",
+        "They do not react with acids because they are completely inert."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why might a scientist choose to use a pH probe instead of red litmus paper when investigating the neutralisation of an acid by an alkali?",
+      "options": [
+        "Red litmus paper cannot detect if a substance is acidic.",
+        "Red litmus paper only tells you if a substance is alkaline (turning blue) or not, whereas a pH probe provides a precise numerical value.",
+        "Red litmus paper is highly toxic and cannot be handled safely in school laboratories.",
+        "A pH probe is the only indicator that can change colour multiple times."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "A technician has two unlabelled bottles. One contains an acid and the other contains an alkali. How can litmus paper be used to identify which is which?",
+      "options": [
+        "Acid turns red litmus blue; alkali turns blue litmus red.",
+        "Acid turns blue litmus red; alkali turns red litmus blue.",
+        "Acid has no effect on blue litmus; alkali turns red litmus red.",
+        "Acid turns both red and blue litmus purple; alkali turns both green."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What are the products when magnesium oxide (a metal oxide) reacts with hydrochloric acid?",
+      "options": [
+        "Magnesium chloride and hydrogen gas",
+        "Magnesium chloride and water",
+        "Magnesium hydroxide and chlorine gas",
+        "Magnesium carbonate, water, and carbon dioxide"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A student is asked to identify the chemical group consisting of one carbon atom and three oxygen atoms bonded together. Which group is this?",
+      "options": [
+        "An oxide group",
+        "A carbonate group",
+        "A hydroxide group",
+        "A sulfate group"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which of the following best defines a 'base' in chemistry?",
+      "options": [
+        "Any substance that reacts with acids to form a compound called a salt.",
+        "Any substance that turns blue litmus paper red.",
+        "A liquid that has a pH of exactly 7 at room temperature.",
+        "A metal that reacts with water to produce hydrogen gas."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What is the general word equation for a neutralisation reaction between a base and an acid?",
+      "options": [
+        "base + acid → metal salt + hydrogen",
+        "base + acid → metal salt + water",
+        "base + acid → metal salt + water + carbon dioxide",
+        "base + acid → metal oxide + hydrogen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
     }
   ]
 }
