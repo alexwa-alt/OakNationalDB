@@ -1,0 +1,226 @@
+{
+  "unitKey": "6Hidden forcesPhysics",
+  "generatedAt": "2026-10-02T14:50:35.748009+00:00",
+  "questions": [
+    {
+      "question": "When can we say that the whole of an object is floating on water?",
+      "options": [
+        "Only if it is completely above the surface of the water.",
+        "If any part of the object remains above the water's surface.",
+        "Only if exactly half of its volume is below the surface.",
+        "If it is fully submerged but not touching the bottom."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A student wants to test if a toy boat floats better in a deep swimming pool or a shallow tray of water. What will they find?",
+      "options": [
+        "It floats better in the pool because deep water has more upthrust.",
+        "It floats better in the tray because shallow water is more dense.",
+        "How well it floats does not depend on the depth of the liquid.",
+        "It will only float in the deep pool and will sink in the shallow tray."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Under what condition will an object float in water?",
+      "options": [
+        "If its shape can push its own mass of water out of the way without going under.",
+        "If its total mass is exactly 1 kilogram regardless of shape.",
+        "If it is made entirely of hollow metal tubes.",
+        "If its shape prevents any water from being displaced."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Approximately how much force is needed to lift a 1 kg mass on Earth?",
+      "options": [
+        "1 N",
+        "10 N",
+        "100 N",
+        "0.1 N"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "How many grams are there in 1 kilogram?",
+      "options": [
+        "10 g",
+        "100 g",
+        "1000 g",
+        "10000 g"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the correct formula used to calculate gravitational force (Weight)?",
+      "options": [
+        "W = m × g",
+        "W = m ÷ g",
+        "W = g ÷ m",
+        "W = m + g"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "If you add equal-sized increases in force to a spring, how does its extension change?",
+      "options": [
+        "The extension increases by the same amount each time.",
+        "The extension doubles with every single increase.",
+        "The extension increases by smaller and smaller amounts.",
+        "The extension stops increasing after the first force is added."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why is a metal spring described as being elastic?",
+      "options": [
+        "Because it can be melted down and remoulded easily.",
+        "Because it returns to its original length when a force is removed.",
+        "Because it breaks immediately when a small force is applied.",
+        "Because its extension is always twice the force applied to it."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which scientific law specifically describes the behaviour of springs when stretched?",
+      "options": [
+        "Newton's Third Law",
+        "Hooke's Law",
+        "Pascal's Law",
+        "Archimedes' Principle"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What can a lever do to help us lift heavy objects?",
+      "options": [
+        "It can multiply a small force into a larger force.",
+        "It can decrease the total weight of the object being lifted.",
+        "It can completely eliminate the force of gravity.",
+        "It can increase the mass of the person using it."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What distinguishes the different types (classes) of levers from each other?",
+      "options": [
+        "The material the lever is made from.",
+        "The position of the pivot.",
+        "The total mass of the lever itself.",
+        "The speed at which the lever is moved."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What does pressure measure?",
+      "options": [
+        "How concentrated a force is over an area.",
+        "The total mass of an object.",
+        "The speed at which an object moves.",
+        "The total energy stored in a spring."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What is the formula used to calculate pressure?",
+      "options": [
+        "Pressure = force × area",
+        "Pressure = force ÷ area",
+        "Pressure = area ÷ force",
+        "Pressure = force + area"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is another name for the unit \"newtons per square metre\" (N/m²)?",
+      "options": [
+        "Joule (J)",
+        "Pascal (Pa)",
+        "Newton (N)",
+        "Watt (W)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "How does the surface area of a boat's hull affect the upthrust on it?",
+      "options": [
+        "A larger surface area allows a bigger upthrust on the hull.",
+        "A larger surface area reduces the maximum possible upthrust.",
+        "Surface area has no effect on the upthrust.",
+        "A smaller surface area always increases the upthrust."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Why does the pressure in a liquid increase as you go deeper?",
+      "options": [
+        "Because the liquid becomes significantly hotter at the bottom.",
+        "Because there is more liquid above pushing down.",
+        "Because the particles in the liquid expand at depth.",
+        "Because the liquid is moving faster at the bottom."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why does atmospheric pressure reduce with height?",
+      "options": [
+        "Because there is less air above pushing down.",
+        "Because gravity becomes zero at high altitudes.",
+        "Because the temperature of the air always increases.",
+        "Because the air molecules become much heavier."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "How does a rubber band behave compared to a spring when equal-sized increases in force are applied?",
+      "options": [
+        "Its extension increases by the same amount for each force increase.",
+        "Its extension increases by different amounts for each equal-sized increase in force.",
+        "It does not extend at all until a threshold force is met.",
+        "Its extension is always directly proportional to the force applied."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What is the physical effect caused by a moment?",
+      "options": [
+        "It causes an object to speed up in a straight line.",
+        "It causes turning.",
+        "It changes the mass of an object.",
+        "It increases the density of a liquid."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "How do you calculate the moment of a force?",
+      "options": [
+        "Moment = force × perpendicular distance from the pivot",
+        "Moment = force ÷ perpendicular distance from the pivot",
+        "Moment = force + perpendicular distance from the pivot",
+        "Moment = perpendicular distance ÷ force"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 37
+    }
+  ]
+}
