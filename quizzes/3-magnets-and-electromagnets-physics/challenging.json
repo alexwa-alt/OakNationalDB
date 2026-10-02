@@ -1,6 +1,6 @@
 {
   "unitKey": "3Magnets and electromagnetsPhysics",
-  "generatedAt": "2026-10-01T15:37:27.486702+00:00",
+  "generatedAt": "2026-10-02T14:49:26.846612+00:00",
   "questions": [
     {
       "question": "An engineer is designing two electromagnets, A and B. Both use the same type of wire and are connected to identical 6V power supplies. Electromagnet A has 100 turns of wire wrapped over 5 cm, while electromagnet B has 200 turns of wire wrapped over the same length. Assuming current is kept constant, why is electromagnet B stronger than A?",
@@ -1318,6 +1318,226 @@
         "The movement of the striker breaks the electric circuit, turning off the electromagnet.",
         "The polarity of the electromagnet automatically reverses, repelling the striker.",
         "The gong of the bell delivers an equal and opposite electrostatic shock to the striker."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A student wants to double the strength of an electromagnet by changing only the physical structure of the coil. Which modification would achieve this?",
+      "options": [
+        "Keep the length of the coil and the current the same, but double the number of turns of wire.",
+        "Keep the number of turns of wire the same, but double the length of the coil.",
+        "Halve the number of turns of wire while keeping the current constant.",
+        "Replace the copper wire with a thicker wire of the same length and number of turns."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "An engineer needs to increase the lifting force of an industrial electromagnet. What change to the electrical circuit would accomplish this?",
+      "options": [
+        "Add a resistor in series with the electromagnet coil to reduce the current.",
+        "Increase the voltage of the power supply to increase the current flowing through the coil.",
+        "Switch the direction of the direct current to reverse the magnetic poles.",
+        "Replace the power supply with an alternating current supply of a lower peak voltage."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Two electromagnets, X and Y, are made with the same length of wire, the same number of turns, and the same current. However, the turns on electromagnet X are wound tightly together, while the turns on electromagnet Y are stretched out over a longer distance. How do their magnetic fields compare?",
+      "options": [
+        "Electromagnet X has a stronger magnetic field because its coils are more closely spaced.",
+        "Electromagnet Y has a stronger magnetic field because its coils cover a wider area.",
+        "Both electromagnets have identical magnetic field strengths because they have the same number of turns.",
+        "Electromagnet Y has a stronger magnetic field because stretching the wire reduces electrical resistance."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A student attempts to build an electromagnet using bare copper wire wrapped tightly around an iron nail so that the adjacent loops touch each other. When they connect it to a battery, they find it barely attracts any paperclips. What is the reason for this failure?",
+      "options": [
+        "Bare copper cannot conduct electricity when wrapped in a coil shape.",
+        "The electric current flows straight along the touching loops instead of spiralling around the nail.",
+        "Iron nails can only be magnetised if the wire is completely insulated from the air.",
+        "Copper is a non-magnetic material, so it prevents the iron nail from becoming magnetised."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why does placing a soft iron bar inside a current-carrying coil significantly increase the strength of the resulting electromagnet?",
+      "options": [
+        "The iron bar acts as an insulator, preventing electric current from escaping the coil.",
+        "The iron bar becomes magnetised when the current is turned on, adding its own magnetic field.",
+        "The iron bar increases the electrical resistance, which forces more current to flow.",
+        "The iron bar permanently retains its magnetism, keeping the field strong even when switched off."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A straight wire is suspended horizontally above a plotting compass. What happens to the compass needle when a large electric current is switched on in the wire?",
+      "options": [
+        "The needle does not move because magnetic fields only exist around coiled wires.",
+        "The needle deflects because the electric current generates a magnetic field around the wire.",
+        "The needle is permanently demagnetised by the heat from the electric current in the wire.",
+        "The needle points directly towards the wire because electric charge attracts magnetic poles."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When wire is wound into a coil, how does the magnetic field of the individual loops behave when a current flows?",
+      "options": [
+        "The magnetic fields of the individual loops cancel each other out, leaving only the ends magnetised.",
+        "The magnetic field around each loop adds together to produce a much stronger overall magnetic field.",
+        "The magnetic field of each loop is isolated, preventing any interaction between them.",
+        "The magnetic field lines from adjacent loops cross each other to create a completely random field."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which of the following describes the basic construction of a simple electromagnet?",
+      "options": [
+        "A permanent bar magnet wrapped inside a protective plastic sleeve.",
+        "A coil of insulated wire wrapped around a central core material.",
+        "A loop of non-conductive string tied around a magnetic steel rod.",
+        "A straight piece of copper wire suspended between two separate permanent magnets."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What is the primary operational advantage of an electromagnet over a permanent magnet in industrial scrap yards?",
+      "options": [
+        "Electromagnets are always stronger than any possible permanent magnet of the same size.",
+        "Electromagnets do not require any external power source once they are fully magnetised.",
+        "Electromagnets can be turned on to pick up scrap metal and turned off to drop it.",
+        "Electromagnets are completely unaffected by changes in temperature or moisture."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A student breaks a bar magnet exactly in half. What is the magnetic state of the two resulting pieces?",
+      "options": [
+        "One piece will have only a north-seeking pole, and the other will have only a south-seeking pole.",
+        "Both pieces will lose their magnetism entirely and become non-magnetic.",
+        "Each of the two pieces will have both a north-seeking pole and a south-seeking pole.",
+        "One piece will remain magnetic, while the other piece will become a simple piece of unmagnetised metal."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Two unmarked bar magnets are suspended by threads close to each other. When end X of the first magnet is brought near end Y of the second magnet, they push away from each other. What can you conclude about ends X and Y?",
+      "options": [
+        "One is a north-seeking pole and the other is a south-seeking pole.",
+        "Both ends are south-seeking poles, or both ends are north-seeking poles.",
+        "End X is magnetic but end Y is made of a non-magnetic material.",
+        "Both ends are completely unmagnetised and are reacting to gravity."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "An unmagnetised iron nail is placed near a bar magnet. Which statement correctly describes the attraction between them?",
+      "options": [
+        "The nail is attracted only to the north-seeking pole of the bar magnet.",
+        "The nail is attracted only to the south-seeking pole of the bar magnet.",
+        "The nail is attracted to both the north-seeking and the south-seeking poles of the bar magnet.",
+        "The nail is repelled by both poles because it does not have its own magnetic poles."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A box contains four rods, each made of a different pure metal element: copper, iron, aluminum, and nickel. If you bring a bar magnet close to each rod, which ones will be attracted to the magnet?",
+      "options": [
+        "Only the iron and nickel rods.",
+        "All four rods, because all metals are magnetic.",
+        "Only the iron rod, because nickel is a non-magnetic metal.",
+        "Only the copper and aluminum rods."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why does the north-seeking pole of a freely suspended bar magnet point towards the geographical North Pole of the Earth?",
+      "options": [
+        "The Earth's rotation physically forces all metal objects to align north-to-south.",
+        "The Earth acts as a giant magnet with its own magnetic field that exerts a force on the bar magnet.",
+        "The atmosphere near the equator has a strong electrostatic charge that pushes magnets away.",
+        "The north-seeking pole is attracted to the extreme cold temperatures at the Earth's geographic North Pole."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How does a plotting compass help map the magnetic field around a bar magnet?",
+      "options": [
+        "The compass needle is insulated from magnetic forces, pointing only to the geographic North.",
+        "The compass needle is a small magnet that lines up with the direction of the bar magnet's magnetic field.",
+        "The compass needle measures the electric current flowing through the magnetic field lines.",
+        "The compass needle spins continuously to show the intensity of the magnetic force."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "If you trace a single magnetic field line starting at the north-seeking pole of a bar magnet, where does that field line lead?",
+      "options": [
+        "It travels outward infinitely into space and never returns to the magnet.",
+        "It curves around the magnet and ends at the south-seeking pole of the same magnet.",
+        "It loops back and enters the same north-seeking pole from which it started.",
+        "It connects directly to the nearest magnetic material in the room."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is represented by the direction of the arrows drawn on magnetic field lines?",
+      "options": [
+        "The direction of the electric current flowing through the magnet.",
+        "The direction in which a north-seeking pole of another magnet would be forced.",
+        "The direction of gravity acting on the magnetic material.",
+        "The direction in which the south-seeking pole of a compass would point."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "When drawing a diagram of the magnetic field around two interacting magnets, which rule must be strictly followed?",
+      "options": [
+        "Magnetic field lines must cross each other to show where the field is strongest.",
+        "Magnetic field lines must start at the south-seeking pole and end at the north-seeking pole.",
+        "Magnetic field lines must be continuous and must never cross over each other.",
+        "Magnetic field lines should only be drawn as straight, parallel lines."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "In a standard electric bell, what is the role of the electromagnet when the switch is first pressed?",
+      "options": [
+        "It heats up a bimetallic strip to push the striker against the bell.",
+        "It generates an electric spark that directly strikes the bell.",
+        "It becomes magnetised and attracts the striker, causing it to move and hit the bell.",
+        "It repels the permanent magnet on the striker to push it away from the bell."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "How does an electric bell achieve a continuous ringing action rather than just hitting the bell once and stopping?",
+      "options": [
+        "The battery automatically switches its polarity back and forth at a high frequency.",
+        "As the striker moves toward the bell, it breaks its own circuit, de-magnetising the electromagnet so the striker can spring back.",
+        "The electromagnet stays permanently magnetised, but the striker bounces off the bell due to elastic tension.",
+        "A small motor continuously spins the electromagnet to turn it on and off mechanically."
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 21

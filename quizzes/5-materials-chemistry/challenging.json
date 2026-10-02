@@ -1,6 +1,6 @@
 {
   "unitKey": "5MaterialsChemistry",
-  "generatedAt": "2026-08-24T09:10:22.216055+00:00",
+  "generatedAt": "2026-10-02T14:50:15.852651+00:00",
   "questions": [
     {
       "question": "A student measures the mass of a black powder before adding it to hydrogen peroxide. After the reaction, she filters, dries, and weighs the powder again. If the powder acted as a catalyst, what will she observe?",
@@ -880,6 +880,226 @@
         "Potassium will form a metal oxide, while iron will form a metal hydroxide."
       ],
       "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A student adds a small amount of black manganese dioxide powder to hydrogen peroxide. The mixture fizzes rapidly and the powder remains unchanged at the end of the reaction. Which statement best explains why this powder is considered a catalyst?",
+      "options": [
+        "It increased the temperature of the reaction mixture permanently.",
+        "It increased the speed of the reaction without being chemically changed or used up.",
+        "It reacted with the hydrogen peroxide to form a new compound called manganese oxide.",
+        "It was completely used up by the end of the chemical reaction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A chemist successfully uses manganese dioxide to speed up the decomposition of hydrogen peroxide. However, when they add manganese dioxide to a reaction between zinc and sulfuric acid, the reaction rate does not change. What does this demonstrate about catalysts?",
+      "options": [
+        "Catalysts only work when dissolved in aqueous solutions.",
+        "Catalysts are specific to particular chemical reactions.",
+        "Catalysts are always consumed when they are placed in acidic conditions.",
+        "The surface area of a catalyst must be changed for every different reaction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Amylase is an enzyme found in human saliva that breaks down starch into sugar. Why does amylase fail to speed up the breakdown of proteins in the stomach?",
+      "options": [
+        "Enzymes are biological catalysts that are specific to only certain substrates and reactions.",
+        "Enzymes are destroyed when they leave the mouth and enter the stomach.",
+        "Stomach acid changes starch into protein, preventing amylase from working.",
+        "Amylase is a non-biological catalyst that only works on carbohydrate molecules."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Iron filings are added to a blue solution of copper sulfate. Over time, the solution turns pale green and a brown solid deposits on the iron. What does this experiment prove?",
+      "options": [
+        "Copper is more reactive than iron because copper formed a solid.",
+        "Iron is more reactive than copper because it displaced copper from its salt solution.",
+        "Sulfate ions are more reactive than both iron and copper.",
+        "A physical change occurred where iron dissolved and copper melted."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When magnesium ribbon is placed into a blue solution of copper sulfate, a displacement reaction occurs. Which of the following correctly describes the products formed?",
+      "options": [
+        "Magnesium sulfate solution and copper solid.",
+        "Magnesium oxide solid and copper sulfate gas.",
+        "Copper magnesium alloy and sulfur dioxide gas.",
+        "Copper hydroxide solution and magnesium solid."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A student is given four metals (W, X, Y, Z) and their salt solutions. Metal W can displace X and Y from their solutions, but cannot displace Z. Metal Y can displace X but not Z. What is the correct order of reactivity from most to least reactive?",
+      "options": [
+        "Z, W, Y, X",
+        "X, Y, W, Z",
+        "W, Z, Y, X",
+        "Z, Y, W, X"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "An industrial chemist is assessing a newly discovered rock deposit. To classify this rock as a metal ore, which of the following criteria must it meet?",
+      "options": [
+        "It must contain the pure, uncombined metal in large visible nuggets.",
+        "It must be a hard, shiny rock that conducts electricity in its natural state.",
+        "It must contain a metal compound in a form and concentration that allows the metal to be extracted.",
+        "It must have been formed by volcanic activity containing only noble metals."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Iron can be extracted from iron oxide by heating it with carbon, but magnesium cannot be extracted from magnesium oxide using carbon. What is the reason for this difference?",
+      "options": [
+        "Carbon is more reactive than iron, but less reactive than magnesium.",
+        "Carbon is less reactive than iron, but more reactive than magnesium.",
+        "Iron oxide has a higher melting point than magnesium oxide.",
+        "Magnesium is a non-metal and does not react with carbon."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Copper is commonly used to make electrical wiring and cooking pots. Which combination of properties makes copper suitable for both of these specific uses?",
+      "options": [
+        "It is highly malleable and has a very low melting point.",
+        "It is a good electrical conductor, a good thermal conductor, and ductile.",
+        "It is magnetic, extremely strong, and highly brittle.",
+        "It is shiny, has low density, and reacts vigorously with cold water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Clay is soft and moldable when wet, but after being fired in a kiln, it becomes a ceramic. What physical change in properties occurs during this heating process?",
+      "options": [
+        "The clay becomes highly malleable and conducts electricity.",
+        "The clay becomes hard, brittle, and resistant to high temperatures.",
+        "The clay turns into a flexible polymer with a low melting point.",
+        "The clay becomes a ductile liquid that can be drawn into wires."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Pure gold is very soft and easily scratched, so jewelry is often made of 18-carat gold, which contains gold mixed with silver and copper. How does this alloy compare to pure gold?",
+      "options": [
+        "The alloy is a mixture of elements that is harder and stronger than pure gold.",
+        "The alloy is a compound with a much lower melting point than pure gold.",
+        "The alloy is a pure substance that is more malleable than gold.",
+        "The alloy contains only non-metals, making it lighter than gold."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Concrete is reinforced with steel rods to make reinforced concrete. Why is reinforced concrete classified as a composite material?",
+      "options": [
+        "It is a single pure substance made of a metal and a non-metal chemically combined.",
+        "It combines two different materials to produce a new material with improved properties.",
+        "It is made by melting steel and concrete together to form a homogeneous alloy.",
+        "It consists of a single polymer chain that has been vulcanized."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Poly(ethene) is a plastic used to make plastic bags. How is poly(ethene) formed from ethene molecules?",
+      "options": [
+        "Small monomer molecules of ethene chemically join together to form very long polymer chains.",
+        "Large polymer chains of ethene break down into small monomer molecules.",
+        "Ethene gas is mixed with carbon to form a metallic alloy.",
+        "Ethene molecules are cross-linked with metal ions to form a ceramic."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why do some polymers, like thermosetting plastics, have high melting points and do not melt when heated?",
+      "options": [
+        "Their polymer chains are very short and have weak forces between them.",
+        "Their molecules are highly tangled and difficult to separate due to strong forces or cross-links.",
+        "They contain metal atoms that conduct heat away too quickly.",
+        "They are made of monomers that are completely liquid at room temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following correctly pairs a natural polymer with a synthetic polymer?",
+      "options": [
+        "Nylon and Cotton",
+        "Wool and Polyester",
+        "Polythene and Silk",
+        "Rubber and DNA"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "PVC is naturally rigid and used for drainpipes, but when plasticisers are added, it becomes flexible enough to make artificial leather. How do plasticisers achieve this effect?",
+      "options": [
+        "They form strong chemical cross-links between the polymer chains.",
+        "They get between the polymer molecules, reducing the forces and allowing them to slide over each other.",
+        "They break the long polymer chains down into short monomer gases.",
+        "They coat the outside of the plastic with a layer of metallic alloy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How does introducing cross-links between polymer chains affect the physical properties of a polymer material?",
+      "options": [
+        "It makes the polymer much softer and easier to melt.",
+        "It makes the polymer harder, more rigid, and less flexible.",
+        "It allows the polymer chains to slide past each other more easily.",
+        "It converts the polymer into a highly ductile metallic conductor."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A student adds a piece of zinc to a test tube containing hydrochloric acid. Bubbles are produced and the tube gets warm. What are the products of this reaction?",
+      "options": [
+        "Zinc chloride and hydrogen gas.",
+        "Zinc oxide and chlorine gas.",
+        "Zinc hydroxide and hydrogen gas.",
+        "Zinc sulfate and oxygen gas."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "When a small piece of sodium is added to a trough of water, it melts into a ball, fizzes rapidly, and moves across the surface. What products are formed in this reaction?",
+      "options": [
+        "Sodium oxide and oxygen gas.",
+        "Sodium hydroxide and hydrogen gas.",
+        "Sodium chloride and chlorine gas.",
+        "Sodium hydride and oxygen gas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Based on their positions in the reactivity series, which of these metals would you expect to react most vigorously when added to dilute acid?",
+      "options": [
+        "Potassium, which is very high in the reactivity series.",
+        "Iron, which is in the middle of the reactivity series.",
+        "Copper, which is very low in the reactivity series.",
+        "Platinum, which is at the very bottom of the reactivity series."
+      ],
+      "correctAnswerIndex": 0,
       "learningPointIndex": 22
     }
   ]

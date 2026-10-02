@@ -1,6 +1,6 @@
 {
   "unitKey": "4Plant nutrition and photosynthesisBiology",
-  "generatedAt": "2026-10-01T15:38:05.348229+00:00",
+  "generatedAt": "2026-10-02T14:49:50.754392+00:00",
   "questions": [
     {
       "question": "A student examines a plant cell under a microscope and identifies small, green structures within the cytoplasm. What are these structures, and in which part of the plant are they most abundant?",
@@ -1098,6 +1098,226 @@
         "It is a carbohydrate, used for growth and as a source of energy",
         "It is a protein, used to capture light in the leaves",
         "It is water, used to keep the plant hydrated in dry weather"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "If a student examines a plant leaf under a microscope and identifies the individual units making up the tissue, what structures inside these cells should they look for to confirm they are observing the primary site of photosynthesis?",
+      "options": [
+        "Cytoplasm filled with starch grains",
+        "Chloroplasts located inside the leaf cells",
+        "Large central vacuoles filled with soil minerals",
+        "Tiny external pores on the cell membrane"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A scientist isolates different parts of a plant cell to find where the chemical reactions of photosynthesis actually occur. In which cellular structure will they detect the chemical process of photosynthesis taking place?",
+      "options": [
+        "The cell wall",
+        "The chloroplasts",
+        "The vacuole",
+        "The cytoplasm outside any organelles"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why does a plant with a genetic mutation that prevents the formation of chlorophyll in its chloroplasts fail to carry out photosynthesis?",
+      "options": [
+        "It cannot absorb the light needed for the process",
+        "It cannot transport water up from the roots",
+        "It cannot absorb carbon dioxide through its stomata",
+        "It cannot store glucose in its leaves"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the primary evolutionary advantage of a leaf being extremely thin rather than thick and fleshy?",
+      "options": [
+        "It prevents water loss by evaporation from the lower surface",
+        "It allows light to penetrate through to reach the cells containing chloroplasts",
+        "It provides a larger physical space to store extra carbon dioxide",
+        "It makes the leaf too light for insects to land on and damage"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A plant species grows broad, flat leaves in shaded forest floors. How does this adaptation of a large surface area directly aid the plant's survival?",
+      "options": [
+        "It helps the plant absorb more carbon dioxide during the night",
+        "It maximizes the absorption of light required for photosynthesis",
+        "It prevents excess water from entering the roots",
+        "It increases the structural strength of the stem against wind"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "If a plant is sealed in a glass jar with plenty of water and light, but the air inside is completely stripped of carbon dioxide, what will happen to its ability to photosynthesise?",
+      "options": [
+        "It will continue normally because plants produce their own carbon dioxide",
+        "It will stop because it cannot take in carbon dioxide from the air",
+        "It will increase because there is more room for oxygen absorption",
+        "It will switch to taking in carbon dioxide through its root system"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "During a sunny day, an aquatic plant is observed releasing bubbles. What is the origin and identity of this gas?",
+      "options": [
+        "It is carbon dioxide absorbed from the water and released from the stem",
+        "It is oxygen made by photosynthesis and released as a gas from the leaves",
+        "It is water vapour being expelled due to high temperatures",
+        "It is nitrogen gas produced during mineral absorption in the roots"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "In leaves, the intake of carbon dioxide and the release of oxygen is an essential biological process. What is the correct scientific term for this balanced physical swapping of gases between the leaf and the atmosphere?",
+      "options": [
+        "Transpiration",
+        "Respiration",
+        "Gas exchange",
+        "Osmosis"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "If a scientist applies a thick, waterproof wax to the underside of a leaf where the small holes called stomata are located, how will this affect gas exchange?",
+      "options": [
+        "Gas exchange will speed up because gases are trapped inside",
+        "Gas exchange will be blocked because gases cannot enter or leave through the stomata",
+        "Gas exchange will continue normally through the waxy layer",
+        "Gas exchange will shift entirely to the root system"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "By what physical process do molecules of carbon dioxide and oxygen move through open stomata down their concentration gradients?",
+      "options": [
+        "Active transport",
+        "Diffusion",
+        "Osmosis",
+        "Capillary action"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why are green plants classified as 'producers' in an ecosystem?",
+      "options": [
+        "They produce minerals in the soil for other plants to use",
+        "They make their own food using a process called photosynthesis",
+        "They absorb organic food molecules from their surroundings",
+        "They produce heat to keep the surrounding atmosphere warm"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A student sets up an experiment with four identical plants. Which plant will be unable to carry out photosynthesis?",
+      "options": [
+        "A plant kept in a bright room with no soil",
+        "A plant kept in complete darkness with plenty of water and air",
+        "A plant kept in a sealed glass container in the sunlight",
+        "A plant kept outdoors during a sunny but very cold day"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of the following statements best describes the nature of photosynthesis within a plant?",
+      "options": [
+        "It is a single physical mixing process occurring on the leaf surface",
+        "It is a series of chemical reactions that take place inside cells",
+        "It is a mechanical filtration of nutrients absorbed by roots",
+        "It is a non-chemical energy storage method in the vacuole"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "In the process of photosynthesis, which substances are the starting reactants, and which are the final products?",
+      "options": [
+        "Reactants: oxygen and glucose; Products: water and carbon dioxide",
+        "Reactants: water and carbon dioxide; Products: oxygen and glucose (a carbohydrate)",
+        "Reactants: minerals and water; Products: carbon dioxide and oxygen",
+        "Reactants: glucose and carbon dioxide; Products: water and oxygen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why is the written equation 'water + carbon dioxide -> glucose + oxygen' considered a model of photosynthesis?",
+      "options": [
+        "Because it represents a physical replica of a leaf cell",
+        "Because it is a word summary of the reactants and products of many complex chemical reactions",
+        "Because it proves that light is a physical substance used as a reactant",
+        "Because it lists every single individual chemical step that occurs in the plant"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A gardener plants a seed in a sealed, dark, vacuum-chamber containing only dry soil. Which essential factors for survival and growth has the gardener withheld from this living organism?",
+      "options": [
+        "Only minerals",
+        "Light, air, and water",
+        "Only light and minerals",
+        "Air and glucose"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How does a plant partition the uptake of its required resources from its environment?",
+      "options": [
+        "It takes in water and light through its leaves, and gases and minerals through its roots",
+        "It takes in light and gases from air through its leaves, and water and minerals through its roots",
+        "It takes in minerals and gases through its leaves, and water and light through its roots",
+        "It takes in all resources, including light, gases, water, and minerals, through its roots"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A student claims that watering a plant and adding liquid fertilizer (minerals) is 'feeding' the plant. Why is this claim biologically incorrect?",
+      "options": [
+        "Water and minerals are not food, but plants do need food to stay alive and grow",
+        "Water and minerals are actually toxic to plants in the long term",
+        "Plants do not need any food at all to stay alive and grow",
+        "Fertilizer is food, but water is not"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "If a plant is grown in sterile soil containing no organic matter or food particles, how does it obtain the food it needs to survive?",
+      "options": [
+        "It absorbs tiny food particles from the surrounding air through its stomata",
+        "It does not take in food from its surroundings; it is a producer that makes its own food",
+        "It relies on symbiotic fungi to transport food molecules from other plants",
+        "It converts soil minerals directly into food without needing photosynthesis"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Once a plant has successfully produced carbohydrate (glucose) through photosynthesis, what does it use this food for?",
+      "options": [
+        "To absorb more minerals from the soil and to release carbon dioxide",
+        "For growth and as a source of energy to stay alive",
+        "To attract insects and to keep the leaves cool",
+        "To store water in the roots for dry seasons"
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 19
