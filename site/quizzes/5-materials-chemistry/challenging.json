@@ -1,6 +1,6 @@
 {
   "unitKey": "5MaterialsChemistry",
-  "generatedAt": "2026-10-02T14:50:15.852651+00:00",
+  "generatedAt": "2026-10-03T13:33:06.177781+00:00",
   "questions": [
     {
       "question": "A student measures the mass of a black powder before adding it to hydrogen peroxide. After the reaction, she filters, dries, and weighs the powder again. If the powder acted as a catalyst, what will she observe?",
@@ -1101,6 +1101,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 22
+    },
+    {
+      "question": "A student measures the mass of a black powder before adding it to hydrogen peroxide. After the reaction finishes, the student filters, dries, and weighs the powder again. What would they observe if the powder acted as a catalyst?",
+      "options": [
+        "The mass of the powder is exactly the same, and its chemical properties are unchanged.",
+        "The mass of the powder has decreased because it was used up as a reactant.",
+        "The mass of the powder has increased because it absorbed oxygen during the reaction.",
+        "The powder has completely dissolved and cannot be recovered by filtration."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A scientist finds that manganese dioxide speeds up the decomposition of hydrogen peroxide. However, when they add manganese dioxide to a mixture of sodium thiosulfate and hydrochloric acid, the reaction rate does not change. What does this demonstrate?",
+      "options": [
+        "Catalysts only work at high temperatures and pressures.",
+        "Catalysts are specific to particular reactions.",
+        "The second reaction does not require any activation energy.",
+        "Manganese dioxide was chemically altered in the first reaction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Amylase is a protein found in human saliva that breaks down starch into sugars at body temperature. What term best describes the role of amylase in this process?",
+      "options": [
+        "An inorganic reactant",
+        "A biological catalyst (enzyme)",
+        "A synthetic polymer",
+        "A thermal insulator"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "When iron filings are added to a blue solution of copper sulfate, the solution gradually turns pale green and a brown solid forms. What is the explanation for this reaction?",
+      "options": [
+        "Copper is more reactive than iron and replaces it in the solution.",
+        "Iron is more reactive than copper and displaces copper from its salt.",
+        "Sulfate ions are highly unstable and break down in the presence of iron.",
+        "A physical mixture of iron and copper sulfate is created without any chemical change."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "If you add magnesium ribbon to an aqueous solution of copper sulfate, which of the following represents the correct products formed?",
+      "options": [
+        "Magnesium oxide and sulfur dioxide gas",
+        "Copper magnesium alloy and sulfur",
+        "Magnesium sulfate solution and copper solid",
+        "Copper hydroxide solution and magnesium solid"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "You are given three metals (X, Y, and Z) and their nitrate solutions. Metal X displaces Y and Z from their solutions. Metal Z cannot displace Y from its solution. What is the correct order of these metals in the reactivity series, from most reactive to least reactive?",
+      "options": [
+        "X, Y, Z",
+        "Y, Z, X",
+        "Z, Y, X",
+        "X, Z, Y"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why is a rock containing iron oxide considered an \"ore\", while a standard garden soil containing traces of iron is not?",
+      "options": [
+        "Soil does not contain any metal atoms.",
+        "Only rocks contain compounds that are chemically bonded.",
+        "An ore is a rock that contains enough metal in a form that makes it economical to extract.",
+        "Iron in soil cannot be reacted with carbon."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Copper can be extracted from copper oxide by heating it with carbon, but magnesium cannot be extracted from magnesium oxide using carbon. Why is this?",
+      "options": [
+        "Carbon is more reactive than copper, but less reactive than magnesium.",
+        "Magnesium oxide has a lower melting point than copper oxide.",
+        "Carbon reacts only with non-metal oxides.",
+        "Copper is more reactive than carbon, allowing it to push carbon out."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A design engineer needs a material to make electrical wiring that can be easily bent around corners and will not snap under tension. Which set of metallic properties is most important for this application?",
+      "options": [
+        "High density, dull appearance, and brittleness",
+        "Electrical conductivity, malleability, and ductility",
+        "Thermal conductivity, high melting point, and hardness",
+        "Low density, high solubility, and chemical inertness"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Clay is a soft, moldable substance when wet, but after being fired in a kiln at high temperatures, it becomes a ceramic pot. What are the key physical properties of the finished ceramic pot?",
+      "options": [
+        "Highly flexible and electrically conductive",
+        "Hard, brittle, and heat-resistant",
+        "Malleable, ductile, and soluble in water",
+        "Low melting point and highly elastic"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why can plastics be used for a wide range of different products, from flexible food wrap to rigid car bumpers?",
+      "options": [
+        "All plastics have identical chemical structures but are painted differently.",
+        "Plastics are made from polymers, and different types can have very different physical properties.",
+        "Plastics are easily converted into metals when heated under pressure.",
+        "Every plastic is highly biodegradable and dissolves quickly in water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Brass is a material made by melting copper and zinc together. How should brass be classified?",
+      "options": [
+        "A pure metal element",
+        "A ceramic material",
+        "An alloy",
+        "A synthetic polymer"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Fiberglass is made by reinforcing a plastic polymer matrix with thin glass fibers. This combination is much stronger than plastic alone and less brittle than glass alone. What type of material is fiberglass?",
+      "options": [
+        "A ceramic",
+        "An alloy",
+        "A monomer",
+        "A composite"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "During a polymerization reaction, what happens to the small starting molecules (monomers)?",
+      "options": [
+        "They are broken down into single, isolated atoms.",
+        "They chemically join together to form very long chains of atoms.",
+        "They evaporate to leave behind a metallic residue.",
+        "They dissolve each other to form a liquid alloy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why do some polymers, such as thermosetting plastics, remain solid at very high temperatures instead of melting easily?",
+      "options": [
+        "They consist of tiny, weak atoms that do not absorb heat.",
+        "Their long polymer chains are tightly bound and hard to separate.",
+        "They are made of metals that conduct heat away instantly.",
+        "They do not contain any chemical bonds."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following pairs correctly groups a natural polymer and a synthetic polymer?",
+      "options": [
+        "Starch (natural) and Polyethene (synthetic)",
+        "Nylon (natural) and Cellulose (synthetic)",
+        "Copper (natural) and Polyester (synthetic)",
+        "DNA (natural) and Wool (synthetic)"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Pure PVC is stiff and brittle, but when a plasticiser is added, it becomes highly flexible and can be used to make inflatable toys. How does the plasticiser change the properties of the polymer?",
+      "options": [
+        "It causes the polymer chains to break down into single monomers.",
+        "It gets between the polymer molecules, allowing them to slide over each other more easily.",
+        "It forms strong covalent cross-links that lock the molecules in place.",
+        "It increases the electrical conductivity of the polymer."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Vulcanized rubber has sulfur cross-links added between its polymer chains. How does this structural change affect the physical properties of the rubber?",
+      "options": [
+        "It makes the rubber much softer and easier to melt.",
+        "It makes the rubber harder and less flexible.",
+        "It allows the rubber to dissolve completely in water.",
+        "It turns the rubber into a highly ductile metal."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "When zinc metal is added to a test tube of dilute hydrochloric acid, bubbles of a gas are produced. What are the products of this chemical reaction?",
+      "options": [
+        "Zinc hydroxide and chlorine gas",
+        "Zinc chloride and hydrogen gas",
+        "Zinc oxide and water",
+        "Zinc carbonate and carbon dioxide gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "When a small piece of sodium is dropped into water, it fizzes rapidly, moves across the surface, and the water turns alkaline. What are the products of this reaction?",
+      "options": [
+        "Sodium oxide and oxygen gas",
+        "Sodium hydroxide and hydrogen gas",
+        "Sodium chloride and chlorine gas",
+        "Sodium hydride and oxygen gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
     }
   ]
 }

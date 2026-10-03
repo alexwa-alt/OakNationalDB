@@ -1,0 +1,226 @@
+{
+  "unitKey": "7Adaptations, competition, natural selection and evolutionBiology",
+  "generatedAt": "2026-10-03T13:33:57.006140+00:00",
+  "questions": [
+    {
+      "question": "In a classroom activity, students pick up green and white cocktail sticks from green grass in a limited time. What does this simple model demonstrate?",
+      "options": [
+        "How plants absorb nutrients from the soil",
+        "Natural selection and the effect of camouflage",
+        "How seeds are dispersed by wind currents",
+        "The process of fossilisation over millions of years"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If we use green and white cocktail sticks on green grass to model natural selection, how would the prediction change if the grass became covered in white frost?",
+      "options": [
+        "White sticks would become harder to see and survive better",
+        "Green sticks would become completely invisible",
+        "Both colours of sticks would be picked up at the exact same rate",
+        "No sticks would be picked up because the model stops working"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the scientific term for the special features that make an organism well suited to survive in its environment?",
+      "options": [
+        "Acquired habits",
+        "Adaptations",
+        "Environmental factors",
+        "Generations"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "How does having thick, white fur provide an advantage to a polar bear in its snowy environment?",
+      "options": [
+        "It helps the bear absorb more sunlight to stay cool",
+        "It makes the bear run faster over the ice",
+        "It helps the bear blend into the snow to sneak up on prey",
+        "It allows the bear to swim without using its legs"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why must individual organisms within a habitat compete with each other?",
+      "options": [
+        "Because they want to help other species survive",
+        "Because resources like food and water are limited",
+        "Because they have identical genetic information",
+        "Because habitats have unlimited space for all living things"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which of the following is a resource that plants specifically compete for in a crowded woodland?",
+      "options": [
+        "Mates",
+        "Prey",
+        "Light",
+        "Oxygen for photosynthesis"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is the main reason why some individual animals are able to compete more successfully for food than others of the same species?",
+      "options": [
+        "They choose to change their features whenever they want",
+        "They have variations that make them better adapted to their environment",
+        "They do not need any energy to survive",
+        "They belong to a species that has never evolved"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What can natural selection cause to happen to the common characteristics of a species over many generations?",
+      "options": [
+        "The characteristics remain completely identical forever",
+        "The characteristics can change, causing the species to evolve",
+        "The characteristics will change within each individual's own lifetime",
+        "The characteristics will become less suited to the environment"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "In science, what is a \"theory\", such as the theory of evolution?",
+      "options": [
+        "An educated guess made without any supporting evidence",
+        "A general explanation, developed from evidence, that explains many different examples",
+        "A set of rules that cannot be changed even if new evidence is found",
+        "A description of a single event that only happened once"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How do new advantageous features first appear in a population of organisms?",
+      "options": [
+        "They are carefully planned in advance by the species",
+        "They appear randomly and are then maintained by natural selection",
+        "They are created by the organisms practicing new skills",
+        "They are passed down from other species that lived in different habitats"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "An athlete trains hard and develops very large muscles during their lifetime. Why is this change not considered to be biological evolution?",
+      "options": [
+        "Because it is a change in the features of an individual within its lifetime",
+        "Because large muscles are never useful for survival",
+        "Because the change was caused by a random genetic mutation",
+        "Because it happened over many generations of the athlete's family"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What are all fossils made of?",
+      "options": [
+        "The original, undecomposed soft tissues of ancient animals",
+        "Mineralised remains of once-living organisms or traces left by them",
+        "Preserved plastic and metal materials from ancient civilisations",
+        "Hardened tree sap that contains no trace of living things"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What do fossils of dinosaurs, such as Triceratops, show us about these species today?",
+      "options": [
+        "They are still living in remote parts of the world",
+        "They have gone extinct",
+        "They never actually existed",
+        "They evolved from modern-day birds within the last century"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why must scientists be careful when making conclusions and explanations based on fossil evidence?",
+      "options": [
+        "Fossils cannot be tested or examined with modern instruments",
+        "There are limitations to the conclusions and explanations that can be made from fossil evidence",
+        "Fossils only contain information about plants, never animals",
+        "All fossils are completely identical to organisms alive today"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Which of the following is an example of variation caused entirely by the environment or lifestyle?",
+      "options": [
+        "Having blue eye colour",
+        "Having a scar from an injury",
+        "Having naturally curly hair",
+        "Having a biological blood group"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Why is environmental variation, such as a pierced ear or a suntan, not passed on to an organism's offspring?",
+      "options": [
+        "Because it is not stored in the genetic information",
+        "Because offspring always look completely different from their parents",
+        "Because environmental variation is too dangerous for offspring",
+        "Because offspring only inherit features from their grandparents"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Why can genetic variation, such as the instructions for having camouflaged skin, be passed on to offspring?",
+      "options": [
+        "Because it is caused by the lifestyle of the parents",
+        "Because it is heritable and stored in genetic information",
+        "Because offspring choose which genes they want to receive",
+        "Because it changes completely every time an animal reproduces"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "According to the theory of natural selection, what is true about the \"fittest\" (better adapted) individuals in a population?",
+      "options": [
+        "They are the ones that run the fastest in circles",
+        "They are more likely to survive and reproduce",
+        "They always have a shorter lifespan than poorly adapted individuals",
+        "They stop competing with other species for resources"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "How can human activities, such as causing pollution or clearing forests, affect natural selection in a wild population?",
+      "options": [
+        "They stop all variation from happening in the population",
+        "They can change the environmental conditions, which affects which individuals survive",
+        "They guarantee that every single organism will survive and reproduce",
+        "They prevent any genetic information from being passed to offspring"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Based on scientific evidence, approximately how long ago did the first living organisms (microorganisms) appear on Earth?",
+      "options": [
+        "Around 4.5 billion years ago",
+        "Around 3.8 billion years ago",
+        "Around 500 million years ago",
+        "Around 10 thousand years ago"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    }
+  ]
+}

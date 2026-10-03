@@ -1,6 +1,6 @@
 {
   "unitKey": "4Plant nutrition and photosynthesisBiology",
-  "generatedAt": "2026-10-02T14:49:50.754392+00:00",
+  "generatedAt": "2026-10-03T13:32:46.339292+00:00",
   "questions": [
     {
       "question": "A student examines a plant cell under a microscope and identifies small, green structures within the cytoplasm. What are these structures, and in which part of the plant are they most abundant?",
@@ -1320,6 +1320,226 @@
         "To store water in the roots for dry seasons"
       ],
       "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "If you use a microscope to look at a cross-section of a healthy green leaf, what would you expect to observe inside most of its cells?",
+      "options": [
+        "Tiny green structures called chloroplasts",
+        "Empty spaces containing only air and water",
+        "No internal structures other than a nucleus",
+        "A solid green liquid filling the entire cell with no distinct parts"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A scientist treats a plant cell with a chemical that selectively stops all activity inside the chloroplasts. Which process will be directly halted inside this cell?",
+      "options": [
+        "The absorption of minerals from the soil",
+        "The reaction that synthesises glucose",
+        "The transport of water to other leaves",
+        "The replication of DNA in the nucleus"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why does a leaf appear green to our eyes, and how does this relate to its function in photosynthesis?",
+      "options": [
+        "Chlorophyll inside chloroplasts reflects green light but absorbs other wavelengths of light to power food production",
+        "Chlorophyll in the cell wall absorbs green light specifically to convert it into heat energy",
+        "The stomata are green and absorb light energy directly from the air",
+        "Water inside the leaf turns green when it reacts with carbon dioxide in the sunlight"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is the primary evolutionary advantage of leaves being very thin rather than thick and fleshy?",
+      "options": [
+        "It allows light to penetrate all the way through to the cells containing chloroplasts",
+        "It prevents water from being trapped inside the leaf cells",
+        "It makes it easier for the plant to absorb mineral ions from the surrounding air",
+        "It increases the weight of the branches to help the plant bend in the wind"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A plant species living on a shaded forest floor has much broader leaves than a closely related species living in a bright, open meadow. What is the most likely reason for this adaptation?",
+      "options": [
+        "The broader leaves provide a larger surface area to capture as much light as possible in the dim environment",
+        "Broad leaves allow the plant to store more water absorbed from the moist soil",
+        "The large surface area prevents too much light from reaching the delicate roots below",
+        "Broad leaves help the plant to physically push away competing plants on the forest floor"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A researcher grows a plant in a sealed glass jar with soil and water. They remove all the carbon dioxide from the air inside the jar. What will happen to the plant's ability to photosynthesise?",
+      "options": [
+        "It will stop because carbon dioxide from the air is a required reactant for photosynthesis",
+        "It will continue normally because plants only use carbon dioxide from the soil",
+        "It will increase because carbon dioxide normally slows down photosynthesis",
+        "It will stop because plants require carbon dioxide to absorb light energy through their roots"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "During a sunny day, an aquatic plant is observed producing bubbles. What are these bubbles, and where do they come from?",
+      "options": [
+        "Oxygen gas produced during photosynthesis, which is being released into the water",
+        "Carbon dioxide gas being taken in by the plant to make glucose",
+        "Water vapour being released as the plant drinks from its surroundings",
+        "Nitrogen gas produced as a waste product of mineral absorption"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What term is used to describe the overall process where a plant leaf simultaneously absorbs carbon dioxide from the atmosphere and releases oxygen gas?",
+      "options": [
+        "Gas exchange",
+        "Transpiration",
+        "Mineral transport",
+        "Cellular digestion"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "If a plant's leaves were completely coated in a thick, impermeable wax on both sides, why would its rate of photosynthesis drop drastically?",
+      "options": [
+        "The wax would block the stomata, preventing gas exchange from occurring",
+        "The wax would dissolve the chloroplasts inside the cells",
+        "The plant would no longer be able to absorb minerals through its leaves",
+        "Light would be converted into heat before reaching the chlorophyll"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How do carbon dioxide molecules enter the leaf from the surrounding atmosphere when the stomata are open?",
+      "options": [
+        "They move from an area of higher concentration outside to lower concentration inside by diffusion",
+        "They are actively pumped into the leaf by specialised transport cells",
+        "They are carried inside dissolved in water droplets that are sucked in by the leaf",
+        "They are pulled in by magnetic charges on the surface of the chloroplasts"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why are green plants classified as 'producers' in an ecosystem?",
+      "options": [
+        "Because they make their own food internally using light energy through photosynthesis",
+        "Because they produce oxygen for themselves to consume as food",
+        "Because they produce soil nutrients that other plants need to grow",
+        "Because they absorb ready-made food from the soil and make it available to herbivores"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A student keeps a healthy green plant in a completely dark cupboard for a week, giving it plenty of water and air. Why does the plant fail to make any new food?",
+      "options": [
+        "Photosynthesis is a process that can only occur when light is present",
+        "Plants cannot take in carbon dioxide when it is dark",
+        "Water cannot be absorbed by roots without light energy",
+        "The plant's chloroplasts die immediately when light is removed"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of the following statements best describes the nature of photosynthesis inside a plant?",
+      "options": [
+        "It is a series of chemical reactions that occur inside plant cells",
+        "It is a physical filtration process that separates nutrients from water",
+        "It is a single, instantaneous physical change that turns light into matter",
+        "It is a process where gases are dissolved in water without any chemical changes"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "If you were to write down the chemical ingredients that a plant starts with for photosynthesis, and the final substances it produces, what would they be?",
+      "options": [
+        "Reactants: water and carbon dioxide; Products: oxygen and glucose",
+        "Reactants: oxygen and glucose; Products: water and carbon dioxide",
+        "Reactants: minerals and water; Products: carbon dioxide and oxygen",
+        "Reactants: light and carbon dioxide; Products: water and starch"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Scientists often represent photosynthesis using the simple word equation: 'carbon dioxide + water -> glucose + oxygen'. What is the scientific purpose of this word summary?",
+      "options": [
+        "It is a simplified model of a highly complex process involving many individual chemical reactions",
+        "It is a complete list of every single physical change that happens in the leaf",
+        "It is a recipe that can be used to make glucose without using living cells",
+        "It proves that photosynthesis is a single-step reaction rather than a series of reactions"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A gardener wants to grow tomato plants. To ensure the plants stay alive and grow successfully, which combination of resources must they provide?",
+      "options": [
+        "Light, air, water, and minerals",
+        "Soil, darkness, oxygen, and glucose",
+        "Warmth, pure nitrogen gas, and organic food",
+        "Carbon dioxide, water, and starch only"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which of the following correctly pairs the plant organ with the specific resources it is adapted to take in?",
+      "options": [
+        "Leaves take in light and gases; roots take in water and minerals",
+        "Leaves take in water and minerals; roots take in light and gases",
+        "Leaves take in glucose and water; roots take in oxygen and carbon dioxide",
+        "Leaves take in minerals and gases; roots take in light and water"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A student claims that 'watering a plant and adding liquid fertilizer is feeding it'. Why is this claim scientifically incorrect?",
+      "options": [
+        "Water and minerals are not food, but plants still require actual food to survive and grow",
+        "Water and minerals are the only food plants need, so they do not make their own food",
+        "Fertilizer is a type of food, but water is not, because water does not contain energy",
+        "Plants do not require any food at all to survive, they only need water and minerals"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "If you analyze the soil around a highly productive apple tree, you will find no evidence of glucose or starch being absorbed by the roots. How does the tree get the food it needs?",
+      "options": [
+        "It does not absorb food from its surroundings; it produces its own food internally",
+        "It absorbs minerals and transforms them directly into water without needing food",
+        "It gets all of its food by absorbing decayed plant matter through its leaves",
+        "It absorbs microscopic food particles that are suspended in the air"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Once a plant has successfully produced glucose (a carbohydrate) through photosynthesis, how does it use this substance?",
+      "options": [
+        "For growth and as a source of energy to drive cellular processes",
+        "To absorb more water from the dry soil through osmosis",
+        "To repel herbivores by making the leaves taste extremely bitter",
+        "To convert it back into carbon dioxide and release it into the atmosphere"
+      ],
+      "correctAnswerIndex": 0,
       "learningPointIndex": 19
     }
   ]

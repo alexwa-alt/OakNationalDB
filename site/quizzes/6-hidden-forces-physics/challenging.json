@@ -1,6 +1,6 @@
 {
   "unitKey": "6Hidden forcesPhysics",
-  "generatedAt": "2026-08-25T09:05:38.326139+00:00",
+  "generatedAt": "2026-10-03T13:33:33.518539+00:00",
   "questions": [
     {
       "question": "An iceberg is floating in the ocean with 90% of its volume submerged beneath the water's surface, and only 10% visible above. Based on physical principles, which of the following statements is correct about its state of floating?",
@@ -878,6 +878,226 @@
         "The first attempt has a moment of 250 Nm, and the second has a moment of 125 Nm, making the first attempt twice as effective.",
         "Both attempts produce the same moment because the applied force is 50 N in both cases.",
         "The second attempt produces no moment because the distance is too large for the force to act."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "A wooden block is placed in a deep container of water. Only the top 5% of the block is visible above the water line, while 95% is submerged. Which statement correctly describes the state of the block?",
+      "options": [
+        "The block is partially sinking because most of its volume is below the surface.",
+        "The whole of the block is floating because part of it is above the surface.",
+        "Only the top 5% of the block is floating, while the rest has technically sunk.",
+        "The block is in a state of suspended animation, neither floating nor sinking."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A toy boat floats in a small bowl containing 5 cm of water. If the boat is moved to a deep swimming pool with 3 meters of water, how will its floating behavior change?",
+      "options": [
+        "It will float much higher because the deeper water provides more upward pressure from below.",
+        "It will float lower because the immense weight of the water column beneath it pulls it down.",
+        "It will float in exactly the same way, as floating does not depend on the depth of the liquid.",
+        "It will sink to the bottom because shallow water supports shapes much better than deep water."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A heavy steel block sinks in water, but when the same mass of steel is shaped into a hollow bowl, it floats. Why does shaping the steel allow it to float?",
+      "options": [
+        "The hollow shape reduces the gravitational pull on the steel particles.",
+        "The bowl shape allows it to push its own mass of water out of the way without going under.",
+        "The air trapped inside the bowl chemically reacts with water to create upward thrust.",
+        "The surface area of the metal increases, which directly decreases the density of the steel itself."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "An astronaut needs to lift a 5 kg equipment box on Earth. Approximately how much force must they exert vertically upward to lift it?",
+      "options": [
+        "0.5 N",
+        "5 N",
+        "50 N",
+        "500 N"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A heavy crate with a mass of 12 kg sits stationary on a flat warehouse floor. On Earth, what is the downward force exerted by this mass on the floor?",
+      "options": [
+        "About 1.2 N",
+        "About 12 N",
+        "About 120 N",
+        "About 1200 N"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "On a distant planet, the gravitational field strength (g) is 4 N/kg. If a robot has a mass (m) of 15 kg, what is the gravitational force (W) acting on the robot on this planet?",
+      "options": [
+        "3.75 N",
+        "11 N",
+        "19 N",
+        "60 N"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A student hangs a 1 N weight on a spring, and it extends by 3 cm. When they add another 1 N weight (making 2 N total), it extends by a total of 6 cm. What will the total extension be if a total force of 4 N is applied, assuming the spring behaves regularly?",
+      "options": [
+        "9 cm",
+        "12 cm",
+        "15 cm",
+        "24 cm"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why is a metal spring classified as \"elastic\" when used in a laboratory force experiment?",
+      "options": [
+        "It can be stretched to many times its original length without snapping.",
+        "It returns to its original length when the stretching force is removed.",
+        "The force required to stretch it decreases as it gets longer.",
+        "It changes its physical state from a solid to a flexible material under tension."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A worker uses a long metal crowbar to pry open a heavy wooden crate. How does this lever help the worker open the crate?",
+      "options": [
+        "It reduces the total amount of energy needed to open the crate.",
+        "It multiplies a small applied force into a larger force on the crate.",
+        "It eliminates the friction between the lid and the crate.",
+        "It increases the mass of the crate to make it more stable."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A standard broom is a type of lever where you move your hands a small distance at the handle, and the brush head moves a much larger distance across the floor. This is an example of a lever that:",
+      "options": [
+        "multiplies a small force into a larger force.",
+        "multiplies a small movement into a larger movement.",
+        "decreases the overall speed of the sweeping action.",
+        "changes the mass of the broom as it sweeps."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A block exerts a downward force of 60 N on a table. The area of the block's base in contact with the table is 0.5 square metres. What is the pressure exerted by the block on the table?",
+      "options": [
+        "30 Pa",
+        "120 Pa",
+        "12 Pa",
+        "1200 Pa"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A scientist calculates that a pneumatic piston exerts a pressure of 450 newtons per square metre. Which of the following is an equivalent way of expressing this pressure?",
+      "options": [
+        "450 Pa",
+        "450 N/cm",
+        "4.5 kPa/m",
+        "450 kg/m²"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Two boats have the same mass, but Boat A has a wide, flat-bottomed hull with a large surface area, while Boat B has a very narrow, pointed hull. Why is Boat A able to carry a heavier load before sinking?",
+      "options": [
+        "The bigger surface area of Boat A's hull allows for a bigger maximum upthrust.",
+        "Boat A's wide hull reduces the gravitational pull acting on its cargo.",
+        "The narrow hull of Boat B increases the density of the water around it.",
+        "Boat A experiences less air resistance while floating."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "A submarine dives from 10 metres below the surface of the ocean to 100 metres below. Why does the water pressure acting on the submarine increase significantly during this dive?",
+      "options": [
+        "The water becomes much colder, which concentrates the water molecules.",
+        "There is a greater volume of water beneath the submarine pushing up.",
+        "There is more liquid above the submarine pushing down.",
+        "The submarine's mass increases as it goes deeper."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A mountaineer notices that their ears pop as they climb a high peak. Why does atmospheric pressure decrease as altitude increases?",
+      "options": [
+        "The concentration of water vapor in the clouds increases.",
+        "There is less air above them pushing down.",
+        "The Earth's gravitational field becomes zero at high altitudes.",
+        "Wind speeds are higher on mountains, which sucks the air away."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A student compares a rubber band to a steel spring. They apply equal 2 N increments of force to both. What will they observe about the extension of the rubber band compared to the spring?",
+      "options": [
+        "The rubber band will extend by the exact same number of millimetres for each 2 N added.",
+        "The rubber band's extension will increase by different amounts for each equal-sized increase in force.",
+        "The rubber band will not extend at all until a threshold force is reached.",
+        "The rubber band's extension will double with every single Newton applied."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Why does a rubber band show a different extension pattern compared to a metal spring when forces are applied?",
+      "options": [
+        "The metal spring contains tiny air pockets that compress, whereas rubber does not.",
+        "The extension pattern of rubber is explained by the behaviour of molecular chains in the rubber.",
+        "Rubber is a liquid trapped in a solid state, so it flows when stretched.",
+        "Springs are made of molecules that constantly break and reform their bonds."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "A heavy metal sphere is placed in the middle of a flexible wooden beam supported at both ends. What happens to the beam as the mass of the sphere is increased?",
+      "options": [
+        "The beam becomes stiffer and straighter to resist the weight.",
+        "The beam bends more as the mass on it increases.",
+        "The beam's particles expand, making the beam longer.",
+        "The beam bends less because the force is distributed over a wider area."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "When a heavy safe is placed on a solid concrete floor, the floor does not break, but instead exerts an upward supporting force. How is this upward force generated?",
+      "options": [
+        "The air underneath the floor is compressed and pushes upward.",
+        "The floor's particles are squashed together, and the more they squash, the greater the force they push back with.",
+        "The floor temporarily loses its mass to match the downward force of the safe.",
+        "The concrete particles expand and heat up, creating a thermal upward draft."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "A mechanic uses a wrench to tighten a bolt. They apply a perpendicular force of 50 N at a distance of 0.2 metres from the pivot (the bolt). What is the moment of the force?",
+      "options": [
+        "10 Nm",
+        "250 Nm",
+        "50.2 Nm",
+        "5 Nm"
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 37
