@@ -1,6 +1,6 @@
 {
   "unitKey": "6Hidden forcesPhysics",
-  "generatedAt": "2026-10-03T13:33:33.518539+00:00",
+  "generatedAt": "2026-10-04T14:11:14.538555+00:00",
   "questions": [
     {
       "question": "An iceberg is floating in the ocean with 90% of its volume submerged beneath the water's surface, and only 10% visible above. Based on physical principles, which of the following statements is correct about its state of floating?",
@@ -1101,6 +1101,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 37
+    },
+    {
+      "question": "A wooden block is placed in water, and exactly 5% of its volume remains above the water's surface. Which of the following is the correct scientific description of its state?",
+      "options": [
+        "Only 95% of the object is floating, while 5% is suspended.",
+        "The whole of the object is floating on the water.",
+        "The object is sinking because most of its volume is below the surface.",
+        "The object is in a state of neutral buoyancy but is not floating."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A plastic toy boat floats in a shallow puddle that is only 2 cm deep. If the same toy boat is moved to a deep swimming pool, how will its floating height relative to the water surface change?",
+      "options": [
+        "It will float much higher because there is more upward water pressure at the bottom of the pool.",
+        "It will float at the exact same level because floating does not depend on the depth of the liquid.",
+        "It will sink deeper because the mass of water beneath it pulls it down.",
+        "It will sink completely because shallow water provides more surface tension than deep water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A solid steel block of mass 1 kg immediately sinks when placed in water, but the same 1 kg of steel shaped into a wide hollow bowl floats. Why does changing the shape of the steel allow it to float?",
+      "options": [
+        "The bowl shape reduces the overall mass of the steel block.",
+        "The bowl shape can push its own mass of water out of the way without going under.",
+        "The bowl shape increases the atmospheric pressure pushing down on the water.",
+        "The bowl shape increases the gravitational pull acting on the steel."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "An astronaut on Earth needs to lift a crate containing 12 kg of rock samples vertically upwards at a steady speed. Approximately how much force is required to lift this mass?",
+      "options": [
+        "1.2 N",
+        "12 N",
+        "120 N",
+        "1200 N"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A heavy stone slab with a mass of 45 kg rests flat on the ground. On Earth, with approximately what downward force does this slab push against the ground?",
+      "options": [
+        "4.5 N",
+        "45 N",
+        "450 N",
+        "4500 N"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A spring extends by exactly 1.5 cm when a force of 3 N is suspended from it. If the force is increased by an additional, equal increment of 3 N (making the total force 6 N), what will the total extension of the spring be?",
+      "options": [
+        "1.5 cm",
+        "3.0 cm",
+        "4.5 cm",
+        "6.0 cm"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "In a physics experiment, a student measures how the extension of a metal spring changes as force is added. What does it mean if the extension is 'directly proportional' to the force applied?",
+      "options": [
+        "The extension decreases by a set fraction every time the force is doubled.",
+        "The extension increases by the same amount for each equal sized increase in force.",
+        "The extension remains completely constant regardless of how much force is applied.",
+        "The extension increases exponentially as more force is applied."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A mechanic uses a long metal pry bar to lift a heavy engine block slightly off its mounts. Which statement correctly explains the mechanical advantage provided by this lever?",
+      "options": [
+        "The lever reduces the total work done by destroying some of the gravitational force.",
+        "The lever multiplies a small applied force into a larger force on the engine block.",
+        "The lever multiplies a small movement at the handle into a much larger movement at the engine block.",
+        "The lever decreases the distance the force has to travel, making the force act faster."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A person uses a long pair of scissor-like barbecue tongs to pick up a hot coal. What is the primary mechanical advantage of using this type of lever?",
+      "options": [
+        "It multiplies a small force at the handle into a much larger force at the tips.",
+        "It multiplies a small movement at the handle into a larger movement at the tips.",
+        "It reduces the friction between the tongs and the coal.",
+        "It eliminates the gravitational pull acting on the coal."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A heavy statue exerts a downward force of 600 N on a pedestal. If the base of the statue in contact with the pedestal has an area of 0.5 square metres, what is the pressure exerted on the pedestal?",
+      "options": [
+        "300 N/m²",
+        "1200 N/m²",
+        "600 N/m²",
+        "120 N/m²"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Two boats, X and Y, have the exact same mass. Boat X is designed with a very wide, flat hull, while Boat Y has a narrow, V-shaped hull. Why does Boat X have a greater capacity to carry extra heavy cargo without sinking?",
+      "options": [
+        "The wider hull of Boat X reduces the downward pull of gravity on the cargo.",
+        "The bigger surface area of Boat X's hull allows a bigger maximum upthrust to act on it.",
+        "The flat hull of Boat X increases the density of the water beneath it.",
+        "The narrow hull of Boat Y experiences greater atmospheric pressure pushing it down."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "An underwater probe descends from a depth of 10 metres to 100 metres below the surface of a lake. Why does the pressure acting on the probe increase as it goes deeper?",
+      "options": [
+        "The water becomes significantly colder, which compresses the probe's metal hull.",
+        "There is a greater weight of water pushing down from above at greater depths.",
+        "The gravitational constant increases as the probe gets closer to the Earth's center.",
+        "The density of the probe increases as it descends, attracting more water molecules."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why does a weather balloon expand as it climbs higher into the Earth's atmosphere?",
+      "options": [
+        "The atmospheric pressure increases with height, pulling the balloon's skin outwards.",
+        "The atmospheric pressure reduces with height because there is less air pushing down from above.",
+        "The temperature of the atmosphere increases significantly at higher altitudes.",
+        "The gravitational pull on the gas inside the balloon decreases, causing it to swell."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A student suspends a series of 1 N weights from a rubber band and measures its total extension. How will the extension behaviour of this rubber band compare to a typical steel spring?",
+      "options": [
+        "The rubber band's extension will increase by the exact same amount for each 1 N weight added.",
+        "The rubber band's extension will increase different amounts for each equal sized increase in force.",
+        "The rubber band will not extend at all until a threshold force of 10 N is reached.",
+        "The rubber band will extend infinitely without ever reaching a limit."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A heavy metal crate is placed in the center of a horizontal wooden beam, causing it to sag slightly. If a second, identical metal crate is stacked on top of the first one, what will happen to the beam?",
+      "options": [
+        "The beam will straighten out because the extra mass balances the forces.",
+        "The bigger mass on the beam will cause the beam to bend more.",
+        "The beam will experience less stress because the particles are compressed downwards.",
+        "The beam's bending will remain exactly the same because wood is elastically rigid."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "When a person walks across a wooden footbridge, the bridge bends slightly downward. What is the origin of the upward supporting force that keeps the person from falling?",
+      "options": [
+        "The air trapped beneath the bridge is compressed and pushes upwards.",
+        "The more the beam of the bridge bends, the greater the force it pushes back with.",
+        "The gravitational force of the Earth is temporarily shielded by the wooden planks.",
+        "The bridge acts as a lever that multiplies the movement of the person's feet."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "When a heavy piano is placed on a solid concrete floor, why does the floor not break, and how does it support the piano?",
+      "options": [
+        "The concrete particles expand and create a vacuum beneath the piano legs.",
+        "The bigger the mass on the floor, the more particles in the floor are squashed together.",
+        "The piano's mass is distributed evenly into the air via atmospheric currents.",
+        "The concrete floor acts as a liquid, allowing the piano to float on its surface."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "A heavy safe is resting on a tiled floor. How does the squashing of the microscopic particles in the floor relate to the upward force supporting the safe?",
+      "options": [
+        "The more particles in a floor are squashed together, the greater the force they push back with.",
+        "The squashed particles create a magnetic field that repels the safe's metal base.",
+        "The squashing of the particles reduces their individual mass, allowing them to rise.",
+        "The squashed particles absorb the gravity acting on the safe, neutralizing its weight."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "A technician is trying to loosen a stubborn bolt. They apply a perpendicular force of 40 N to the end of a spanner that is 0.25 metres long. What is the turning moment generated?",
+      "options": [
+        "10 Nm",
+        "160 Nm",
+        "40.25 Nm",
+        "8 Nm"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "While a steel spring extends proportionally to the force applied, a rubber band shows a non-linear extension pattern. What is the scientific explanation for this difference in the rubber band's behaviour?",
+      "options": [
+        "The rubber band contains pockets of trapped air that compress under tension.",
+        "The extension pattern is explained by the behaviour of molecular chains in the rubber.",
+        "The rubber band undergoes nuclear decay when stretched, changing its mass.",
+        "The rubber band is a liquid-state material that flows rather than stretching."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
     }
   ]
 }
