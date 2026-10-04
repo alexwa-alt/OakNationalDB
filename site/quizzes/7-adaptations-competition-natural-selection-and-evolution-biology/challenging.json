@@ -1,6 +1,6 @@
 {
   "unitKey": "7Adaptations, competition, natural selection and evolutionBiology",
-  "generatedAt": "2026-08-26T09:08:21.280986+00:00",
+  "generatedAt": "2026-10-04T14:11:41.574222+00:00",
   "questions": [
     {
       "question": "In a classroom activity, students pick up green and white cocktail sticks scattered across a lawn of green grass in 30 seconds. Which of the following best explains what this model demonstrates?",
@@ -881,6 +881,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 35
+    },
+    {
+      "question": "In a simulation of natural selection, students scatter 50 green and 50 white cocktail sticks on a green lawn and have 15 seconds to pick up as many as possible. Why is this a useful model of natural selection?",
+      "options": [
+        "It models how predators are more likely to see and capture prey that do not blend in with their background.",
+        "It models how prey actively change their color to match the environment when threatened.",
+        "It represents how individuals learn to hide better after surviving a predator attack.",
+        "It shows that white cocktail sticks have a genetic mutation that makes them weaker than green ones."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Based on the cocktail stick model (green and white sticks on green grass), if birds (represented by students) continuously hunt the sticks over several generations, what prediction can be made about the population of remaining sticks?",
+      "options": [
+        "The proportion of white sticks will increase because they are easier to find.",
+        "The proportion of green sticks will increase because they are harder for predators to spot.",
+        "Both populations will remain equal because the total number of sticks remains constant.",
+        "The green sticks will eventually turn white to adapt to the hunting pressure."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Imagine the green lawn in the cocktail stick simulation becomes covered in thick white frost. How would this environmental change affect the prediction of which sticks are most likely to survive?",
+      "options": [
+        "Green sticks will now have a survival advantage because they stand out more.",
+        "White sticks will now have a survival advantage because they are camouflaged against the frost.",
+        "The survival rates of both sticks will remain exactly the same as on green grass.",
+        "Neither color will survive because frost destroys all cocktail sticks."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Sunflowers growing in a crowded field have stems that bend towards the direction of the sun. How does this specific adaptation provide an advantage to the sunflower?",
+      "options": [
+        "It allows the sunflower to absorb more water through its leaves.",
+        "It helps the sunflower maximize light absorption for photosynthesis in a competitive environment.",
+        "It makes the plant more stable so it cannot be knocked over by high winds.",
+        "It prevents herbivores from reaching the seeds at the top of the stem."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "In a small woodland, the population of nesting owls increases significantly in one year. Why does this lead to intense competition among the owls?",
+      "options": [
+        "The owls will change their diet to avoid competing with each other.",
+        "The woodland has unlimited nesting sites, so the owls must compete for fun.",
+        "Essential resources like prey and nesting hollows are limited, so not all owls can survive.",
+        "Owls prefer to share resources equally, which requires constant communication."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "In a population of beetles, some individuals have longer legs than others. During a drought, beetles must walk further to find damp shelter. How does this variation affect competition?",
+      "options": [
+        "Long-legged beetles compete less because they can run away from other beetles.",
+        "All beetles will develop long legs during their lifetime to survive the drought.",
+        "Long-legged beetles are better adapted to travel the extra distance, giving them a competitive advantage.",
+        "Short-legged beetles will stop competing and choose to hibernate until the drought ends."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How does natural selection lead to a species of moth becoming darker over many generations in a polluted forest?",
+      "options": [
+        "Each individual moth darkens its wings during its lifetime to blend in with the soot.",
+        "Dark moths survive and reproduce more successfully, passing on the trait so it becomes more common over time.",
+        "The soot in the air directly mutates the eggs of light-colored moths into dark-colored moths.",
+        "Light-colored moths decide to migrate, leaving only the dark moths behind."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "In science, which of the following best describes what the theory of evolution is?",
+      "options": [
+        "An educated guess that scientists have not yet tested with experiments.",
+        "A single observation about how one individual animal changed over its lifetime.",
+        "A comprehensive, evidence-based explanation that accounts for a wide range of observations about living things.",
+        "A set of absolute laws that cannot be changed or updated even if new evidence is found."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which statement best describes how a new advantageous trait, such as thick fur in a cooling climate, first arises in a population?",
+      "options": [
+        "The animals consciously decide to grow thicker fur to protect themselves from the cold.",
+        "The cold weather directly triggers the animals' bodies to produce new genes for thick fur.",
+        "A random genetic mutation happens to produce thicker fur, which is then selected for because it helps survival.",
+        "The species plans ahead for the winter by producing offspring with thicker fur in advance."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A gym enthusiast lifts heavy weights daily and develops very large muscles. Why is this change in muscle size not considered evolutionary change?",
+      "options": [
+        "Muscle growth is a genetic trait that is only active during exercise.",
+        "It is an environmental or lifestyle change in an individual's lifetime and cannot be passed on to offspring.",
+        "The muscles will shrink as soon as the person stops exercising, so it does not count.",
+        "Evolutionary changes only happen to internal organs, not skeletal muscles."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which of the following is the most accurate description of what a fossil is?",
+      "options": [
+        "The actual undecomposed skin and flesh of an animal preserved in dried mud.",
+        "The mineralised remains or preserved traces, like footprints, of an organism that lived long ago.",
+        "A clay replica of a skeleton made by modern scientists to represent ancient animals.",
+        "A type of rock that naturally forms into the shape of bones without any living organism involved."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why must scientists be cautious when drawing conclusions about the history of life based only on the fossil record?",
+      "options": [
+        "Fossils only form from organisms that lived in the water, never on land.",
+        "The fossil record is incomplete because many soft-bodied organisms did not fossilise or their fossils were destroyed.",
+        "Fossils cannot show any physical differences between different species of organisms.",
+        "Modern scientific instruments are unable to determine the age of any fossil."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A dog loses one of its ears in an accident. If this dog later mates with another dog, what is the most likely physical trait of their puppies regarding their ears?",
+      "options": [
+        "All puppies will be born with only one ear because the parent lost an ear.",
+        "Half of the puppies will have one ear, and half will have two ears.",
+        "The puppies will be born with two ears because the parent's injury is environmental and not heritable.",
+        "The puppies will be born with no ears as a protective adaptation."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A species of rabbit has genetic variation that causes some individuals to have naturally longer claws, which helps them dig burrows. Why can this trait be passed on to their offspring?",
+      "options": [
+        "The rabbits teach their offspring how to grow their claws longer through practice.",
+        "Long claws are a result of digging in hard soil, which changes the parent's DNA.",
+        "The instructions for long claws are stored in the parents' genetic information, which is inherited by offspring.",
+        "Any physical feature that is useful is automatically copied into the offspring by the environment."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "In a forest, some deer have slightly better hearing than others due to genetic variation. In terms of natural selection, what is the direct consequence of this difference?",
+      "options": [
+        "The deer with better hearing are less likely to detect predators and will migrate.",
+        "The deer with better hearing are more likely to escape predators, survive, and reproduce.",
+        "The deer with poor hearing will quickly learn to improve their hearing to match the others.",
+        "Predators will refuse to hunt deer with better hearing, so they will live forever."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Over many generations, a population of desert plants becomes highly resistant to drought. Which of the following best explains how this happened?",
+      "options": [
+        "Individual plants passed on their learned survival habits to the next generation.",
+        "Non-resistant plants died, while resistant plants survived and passed on their genetic resistance, making it more common.",
+        "The hot sun directly converted the genes of every single living plant to make them resistant.",
+        "The plants decided to stop using water so that their offspring wouldn't need it."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Humans have built large cities, causing forest areas to become fragmented. How can this human activity affect natural selection in local wildlife populations?",
+      "options": [
+        "It stops natural selection entirely because animals no longer need to adapt.",
+        "It alters the environmental conditions, changing which traits provide a survival advantage.",
+        "It forces all animals to immediately mutate into new species to survive in buildings.",
+        "It guarantees that only the largest animals will survive in the remaining forest."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "According to scientific evidence, how does the age of the Earth compare to when the first living organisms appeared?",
+      "options": [
+        "Earth formed about 4.5 billion years ago, and the first micro-organisms appeared about 3.8 billion years ago.",
+        "Earth formed about 3.8 billion years ago, and the first micro-organisms appeared about 4.5 billion years ago.",
+        "Earth formed about 4.5 million years ago, and the first micro-organisms appeared about 350 thousand years ago.",
+        "Earth and the first micro-organisms both appeared at exactly the same time, 3.5 billion years ago."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Based on scientific evidence of Earth's history, which of the following options lists the evolutionary appearance of these organisms in the correct chronological order (from oldest to most recent)?",
+      "options": [
+        "Mammals, modern humans, land plants",
+        "Land plants, mammals, modern humans",
+        "Modern humans, land plants, mammals",
+        "Land plants, modern humans, mammals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "To make the immense timeline of Earth's 4.5-billion-year history easier to study and understand, how do scientists divide it?",
+      "options": [
+        "Into equal blocks of exactly 100 million years each.",
+        "Into eons, periods, and epochs based on major geological and evolutionary events.",
+        "Into months and years just like a standard calendar.",
+        "Into two simple halves: the fossil age and the modern age."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
     }
   ]
 }

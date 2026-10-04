@@ -1,0 +1,226 @@
+{
+  "unitKey": "8Carbon cycle and climate changeChemistry",
+  "generatedAt": "2026-10-04T14:11:58.889962+00:00",
+  "questions": [
+    {
+      "question": "What is the chemical composition of a single molecule of carbon dioxide?",
+      "options": [
+        "One carbon atom and one oxygen atom",
+        "Two carbon atoms and one oxygen atom",
+        "One carbon atom and two oxygen atoms",
+        "Two carbon atoms and two oxygen atoms"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Approximately what percentage of Earth's atmosphere is made up of carbon dioxide?",
+      "options": [
+        "0.04%",
+        "0.4%",
+        "4.0%",
+        "21%"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following gases in the atmosphere is classified as a greenhouse gas?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Argon"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the term used to describe the increase in average global temperature caused by too many greenhouse gases in the atmosphere?",
+      "options": [
+        "Acid rain",
+        "Global warming",
+        "Ozone depletion",
+        "The nitrogen cycle"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why is coal able to burn as a fuel?",
+      "options": [
+        "It is a sedimentary rock made mostly of pure sulfur.",
+        "It is a metamorphic rock made of compressed oil.",
+        "It is a sedimentary rock made mostly of carbon, with some impurities.",
+        "It is an igneous rock formed from lava containing methane."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What is the main source of the organic matter that eventually formed into coal?",
+      "options": [
+        "Prehistoric plants",
+        "Dead marine plankton",
+        "Dinosaur bones",
+        "Volcanic ash"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which organisms mixed with sediments millions of years ago to form oil and natural gas?",
+      "options": [
+        "Land-based giant ferns",
+        "Dead plankton",
+        "Ancient reptiles",
+        "Decaying tree roots"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Where are oil and natural gas typically found underground?",
+      "options": [
+        "Inside massive open caves",
+        "In the pores of sedimentary rock",
+        "Frozen within layers of polar ice",
+        "Inside solid igneous basalt"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How does loose sediment eventually turn into solid sedimentary rock?",
+      "options": [
+        "It is melted by magma and then cooled slowly.",
+        "It is buried and compressed, and salts from fluids cement the grains together.",
+        "It is dissolved completely by acidic rain and reforms as crystals.",
+        "It is frozen under high pressure in deep glaciers."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In which type of rock are fossils exclusively found?",
+      "options": [
+        "Igneous rock",
+        "Metamorphic rock",
+        "Sedimentary rock",
+        "Volcanic rock"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How do buried bones slowly turn into rock-like fossils over millions of years?",
+      "options": [
+        "They are melted by intense heat and cooled into crystals.",
+        "They are slowly dissolved by water and replaced by minerals in the water.",
+        "They are dried out completely until they turn into pure carbon.",
+        "They absorb nitrogen gas from the atmosphere and harden."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which two gases make up the vast majority of Earth's atmosphere?",
+      "options": [
+        "Carbon dioxide and oxygen",
+        "Nitrogen and oxygen",
+        "Nitrogen and carbon dioxide",
+        "Hydrogen and helium"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is a key benefit of greenhouse gases in Earth's atmosphere?",
+      "options": [
+        "They block all ultraviolet radiation from reaching the surface.",
+        "They keep Earth's temperature warm enough for human life.",
+        "They prevent volcanic eruptions from occurring.",
+        "They increase the amount of oxygen available for breathing."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What is the chemical test used to confirm the presence of carbon dioxide gas?",
+      "options": [
+        "It relights a glowing splint.",
+        "It burns with a squeaky pop when lit.",
+        "It turns damp blue litmus paper red.",
+        "It forms a white precipitate that turns limewater milky."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which statement best describes the geological process of weathering?",
+      "options": [
+        "The movement of rock pieces from one location to another by wind.",
+        "The slow breakdown of rocks on Earth's surface while they are 'in place'.",
+        "The sudden melting of rock due to volcanic activity.",
+        "The compression of sediment layers under deep water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What is the geological process called that removes and transports material from where bedrock has been broken down?",
+      "options": [
+        "Deposition",
+        "Compaction",
+        "Erosion",
+        "Cementation"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What effect does the combustion of carbon-containing fuels have on the atmosphere?",
+      "options": [
+        "It decreases the amount of carbon dioxide.",
+        "It increases the amount of carbon dioxide.",
+        "It has no effect on carbon dioxide levels.",
+        "It completely removes oxygen and replaces it with nitrogen."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "How does the respiration of living organisms affect the carbon cycle?",
+      "options": [
+        "It decreases the amount of carbon dioxide in the atmosphere.",
+        "It increases the amount of carbon dioxide in the atmosphere.",
+        "It converts carbon dioxide directly into oxygen gas.",
+        "It has no impact on atmospheric gases."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Which process carried out by plants, phytoplankton, and some bacteria reduces the amount of carbon dioxide in the atmosphere?",
+      "options": [
+        "Respiration",
+        "Combustion",
+        "Photosynthesis",
+        "Decomposition"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Besides being absorbed by photosynthetic organisms, how is carbon dioxide naturally removed from the atmosphere?",
+      "options": [
+        "It dissolves in the oceans.",
+        "It freezes into solid dry ice in the lower atmosphere.",
+        "It escapes directly into outer space.",
+        "It reacts with nitrogen to form ammonium salts."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    }
+  ]
+}

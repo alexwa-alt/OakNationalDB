@@ -1,6 +1,6 @@
 {
   "unitKey": "5MaterialsChemistry",
-  "generatedAt": "2026-10-03T13:33:06.177781+00:00",
+  "generatedAt": "2026-10-04T14:10:44.651774+00:00",
   "questions": [
     {
       "question": "A student measures the mass of a black powder before adding it to hydrogen peroxide. After the reaction, she filters, dries, and weighs the powder again. If the powder acted as a catalyst, what will she observe?",
@@ -1320,6 +1320,226 @@
         "Sodium hydride and oxygen gas"
       ],
       "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A student adds a small amount of manganese dioxide powder to a hydrogen peroxide solution. After the reaction finishes and stops bubbling, they filter out the manganese dioxide, dry it, and weigh it. What will they observe regarding its mass and chemical properties?",
+      "options": [
+        "Its mass is reduced because some of it was consumed during the reaction.",
+        "Its mass has increased because it combined with oxygen from the hydrogen peroxide.",
+        "Its mass is unchanged, and its chemical identity is identical to the start.",
+        "Its mass is unchanged, but its chemical formula has permanently changed."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Iron is used to speed up the Haber process for making ammonia. However, when trying to speed up the decomposition of hydrogen peroxide, iron has very little effect compared to manganese dioxide. What does this demonstrate about catalysts?",
+      "options": [
+        "Catalysts only work in gaseous reactions and not in liquid solutions.",
+        "Catalysts are specific to particular chemical reactions.",
+        "Catalysts are consumed in some reactions but not in others.",
+        "Manganese dioxide is always a better catalyst than iron for all reactions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Amylase is an enzyme in human saliva that breaks down starch into sugar at body temperature. When heated to 80°C, saliva no longer breaks down starch. Why does this happen?",
+      "options": [
+        "Enzymes are biological catalysts that can stop working if they are chemically changed by high heat.",
+        "Starch becomes too reactive at high temperatures for any catalyst to work.",
+        "Biological catalysts only work outside of living cells.",
+        "The heat converts amylase into a non-biological metal catalyst."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A student places a strip of metal X into a blue solution of metal Y sulfate. After a few minutes, the solution turns colorless and a red-brown solid coats the strip. What can be concluded about the two metals?",
+      "options": [
+        "Metal Y is more reactive than metal X, allowing it to displace metal X.",
+        "Metal X is more reactive than metal Y, allowing it to displace metal Y from its salt solution.",
+        "Metal X has dissolved to form a more reactive salt than metal Y sulfate.",
+        "Both metals have identical positions in the reactivity series."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When a strip of magnesium is added to a test tube containing blue copper sulfate solution, the mixture gets warm, the blue color fades, and a brown solid forms. What are the products of this reaction?",
+      "options": [
+        "Magnesium sulfate solution and copper metal",
+        "Copper oxide solution and magnesium metal",
+        "Magnesium copper alloy and sulfur dioxide gas",
+        "Copper sulfate crystals and magnesium oxide"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "You are given three metals: Zinc, Copper, and Silver. To confirm their order of reactivity, you place each metal into separate test tubes containing zinc sulfate, copper sulfate, and silver nitrate solutions. How many of the nine combinations will result in a displacement reaction?",
+      "options": [
+        "2 combinations",
+        "3 combinations",
+        "4 combinations",
+        "6 combinations"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "An industrial mining company extracts iron from hematite, a type of rock. Why is hematite classified as an iron ore?",
+      "options": [
+        "It contains pure, metallic iron that can be easily melted out of the rock.",
+        "It is a rock that contains iron in a chemical form from which iron can be economically extracted.",
+        "It is a synthetic composite material made by combining iron and sulfur.",
+        "It is a mixture of non-metals that reacts to produce iron when heated with water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Iron can be extracted from iron oxide by heating it with carbon, but magnesium cannot be extracted from magnesium oxide using carbon. What is the reason for this difference?",
+      "options": [
+        "Iron is more reactive than carbon, but magnesium is less reactive than carbon.",
+        "Carbon is more reactive than iron, but less reactive than magnesium.",
+        "Iron oxide is a molecular compound, whereas magnesium oxide is a mixture.",
+        "Carbon only reacts with transition metals and never with group 2 metals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "An engineer needs a material to manufacture lightweight overhead electrical power cables. The material must easily conduct electricity, be drawn into long wires without breaking, and support its own weight. Which set of properties of metals makes them suitable for this?",
+      "options": [
+        "Brittle, shiny, and high density",
+        "Ductile, strong, and electrical conductor",
+        "Malleable, thermal insulator, and low melting point",
+        "Hard, dull, and poor electrical conductor"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Clay is a soft, moldable substance when wet. After being shaped into a pot and fired in a high-temperature kiln, it becomes a ceramic. How do the physical properties of the clay change during this process?",
+      "options": [
+        "It remains soft but becomes highly flexible and elastic.",
+        "It becomes hard and brittle.",
+        "It turns into a shiny, malleable metal.",
+        "It becomes a soft, meltable plastic."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Polystyrene is used for lightweight packaging, while nylon is used for strong, flexible ropes. Both are plastics. What explains why these two materials have such different properties?",
+      "options": [
+        "Plastics are made of polymers, and there are many types of plastics with very different chemical structures and properties.",
+        "Polystyrene contains metallic elements, whereas nylon contains only non-metallic elements.",
+        "One is a pure element and the other is a mixture of metals.",
+        "Polystyrene is a natural polymer, while nylon is a ceramic."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Solder is made by mixing lead and tin. It has a lower melting point than either pure lead or pure tin, making it useful for joining electronic components. Solder is an example of which type of material?",
+      "options": [
+        "A composite",
+        "A polymer",
+        "An alloy",
+        "A ceramic"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Reinforced concrete is made by pouring concrete around a steel mesh. The concrete resists crushing (compression), while the steel resists stretching (tension). This combination results in a material with superior properties to either alone. What is reinforced concrete?",
+      "options": [
+        "An alloy",
+        "A ceramic",
+        "A monomer",
+        "A composite"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Poly(ethene) is a synthetic material made from thousands of ethene molecules. Which statement correctly describes how poly(ethene) is formed?",
+      "options": [
+        "Ethene monomers join together to form very long chains of atoms called polymers.",
+        "Large polymer chains are broken down into smaller ethene molecules.",
+        "Ethene atoms are rearranged to form a metallic lattice.",
+        "Ceramic particles are mixed with ethene liquid to form a composite."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Some polymers, like PTFE (Teflon), require extremely high temperatures to melt compared to other polymers like LDPE. Why do some polymers have high melting points?",
+      "options": [
+        "They contain metal ions that form strong metallic bonds throughout the structure.",
+        "Their polymer molecules are very hard to separate from each other.",
+        "They are made of tiny, weak monomers that easily break down into gases.",
+        "They do not contain any covalent bonds in their main chains."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following correctly groups materials into synthetic polymers and natural polymers?",
+      "options": [
+        "Synthetic: Nylon, Poly(ethene); Natural: Starch, Cellulose",
+        "Synthetic: Wool, Cotton; Natural: Polyester, Polystyrene",
+        "Synthetic: Ceramic, Bronze; Natural: Rubber, Silk",
+        "Synthetic: Iron, PVC; Natural: Clay, Wood"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "PVC can be made into rigid pipes or, by adding a certain chemical, into flexible medical tubing. What is this added chemical, and how does it work?",
+      "options": [
+        "A cross-linker that binds the polymer chains tightly together.",
+        "A monomer that shortens the length of the polymer chains.",
+        "A plasticiser that gets between polymer molecules and allows them to move over each other more easily.",
+        "A catalyst that speeds up the decomposition of the polymer chains."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Vulcanized rubber, which has sulfur cross-links between its polymer chains, is used to make car tires because it does not melt or deform easily under heat and pressure. How do cross-links affect the properties of a polymer?",
+      "options": [
+        "They make the polymer softer and more flexible by allowing chains to slide.",
+        "They make the polymer harder and less flexible.",
+        "They break the long chains down into small, volatile monomers.",
+        "They turn the polymer into a highly conductive metallic material."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A student adds a piece of magnesium ribbon to a test tube of dilute hydrochloric acid. They observe rapid bubbling. What are the products of this reaction?",
+      "options": [
+        "Magnesium chloride and hydrogen gas",
+        "Magnesium oxide and chlorine gas",
+        "Magnesium hydroxide and hydrogen gas",
+        "Magnesium hydride and oxygen gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "When a small piece of sodium is dropped into water, it melts into a sphere, fizzes vigorously, and moves across the surface. If universal indicator is added to the water afterward, it turns purple (alkaline). What products are formed in this reaction?",
+      "options": [
+        "Sodium oxide and oxygen gas",
+        "Sodium hydride and oxygen gas",
+        "Sodium hydroxide and hydrogen gas",
+        "Sodium chloride and hydrogen gas"
+      ],
+      "correctAnswerIndex": 2,
       "learningPointIndex": 19
     }
   ]
