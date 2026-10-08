@@ -1,6 +1,6 @@
 {
   "unitKey": "9WavesPhysics",
-  "generatedAt": "2026-08-28T20:16:13.144691+00:00",
+  "generatedAt": "2026-10-08T15:44:31.154773+00:00",
   "questions": [
     {
       "question": "When a sound wave reaches the human ear, which sequence of structures is set into vibration first, second, and third?",
@@ -660,6 +660,226 @@
         "The waves add up to create a larger wave peak due to wave superposition."
       ],
       "correctAnswerIndex": 3,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "When a sound wave enters the human ear, which of the following describes the correct sequence of structures that are set into vibration first, second, and third?",
+      "options": [
+        "Eardrum -> cochlea -> tiny bones",
+        "Eardrum -> tiny bones -> cochlea",
+        "Cochlea -> eardrum -> tiny bones",
+        "Tiny bones -> eardrum -> cochlea"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the specific role of the specialised cells located inside the cochlea during the process of hearing?",
+      "options": [
+        "They amplify the mechanical vibrations of the tiny ear bones before they reach the auditory nerve.",
+        "They convert physical vibrations into electrical signals that can travel along a nerve to the brain.",
+        "They vibrate back and forth to directly push air molecules into the brain's hearing center.",
+        "They act as a physical barrier to prevent loud sounds from damaging the delicate auditory nerve."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "At what precise stage in the hearing process does a person actually experience the conscious sensation of hearing a sound?",
+      "options": [
+        "When the incoming sound wave first strikes and vibrates the flexible eardrum.",
+        "When the fluid inside the cochlea begins to ripple and bend the specialised hair cells.",
+        "When the auditory nerve transmits electrical impulses that are received and processed by the brain.",
+        "When the tiny bones in the middle ear amplify the mechanical vibrations of the eardrum."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A sound engineer is testing four different audio frequencies. Based on human hearing capabilities, which of these frequencies would a healthy human ear be most sensitive to?",
+      "options": [
+        "15 Hz",
+        "1,000 Hz",
+        "3,500 Hz",
+        "25,000 Hz"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "An acoustic sensor detects two sound waves: Wave A has a frequency of 15 Hz, and Wave B has a frequency of 25,000 Hz. How do these waves compare regarding human detection?",
+      "options": [
+        "Both Wave A and Wave B are completely undetectable by healthy human ears.",
+        "Wave A can be heard as a very deep bass, but Wave B cannot be heard at all.",
+        "Wave B can be heard as a very high-pitched squeak, but Wave A cannot be heard at all.",
+        "Both Wave A and Wave B can be easily heard by humans with excellent hearing."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A loudspeaker plays a continuous note in a draft-free room. Which statement correctly describes the movement of an individual air particle in front of the speaker?",
+      "options": [
+        "The air particle travels in a straight line from the speaker all the way to the listener's ear.",
+        "The air particle oscillates back and forth parallel to the direction the sound is travelling, remaining in its general position.",
+        "The air particle moves up and down at right angles to the direction the sound wave is travelling.",
+        "The air particle remains completely stationary while the sound energy flows around it."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why is a sound wave classified as a longitudinal wave rather than a transverse wave?",
+      "options": [
+        "Because the particles of the medium vibrate parallel to the direction in which the wave energy is transferred.",
+        "Because the particles of the medium vibrate at right angles to the direction of energy transfer.",
+        "Because it can travel through a vacuum where no particles are present to vibrate.",
+        "Because the speed of the wave increases when it passes from a gas into a solid medium."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why do sound waves travel significantly faster through water and iron than they do through air?",
+      "options": [
+        "The particles in liquids and solids are much closer together, allowing vibrations to be passed on more easily.",
+        "The particles in liquids and solids have more thermal energy, which pushes the wave along faster.",
+        "Liquids and solids do not absorb any wave energy, preventing the sound from slowing down.",
+        "The particles in liquids and solids are larger, which physically blocks the wave from spreading out sideways."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "If you compare the speed of sound in a solid metal rod to its speed in liquid water, what difference would you expect and why?",
+      "options": [
+        "Sound is faster in the liquid because the particles can flow and carry the wave energy with them.",
+        "Sound is faster in the solid because the strong forces between its closely packed particles allow vibrations to travel faster.",
+        "Sound travels at the same speed in both because solids and liquids have similar particle densities.",
+        "Sound is slower in the solid because the rigid structure acts as a barrier that resists the passing of vibrations."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A sound wave is generated in a container. It travels through air, then through oil, and finally through a steel plate. What happens to the speed of the sound wave as it transitions through these three states?",
+      "options": [
+        "It slows down as it goes from air to oil, and slows down even further in the steel plate.",
+        "It travels at a constant speed of 340 m/s through all three substances.",
+        "It speeds up as it goes from air to oil, and speeds up even further in the steel plate.",
+        "It speeds up when moving from air to oil, but slows down drastically when entering the steel plate."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A student stands in front of a flat, hard stone wall and claps their hands, hearing a distinct echo a moment later. What wave phenomenon is responsible for this echo?",
+      "options": [
+        "The sound wave is absorbed by the hard wall and then re-emitted at a lower frequency.",
+        "The sound wave bends around the edges of the wall and returns from behind it.",
+        "The sound wave reflects off the hard surface of the wall and travels back to the student's ears.",
+        "The sound wave passes through the wall and speeds up on the other side, causing a resonance."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A researcher measures that a sound wave takes 0.5 seconds to travel a distance of 170 meters through a specific gas. What is the speed of sound in this gas?",
+      "options": [
+        "85 m/s",
+        "170 m/s",
+        "340 m/s",
+        "680 m/s"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Two groups of students are measuring the speed of sound in air using claps and stopwatches. Group A stands 50 meters from a wall, while Group B stands 300 meters from the wall. Why are Group B's results likely to be more reliable?",
+      "options": [
+        "At 300 meters, the sound wave travels faster, making it easier to measure with a standard stopwatch.",
+        "Measuring a longer distance and time means that human reaction time errors make up a smaller proportion of the total measurements.",
+        "Sound waves do not undergo reflection at short distances like 50 meters, so Group A cannot get an echo.",
+        "The speed of sound decreases over short distances, leading to highly inconsistent readings for Group A."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which of the following describes a sound wave that is classified as ultrasound?",
+      "options": [
+        "A sound wave with a frequency of 15 Hz, which is too low for human ears to detect.",
+        "A sound wave with a frequency of 25,000 Hz, which is too high for human ears to detect.",
+        "A sound wave with an extremely high volume (amplitude) that causes physical pain to the eardrum.",
+        "A sound wave that travels faster than the speed of sound in normal air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why is ultrasound safe to use for scanning unborn babies in medical imaging?",
+      "options": [
+        "It carries absolutely no energy, so it cannot interact with or affect any cells in the body.",
+        "Although it transfers energy and causes objects to vibrate, it does not cause harm to the human body.",
+        "It is a type of electromagnetic radiation that passes through the body without touching any tissues.",
+        "The human body is completely transparent to ultrasound, meaning the waves do not reflect off any internal organs."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How does an ultrasound machine construct an image of an organ inside the human body?",
+      "options": [
+        "It measures the exact amount of ultrasound energy absorbed by different bones in the body.",
+        "It detects how ultrasound waves reflect off the boundaries between different types of tissues.",
+        "It uses high-frequency vibrations to physically push tissues apart so an internal camera can take a photo.",
+        "It converts ultrasound waves into X-rays when they pass through the outer layers of skin."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following is a non-imaging application of ultrasound that relies on its physical vibrations?",
+      "options": [
+        "Measuring the depth of the ocean floor using sonar systems.",
+        "Cleaning intricate jewelry and treating soft tissue injuries in physiotherapy.",
+        "Sending high-speed digital data through underwater communication cables.",
+        "Detecting structural cracks deep inside solid steel railway tracks."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A water wave travels horizontally across the surface of a pond. In which direction do the water particles oscillate relative to the wave's horizontal movement?",
+      "options": [
+        "They oscillate vertically (up and down), which is at 90 degrees to the direction of energy transfer.",
+        "They oscillate horizontally (left and right), parallel to the direction of energy transfer.",
+        "They spin in continuous circles that move along with the front of the wave.",
+        "They remain completely stationary and do not oscillate or move at all."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "How is the amplitude of a water wave defined and measured?",
+      "options": [
+        "The total horizontal distance from one wave crest to the very next wave crest.",
+        "The maximum vertical distance a water particle moves above or below its undisturbed rest position.",
+        "The total distance the wave travels forward in one complete second.",
+        "The vertical distance measured from the very bottom of a trough to the very top of a crest."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Two water waves of equal amplitude meet each other. At the point of meeting, the crest of one wave aligns perfectly with the trough of the other. What happens, and what is this phenomenon called?",
+      "options": [
+        "They bounce off each other and reverse directions, which is called wave reflection.",
+        "They combine to form a wave with double the original height, which is called wave refraction.",
+        "They temporarily cancel each other out, which is an example of wave superposition.",
+        "They absorb each other's energy and turn into heat, which is called wave attenuation."
+      ],
+      "correctAnswerIndex": 2,
       "learningPointIndex": 23
     }
   ]

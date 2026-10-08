@@ -1,6 +1,6 @@
 {
   "unitKey": "10Disease and drugsBiology",
-  "generatedAt": "2026-08-29T13:53:30.039909+00:00",
+  "generatedAt": "2026-10-08T15:44:57.715852+00:00",
   "questions": [
     {
       "question": "A patient experiencing an asthma attack finds it much harder to move air into and out of their lungs. Which of the following physical changes in the respiratory system directly explains this sudden difficulty?",
@@ -660,6 +660,226 @@
         "Because old scientific studies are automatically deleted after ten years."
       ],
       "correctAnswerIndex": 0,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "During an asthma attack, what physical change directly leads to the symptom of wheezing?",
+      "options": [
+        "The alveoli fill with fluid, blocking gas exchange.",
+        "The bronchial tubes narrow, restricting airflow.",
+        "The diaphragm stops contracting, preventing inhalation.",
+        "The ribs fuse together, reducing chest expansion."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following combinations of factors increases a person's risk of developing asthma, even if they have no genetic predisposition?",
+      "options": [
+        "High birth weight and regular aerobic exercise.",
+        "Living in an area with high air pollution and exposure to second-hand cigarette smoke.",
+        "Eating a diet high in sugar and a lack of physical activity.",
+        "Frequent bacterial infections treated quickly with antibiotics."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A doctor is trying to determine if a patient's illness is infectious. Which of the following observations would most strongly support the hypothesis that the disease is infectious?",
+      "options": [
+        "The patient has a family history of the same condition.",
+        "The illness is caused by a microscopic virus replicating inside the patient's cells.",
+        "The symptoms worsened after the patient consumed a high-fat meal.",
+        "The patient's symptoms are relieved by regular physical exercise."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which statement correctly distinguishes a non-infectious disease like cardiovascular disease from an infectious disease like influenza?",
+      "options": [
+        "Non-infectious diseases can only be inherited, whereas infectious diseases are always caused by environmental lifestyle choices.",
+        "Non-infectious diseases cannot be transmitted from person to person through contact or air, unlike infectious diseases.",
+        "Non-infectious diseases develop instantly, while infectious diseases always take many years to show symptoms.",
+        "Non-infectious diseases are treated exclusively with vaccines, whereas infectious diseases are treated with exercise."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "An individual consumes a diet high in saturated fats and refined sugars while leading a highly sedentary lifestyle. How does this combination affect their health risk?",
+      "options": [
+        "It directly causes genetic mutations that lead to infectious diseases.",
+        "It increases their risk of developing non-infectious lifestyle diseases like type 2 diabetes and cardiovascular disease.",
+        "It decreases the efficiency of their immune system specifically against viral pathogens, with no effect on the heart.",
+        "It has no impact on health as long as the individual does not smoke or drink alcohol."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A research study tracks the health outcomes of individuals who regularly smoke cigarettes, drink heavy amounts of alcohol, and misuse prescription drugs. What is the most likely long-term outcome for this group compared to a control group?",
+      "options": [
+        "An increased risk of developing non-infectious lifestyle diseases.",
+        "An increased immunity to airborne infectious diseases.",
+        "A decreased rate of cellular respiration throughout the body.",
+        "Complete protection from genetic conditions."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "To design a public health campaign aimed at reducing the national incidence of non-infectious lifestyle diseases, which set of recommendations should be prioritized?",
+      "options": [
+        "Increase the use of daily antibiotics, avoid outdoor activities, and consume more simple carbohydrates.",
+        "Engage in regular physical exercise, maintain a balanced diet, avoid smoking, and limit or avoid alcohol consumption.",
+        "Focus entirely on genetic screening while ignoring dietary habits and physical activity levels.",
+        "Promote the recreational use of stimulants to increase daily calorie burning and metabolic rate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A scientist is classifying various recreational substances. How should they group nicotine and alcohol based on their primary effects on the central nervous system?",
+      "options": [
+        "Both are classified as depressants because they reduce physical coordination.",
+        "Both are classified as stimulants because they increase heart rate immediately.",
+        "Nicotine is classified as a stimulant, while alcohol is classified as a depressant.",
+        "Nicotine is classified as a depressant, while alcohol is classified as a stimulant."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A driver is stopped by police under the suspicion of driving under the influence of a depressant drug. What physiological effect of depressants makes driving particularly dangerous?",
+      "options": [
+        "They cause extreme alertness, leading to reckless and aggressive maneuvers.",
+        "They slow down thinking processes and significantly delay reaction times.",
+        "They cause sudden, involuntary muscle spasms in the limbs.",
+        "They increase visual acuity, causing optical illusions from headlights."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A patient presents with long-term damage to both their brain and liver. The doctor suspects substance abuse. Which legal recreational drug is most likely responsible for this specific combination of organ damage?",
+      "options": [
+        "Caffeine",
+        "Alcohol",
+        "Nicotine",
+        "Penicillin"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "After consuming a beverage containing a stimulant, a student notices they feel more alert and can complete a reaction-time test more quickly. What is the biological explanation for this?",
+      "options": [
+        "Stimulants slow down nerve impulse transmission to allow more precise movements.",
+        "Stimulants make the nervous system process information faster, resulting in quicker thinking and reaction times.",
+        "Stimulants temporarily paralyze inhibitory neurons, preventing any physical mistakes.",
+        "Stimulants increase the volume of the lungs, allowing more oxygen to reach the muscles."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A toxicology report identifies the presence of illegal stimulants in a patient's system. Which pair of substances fits this description?",
+      "options": [
+        "Caffeine and nicotine",
+        "Alcohol and cannabis",
+        "Cocaine and ecstasy",
+        "Aspirin and paracetamol"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which of the following best describes the potential consequences of substance abuse on an individual's overall well-being?",
+      "options": [
+        "It only causes temporary physical symptoms with no long-term mental health consequences.",
+        "It can lead to both severe physical health issues and serious mental health problems.",
+        "It affects mental health by causing anxiety, but has no physical effects on organs like the heart or liver.",
+        "It has no health consequences if the user only abuses legal substances."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why is it extremely difficult for long-term smokers to quit smoking, even when they are fully aware of the severe health risks to their lungs?",
+      "options": [
+        "Tobacco smoke contains carbon monoxide, which physically binds to the brain's decision-making centers.",
+        "Tobacco leaves contain nicotine, which is a highly addictive substance that alters body chemistry.",
+        "The tar in cigarettes physically coats the nervous system, preventing signals to stop.",
+        "Smoking destroys the vocal cords, making it impossible to communicate the desire to quit."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A patient who has smoked a pack of cigarettes daily for thirty years is diagnosed with a disease characterized by the breakdown of alveoli walls and chronic shortness of breath. Which group of diseases does smoking significantly increase the risk of?",
+      "options": [
+        "Asthma, COPD, lung cancer, and heart disease.",
+        "Type 1 diabetes, hemophilia, and cystic fibrosis.",
+        "Influenza, tuberculosis, and malaria.",
+        "Osteoporosis, muscular dystrophy, and arthritis."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A teenager is rushed to the hospital after inhaling vaporized chemicals from household glue in order to get high. What is the correct medical term for this dangerous behavior?",
+      "options": [
+        "Stimulant therapy",
+        "Solvent abuse",
+        "Vaping transition",
+        "Alcohol poisoning"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why is solvent abuse considered highly dangerous even from the very first time someone attempts it?",
+      "options": [
+        "It instantly turns into an infectious bacterial infection in the respiratory tract.",
+        "It carries high risks of long-term health problems and can result in sudden death.",
+        "It permanently converts the lungs' alveoli into solid muscle tissue.",
+        "It causes an immediate, irreversible drop in blood sugar to zero."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "During the process of inhalation in a healthy human, how do the muscles and pressure changes coordinate to bring air into the lungs?",
+      "options": [
+        "The diaphragm relaxes and moves up, decreasing lung volume and forcing air inside.",
+        "The diaphragm contracts and moves down, while the rib muscles pull the ribcage up and out, increasing lung volume and lowering pressure inside.",
+        "The lungs actively expand using their own muscle walls, pulling the diaphragm upward.",
+        "The ribcage contracts inward, increasing air pressure inside the chest so that outside air is sucked in."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "A person decides to switch from smoking tobacco cigarettes to using an e-cigarette (vaping), believing it is entirely harmless. Why is vaping still detrimental to their health?",
+      "options": [
+        "Vaping contains high levels of tar that clog the coronary arteries within days.",
+        "Like smoking, vaping involves consuming nicotine, which is harmful to health and highly addictive.",
+        "Vaping completely prevents oxygen from entering the bloodstream through the alveoli.",
+        "E-liquids contain carbon monoxide which instantly destroys the diaphragm muscle."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "In the past, vaping was promoted by some as a completely safe alternative to smoking, but current public health advice is more cautious. What scientific principle does this shift demonstrate?",
+      "options": [
+        "Once a scientific theory is established, it can never be questioned or changed.",
+        "Scientific ideas are constantly updated and revised as new evidence and long-term data emerge.",
+        "Public health advice is based on personal opinions rather than experimental evidence.",
+        "Older scientific studies are always completely incorrect compared to modern ones."
+      ],
+      "correctAnswerIndex": 1,
       "learningPointIndex": 38
     }
   ]
