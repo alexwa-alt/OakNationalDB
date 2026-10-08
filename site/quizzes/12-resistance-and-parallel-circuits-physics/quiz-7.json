@@ -1,0 +1,226 @@
+{
+  "unitKey": "12Resistance and parallel circuitsPhysics",
+  "generatedAt": "2026-10-08T15:45:51.956290+00:00",
+  "questions": [
+    {
+      "question": "If you connect two identical bulbs in parallel to a battery, how does their brightness compare to when they are connected in series to the same battery?",
+      "options": [
+        "The bulbs in parallel are brighter.",
+        "The bulbs in series are brighter.",
+        "The bulbs have the same brightness in both circuits.",
+        "The bulbs in parallel do not light up at all."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When comparing two identical bulbs connected to the same battery, how does the total current through the parallel circuit compare to the series circuit?",
+      "options": [
+        "The current through the parallel circuit is smaller.",
+        "The current through the parallel circuit is bigger.",
+        "The current is exactly the same in both circuits.",
+        "No current flows through the parallel circuit."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A student connects two bulbs to a battery in parallel, and another student connects two identical bulbs to an identical battery in series. Which battery will run out of energy first?",
+      "options": [
+        "The battery in the series circuit.",
+        "The battery in the parallel circuit.",
+        "Both batteries will run out at exactly the same time.",
+        "Neither battery will ever run out."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which instrument is used to measure electric current, and what is the unit of measurement?",
+      "options": [
+        "Voltmeter, measured in volts (V)",
+        "Ammeter, measured in amps (A)",
+        "Ohmmeter, measured in ohms",
+        "Wattmeter, measured in watts (W)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In physics, how is electrical resistance defined?",
+      "options": [
+        "It is a measure of how quickly energy is supplied to a component.",
+        "It is a measure of how difficult it is for an electric current to flow.",
+        "It is a measure of the storage capacity of a battery.",
+        "It is a measure of the physical length of a circuit wire."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the standard unit used to measure electrical resistance?",
+      "options": [
+        "Volts (V)",
+        "Amps (A)",
+        "Ohms (Ohm)",
+        "Watts (W)"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How does changing the length of a wire affect its electrical resistance?",
+      "options": [
+        "The longer the wire, the greater its resistance.",
+        "The longer the wire, the smaller its resistance.",
+        "Wire length has no effect on its resistance.",
+        "Making a wire longer removes all of its resistance."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "If you double the physical length of a uniform conducting wire, what happens to its electrical resistance?",
+      "options": [
+        "The resistance is halved.",
+        "The resistance stays exactly the same.",
+        "The resistance doubles.",
+        "The resistance becomes four times larger."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "In a parallel circuit, what is true about each individual loop?",
+      "options": [
+        "Each loop can be traced from one end of the cell or battery to the other end.",
+        "Loops must always pass through every single component in the circuit.",
+        "Each loop is blocked by the other loops so current cannot return.",
+        "Loops only connect to the positive terminal and never reach the negative terminal."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What does the power rating of an electrical device represent?",
+      "options": [
+        "The total voltage the device can withstand before breaking.",
+        "The amount of electrical current that flows through it per minute.",
+        "The amount of energy used by or supplied to the device in one second.",
+        "The total electrical resistance of the device's internal wiring."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What is the unit of measurement for electrical power?",
+      "options": [
+        "Joules (J)",
+        "Ohms",
+        "Volts (V)",
+        "Watts (W)"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "How can you calculate the total electrical energy used by a household appliance in kilowatt-hours (kWh)?",
+      "options": [
+        "Divide the power in watts by the time in seconds.",
+        "Multiply the power in kilowatts (kW) by the time in hours (h).",
+        "Add the resistance in ohms to the power in kilowatts.",
+        "Multiply the voltage in volts by the current in amps."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "When a utility company calculates an electricity bill, what is 1 unit of energy equal to?",
+      "options": [
+        "1 watt-second (Ws)",
+        "1 kilowatt-hour (kWh)",
+        "1 amp-hour (Ah)",
+        "1 volt-ampere (VA)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which of the following best describes a parallel circuit?",
+      "options": [
+        "A circuit that has only one single path for the current to flow.",
+        "A circuit with more than one complete loop from one end of a battery to the other end.",
+        "A circuit that has no battery or power source connected to it.",
+        "A circuit where the current must flow through every bulb in a single line."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "When drawing a circuit diagram, why should you use a ruler to draw the connecting wires?",
+      "options": [
+        "To make the lines look curved like real wires.",
+        "To ensure the diagram is clear, with no tiny gaps that would break the circuit.",
+        "To show that the physical wires in the real circuit are perfectly stiff.",
+        "To indicate that the wire is made of a magnetic material."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "In a parallel circuit, how does the current in the individual branches relate to the total current through the battery?",
+      "options": [
+        "The current through each branch adds up to the total current through the battery.",
+        "The current in each branch is always double the total current through the battery.",
+        "The current through the battery is equal to the current in just one branch divided by the number of branches.",
+        "The branch currents subtract from each other to leave zero current at the battery."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "How does the thickness of a conducting wire affect its electrical resistance?",
+      "options": [
+        "The thicker the wire, the greater its resistance.",
+        "The thicker the wire, the smaller its resistance.",
+        "Wire thickness has no effect on resistance.",
+        "A thicker wire blocks all current from flowing."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "What happens to the electrical resistance of a wire if its cross-sectional area is doubled?",
+      "options": [
+        "The resistance doubles.",
+        "The resistance is halved.",
+        "The resistance increases fourfold.",
+        "The resistance remains unchanged."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "What is the unit of measurement for voltage, which is also known as potential difference?",
+      "options": [
+        "Amps (A)",
+        "Ohms",
+        "Volts (V)",
+        "Watts (W)"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "If a 12 V battery is connected to three branches in a parallel circuit, what is the voltage across each branch?",
+      "options": [
+        "4 V across each branch",
+        "12 V across each branch",
+        "36 V across each branch",
+        "0 V across each branch"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 41
+    }
+  ]
+}
