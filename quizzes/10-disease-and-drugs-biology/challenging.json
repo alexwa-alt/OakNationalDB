@@ -1,6 +1,6 @@
 {
   "unitKey": "10Disease and drugsBiology",
-  "generatedAt": "2026-10-08T15:44:57.715852+00:00",
+  "generatedAt": "2026-10-09T15:23:10.734677+00:00",
   "questions": [
     {
       "question": "A patient experiencing an asthma attack finds it much harder to move air into and out of their lungs. Which of the following physical changes in the respiratory system directly explains this sudden difficulty?",
@@ -880,6 +880,226 @@
         "Older scientific studies are always completely incorrect compared to modern ones."
       ],
       "correctAnswerIndex": 1,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "During an asthma attack, what physical change directly leads to the difficulty in moving air into and out of the lungs?",
+      "options": [
+        "The alveoli completely collapse and fuse together permanently.",
+        "The smooth muscles in the walls of the bronchial tubes contract, narrowing the airways.",
+        "The diaphragm becomes paralyzed and cannot contract to lower air pressure in the chest.",
+        "The ribs fuse together, preventing the expansion of the chest cavity during inhalation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following scenarios describes a combination of factors that would most significantly increase a child's risk profile for developing asthma?",
+      "options": [
+        "Having a family history of asthma, being born with a low birth weight, and regular exposure to secondhand tobacco smoke.",
+        "Regularly exercising outdoors, eating a high-protein diet, and having no family history of allergies.",
+        "Living in a rural area with low air pollution, being born at a high birth weight, and having an annual flu vaccine.",
+        "Having a high dietary intake of fiber, being born at normal birth weight, and avoiding household pets."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following correctly distinguishes an infectious disease from a non-infectious disease based on its cause?",
+      "options": [
+        "Infectious diseases are caused only by nutritional deficiencies, whereas non-infectious diseases are caused by environmental chemicals.",
+        "Infectious diseases are always inherited from parents, whereas non-infectious diseases are caused by viral pathogens.",
+        "Infectious diseases are caused by transmissible pathogens such as influenza viruses, whereas non-infectious diseases are caused by factors like genetics or lifestyle.",
+        "Infectious diseases arise from lack of physical exercise, whereas non-infectious diseases are caused by bacterial pathogens like Tuberculosis."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A person diagnosed with type 1 diabetes, a non-infectious autoimmune disease, is concerned about visiting a relative. Which statement accurately addresses their concern?",
+      "options": [
+        "The relative cannot contract type 1 diabetes from the person because non-infectious diseases cannot be transmitted between organisms.",
+        "The relative can only contract the disease if they share food or drinks with the person.",
+        "The disease can be passed on through airborne droplets if the person coughs or sneezes near the relative.",
+        "The relative will develop the disease because non-infectious diseases are highly contagious through direct skin contact."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How do lifestyle choices like regular smoking and heavy alcohol consumption affect the long-term risk of developing cardiovascular and respiratory conditions?",
+      "options": [
+        "They have no effect on these systems because lifestyle choices only impact the digestive tract.",
+        "They increase the risk of developing non-infectious diseases, such as coronary heart disease and chronic lung conditions, by damaging tissues over time.",
+        "They act as infectious pathogens that actively multiply and spread to other individuals in close proximity.",
+        "They immunize the body against respiratory infections by hardening the lining of the lungs and blood vessels."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A person wants to design a comprehensive daily plan to actively reduce their risk of developing non-infectious cardiovascular and respiratory lifestyle diseases. Which plan is most scientifically sound?",
+      "options": [
+        "Relying solely on high-dose vitamin supplements while continuing to smoke and avoiding all physical activity.",
+        "Engaging in regular cardiovascular exercise, eating a balanced diet low in saturated fats, and avoiding smoking and alcohol consumption.",
+        "Replacing all solid foods with sugary energy drinks to boost energy levels while maintaining a sedentary lifestyle.",
+        "Restricting water intake, consuming high amounts of sodium to elevate blood pressure, and avoiding any form of physical exertion."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A pharmacologist is classifying two newly discovered recreational drugs. Drug X slows down synaptic transmission in the brain, while Drug Y increases the release of neurotransmitters that make the user feel highly alert. How should these drugs be classified?",
+      "options": [
+        "Drug X is a stimulant and Drug Y is a depressant.",
+        "Both Drug X and Drug Y are stimulants.",
+        "Drug X is a depressant and Drug Y is a stimulant.",
+        "Both Drug X and Drug Y are depressants."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Why is driving a vehicle highly dangerous after consuming a chemical classified as a depressant?",
+      "options": [
+        "Depressants speed up nerve impulses, causing the driver to oversteer excessively.",
+        "Depressants slow down brain activity, which increases reaction times and delays the driver's ability to brake in an emergency.",
+        "Depressants cause sudden muscle rigidity, preventing the driver from turning the steering wheel at all.",
+        "Depressants improve peripheral vision to a distracting degree, making the driver lose focus on the road ahead."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A person consumes large quantities of alcohol over many years. Which of the following describes the long-term physiological risks to their organs?",
+      "options": [
+        "Alcohol consumption has no long-term effects on organs because the body excretes it fully within hours.",
+        "It can lead to irreversible damage to both the brain tissue and the liver, such as cirrhosis.",
+        "It permanently increases the structural strength of liver cells and improves cognitive processing speed.",
+        "It causes the lungs to expand permanently, improving gas exchange efficiency at the cost of kidney health."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "An athlete takes a substance that is classified as a stimulant before a competition. What physiological and cognitive effects are they likely to experience?",
+      "options": [
+        "Reduced alertness, slower thinking, and a feeling of drowsiness.",
+        "Increased alertness, quicker thinking, and shorter reaction times.",
+        "Complete loss of muscle coordination and a rapid drop in heart rate.",
+        "A state of deep relaxation and a significant slowing of the breathing rate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following statements correctly identifies caffeine and its legal classification?",
+      "options": [
+        "Caffeine is an illegal depressant that is strictly regulated in foods and beverages.",
+        "Caffeine is a legal stimulant commonly found in products like coffee, tea, and some soft drinks.",
+        "Caffeine is an illegal stimulant that causes severe hallucination and is banned in all beverages.",
+        "Caffeine is a legal depressant that helps to induce deep sleep immediately after consumption."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why is it exceptionally difficult for a regular smoker to stop smoking, even when they are fully aware of the health hazards of tobacco smoke?",
+      "options": [
+        "Tobacco leaves contain carbon monoxide, which binds to red blood cells and chemically forces the hand to smoke.",
+        "Tobacco leaves contain tar, which coats the throat and creates a physical vacuum that can only be filled by smoke.",
+        "Tobacco leaves contain nicotine, which is a highly addictive substance that alters brain chemistry and leads to strong cravings.",
+        "Tobacco leaves contain oxygen-depleting compounds that make breathing impossible without inhaling tobacco smoke."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A heavy smoker is diagnosed with a disease characterized by the destruction of alveoli walls and chronic airway inflammation. Which group of diseases does this represent?",
+      "options": [
+        "Infectious diseases like influenza and cholera, which are easily cured with a short course of antibiotics.",
+        "Genetic disorders like cystic fibrosis, which are completely unaffected by environmental factors.",
+        "Lifestyle-linked diseases, such as COPD and lung cancer, for which smoking is a major risk factor.",
+        "Nutritional deficiency diseases, such as scurvy, caused by a lack of vitamins in tobacco smoke."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "During a chemistry lab, a student warns another about the dangers of solvent abuse. Which of the following lists contains substances that are commonly abused as solvents?",
+      "options": [
+        "Distilled water, orange juice, and olive oil.",
+        "Paint thinner, glue, and nitrous oxide.",
+        "Liquid nitrogen, carbonated water, and vinegar.",
+        "Melted wax, liquid soap, and saline solution."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Which of the following represents the most severe potential consequence of solvent abuse, even during a single episode of inhalation?",
+      "options": [
+        "A temporary increase in sense of smell that subsides within minutes.",
+        "Long-term health problems and a high risk of sudden death.",
+        "The permanent immunity to respiratory tract infections.",
+        "A permanent improvement in memory and cognitive processing speed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "During the mechanism of inhalation in a healthy human, how do muscles coordinate to bring air into the lungs?",
+      "options": [
+        "The diaphragm relaxes and domes upward, while the ribcage moves downwards and inwards to squeeze air in.",
+        "The diaphragm contracts and flattens, while the external intercostal muscles contract to lift the ribcage up and out, decreasing pressure inside the chest.",
+        "The lungs contract using their own muscular walls, forcing air to be sucked in through the trachea.",
+        "The abdominal muscles contract violently to push the stomach against the lungs, pulling air in from the mouth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "How does the structure of healthy human lungs maximize the rate of gas exchange?",
+      "options": [
+        "By having a small surface area and thick membranes to prevent gases from escaping too quickly.",
+        "By having a highly folded structure creating a massive surface area, extremely thin walls for a short diffusion pathway, and a rich blood supply.",
+        "By keeping the lung tissue dry and devoid of blood vessels to allow gases to flow freely without dissolving.",
+        "By using active transport pumps in the trachea to push oxygen directly into the bloodstream against a concentration gradient."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "Which of the following is a specific structural feature of alveoli in healthy lungs that optimizes gas exchange?",
+      "options": [
+        "Alveoli are lined with thick muscular rings that actively pump carbon dioxide out of the lungs.",
+        "Alveoli have walls that are only one cell thick, which minimizes the distance gases must diffuse.",
+        "Alveoli are completely sealed off from the blood capillary network to keep the air pure.",
+        "Alveoli are covered in a thick, impermeable waxy cuticle to prevent water loss."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "Many people use e-cigarettes (vaping) as an alternative to traditional smoking. Why is vaping still considered detrimental to health?",
+      "options": [
+        "Vaping contains high levels of tar that coat the alveoli in the same way as tobacco smoke.",
+        "Vaping still involves the consumption of nicotine, which is a highly addictive and harmful chemical.",
+        "Vaping releases pure carbon monoxide, which immediately stops all cellular respiration in the body.",
+        "Vaping causes the lungs to fill completely with liquid water, resulting in immediate drowning."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "Initially, vaping was marketed by many as a completely harmless alternative to smoking. Over time, scientists have begun to find evidence of potential respiratory harm. What does this demonstrate about the nature of scientific ideas?",
+      "options": [
+        "Scientific ideas never change once they are published in textbooks, regardless of new findings.",
+        "Initial scientific claims are always false and should never be trusted by the public.",
+        "Scientific ideas are updated and modified as new, rigorous evidence and data emerge over time.",
+        "Scientists change their minds randomly without needing any experimental evidence or observations."
+      ],
+      "correctAnswerIndex": 2,
       "learningPointIndex": 38
     }
   ]

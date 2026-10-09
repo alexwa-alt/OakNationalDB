@@ -1,6 +1,6 @@
 {
   "unitKey": "12Resistance and parallel circuitsPhysics",
-  "generatedAt": "2026-08-31T16:14:38.508681+00:00",
+  "generatedAt": "2026-10-09T15:24:11.653671+00:00",
   "questions": [
     {
       "question": "Two identical bulbs are first connected in series to a 6V battery, and then reconnected in parallel to the same 6V battery. Why do the bulbs shine brighter in the parallel configuration?",
@@ -881,6 +881,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 41
+    },
+    {
+      "question": "Sarah builds two circuits using identical 6V batteries and identical bulbs. Circuit A has two bulbs in parallel, and Circuit B has two bulbs in series. What will Sarah observe about the brightness of the bulbs, and why?",
+      "options": [
+        "Bulbs in Circuit B are brighter because series circuits concentrate the current through a single path.",
+        "The bulbs in both circuits will have identical brightness because the same battery is used.",
+        "Bulbs in Circuit A are brighter because they share the full battery voltage individually, while bulbs in Circuit B share it and get less voltage each.",
+        "Bulbs in Circuit A are dimmer because the current has to split into two paths."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A student connects two identical bulbs first in series, then in parallel, to the same battery. They measure the total current leaving the battery in both cases. Which statement correctly compares the total current and explains the reason?",
+      "options": [
+        "The current in the series circuit is larger because all charge must flow through a single, unobstructed pathway.",
+        "The current in the parallel circuit is larger because the total resistance of the circuit is lower than in the series circuit.",
+        "The currents are identical because the battery has a fixed voltage and can only push a fixed amount of current regardless of the circuit type.",
+        "The current in the parallel circuit is smaller because the current has to split into two branches, reducing the overall flow."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Two identical 9V batteries are used to power two different setups. Setup X has two bulbs connected in parallel, while Setup Y has two identical bulbs connected in series. How does the rate of energy transfer from the battery compare between the two setups?",
+      "options": [
+        "Both setups transfer energy at the exact same rate because the battery voltage is the same in both cases.",
+        "Setup Y transfers energy from the battery more quickly because the bulbs are in series, which forces a higher voltage across each component.",
+        "Setup Y transfers energy more quickly because current has to overcome two resistances in succession, requiring more power.",
+        "Setup X transfers energy from the battery more quickly because the overall resistance of the parallel combination is lower, drawing a larger current."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "An engineer wants to design a battery-powered emergency light that stays illuminated for as long as possible before the battery goes flat. If they must use two identical bulbs and one battery, which configuration should they choose, and why?",
+      "options": [
+        "Series, because the total resistance is higher, resulting in a lower current drawn from the battery, so the battery runs out slower.",
+        "Parallel, because the current is split between two branches, meaning each branch only draws half the battery's energy capacity.",
+        "Parallel, because the battery can deliver energy more efficiently when there are multiple paths to return to the negative terminal.",
+        "Series, because the voltage of the battery is halved across each bulb, which causes the battery to produce twice as much total energy."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Inside a copper wire connected to a battery, what is the microscopic mechanism that constitutes the electric current?",
+      "options": [
+        "Positive metal ions moving through the spaces between stationary negative electrons.",
+        "Negative electrons flowing through the spaces between the stationary positive metal ions.",
+        "Electrons jumping directly from one positive metal ion to another, causing the ions to slide past each other.",
+        "Protons and electrons flowing in opposite directions within the spaces between neutral atoms."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "If a uniform resistance wire of length 50 cm has a resistance of 4 ohms, what will the resistance of a 100 cm piece of the exact same wire be, and what is the physical explanation for this?",
+      "options": [
+        "8 ohms, because doubling the length halves the cross-sectional area through which electrons can pass.",
+        "2 ohms, because doubling the length allows twice as many electrons to accumulate and carry charge.",
+        "8 ohms, because doubling the length doubles the number of metal ions in the way of the flowing electrons.",
+        "2 ohms, because doubling the length increases the space between the metal ions, making it easier for electrons to flow."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A student plots a graph of resistance against length for a uniform wire. What relationship should the graph show, and what does this mean if the length of the wire is tripled?",
+      "options": [
+        "A straight line through the origin; tripling the length will triple the resistance.",
+        "A curve that flattens out; tripling the length will result in less than three times the resistance.",
+        "A straight line with a negative gradient; tripling the length will reduce the resistance to one-third.",
+        "A horizontal line; changing the length has no effect on the inherent resistance of the material."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A parallel circuit consists of a battery and three parallel branches, each containing one bulb. Which of the following statements best describes how we can analyze this circuit?",
+      "options": [
+        "The branches must be analyzed as a single series loop where the total voltage is divided equally among all three branches.",
+        "Each of the three branches acts as an independent series circuit connected directly across the battery's terminals.",
+        "Each branch receives only one-third of the battery's total voltage because the energy is shared across the parallel paths.",
+        "The circuit is equivalent to a single series loop with three times the resistance of a single bulb."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "An electric heater with a power rating of 2.5 kW is run for 4 hours. How much energy does it consume, and how is this calculated?",
+      "options": [
+        "0.625 kWh, calculated by dividing the power in kilowatts by the time in hours.",
+        "10 kWh, calculated by multiplying the power in kilowatts by the time in hours.",
+        "10,000 kWh, calculated by multiplying the power in watts by the time in hours.",
+        "36,000 kWh, calculated by multiplying the power in kilowatts by the time in seconds."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A household's electricity bill shows that they used 150 units of electricity during a month. If 1 unit of energy is defined as 1 kWh, how is this energy usage represented?",
+      "options": [
+        "The household consumed 150 kWh of electrical energy.",
+        "The household ran appliances with a combined power of 150 kW for exactly one minute.",
+        "The household consumed energy at a constant rate of 150 watts per hour.",
+        "The household used 150 joules of energy over the billing period."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "In a parallel circuit, Branch A has a current of 1.5 A and Branch B has a current of 2.0 A. What is the total current passing through the battery, and why?",
+      "options": [
+        "2.0 A, because the total current is determined solely by the branch with the highest flow.",
+        "0.5 A, because the currents in parallel branches subtract from one another as they return to the battery.",
+        "3.5 A, because the current from all branches must recombine and equal the total current flowing through the battery.",
+        "1.75 A, because the total current is the average of the currents in the individual branches."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Two copper wires of the same length are connected to identical cells. Wire X is twice as thick as Wire Y. How does the resistance of Wire X compare to Wire Y?",
+      "options": [
+        "Wire X has a smaller resistance because its larger thickness provides a wider path for electrons to flow.",
+        "Wire X has a larger resistance because there are more metal ions to collide with the electrons.",
+        "Wire X has the same resistance because resistance depends only on the length and material of the wire.",
+        "Wire X has a smaller resistance because the electrons travel at a much higher speed through thicker materials."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "A manufacturer replaces a heating element wire with one made of the same material and length, but with double the cross-sectional area. What is the effect on the resistance of the heating element?",
+      "options": [
+        "The resistance is doubled.",
+        "The resistance is quartered.",
+        "The resistance is halved.",
+        "The resistance is quadrupled."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "Why does doubling the cross-sectional area of a wire halve its electrical resistance?",
+      "options": [
+        "It halves the number of metal ions per unit volume, reducing the rate of electron collisions.",
+        "It doubles the speed at which individual electrons can travel through the metal lattice.",
+        "It creates a vacuum-like path down the center of the wire where no metal ions exist.",
+        "It doubles the number of electrons that are able to flow through the wire's width at any one time."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "A 12V battery is connected to three different resistors in a parallel circuit. What is the voltage across each individual resistor branch?",
+      "options": [
+        "4V across each branch, because the battery's 12V is shared equally among the three parallel paths.",
+        "12V across each branch, because each branch is connected directly to the terminals of the battery.",
+        "36V across each branch, because the parallel configuration triples the voltage output of the battery.",
+        "It depends on the resistance of each branch; branches with higher resistance will have higher voltage."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 41
+    },
+    {
+      "question": "A group of students wants to investigate how the length of a wire affects its electrical resistance. To ensure their investigation is a fair test, what must they do?",
+      "options": [
+        "Keep the material, thickness, and temperature of the wire constant, changing only its length.",
+        "Change both the length and the thickness of the wire at the same time to see which has a bigger effect.",
+        "Change the battery voltage for each different length of wire tested to keep the current constant.",
+        "Keep the resistance of the wire constant by adjusting its length and thickness simultaneously."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A technician needs to increase the resistance of a circuit loop without changing the material, thickness, or temperature of the wire. What is the most effective way to achieve this?",
+      "options": [
+        "Decrease the length of the wire used in that loop.",
+        "Coil the wire more tightly while keeping its total length the same.",
+        "Connect another identical wire in parallel with the original wire.",
+        "Increase the length of the wire used in that loop."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "An electrical appliance is rated at 1200 W. What does this power rating specifically tell us about the appliance's energy usage?",
+      "options": [
+        "It requires a total of 1200 joules of energy to run, regardless of how long it is turned on.",
+        "It transfers 1200 joules of energy every second it is in use.",
+        "It consumes 1200 units of electricity (kWh) per hour.",
+        "It pushes 1200 electrons through the circuit every second."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A student wants to measure the current flowing specifically through only one branch of a parallel circuit. Where should they connect the ammeter?",
+      "options": [
+        "Right next to the positive terminal of the battery, before any branches split off.",
+        "In parallel across the components in that branch, similar to how a voltmeter is connected.",
+        "Directly inside that specific branch, between its two connection points to the rest of the circuit.",
+        "Right next to the negative terminal of the battery, after all the branches have recombined."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "What does a voltage reading of 3V across a bulb in a circuit physically represent?",
+      "options": [
+        "The size of the electrical 'push' that is moving the current through that specific bulb.",
+        "The total amount of electric charge that passes through the bulb every second.",
+        "The speed at which the electrons are moving as they pass through the bulb.",
+        "The total electrical resistance that the bulb opposes to the flow of current."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 40
     }
   ]
 }

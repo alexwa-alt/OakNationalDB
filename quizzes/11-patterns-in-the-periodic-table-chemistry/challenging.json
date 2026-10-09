@@ -1,6 +1,6 @@
 {
   "unitKey": "11Patterns in the periodic tableChemistry",
-  "generatedAt": "2026-10-08T15:45:29.632348+00:00",
+  "generatedAt": "2026-10-09T15:23:37.095972+00:00",
   "questions": [
     {
       "question": "Why is helium, a Group 0 element, used to fill balloons rather than hydrogen, despite being slightly heavier?",
@@ -1101,6 +1101,226 @@
       ],
       "correctAnswerIndex": 3,
       "learningPointIndex": 8
+    },
+    {
+      "question": "Why is helium, a gas in Group 0, used in weather balloons instead of hydrogen, despite hydrogen being less dense?",
+      "options": [
+        "Helium is completely unreactive and will not ignite, making it much safer.",
+        "Helium is a solid at room temperature and maintains balloon shape better.",
+        "Helium reacts slowly with oxygen to form water vapor, preventing explosions.",
+        "Helium molecules are much larger, preventing them from escaping the balloon fabric."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Argon, krypton, and xenon are all members of Group 0. Which statement correctly describes their physical state at 20 °C?",
+      "options": [
+        "Argon is a gas, but krypton and xenon are liquids.",
+        "They are all gases because all Group 0 elements are gases at room temperature.",
+        "They exist as diatomic gases, meaning they form pairs of atoms.",
+        "Only helium and neon are gases; the others are highly volatile liquids."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "An unknown element X has a complete outer electron shell. Which of the following is the most likely chemical behavior of X?",
+      "options": [
+        "It will readily lose electrons to form positive ions with Group 7 elements.",
+        "It will share electrons with hydrogen to form a highly stable covalent compound.",
+        "It is highly stable and unreactive because of its electronic structure.",
+        "It will react vigorously with water to produce an alkaline solution."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "As you move down Group 0 from helium to radon, how do the physical properties of the elements change?",
+      "options": [
+        "Atomic mass, density, and boiling points all increase.",
+        "Boiling point decreases, density decreases, and atomic mass increases.",
+        "Boiling point increases, density decreases, and atomic mass decreases.",
+        "Boiling point decreases, density increases, and atomic mass increases."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A scientist observes the melting points of three consecutive elements down a single group. If the melting points are -189 °C, -186 °C, and -153 °C, what does this demonstrate about the periodic table?",
+      "options": [
+        "Elements in a group have identical physical properties that do not change.",
+        "The properties of elements in each group change gradually down the group.",
+        "Properties alternate randomly between high and low values down a group.",
+        "Elements become infinitely more metallic as you move down any group."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following describes the properties of Group 1 metals as you move down the group?",
+      "options": [
+        "They are hard, dense, and become less reactive down the group.",
+        "They are soft, have lower densities than most other metals, and become more reactive.",
+        "They are soft because they are non-metals, and their reactivity decreases.",
+        "They are highly dense, rigid, and react only with transition metals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When a small piece of potassium is added to a trough of water containing universal indicator, the water turns purple and bubbles of gas are produced. What are the products of this reaction?",
+      "options": [
+        "Potassium oxide and oxygen gas",
+        "Potassium hydroxide and hydrogen gas",
+        "Potassium hydride and oxygen gas",
+        "Potassium acid and hydrogen gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A student adds a piece of magnesium ribbon to dilute hydrochloric acid. She repeats this with calcium. Which of the following correctly describes the products formed in both reactions?",
+      "options": [
+        "Both form a metal chloride salt and hydrogen gas.",
+        "Both form a metal hydroxide and hydrogen gas.",
+        "Magnesium forms a salt, but calcium is too unreactive to react with acid.",
+        "Both form a metal oxide and chlorine gas."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Compare the reactivity of magnesium (Group 2, Period 3) and sodium (Group 1, Period 3). Which statement is correct?",
+      "options": [
+        "Magnesium is more reactive because it is in a higher group number.",
+        "Magnesium is less reactive than sodium, because Group 2 metals are less reactive than Group 1 metals in the same period.",
+        "They have identical reactivity because they are in the same period.",
+        "Neither element reacts with water or acids because they are both metals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Chlorine, bromine, and iodine are halogens. Which of the following is a correct safety and physical description of these elements?",
+      "options": [
+        "They are all colourless, odourless, non-toxic gases.",
+        "They are metals that produce highly coloured, safe, sweet-smelling vapours.",
+        "They are non-metals that have coloured vapours, most of which are toxic.",
+        "They are non-metals that are completely safe to inhale but have bright colours."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Fluorine is a gas at room temperature, while bromine is a liquid, and iodine is a solid. What trend in the state of matter does this represent down Group 7?",
+      "options": [
+        "The elements change from solid to gas as you move down the group.",
+        "The elements change from gas to solid as you move down the group.",
+        "The elements remain liquid across all temperatures down the group.",
+        "There is no predictable trend in the states of matter down the group."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "If chlorine gas is bubbled through a solution of potassium iodide, a reaction occurs. However, if iodine is added to a solution of potassium chloride, no reaction occurs. What does this experiment demonstrate?",
+      "options": [
+        "Chlorine is more reactive than iodine, showing reactivity decreases down Group 7.",
+        "Iodine is more reactive than chlorine, showing reactivity increases down Group 7.",
+        "Both elements have equal reactivity, but iodide ions are larger.",
+        "Halogens only react with other halogens and not with metals."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When heated sodium metal is lowered into a gas jar of chlorine gas, a vigorous reaction occurs, producing a white crystalline solid. What is the correct chemical name and classification of this product?",
+      "options": [
+        "Sodium chloride, which is a metal halide.",
+        "Sodium chlorate, which is a metal oxide.",
+        "Chlorine sodide, which is a transition metal.",
+        "Sodium hydride, which is an alkaline solution."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A student prepares four different metal halides: lithium chloride, sodium bromide, potassium iodide, and magnesium chloride. She adds water to each solid. What is she most likely to observe?",
+      "options": [
+        "All of the metal halides will dissolve because they are soluble in water.",
+        "None of them will dissolve because all metal halides are highly insoluble.",
+        "Only the Group 1 halides will dissolve; magnesium chloride is completely insoluble.",
+        "They will react violently with water to release toxic chlorine gas."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "An element is located in the third vertical column from the left and the fourth horizontal row of the periodic table. How should these divisions be described scientifically?",
+      "options": [
+        "The column is called a period, and the row is called a group.",
+        "The column is called a group, and the row is called a period.",
+        "Both columns and rows are called groups.",
+        "Both columns and rows are called periods."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Who is credited with developing the periodic table by organizing elements and even leaving gaps for elements that had not yet been discovered?",
+      "options": [
+        "Isaac Newton, an English physicist.",
+        "Dimitri Mendeleev, a Russian scientist.",
+        "Marie Curie, a French-Polish chemist.",
+        "John Dalton, an English chemist."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How does the periodic table organize all the known chemical elements?",
+      "options": [
+        "Alphabetically by their chemical symbols in a single continuous list.",
+        "Organised into groups and periods according to their properties.",
+        "Strictly by their density, starting with the densest metal at the top left.",
+        "By separating natural elements into groups and synthetic elements into periods."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why are lithium, sodium, and potassium placed in the same column (Group 1) of the periodic table?",
+      "options": [
+        "They have completely different properties but the same mass.",
+        "They have similar properties because they are in the same group.",
+        "They were all discovered in the same year by the same scientist.",
+        "They are all gases at room temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Besides being organized into vertical groups, how can the elements of the periodic table be broadly divided?",
+      "options": [
+        "Into metals (which include transition metals) and non-metals.",
+        "Only into transition metals and noble gases, with no other categories.",
+        "Into liquids and solids, with no gases represented.",
+        "Into natural metals and artificial non-metals only."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A student is given three halogen solutions: fluorine water, chlorine water, and bromine water. Based on the trend in Group 7 reactivity, which of these is the most reactive?",
+      "options": [
+        "Bromine water, because reactivity increases down Group 7.",
+        "Fluorine water, because reactivity decreases down Group 7.",
+        "They all have identical reactivity because they are in the same group.",
+        "Chlorine water, because it is in the exact middle of the group."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
     }
   ]
 }
