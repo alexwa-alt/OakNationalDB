@@ -1,6 +1,6 @@
 {
   "unitKey": "5SolutionsChemistry",
-  "generatedAt": "2026-09-07T14:20:07.092305+00:00",
+  "generatedAt": "2026-10-18T12:41:03.943531+00:00",
   "questions": [
     {
       "question": "A student observes pollen grains dancing randomly under a microscope when suspended in water. If the water is replaced by a slightly thicker liquid at the same temperature, what is the best explanation of what happens to this motion?",
@@ -440,6 +440,226 @@
         "To ensure it is a fair test, so that only the particle size is changed and any effect on dissolving time is clearly due to it."
       ],
       "correctAnswerIndex": 3,
+      "learningPointIndex": 41
+    },
+    {
+      "question": "A student observes pollen grains under a microscope floating in water. The pollen grains move about erratically in random directions. What causes this motion?",
+      "options": [
+        "The pollen grains are living organisms actively swimming through the liquid.",
+        "Water particles randomly collide with the pollen grains from different directions.",
+        "Thermal convection currents push all the pollen grains in a uniform circular direction.",
+        "Dissolved air bubbles inside the pollen expand and propel them around."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Two identical dye crystals are dropped into separate beakers with equal volumes of water—Beaker A at 15 °C and Beaker B at 60 °C. Why does the dye spread throughout Beaker B much faster?",
+      "options": [
+        "Dye particles in Beaker B shrink because heat melts them into smaller pieces.",
+        "Water particles in Beaker B move faster, colliding with and spreading the dye particles more quickly.",
+        "Higher temperatures completely destroy all forces of attraction between liquid particles.",
+        "Thermal expansion doubles the number of dye particles in Beaker B."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A student stirs crushed chalk into water, creating a cloudy liquid. After resting undisturbed on a desk for two hours, the liquid becomes clear and a layer forms at the bottom. Why is this liquid classified as a suspension rather than a solution?",
+      "options": [
+        "The solid particles dissolve completely once the mixture cools down.",
+        "Solid particles are visible in the fluid and settle at the bottom over time.",
+        "The total mass of the mixture decreased significantly while sitting on the desk.",
+        "Chalk particles chemically reacted with water to form an invisible gas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When solid sugar crystals dissolve in water, what particle-level change must occur for the sugar to disperse into the solvent?",
+      "options": [
+        "Water particles must permanently fuse with sugar particles to form new chemical elements.",
+        "The attractive forces holding the solute particles together must be overcome by interactions with solvent particles.",
+        "The sugar particles must undergo a state change from solid to gas.",
+        "The attraction between individual water particles must completely disappear."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A technician mixes 50 cm³ of ethanol with 50 cm³ of water in a graduated cylinder. The total volume of the resulting mixture is 96 cm³ instead of 100 cm³. What explains this outcome?",
+      "options": [
+        "Mass was destroyed during the mixing process.",
+        "Particles of one liquid fit into the spaces between particles of the other liquid.",
+        "Ethanol particles instantly converted into solid crystals upon touching water.",
+        "The measuring cylinder shrank significantly due to a chemical reaction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which statement correctly distinguishes the physical process of dissolving salt in water from the physical process of melting salt?",
+      "options": [
+        "Dissolving involves heating salt until it becomes a liquid, while melting requires adding a liquid solvent.",
+        "Dissolving requires interaction between a solute and a solvent, whereas melting requires heat to change state without a solvent.",
+        "Melting produces a new chemical compound, while dissolving cannot be reversed.",
+        "Dissolving destroys salt particles, whereas melting preserves their original mass."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which combination of components will successfully form a solution?",
+      "options": [
+        "An insoluble solid mixed with a liquid where particles settle at the bottom.",
+        "A soluble solid completely dissolved within an appropriate solvent.",
+        "Two liquids that do not mix and separate into two distinct layers.",
+        "A solid suspended in a fluid without overcoming solute-solute forces."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A beaker containing 120.0 g of water is placed on a balance. 15.0 g of sugar is added and stirred until completely dissolved. Assuming no liquid evaporates or splashes, what will the balance read?",
+      "options": [
+        "Exactly 120.0 g, because dissolved sugar loses its mass in solution.",
+        "Less than 135.0 g, because volume decreases when sugar dissolves.",
+        "Exactly 135.0 g, because mass is conserved when substances are mixed.",
+        "More than 135.0 g, because sugar particles expand in water."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A scientist tests two clear liquids, Liquid X and Liquid Y. Liquid X boils consistently at 100 °C from start to finish. Liquid Y begins boiling at 102 °C and its temperature slowly rises to 106 °C. What can be concluded about Liquid X?",
+      "options": [
+        "Liquid X is a mixture containing several dissolved salts.",
+        "Liquid X is a pure material because it has a fixed boiling point.",
+        "Liquid X is a suspension that will settle over time.",
+        "Liquid X is a solution with variable concentration."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Salt is spread on icy roads in winter. Pure water freezes at 0 °C, but adding salt lowers the freezing temperature of the mixture to -5 °C. Which principle explains this outcome?",
+      "options": [
+        "Impurities change the fixed melting and freezing points of a pure material.",
+        "Adding an impurity increases the total volume, raising the freezing temperature.",
+        "Salt creates a suspension that traps heat inside the ice structure.",
+        "Dissolving salt turns an endothermic physical change into a permanent reaction."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A mixture contains iron filings and sulfur powder. How does this sample display the characteristic behavior of a mixture?",
+      "options": [
+        "The iron and sulfur have chemically combined into a compound with a single melting point.",
+        "It contains two distinct substances that retain their properties and can be easily separated.",
+        "The overall volume is zero because iron particles fit completely inside sulfur particles.",
+        "The components can only be separated by performing a complex chemical reaction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A sample of wax is heated slowly. It begins to melt at 52 °C and becomes completely liquid at 58 °C. What does this temperature span indicate about the wax?",
+      "options": [
+        "The wax is a single pure material undergoing a chemical change.",
+        "The wax is a mixture, as mixtures melt over a range of temperatures.",
+        "The thermometer was faulty because pure solids always melt instantly at 0 °C.",
+        "The wax is a suspension that is evaporating into gas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "A student adds copper sulfate powder to 100 cm³ of water at 20 °C while stirring. The first 20 g dissolve completely, but after adding 32 g, no more solid dissolves and crystals remain at the bottom. What rule does this illustrate?",
+      "options": [
+        "Copper sulfate is completely insoluble in water at any temperature.",
+        "At a given temperature, there is a limit to how much solute can dissolve in a solvent.",
+        "Mass is destroyed when the limit of solubility is exceeded.",
+        "The solvent converts into a pure substance upon reaching saturation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A saturated solution of salt is prepared in water at 70 °C. As the container cools down to 20 °C, solid crystals begin to form at the bottom. Why does this happen?",
+      "options": [
+        "Solute particles evaporate into the surrounding air as temperature drops.",
+        "Solutes may become insoluble as a solution cools, causing excess solute to crystallize out.",
+        "Cooling converts liquid solvent directly into solid solute.",
+        "The mass of salt increases spontaneously at lower temperatures."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A graph plots the solubility of a salt against temperature, fitted with a smooth line of best fit. How can a researcher use this graph to find the solubility at 35 °C without doing another experiment?",
+      "options": [
+        "By calculating the total mass of the measuring equipment.",
+        "By locating 35 °C on the x-axis, moving up to the line of best fit, and reading the value on the y-axis.",
+        "By averaging all the recorded data points listed in the raw table.",
+        "By multiplying 35 °C by the volume of solvent used."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "A line of best fit on a graph of solubility (y-axis) versus temperature (x-axis) slopes steadily upward from left to right. What relationship does this line demonstrate?",
+      "options": [
+        "As temperature increases, the solubility of the solute increases.",
+        "Temperature changes have no effect on how much solute dissolves.",
+        "As temperature increases, the solution volume drops to zero.",
+        "Higher temperatures cause solute particles to settle out as a suspension."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "A student plans an experiment to see what alters how much solute dissolves in a liquid. Which group of factors could all affect the solubility of a substance?",
+      "options": [
+        "The color of the beaker, the balance model, and the height of the desk.",
+        "The size of the solute pieces, the choice of solvent, and the temperature of the solvent.",
+        "The title of the graph, the unit of mass, and the day of the week.",
+        "The atmospheric air pressure, the mass of the beaker, and the room lighting."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "In an experiment designed to test how changing water temperature affects the time taken for a tablet to dissolve, which factor is the independent variable?",
+      "options": [
+        "The time taken for the tablet to dissolve.",
+        "The temperature of the water.",
+        "The mass of the tablet used.",
+        "The volume of water measured."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "When investigating how the surface area of sugar affects its dissolving speed, a student keeps water volume, water temperature, and stirring speed identical in every test. What are these constant conditions called?",
+      "options": [
+        "Dependent variables.",
+        "Independent variables.",
+        "Control variables.",
+        "Uncontrolled variables."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 40
+    },
+    {
+      "question": "Why is it essential to change only ONE variable at a time during a fair test investigation on solute dissolving rates?",
+      "options": [
+        "To ensure that any change in the dependent variable is caused solely by the variable being tested.",
+        "To stop conservation of mass from altering the total mixture volume.",
+        "To guarantee that the mixture boils over a wide temperature range.",
+        "To prevent Brownian motion from occurring in the liquid."
+      ],
+      "correctAnswerIndex": 0,
       "learningPointIndex": 41
     }
   ]

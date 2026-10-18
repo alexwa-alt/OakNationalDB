@@ -1,0 +1,226 @@
+{
+  "unitKey": "8Heredity and DNABiology",
+  "generatedAt": "2026-10-18T12:50:14.829702+00:00",
+  "questions": [
+    {
+      "question": "What chemical substance makes up the genetic material in living organisms?",
+      "options": [
+        "Protein",
+        "DNA",
+        "Starch",
+        "Lipid"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which statement correctly describes the basic structure of a DNA molecule?",
+      "options": [
+        "It consists of a single linear protein chain",
+        "It is made of two chains of smaller chemical units joined together",
+        "It is a ring of linked glucose molecules",
+        "It is a branched network of fatty acids"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What term refers to all of the DNA contained within an individual cell?",
+      "options": [
+        "Proteome",
+        "Genome",
+        "Nucleolus",
+        "Phenotype"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How are the chemical chains arranged in a standard model of DNA?",
+      "options": [
+        "Spiralled around each other in a double helix with cross links",
+        "Aligned in flat parallel lines with no middle connections",
+        "Folded randomly into a spherical bundle",
+        "Linked end-to-end to form one continuous line"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why is extracted DNA sometimes visible to the naked eye during a laboratory experiment?",
+      "options": [
+        "Extracted DNA expands to ten times its normal width",
+        "Individual DNA molecules clump together when a large amount is extracted",
+        "DNA reacts with air to emit visible light",
+        "Extraction changes DNA into a solid mineral crystal"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the typical visual appearance of DNA after it has been extracted from fruit tissue?",
+      "options": [
+        "A bright green liquid",
+        "A white, stringy or slimy precipitate",
+        "Fine black powder",
+        "Hard metallic crystals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which statement about genomes in different living species is correct?",
+      "options": [
+        "Only animals possess a genome",
+        "All organisms have a genome, showing both similarities and differences across species",
+        "Every species shares an identical genome",
+        "Bacteria do not contain a genome"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What are the tightly-packed structures formed when DNA is wound up inside cells called?",
+      "options": [
+        "Ribosomes",
+        "Chromosomes",
+        "Chloroplasts",
+        "Mitochondria"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How many pairs of chromosomes are found in human body cells, and where are they stored?",
+      "options": [
+        "46 pairs stored in the cytoplasm",
+        "23 pairs stored in the nucleus",
+        "23 single chromosomes stored in the cell wall",
+        "12 pairs stored in the nucleus"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What are the specific sections of DNA in chromosomes that store instructions for inherited features called?",
+      "options": [
+        "Genes",
+        "Enzymes",
+        "Hormones",
+        "Antibodies"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What role does non-coding DNA play in an organism's genetic material?",
+      "options": [
+        "It generates chemical energy for cell movement",
+        "It contains instructions controlling when information in genes is used",
+        "It forms the protective outer wall of plant cells",
+        "It breaks down waste products inside the cytoplasm"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Where is genetic material located inside plant, animal, and fungi cells?",
+      "options": [
+        "Cell membrane",
+        "Cytoplasm",
+        "Nucleus",
+        "Vacuole"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Where do bacterial cells store their genetic material?",
+      "options": [
+        "Inside a nucleus",
+        "In the cytoplasm",
+        "Inside chloroplasts",
+        "Attached to the outer cell wall"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is heredity?",
+      "options": [
+        "The process of breaking down food for energy",
+        "The process of passing on genetic features from organisms to their offspring",
+        "The process of absorbing nutrients from the environment",
+        "The physical movement of cells during growth"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Why do offspring typically show family resemblance to both parents?",
+      "options": [
+        "They inherit genetic material from both parents",
+        "They choose which physical traits to copy",
+        "They eat the same diet as their parents",
+        "They are exposed to identical climate conditions"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Why are non-identical offspring from the same parents usually not completely identical to each other?",
+      "options": [
+        "They inherit different combinations of genetic material from their parents",
+        "Only one child inherits genetic material while others do not",
+        "DNA changes completely every year after birth",
+        "Genetic material is passed on only to the firstborn child"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which characteristics can be inherited by offspring?",
+      "options": [
+        "Characteristics caused by physical injuries",
+        "Characteristics caused by instructions in genetic material",
+        "Skills learned through repeated practice",
+        "Skin tanning caused by sun exposure"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Why are features caused by lifestyle or the environment unable to be passed to offspring?",
+      "options": [
+        "They are not stored as instructions in the genetic material",
+        "They are too small to be transferred",
+        "Offspring automatically repair all environmental changes",
+        "Lifestyle features are lost during adulthood"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Which feature is an example of an inherited characteristic?",
+      "options": [
+        "A scar on a leg",
+        "Natural eye colour",
+        "A spoken accent",
+        "A body tattoo"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Which experimental method was used by Rosalind Franklin's team in 1952 to produce an image of DNA?",
+      "options": [
+        "Light microscopy",
+        "X-ray diffraction",
+        "Computer modelling",
+        "Chemical staining with iodine"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    }
+  ]
+}

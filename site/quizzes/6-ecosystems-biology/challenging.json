@@ -1,6 +1,6 @@
 {
   "unitKey": "6EcosystemsBiology",
-  "generatedAt": "2026-09-08T12:57:23.304804+00:00",
+  "generatedAt": "2026-10-18T12:49:21.880940+00:00",
   "questions": [
     {
       "question": "A species of lizard has evolved a tail that easily detaches when grabbed, allowing it to escape while the predator is distracted by the wriggling tail. How does this adaptation compare to predator adaptations?",
@@ -661,6 +661,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 37
+    },
+    {
+      "question": "A biologist observes a desert rodent that burrows underground during hot days and has sensitive ears to detect quiet rustling sounds, while its main predator, an owl, has silent flight feathers. How do these traits reflect the evolutionary relationship between predator and prey?",
+      "options": [
+        "The rodent's traits are predator adaptations, whereas the owl's traits are prey adaptations.",
+        "The rodent uses behavioral and sensory adaptations to avoid capture, while the owl has physical adaptations to capture prey efficiently.",
+        "Both organisms have evolved identical adaptations to survive extreme desert temperatures rather than for hunting or avoidance.",
+        "The owl's silent flight is designed to avoid being detected by larger predators rather than for hunting the rodent."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A species of moth in a forest is active only at night and has wing patterns that match tree bark. Which statement best explains how these adaptations work together to help the moth survive?",
+      "options": [
+        "Being nocturnal helps it find daytime predators, while camouflage attracts mates during the night.",
+        "Camouflage protects it from visually hunting predators during the day, and being nocturnal reduces encounters with day-active predators.",
+        "Being nocturnal allows it to photosynthesise without sunlight, while camouflage keeps it warm at night.",
+        "Camouflage aids in capturing prey, while being nocturnal helps it avoid competing with producers."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "An ecologist compares two carnivores: Species X has forward-facing eyes and sharp binocular vision, whereas Species Y has side-facing eyes with a wide field of view. What does this difference suggest about their ecological roles?",
+      "options": [
+        "Species X is likely a producer, while Species Y is a primary consumer.",
+        "Species X is adapted as a predator to judge depth when hunting, while Species Y is likely a prey animal monitoring for danger.",
+        "Species X uses its vision to avoid predators, while Species Y uses its vision to stalk prey in dense vegetation.",
+        "Both species are top predators, but Species Y hunts exclusively at night using broad peripheral vision."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "In a marine ecosystem, a persistent chemical toxin that does not break down is released at a very low concentration into the water. Which organism in the ecosystem would be expected to store the highest concentration of this toxin in its tissues?",
+      "options": [
+        "Microscopic phytoplankton floating in the surface water.",
+        "Herbivorous zooplankton that eat phytoplankton.",
+        "Small fish that feed on zooplankton.",
+        "Top predator osprey birds that feed on large fish."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following scenarios best illustrates the complete definition of an ecosystem?",
+      "options": [
+        "A group of identical oak trees growing in a single plant nursery plot.",
+        "A list of all the animal species living in a tropical rainforest without considering temperature or water.",
+        "A woodland where red squirrels, oak trees, fungi, soil minerals, and rainfall constantly interact with and depend on one another.",
+        "The annual migration pattern of swallows flying across continents during winter."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A student measures water temperature, pH, light level, aquatic plant count, and dragonfly larva count in a pond habitat. How should these components be correctly classified?",
+      "options": [
+        "Water temperature, pH, and light level are abiotic parts; plant count and dragonfly larva count are biotic parts.",
+        "Water temperature and light level are biotic parts; pH, plants, and larvae are abiotic parts.",
+        "All five measurements represent abiotic physical components of the habitat.",
+        "Plant and larva counts are abiotic resources, whereas temperature and light are biotic conditions."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Due to regional climate shifts, a freshwater lake experiences a sustained increase in average water temperature and a significant drop in dissolved oxygen levels. How is this environmental change most likely to affect the lake's existing fish population?",
+      "options": [
+        "Fish will immediately produce new genetic mutations to breathe higher levels of carbon dioxide.",
+        "Survival becomes harder for fish species that require high oxygen levels, potentially causing local population declines.",
+        "The fish will stop competing for food and convert into primary producers.",
+        "The environmental change will automatically increase the carrying capacity for all native fish species."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which statement accurately distinguishes producers from consumers in a terrestrial biological community?",
+      "options": [
+        "Producers absorb organic matter from soil to create energy, whereas consumers absorb light directly.",
+        "Producers synthesise their own food using abiotic energy sources, whereas consumers must eat other organisms to obtain food.",
+        "Producers consume herbivorous insects to build biomass, whereas consumers manufacture sugars via respiration.",
+        "Producers only include large green plants, whereas consumers include all bacteria and microorganisms."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A microscopic organism isolated from a soil sample cannot perform photosynthesis and survives entirely by ingesting dead plant particles and live bacteria. How should this organism be classified?",
+      "options": [
+        "As a producer, because it feeds on soil minerals.",
+        "As an abiotic factor, because it lives in soil.",
+        "As a consumer, because it obtains food by consuming other organisms or their remains.",
+        "As a pollinator, because it interacts with plant debris."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In the food chain: Grass -> Grasshopper -> Frog -> Snake, what do the arrows specifically represent?",
+      "options": [
+        "The direction in which organisms move when hunting.",
+        "The transfer of biomass and energy from one organism to the next.",
+        "The evolutionary path from simpler to more complex organisms.",
+        "The relative population sizes, pointing from larger populations to smaller ones."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Why is a food web diagram a more accurate representation of an ecosystem community than a single food chain?",
+      "options": [
+        "Food webs show abiotic factors like sunlight and rainfall that food chains omit.",
+        "Food webs illustrate that most organisms feed on, and are eaten by, multiple different species through interconnected chains.",
+        "Food webs prove that producers can survive without sunlight or soil nutrients.",
+        "Food webs exclude top predators to simplify complex feeding relationships."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "In a woodland food web, a fungal disease severely reduces the population of thrushes (birds that eat snails and caterpillars, and are eaten by hawks). What is a likely indirect effect of this population drop?",
+      "options": [
+        "Snail and caterpillar populations may increase, while hawk populations may face reduced food availability.",
+        "The grass population will immediately vanish due to a lack of thrushes.",
+        "Hawks will automatically turn into primary producers to compensate for lost prey.",
+        "No other populations will be affected because food webs prevent changes from spreading."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "If a complete extinction of all producer species occurred in a meadow ecosystem, what would be the ultimate impact on the consumer species?",
+      "options": [
+        "Primary consumers would die out, but secondary and tertiary consumers would thrive on sunlight.",
+        "Consumers would adapt within days to produce their own food via photosynthesis.",
+        "All consumers would eventually starve, as all food chains depend on producers for initial biomass production.",
+        "Only herbivorous consumers would be affected; carnivorous consumers would remain unharmed."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which sequence correctly describes the essential events required for a flowering plant to produce edible fruit containing seeds?",
+      "options": [
+        "Fruit forms first -> seeds germinate -> pollen is transferred from stigma to anther -> pollination ends.",
+        "Pollen is transferred from the anthers to the stigma -> fertilization occurs -> seeds and fruit develop.",
+        "Dispersal of seeds occurs -> insects collect fruit -> pollen travels from fruit to anther.",
+        "Seeds absorb nutrients from animals -> anthers transform into fruit -> stigma releases pollen."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A flowering plant species produces brightly coloured blossoms containing sweet nectar and seeds encased in sweet berries. How does this plant rely on animals for its lifecycle?",
+      "options": [
+        "Animals pollinate the plant when feeding on nectar, and disperse seeds after eating the berries.",
+        "Animals convert the plant's leaves into pollen and deposit the fruit back into the flower.",
+        "Animals use nectar to build roots for the plant, while seeds are dispersed by wind alone.",
+        "Animals eat the entire plant to prevent overpopulation, allowing new seeds to grow in their place."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "How does widespread loss of pollinating insect populations directly threaten human food security?",
+      "options": [
+        "Without insect pollinators, wind-pollinated cereal crops like wheat and rice immediately die.",
+        "Many key fruit, vegetable, and nut crops rely on insect pollinators to set seed and fruit, leading to reduced food availability.",
+        "Pollinators directly produce meat and dairy products consumed by humans.",
+        "Insects manufacture synthetic nitrogen fertilisers needed for crop growth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "An isolated island supports a population of snowshoe hares and lynx. A severe viral outbreak reduces the hare population by 80%. What is the expected response in the lynx population shortly after?",
+      "options": [
+        "The lynx population will increase because there are fewer hares competing for lynx habitat.",
+        "The lynx population will decline because their primary food supply has drastically decreased.",
+        "The lynx population will remain completely unchanged because predators are unaffected by prey numbers.",
+        "The lynx will immediately switch to eating plant matter and reproduce at double the normal rate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Why is high biodiversity beneficial for maintaining a healthy and resilient natural ecosystem?",
+      "options": [
+        "High biodiversity ensures that only one single dominant species controls all ecosystem resources.",
+        "Multiple species performing similar ecosystem roles mean the habitat can better withstand environmental disruptions and disease outbreaks.",
+        "High biodiversity reduces the need for sunlight and water in an ecosystem.",
+        "Habitats with high biodiversity do not contain any predators or toxic substances."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Why are seed banks considered a crucial tool for conserving plant genetic diversity?",
+      "options": [
+        "They store seeds from diverse crop varieties and wild species, preserving genetic material against extinction.",
+        "They replace the need for wild natural habitats and ecosystems altogether.",
+        "They convert plant seeds into chemical pesticides to protect commercial farmland.",
+        "They force seeds to mutate rapidly so that plants no longer require pollination."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "A farmer applies a chemical herbicide pesticide to a field of wheat. How does destroying unwanted weeds with this chemical help increase crop yield?",
+      "options": [
+        "It directly kills plant-eating insect pests that damage wheat leaves.",
+        "It reduces competition between weeds and wheat for light, water, and soil nutrients.",
+        "It acts as a primary producer, adding extra sugar directly to the wheat plants.",
+        "It causes insect pollinators to visit the wheat flowers more frequently."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
     }
   ]
 }

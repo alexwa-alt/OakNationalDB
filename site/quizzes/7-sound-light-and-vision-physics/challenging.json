@@ -1,6 +1,6 @@
 {
   "unitKey": "7Sound, light and visionPhysics",
-  "generatedAt": "2026-09-09T13:02:23.873586+00:00",
+  "generatedAt": "2026-10-18T12:49:49.144342+00:00",
   "questions": [
     {
       "question": "A student sits in a completely dark room. They turn on a smartphone screen, which lights up, and they can also see a white mug on the table. Which statement correctly describes these objects?",
@@ -878,6 +878,226 @@
         "A pattern of vibrations is passed from particle to particle, while the individual air particles only vibrate back and forth.",
         "A stream of empty space is pushed through the air, carrying the sound energy.",
         "Heat energy travels across the room, which the ear translates into sound."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "A room has a polished mirror and a sheet of white printer paper. When light shines on both, how do their reflections compare?",
+      "options": [
+        "The mirror reflects light in a regular way, while the paper scatters the light in many directions.",
+        "The mirror reflects light, but the white paper absorbs all light without reflecting any.",
+        "Both surfaces reflect light in a regular way because both are bright surfaces.",
+        "Neither surface reflects light; light passes completely through both of them."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A person is looking at an apple sitting on a table in a room with a lamp. Which path of light explains why the person can see the apple?",
+      "options": [
+        "Light rays travel from the eye to the apple and bounce back into the lamp.",
+        "Light emitted by the lamp reflects off the apple and enters the person's eye.",
+        "Light emitted by the person's eye shines directly onto the apple.",
+        "Light travels from the apple directly into the lamp, making the apple visible."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A laser beam is shone across a dark room in a vacuum tube. Why is the laser beam invisible from the side?",
+      "options": [
+        "Laser light travels too quickly for human eyes to detect unless it stops.",
+        "Light beams can only be seen if light hits particles and reflects or scatters towards the eye.",
+        "Laser light loses all its brightness as soon as it exits the laser pointer.",
+        "Light rays always curve away from observers unless trapped inside glass."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A hiker shouts towards a large cliff face and hears their shout repeated a moment later. What causes this echo?",
+      "options": [
+        "The cliff face absorbs the sound energy and releases it as a new pitch.",
+        "The sound reflects off the hard cliff face and travels back to the hiker's ears.",
+        "The sound wave passes through the cliff and bends around to the back of the hiker.",
+        "The air particles near the cliff stop vibrating and create a standing vacuum."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "An architect is designing a room specifically meant to produce clear echoes. Which wall design should be chosen?",
+      "options": [
+        "Smooth, flat walls that reflect sound in a regular direction.",
+        "Rough, irregular walls that scatter sound in many different directions.",
+        "Thick carpeted walls that absorb all vibrating air particles.",
+        "Soft foam walls that convert sound energy into heat instantly."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why do hard materials prevent sound waves from causing large vibrations within their structure?",
+      "options": [
+        "Hard materials contain no particles for sound to interact with.",
+        "Their particles are held together by strong forces, so sound waves cannot make them vibrate much.",
+        "Their particles are constantly moving so fast that sound waves cannot catch them.",
+        "Hard materials absorb all sound energy and store it as magnetic charge."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why do soft materials, like thick curtains or foam panels, absorb sound effectively?",
+      "options": [
+        "They reflect sound waves back and forth until the sound speeds up.",
+        "Sound waves transfer energy by making the particles in soft materials vibrate easily.",
+        "Soft materials create a vacuum that destroys air particles on contact.",
+        "Soft materials reflect sound at a 90 degree angle away from the listener."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Engineers want to reduce noise pollution near a busy highway passing next to a quiet library. Which pair of solutions uses the principles of sound reduction correctly?",
+      "options": [
+        "Place hard flat walls to reflect sound away from the library or soft planted hedges to absorb sound.",
+        "Cover the highway with smooth glass to scatter sound in all directions randomly.",
+        "Use soft curtains on the road surface to reflect sound back into the car tires.",
+        "Install hard steel barriers inside the library to absorb the room's sound vibrations."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "When drawing a ray diagram for a light ray bouncing off a flat mirror, what is the 'normal'?",
+      "options": [
+        "A line drawn parallel to the surface of the mirror along the light path.",
+        "An imaginary line drawn at 90 degrees to the mirror surface at the point of reflection.",
+        "The actual path that the light ray takes after hitting the mirror surface.",
+        "A line connecting the light source directly to the eye of the observer."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A student measures the angle between an incoming light ray and the surface of a mirror as 30 degrees. How should the angle of incidence be recorded?",
+      "options": [
+        "30 degrees, because it is measured between the light ray and the mirror surface.",
+        "60 degrees, because angles of incidence are measured relative to the normal line.",
+        "90 degrees, because the normal is always at a right angle to the mirror.",
+        "120 degrees, because it is the sum of the surface angle and the normal angle."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A ray of light strikes a flat mirror with an angle of incidence of 35 degrees relative to the normal. What will be the angle of reflection?",
+      "options": [
+        "35 degrees on the other side of the normal.",
+        "55 degrees on the same side of the normal.",
+        "70 degrees on the other side of the normal.",
+        "145 degrees measured from the mirror surface."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A person stands 2 meters in front of a flat plane mirror. Where does their reflected image appear to be located?",
+      "options": [
+        "2 meters behind the mirror, directly opposite the person.",
+        "Directly on the surface of the mirror.",
+        "1 meter in front of the mirror, halfway between person and mirror.",
+        "4 meters behind the mirror, due to double reflection."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A student holds up a card with the word 'PHYSICS' in front of a flat mirror. How does the image appear in the mirror?",
+      "options": [
+        "Inverted upside down, but letters read correctly from left to right.",
+        "Upright, but laterally inverted so left and right are swapped.",
+        "Upside down and laterally inverted at the same time.",
+        "Smaller in size and turned 90 degrees sideways."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A beam of light shines on two blocks: one made of clear glass and one made of solid wood. How do these materials interact with the light beam?",
+      "options": [
+        "Both glass and wood are opaque and reflect all light rays.",
+        "Glass is transparent and transmits light, while wood is opaque and does not transmit light.",
+        "Glass is opaque and absorbs light, while wood is transparent and transmits light.",
+        "Both glass and wood transmit light equally well into the shadow zone."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "When a cardboard cutout blocks light from a lamp, a dark shape is cast on the wall behind it. What is this dark shape and why does it form?",
+      "options": [
+        "An echo, formed because sound waves are absorbed by the cardboard.",
+        "A shadow, which is an unlit area formed because the opaque object blocks light travelling in straight lines.",
+        "A virtual image, formed because light reflects off the wall back into the lamp.",
+        "A spectrum, formed because the cardboard splits white light into colors."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A musician plucks a guitar string gently, then plucks the same string much harder. What changes about the sound produced and the vibration of the string?",
+      "options": [
+        "Harder plucking increases the frequency, producing a higher pitch sound.",
+        "Harder plucking increases the amplitude of vibration, producing a louder sound.",
+        "Harder plucking decreases the amplitude, producing a quieter sound.",
+        "Harder plucking decreases the frequency, producing a lower pitch sound."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Two tuning forks are struck. Fork A vibrates 256 times per second, while Fork B vibrates 512 times per second. How do the sounds compare?",
+      "options": [
+        "Fork B has a lower frequency and produces a lower pitched sound than Fork A.",
+        "Fork B has a higher frequency and produces a higher pitched sound than Fork A.",
+        "Fork B has a greater amplitude and produces a louder sound than Fork A.",
+        "Fork B has a smaller amplitude and produces a quieter sound than Fork A."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "A sound signal is transmitted through underwater pipes. Why does sound travel faster through water (a liquid) than through air (a gas)?",
+      "options": [
+        "Particles in liquid water are closer together than in air, so vibrations pass between them more easily.",
+        "Water particles are lighter than air particles, allowing them to fly across distances faster.",
+        "Gas particles have stronger forces holding them together than liquid particles.",
+        "Sound in air is made of light rays, which travel slower than mechanical vibrations in liquids."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Sound travels faster through a solid steel rod than through liquid water. Which particle explanation accounts for this?",
+      "options": [
+        "Steel has no particles, so sound travels without any resistance.",
+        "Steel particles are held by strong attractive forces, so many particles vibrate together when one vibrates.",
+        "Particles in solids do not vibrate at all, allowing sound waves to glide over them.",
+        "Liquid particles are fixed in rigid positions, blocking vibration transmission."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "A loudspeaker plays a loud bass note in a room. Which statement accurately describes what happens to the air particles between the speaker and a listener?",
+      "options": [
+        "Air particles travel continuously from the speaker across the room into the listener's ear.",
+        "The air particles pass vibrations to neighboring particles without the air particles themselves travelling across the room.",
+        "The air particles are sucked into a vacuum created by the speaker cone.",
+        "Air particles stop moving completely to allow the sound wave to flow past them."
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 36
