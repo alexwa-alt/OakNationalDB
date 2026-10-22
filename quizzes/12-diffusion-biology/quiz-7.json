@@ -1,0 +1,226 @@
+{
+  "unitKey": "12DiffusionBiology",
+  "generatedAt": "2026-10-22T14:10:57.153582+00:00",
+  "questions": [
+    {
+      "question": "Which property must a material possess for liquid particles to move through it via diffusion?",
+      "options": [
+        "It must be impermeable",
+        "It must be permeable",
+        "It must be magnetic",
+        "It must be non-porous"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When observing a liquid diffusing into a jelly cube, what happens over time?",
+      "options": [
+        "The liquid stays entirely on the outside surface",
+        "The liquid moves into the jelly cube gradually",
+        "The jelly cube instantly dissolves into gas",
+        "The liquid turns into a solid layer around the cube"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What effect does increasing the temperature have on the diffusion of a liquid into a jelly cube?",
+      "options": [
+        "It speeds up the rate of diffusion",
+        "It slows down the rate of diffusion",
+        "It stops diffusion from happening",
+        "It has no effect on the rate of diffusion"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How does the size of a jelly cube affect the time it takes for a liquid to diffuse to its centre?",
+      "options": [
+        "A smaller cube takes longer than a larger cube",
+        "A larger cube takes longer than a smaller cube",
+        "Cube size does not affect the time taken",
+        "Liquid can only diffuse into the largest cubes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Using particle theory, why does diffusion occur faster at higher temperatures?",
+      "options": [
+        "Particles gain kinetic energy and move faster",
+        "Particles become smaller and pass through faster",
+        "Particles stop colliding with one another",
+        "Particles join together to form large structures"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which particles can diffuse through a selectively-permeable membrane?",
+      "options": [
+        "Only particles that are large enough to fill the membrane",
+        "Only particles small enough to pass through the holes",
+        "All particles regardless of their size",
+        "No particles can pass through at all"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In what direction do particles move across a selectively-permeable membrane?",
+      "options": [
+        "Only from the outside to the inside",
+        "In both directions across the membrane",
+        "Only from lower concentration to higher concentration",
+        "They do not move at all once inside"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "If side X has a high concentration of small particles and side Y has a low concentration, what is the net movement?",
+      "options": [
+        "Net movement from side Y to side X",
+        "Net movement from side X to side Y",
+        "Zero particle movement in either direction",
+        "Net movement alternates every second"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "When observing Visking tubing containing starch and glucose placed in water, what net movement is observed?",
+      "options": [
+        "Starch moves out of the tubing into the water",
+        "Glucose moves out of the tubing into the water",
+        "Both starch and glucose move out at the same rate",
+        "Water moves out but no dissolved substances move"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why does glucose diffuse out of Visking tubing while starch remains inside?",
+      "options": [
+        "Glucose particles are small enough to pass through the holes, but starch particles are too large",
+        "Glucose is liquid while starch is solid",
+        "Starch particles are destroyed by the tubing material",
+        "Glucose is pushed out by magnetic forces"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What are cell cytoplasm and the substances inside it made of?",
+      "options": [
+        "Continuous fluids with no distinct structure",
+        "Particles",
+        "Air bubbles",
+        "Solid static crystals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How do particles of some substances enter and leave a cell?",
+      "options": [
+        "By passing through small holes in the cell membrane",
+        "By breaking down the cell membrane permanently",
+        "By turning into energy waves",
+        "By passing through the cell nucleus directly"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why can some substances NOT diffuse through the cell membrane?",
+      "options": [
+        "Their particles are too big to fit through the holes in the cell membrane",
+        "Their particles are too small to be noticed by the cell",
+        "They move too fast to enter the cell",
+        "They are repelled by the cell's cytoplasm"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why is the cell membrane described as selectively-permeable?",
+      "options": [
+        "It lets every substance pass through freely",
+        "It completely blocks all substances from entering",
+        "Only some substances can diffuse through its small holes",
+        "It only allows liquids to freeze on its surface"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is the net movement of particles across a cell membrane?",
+      "options": [
+        "Up a concentration gradient",
+        "Down a concentration gradient",
+        "Against a concentration gradient",
+        "In a fixed circular pattern"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How do particles behave as they diffuse in liquids or gases?",
+      "options": [
+        "They move in straight lines without colliding",
+        "They move in random directions and collide continuously",
+        "They stay completely still until pushed",
+        "They move in a single organized direction"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is the scientific definition of concentration?",
+      "options": [
+        "The total weight of a liquid or gas",
+        "The number of particles in a volume of liquid or gas",
+        "The speed of particles in a solution",
+        "The temperature of a given material"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What does it mean when particles move 'down a concentration gradient'?",
+      "options": [
+        "They move from lower concentration to higher concentration",
+        "They move from higher concentration to lower concentration",
+        "They move at a constant rate without changing position",
+        "They move only when energy is added to the system"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Why is diffusion defined as a 'passive' movement?",
+      "options": [
+        "Because it requires extra energy from the cell",
+        "Because it happens naturally without requiring energy input",
+        "Because it only happens in living organisms",
+        "Because it only occurs when solutions are heated"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which statement best defines diffusion?",
+      "options": [
+        "The active transport of particles against a concentration gradient",
+        "The passive movement of particles from higher to lower concentration",
+        "The process of turning liquids into gases through heating",
+        "The movement of water molecules only across a fully impermeable barrier"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    }
+  ]
+}

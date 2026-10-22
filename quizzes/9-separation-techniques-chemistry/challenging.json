@@ -1,6 +1,6 @@
 {
   "unitKey": "9Separation techniquesChemistry",
-  "generatedAt": "2026-09-11T12:54:40.976169+00:00",
+  "generatedAt": "2026-10-22T13:58:00.485686+00:00",
   "questions": [
     {
       "question": "A chemist performs chromatography on a sample of food dye and observes a single spot that has travelled up the paper. What can they conclude about the dye sample?",
@@ -881,6 +881,226 @@
       ],
       "correctAnswerIndex": 2,
       "learningPointIndex": 29
+    },
+    {
+      "question": "A scientist tests a unknown sample of dye using paper chromatography. After the solvent moves up the paper, only a single spot appears. What conclusion can be drawn about the sample?",
+      "options": [
+        "The sample is a mixture whose components all travelled at identical speeds.",
+        "The sample is a pure substance because pure substances produce only one spot on a chromatogram.",
+        "The experiment failed because a pure substance should produce no spots at all.",
+        "The solvent was incorrect, so no components were able to separate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "An ink sample is analyzed using paper chromatography and forms four distinct spots at different heights on the paper. What does this result indicate?",
+      "options": [
+        "The ink is a pure substance that split into different elements.",
+        "The ink is a mixture containing multiple components.",
+        "The ink contains only insoluble solid particles.",
+        "The pencil line reacted with the ink to create additional spots."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A technician compares a chromatogram of an unknown food coloring with chromatograms of four known dyes (A, B, C, and D). How can they determine if dye B is present in the unknown sample?",
+      "options": [
+        "Dye B is present if its spot travels higher than any spot in the unknown sample.",
+        "Dye B is present if one of the spots in the unknown sample matches the height and color of the spot for dye B.",
+        "Dye B is present if the unknown sample leaves a mark on the baseline.",
+        "Dye B is present if the solvent front stops earlier for dye B than for the unknown sample."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why must the starting line on chromatography paper be drawn in pencil rather than ink?",
+      "options": [
+        "Pencil graphite dissolves in water, helping the solvent move up the paper.",
+        "Pencil graphite is insoluble in water, so it will not dissolve and smudge up the paper.",
+        "Ink would absorb the solvent and stop it from reaching the test spots.",
+        "Pencil reacts chemically with the spots to anchor them to the baseline."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which separation method is specifically designed to separate a liquid mixture that contains only two distinct substances with different boiling points?",
+      "options": [
+        "Simple distillation",
+        "Paper chromatography",
+        "Filtration",
+        "Decanting with a separating funnel"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A liquid mixture contains four different hydrocarbon liquids with boiling points close to each other. Why is fractional distillation chosen instead of simple distillation?",
+      "options": [
+        "Simple distillation cannot separate liquids that are miscible.",
+        "Fractional distillation is required when separating mixtures of 3 or more substances or substances with similar boiling points.",
+        "Fractional distillation chemically alters the hydrocarbons before they evaporate.",
+        "Simple distillation causes all four liquids to evaporate at the exact same temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "During a distillation experiment, a student turns the burner to maximum heat, causing the liquid mixture to boil rapidly and violently. How does this affect the separation?",
+      "options": [
+        "Controlled boiling of individual components is lost, reducing the effectiveness of the separation.",
+        "The boiling points of the components permanently decrease.",
+        "Vapor is prevented from entering the condenser entirely.",
+        "The components break down into insoluble solids before evaporating."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "While distilling a liquid, the cooling water flow to the condenser is cut off, causing the condenser tube to warm up. What will happen as a result?",
+      "options": [
+        "Condensation will happen faster due to the increased heat.",
+        "The condenser becomes less effective and more gas will escape uncondensed.",
+        "The liquid in the distillation flask will immediately stop boiling.",
+        "The distillate collected will become contaminated with tap water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A student heats a copper sulfate solution until it becomes saturated, then allows it to cool. Which process reforms the dissolved solute into solid copper sulfate structures?",
+      "options": [
+        "Filtration",
+        "Crystallisation",
+        "Decanting",
+        "Distillation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Two students prepare salt crystals from identical saturated solutions. Student A leaves their dish on a windowsill to evaporate slowly over a week. Student B heats their dish strongly to evaporate the water in minutes. How will the resulting crystals compare?",
+      "options": [
+        "Student A will obtain larger crystals because slower evaporation allows larger crystals to form.",
+        "Student B will obtain larger crystals because rapid heating accelerates crystal growth.",
+        "Both students will obtain identical crystal sizes because size depends only on the solute.",
+        "Student A will obtain no crystals because slow evaporation prevents crystallization."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A waste management plant uses a large overhead magnet to sort metallic waste on a conveyor belt. Which material will be pulled out of the mixture by the magnet?",
+      "options": [
+        "Steel food cans",
+        "Aluminum drink cans",
+        "Copper electrical wires",
+        "Plastic containers"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A mixture contains fine chalk powder suspended in water. Which separation technique relies on trapping the insoluble solid while allowing the liquid to pass through?",
+      "options": [
+        "Evaporation",
+        "Filtration",
+        "Chromatography",
+        "Distillation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "When setting up a filtration apparatus, a student places a drop of water onto the filter paper inside the funnel. What is the primary purpose of doing this?",
+      "options": [
+        "To dissolve the paper slightly to reduce pore size.",
+        "To help keep the filter paper cone open and fitted against the funnel.",
+        "To act as a secondary solvent for insoluble particles.",
+        "To cool down hot liquids before they pass through."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Oil and water are poured into the same flask and left undisturbed for ten minutes. Two separate layers form. How are these liquids classified and arranged?",
+      "options": [
+        "They are miscible liquids, and the denser liquid floats on top.",
+        "They are immiscible liquids, and the less dense liquid floats above the other.",
+        "They are dissolved solutes that form a saturated solution.",
+        "They are pure substances undergoing spontaneous crystallisation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Ethanol and water are mixed in a sealed glass container and left to sit for several days. Unlike oil and water, no layers form over time. Why?",
+      "options": [
+        "Ethanol and water are miscible liquids, so they do not separate into layers when left.",
+        "Ethanol reacts chemically with water to form an insoluble solid.",
+        "Water evaporates rapidly, keeping the mixture uniform.",
+        "Miscible liquids only separate into layers if continuously stirred."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "How does fractional distillation successfully separate two miscible liquids like water and propanone?",
+      "options": [
+        "By taking advantage of differences in boiling points to separate them as they change state.",
+        "By filtering out the liquid with larger molecules through fine mesh paper.",
+        "By using magnetic attraction to separate polar molecules from non-polar ones.",
+        "By adding a chemical reagent that forces one liquid to crystallise."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A mixture consists of iron filings, sand, salt, and water. Why is a single separation technique insufficient to separate all four components?",
+      "options": [
+        "Multiple techniques are required when a mixture contains more than two components with different physical properties.",
+        "Single techniques can only separate liquid-liquid mixtures.",
+        "Iron filings destroy filter paper, requiring chemical treatment first.",
+        "Salt and water form a permanent compound that blocks physical separation."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "To obtain pure, dry sodium chloride crystals from a sample of crushed rock salt (a mixture of salt and insoluble rock), what is the correct order of steps?",
+      "options": [
+        "Filtration -> Crystallisation -> Making a solution",
+        "Making a solution -> Filtration -> Crystallisation",
+        "Crystallisation -> Making a solution -> Filtration",
+        "Distillation -> Magnetic separation -> Filtration"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "On what fundamental physical difference does distillation rely to separate a liquid solvent from a solution?",
+      "options": [
+        "One part of the solution has a different boiling point than the other part.",
+        "One component is magnetic while the other is non-magnetic.",
+        "One component has a larger particle size than the filter pores.",
+        "One component reacts with glass while the other remains inert."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "In a laboratory setup for distillation, cold water continuously flows through the outer jacket of a Liebig condenser. Why is keeping the condenser cold essential?",
+      "options": [
+        "It speeds up the condensation of the rising vapor back into a liquid.",
+        "It lowers the boiling point of the liquid in the heating flask.",
+        "It prevents the collected distillate from freezing into a solid.",
+        "It dissolves any uncondensed gas back into the cooling water."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
     }
   ]
 }
