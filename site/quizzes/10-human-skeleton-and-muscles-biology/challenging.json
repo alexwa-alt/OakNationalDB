@@ -1,6 +1,6 @@
 {
   "unitKey": "10Human skeleton and musclesBiology",
-  "generatedAt": "2026-09-12T12:14:53.019102+00:00",
+  "generatedAt": "2026-10-22T14:01:42.640645+00:00",
   "questions": [
     {
       "question": "When a muscle attached to a bone contracts, what direct physical consequence causes the bone to move?",
@@ -881,6 +881,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 7
+    },
+    {
+      "question": "When the biceps contracts, it pulls on the radius bone in the forearm. Which statement correctly describes how force causes this movement?",
+      "options": [
+        "The contracting biceps exerts a pushing force on the bone to move it away.",
+        "The contracting biceps exerts a pulling force on the bone, which makes the bone move.",
+        "The muscle exerts force only when it relaxes and expands.",
+        "The bone contracts to pull the muscle towards the joint."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A sports scientist measures how forces exerted by leg muscles cause movement at the hip and knee during a sprint. What is this branch of science called?",
+      "options": [
+        "Biomechanics",
+        "Ecology",
+        "Thermodynamics",
+        "Geology"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A person holds a heavy weight stationary in their hand with their elbow bent. Which term describes the turning effect of the muscle force acting around the elbow joint?",
+      "options": [
+        "Friction",
+        "Moment",
+        "Velocity",
+        "Pressure"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "The turning effect (moment) at a joint depends on force and distance from the pivot. If a muscle exerts a larger force at the same distance from a joint pivot, how does the moment change?",
+      "options": [
+        "The moment decreases because force and turning effect are inversely related.",
+        "The moment increases because the size of the moment depends on the force applied.",
+        "The moment remains exactly the same regardless of force changes.",
+        "The moment becomes zero because the joint locks."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which statement accurately describes what happens at a joint in the human skeleton?",
+      "options": [
+        "It is a location where two or more bones meet.",
+        "It is a specialized region where muscle tissue turns into bone.",
+        "It is the site where all red blood cells are destroyed.",
+        "It is an area where bones permanently fuse to block movement."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "How do muscles bring about movement in the human body?",
+      "options": [
+        "Muscles expand to push bones into new positions.",
+        "Muscles contract to exert a pulling force on bones, moving them.",
+        "Muscles secrete liquids that cause bones to slide independently.",
+        "Muscles stiffen without changing length to push joints open."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A student suggests that the triceps muscle pushes the forearm down to extend the arm. Why is this scientific description incorrect?",
+      "options": [
+        "Muscles can only pull by contracting and cannot push.",
+        "The triceps is a bone, not a muscle.",
+        "Muscles can only push when relaxing, not when extending.",
+        "The forearm moves only due to gravity, without muscle action."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "To bend and straighten the arm at the elbow, the biceps and triceps work as an antagonistic pair. How do they coordinate this action?",
+      "options": [
+        "Both muscles contract at the same time to pull the bone in opposite directions.",
+        "One muscle contracts to pull the bone in one direction while the other relaxes.",
+        "Both muscles relax simultaneously to push the bone forward.",
+        "One muscle pushes while the other muscle pulls."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which of the following is true regarding the presence of muscles in the human body?",
+      "options": [
+        "Muscles are present in the human body and are found attached to bones as well as within internal organs.",
+        "Muscles are found exclusively in the arms and legs.",
+        "The human body contains muscles only during childhood.",
+        "Muscles exist only around the heart and nowhere else in the body."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which description best defines muscle tissue?",
+      "options": [
+        "A non-living structure made of mineral salts.",
+        "A tissue made up of specialized cells that can contract.",
+        "A single giant cell that covers the entire skeleton.",
+        "A collection of fluid-filled sacs without cellular structure."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which state changes allow muscle tissue to produce controlled, repeated movement at a joint?",
+      "options": [
+        "Muscles can contract to shorten and exert force, and relax to return to resting length.",
+        "Muscles permanently shorten when activated and cannot relax.",
+        "Muscles expand to push bones and then freeze in place.",
+        "Muscles dissolve during movement and reform during rest."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Muscle cells require specific chemical inputs to contract during continuous physical activity. Which pair of substances is necessary?",
+      "options": [
+        "Carbon dioxide and water",
+        "Sugar and oxygen",
+        "Nitrogen and calcium carbonate",
+        "Hydrogen and iron"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which option correctly matches the three muscle types with their primary roles or locations?",
+      "options": [
+        "Cardiac muscle in the heart, smooth muscle in internal organs, skeletal muscle attached to bones.",
+        "Smooth muscle in the heart, skeletal muscle in internal organs, cardiac muscle attached to bones.",
+        "Skeletal muscle in the heart, cardiac muscle in blood vessels, smooth muscle attached to bones.",
+        "Cardiac muscle attached to bones, smooth muscle in the brain, skeletal muscle in the heart."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the human skeleton?",
+      "options": [
+        "A soft tissue sac surrounding the body.",
+        "An internal framework made up of bones.",
+        "A collection of muscular cords joined end to end.",
+        "A non-cellular shell covering the outside of the body."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is the correct scientific definition of a joint?",
+      "options": [
+        "A place where two or more bones meet.",
+        "The point where a muscle attaches to skin.",
+        "The fluid-filled center of a long bone.",
+        "A band of tissue that connects two muscles directly."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "The ribcage surrounds the heart and lungs, while the skull encloses the brain. Which major functions of the skeleton do these examples demonstrate?",
+      "options": [
+        "Producing digestive juices and storing fat",
+        "Supporting the body structure and protecting internal organs and tissues",
+        "Filtering blood and excreting waste products",
+        "Generating electrical signals to move muscles"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Why are bones classified as living tissue?",
+      "options": [
+        "They are made up of living cells that grow and repair.",
+        "They are filled with air pockets and do not contain cells.",
+        "They are composed entirely of non-living mineral crystals that never change.",
+        "They are made from dead skin cells compressed together."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "If a medical condition damages a person's bone marrow, which process in the body is directly impacted?",
+      "options": [
+        "The production of red and white blood cells",
+        "The contraction speed of cardiac muscle tissue",
+        "The creation of joint fluid at pivot points",
+        "The electrical conduction along nerve cells"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Because muscles can only pull and cannot push, how is a bone moved back to its original position after a muscle contracts?",
+      "options": [
+        "An antagonistic muscle contracts to exert a pulling force in the opposite direction.",
+        "The original muscle expands with force to push the bone back.",
+        "The bone expands automatically to force the muscle to relax.",
+        "Gravity is the only way a bone can ever return to its original position."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "When a person runs, their skeletal muscles contract repeatedly. Why do these muscles require a continuous supply of sugar and oxygen?",
+      "options": [
+        "Sugar and oxygen are required by muscle cells to contract.",
+        "Sugar and oxygen prevent bones from rubbing together at joints.",
+        "Sugar and oxygen turn skeletal muscle into smooth muscle during exercise.",
+        "Sugar and oxygen convert bone marrow into red blood cells during movement."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
     }
   ]
 }

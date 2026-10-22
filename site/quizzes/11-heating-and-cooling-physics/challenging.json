@@ -1,6 +1,6 @@
 {
   "unitKey": "11Heating and coolingPhysics",
-  "generatedAt": "2026-09-13T13:22:23.506718+00:00",
+  "generatedAt": "2026-10-22T14:03:23.909278+00:00",
   "questions": [
     {
       "question": "A metal spoon, a wooden block, and a woollen glove are placed on a table in a sealed room maintained at exactly 20 °C. After 48 hours, a student measures the temperature of each object using a contact thermometer. What will the thermometer readings show?",
@@ -881,6 +881,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 33
+    },
+    {
+      "question": "A wooden desk, a metal chair leg, and a plastic ruler have been in a classroom at 20 °C all weekend. Why does the metal chair leg feel colder to touch than the wooden desk?",
+      "options": [
+        "The metal chair leg is at a lower temperature than the wooden desk.",
+        "All objects are at 20 °C, but metal conducts energy away from the hand faster.",
+        "Wood absorbs heat from the room while metal rejects room temperature energy.",
+        "The plastic ruler and desk reached 20 °C, but metals take weeks to reach room temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When a copper sphere is heated in a flame, its volume increases slightly. What happens at the particle level to cause this expansion?",
+      "options": [
+        "The individual copper particles grow larger in size as they absorb heat.",
+        "The space between the copper particles increases as they vibrate more vigorously.",
+        "New copper particles are created inside the metal during heating.",
+        "The copper particles start sliding over each other and change into gas particles."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "An engineer leaves small gaps between section rails on a train track. How does heating explain the need for these gaps in hot summer weather?",
+      "options": [
+        "Heating causes the steel rails to expand as particles spread further apart.",
+        "Heating makes the steel rails shrink, so gaps allow them to stretch.",
+        "Heating increases the mass of the steel, requiring extra space.",
+        "Heating causes steel particles to double in length, filling the track."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A cup of hot tea sits on a table in a quiet room. What is happening to the average kinetic energy of the tea particles over time?",
+      "options": [
+        "Tea particles move faster as they absorb coldness from the surrounding room.",
+        "Tea particles begin to move less quickly as they transfer energy to air particles.",
+        "Tea particles maintain a constant speed while energy disappears into the surroundings.",
+        "Tea particles stop moving completely once the drink drops below 50 °C."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Two identical cups containing equal volumes of coffee are placed in a room at 20 °C. Cup A starts at 80 °C and Cup B starts at 40 °C. Which statement correctly compares their initial cooling rates?",
+      "options": [
+        "Cup B cools faster because it is already closer to room temperature.",
+        "Both cups cool at the exact same rate because they contain identical coffee.",
+        "Cup A cools faster because the temperature difference between it and the air is greater.",
+        "Cup A cools slower because higher temperature liquids hold onto thermal energy longer."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why do equal volumes of olive oil and water require different amounts of energy to change temperature by 10 °C?",
+      "options": [
+        "The mass of particles and the attractive forces between them differ between substances.",
+        "Water particles are identical to oil particles, but water contains trapped air.",
+        "Oil particles do not move when heated, whereas water particles move constantly.",
+        "The temperature scale measures water differently than it measures olive oil."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A scientist heats 1 kg of iron and 1 kg of aluminum using identical heaters providing energy at the same rate. Why does the iron reach 50 °C faster than the aluminum?",
+      "options": [
+        "Iron particles do not vibrate when heated.",
+        "Aluminum reflects heat, preventing its temperature from rising.",
+        "Different substances need different amounts of heating to reach the same temperature.",
+        "Iron is a liquid at room temperature, making energy transfer faster."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Block X and Block Y are different materials with identical mass and temperature (80 °C). Each is placed into identical 100 g samples of cold water (15 °C). Why might Block X cause the water to reach a higher final temperature than Block Y?",
+      "options": [
+        "The same amount of different materials at the same temperature can cause different amounts of heating.",
+        "Block X was larger in volume, so its temperature must have been higher than 80 °C.",
+        "Block Y absorbed cold from the water, lowering the overall energy of the mixture.",
+        "Only metals can transfer energy into water, so if Block Y is non-metal it transfers zero energy."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Substance A has a specific heat capacity of 4200 J/kg°C, while Substance B has a specific heat capacity of 900 J/kg°C. What does this mean for 1 kg samples of each substance at 50 °C?",
+      "options": [
+        "Substance A has more energy in its thermal store than Substance B at that temperature.",
+        "Substance B contains more energy because its lower specific heat capacity compresses energy.",
+        "Both 1 kg samples contain the exact same thermal store energy because their temperatures match.",
+        "Substance A will cool down to 0 °C much faster than Substance B under identical conditions."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In which state of matter do particles move or vibrate in completely random directions?",
+      "options": [
+        "Gases only, because solid and liquid particles move in fixed orderly tracks.",
+        "Liquids and gases only, because solid particles remain entirely stationary.",
+        "Solids, liquids, and gases all exhibit random particle movement or vibration directions.",
+        "None, because thermal movement always flows from left to right."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Two identical solid copper spheres, Sphere P and Sphere Q, have the exact same mass. Sphere P is at 70 °C and Sphere Q is at 30 °C. Which statement is correct?",
+      "options": [
+        "Sphere Q has more energy in its thermal store because cooler particles are tightly bound.",
+        "Sphere P has more energy in its thermal store because it is at a higher temperature.",
+        "Both spheres store equal energy because they have identical mass and material.",
+        "Sphere P has less energy because heating destroys mass inside the copper."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Container A holds 500 g of pure water at 40 °C, and Container B holds 100 g of pure water at 40 °C. Which container has more energy in its thermal store?",
+      "options": [
+        "Container B, because energy is more concentrated in a smaller mass of water.",
+        "Both containers have equal energy because their temperatures are identical.",
+        "Container A, because it has more particles of the same substance at that temperature.",
+        "Neither container stores energy, as water must be boiling to store thermal energy."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A student measures the temperature of a liquid using a glass liquid-in-glass thermometer. Which technique avoids parallax error when reading the scale?",
+      "options": [
+        "Looking down at the thermometer from above the beaker.",
+        "Placing the eye level with the top of the coloured liquid column.",
+        "Holding the thermometer at a 45-degree angle away from the face.",
+        "Removing the thermometer from the liquid and resting it horizontally on the desk."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A student mixes 100 cm³ of water at 80 °C with 100 cm³ of water at 20 °C in an insulated beaker. What can be predicted about the final temperature of the mixture?",
+      "options": [
+        "It will be higher than 80 °C because mixing generates friction energy.",
+        "It will be lower than 20 °C as the cold water cools down the hot water below its starting temperature.",
+        "It will be 0 °C because hot and cold cancel each other out completely.",
+        "It will be cooler than 80 °C and warmer than 20 °C."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "You mix 400 cm³ of water at 90 °C with 100 cm³ of water at 20 °C. Which statement best describes the resulting mixture temperature?",
+      "options": [
+        "It will be exactly 55 °C, right halfway between 90 °C and 20 °C regardless of volume.",
+        "It will be closer to 90 °C because there was a greater volume of the hot water.",
+        "It will be closer to 20 °C because cold water dominates thermal mixing.",
+        "It will be 110 °C because you add the temperatures of both volumes together."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "A cold steel spoon at 5 °C is plunged into a mug of hot soup at 80 °C. What happens to the particle motion in the soup and the spoon?",
+      "options": [
+        "Soup particles move faster and spoon particles move slower.",
+        "Soup particles move slower and spoon particles move more quickly.",
+        "Particles in both the soup and spoon start moving slower immediately.",
+        "Particles in both the soup and spoon start moving faster immediately."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why does energy transfer through a solid copper rod faster than through a wooden rod when one end of each is heated?",
+      "options": [
+        "In copper, vibrating particles quickly cause neighboring particles to vibrate as well.",
+        "Copper particles travel from the hot end to the cold end of the rod.",
+        "Wood contains no particles, so vibration transfer is impossible.",
+        "Copper particles contract and create a vacuum that pulls heat along the rod."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Why is plastic considered an effective thermal insulator compared to aluminum?",
+      "options": [
+        "Plastic contains free particles that carry coldness rapidly through the material.",
+        "In plastic, it is hard for vibrating particles to cause neighboring particles to vibrate as well.",
+        "Plastic particles do not vibrate at all, even when heated to high temperatures.",
+        "Aluminum particles do not touch each other, preventing thermal conduction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Double-glazed windows feature a layer of trapped air between two glass panes. Why does this design reduce heat loss from a house?",
+      "options": [
+        "Trapped air forms a solid lattice that blocks heat from moving by convection.",
+        "Trapped air provides good insulation because gases are very poor thermal conductors.",
+        "Air molecules absorb all incoming heat and destroy it before it reaches the outer glass.",
+        "Glass actively conducts cold into the trapped air, which converts it into warm air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "An insulated box is used to carry ice cream on a sunny day. A student claims the same box can keep soup hot during winter. Is the student correct, and why?",
+      "options": [
+        "No, because insulators only keep hot things hot and cannot affect cold objects.",
+        "No, because insulators generate heat energy, which would melt the ice cream instantly.",
+        "Yes, because wrapping an object in an insulator keeps a hot object warm and a cold object cool.",
+        "Yes, because the insulator converts cold thermal energy into hot thermal energy automatically."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 34
     }
   ]
 }
