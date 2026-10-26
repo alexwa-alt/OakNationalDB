@@ -1,0 +1,226 @@
+{
+  "unitKey": "3BiodiversityBiology",
+  "generatedAt": "2026-10-26T15:37:13.278054+00:00",
+  "questions": [
+    {
+      "question": "Why do animals have adaptations?",
+      "options": [
+        "To reduce the total gene pool",
+        "To prevent decomposers from recycling nutrients",
+        "To help them survive in their environment",
+        "To eliminate producers from food chains"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which feature is an example of a physical adaptation in animals?",
+      "options": [
+        "Being nocturnal",
+        "Thick fur",
+        "Migrating south in winter",
+        "Hibernating through winter"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which of the following is an example of a behavioural adaptation in animals?",
+      "options": [
+        "Thick fur",
+        "Sharp claws",
+        "Being nocturnal",
+        "Shallow roots"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why is maintaining biodiversity important in an ecosystem?",
+      "options": [
+        "It helps to maintain healthy habitats.",
+        "It eliminates the need for producers.",
+        "It reduces the size of all gene pools.",
+        "It stops the flow of energy through food chains."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is meant by the term 'gene pool'?",
+      "options": [
+        "The total biomass at the bottom of a pyramid",
+        "The range of DNA in a species",
+        "The physical surroundings of an ecosystem",
+        "A non-living component of a habitat"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which set of methods can be used to maintain biodiversity?",
+      "options": [
+        "Conservation, protection and gene banks",
+        "Deforestation, urbanisation and sampling",
+        "Random sampling, bias and harvesting",
+        "Interdependence, biomass and decay"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why do scientists use sampling methods to estimate population sizes in an area?",
+      "options": [
+        "Because quadrats can only measure biomass",
+        "Because it would be impossible to count all the organisms",
+        "Because sampling stops environmental change",
+        "Because classification keys require sampling first"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What are quadrats used to sample?",
+      "options": [
+        "Fast-flying birds",
+        "Large swimming fish",
+        "Plants or slow-moving animals",
+        "Substances recycled by decomposers"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why is most sampling with quadrats carried out randomly?",
+      "options": [
+        "To avoid bias in your results",
+        "To increase the biomass of the area",
+        "To count every single organism",
+        "To change the physical environment"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What can classification keys be used for?",
+      "options": [
+        "To estimate total biomass",
+        "To identify different species",
+        "To store gene pools safely",
+        "To measure sunlight levels"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What makes up an ecosystem?",
+      "options": [
+        "Only the non-living surroundings in a given area",
+        "A community of organisms interacting with each other and their non-living surroundings",
+        "A single species living in isolation",
+        "Only the producers in a food chain"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Why are organisms in an ecosystem described as interdependent?",
+      "options": [
+        "They all have identical physical adaptations.",
+        "They do not interact with non-living surroundings.",
+        "They depend upon each other for the things they need to survive.",
+        "They produce their own biomass without energy."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why do all organisms in a food chain depend upon producers?",
+      "options": [
+        "To break down dead material",
+        "To avoid random sampling",
+        "To make the food that moves through food chains",
+        "To provide a range of DNA"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What vital role do decomposers play for all living organisms?",
+      "options": [
+        "They make food using sunlight.",
+        "They break down dead organisms and recycle useful substances for reuse.",
+        "They act as producers at the bottom of food chains.",
+        "They prevent adaptations from developing."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What is biodiversity?",
+      "options": [
+        "A measure of the range of living organisms",
+        "The total mass of non-living surroundings",
+        "The movement of light towards plants",
+        "The total number of food chains in a quadrat"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which of these is a physical adaptation in plants used to deter consumers?",
+      "options": [
+        "Growing towards light",
+        "Being nocturnal",
+        "The presence of spines",
+        "Recycling dead material"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which of the following is an example of a behavioural adaptation in plants?",
+      "options": [
+        "Having deep roots",
+        "Growing towards light",
+        "Having sharp spines",
+        "Having thick bark"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What is biomass?",
+      "options": [
+        "The number of species identified with a key",
+        "The mass of living material in one or more organisms",
+        "The range of DNA present in a population",
+        "The non-living surroundings of an organism"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "What do pyramids of biomass show?",
+      "options": [
+        "The number of dead organisms broken down by decomposers",
+        "The range of DNA found across different species",
+        "The biomass of organisms at each stage in a food chain",
+        "The speed at which plants grow towards light"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Where is the producer located in a pyramid of biomass?",
+      "options": [
+        "At the top",
+        "In the middle",
+        "At the bottom",
+        "Outside the pyramid"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 29
+    }
+  ]
+}

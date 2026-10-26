@@ -1,6 +1,6 @@
 {
   "unitKey": "1Human digestive systemBiology",
-  "generatedAt": "2026-09-16T13:36:17.289118+00:00",
+  "generatedAt": "2026-10-26T15:36:17.439382+00:00",
   "questions": [
     {
       "question": "Why must large molecules like proteins and fats be broken down during digestion?",
@@ -661,6 +661,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 3
+    },
+    {
+      "question": "Why must large molecules such as starch and proteins undergo digestion before they can be utilized by body cells?",
+      "options": [
+        "Large molecules are toxic to blood cells if left intact.",
+        "Large molecules cannot cross the gut lining into the bloodstream because of their size.",
+        "Large molecules are converted into energy directly inside the stomach.",
+        "Large molecules are excreted immediately if they are not converted to fats."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Once nutrients pass through the wall of the small intestine, how are they delivered to distant cells such as brain or muscle cells?",
+      "options": [
+        "They diffuse directly through solid tissues from the gut to the brain.",
+        "They are pumped through specialized air tubes that run alongside nerves.",
+        "They enter the blood, which circulates them throughout the entire body.",
+        "They are carried inside undigested food particles moving through lymph nodes."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which process describes how small digested nutrient molecules move down a concentration gradient across the wall of the small intestine into the blood?",
+      "options": [
+        "Diffusion",
+        "Mechanical mixing",
+        "Active ingestion",
+        "Neutralization"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "The lining of the small intestine features millions of microscopic finger-like projections called villi. How does this structural feature enhance absorption?",
+      "options": [
+        "It decreases the movement speed of blood to allow slower absorption.",
+        "It dramatically increases the surface area available for nutrient movement into blood.",
+        "It secretes thick mucus to trap nutrient molecules permanently.",
+        "It prevents small molecules from leaving the digestive tract."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which statement accurately describes bacteria found within the human body?",
+      "options": [
+        "They are non-living chemical structures produced by human liver cells.",
+        "They are multicellular organisms containing complex tissues and organs.",
+        "They are living microorganisms, each consisting of a single living cell.",
+        "They are viruses that require human cell nuclei to reproduce."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why is it incorrect to assume that all bacteria entering the digestive system cause illness?",
+      "options": [
+        "All bacteria are destroyed by saliva before reaching the stomach.",
+        "Many bacteria are completely harmless or beneficial, while only pathogens cause disease.",
+        "Bacteria cannot survive in the human body due to high internal temperatures.",
+        "Pathogenic bacteria only infect the respiratory system, not the digestive tract."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Where in the human digestive system do large populations of helpful bacteria normally reside?",
+      "options": [
+        "Inside the gallbladder",
+        "Inside the digestive canal, particularly the intestines",
+        "Inside the salivary glands",
+        "Inside the stomach acid lining"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "How do helpful intestinal bacteria assist human nutrition with food components that human enzymes cannot break down?",
+      "options": [
+        "They release enzymes that digest complex food molecules we cannot digest ourselves.",
+        "They convert all undigested fibre directly into hydrochloric acid.",
+        "They absorb non-digestible fibre and store it permanently in the liver.",
+        "They transform undigested food into protein molecules inside the stomach."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How do resident beneficial gut bacteria help protect the human body against incoming disease-causing pathogens?",
+      "options": [
+        "By producing white blood cells directly in the gut lumen",
+        "By competing with pathogens for space and resources in the digestive system",
+        "By neutralizing stomach acid so pathogens cannot multiply",
+        "By absorbing pathogens into human body cells for destruction"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which option correctly pairs a type of digestion with its description and location?",
+      "options": [
+        "Chemical digestion physically crushes food in the stomach; mechanical digestion breaks bonds using enzymes in the mouth.",
+        "Mechanical digestion physically breaks food into smaller pieces in the mouth; chemical digestion breaks chemical bonds using enzymes in the intestine.",
+        "Mechanical digestion uses enzymes in the liver; chemical digestion uses teeth in the mouth.",
+        "Chemical digestion occurs only in the large intestine; mechanical digestion occurs only in the blood."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A meal contains lean meat, olive oil, and rice. Which principal food molecule groups are provided by these three items respectively?",
+      "options": [
+        "Proteins, fats, and carbohydrates",
+        "Carbohydrates, proteins, and fats",
+        "Fats, carbohydrates, and proteins",
+        "Proteins, carbohydrates, and fats"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What is the primary role of digestive enzymes during the process of chemical digestion?",
+      "options": [
+        "They act as biological catalysts that speed up the chemical breakdown of food molecules.",
+        "They provide energy directly to mechanical muscles grinding the food.",
+        "They act as chemical reagents to change the colour of absorbed nutrients.",
+        "They raise body temperature to burn large food particles."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When fats (lipids) are chemically digested by enzymes, which combination of smaller molecules is produced?",
+      "options": [
+        "Simple sugars and starch",
+        "Amino acids and glucose",
+        "Fatty acids and glycerol",
+        "Proteins and nucleic acids"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A scientist adds Biuret reagent to a homogenized food sample. The solution turns from light blue to purple. What does this result confirm?",
+      "options": [
+        "The sample contains starch.",
+        "The sample contains reducing sugars.",
+        "The sample contains fat.",
+        "The sample contains protein."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which chemical reagent is used to test for small sugar molecules produced from starch breakdown, and what condition is required for the test?",
+      "options": [
+        "Iodine solution, requiring cold ice bath",
+        "Benedict's reagent, requiring heating in a water bath",
+        "Biuret reagent, requiring bright sunlight",
+        "Ethanol emulsion, requiring vigorous boiling"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A food sample tested with Iodine solution remains orange-brown, Benedict's reagent turns from blue to brick-red when heated, and Biuret reagent remains blue. What can be concluded?",
+      "options": [
+        "Starch and protein are present, but sugar is absent.",
+        "Sugar is present, but starch and protein are absent.",
+        "Protein and sugar are present, but starch is absent.",
+        "Starch is present, but sugar and protein are absent."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which sequence correctly traces the main pathway of food as it moves through the human digestive tract?",
+      "options": [
+        "Mouth -> Oesophagus -> Stomach -> Small intestine -> Large intestine",
+        "Mouth -> Stomach -> Oesophagus -> Large intestine -> Small intestine",
+        "Oesophagus -> Mouth -> Small intestine -> Stomach -> Large intestine",
+        "Mouth -> Small intestine -> Stomach -> Oesophagus -> Large intestine"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How is the stomach adapted to carry out its specific digestive functions?",
+      "options": [
+        "It produces bile to neutralize acids and emulsify large fat droplets.",
+        "It has muscular walls to churn food and produces acid and enzymes to break down protein.",
+        "It absorbs all water and mineral salts directly into the blood without enzymes.",
+        "It uses villi to absorb glucose directly into the lymphatic system."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What ultimately happens to components of swallowed food, such as dietary fibre, that human enzymes and gut bacteria cannot digest?",
+      "options": [
+        "They are absorbed into the blood and filtered out by the kidneys.",
+        "They are converted into glucose by liver enzymes.",
+        "They pass through the digestive system and exit the body as faeces.",
+        "They remain permanently in the stomach to assist mechanical grinding."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "During complete chemical digestion, into which simple building blocks are protein molecules broken down?",
+      "options": [
+        "Glycerol molecules",
+        "Amino acids",
+        "Fatty acids",
+        "Maltose and starch"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
     }
   ]
 }

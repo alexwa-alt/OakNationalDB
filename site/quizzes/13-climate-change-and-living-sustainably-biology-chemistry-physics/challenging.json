@@ -1,6 +1,6 @@
 {
   "unitKey": "13Climate change and living sustainablyBiologyChemistryPhysics",
-  "generatedAt": "2026-09-15T13:42:45.902785+00:00",
+  "generatedAt": "2026-10-26T15:27:18.758948+00:00",
   "questions": [
     {
       "question": "Which of the following observations is an example of climate rather than weather?",
@@ -660,6 +660,226 @@
         "To keep resources locked away in nature without ever harvesting them for human use."
       ],
       "correctAnswerIndex": 0,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "A student measures the temperature and rainfall in their town over two weeks and claims this data defines the town's climate. Why is this claim scientifically incorrect?",
+      "options": [
+        "Climate refers to daily atmospheric changes measured over a single season.",
+        "Climate is the average weather conditions for a particular location over a long period of time.",
+        "Climate only measures wind speed and atmospheric pressure, ignoring rain.",
+        "Weather conditions cannot be measured quantitatively over short periods."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What direct effect does global climate change have on global atmospheric weather patterns?",
+      "options": [
+        "An increase in the frequency of extreme weather events such as droughts, storms, and floods.",
+        "A complete stabilization of seasonal temperatures across all continents.",
+        "A reduction in tropical storm intensity due to uniform ocean temperatures.",
+        "An equal distribution of annual rainfall across all landmasses."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "According to climate projections and historical data, what trend is predicted as average global temperatures continue to rise?",
+      "options": [
+        "A decline in severe atmospheric events as temperatures equalize.",
+        "An increased frequency of extreme weather events with increasing global temperature.",
+        "No measurable shift in the occurrence of droughts or heavy precipitation.",
+        "Extreme weather events occurring exclusively in polar regions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When assessing the complete carbon footprint of a food product like bread, which sequence of stages must be accounted for?",
+      "options": [
+        "Only the diesel consumed by tractors during crop harvesting.",
+        "Land-use change, farming, processing, transport, retail, and packaging.",
+        "Only the electricity used by domestic ovens during final cooking.",
+        "The energy expended during retail display and consumer transport only."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why do meat products and plant-based foods generally differ in their overall environmental impact?",
+      "options": [
+        "Meat production releases no greenhouse gases because livestock absorb carbon during growth.",
+        "Plant-based products require fossil fuel heating to grow outdoors in all climates.",
+        "Meat and plant-based products have different carbon footprints due to varying resource demands and emissions.",
+        "Plant-based foods emit higher methane levels than livestock farming."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which set of consumer choices provides an effective strategy for lowering food-related greenhouse gas emissions?",
+      "options": [
+        "Increasing consumption of red meat while choosing heavily packaged goods.",
+        "Making dietary changes and reducing the amount of food wasted.",
+        "Selecting air-freighted out-of-season produce over local crops.",
+        "Sending excess food waste to landfill sites instead of composting."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What key pattern do recorded surface temperature data demonstrate over the past century?",
+      "options": [
+        "A steady, linear cooling trend across all major continents.",
+        "An unusual, rapid increase in the Earth's average surface temperature.",
+        "Fluctuations that remain strictly within historical natural boundaries.",
+        "A rapid warming of the deep oceans balanced by atmospheric cooling."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Graphs tracking global surface temperatures and atmospheric greenhouse gas concentrations over the last 150 years show parallel upward trends. What does this relationship illustrate?",
+      "options": [
+        "A correlation between data showing increasing temperature and data showing increasing greenhouse gas emissions.",
+        "Proof that rising temperatures cause atmospheric greenhouse gas levels to drop.",
+        "An inverse relationship where greenhouse gas emissions cool the lower atmosphere.",
+        "That atmospheric gas levels operate completely independently of surface temperatures."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the consensus among the vast majority of climate scientists regarding the primary driver of recent global warming?",
+      "options": [
+        "Natural variations in solar output are the dominant cause of current warming.",
+        "Emissions of greenhouse gases from human activities are increasing the greenhouse effect, causing global warming.",
+        "Volcanic eruptions account for almost all modern greenhouse gas increases.",
+        "Industrial emissions absorb thermal energy, cooling the lower troposphere."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How does installing effective thermal insulation in the walls and roof of a house alter its energy usage?",
+      "options": [
+        "Thermal insulators reduce the energy needed to heat a building by slowing heat transfer.",
+        "Thermal insulators actively generate extra heat energy, replacing central heating systems.",
+        "Thermal insulators increase the rate of energy transfer out of the building.",
+        "Thermal insulators cool the inside air during winter by reflecting ambient room heat."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A homeowner wants to heat their home using only renewable energy resources like heat pumps or solar thermal collectors. How does improving insulation aid this transition?",
+      "options": [
+        "Insulation converts surplus heat energy directly into stored biomass.",
+        "Improving a building's insulation makes it easier to heat it using only renewable resources by lowering total energy demand.",
+        "Insulation increases the maximum heat output required from renewable systems.",
+        "Insulation prevents renewable equipment from experiencing mechanical wear."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What is the main energy-saving advantage of installing thermostatic controls in individual rooms of a building?",
+      "options": [
+        "They continuously burn small reserves of fuel to warm room air independently.",
+        "Thermostats can control temperature automatically in different rooms and help reduce unnecessary heating.",
+        "They lock all windows automatically when the indoor temperature drops.",
+        "They force the central boiler to run continuously at maximum capacity."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "On a cold winter day (-5 °C outside), a room is maintained at 20 °C. If the thermostat is adjusted to raise the room temperature to 25 °C while the outside temperature remains -5 °C, how does the rate of heat loss change?",
+      "options": [
+        "The rate of heat loss decreases because higher indoor temperatures resist cold air.",
+        "The greater the temperature difference between inside and outside, the faster the house cools down.",
+        "The rate of heat loss remains unchanged because insulation limits heat transfer independently of temperature difference.",
+        "Heat transfer stops entirely once the internal temperature exceeds 24 °C."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How does strategic tree and shrub planting around a residential house affect the local temperature immediately outside its walls?",
+      "options": [
+        "It decreases the outside temperature on cold days and increases it on hot days.",
+        "Planting near a house increases the outside temperature on cold days and decreases it on hot days.",
+        "It creates a permanent freezing microclimate around the foundation wall.",
+        "It has no measurable effect on microclimate temperature throughout the year."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why are resources such as wind and solar radiation classified as renewable energy sources?",
+      "options": [
+        "They are non-depleting because they exist in infinite underground reserves.",
+        "Renewable resources do not run out because they are replenished faster than they are used up.",
+        "They release oxygen when harnessed, offsetting carbon emissions.",
+        "They are consumed completely during energy generation but reform instantly as fossil fuels."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Under what condition can timber harvested from forests be considered a renewable resource?",
+      "options": [
+        "Wood is always naturally renewable regardless of how rapidly trees are logged.",
+        "Wood is only renewable if it is used sustainably so that new trees grow at least as fast as timber is consumed.",
+        "Wood becomes non-renewable as soon as it is processed into building materials.",
+        "Wood is non-renewable because growing trees extract nutrient reserves from the soil permanently."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A city aims to convert its entire public transit fleet to a fully sustainable model. Why must vehicles using standard petrol or diesel fuel be excluded?",
+      "options": [
+        "Petrol engines release cool vapor that destabilizes local urban microclimates.",
+        "We cannot have sustainable transport that uses petrol or diesel fuel due to resource depletion and carbon emissions.",
+        "Diesel fuel is a completely renewable biofuel that produces no atmospheric waste.",
+        "Sustainable transport systems are legally defined as those operating exclusively on elevated tracks."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Why is the Earth's natural greenhouse effect essential for supporting life on the planet?",
+      "options": [
+        "It reflects all incoming solar radiation back into space to keep the Earth cold.",
+        "A natural greenhouse effect maintains an optimal temperature range for life on Earth.",
+        "It traps toxic gases in the upper atmosphere to prevent them from reaching the surface.",
+        "It prevents atmospheric oxygen from escaping by creating a physical barrier."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "How does sending municipal waste to landfill sites or incinerators contribute to climate change?",
+      "options": [
+        "Landfills absorb carbon dioxide from the surrounding environment, causing local cooling.",
+        "Waste sent to incinerators or landfill sites acts as a source of greenhouse gases.",
+        "Incineration transforms all non-recyclable materials into renewable geothermal energy.",
+        "Landfill sites seal organic waste permanently, preventing any gas formation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What is the primary long-term purpose of practicing sustainable resource management?",
+      "options": [
+        "To maximize immediate resource extraction for current industrial output.",
+        "Sustainable use of resources helps ensure that they are available for future generations.",
+        "To eliminate all manufacturing costs within commercial supply chains.",
+        "To replace all natural materials with synthetic petroleum derivatives."
+      ],
+      "correctAnswerIndex": 1,
       "learningPointIndex": 31
     }
   ]

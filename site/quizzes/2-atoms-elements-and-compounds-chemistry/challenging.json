@@ -1,6 +1,6 @@
 {
   "unitKey": "2Atoms, elements and compoundsChemistry",
-  "generatedAt": "2026-09-17T13:37:29.102011+00:00",
+  "generatedAt": "2026-10-26T15:36:45.206959+00:00",
   "questions": [
     {
       "question": "During a reaction, methane gas burns in oxygen to form carbon dioxide and water. If we analyze the atoms before and after the reaction, what must be true about the total collection of atoms?",
@@ -881,6 +881,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 31
+    },
+    {
+      "question": "In the reaction where zinc reacts with hydrochloric acid to produce zinc chloride and hydrogen gas, which substances are the reactants?",
+      "options": [
+        "Zinc chloride and hydrogen",
+        "Zinc and hydrochloric acid",
+        "Hydrochloric acid and zinc chloride",
+        "Zinc and hydrogen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When coal burns in air, carbon dioxide and water vapor are formed. What term is used to describe carbon dioxide and water vapor in this process?",
+      "options": [
+        "Reactants",
+        "Elements",
+        "Products",
+        "Catalysts"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "When methane (CH4) reacts completely with oxygen (O2) to form carbon dioxide (CO2) and water (H2O), what is true about the total number and types of atoms present?",
+      "options": [
+        "New atoms are created during the reaction to make the products.",
+        "The products contain the exact same atoms as the reactants, rearranged.",
+        "Some atoms are destroyed, leaving fewer atoms in the products.",
+        "The atoms in the products change into different elements."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "During a chemical reaction between iron and sulfur to form iron sulfide, how do the atoms in the reactants compare to those in the product?",
+      "options": [
+        "The iron and sulfur atoms fuse to form a completely new type of atom.",
+        "The iron and sulfur atoms remain unbonded and identical in arrangement.",
+        "The same iron and sulfur atoms are present, but they are now bonded differently.",
+        "The sulfur atoms are replaced by oxygen atoms from the surrounding air."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which description accurately reflects John Dalton's early atomic model?",
+      "options": [
+        "An atom is a solid sphere that cannot be broken down into smaller parts.",
+        "An atom is a sphere containing smaller negative particles embedded inside it.",
+        "An atom consists of a dense central nucleus surrounded by orbiting electrons.",
+        "An atom is a soft cloud of charge that reshapes during chemical bonding."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "The chemical formula for aluminium sulfate is Al2(SO4)3. How many total oxygen atoms are represented in one formula unit of this compound?",
+      "options": [
+        "4",
+        "7",
+        "12",
+        "14"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Carbon monoxide (CO) and carbon dioxide (CO2) are both gases composed of carbon and oxygen. What explains why they are distinct compounds?",
+      "options": [
+        "They are made of completely different elements.",
+        "They contain the same elements combined in different numerical ratios.",
+        "Carbon monoxide is an element, whereas carbon dioxide is a compound.",
+        "Carbon dioxide is a mixture of carbon monoxide and oxygen gas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "An unknown element X is shiny, brittle, and conducts electricity moderately well, but not as well as copper. How should X be classified?",
+      "options": [
+        "Metal",
+        "Non-metal",
+        "Metalloid",
+        "Noble gas"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Sodium is a soft, highly reactive metal and chlorine is a toxic green gas. When reacted, they form sodium chloride (table salt), a safe edible solid. What does this demonstrate?",
+      "options": [
+        "A compound always shares the average physical properties of its elements.",
+        "A compound can have entirely different properties from its constituent elements.",
+        "Chemical reactions destroy the atoms of the reacting elements permanently.",
+        "Sodium chloride is a mixture, so its properties change easily."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Although non-metals are typically poor conductors of electricity and heat, which substance is a non-metal that conducts both very well?",
+      "options": [
+        "Sulfur",
+        "Graphite",
+        "Diamond",
+        "Phosphorus"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Where on the periodic table are non-metal elements primarily located?",
+      "options": [
+        "On the left side",
+        "In the middle section",
+        "On the right side",
+        "Along the bottom row only"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Nitrogen gas exists in the air as pairs of nitrogen atoms chemically bonded together (N2). Which term best describes this structure?",
+      "options": [
+        "Monatomic atom",
+        "Diatomic molecule",
+        "Metalloid lattice",
+        "Metal carbonate"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Helium and neon are found in the far right-hand column of the periodic table. How do these noble gases exist as pure substances?",
+      "options": [
+        "As diatomic molecules containing two bonded atoms",
+        "As giant lattice structures held by covalent bonds",
+        "As single, individual unbonded atoms (monatomic)",
+        "As polymer chains attached to carbon atoms"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "When magnesium metal reacts chemically with nitrogen gas, what is the name of the binary compound formed?",
+      "options": [
+        "Magnesium nitrate",
+        "Magnesium nitride",
+        "Magnesium nitrogenate",
+        "Magnesium sulfate"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Calcium carbonate is a common substance in chalk and limestone. Which chemical group is bonded to calcium in this compound?",
+      "options": [
+        "-NO3",
+        "-SO4",
+        "-CO3",
+        "-OH"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Copper sulfate forms bright blue crystals. Which group of atoms is chemically bonded to copper in copper sulfate?",
+      "options": [
+        "-CO3",
+        "-SO4",
+        "-NO3",
+        "-Cl2"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Potassium nitrate is a compound commonly used in plant fertilizers. Which atomic group is attached to potassium in a metal nitrate?",
+      "options": [
+        "-NO3",
+        "-CO3",
+        "-SO4",
+        "-PO4"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "A pure substance melts at exactly 1085 degrees Celsius and boils at 2562 degrees Celsius under standard atmospheric pressure. What does this fixed melting and boiling point indicate?",
+      "options": [
+        "It is a mixture of several different liquids.",
+        "It is a pure element or compound.",
+        "It is an unstable metalloid undergoing continuous decomposition.",
+        "It contains no chemical bonds between its particles."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "A single isolated gold atom does not display a yellow color or conduct electricity. Why do bulk gold samples show these characteristic physical properties?",
+      "options": [
+        "Gold atoms react chemically with each other when collected together.",
+        "The physical properties of an element as a bulk material differ from those of a single atom.",
+        "Single gold atoms behave as non-metals until heated.",
+        "A single gold atom lacks electrons, so it cannot interact with light or electricity."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "A student tests a solid sample of element Y. It breaks easily when struck, appears dull, and does not conduct electricity. How should element Y be classified?",
+      "options": [
+        "Metal",
+        "Non-metal",
+        "Metalloid",
+        "Noble gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
     }
   ]
 }
