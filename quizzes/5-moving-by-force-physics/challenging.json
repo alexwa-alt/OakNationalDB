@@ -1,6 +1,6 @@
 {
   "unitKey": "5Moving by forcePhysics",
-  "generatedAt": "2026-09-20T13:06:59.225671+00:00",
+  "generatedAt": "2026-10-31T14:41:20.090716+00:00",
   "questions": [
     {
       "question": "Runner A runs at a speed of 8 m/s while Runner B runs at 5 m/s. Which statement correctly compares their journey over a fixed 100-metre distance?",
@@ -661,6 +661,226 @@
       ],
       "correctAnswerIndex": 2,
       "learningPointIndex": 13
+    },
+    {
+      "question": "Two cyclists, Carli and Dan, travel along the same 12 km cycle track. Carli travels at a higher speed than Dan throughout the trip. Which statement correctly compares their journeys?",
+      "options": [
+        "Carli takes a shorter time than Dan to complete the track.",
+        "Carli takes a longer time than Dan to complete the track.",
+        "Carli and Dan take the exact same time because the distance is identical.",
+        "Dan takes a shorter time because Carli covers less distance per minute."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A drone and a bird fly in a straight line for exactly 30 seconds. If the drone flies at a greater speed than the bird, what can be concluded about the distance covered in those 30 seconds?",
+      "options": [
+        "The drone covers a shorter distance than the bird.",
+        "The drone covers a greater distance than the bird.",
+        "Both cover the same distance because the time duration is identical.",
+        "The bird covers a greater distance because it has less air resistance."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A vehicle travels a distance of 180 kilometers in 3 hours at a constant pace. What is the speed of the vehicle?",
+      "options": [
+        "540 km/h",
+        "60 km/h",
+        "0.016 km/h",
+        "183 km/h"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A toy car is rolling forward along a flat table. A student applies a continuous backward pull force that is larger than friction. What will happen to the speed of the toy car?",
+      "options": [
+        "The speed will remain constant because the car is already moving.",
+        "The speed will decrease because there is an unbalanced resultant force acting against its movement.",
+        "The speed will increase immediately because any applied force increases speed.",
+        "The speed will drop instantly to zero without any gradual slowing down."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A rocket engine fires continuously for 10 seconds in deep space, providing a constant forward resultant force. What happens to the rocket's speed during these 10 seconds?",
+      "options": [
+        "The speed increases only during the first second and then stays constant.",
+        "The speed continuously changes for the entire 10 seconds while the force acts.",
+        "The speed remains unchanged until the engine stops firing.",
+        "The speed increases and decreases in alternating cycles."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "On a distance-time graph, Runner X is represented by a steep upward straight line, while Runner Y is represented by a shallow upward straight line. What does this indicate about their speeds?",
+      "options": [
+        "Runner Y is moving faster than Runner X.",
+        "Runner X is moving faster than Runner Y because the line has a greater gradient.",
+        "Runner X and Runner Y are moving at the exact same speed.",
+        "Runner X is stationary while Runner Y is accelerating."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "As a metal ball falls through the air near the Earth's surface, its speed increases from 0 m/s to 20 m/s. How does the downward gravitational force acting on the ball change during this fall?",
+      "options": [
+        "It increases continuously as the ball gets faster.",
+        "It decreases as the drag force increases.",
+        "It stays constant throughout the fall.",
+        "It drops to zero when terminal velocity is reached."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Two falling objects have the exact same mass, but one is a flat sheet of metal and the other is a crumpled ball of metal. What factors determine the drag force acting on each object as they fall?",
+      "options": [
+        "Only the weight of the objects.",
+        "Their speed and shape.",
+        "Only the gravitational pull of the Earth.",
+        "The altitude from which they were dropped only."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A skydiver falls through the air. Eventually, the upward drag force becomes equal in magnitude to the downward gravitational force. What happens to the skydiver's motion at this moment?",
+      "options": [
+        "The skydiver stops moving completely and hovers in mid-air.",
+        "The skydiver begins to slow down rapidly.",
+        "The skydiver continues falling at a constant maximum speed called terminal velocity.",
+        "The skydiver accelerates downwards faster than before."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A skydiver tests two parachutes of different canopy sizes made from identical material. Why does the larger parachute result in a lower terminal velocity?",
+      "options": [
+        "The larger parachute reduces the gravitational pull acting on the skydiver.",
+        "The larger surface area produces a bigger drag force at any given speed.",
+        "The larger parachute increases the overall weight of the skydiver.",
+        "The larger surface area eliminates drag entirely."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A parachutist has reached top steady speed while descending with an open parachute. How does the upward drag force compare to the downward force of gravity?",
+      "options": [
+        "The upward drag force is much larger than gravity.",
+        "The upward drag force is equal in size to the force of gravity.",
+        "The upward drag force is zero at top speed.",
+        "The downward force of gravity is double the drag force."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A horizontal, level line is observed on a distance-time graph for a duration of 5 seconds. What does this segment of the graph represent?",
+      "options": [
+        "The object is moving at a steady high speed.",
+        "The object is accelerating steadily.",
+        "The object is stationary and not moving.",
+        "The object is returning to its starting position."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "On a distance-time graph, Section A slopes upwards to the right, and Section B slopes downwards to the right. What do these two sections tell us about the motion?",
+      "options": [
+        "Section A shows speeding up; Section B shows slowing down.",
+        "Section A and Section B show movement in opposite directions.",
+        "Section A shows movement; Section B shows the object stopped.",
+        "Section A shows high friction; Section B shows low friction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A driver looks at her car's speedometer while driving past a traffic camera. What type of speed measurement does the speedometer display at that exact moment?",
+      "options": [
+        "Average speed across the whole journey.",
+        "Instantaneous speed at that particular moment in time.",
+        "Total distance divided by total travel time.",
+        "Terminal velocity under drag forces."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "To accurately record when a runner crosses a finish line using a stopwatch, where should the timer position themselves?",
+      "options": [
+        "Far behind the start line to view the entire track.",
+        "Directly in line with the finish line.",
+        "At a 45-degree angle to the finish line to catch sight earlier.",
+        "Anywhere along the track, as angle does not affect timing accuracy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A student measures the time taken for a trolley to roll down a ramp four times, recording: 2.1 s, 2.0 s, 4.8 s, and 2.1 s. How should the student handle the 4.8 s reading when calculating the average time?",
+      "options": [
+        "Include 4.8 s in the sum and divide by 4.",
+        "Identify 4.8 s as an anomalous reading and exclude it from the average calculation.",
+        "Replace all other readings with 4.8 s because it is the largest value.",
+        "Double the 4.8 s value to balance out the timing errors."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A heavy wooden box is being pushed east across a rough concrete floor. In which direction does the force of friction act on the box?",
+      "options": [
+        "Towards the east (same direction as movement).",
+        "Towards the west (opposite to the direction of movement).",
+        "Vertically upwards.",
+        "Vertically downwards towards the Earth's center."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A spacecraft in deep space turns off its engines. No gravitational or frictional forces act on it. What will happen to the spacecraft's motion?",
+      "options": [
+        "It will slow down steadily until it comes to a complete stop.",
+        "It will continue moving at a steady speed in a straight line.",
+        "It will immediately change direction and orbit the nearest star.",
+        "It will speed up uncontrollably."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Why does shaping a high-speed train to be streamlined reduce the drag force acting on it?",
+      "options": [
+        "It reduces the train's mass, decreasing gravitational pull.",
+        "It reduces how much fluid (air) needs to be pushed out of the way as the train moves.",
+        "It eliminates friction between the wheels and the track entirely.",
+        "It increases the engine's power output directly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "A boat accelerates from 5 km/h to 25 km/h in water. What happens to the drag force exerted by the water on the hull as the boat's speed increases?",
+      "options": [
+        "The drag force decreases because the boat cuts through water more easily.",
+        "The drag force remains completely constant.",
+        "The drag force increases with speed.",
+        "The drag force drops to zero once the boat reaches top speed."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 37
     }
   ]
 }

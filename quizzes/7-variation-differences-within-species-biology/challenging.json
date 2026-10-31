@@ -1,6 +1,6 @@
 {
   "unitKey": "7Variation (differences within species)Biology",
-  "generatedAt": "2026-09-20T13:11:24.147609+00:00",
+  "generatedAt": "2026-10-31T14:44:23.675868+00:00",
   "questions": [
     {
       "question": "A student monitors a population of snails and groups them based on whether they have a banded shell or an unbanded shell. What type of variation is this, and what is its defining characteristic?",
@@ -881,6 +881,226 @@
       ],
       "correctAnswerIndex": 2,
       "learningPointIndex": 19
+    },
+    {
+      "question": "A researcher records the blood group (A, B, AB, O) of 100 volunteers. Why is blood group classified as exhibiting discontinuous variation?",
+      "options": [
+        "The data falls into distinct, separate categories with no intermediate values.",
+        "The values span a continuous spectrum that changes depending on age.",
+        "The trait is gradually altered by dietary habits over a lifetime.",
+        "The measurements require a continuous numerical scale such as centimeters."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A student measures the mass of 50 acorns gathered from a single oak tree. Which observation best proves that acorn mass shows continuous variation?",
+      "options": [
+        "Acorns fall strictly into two distinct mass categories: light and heavy.",
+        "The mass of each acorn is completely unaffected by environmental rainfall.",
+        "The masses can take any numerical value within a minimum and maximum range.",
+        "Acorn mass is determined solely by a single gene inherited from the parent tree."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Consider three plant features: flower petal color (red, white, pink), stem length in centimeters, and presence of thorns (present or absent). Which option correctly classifies these features?",
+      "options": [
+        "Petal color: continuous; Stem length: discontinuous; Thorns: continuous",
+        "Petal color: discontinuous; Stem length: continuous; Thorns: discontinuous",
+        "Petal color: discontinuous; Stem length: discontinuous; Thorns: continuous",
+        "Petal color: continuous; Stem length: continuous; Thorns: discontinuous"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A class plans to gather primary data on variation within a hedge population. Which method correctly collects primary data for a continuous trait?",
+      "options": [
+        "Counting how many leaves are dark green versus light green.",
+        "Ticking boxes to record whether bushes have flowers or no flowers.",
+        "Using a millimeter ruler to measure the length of 50 randomly selected leaves.",
+        "Asking local residents to vote on their favorite hedge shape."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A scientist collects data on the body lengths of 200 adult salmon. Why is a histogram chosen rather than a standard bar chart with spaces between bars to display this data?",
+      "options": [
+        "Histogram bars touch to represent continuous numerical ranges rather than separate categories.",
+        "A histogram is only used when data can be grouped into non-numerical word labels.",
+        "Standard bar charts are strictly reserved for traits influenced purely by the environment.",
+        "Histograms require spaces between bars to show that individual fish are distinct."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When plotting continuous plant height data ranging from 10.0 cm to 29.9 cm on a histogram, how should the horizontal axis be constructed?",
+      "options": [
+        "Using separate non-adjacent bars labeled with individual plant names.",
+        "Using continuous, equal interval bins such as 10.0–14.9, 15.0–19.9, 20.0–24.9, and 25.0–29.9 with touching bars.",
+        "Sorting the plants randomly into two separate bars named 'Short' and 'Tall'.",
+        "Leaving wide gaps between each measurement point to highlight missing data."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A histogram showing human foot lengths in a school displays a symmetric bell-shaped distribution centered around 25 cm. What correct conclusion can be drawn from this graph?",
+      "options": [
+        "Foot length is a discontinuous trait controlled by a single environmental factor.",
+        "Most individuals have foot lengths near the average, with fewer individuals at extreme lengths.",
+        "Every student in the school has a foot length of exactly 25 cm.",
+        "Foot length is divided into discrete categories with no individuals measuring between 24 cm and 26 cm."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Two genetically identical cuttings from the same plant are grown in different soils. One grows tall with abundant leaves, while the other stays short with few leaves. What does this demonstrate about continuous variation?",
+      "options": [
+        "Continuous traits are determined exclusively by inherited DNA sequences.",
+        "Environmental conditions can significantly influence traits that display continuous variation.",
+        "Genetics plays no role whatsoever in determining plant growth height.",
+        "Cutting plants causes discontinuous mutations in growth patterns."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A student wants to present data showing the number of pupils with attached versus unattached earlobes. Which graph design is appropriate for this discontinuous trait?",
+      "options": [
+        "A histogram with touching bars to show smooth numerical transitions.",
+        "A line graph connecting the data points with a line of best fit.",
+        "A bar chart with separate bars and gaps between them to represent distinct categories.",
+        "A scatter plot showing earlobe area plotted against pupil age."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "When plotting a bar chart to show the frequency of different natural hair colors in a classroom, which rule must be followed?",
+      "options": [
+        "The bars must touch each other because hair color is a continuous numerical variable.",
+        "The vertical axis must show color categories while the horizontal axis shows frequency.",
+        "Category labels go on the horizontal axis with equal-width bars separated by gaps.",
+        "Data points should be connected with a continuous trend line."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A bar chart of human tongue-rolling ability shows 18 students in the 'Can Roll' bar and 6 students in the 'Cannot Roll' bar. How should this graph be correctly interpreted?",
+      "options": [
+        "Tongue rolling is a continuous feature where students gradually improve with practice.",
+        "The feature shows discontinuous variation, splitting the population into distinct categories.",
+        "The 6 non-rollers will develop rolling ability if their diet changes.",
+        "There are intermediate categories of partial rollers present between the main bars."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "An athlete moves to a sunny region and alters their diet, increasing muscle mass and skin pigmentation. However, their ABO blood group remains type O. Why does blood group remain unchanged?",
+      "options": [
+        "Discontinuous traits like blood group are determined solely by genetic factors and are unaffected by environment or lifestyle.",
+        "Blood group changes so slowly that it takes several decades of lifestyle changes to alter.",
+        "Sunlight counteracts dietary shifts, preventing alterations in blood proteins.",
+        "Muscle mass gain neutralizes genetic shifts in blood antigens."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When male and female robins reproduce, their eggs always hatch into robins rather than sparrows or blackbirds. Which concept does this illustrate?",
+      "options": [
+        "Environmental adaptation",
+        "Species resemblance",
+        "Discontinuous mutation",
+        "Acquired variation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A puppy has coat coloring similar to its mother and ear shape identical to its father. What explains this family resemblance?",
+      "options": [
+        "The puppy learned these physical traits by observing its parents after birth.",
+        "The puppy inherited genetic features from both parents during reproduction.",
+        "The mother and father modified their own DNA after the puppy was born.",
+        "The puppy's physical traits were shaped entirely by the temperature of its nest."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which statement correctly explains how inherited features are passed from parents to offspring during reproduction?",
+      "options": [
+        "Parents pass physical traits directly through protein molecules in food.",
+        "Offspring absorb environmental habits from parents, which alter physical features.",
+        "Genetic information stored in DNA is passed from parents to offspring.",
+        "Nerve signals during early growth copy the parents' physical structures."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A cat loses part of its tail in an accident and gains weight after moving indoors. Which statement correctly describes these features?",
+      "options": [
+        "They are inherited features that will be passed to future kittens via DNA.",
+        "They are discontinuous genetic traits caused by gene replication.",
+        "They are caused by environment and lifestyle and will not be inherited by offspring.",
+        "They are species-level characteristics present in all domestic cats from birth."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Two non-identical human brothers share the same parents and environment, yet one has blue eyes and is tall, while the other has brown eyes and is shorter. Why does variation exist between these siblings?",
+      "options": [
+        "Offspring inherit identical DNA combinations from parents, but one sibling mutated.",
+        "Reproduction results in variation between offspring, so they are not usually identical to parents or each other.",
+        "Siblings are classified into different species based on birth order.",
+        "Family members only differ if they live in entirely different geographic regions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Comparing the differences between a domestic dog and a red fox to the differences between two individual German Shepherd dogs, which statement is true?",
+      "options": [
+        "Differences within a species are greater than differences between different species.",
+        "Differences between different species are greater than differences within the same species.",
+        "There are no measurable differences between individuals of the same species.",
+        "Differences between species are caused purely by lifestyle, whereas internal species traits are purely genetic."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A farmer observes that within a flock of 100 sheep of the same breed, individuals have slightly different horn shapes, body masses, and wool textures. What term describes these differences among individuals of the same species?",
+      "options": [
+        "Speciation",
+        "Variation",
+        "Classification",
+        "Inheritance"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "An individual's potential body mass is influenced by genes inherited from parents, but their actual adult body mass is heavily affected by daily food intake and physical activity. This trait is an example of variation caused by:",
+      "options": [
+        "Only environmental factors, as genetics has no influence on body mass.",
+        "Only genetic factors, as lifestyle cannot alter inherited mass potential.",
+        "A combination of genetic and environmental/lifestyle factors.",
+        "Discontinuous genetic mutation caused by dietary chemicals."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
     }
   ]
 }

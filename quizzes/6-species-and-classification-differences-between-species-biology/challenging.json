@@ -1,6 +1,6 @@
 {
   "unitKey": "6Species and classification (differences between species)Biology",
-  "generatedAt": "2026-09-20T13:07:36.198124+00:00",
+  "generatedAt": "2026-10-31T14:42:04.427227+00:00",
   "questions": [
     {
       "question": "When scientists classify organisms into a hierarchy of groups within larger groups, what is their primary basis for grouping?",
@@ -658,6 +658,226 @@
         "All four trees have green leaves, so this question does not help separate them into groups.",
         "Questions in keys must only ask about the height of the trees.",
         "Leaves change colour every hour, making it unreliable."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A student observes four pond organisms and groups them based on shared traits into smaller sub-groups within a main group. Which underlying principle of biological classification is this student applying?",
+      "options": [
+        "Sorting organisms strictly by their habitat without comparing physical traits.",
+        "Grouping organisms based on shared similarities and distinct differences into groups within larger groups.",
+        "Assigning every organism to a completely unique top-level group with no overarching categories.",
+        "Assuming that organisms with similar sizes must belong to the exact same species."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which statement correctly describes the hierarchy of classification categories used by scientists from top to bottom?",
+      "options": [
+        "It starts at kingdom as the broadest group and narrows down sequentially through intermediate levels to species.",
+        "It begins at species as the largest group and combines them up into kingdoms.",
+        "It places genus above kingdom and species at the broadest level.",
+        "It uses species as the only official group, ignoring all higher levels."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Compare a kingdom containing millions of species to a genus containing five species. Which comparison accurately reflects the number of organisms and similarity of features?",
+      "options": [
+        "The genus contains more total organisms, and they share fewer common features than members of the kingdom.",
+        "The kingdom contains fewer total organisms, but they share more identical genes and traits.",
+        "The kingdom contains more total organisms, but they share fewer common features than members of the genus.",
+        "Both groups contain equal numbers of organisms, but members of a kingdom have identical microscopic structures."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Two birds look almost identical and live in the same forest. A scientist pairs them up, and they produce offspring. However, when those offspring grow up, they are unable to reproduce. Are the two original birds members of the same species?",
+      "options": [
+        "Yes, because any two organisms that successfully mate belong to the same species.",
+        "Yes, because they share identical external physical features and live in the same habitat.",
+        "No, because organisms of the same species can never produce offspring together under any circumstances.",
+        "No, because although they produced offspring, the offspring must be fertile for the parents to be the same species."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "The scientific name for the gray wolf is Canis lupus. What information does this binomial name directly provide about its classification?",
+      "options": [
+        "Canis identifies the genus, and lupus identifies the species.",
+        "Canis identifies the kingdom, and lupus identifies the genus.",
+        "Canis identifies the species, and lupus identifies the genus.",
+        "Canis identifies the family, and lupus identifies the kingdom."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A biologist discovers a single-celled organism in a thermal vent. Why might the biologist examine its cellular structure under a microscope to help classify it into a major group?",
+      "options": [
+        "Microscopic examination is only used to measure the exact age of an individual organism.",
+        "Organisms can be classified into fundamental groups based on their characteristics at the microscopic, cellular level.",
+        "Outward shape is always identical in every kingdom, so cell structure is the only variable feature.",
+        "Cellular features determine the binomial name without needing to compare other known organisms."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which comparison correctly highlights a common feature difference between bacterial cells and animal, plant, or fungal cells?",
+      "options": [
+        "Animal cells possess chloroplasts and a cell wall made of cellulose, unlike bacterial cells.",
+        "Plant cells lack both cell walls and nuclei, while bacterial cells contain chloroplasts.",
+        "Bacterial cells lack a membrane-bound nucleus, whereas animal, plant, and fungal cells all possess a nucleus.",
+        "Fungal cells contain chloroplasts to photosynthesise, whereas animal cells contain cell walls."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "An unknown organism is found to be multicellular, has cell walls made of chitin, and does not contain chloroplasts. Into which kingdom should this organism be classified based on its cell features?",
+      "options": [
+        "Animals",
+        "Plants",
+        "Bacteria",
+        "Fungi"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A field researcher finds an unfamiliar beetle with distinct spots. How does using a classification key assist the researcher in this situation?",
+      "options": [
+        "It guides the researcher to find out which existing groups the organism is classified into.",
+        "It alters the organism's genetic makeup so it fits into an existing species group.",
+        "It proves that the organism is a completely new species without needing comparison to known traits.",
+        "It calculates the exact number of offspring the organism will produce during its lifetime."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What is the primary structure of a biological classification key used to identify organisms?",
+      "options": [
+        "A single list of scientific names arranged alphabetically by kingdom.",
+        "A series of questions or statements about the observable features of organisms.",
+        "A chart showing the exact genetic sequence of every organism in an ecosystem.",
+        "A set of questions about the climate and weather preferences of organisms."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why is biological classification an essential process in the study of living organisms?",
+      "options": [
+        "It guarantees that all organisms in an ecosystem will survive environmental changes.",
+        "It helps scientists organise and make sense of biodiversity.",
+        "It converts non-living materials in an ecosystem into living organisms.",
+        "It removes the need to discover new species in unexplored habitats."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "While conducting a field survey of meadow plants, which action represents correct practice for recording and interpreting observations?",
+      "options": [
+        "Estimating physical traits from memory several days after returning from the field.",
+        "Removing all plants from the field and keeping them in dark boxes before examining them.",
+        "Carefully noting observable physical features of the organisms in the field and interpreting them using reference guides.",
+        "Grouping plants solely by the color of the soil in which they were growing."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A student finds a wild plant with lobed leaves and red berries in a woodland area. What is the most appropriate field method to identify its group?",
+      "options": [
+        "Measuring the air temperature surrounding the plant.",
+        "Testing the pH of the soil near the plant.",
+        "Counting the number of insects landing on the plant over an hour.",
+        "Using a classification key based on the plant's observable features."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "When sampling organisms in a fragile pond ecosystem, which strategy best reflects safe and responsible scientific fieldwork?",
+      "options": [
+        "Taking minimal required samples, returning organisms unharmed, and avoiding damaging surrounding habitats.",
+        "Pouring bleach into the pond after sampling to sterilize the remaining water.",
+        "Collecting all organisms found in the pond and keeping them permanently in sealed jars.",
+        "Clearing away all shoreline vegetation to make accessing the water easier."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A horse and a donkey can mate to produce a mule. Mules are almost always sterile and cannot produce offspring. What does this reveal about horses and donkeys?",
+      "options": [
+        "They belong to the exact same species because they can mate successfully.",
+        "They belong to separate species because their offspring is not fertile.",
+        "They belong to different kingdoms because their offspring cannot reproduce.",
+        "They are not living organisms because they produce sterile offspring."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "The scientific name for the lion is Panthera leo, while the tiger is Panthera tigris. What can be deduced from these binomial names?",
+      "options": [
+        "They belong to different kingdoms.",
+        "They belong to different genera but the same species.",
+        "They belong to the same genus, Panthera, but are different species.",
+        "Panthera is the species name and leo/tigris are kingdom names."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A microscopic analysis of a single-celled organism shows that it has a cell wall but lacks a nucleus. Which kingdom should it be placed in?",
+      "options": [
+        "Plants",
+        "Fungi",
+        "Animals",
+        "Bacteria"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A student argues that bats and insects belong to the exact same group because both have wings and can fly. Why is this reasoning incorrect?",
+      "options": [
+        "Classification is based on comparing similarities and differences across multiple features, not just one superficial trait.",
+        "Flying organisms are automatically classified into the plant kingdom.",
+        "Having wings means organisms cannot be classified into any group.",
+        "Movement features are never recorded when observing organisms."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "As you move down through the levels of classification from kingdom to species, how do the number of organisms in a group and their shared similarities change?",
+      "options": [
+        "There are more organisms in each group, and they share more similarities.",
+        "There are fewer organisms in each group, and they share more similarities.",
+        "There are fewer organisms in each group, and they share fewer similarities.",
+        "There are more organisms in each group, and they share fewer similarities."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A field key includes the following choices: '1a. Leaves have smooth edges ... Go to 2' and '1b. Leaves have jagged edges ... Go to 3'. What feature of a classification key does this demonstrate?",
+      "options": [
+        "It relies on measuring soil pH to separate species.",
+        "It uses a series of paired questions or statements about features to distinguish organisms.",
+        "It assigns binomial names based on where the plant was found.",
+        "It estimates the age of the plant based on leaf size."
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 9
