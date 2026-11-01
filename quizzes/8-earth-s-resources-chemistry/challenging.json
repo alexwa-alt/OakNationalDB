@@ -1,6 +1,6 @@
 {
   "unitKey": "8Earth's resourcesChemistry",
-  "generatedAt": "2026-08-13T09:38:53.719563+00:00",
+  "generatedAt": "2026-11-01T15:21:06.348486+00:00",
   "questions": [
     {
       "question": "A geologist finds a specimen of rock that formed from liquid rock cooling within a deep fissure beneath a volcano. What was the liquid rock called before it solidified, and why?",
@@ -881,6 +881,226 @@
       ],
       "correctAnswerIndex": 3,
       "learningPointIndex": 28
+    },
+    {
+      "question": "A geologist finds liquid molten rock erupting from a volcano onto the ground, while another sample of molten rock remains trapped deep beneath a mountain. How should these two molten rock samples be classified?",
+      "options": [
+        "Both samples are classified as magma because they originate beneath Earth's crust.",
+        "The sample on the surface is lava, while the trapped underground sample is magma.",
+        "The sample on the surface is magma, while the trapped underground sample is lava.",
+        "Both samples are classified as lava because molten rock always retains the same name."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A sample of basalt formed from lava cooling on the ocean floor, while granite formed from magma cooling slowly deep inside a continent. Which classification correctly matches their formation locations?",
+      "options": [
+        "Basalt is intrusive because it formed in water, and granite is extrusive because it formed under land.",
+        "Basalt is extrusive because it formed outside Earth's crust, and granite is intrusive because it formed inside the crust.",
+        "Both basalt and granite are extrusive igneous rocks because both cooled near tectonic plate boundaries.",
+        "Basalt is intrusive because it cooled quickly, and granite is extrusive because it cooled slowly inside the crust."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Two igneous rock samples formed from identical magma compositions. Rock X has microscopic crystals, whereas Rock Y has large crystals easily visible to the naked eye. What does this difference reveal about their cooling rates?",
+      "options": [
+        "Rock X cooled very slowly underground, while Rock Y cooled rapidly on the surface.",
+        "Rock X cooled rapidly, whereas Rock Y cooled over a much longer period of time.",
+        "Rock X formed under extreme pressure, while Rock Y formed without any surrounding pressure.",
+        "Rock X absorbed water during cooling, while Rock Y lost all water contents quickly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A scientist analyzes a rock containing preserved sea shells and rounded sand grains. What conclusion can be drawn from these specific rock components?",
+      "options": [
+        "The rock formed from molten magma deep within Earth's mantle millions of years ago.",
+        "The rock formed under intense heat and pressure that altered existing mineral crystals.",
+        "The components indicate the rock formed in an ancient aquatic environment from accumulated sediment.",
+        "The presence of shells proves the rock cooled rapidly from extrusive volcanic lava."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What structural characteristic at the atomic level distinguishes a solid crystal from a non-crystalline disordered solid?",
+      "options": [
+        "Atoms in a crystal are loosely packed with no set spacing between neighboring atoms.",
+        "Atoms in a crystal are arranged in a highly regular, repeating 3D lattice pattern.",
+        "Atoms in a crystal constantly swap positions with neighboring atoms to maintain flexibility.",
+        "Atoms in a crystal are arranged randomly in small clusters separated by vacuum gaps."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Diamond forms deep within Earth where conditions push carbon atoms close together into a dense crystal structure. Which environmental conditions enable this structural transformation?",
+      "options": [
+        "Low temperature and low atmospheric pressure near Earth's surface.",
+        "Extremely high pressure combined with high temperature.",
+        "Constant exposure to liquid water at room temperature.",
+        "High pressure combined with freezing temperatures."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How can large crystals grow inside solid rock located in regions between colliding tectonic plates without the rock fully melting?",
+      "options": [
+        "High pressure and temperature at plate boundaries allow atoms to rearrange into large crystals within solid rock.",
+        "Fast cooling speeds at plate boundaries freeze liquid water into large crystal structures.",
+        "Atmospheric gases seep into solid rock and precipitate out as large surface crystals.",
+        "Tectonic plate movement grinds rock into liquid that instantaneously solidifies into large crystals."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A layer of shale (a sedimentary rock) is subjected to intense heat and pressure deep underground without melting. What type of rock is produced, and how is its structure affected?",
+      "options": [
+        "It turns into an extrusive igneous rock with small interlocking rounded grains.",
+        "It becomes a metamorphic rock whose original structure has been altered by heat and pressure.",
+        "It remains a sedimentary rock but develops large fossil shells inside its structure.",
+        "It forms an intrusive igneous rock containing randomly oriented mineral crystals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Slate is a metamorphic rock commonly used for roofing tiles because it easily splits into thin, flat sheets. Which structural feature accounts for this property?",
+      "options": [
+        "Randomly oriented, large interlocking crystals that resist all forces.",
+        "Aligned mineral crystals formed under pressure, allowing the rock to cleave along layers.",
+        "Uncemented rounded sand grains that easily slide past one another.",
+        "High porosity and large air gaps that weaken the internal chemical bonds."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Quartz is classified as a mineral, whereas granite is classified as a rock. Which statement explains why quartz is defined specifically as a mineral?",
+      "options": [
+        "Quartz is a mixture of several different crushed rock fragments and fossils.",
+        "Quartz is a naturally occurring pure substance with a fixed crystal structure.",
+        "Quartz is a synthetic material produced by artificial chemical weathering.",
+        "Quartz is a liquid substance found in the mantle that never solidifies."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which statement accurately describes the general physical layout and outer structure of planet Earth?",
+      "options": [
+        "Earth is a flat disc made entirely of liquid magma covered by a thick ice shell.",
+        "Earth is a spherical, rocky planet featuring a relatively thin outer crust partially covered by water.",
+        "Earth is a gaseous planet with a thick metallic crust and no liquid water on its surface.",
+        "Earth is a perfect cube composed of solid iron with water covering its entire surface."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which description accurately reflects the structure of Earth's central core region?",
+      "options": [
+        "A liquid metallic inner core surrounded by a solid gas outer core.",
+        "A solid metallic inner core surrounded by a liquid outer core.",
+        "A hollow central cavern surrounded by a thick layer of molten silicate rock.",
+        "A completely liquid core made entirely of lightweight silicate minerals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Despite having an extremely high temperature that would normally melt metal, Earth's inner core remains solid. Why is the inner core solid?",
+      "options": [
+        "The extremely high pressure deep inside Earth forces the hot metallic particles together into a solid.",
+        "Cold ocean water leaks down into the core, cooling it down into solid ice.",
+        "Atmospheric pressure pushes down on the crust, creating a cooling vacuum at the center.",
+        "Heat escapes into space so rapidly that the inner core freezes solid."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Geologists found matching Mesosaurus fossil species and identical rock strata on both the eastern coast of South America and the western coast of Africa. What does this evidence suggest?",
+      "options": [
+        "Mesosaurus animals swam across the vast modern Atlantic Ocean to lay eggs on both continents.",
+        "The continents were once joined together in a single landmass before separating over time.",
+        "Modern oceans formed first, and land masses grew independently in identical patterns.",
+        "Volcanic eruptions transported matching rocks and fossils across the ocean surface."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which statement best describes the physical structure and movement of Earth's outer crust?",
+      "options": [
+        "The crust is one solid, unbroken shell that remains completely stationary over time.",
+        "The crust is broken into pieces called tectonic plates, which move very slowly over time.",
+        "The crust consists of liquid plates floating rapidly across the atmosphere every day.",
+        "The crust continuously melts into the ocean, reducing Earth's diameter each year."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Under a magnifying lens, a rock sample shows separate, distinct mineral grains cemented together rather than interlocking crystals. How should this rock structure be classified?",
+      "options": [
+        "Extrusive igneous rock.",
+        "Sedimentary rock.",
+        "Intrusive igneous rock.",
+        "Metallic core rock."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A student compares two crystalline rock samples under a microscope. Sample A shows crystals pointing randomly in all different directions. Sample B shows crystals aligned in parallel rows. Which identification is correct?",
+      "options": [
+        "Sample A is metamorphic, and Sample B is igneous.",
+        "Sample A is igneous, and Sample B is metamorphic.",
+        "Both samples are sedimentary rocks formed in rivers.",
+        "Sample A formed under high pressure, and Sample B formed from fast-cooling lava."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Water dropped onto Rock P quickly soaks into small spaces between its rounded grains, whereas water dropped onto Rock Q stays on the surface because its crystals fit tightly together with no gaps. What does this indicate about their porosity?",
+      "options": [
+        "Rock P is non-porous because it has rounded grains; Rock Q is porous because it has interlocking crystals.",
+        "Rock P is porous because its grains do not interlock; Rock Q is non-porous because its crystals interlock.",
+        "Both rocks are non-porous because both allow water to interact with their surface.",
+        "Rock P is non-porous because water enters it; Rock Q is porous because water stays outside."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Why does solid rock remain stable on Earth's surface under normal day-to-day weather conditions without melting into liquid?",
+      "options": [
+        "Surface rocks are kept cold by atmospheric moisture.",
+        "Rocks have a very high melting point that is far above everyday surface temperatures.",
+        "Solar radiation is reflected entirely by mineral crystals in rocks.",
+        "Oxygen in the air prevents rocks from absorbing any thermal energy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When observing the orientation of crystals in different rock samples, what structural contrast can be observed between different rock types?",
+      "options": [
+        "All rocks contain crystals that point exclusively in a vertical direction.",
+        "Some rocks contain crystals pointing in many directions, while in other rocks the crystals are aligned.",
+        "Crystals in all rocks constantly rotate and change their direction over time.",
+        "Rocks only contain crystals if they were formed underwater in ocean basins."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
     }
   ]
 }

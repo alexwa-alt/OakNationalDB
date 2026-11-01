@@ -1,0 +1,226 @@
+{
+  "unitKey": "9Series circuitsPhysics",
+  "generatedAt": "2026-11-01T15:21:31.489174+00:00",
+  "questions": [
+    {
+      "question": "In a series circuit, how does the voltage across each component relate to the total voltage of the battery?",
+      "options": [
+        "The voltage across each component adds up to the total voltage of the battery.",
+        "Each component has the exact same voltage as the entire battery regardless of how many there are.",
+        "The component closest to the positive terminal receives all of the battery's voltage.",
+        "The total voltage of the battery is multiplied by the number of components in the circuit."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Three 1.5 V electrical cells are connected together in series to form a battery. What is the total voltage of this battery?",
+      "options": [
+        "1.5 V",
+        "3.0 V",
+        "4.5 V",
+        "0.0 V"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is the primary function of a battery in a complete electrical circuit?",
+      "options": [
+        "It continuously creates new electrons that travel through the circuit.",
+        "It pushes electric charge (electrons) one way around a complete circuit.",
+        "It attracts positive protons to move through the metal wiring.",
+        "It stores up electric current until the circuit switch is turned off."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What happens to the electrons throughout a circuit at the exact moment it is turned on?",
+      "options": [
+        "Electrons everywhere in the circuit start moving at the same time.",
+        "Electrons start moving near the battery first, then gradually reach the rest of the wire.",
+        "Electrons at the switch move first, while those inside the bulb stay still.",
+        "Electrons move one by one from the positive terminal around to the negative terminal."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How fast do individual electrons typically travel through a wire in a powered circuit?",
+      "options": [
+        "At the speed of light.",
+        "At several kilometres per second.",
+        "At a moderate pace of a few metres per second.",
+        "Slowly, at a speed of just a few millimetres each second."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why does a faulty filament bulb stop current from flowing through a circuit?",
+      "options": [
+        "The glass envelope absorbs all electrical charge.",
+        "The filament inside the bulb is broken, creating a gap in the path.",
+        "The metal contacts on the bulb lose their negative charge.",
+        "The wire inside the bulb automatically transforms into an insulator."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "If a series circuit contains one faulty component that stops it working, how can the remaining components be made to work again?",
+      "options": [
+        "By using a wire to bypass the faulty component.",
+        "By connecting a second battery next to the faulty component.",
+        "By reversing the battery connections in the circuit.",
+        "By placing an insulating barrier inside the faulty component."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which statement correctly describes a series circuit?",
+      "options": [
+        "It is a circuit containing multiple independent loops for current to flow.",
+        "It is an electric circuit with one complete loop from one end of a battery to the other end.",
+        "It is a circuit that only operates when connected to mains electricity.",
+        "It is a circuit where current flows in two opposite directions simultaneously."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How does an ammeter affect the electric current in a circuit when it is connected to take a reading?",
+      "options": [
+        "It decreases the current significantly to protect the circuit components.",
+        "It measures the current flowing through it without affecting the current in the circuit.",
+        "It doubles the electric current passing through the main loop.",
+        "It converts all electric current into potential difference."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What standard unit is used to measure electric current?",
+      "options": [
+        "Volts (V)",
+        "Amps (A)",
+        "Ohms (Ω)",
+        "Joules (J)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "In a simple series circuit with two bulbs, how does the current near the battery compare to the current between the bulbs?",
+      "options": [
+        "The current is higher near the battery than between the bulbs.",
+        "The current is lower near the battery than between the bulbs.",
+        "The current is zero between the bulbs because the energy was used.",
+        "The current in a series circuit is the same everywhere."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What happens to the current in a series circuit when an extra component is added to the loop?",
+      "options": [
+        "Adding a component changes the current everywhere, on both sides of the component.",
+        "The current decreases only on the side of the component closest to the negative terminal.",
+        "The current increases before the new component and decreases after it.",
+        "The current remains completely unchanged throughout the entire circuit."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which term is commonly used as another name for potential difference?",
+      "options": [
+        "Electric current",
+        "Resistance",
+        "Voltage",
+        "Electrostatic charge"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "How should a voltmeter be connected to measure the voltage across a circuit component?",
+      "options": [
+        "Directly inside the main single loop alongside the component.",
+        "Across the terminals of the component.",
+        "Connected only to the positive terminal of the battery.",
+        "In between the cells inside the battery holder."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "What happens when two objects with opposite electric charges are brought near each other?",
+      "options": [
+        "They attract each other.",
+        "They repel each other.",
+        "They lose their electric charges instantly.",
+        "They exert no force on each other."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "What happens when two objects with the same electric charge are brought close together?",
+      "options": [
+        "They attract each other.",
+        "They repel each other.",
+        "They cancel each other out to become neutral.",
+        "They start generating electric current."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "What are the negatively charged particles inside atoms called?",
+      "options": [
+        "Protons",
+        "Neutrons",
+        "Electrons",
+        "Ions"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "Why is it difficult to build up a static electric charge on metal objects by rubbing them?",
+      "options": [
+        "Metals do not contain any subatomic charges.",
+        "Metals immediately destroy any static charge that touches them.",
+        "Electric charge flows through metals, preventing charge from building up.",
+        "Friction cannot move electrons between any metal surfaces."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "When an electric circuit is switched off, what is true about the electric charges in the wires and components?",
+      "options": [
+        "All electric charges disappear until the circuit is switched back on.",
+        "There are electric charges in all atoms of the wires and components, even when it is not turned on.",
+        "Electric charges return inside the battery and leave the wires empty.",
+        "Only positive charges remain in the wires when the circuit is off."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How should wires be drawn in a clear, accurate circuit diagram?",
+      "options": [
+        "As freehand curves with gaps to show where charge enters.",
+        "Using a ruler for clarity, with no gaps that would indicate a break in the circuit.",
+        "As double parallel lines representing both sides of the wire.",
+        "As dotted lines to show that electrical charge is invisible."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    }
+  ]
+}
