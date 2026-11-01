@@ -1,6 +1,6 @@
 {
   "unitKey": "6Species and classification (differences between species)Biology",
-  "generatedAt": "2026-10-31T14:42:04.427227+00:00",
+  "generatedAt": "2026-11-01T15:20:04.061483+00:00",
   "questions": [
     {
       "question": "When scientists classify organisms into a hierarchy of groups within larger groups, what is their primary basis for grouping?",
@@ -881,6 +881,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 9
+    },
+    {
+      "question": "A scientist groups beetles into family, genus, and species based on physical characteristics. How does this hierarchical grouping system operate?",
+      "options": [
+        "Smaller groups contain organisms that share fewer traits than larger groups.",
+        "Organisms are placed into nested groups, with smaller groups sharing more specific similarities.",
+        "Groups at the same level always contain an equal number of living species.",
+        "Organisms are grouped only by their geographic location rather than physical features."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which list places the main classification groups in order from the largest, most inclusive group down to the most specific group?",
+      "options": [
+        "Species, Genus, Family, Order, Class, Phylum, Kingdom",
+        "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "Kingdom, Family, Order, Class, Phylum, Genus, Species",
+        "Genus, Species, Family, Order, Class, Phylum, Kingdom"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How does the group 'Kingdom' compare to the group 'Genus' in terms of overall diversity and shared features?",
+      "options": [
+        "A kingdom contains fewer organisms, but they share more identical traits.",
+        "A kingdom contains more organisms, but they share fewer common features.",
+        "A genus contains more organisms with a wider range of cellular differences.",
+        "Both groups contain the exact same number of organisms with identical traits."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Two birds look very similar and live in the same forest, but when they mate, their offspring are always sterile. What does this indicate?",
+      "options": [
+        "They belong to the same species because they live in the same habitat.",
+        "They belong to different species because their offspring cannot produce offspring of their own.",
+        "They belong to the same species because they can successfully mate.",
+        "They belong to different kingdoms because their physical features are slightly different."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Male donkeys and female horses can mate to produce mules. Mules are healthy animals, but they cannot reproduce. What conclusion can be drawn from this?",
+      "options": [
+        "Donkeys and horses belong to the same species because they produce living offspring.",
+        "Donkeys and horses belong to different species because their offspring is not fertile.",
+        "Mules form a brand-new species because they have unique combined features.",
+        "Donkeys and horses belong to completely different biological kingdoms."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "The scientific name for the lion is Panthera leo, while the tiger is Panthera tigris. What does this tell us about these two animals?",
+      "options": [
+        "They belong to the same species but different genera.",
+        "They belong to the same genus but are different species.",
+        "They belong to completely different kingdoms.",
+        "Leo and tigris are their genus names, while Panthera is their species name."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why do scientists across the world use the binomial naming system (such as Bellis perennis) instead of common names like 'daisy'?",
+      "options": [
+        "Common names change every year based on new mutations.",
+        "Binomial names avoid confusion caused by regional common names and language differences.",
+        "Binomial names describe every single gene present in the organism's DNA.",
+        "Common names can only be used for animals, not plants or fungi."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A microscopic sample of an organism shows cell walls made of cellulose and green structures containing chlorophyll. Into which kingdom does it belong?",
+      "options": [
+        "Animals",
+        "Plants",
+        "Fungi",
+        "Bacteria"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which statement correctly compares the cellular structures of fungi and plants?",
+      "options": [
+        "Both fungi and plant cells have cell walls made of cellulose.",
+        "Plant cells contain chloroplasts for photosynthesis, whereas fungi cells do not.",
+        "Fungi cells lack a nucleus, while plant cells have a well-defined nucleus.",
+        "Neither fungi nor plant cells have a cell membrane."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A microscopic organism is examined under an electron microscope. It has a cell wall, but its genetic material floats freely in the cytoplasm without a nucleus. Which kingdom is it in?",
+      "options": [
+        "Animals",
+        "Fungi",
+        "Bacteria",
+        "Plants"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "An organism is multicellular, absorbs nutrients from decomposing matter, and its cells have nuclei and cell walls made of chitin. Which kingdom should it be classified into?",
+      "options": [
+        "Animals",
+        "Plants",
+        "Fungi",
+        "Bacteria"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which combination of cellular traits uniquely identifies an organism as belonging to the animal kingdom?",
+      "options": [
+        "Absence of cell walls and presence of a nucleus",
+        "Presence of cell walls and presence of chloroplasts",
+        "Absence of a nucleus and presence of cell walls",
+        "Presence of chitin cell walls and absence of chloroplasts"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What primary function does a classification key serve in biological study?",
+      "options": [
+        "It measures the exact population growth of a species over time.",
+        "It allows scientists to identify unknown organisms by following a structured series of choices.",
+        "It alters the genetic structure of an organism to make it fertile.",
+        "It predicts how an organism will evolve over the next century."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How is a standard dichotomous classification key designed?",
+      "options": [
+        "It consists of open-ended essay questions about an animal's behaviour.",
+        "It presents pairs of contrasting choices based on observable features leading to an identification.",
+        "It lists organisms in alphabetical order based on their common names.",
+        "It calculates the age of an organism using its mass and height."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why is biological classification vital for managing global biodiversity?",
+      "options": [
+        "It allows humans to eliminate species that are not useful.",
+        "It helps scientists organize, monitor, and conserve Earth's diverse species systematically.",
+        "It ensures all animals can interbreed successfully in captivity.",
+        "It prevents plants from competing for sunlight in wild habitats."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Students are making field observations of plants in a local woodland. Which approach represents best practice for recording accurate scientific observations?",
+      "options": [
+        "Estimating features from memory after returning to the laboratory.",
+        "Recording exact quantitative measurements, detailed drawings, and precise habitat details at the site.",
+        "Only collecting colourful specimens and ignoring green non-flowering plants.",
+        "Writing down subjective opinions about which plants look prettiest."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "While using a classification key in a pond survey, a student finds a small invertebrate with 6 jointed legs, wings, and 3 distinct body parts. Following the key, which group will this creature be identified as?",
+      "options": [
+        "Arachnid",
+        "Crustacean",
+        "Insect",
+        "Myriapod"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "When carrying out field sampling of living organisms in a sensitive nature reserve, which protocol minimizes harm to the ecosystem?",
+      "options": [
+        "Collecting all organisms found and keeping them permanently in jars.",
+        "Replacing turned rocks and logs carefully after observing organisms underneath.",
+        "Clearing all vegetation in a 5-meter area to see ground-dwelling insects clearly.",
+        "Pouring bleach into soil to force earthworms to come to the surface quickly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A male zebra and a female donkey can mate to produce a 'zonkey'. Zonkeys are almost always sterile. What fundamental biological rule does this demonstrate?",
+      "options": [
+        "Zebras and donkeys are identical species because they can mate.",
+        "Inability to produce fertile offspring shows zebras and donkeys are distinct species.",
+        "Zonkeys belong to a completely new taxonomic kingdom.",
+        "Sterility proves that neither parent organism possessed genetic material."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A single-celled organism is found in water. It contains a distinct nucleus, a cell wall made of cellulose, and chloroplasts. How should this organism be classified using cell features?",
+      "options": [
+        "Animal kingdom, because it moves in water.",
+        "Plant kingdom, because it possesses chloroplasts and cell walls alongside a nucleus.",
+        "Bacteria kingdom, because all single-celled organisms are bacteria.",
+        "Fungi kingdom, because it lives in water and has a cell wall."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
     }
   ]
 }

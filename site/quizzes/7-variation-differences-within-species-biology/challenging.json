@@ -1,6 +1,6 @@
 {
   "unitKey": "7Variation (differences within species)Biology",
-  "generatedAt": "2026-10-31T14:44:23.675868+00:00",
+  "generatedAt": "2026-11-01T15:20:35.908643+00:00",
   "questions": [
     {
       "question": "A student monitors a population of snails and groups them based on whether they have a banded shell or an unbanded shell. What type of variation is this, and what is its defining characteristic?",
@@ -1100,6 +1100,226 @@
         "Discontinuous genetic mutation caused by dietary chemicals."
       ],
       "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A researcher records the presence or absence of a specific petal pattern in wild primroses. Why is this feature classified as showing discontinuous variation?",
+      "options": [
+        "The values fall into distinct categories with no intermediate forms.",
+        "It changes gradually over the lifetime of the primrose plant.",
+        "It relies on a continuous numerical scale during measurement.",
+        "The variations depend entirely on soil moisture levels."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Students measure the stem lengths of a population of sunflower seedlings after three weeks. Why is stem length considered a continuous variable?",
+      "options": [
+        "Stem length can take any real value within a possible range.",
+        "Sunflowers only grow in predetermined, discrete height steps.",
+        "Seedling length is strictly controlled by a single isolated gene.",
+        "The length measurement can only be recorded as long or short."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A biologist categorises three traits: human ABO blood group, tree leaf area, and domestic cat coat pattern (tabby vs. solid). Which list correctly groups these traits by type of variation?",
+      "options": [
+        "Discontinuous: ABO blood group, coat pattern; Continuous: leaf area",
+        "Discontinuous: leaf area; Continuous: ABO blood group, coat pattern",
+        "Discontinuous: coat pattern; Continuous: ABO blood group, leaf area",
+        "Discontinuous: leaf area, coat pattern; Continuous: ABO blood group"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A class collects primary data on hand span and tongue-rolling ability from 30 students. Which plan correctly collects valid primary data for both traits?",
+      "options": [
+        "Measure hand span in millimetres using a ruler and tally tongue-rolling as 'can' or 'cannot'.",
+        "Group hand span into 'large' or 'small' and measure tongue curvature in degrees.",
+        "Estimate hand span by eye and test tongue-rolling by asking students' parents.",
+        "Look up average national hand span statistics and test tongue-rolling in the lab."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A scientist wants to present data collected on the wing lengths of 150 starlings. Which graph type is most appropriate and why?",
+      "options": [
+        "A histogram, because wing length is continuous data with quantitative ranges.",
+        "A bar chart with gaps, because wing length falls into clear unlinked categories.",
+        "A pie chart, because wing length represents proportions of a single bird.",
+        "A line graph showing individual bird names along the horizontal axis."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When constructing a histogram for plant stem heights ranging from 10.0 cm to 29.9 cm, how should the horizontal axis be set up?",
+      "options": [
+        "Continuous, adjacent intervals (e.g., 10-14.9, 15-19.9) with no gaps between bars.",
+        "Separate columns for each individual plant with wide spaces between them.",
+        "Categorical labels with arbitrary spacing based on leaf count.",
+        "Discrete named groups like 'short', 'medium', and 'tall' with gaps between bars."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A histogram of oak leaf lengths shows a bell-shaped curve centered at 12 cm, tapering off at 6 cm and 18 cm. What does this graph indicate about the population?",
+      "options": [
+        "Most leaves are close to 12 cm, while extremely long or short leaves are rare.",
+        "Leaves exist in three distinct, separate size categories without intermediate lengths.",
+        "Exactly half the leaves are 6 cm and the other half are 18 cm long.",
+        "Leaf length increases at a constant linear rate as the tree gets older."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Two genetically identical cuttings from a hydrangea plant are grown in different locations. One reaches 1.5 metres high while the other reaches only 0.8 metres. What explains this variation?",
+      "options": [
+        "Continuous traits like height are strongly influenced by environmental factors such as soil nutrients.",
+        "Plant height is a discontinuous trait that changes randomly between identical clones.",
+        "The cuttings modified their underlying genetic code to adapt to the light levels.",
+        "Environmental differences only affect blood type and skin color, not plant traits."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which formatting rule must be followed when creating a chart to show human blood group frequency in a school?",
+      "options": [
+        "Draw a bar chart with distinct gaps left between the category bars.",
+        "Draw a histogram where all the bars touch each other continuously.",
+        "Plot a continuous line connecting the tops of each blood group column.",
+        "Omit axis labels because blood groups are qualitative and unmeasurable."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A student surveys 50 people for earlobe attachment (attached vs. unattached). How should this data set be plotted?",
+      "options": [
+        "On a bar chart with 'Attached' and 'Unattached' as separate categories on the x-axis, separated by gaps.",
+        "On a histogram with numerical ranges along the x-axis and touching bars.",
+        "On a scatter graph with age plotted on the x-axis and earlobe size on the y-axis.",
+        "On a line graph connecting the counts of attached and unattached earlobes."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A bar chart displaying human eye colors in a classroom shows a bar of height 14 for Brown, 10 for Blue, and 4 for Green. Which statement accurately interprets this graph?",
+      "options": [
+        "Eye color is categorized into discrete groups, with Brown being the modal class.",
+        "Eye color changes continuously across the class population over time.",
+        "Green eyes are transitioning into blue eyes as students age.",
+        "The height of the bars proves that eye color depends heavily on sunlight exposure."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A person moves from a sunny climate to a cloudy climate. Which of their features will remain completely unchanged by this environmental change and why?",
+      "options": [
+        "Their ABO blood group, because discontinuous features are strictly determined by genetics.",
+        "Their skin pigmentation, because skin colour is completely unaffected by sun exposure.",
+        "Their body mass, because weight cannot be altered by lifestyle or diet choices.",
+        "Their hair length, because hair growth is determined only at birth."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When two red foxes mate, their offspring are always red foxes and not arctic foxes or domestic dogs. What principle does this demonstrate?",
+      "options": [
+        "Organisms reproduce offspring of the same kind, maintaining species resemblance.",
+        "Environment completely dictates which species an embryo will develop into.",
+        "Offspring receive all of their DNA from only one parent to stay the same species.",
+        "Differences within a species are always larger than differences between species."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A puppy shares its mother's coat texture but has its father's coat colour. Why does this puppy show similarities to both parents?",
+      "options": [
+        "It inherited genetic information from both parents during reproduction.",
+        "It learned coat patterns by observing both parents after birth.",
+        "The environment modified its fur to match both parents equally.",
+        "DNA is passed exclusively from the mother, but nutrition comes from the father."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which mechanism explains how physical features such as flower colour in pea plants are passed down through generations?",
+      "options": [
+        "DNA molecules containing genetic code are passed from parents to offspring during reproduction.",
+        "Nutrients in the seed store physical traits that dissolve into the developing plant cells.",
+        "Soil chemistry rearranges the plant's cell structure to clone the parent plant.",
+        "Proteins are absorbed directly from pollen grains without involving genetic material."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A runner develops larger leg muscles after six months of intense marathon training. What type of feature change is this?",
+      "options": [
+        "An environmental and lifestyle-acquired feature that is not passed on in DNA.",
+        "A discontinuous genetic mutation caused by physical exertion.",
+        "An inherited variation that will automatically pass to the runner's children.",
+        "A continuous genetic variation governed solely by chromosome count."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Two non-identical twin calves born to the same cow and bull look noticeably different from each other. Why does this occur?",
+      "options": [
+        "Sexual reproduction creates variation, so offspring are not usually identical to parents or siblings.",
+        "One calf inherited DNA from the parents while the other acquired DNA from the environment.",
+        "Genetic information is only passed to the firstborn offspring in mammals.",
+        "The calves belong to different species due to mutations during gestation."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Compare the differences between a domestic cat and a tiger versus the differences between two domestic cats. Which statement is correct?",
+      "options": [
+        "Differences between species are greater than differences within species.",
+        "Differences within species are always greater than differences between species.",
+        "There are no measurable differences between individuals of the same species.",
+        "Differences between species only apply to physical size, not genetic traits."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A palm tree loses several fronds during a violent storm, leaving permanent scarring on its trunk. What kind of variation is this trunk scar?",
+      "options": [
+        "Environmental variation caused solely by physical event or injury.",
+        "Inherited variation caused by changes in the tree's DNA.",
+        "Discontinuous genetic variation that will appear on all offspring seedlings.",
+        "Combined genetic and lifestyle variation passed down through pollen."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Two twin wheat plants with identical genes are grown in different soils; one yields 15 grams of grain and the other 8 grams. What does this demonstrate about crop yield?",
+      "options": [
+        "It is determined by a combination of genetic potential and environmental conditions.",
+        "It is a discontinuous trait completely independent of soil quality.",
+        "It relies solely on environmental factors with no genetic influence whatsoever.",
+        "It is an inherited trait that cannot be changed by farm management practices."
+      ],
+      "correctAnswerIndex": 0,
       "learningPointIndex": 21
     }
   ]
