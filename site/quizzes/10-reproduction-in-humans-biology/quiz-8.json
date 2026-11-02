@@ -1,0 +1,226 @@
+{
+  "unitKey": "10Reproduction in humansBiology",
+  "generatedAt": "2026-11-02T18:39:12.190690+00:00",
+  "questions": [
+    {
+      "question": "What are the human sex cells (sperm and egg cells) scientifically called?",
+      "options": [
+        "Zygotes",
+        "Gametes",
+        "Embryos",
+        "Hormones"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How much of an offspring's genetic material comes from each parent in human sexual reproduction?",
+      "options": [
+        "All of it comes from the mother",
+        "All of it comes from the father",
+        "Half comes from each parent",
+        "Three-quarters comes from the mother"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Where in the female reproductive system does fertilisation usually take place when gametes join?",
+      "options": [
+        "In the ovaries",
+        "In the fallopian tubes",
+        "In the uterus",
+        "In the cervix"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How does the amount of genetic material in a sperm cell compare to that in a zygote?",
+      "options": [
+        "A sperm cell has a full set, while a zygote has half a set",
+        "A sperm cell has half a set, while a zygote has a full set",
+        "Both have a full set of genetic material",
+        "Both have a quarter set of genetic material"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is the correct sequence of development after a zygote divides?",
+      "options": [
+        "Embryo -> Foetus -> Baby",
+        "Foetus -> Embryo -> Baby",
+        "Baby -> Embryo -> Foetus",
+        "Embryo -> Baby -> Foetus"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What is the average duration of the human gestation period?",
+      "options": [
+        "About 20 weeks",
+        "About 28 weeks",
+        "About 40 weeks",
+        "About 52 weeks"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What protects the growing foetus inside the amniotic sac?",
+      "options": [
+        "Placental fluid",
+        "Amniotic fluid",
+        "Blood plasma",
+        "Cytoplasm"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How does a developing foetus receive nutrients and remove waste products while inside the mother?",
+      "options": [
+        "Through the fallopian tubes",
+        "Through the amniotic fluid",
+        "Through the placenta",
+        "Through the stomach lining"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What occurs during birth to push the baby out through the vagina?",
+      "options": [
+        "The cervix contracts and the uterus closes",
+        "The uterus wall contracts and the cervix opens",
+        "The ovaries contract and the placenta opens",
+        "The fallopian tubes contract and the cervix closes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which of the following can pass through the placenta from the mother to the foetus?",
+      "options": [
+        "Only oxygen gas",
+        "Only water and digested food",
+        "Alcohol and chemicals from cigarette smoke",
+        "No harmful substances can pass through"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which of these is a short-term consequence of harmful substances affecting a foetus during pregnancy?",
+      "options": [
+        "Low birth weight",
+        "Sudden infant death syndrome",
+        "Foetal alcohol spectrum disorder",
+        "Long-term addiction"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is a possible long-term consequence for an infant exposed to alcohol during pregnancy?",
+      "options": [
+        "Premature birth",
+        "Miscarriage",
+        "Low birth weight",
+        "Foetal alcohol spectrum disorder"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Where in the male reproductive system are sperm cells produced and stored?",
+      "options": [
+        "In the glands",
+        "In the testes",
+        "In the sperm duct",
+        "In the bladder"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which statement correctly describes egg production in human females?",
+      "options": [
+        "Females produce new eggs every day from puberty",
+        "Females make eggs only inside the fallopian tubes",
+        "Females are born with all their eggs in their ovaries",
+        "Females produce all their eggs after menopause"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What causes the physical changes that occur in male and female bodies during puberty?",
+      "options": [
+        "The release of digestive enzymes",
+        "The production of sex hormones",
+        "An increase in blood volume",
+        "A sudden decrease in cell division"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "How are physical features inherited by offspring from their parents?",
+      "options": [
+        "Through nutrients passed in breast milk",
+        "Through genetic material (DNA) passed during reproduction",
+        "By copying parental behaviour after birth",
+        "Through hormones in the bloodstream"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "What is the main role of genetic material (DNA) in living organisms?",
+      "options": [
+        "It supplies energy directly to cells",
+        "It carries instructions for building the body and its features",
+        "It absorbs oxygen from the lungs",
+        "It protects the foetus from infections"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "On average, how long is the human menstrual cycle?",
+      "options": [
+        "7 days",
+        "14 days",
+        "28 days",
+        "40 days"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "What is the process of an egg cell being released from an ovary called?",
+      "options": [
+        "Fertilisation",
+        "Gestation",
+        "Menstruation",
+        "Ovulation"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "What happens during menstruation in the menstrual cycle?",
+      "options": [
+        "An egg cell joins with a sperm cell",
+        "The uterus lining breaks down and leaves the body",
+        "A zygote implants into the uterus wall",
+        "The placenta forms inside the uterus"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    }
+  ]
+}

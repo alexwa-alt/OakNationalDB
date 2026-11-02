@@ -1,6 +1,6 @@
 {
   "unitKey": "7Variation (differences within species)Biology",
-  "generatedAt": "2026-11-01T15:20:35.908643+00:00",
+  "generatedAt": "2026-11-02T18:35:35.379777+00:00",
   "questions": [
     {
       "question": "A student monitors a population of snails and groups them based on whether they have a banded shell or an unbanded shell. What type of variation is this, and what is its defining characteristic?",
@@ -1321,6 +1321,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 21
+    },
+    {
+      "question": "A researcher records the eye colors of standard laboratory mice (black, red, pink, albino white). Why is eye color in these mice classified as showing discontinuous variation?",
+      "options": [
+        "It changes continuously as the mouse ages from birth to adulthood.",
+        "The observed data falls into distinct, separate categories with no intermediate values.",
+        "It can be measured on a continuous numerical scale using specialized tools.",
+        "The variations depend entirely on the amount of light in the laboratory environment."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A botanist measures the length of leaves on an oak tree to the nearest millimeter and finds values ranging from 42 mm to 118 mm. What key characteristic makes leaf length an example of continuous variation?",
+      "options": [
+        "The measurement can take any numerical value within a range rather than being limited to set categories.",
+        "Leaves can only be classified into fixed categories such as small, medium, or large.",
+        "Leaf length is determined solely by a single gene with no environmental effect.",
+        "The leaf lengths stay completely constant throughout the entire lifespan of the tree."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which option correctly pairs a plant feature and a human feature that both exhibit discontinuous variation?",
+      "options": [
+        "Plant height and human body mass",
+        "Flower color in pea plants and human ABO blood group",
+        "Leaf surface area and human foot length",
+        "Stem diameter in trees and human hair length"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A student wants to collect primary data to investigate variation in a class of 30 students. Which measurement strategy is best suited for collecting accurate data on a continuous trait?",
+      "options": [
+        "Asking students to vote on whether they consider themselves tall or short.",
+        "Counting the total number of students who can roll their tongue.",
+        "Using a tape measure to record each student's height to the nearest millimeter.",
+        "Sorting students into broad groups based on whether they wear glasses or not."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A scientist wants to display data on the precise stem lengths of 200 sunflower plants. Why is a histogram chosen instead of a standard bar chart?",
+      "options": [
+        "A histogram has gaps between bars to show that stem length is discrete.",
+        "A histogram uses a continuous numerical scale on the horizontal axis with touching bars for numerical ranges.",
+        "A histogram is only used for non-numerical categorical labels such as flower color.",
+        "A histogram displays percentage proportions of separate groups without axis scales."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Students measure the mass of 50 apples from an orchard. When plotting this continuous data on a histogram, how should the horizontal axis (x-axis) be structured?",
+      "options": [
+        "As distinct named categories (e.g., Small, Medium, Large) separated by gaps.",
+        "As continuous numerical class intervals (e.g., 100-119g, 120-139g) without gaps between adjacent bars.",
+        "As individual apple numbers from 1 to 50 in the order they were picked.",
+        "As a pie chart divided into four equal quadrants for mass ranges."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A histogram shows the heights of 100 adult pine trees, with bars grouped into 2-meter intervals: 10-11.9m (15 trees), 12-13.9m (45 trees), 14-15.9m (30 trees), and 16-17.9m (10 trees). What conclusion can be drawn from this graph?",
+      "options": [
+        "Pine tree height falls into four fixed genetic categories with no intermediate values.",
+        "Most trees in the sample have a height between 12.0 meters and 13.9 meters.",
+        "Exactly 45% of the trees are taller than 16 meters.",
+        "Tree height is determined solely by the age of the tree, independent of environment."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Two identical twin cuttings from a single rose plant are grown in different conditions: plant A receives full sunlight and fertilizer, while plant B is grown in shade with low nutrients. Plant A grows much taller than plant B. What does this demonstrate about continuous variation in height?",
+      "options": [
+        "Height is controlled exclusively by genetic factors that change during growth.",
+        "Height is controlled entirely by environmental factors and has no genetic basis.",
+        "Height is a continuous feature influenced by both genetic potential and environmental conditions.",
+        "Continuous traits never change in response to environmental factors like soil or light."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which graph design rule must be followed when constructing a bar chart for discontinuous variation data, such as natural hair color categories?",
+      "options": [
+        "The horizontal axis must represent continuous numerical intervals with touching bars.",
+        "The vertical axis must show cumulative frequency plotted as a continuous curved line.",
+        "Leave clear gaps between the bars to show that the categories are separate and distinct.",
+        "Draw a line of best fit connecting the top center point of each bar."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A class surveys 40 people to record their blood group (A, B, AB, O). When plotting these primary results on a bar chart, where should the blood group types be placed?",
+      "options": [
+        "On the vertical y-axis as continuous numerical values.",
+        "On the horizontal x-axis as discrete, separate labelled categories.",
+        "Inside a continuous scatter graph as individual coordinate points.",
+        "Along a logarithmic diagonal line representing frequency density."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A bar chart displaying human hand dominance shows 88% of a surveyed population are right-handed, 10% left-handed, and 2% ambidextrous. Which statement accurately interprets this graph?",
+      "options": [
+        "Handedness varies continuously, so individuals gradually shift between left and right daily.",
+        "Handedness is a discontinuous feature where individuals fit into distinct, separate categories.",
+        "Most people will become ambidextrous if they practice writing with both hands.",
+        "Handedness data should have been plotted as a line graph to show continuous change over time."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A person exercises regularly and eats a nutrient-dense diet. Despite this lifestyle, their ABO blood type remains group O throughout their entire life. What explanation accounts for this stability?",
+      "options": [
+        "Blood type is a discontinuous feature determined solely by inherited genes, unaffected by lifestyle or environment.",
+        "Physical exercise alters DNA in blood cells to prevent blood group changes.",
+        "Diet affects continuous features only during childhood, not in adulthood.",
+        "ABO blood groups are environmental features that freeze after infancy."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When two domestic dogs (Canis lupus familiaris) reproduce, their offspring are always domestic dogs rather than wolves, foxes, or cats. Which biological principle does this observe?",
+      "options": [
+        "Organisms reproduce to make offspring of the same kind, maintaining species resemblance.",
+        "Offspring are always exact identical clones of the male parent.",
+        "Environmental factors force offspring to change species depending on where they are born.",
+        "Differences between parents always lead to new species being created every generation."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A kitten has ear shape and fur color similar to its mother, but eye color and tail length similar to its father. Why does the kitten show these combined similarities?",
+      "options": [
+        "It inherited features from both parents, resulting in family resemblance.",
+        "It learned these physical traits by observing its parents after birth.",
+        "The mother transferred all her traits, while the environment altered half of them.",
+        "Kittens naturally copy the appearance of whichever parent feeds them most."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How are physical traits, such as natural eye color or earlobe attachment, passed down from biological parents to their offspring?",
+      "options": [
+        "Through nutrients transferred across the digestive tract during early development.",
+        "Via chemical signals in sunlight absorbed by the skin of the parents.",
+        "Through DNA molecules containing genetic information passed on during reproduction.",
+        "By environmental learning during the first year of life."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A person who moves to a very sunny region develops a deep skin tan over the summer, whereas their twin living indoors remains pale. What type of variation causes this difference in skin tone?",
+      "options": [
+        "Purely genetic variation passed down through sperm and egg cells.",
+        "Environmental variation caused by exposure to light and lifestyle factors.",
+        "Discontinuous genetic mutation occurring equally in both twins.",
+        "Species-level variation that alters their taxonomic classification."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Three non-twin puppies born in the same litter to the same parent dogs have different coat patterns and weights. What accounts for these differences?",
+      "options": [
+        "There is usually variation between offspring, making them non-identical to parents or siblings.",
+        "Puppies inside the same litter belong to completely different species.",
+        "One parent contributes all the DNA while the other contributes none.",
+        "DNA is only passed to the firstborn puppy in a litter."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Compare the differences between a robin and an eagle with the differences between two individual robins. Which statement correctly describes species-level variation?",
+      "options": [
+        "Differences within the robin species are greater than differences between robins and eagles.",
+        "Differences between distinct species are greater than differences among individuals of the same species.",
+        "Individuals of the same species have completely identical structures with zero variation.",
+        "Members of different species have fewer genetic differences than offspring of the same parents."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "In a flock of sheep of the same breed, some individuals have longer wool, different horn shapes, or varying body sizes. What term describes these differences among individuals of the same species?",
+      "options": [
+        "Variation",
+        "Adaptation breakdown",
+        "Speciation",
+        "Selective cloning"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A cat loses part of its left ear in a fight with another animal. Years later, it gives birth to a litter of kittens. None of the kittens are born with missing ear parts. Why was this missing ear trait not passed on?",
+      "options": [
+        "The missing ear part was caused solely by an environmental injury, so it did not change inherited DNA.",
+        "Environmental injuries are only passed down to female offspring.",
+        "The DNA for ear shape is only inherited from the father cat.",
+        "The kittens' immune systems automatically repaired their ears before birth."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
     }
   ]
 }

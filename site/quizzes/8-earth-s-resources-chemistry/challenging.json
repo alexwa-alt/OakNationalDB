@@ -1,6 +1,6 @@
 {
   "unitKey": "8Earth's resourcesChemistry",
-  "generatedAt": "2026-11-01T15:21:06.348486+00:00",
+  "generatedAt": "2026-11-02T18:37:12.165518+00:00",
   "questions": [
     {
       "question": "A geologist finds a specimen of rock that formed from liquid rock cooling within a deep fissure beneath a volcano. What was the liquid rock called before it solidified, and why?",
@@ -1101,6 +1101,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 7
+    },
+    {
+      "question": "A scientist observes liquid rock erupting from a volcanic vent onto the surface. Prior to eruption, while underground, this liquid rock was called:",
+      "options": [
+        "Magma",
+        "Lava",
+        "Mantle fluid",
+        "Molten core"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Rock Sample X formed from lava cooling on the ocean floor, while Rock Sample Y formed from magma cooling deep underground. How should these two rocks be classified?",
+      "options": [
+        "X is intrusive igneous and Y is extrusive igneous",
+        "X is extrusive igneous and Y is intrusive igneous",
+        "X is metamorphic and Y is extrusive igneous",
+        "X is sedimentary and Y is intrusive igneous"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A geologist compares two igneous rocks from the same volcano area. Rock A has very large crystals, whereas Rock B has microscopic crystals. What does this reveal about their formation?",
+      "options": [
+        "Rock A cooled much faster than Rock B",
+        "Rock A formed under lower pressure than Rock B",
+        "Rock A cooled much more slowly than Rock B",
+        "Rock B formed deep underground while Rock A formed on the surface"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A student examines a rock under a magnifier and notices the individual mineral grains fit tightly together with zero open space between them. Which texture is described?",
+      "options": [
+        "Rounded grains",
+        "Fragmented grains",
+        "Layered grains",
+        "Interlocking grains"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What defines the internal atomic structure of a crystal found inside a rock mineral?",
+      "options": [
+        "Atoms are arranged in a highly regular, repeating pattern",
+        "Atoms are randomly clustered without any fixed pattern",
+        "Particles move freely in a disordered liquid state",
+        "Atoms form spherical layers that slide past each other easily"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Deep between two colliding tectonic plates, existing solid rock experiences immense pressure and elevated temperatures without melting. What structural change typically occurs?",
+      "options": [
+        "The rock breaks into rounded sand grains",
+        "Large crystals can grow inside the solid rock",
+        "The rock instantly turns into porous sedimentary layers",
+        "The rock evaporates into volcanic gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A sedimentary shale rock is subjected to intense warmth and squashing deep underground without melting, transforming into slate. Which process and category does this represent?",
+      "options": [
+        "Weathering forming sedimentary rock",
+        "Crystallisation forming igneous rock",
+        "Metamorphism forming metamorphic rock",
+        "Deposition forming volcanic rock"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Slate can be easily split into flat, thin sheets to make durable roofing tiles. Which microscopic feature gives metamorphic slate this useful physical property?",
+      "options": [
+        "Large gas bubbles trapped during rapid cooling",
+        "Randomly oriented interlocking grains",
+        "Uncemented rounded grains of quartz sand",
+        "Crystals that are aligned in parallel planes"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which statement best describes a mineral found within Earth's rocks?",
+      "options": [
+        "A naturally occurring pure element or compound with a crystal structure",
+        "A synthetic mixture of crushed organic fossils and clay",
+        "Any rock that contains rounded grains cemented together",
+        "A liquid substance that fills spaces between rock fragments"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which statement correctly describes the mantle layer of Earth?",
+      "options": [
+        "It is a liquid metallic sphere located at the centre",
+        "It is a dense, rocky layer located directly beneath the thin crust",
+        "It is a thin watery shell surrounding the planet",
+        "It is a hollow layer filled with volcanic gases"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "If scientists could explore to the very centre of Earth, what would they find surrounding the solid metallic inner core?",
+      "options": [
+        "A solid rocky crust",
+        "A gas-filled central chamber",
+        "A liquid outer core",
+        "A liquid water layer"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why does the inner core of Earth remain solid despite reaching temperatures hotter than the surface of the Sun?",
+      "options": [
+        "The outer core blocks all heat from entering the inner core",
+        "Atmospheric gases keep the inner core frozen",
+        "The inner core consists entirely of non-melting ice",
+        "Tremendous pressure at Earth's centre keeps particles pushed together"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Frequent earthquakes and volcanic eruptions occur along specific lines across Earth's surface. What do these occurrences indicate about Earth's structure?",
+      "options": [
+        "Earth's internal layers are active and interact with each other",
+        "Earth's crust is completely static and unchanging",
+        "Volcanoes are caused solely by surface weather conditions",
+        "The mantle is entirely hollow and collapsing inward"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which piece of evidence strongly supports the idea that Earth's continents were once all joined together?",
+      "options": [
+        "The identical temperature of air on all continents",
+        "Identical rock formations and fossil types matching across ocean boundaries",
+        "The presence of liquid water in oceans surrounding all landmasses",
+        "The fact that all rocks on Earth have the exact same age"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which description correctly characterizes Earth's crust according to tectonic theory?",
+      "options": [
+        "It is a single, unbroken solid shell that remains permanently stationary",
+        "It floats rapidly on open ocean currents across the globe",
+        "It is broken into large rigid pieces called tectonic plates that move very slowly",
+        "It is made entirely of liquid magma that hardens daily"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A sample of sandstone consists of rounded quartz grains stuck together with spaces in between. How should this rock be classified?",
+      "options": [
+        "Extrusive igneous rock",
+        "Intrusive igneous rock",
+        "Metamorphic rock",
+        "Sedimentary rock"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Under a microscope, Rock Sample P exhibits crystals pointing in many random directions. Rock Sample Q exhibits crystals that line up predominantly in parallel rows. What are Samples P and Q?",
+      "options": [
+        "P is igneous and Q is metamorphic",
+        "P is metamorphic and Q is igneous",
+        "P is sedimentary and Q is igneous",
+        "P is igneous and Q is sedimentary"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Rock A has interlocking crystals with zero empty space between them. Rock B has rounded grains that leave tiny cavities between them. How do their porosities compare?",
+      "options": [
+        "Rock A is porous and Rock B is non-porous",
+        "Rock A is non-porous and Rock B is porous",
+        "Both Rock A and Rock B are non-porous",
+        "Both Rock A and Rock B are porous"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Granite is a hard igneous rock with interlocking crystals that does not absorb water and withstands heavy wear. Why is granite commonly selected for kitchen worktops?",
+      "options": [
+        "Its soft, aligned layers allow it to be easily cut",
+        "Its high porosity allows it to soak up spills rapidly",
+        "Its non-porous and durable properties make it resistant to fluids and wear",
+        "It contains fossils that react with food to preserve it"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "A geologist discovers a sedimentary rock containing intact sea shells and fossilized leaf imprints. What information do these components provide?",
+      "options": [
+        "They demonstrate that the rock formed at the Earth's inner core",
+        "They prove the rock was once liquid magma high up in a volcano",
+        "They show the rock was subjected to high temperatures that melted all minerals",
+        "They indicate the environment in which the rock formed and help determine its age"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 5
     }
   ]
 }

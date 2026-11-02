@@ -1,6 +1,6 @@
 {
   "unitKey": "9Series circuitsPhysics",
-  "generatedAt": "2026-08-13T09:39:21.949412+00:00",
+  "generatedAt": "2026-11-02T18:38:54.927767+00:00",
   "questions": [
     {
       "question": "A scientist compares two different series circuits. Circuit A uses a 9V battery and Circuit B uses a 1.5V battery. Both circuits are otherwise identical. Why does Circuit A have a larger current flowing through it?",
@@ -881,6 +881,226 @@
       ],
       "correctAnswerIndex": 2,
       "learningPointIndex": 35
+    },
+    {
+      "question": "A student builds a single loop series circuit containing a 12 V battery and three identical lamps. What voltage will be measured across one of the lamps?",
+      "options": [
+        "4 V, because the total voltage of the battery is divided across the components in series",
+        "12 V, because every component in a series circuit receives the full voltage of the battery",
+        "36 V, because the voltage of each component adds up to three times the battery voltage",
+        "0 V, because voltage drops to zero immediately after the first component"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Three cells rated at 1.5 V, 1.5 V, and 3.0 V are connected in series to form a battery. What total voltage does this battery supply to a circuit?",
+      "options": [
+        "6.0 V",
+        "1.5 V",
+        "3.0 V",
+        "4.5 V"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A simple circuit has a lamp placed 100 metres away from the switch. When the switch is closed, why does the lamp turn on almost instantly?",
+      "options": [
+        "Electrons everywhere in the circuit start moving at the same time as soon as it is turned on",
+        "Electrons travel from the switch to the bulb at the speed of light",
+        "The push from the battery creates brand new electrons inside the lamp bulb",
+        "Electrons move around the loop very quickly, completing thousands of laps per second"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A student claims that individual electrons zip around a simple circuit at hundreds of miles per hour. Is this statement correct?",
+      "options": [
+        "No, individual electrons actually move through the circuit slowly, at a speed of a few millimetres per second",
+        "Yes, electrons must move near the speed of light for current to exist",
+        "No, electrons remain completely stationary while transferring energy like a wave",
+        "Yes, but only when the voltage of the battery is greater than 10 volts"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "In a series circuit with three bulbs, one bulb has a broken filament, causing all bulbs to go out. How can the other two bulbs be lit without replacing the broken bulb?",
+      "options": [
+        "Connect a wire across the terminals of the broken bulb to bypass it",
+        "Reverse the battery connections so current flows in the opposite direction",
+        "Add an extra switch next to the broken bulb to bypass the battery",
+        "Connect a voltmeter across the battery to push current past the broken bulb"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "An ammeter placed right after the positive terminal of a battery in a series circuit reads 0.5 A. What will an ammeter placed right before the negative terminal read?",
+      "options": [
+        "0.5 A, because the current in a series circuit is the same everywhere",
+        "0.0 A, because all the current is used up by the components in the circuit",
+        "0.25 A, because current decreases steadily as it travels around the loop",
+        "1.0 A, because current doubles as it returns to the negative terminal"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A student adds a second bulb into a single-loop series circuit. What happens to the current reading on an ammeter placed BEFORE the original bulb?",
+      "options": [
+        "The current decreases everywhere in the circuit, including before the original bulb",
+        "The current before the original bulb stays the same, but decreases after the new bulb",
+        "The current increases before the original bulb to supply energy to the extra component",
+        "The current remains completely unchanged throughout the entire circuit"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Why is an ammeter designed to let current flow through it without altering the existing current in the circuit?",
+      "options": [
+        "So it can measure the current accurately without affecting the circuit it is connected into",
+        "So it can increase the overall current flowing to lamps in the circuit",
+        "So it can convert electric current into voltage for accurate measurement",
+        "So it acts as a resistor to prevent electrical components from overheating"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A student wants to measure the potential difference across a resistor in a circuit using a voltmeter. How should the voltmeter be connected?",
+      "options": [
+        "Across the terminals of the resistor",
+        "In series directly inside the main circuit loop alongside the resistor",
+        "Between the switch and the positive terminal of the battery only",
+        "In series with an ammeter positioned before the resistor"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "When a plastic rod is rubbed with a cloth, it gains a static charge, but a copper rod held in hand does not keep a charge. Why is it difficult to charge metals by rubbing?",
+      "options": [
+        "Electric charge flows easily through metals, preventing charge from building up",
+        "Metals do not contain any electrons or electric charges in their atoms",
+        "Friction destroys any electric charges that form on the surface of metals",
+        "Metals absorb static forces and instantly convert them into heat"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "Two negatively charged balloons are hung near each other on thin threads. What will happen when they are brought close together?",
+      "options": [
+        "They will push away from each other because objects with the same charge repel",
+        "They will pull towards each other because all charged objects attract",
+        "Nothing will happen because static forces only work when objects are touching",
+        "They will exchange charges until one balloon becomes positively charged"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "Which statement accurately describes a copper wire in an open (turned off) electric circuit?",
+      "options": [
+        "The wire contains electric charges in its atoms even when the circuit is turned off",
+        "The wire contains no electric charges until the battery pumps them in",
+        "Charges are created at the switch when closed and destroyed when opened",
+        "Charges exist only inside the battery and move into the wire when switched on"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which path does electrical current follow when passing through a standard filament bulb?",
+      "options": [
+        "From one connection, through a support wire, through the filament, and out the second connection",
+        "Directly into the glass sphere, across the gas inside, and out through the bottom",
+        "From the side contact, through the filament, where it is completely consumed",
+        "From both metal contacts simultaneously, meeting in the middle of the filament"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A bulb in a series circuit stops glowing. A close look reveals a tiny break in the thin wire inside the bulb. Why does this stop the entire circuit from working?",
+      "options": [
+        "The broken filament creates a gap in the circuit so current cannot flow through it",
+        "The broken filament short-circuits the battery, draining its voltage instantly",
+        "The broken filament reverses the direction of the voltage push from the battery",
+        "The broken filament causes current to leak out into the surrounding air"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How can a student test whether an unknown wire is working and able to conduct electricity?",
+      "options": [
+        "Place the wire into a simple circuit with a battery and a bulb to see if the bulb lights",
+        "Rub the wire with a cloth and check if it attracts small pieces of paper",
+        "Connect a voltmeter across the wire without a battery to check for current",
+        "Connect the wire directly to a bulb without a battery and watch for light"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why must wires in a circuit diagram be drawn neatly with straight lines and no gaps?",
+      "options": [
+        "Straight lines provide clarity, and gaps in lines would indicate a break in the circuit",
+        "Gaps in drawn lines represent points where voltage turns into static charge",
+        "Curved lines in circuit diagrams represent higher electrical resistance",
+        "Diagrams drawn with gaps show that current jumps through the air between components"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A positively charged rod is brought near a suspended negatively charged strip. What force will be observed between them?",
+      "options": [
+        "An attractive force, because objects with opposite charges attract each other",
+        "A repulsive force, because all charged objects push each other away",
+        "No force, because static forces only exist between neutral objects",
+        "A magnetic force, because static charges automatically create magnets"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "What are the particles inside atoms that carry a negative electric charge called?",
+      "options": [
+        "Electrons",
+        "Protons",
+        "Neutrons",
+        "Volts"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "Why does a standard chemical battery have distinct positive and negative terminals?",
+      "options": [
+        "Chemical reactions inside the battery create positive and negative ends",
+        "Magnetic fields inside the battery push positive charges to one end",
+        "Friction from moving electrons creates static charges at each end",
+        "One end attracts electrons while the other end destroys them"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which statement correctly describes a series circuit?",
+      "options": [
+        "An electric circuit with one complete loop from one end of a battery to the other end",
+        "An electric circuit containing multiple branching paths for current to flow through",
+        "A circuit where components are connected across each other in separate loops",
+        "Any circuit that contains three or more batteries connected together"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
     }
   ]
 }
