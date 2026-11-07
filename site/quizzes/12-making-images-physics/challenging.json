@@ -1,6 +1,6 @@
 {
   "unitKey": "12Making imagesPhysics",
-  "generatedAt": "2026-09-26T13:24:09.612180+00:00",
+  "generatedAt": "2026-11-07T14:58:25.073661+00:00",
   "questions": [
     {
       "question": "A student makes a pinhole camera with two tiny pinholes placed very close to each other on the front face instead of one. What will they observe on the screen?",
@@ -1101,6 +1101,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 8
+    },
+    {
+      "question": "A student makes a pinhole camera and observes an image on the screen. If they carefully punch a second identical pinhole a short distance away from the first, what will happen on the screen?",
+      "options": [
+        "The single image will become twice as bright and remain completely sharp.",
+        "Two separate, dim, inverted images of the same object will appear on the screen.",
+        "The image will disappear completely because light rays cancel each other out.",
+        "The image will rotate by 180 degrees and become upright."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A pinhole camera produces a sharp but dim image. When the user enlarges the pinhole, why does the image become brighter but blurred?",
+      "options": [
+        "More light passes through the hole, but light rays from each point on the object enter in multiple directions and overlap on the screen.",
+        "Less light enters the box, causing the rays to spread over a larger screen area.",
+        "The speed of light increases through a larger opening, creating internal reflections.",
+        "Light rays stop traveling in straight lines once the opening becomes larger than a single point."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A student places an opaque piece of card over the top half of a convex lens while focusing light from a bright object onto a screen. What happens to the image formed on the screen?",
+      "options": [
+        "The top half of the image on the screen is completely cut off.",
+        "The bottom half of the image on the screen is completely cut off.",
+        "The complete image is still visible on the screen, but it is dimmer.",
+        "The image flips vertically so that it is no longer inverted."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "When a convex lens focuses an image of a single point on an object onto a screen, how do light rays travel from that point to the screen?",
+      "options": [
+        "Only a single light ray passes from that point through the centre of the lens to the screen.",
+        "All light rays leaving that point and striking any part of the lens are focused to meet at the same point on the screen.",
+        "Light rays from that point spread out evenly over the whole screen to form the background.",
+        "Light rays reflect off the lens surface onto the screen to create a point."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How does the refraction (bending) of light vary across different parts of a converging (convex) lens?",
+      "options": [
+        "Light rays refract most near the centre of the lens and not at all near the edges.",
+        "Light rays refract equally at all positions across the lens surface.",
+        "Light rays refract more near the edges of the lens than near the centre.",
+        "Light rays only refract when passing through the exact middle axis of the lens."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A person stands 3 metres in front of a plane mirror. What is the distance between the person and their reflection?",
+      "options": [
+        "3 metres",
+        "1.5 metres",
+        "6 metres",
+        "0 metres"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A student wearing a shirt with text printed on it stands facing a plane mirror. How does the text appear in the reflection?",
+      "options": [
+        "Upright and identical to how it appears on the shirt.",
+        "Upside down, but with letters in the original left-to-right order.",
+        "Laterally inverted, looking reversed left-to-right.",
+        "Both upside down and reversed left-to-right."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why is the image formed by a plane mirror classified as a virtual image?",
+      "options": [
+        "Because light rays physically pass through the glass and meet behind the mirror.",
+        "Because it appears where light rays seem to come from, but no light actually comes from behind the mirror.",
+        "Because it can be projected directly onto a screen placed behind the mirror.",
+        "Because the image is smaller and dimmer than the physical object."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In a ray diagram showing how a virtual image is formed by a mirror, how are virtual light rays represented?",
+      "options": [
+        "As solid arrows pointing away from the mirror.",
+        "As dashed lines showing where light rays appear to have come from.",
+        "As curved lines connecting the object directly to the image.",
+        "As thick coloured lines to distinguish them from incoming light."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A pure white object is illuminated only by pure blue light. What colour does the object appear to an observer, and why?",
+      "options": [
+        "White, because white objects retain their colour under any lighting.",
+        "Black, because white objects absorb all coloured light.",
+        "Blue, because white objects reflect all colours of incident light.",
+        "Cyan, because blue light mixes with the white object."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "An object appears blue under white light. What happens to the red and green components of the white light when they hit this object?",
+      "options": [
+        "They are reflected alongside the blue light.",
+        "They are absorbed by the object.",
+        "They pass straight through the object without changing.",
+        "They are converted into invisible ultraviolet light."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "An object reflects only green light and absorbs all other colours. If pure red light shines on this object, what colour will it appear?",
+      "options": [
+        "Red",
+        "Yellow",
+        "Green",
+        "Black"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A ray of light in air enters a flat glass block at an angle to the normal line. How does the light ray change direction as it enters the glass?",
+      "options": [
+        "It turns away from the normal line.",
+        "It turns towards the normal line.",
+        "It continues in its original direction without bending.",
+        "It reflects completely off the boundary at 90 degrees."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A light ray inside a transparent glass block travels towards the edge and exits into air at an angle to the normal. Which direction does it turn upon entering the air?",
+      "options": [
+        "It turns towards the normal line.",
+        "It turns away from the normal line.",
+        "It stops at the boundary and is absorbed.",
+        "It bends backwards into the glass block."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A ray of light enters and leaves a flat glass slab through opposite parallel sides. What is the final direction of the exiting light ray relative to the incident ray?",
+      "options": [
+        "It travels in a completely different angle away from the original path.",
+        "It ends up in its original direction, but displaced to the side.",
+        "It is bent toward the normal permanently, leaving at a right angle.",
+        "It reverses direction and travels back toward the source."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A straight pencil dipped partly in water appears bent at the surface when viewed from the side. What causes this visual effect?",
+      "options": [
+        "Light reflecting off the water forms a second physical pencil.",
+        "Refraction of light at the boundary creates a virtual image where light seems to come from.",
+        "Water pressure physically bends the pencil submerged under water.",
+        "Water absorbs all light rays coming from the pencil."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A lighting technician shines equal amounts of red and green light onto a white screen. What colour appears on the screen, and what colour is formed if equal blue light is added?",
+      "options": [
+        "Yellow, and adding blue light creates white light.",
+        "Magenta, and adding blue light creates cyan light.",
+        "Cyan, and adding blue light creates white light.",
+        "Brown, and adding blue light creates black."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Which option correctly matches the functions of rod and cone cells located on the retina?",
+      "options": [
+        "Rod cells detect red, green, and blue colours, while cone cells detect overall brightness.",
+        "Cone cells detect red, green, or blue light, while rod cells detect overall brightness.",
+        "Rod cells produce coloured signals, while cone cells absorb excess light.",
+        "Both rod and cone cells detect all colours equally, but rod cells only work in bright daylight."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "How does a modern digital display screen produce a bright yellow letter on a dark background?",
+      "options": [
+        "Special yellow sub-pixels turn on while red, green, and blue sub-pixels remain off.",
+        "Red and green sub-pixels illuminate at equal brightness, while blue sub-pixels stay off.",
+        "Blue sub-pixels illuminate brightly and shift wavelength into yellow.",
+        "Red, green, and blue sub-pixels all illuminate at their maximum possible brightness."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "When white sunlight passes through a triangular glass prism, a spectrum of colours is produced. What causes this separation of light?",
+      "options": [
+        "The prism adds chemical dyes to the light as it passes through the glass.",
+        "Different colours of light refract by different amounts at the glass surfaces, splitting the sunlight.",
+        "The glass reflects light back and forth until primary colours separate.",
+        "The light beam loses brightness inside the prism, leaving visible spectral colours."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
     }
   ]
 }

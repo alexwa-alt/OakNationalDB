@@ -1,6 +1,6 @@
 {
   "unitKey": "13Diet and exerciseBiology",
-  "generatedAt": "2026-09-26T13:25:00.467516+00:00",
+  "generatedAt": "2026-11-07T14:59:06.190311+00:00",
   "questions": [
     {
       "question": "An elite teenage athlete and a sedentary adult office worker are comparing their dietary needs. Which of the following statements correctly evaluates their comparative requirements for specific nutrients?",
@@ -1101,6 +1101,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 2
+    },
+    {
+      "question": "An experiment burns a 0.5 g cracker to heat 20 g of water. The water temperature rises from 18 °C to 28 °C. Using Energy (J) = mass of water (g) × rise in temperature (°C) × 4.2, how much energy did the water absorb?",
+      "options": [
+        "420 J",
+        "840 J",
+        "1680 J",
+        "42 J"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Students tested a cashew nut three times to find the temperature rise of 10 g of water: Trial 1 = 14 °C, Trial 2 = 25 °C (flame went out early), Trial 3 = 16 °C. How should they calculate the mean temperature rise to ensure valid results?",
+      "options": [
+        "Exclude Trial 2 as an anomaly and calculate the mean of 14 °C and 16 °C (15 °C)",
+        "Calculate the average of all three trials: (14 + 25 + 16) / 3 = 18.3 °C",
+        "Add 14 °C and 16 °C together without dividing to get 30 °C",
+        "Use the highest value (25 °C) because it represents maximum possible heat release"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why does a person's breathing rate and heart rate increase simultaneously during vigorous sprinting?",
+      "options": [
+        "Breathing rate increases to heat up muscle cells, while heart rate increases to pump excess glucose into the lungs",
+        "Heart rate increases to supply carbon dioxide to muscles, while breathing rate increases to cool down blood plasma",
+        "The heart must pump faster to deliver oxygen to muscle cells for increased cellular respiration, while breathing rate increases to resupply oxygen and remove carbon dioxide",
+        "Breathing rate increases to produce oxygen directly inside the bloodstream without involving cellular respiration"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "Two athletes, Alex and Sam, complete identical high-intensity running workouts. Alex's heart rate returns to resting level in 3 minutes, while Sam's takes 8 minutes. Which conclusion is most accurate?",
+      "options": [
+        "Alex is less fit because a rapid drop in heart rate means the heart stopped working hard too soon",
+        "Alex is fitter because a shorter recovery time shows a more efficient cardiovascular system",
+        "Sam is fitter because a longer recovery time indicates muscles received more energy overall",
+        "Both athletes have equal fitness because total exercise duration was identical"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "BMI is calculated using body mass and height (mass in kg / (height in m)^2). If Person A and Person B have the exact same body mass of 75 kg, but Person A is 1.6 m tall and Person B is 1.85 m tall, how do their BMIs compare?",
+      "options": [
+        "Person A has a higher BMI than Person B because height is in the denominator",
+        "Person B has a higher BMI than Person A because taller people always have higher BMIs",
+        "Both have the same BMI because their mass is identical",
+        "Person A has a lower BMI because mass divided by height is smaller for shorter people"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A student investigates how different exercise types (walking, jogging, sprinting) affect pulse rate. In this investigation, what are the independent and dependent variables?",
+      "options": [
+        "Independent variable: pulse rate; Dependent variable: type of exercise",
+        "Independent variable: length of time exercising; Dependent variable: age of student",
+        "Independent variable: type of exercise; Dependent variable: pulse rate",
+        "Independent variable: temperature of the room; Dependent variable: type of exercise"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "To fairly compare the effect of skipping vs cycling on heart rate, which control variables must be kept constant?",
+      "options": [
+        "Duration of exercise, intensity level, and environmental temperature",
+        "Heart rate after exercise and total energy consumed",
+        "Type of exercise and resting pulse rate",
+        "The dependent variable and the x-axis labels"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Why might an endurance cyclist during a multi-day race require a significantly higher proportion of carbohydrate intake compared to an office worker of the same age and height?",
+      "options": [
+        "Carbohydrates are required to build skin cells damaged by wind during cycling",
+        "Carbohydrates supply rapid fuel for high cellular respiration rates required by prolonged muscle activity",
+        "Office workers require no energy so carbohydrates would poison them",
+        "The cyclist needs carbohydrates only to increase overall height and body weight for momentum"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A sailor on an extended voyage consumes plenty of energy-dense lipids and purified carbohydrates, but lacks fresh fruit and vegetables. Eventually, their gums begin to bleed and wounds heal slowly. Which condition and cause explain this?",
+      "options": [
+        "Obesity caused by excessive fat intake",
+        "Starvation caused by lack of total calorie intake",
+        "A deficiency disease caused by a lack of an essential vitamin",
+        "High cardiovascular fitness caused by reduced body mass"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A growing teenager requires protein in their diet primarily for which physiological purpose?",
+      "options": [
+        "Insulation underneath the skin to maintain internal temperature during winter",
+        "Primary fast-release fuel for cellular respiration in brain tissue",
+        "Dissolving minerals for transport through cell membranes",
+        "Providing raw materials and amino acids to build new biomass for cell growth and tissue repair"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Looking at a pre-packaged sandwich label, a consumer notices it provides 1500 kJ per serving. If an average teenager's daily energy requirement is 8400 kJ, what percentage of their daily energy requirement does one sandwich provide?",
+      "options": [
+        "Approximately 18%",
+        "Exactly 50%",
+        "Approximately 35%",
+        "Over 80%"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Sustained excessive energy intake over many years can lead to severe obesity. Which long-term health risk is directly heightened by obesity?",
+      "options": [
+        "Immediate loss of bone density causing instant fractures",
+        "Complete cessation of cellular respiration in muscle tissue",
+        "Developing heart disease due to increased strain on the circulatory system",
+        "Scurvy due to instant destruction of vitamin C in the liver"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "If an experiment measures heart rate after 4 distinct types of exercise (walking, running, swimming, jumping), how should this data be represented on a bar chart?",
+      "options": [
+        "Type of exercise (categoric independent variable) on the x-axis, and heart rate on the y-axis",
+        "Heart rate (continuous independent variable) on the x-axis, and type of exercise on the y-axis",
+        "Time elapsed on the x-axis, and type of exercise on the y-axis as a scatter plot",
+        "Type of exercise on the y-axis, and room temperature on the x-axis"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "In a simple calorimetry practical to compare energy in food, why must the test tube containing water be positioned at a consistent height above the burning food sample?",
+      "options": [
+        "To prevent the water from boiling away regardless of temperature",
+        "To ensure heat transfer from the flame to the water is standardized across all food samples tested",
+        "To change the independent variable from temperature to mass",
+        "To increase the overall energy content of the food being burned"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "On a line graph tracking heart rate (y-axis in bpm) against time after exercise (x-axis in minutes), how is a person's recovery time identified?",
+      "options": [
+        "By finding the time taken from the end of exercise until the line levels off back at resting heart rate",
+        "By measuring the highest peak value reached on the y-axis during exercise",
+        "By calculating the slope of the line before exercise begins",
+        "By adding the starting heart rate to the maximum heart rate"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A person experiences sudden, uncharacteristic persistent lethargy, pale skin, and extreme shortness of breath after light walking. How should these changes in normal body function and appearance be interpreted?",
+      "options": [
+        "As normal indicators of peak cardiovascular fitness",
+        "As signs that cellular respiration has permanently ceased",
+        "As physical symptoms indicating potential ill health or nutrient deficiency",
+        "As proof that mental health is completely unaffected by physical health"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why do organisms need to consume food even when they are not physically active or growing?",
+      "options": [
+        "Food provides glucose for continuous baseline cellular respiration to power essential life processes like maintaining body temperature and heart pumping",
+        "Food is needed only to fill space in the digestive system to prevent organ collapse",
+        "Unused food is converted directly into water to prevent dehydration during sleep",
+        "Cells require constant intake of fat to replace oxygen lost through sweating"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "If an individual consumes far fewer daily calories than their basal energy requirement for an extended period, what is the expected outcome regarding BMI and health status?",
+      "options": [
+        "BMI will increase because the body manufactures extra mass from stored air",
+        "BMI will remain unchanged because height automatically decreases at the same rate",
+        "The person will develop heart disease caused by excessive lipid storage",
+        "BMI will drop significantly below the healthy range, eventually leading to starvation and muscle wasting"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "When comparing two dry food samples of equal mass using a burning food experiment, Food A raises 20 g of water by 12 °C, while Food B raises 20 g of water by 24 °C. What can be deduced about the energy content of these foods?",
+      "options": [
+        "Food A provides twice as much energy per gram as Food B",
+        "Food B provides twice as much energy per gram as Food A",
+        "Both foods contain identical energy because their initial mass was equal",
+        "Food B contains less energy because water absorbs heat slower at higher temperatures"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "How does engaging in regular moderate physical exercise support both physical and mental well-being?",
+      "options": [
+        "It eliminates the body's need for cellular respiration while increasing brain mass overnight",
+        "It strengthens cardiovascular and muscular systems while stimulating neurotransmitter release that improves mood and reduces stress",
+        "It guarantees immunity against all genetic diseases while removing the need for a balanced diet",
+        "It decreases heart rate to zero during exercise while raising body temperature to destroy all microbes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
     }
   ]
 }

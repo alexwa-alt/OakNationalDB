@@ -1,6 +1,6 @@
 {
   "unitKey": "14Climate change and greenhouse gasesChemistryPhysics",
-  "generatedAt": "2026-08-19T09:01:13.307909+00:00",
+  "generatedAt": "2026-11-07T15:00:43.016270+00:00",
   "questions": [
     {
       "question": "When scientists calculate the global average surface temperature, how do they ensure the result is reliable despite local weather extremes?",
@@ -880,6 +880,226 @@
         "They rely on spinning coils of wire powered by light waves rather than physical wind."
       ],
       "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "How do climate scientists calculate the overall global surface temperature of the Earth?",
+      "options": [
+        "By relying on a single central temperature sensor located at the equator",
+        "By combining tens of thousands of individual temperature measurements from around the globe",
+        "By taking one single measurement per country on the first day of each month",
+        "By estimating ocean temperatures based exclusively on satellite cloud photos"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which combination of evidence allows scientists to collect data about global temperature changes over thousands of years prior to modern thermometer records?",
+      "options": [
+        "Tree rings and ice cores",
+        "Satellite imagery and weather balloon logs",
+        "Modern ocean depth maps and atmospheric pressure charts",
+        "Soil pH samples and urban heat island surveys"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Molecule for molecule, methane has a significantly stronger warming impact in the atmosphere than carbon dioxide over a given time period. Which statement correctly describes this property?",
+      "options": [
+        "Methane is less potent than carbon dioxide as a greenhouse gas.",
+        "Methane is a more potent greenhouse gas than carbon dioxide.",
+        "Methane remains permanently in the atmosphere without reacting.",
+        "Methane absorbs cold air and releases oxygen into the stratosphere."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What would happen to the Earth's average atmospheric temperature if all greenhouse gases were completely removed from the atmosphere?",
+      "options": [
+        "The atmosphere would become significantly warmer than it is today.",
+        "The atmospheric temperature would remain completely unchanged.",
+        "The atmosphere would become colder than it would be with greenhouse gases present.",
+        "The temperature would rapidly fluctuate between extreme heat during the day and absolute zero at night."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why does the accelerated melting of land-based ice sheets contribute directly to global sea level rise?",
+      "options": [
+        "It decreases the density of ocean water, causing the sea floor to rise.",
+        "It transfers water previously stored on land into the ocean, increasing total ocean volume.",
+        "It cools the sea surface, causing deep water currents to displace coastal land.",
+        "It releases trapped gas bubbles that push the sea level upward."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "During the Arctic summer, large quantities of sea ice melt into liquid ocean water. Why does this specific melting process NOT cause sea levels to rise?",
+      "options": [
+        "The melted sea ice immediately evaporates into atmospheric water vapour.",
+        "The ice was already floating in the sea, so it was already displacing its volume of ocean water.",
+        "Sea ice is composed of freshwater, which compresses sea water upon mixing.",
+        "Melting sea ice sinks down to the ocean floor without altering the surface level."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In addition to the input of water from melting land ice, what physical process causes global sea levels to rise as ocean temperatures increase?",
+      "options": [
+        "Warmer ocean water expands, increasing the volume it occupies.",
+        "Warmer oceans contract, pulling coastal land downwards into the sea.",
+        "Warmer surface water causes heavier rainfall directly over land masses.",
+        "Dissolved salts precipitate out of warm water, building up the seabed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which mixture of substances is directly produced by burning fossil fuels in internal combustion engines for transport?",
+      "options": [
+        "Only water vapour and non-toxic nitrogen gas",
+        "Greenhouse gases, other pollutant gases, and solid particulates",
+        "Pure carbon dioxide and pure oxygen gas only",
+        "Ozone gas, helium, and mineral nutrients"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A student claims that using an electric vehicle eliminates all emissions related to fuel combustion. Why is this claim incomplete?",
+      "options": [
+        "Electric vehicle engines burn small amounts of diesel during high-speed acceleration.",
+        "Electric vehicles release greenhouse gases directly through their exhaust pipes.",
+        "Fossil fuels may still be burned at power stations to generate the electricity used to charge the vehicle.",
+        "Electric vehicle batteries burn petrol internally to generate electric current."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How does Carbon Capture and Storage (CCS) prevent carbon dioxide from entering the atmosphere?",
+      "options": [
+        "It separates carbon dioxide from emissions and stores it in suitable deep underground locations.",
+        "It absorbs carbon dioxide using giant greenhouse plantations grown on factory roofs.",
+        "It converts carbon dioxide into solid carbon blocks that are dropped onto the ocean floor.",
+        "It neutralises carbon dioxide by re-burning it at extremely high temperatures."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which evaluation accurately balances the major advantage and main drawback of Carbon Capture and Storage (CCS)?",
+      "options": [
+        "It completely eliminates all pollutants, but it produces radioactive waste.",
+        "It can reduce carbon dioxide emissions, but it is very expensive to implement.",
+        "It is very cheap to build, but it increases atmospheric methane levels.",
+        "It generates additional electricity, but it consumes large areas of agricultural land."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Approximately what percentage of global greenhouse gas emissions is produced by the energy sector (including electricity, heating, transport, and manufacturing)?",
+      "options": [
+        "Around 10%",
+        "Around 25%",
+        "Around 50%",
+        "Around 75%"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which combination of actions provides the most effective pathway to lower global greenhouse gas emissions?",
+      "options": [
+        "Increasing energy consumption while switching exclusively to coal power plants",
+        "Using less energy overall and switching to renewable energy sources",
+        "Building more petrol power plants while reducing domestic water usage",
+        "Burning more natural gas for heating while eliminating public transport systems"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Two identical car models travel a distance of 100 km on identical roads. Which set of conditions will cause one car to use more energy than the other?",
+      "options": [
+        "Driving at lower speeds with a light payload",
+        "Being heavier or travelling at higher speeds",
+        "Keeping tyres correctly inflated and windows closed",
+        "Driving at night rather than during midday hours"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Why does keeping car tyres inflated to the correct air pressure reduce the energy required to travel a set distance?",
+      "options": [
+        "Incorrectly inflated tyres increase resistance against the road, forcing the engine to use more energy.",
+        "Correctly inflated tyres increase the vehicle mass, allowing gravity to push the car forward.",
+        "Over-inflated tyres allow the car to burn nitrogen directly from the surrounding air.",
+        "Tyre pressure alters the aerodynamic drag above the roof of the car."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "What is a major benefit of building well-planned infrastructure for walking, cycling, and public transit in towns and cities?",
+      "options": [
+        "It makes it mandatory for every resident to own an electric vehicle.",
+        "It makes it easier and safer for people to travel without needing to use a car.",
+        "It increases traffic congestion by removing pedestrian walkways.",
+        "It eliminates the need for street lighting and road maintenance."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Why are energy resources like wind, solar, and wave power classified as 'renewable'?",
+      "options": [
+        "They do not release heat into the atmosphere when used.",
+        "They can be collected and recycled in factories after being burned.",
+        "They are replenished more quickly than we use them up.",
+        "They are contained in infinite quantities inside underground rocks."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "In a standard power station setup, how does an electric generator convert kinetic energy into electrical energy?",
+      "options": [
+        "By melting copper wires inside an insulated chamber",
+        "By spinning coils of wire inside a generator using a turbine",
+        "By splitting water molecules into hydrogen ions using high voltage",
+        "By compressing air inside a sealed cylinder until static electrical charge builds up"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "How is thermal energy from burning fuels such as biomass, oil, or gas used to turn a generator turbine?",
+      "options": [
+        "The heat boils water to produce moving steam that spins the turbine.",
+        "The heat creates strong magnetic fields that pull the turbine blades directly.",
+        "The burning fuel releases high-velocity ash particles that strike the turbine.",
+        "The heat expands air inside the turbine shaft to freeze moving parts."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "How does electricity generation using solar panels differ from thermal power stations and wind turbines?",
+      "options": [
+        "Solar panels use tiny steam engines built into each solar cell.",
+        "Solar panels burn small amounts of natural gas behind glass plates.",
+        "Solar panels generate electricity directly without using electric generators or spinning turbines.",
+        "Solar panels rely on wind moving across their surface to generate electric current."
+      ],
+      "correctAnswerIndex": 2,
       "learningPointIndex": 33
     }
   ]

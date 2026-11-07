@@ -1,0 +1,226 @@
+{
+  "unitKey": "1Breathing and respirationBiology",
+  "generatedAt": "2026-11-07T15:02:22.408744+00:00",
+  "questions": [
+    {
+      "question": "What are the tiny air sacs that make up the lungs called?",
+      "options": [
+        "Bronchi",
+        "Alveoli",
+        "Tracheoles",
+        "Capillaries"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Where does gas exchange take place inside the human respiratory system?",
+      "options": [
+        "Between air in alveoli and blood in capillaries",
+        "Between air in the trachea and blood in the heart",
+        "Between air in the bronchi and the pleural fluid",
+        "Between air in the diaphragm and muscle tissues"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why do human lungs contain millions of alveoli instead of just a few large air sacs?",
+      "options": [
+        "To protect the heart from physical injury",
+        "To increase the surface area of the lungs for gas exchange",
+        "To keep the chest cavity warm during exercise",
+        "To prevent dust particles from reaching the blood"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How does having alveoli walls that are only one cell thick benefit gas exchange?",
+      "options": [
+        "It increases the pressure inside the lungs",
+        "It prevents carbon dioxide from leaving the blood",
+        "It creates a short diffusion distance for gas exchange",
+        "It allows blood cells to pass directly into the air sacs"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why are alveoli surrounded by a dense network of blood capillaries?",
+      "options": [
+        "To maintain a concentration gradient for gas exchange",
+        "To pump air directly into the bloodstream",
+        "To filter out pathogens before air reaches the heart",
+        "To hold the alveoli rigid during deep breathing"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which gas is essential for aerobic cellular respiration to occur?",
+      "options": [
+        "Nitrogen",
+        "Carbon dioxide",
+        "Oxygen",
+        "Hydrogen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In which cellular structures does aerobic cellular respiration take place in animal, plant, and fungal cells?",
+      "options": [
+        "Only inside the cell wall",
+        "Mitochondria and cytoplasm",
+        "Only in the cell nucleus",
+        "Vacuole and cell membrane"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Muscle cells do a lot of work and require large amounts of energy. What would you expect muscle cells to have more of compared to skin cells?",
+      "options": [
+        "Fewer nuclei",
+        "More mitochondria",
+        "Fewer cell membranes",
+        "More chloroplasts"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What products are made during anaerobic cellular respiration in microorganisms?",
+      "options": [
+        "Lactic acid and water",
+        "Glucose and oxygen",
+        "Ethanol and carbon dioxide",
+        "Water and oxygen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is another term for anaerobic cellular respiration in microorganisms?",
+      "options": [
+        "Photosynthesis",
+        "Fermentation",
+        "Transpiration",
+        "Digestion"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What defines anaerobic cellular respiration?",
+      "options": [
+        "It takes place without using oxygen",
+        "It occurs only in plant roots",
+        "It requires sunlight to proceed",
+        "It creates glucose from carbon dioxide"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which substance is produced during anaerobic cellular respiration in humans that can cause muscle cramps?",
+      "options": [
+        "Ethanol",
+        "Lactic acid",
+        "Glucose",
+        "Starch"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Where inside a cell does anaerobic cellular respiration take place?",
+      "options": [
+        "Only in the cytoplasm of cells",
+        "Only inside the mitochondria",
+        "In both the nucleus and mitochondria",
+        "Inside the cell membrane proteins"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Compared to aerobic respiration, how does anaerobic cellular respiration differ in energy release?",
+      "options": [
+        "It provides more energy, but more slowly",
+        "It provides less energy, but provides energy more quickly",
+        "It provides identical amounts of energy at the same speed",
+        "It provides more energy and works more quickly"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which waste product is produced by cellular respiration and must be removed from the body?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Methane"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "During gas exchange in the human lungs, which direction do oxygen and carbon dioxide diffuses?",
+      "options": [
+        "Oxygen diffuses from blood to lungs; carbon dioxide diffuses from lungs to blood",
+        "Oxygen diffuses from lungs into blood; carbon dioxide diffuses from blood into lungs",
+        "Both oxygen and carbon dioxide diffuse from lungs into blood",
+        "Both oxygen and carbon dioxide diffuse from blood into lungs"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which reactant from food is used as fuel during cellular respiration to provide energy?",
+      "options": [
+        "Glucose",
+        "Starch",
+        "Protein",
+        "Fiber"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which statement correctly describes when cellular respiration occurs?",
+      "options": [
+        "Only in animals while they are sleeping",
+        "Only in plants during the night",
+        "In all living organisms all the time",
+        "Only in animals during intense exercise"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What is the vital capacity of the lungs?",
+      "options": [
+        "The volume of blood surrounding the lungs",
+        "The maximum volume of air that can be exhaled after inhaling fully",
+        "The speed at which air moves through the trachea",
+        "The minimum volume of air left in the lungs after exhaling"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "What does it mean for a measurement to be accurate?",
+      "options": [
+        "It was recorded very quickly",
+        "It is closer to the true value",
+        "It was estimated without equipment",
+        "It gives a different result each time"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    }
+  ]
+}
