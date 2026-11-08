@@ -1,6 +1,6 @@
 {
   "unitKey": "1Breathing and respirationBiology",
-  "generatedAt": "2026-09-30T15:09:18.395266+00:00",
+  "generatedAt": "2026-11-08T15:26:56.406359+00:00",
   "questions": [
     {
       "question": "During gas exchange in the alveoli, which of the following describes the correct movement of gases between the air sacs and the surrounding capillaries?",
@@ -1101,6 +1101,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 34
+    },
+    {
+      "question": "A student compares two model lungs: Model A has 1 large sphere, while Model B has thousands of tiny connected spheres with equal total volume. Why is Model B a better representation of human lungs for gas exchange?",
+      "options": [
+        "Model B decreases the diffusion distance for gas molecules.",
+        "Model B provides a significantly larger total surface area for gas exchange.",
+        "Model B allows air to travel much faster into the bloodstream.",
+        "Model B maintains a higher temperature to speed up chemical reactions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How does the microscopic structure of an alveolus wall facilitate efficient gas exchange?",
+      "options": [
+        "It contains thick muscular walls to actively push oxygen into blood.",
+        "It is composed of a single cell layer, minimizing the distance gases must diffuse.",
+        "It is coated in a continuous thick layer of fat to dissolve gases quickly.",
+        "It has multiple layers of cells to protect capillaries from high air pressure."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why does continuous blood flow through the capillaries surrounding the alveoli speed up the rate of oxygen absorption?",
+      "options": [
+        "It lowers the temperature of the blood so oxygen dissolves faster.",
+        "It removes absorbed oxygen quickly, keeping blood oxygen concentration lower than in the alveolus.",
+        "It increases the thickness of the capillary wall to trap oxygen inside.",
+        "It pumps air directly from the alveolus into red blood cells by mechanical force."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which statement correctly describes where aerobic cellular respiration takes place within a plant leaf cell?",
+      "options": [
+        "It occurs only in the chloroplasts during daylight hours.",
+        "It occurs in both the cytoplasm and the mitochondria.",
+        "It occurs exclusively inside the cell wall and vacuole.",
+        "It occurs only inside the nucleus to protect genetic material."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Heart muscle cells contain significantly more mitochondria per cell than skin cells. What is the reason for this structural difference?",
+      "options": [
+        "Heart cells store larger amounts of undigested starch for structural support.",
+        "Heart cells require a continuous, high rate of energy transfer to contract constantly.",
+        "Heart cells need to trap more sunlight for photosynthetic reactions.",
+        "Heart cells undergo rapid anaerobic fermentation to survive low-oxygen conditions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "When yeast cells respire in an environment completely lacking oxygen, which combination of products do they produce?",
+      "options": [
+        "Lactic acid and water",
+        "Ethanol and carbon dioxide",
+        "Glucose and oxygen",
+        "Water and carbon dioxide"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "In bread making, yeast is mixed with flour and water and kept warm. Which gas produced by yeast causes the dough to rise, and through which process?",
+      "options": [
+        "Oxygen, produced by photosynthesis",
+        "Carbon dioxide, produced by anaerobic respiration (fermentation)",
+        "Nitrogen, produced by aerobic respiration",
+        "Methane, produced by cell division"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "During an intense 100-meter sprint, a runner's leg muscles respire anaerobically. Which chemical builds up in the muscle tissues as a result?",
+      "options": [
+        "Ethanol",
+        "Lactic acid",
+        "Hydrochloric acid",
+        "Carbonic acid"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A cell biologist measures chemical reactions during anaerobic cellular respiration in human muscle tissue. Where in the cell do these specific reactions occur?",
+      "options": [
+        "Exclusively inside the mitochondria",
+        "Exclusively within the cell cytoplasm",
+        "Within the cell nucleus and mitochondria together",
+        "On the outer surface of the cell membrane only"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Why might an athlete's body switch to anaerobic respiration during a short, explosive exertion like a heavy weight lift?",
+      "options": [
+        "Anaerobic respiration releases more total energy per glucose molecule than aerobic respiration.",
+        "Anaerobic respiration supplies energy more rapidly when oxygen delivery cannot meet immediate demand.",
+        "Anaerobic respiration consumes carbon dioxide to prevent toxic build-up in blood.",
+        "Anaerobic respiration produces oxygen inside the cell to fuel mitochondria."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "During gas exchange in human lungs, what are the net directions of diffusion for oxygen and carbon dioxide across the alveolus membrane?",
+      "options": [
+        "Oxygen diffuses from blood into lungs; carbon dioxide diffuses from lungs into blood.",
+        "Oxygen diffuses from lungs into blood; carbon dioxide diffuses from blood into lungs.",
+        "Both oxygen and carbon dioxide diffuse from lungs into blood simultaneously.",
+        "Both oxygen and carbon dioxide diffuse from blood into lungs simultaneously."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Which description accurately defines cellular respiration?",
+      "options": [
+        "The mechanical movement of moving air into and out of the lungs.",
+        "A chemical process that releases energy from glucose to power life processes.",
+        "The physical absorption of liquid water through cell walls.",
+        "The process of inhaling oxygen through the nasal cavity into blood vessels."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A student claims that plant cells only respire at night when photosynthesis stops. Why is this claim incorrect?",
+      "options": [
+        "Plants only perform respiration during the day when sunlight is available.",
+        "Respiration must happen continuously in all living cells to supply energy to stay alive.",
+        "Plants do not undergo cellular respiration at any time because they photosynthesize.",
+        "Respiration replaces photosynthesis entirely when light intensity is high."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Which statement correctly distinguishes breathing from cellular respiration?",
+      "options": [
+        "Breathing is a chemical reaction in mitochondria; cellular respiration is a muscular process in the chest.",
+        "Breathing is the physical movement of air into and out of lungs; respiration is a chemical process releasing energy in cells.",
+        "Breathing occurs only in plants; cellular respiration occurs only in animals.",
+        "Breathing produces glucose; cellular respiration breaks down oxygen into carbon dioxide."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "How is the vital capacity of a person's lungs defined?",
+      "options": [
+        "The volume of air remaining in the lungs after exhaling as much as possible.",
+        "The maximum volume of air a person can exhale after taking the deepest breath possible.",
+        "The average volume of air inhaled during normal, relaxed breathing at rest.",
+        "The total mass of oxygen absorbed into the blood during one minute of exercise."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A student measures lung volume four times and gets values very close to the true accepted value. How should these measurements be described?",
+      "options": [
+        "Estimated",
+        "Accurate",
+        "Anaerobic",
+        "Variable"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Before taking precise measurements with a spirometer, a scientist calculates a quick, approximate value for a participant's lung volume based on height. What is this approximate value called?",
+      "options": [
+        "A true measurement",
+        "An estimate",
+        "A vital capacity",
+        "A control variable"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "What happens to the diaphragm and intercostal muscles during inhalation?",
+      "options": [
+        "The diaphragm relaxes and moves up; intercostal muscles contract to pull ribs down.",
+        "The diaphragm contracts and moves down; intercostal muscles contract to move ribs up and out.",
+        "Both diaphragm and intercostal muscles relax completely.",
+        "The diaphragm contracts and moves up; intercostal muscles relax to expand the spine."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "When the ribcage moves up and out and the diaphragm flattens during inhalation, how does this cause air to enter the lungs?",
+      "options": [
+        "Volume inside the thorax increases, decreasing internal air pressure below atmospheric pressure.",
+        "Volume inside the thorax decreases, increasing internal air pressure above atmospheric pressure.",
+        "The temperature inside the chest drops, causing air to condense and pull more air in.",
+        "Oxygen gas is actively pumped inside by red blood cells in the chest wall."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "Which word equation correctly represents aerobic cellular respiration in human cells?",
+      "options": [
+        "Carbon dioxide + water -> glucose + oxygen",
+        "Glucose + oxygen -> carbon dioxide + water (+ energy)",
+        "Glucose -> lactic acid (+ energy)",
+        "Glucose -> ethanol + carbon dioxide (+ energy)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
     }
   ]
 }

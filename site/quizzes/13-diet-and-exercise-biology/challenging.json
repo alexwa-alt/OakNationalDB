@@ -1,6 +1,6 @@
 {
   "unitKey": "13Diet and exerciseBiology",
-  "generatedAt": "2026-11-07T14:59:06.190311+00:00",
+  "generatedAt": "2026-11-08T15:25:01.856481+00:00",
   "questions": [
     {
       "question": "An elite teenage athlete and a sedentary adult office worker are comparing their dietary needs. Which of the following statements correctly evaluates their comparative requirements for specific nutrients?",
@@ -1320,6 +1320,226 @@
         "It decreases heart rate to zero during exercise while raising body temperature to destroy all microbes"
       ],
       "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "In a calorimeter experiment, burning a 1 g snack food sample heats 20 g of water, raising its temperature by 10 °C. Using the formula Energy (J) = mass of water (g) × rise in temperature (°C) × 4.2, how much energy did the water absorb?",
+      "options": [
+        "84 J",
+        "200 J",
+        "840 J",
+        "8400 J"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "An athlete training for a marathon requires a significantly higher daily intake of carbohydrates compared to an office worker of the same age and height. Why do their nutritional requirements differ?",
+      "options": [
+        "The athlete needs more fuel to support increased rates of cellular respiration during training",
+        "The office worker cannot digest carbohydrates efficiently due to a lower resting heart rate",
+        "The athlete requires fewer total calories because intense exercise replaces micronutrient needs",
+        "The office worker requires twice as much protein to build extra muscle biomass while sitting"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A student repeats an experiment burning 0.5 g of bread to heat 50 g of water three times. The recorded temperature rises are 12 °C, 15 °C, and 12 °C. What is the mean temperature change that should be used for energy calculations?",
+      "options": [
+        "12 °C",
+        "13 °C",
+        "14 °C",
+        "15 °C"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why is protein essential in the human diet for growing children, beyond its potential to provide energy?",
+      "options": [
+        "Protein is converted into glycogen to store oxygen inside muscle tissue",
+        "Protein provides the structural building materials needed to make new biomass for growth and repair",
+        "Protein acts as the main fluid medium for transporting minerals through the blood",
+        "Protein forms an outer waterproof barrier around internal organs to prevent dehydration"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Two individuals have the exact same body mass of 75 kg, but Person A has a higher Body Mass Index (BMI) than Person B. What explains this difference?",
+      "options": [
+        "Person A is shorter than Person B",
+        "Person A has a higher resting heart rate than Person B",
+        "Person B consumes more daily carbohydrates than Person A",
+        "Person A spends more time exercising each week than Person B"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How does long-term excess energy intake leading to obesity impact physical health?",
+      "options": [
+        "It increases lung volume, reducing the workload on the heart",
+        "It causes a drop in blood pressure that weakens cardiac tissue",
+        "It increases the risk of developing heart disease due to increased strain on the cardiovascular system",
+        "It decreases blood cholesterol levels, leading to arterial collapse"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A person develops scurvy (causing bleeding gums and poor wound healing) because their diet lacks fresh fruits and vegetables. How is this condition classified?",
+      "options": [
+        "An infectious disease caused by excess lipid intake",
+        "A deficiency disease resulting from inadequate vitamin consumption",
+        "A metabolic disorder caused by excessive protein digestion",
+        "A genetic disorder triggered by low dietary fibre intake"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "After running a sprint, a student records their heart rate every minute. It takes 6 minutes for their heart rate to drop from 150 bpm back to their resting rate of 70 bpm. What does this 6-minute duration represent?",
+      "options": [
+        "The duration of cellular respiration",
+        "The recovery time required for the heart rate to return to resting rate",
+        "The total time taken to deplete muscle glycogen stores",
+        "The independent variable of the physical activity"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Four students record their heart rates after completing identical step-test exercises. Which student demonstrates the highest level of physical fitness based on their recovery time?",
+      "options": [
+        "Student A, whose heart rate returns to resting rate in 2 minutes",
+        "Student B, whose heart rate returns to resting rate in 5 minutes",
+        "Student C, whose heart rate returns to resting rate in 8 minutes",
+        "Student D, whose heart rate remains elevated for 12 minutes"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A group of pupils investigates how changing the type of exercise (walking, jogging, sprinting) affects breathing rate. What are the independent and dependent variables in this investigation?",
+      "options": [
+        "Independent variable: breathing rate; Dependent variable: type of exercise",
+        "Independent variable: type of exercise; Dependent variable: breathing rate",
+        "Independent variable: duration of exercise; Dependent variable: body mass",
+        "Independent variable: resting heart rate; Dependent variable: intensity of exercise"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "When comparing the recovery times of two different people after exercise, why must the duration and intensity of the exercise be controlled?",
+      "options": [
+        "To ensure that exercise duration becomes the dependent variable",
+        "To make the exercise rate categoric data for plotting on a graph",
+        "To ensure that any difference in recovery time is due to differences in fitness",
+        "To guarantee that both individuals reach the exact same peak heart rate"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "An investigation measures the peak heart rate reached during five distinct activities (cycling, swimming, running, rowing, walking). Why should these data be presented as a bar chart rather than a line graph?",
+      "options": [
+        "The dependent variable is continuous numerical data",
+        "The independent variable consists of categoric data rather than continuous numbers",
+        "Bar charts are used only when no control variables are present",
+        "Line graphs cannot display heart rate measured in beats per minute"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Why does a person's heart rate increase during physical exercise?",
+      "options": [
+        "To pump blood faster to deliver more oxygen to muscle cells for cellular respiration",
+        "To remove nitrogen gas produced by contracting muscle fibres",
+        "To cool down the body by stopping blood flow to skin capillaries",
+        "To reduce the rate of cellular respiration taking place in working muscles"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "Carbohydrates and lipids consumed in food are broken down inside cells. What essential output does cellular respiration provide for the body?",
+      "options": [
+        "New mineral elements such as iron and calcium",
+        "Energy to fuel vital life processes",
+        "Dietary fibre to aid digestion",
+        "Water to replace sweat lost during exercise"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A food label indicates that one serving contains 2100 kJ of energy. If the daily recommended energy intake for an adult is 8400 kJ, what percentage of the daily recommendation does one serving provide?",
+      "options": [
+        "10%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A pupil notices that over several weeks they feel constantly exhausted, their skin appears unusually pale, and their ability to concentrate has declined. How should these observations be classified?",
+      "options": [
+        "They are normal biological adaptations to increased physical activity",
+        "They are symptoms indicating potential changes from good health to ill health",
+        "They are signs that the body is building up excess lipid biomass",
+        "They demonstrate that the recovery time after exertion has reached zero"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "If an individual consistently consumes significantly less food energy than their body uses over a prolonged period, what effect will this have on their BMI and overall health?",
+      "options": [
+        "BMI will increase, leading to scurvy",
+        "BMI will decrease to a very low level, potentially leading to starvation",
+        "BMI will remain unchanged, but heart disease risk will double",
+        "BMI will decrease, causing rapid accumulation of muscle biomass"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "During intense physical activity, cellular respiration speeds up in muscle cells. Which gas is required in larger quantities by cells, and which gas is produced at a higher rate as a waste product?",
+      "options": [
+        "Required: Carbon dioxide; Waste product: Oxygen",
+        "Required: Oxygen; Waste product: Carbon dioxide",
+        "Required: Nitrogen; Waste product: Glucose",
+        "Required: Water vapour; Waste product: Nitrogen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "A student burns a peanut under a test tube of water to estimate its energy content. Which experimental flaw would cause the calculated energy content to be lower than the true value?",
+      "options": [
+        "Measuring the initial mass of the water accurately",
+        "Heat lost from the burning peanut to the surrounding air",
+        "Stirring the water before taking the final temperature reading",
+        "Repeating the experiment three times to calculate a mean"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which statement correctly describes how regular physical exercise contributes to overall health?",
+      "options": [
+        "It benefits physical health by strengthening the heart and muscles, and mental health by reducing stress",
+        "It eliminates the body's need for carbohydrates by generating energy directly inside cells",
+        "It permanently prevents heart rate from increasing during future strenuous activities",
+        "It increases BMI while reducing the body's requirement for essential daily vitamins"
+      ],
+      "correctAnswerIndex": 0,
       "learningPointIndex": 35
     }
   ]

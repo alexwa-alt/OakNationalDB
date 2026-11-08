@@ -1,6 +1,6 @@
 {
   "unitKey": "14Climate change and greenhouse gasesChemistryPhysics",
-  "generatedAt": "2026-11-07T15:00:43.016270+00:00",
+  "generatedAt": "2026-11-08T15:25:28.322400+00:00",
   "questions": [
     {
       "question": "When scientists calculate the global average surface temperature, how do they ensure the result is reliable despite local weather extremes?",
@@ -1101,6 +1101,226 @@
       ],
       "correctAnswerIndex": 2,
       "learningPointIndex": 33
+    },
+    {
+      "question": "How do scientists calculate the overall global surface temperature of Earth?",
+      "options": [
+        "By relying on a small number of satellite readings at the equator",
+        "By averaging tens of thousands of temperature measurements taken worldwide",
+        "By measuring temperatures only in major urban cities worldwide",
+        "By taking one central measurement at a single meteorological station"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When scientists analyze weather data to identify regional warming trends, how do they assess if a current year is unusually warm?",
+      "options": [
+        "By comparing the year's temperatures against the long-term average for that specific region",
+        "By comparing the region's winter temperatures against global tropical summer temperatures",
+        "By checking whether the temperature matches the highest single day ever recorded on Earth",
+        "By comparing the region's current temperature directly to the global ocean surface average"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which historical evidence allows scientists to collect reliable data on long-term climate changes before thermometer records existed?",
+      "options": [
+        "Historical maps and ancient ship logbooks",
+        "Data gathered from tree rings and ice cores",
+        "Rock weathering patterns and desert sand dunes",
+        "Ocean current speeds and tidal records"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why can a smaller increase in atmospheric methane concentration have a disproportionately large effect on global warming compared to carbon dioxide?",
+      "options": [
+        "Methane stays in the atmosphere for thousands of years longer than carbon dioxide",
+        "Methane is a more potent greenhouse gas than carbon dioxide",
+        "Methane reacts directly with oxygen to create extra thermal energy in the air",
+        "Methane completely blocks all sunlight from escaping the outer atmosphere"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "What would be the primary consequence for Earth's atmosphere if it contained no greenhouse gases at all?",
+      "options": [
+        "The atmosphere would keep Earth significantly cooler than it is now",
+        "The surface temperature would rise uncontrollably due to direct solar radiation",
+        "The surface temperature would remain completely identical because the Sun controls all heating",
+        "Seasonal temperature changes would cease entirely across the globe"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How does the melting of land-based ice sheets contribute directly to global sea level rise?",
+      "options": [
+        "It reduces ocean salinity, causing ocean water to expand rapidly",
+        "It transfers additional water volume from land into the sea",
+        "It increases atmospheric pressure, pushing coastline water inland",
+        "It cools seawater, which increases its total volume in ocean basins"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why does the summer melting of floating Arctic sea ice refrain from causing sea levels to rise?",
+      "options": [
+        "Sea ice is composed of saltwater, which has no effect on total volume",
+        "Floating ice already displaces a volume of water equal to its melted mass",
+        "Melting sea ice immediately evaporates into atmospheric water vapour",
+        "Arctic ocean currents absorb the extra water without changing depth"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Besides the addition of melted land ice, what physical change in the oceans causes sea levels to rise as climate changes?",
+      "options": [
+        "Thermal expansion of ocean water as it warms",
+        "Increased rainfall over open ocean areas",
+        "Decreased evaporation rates from ocean surfaces",
+        "Increased speed of deep ocean currents"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What types of atmospheric emissions are produced when conventional transport vehicles burn fuel?",
+      "options": [
+        "Only pure water vapour and carbon dioxide gas",
+        "Greenhouse gases, other pollutant gases, and solid particulates",
+        "Only greenhouse gases and heat energy",
+        "Non-toxic nitrogen gas and solid soot particles only"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Why might driving an electric vehicle still indirectly result in greenhouse gas emissions?",
+      "options": [
+        "Electric vehicles burn small amounts of fuel during heavy braking",
+        "Fuels may be burned at power stations to generate the electricity used to charge them",
+        "Electric batteries leak methane gas into the atmosphere during operation",
+        "Electric motors generate carbon dioxide through electrical resistance"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which description accurately summarizes the process of carbon capture and storage (CCS)?",
+      "options": [
+        "Converting carbon dioxide into oxygen using industrial chemical scrubbers on trees",
+        "Separating carbon dioxide from emissions and storing it in suitable deep underground locations",
+        "Filtering carbon dioxide directly out of seawater and freezing it into solid ice",
+        "Compressing carbon dioxide into fuel tanks to be burned again in transport"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is a major disadvantage of carbon capture and storage technology despite its potential to lower carbon dioxide emissions?",
+      "options": [
+        "It releases large amounts of methane gas back into the air",
+        "It is very expensive to implement and maintain",
+        "It can only be used on electric transport vehicles",
+        "It increases global surface temperatures during the capture process"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Approximately what percentage of total global greenhouse gas emissions originates from the energy sector?",
+      "options": [
+        "25%",
+        "50%",
+        "75%",
+        "95%"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Two identical cars travel a distance of 100 km. Why would Car A require significantly more energy than Car B to complete the trip?",
+      "options": [
+        "Car A carries heavier cargo and travels at a higher speed than Car B",
+        "Car A travels at a constant low speed with only one passenger",
+        "Car A has correctly inflated tyres compared to Car B",
+        "Car A uses an electric motor rather than a combustion engine"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "How does maintaining correct tyre air pressure help reduce a vehicle's energy consumption?",
+      "options": [
+        "It increases the mass of the vehicle, providing more momentum",
+        "It lowers friction inside the car engine",
+        "It allows the vehicle to travel using less energy",
+        "It allows the car to burn nitrogen gas from the air inside the tyre"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why are energy sources like wind and solar classified as renewable energy resources?",
+      "options": [
+        "They produce zero carbon dioxide during the manufacturing of equipment",
+        "They are replenished more quickly than we use them up",
+        "They generate energy without requiring any movement or mechanical turbines",
+        "They store energy indefinitely without any power loss"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "How do most conventional thermal power stations and wind turbines generate electricity?",
+      "options": [
+        "By heating solar cells until electrons escape",
+        "By spinning coils of wire in an electric generator using a turbine",
+        "By combining hydrogen and oxygen gas in a closed chamber",
+        "By passing steam directly through high-voltage electrical wires"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "How does generating electricity using solar panels differ from generating electricity using wind turbines?",
+      "options": [
+        "Solar panels rely on steam to turn tiny internal generators",
+        "Solar panels produce electricity directly without electric generators",
+        "Solar panels burn sunlight to spin generator coils",
+        "Solar panels produce electricity only when connected to a mechanical turbine"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "Which two processes both release carbon dioxide into the atmosphere?",
+      "options": [
+        "Photosynthesis in plants and charging electric batteries",
+        "Respiration by living organisms and burning fuels",
+        "Melting of sea ice and nuclear power generation",
+        "Thermal expansion of oceans and wind turbine rotation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What overall trend in global surface temperatures has been recorded since the industrial revolution in the 1850s?",
+      "options": [
+        "Temperatures have remained completely stable with minor daily fluctuations",
+        "Temperatures have consistently decreased across all continents",
+        "Global surface temperatures have overall been increasing",
+        "Temperatures rose initially but returned to 1850 levels by the year 2000"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
     }
   ]
 }
