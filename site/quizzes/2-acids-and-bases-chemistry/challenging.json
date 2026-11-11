@@ -1,6 +1,6 @@
 {
   "unitKey": "2Acids and basesChemistry",
-  "generatedAt": "2026-10-01T15:35:51.231921+00:00",
+  "generatedAt": "2026-11-11T16:23:48.378637+00:00",
   "questions": [
     {
       "question": "A scientist is testing an unknown powder. She adds it to an acid and finds that a chemical reaction occurs, forming water and a compound called a salt. Based on this observation, what category of substance must the powder be?",
@@ -1321,6 +1321,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 15
+    },
+    {
+      "question": "A chef notices that lemon juice and vinegar give foods a sharp, tangy taste. Which property of edible acids explains this observation?",
+      "options": [
+        "They have a sour taste",
+        "They taste bitter and feel slippery",
+        "They taste salty and neutralise sweet flavours",
+        "They turn foods blue when cooked"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A student wants to test if an unknown white powder is a base. Which procedure and outcome would correctly confirm that the substance is a base?",
+      "options": [
+        "Reacting it with an acid to produce a salt",
+        "Dissolving it in water to see if it turns red litmus paper red",
+        "Heating it until it produces hydrogen gas",
+        "Mixing it with oil to form an acidic solution"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Substance A and Substance B both neutralise acids. Substance A dissolves in water to form a solution, while Substance B does not dissolve in water. How should these substances be classified?",
+      "options": [
+        "Both are bases, but only Substance A is also an alkali",
+        "Both are alkalis, but only Substance B is a base",
+        "Substance A is a base, and Substance B is an acid",
+        "Substance B is an alkali, and Substance A is neither"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A student dips red litmus paper into Solution X and it turns blue. She then dips blue litmus paper into Solution Y and it turns red. What can be concluded about Solution X and Solution Y?",
+      "options": [
+        "Solution X is an alkali and Solution Y is an acid",
+        "Solution X is an acid and Solution Y is an alkali",
+        "Both solutions are acidic",
+        "Both solutions are neutral"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A student places a piece of magnesium ribbon into a test tube of dilute acid. Which set of observations best demonstrates that a chemical reaction between a metal and an acid is taking place?",
+      "options": [
+        "Bubbles form, the temperature rises, and the magnesium decreases in size",
+        "The solution turns dark blue, cools down, and no gas is produced",
+        "The magnesium grows larger, cools down, and forms a solid precipitate on top",
+        "Gas bubbles absorb heat, making the tube feel cold, while the metal remains unchanged"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Zinc metal is added to hydrochloric acid. Which two products are formed in this chemical reaction?",
+      "options": [
+        "Zinc chloride and hydrogen gas",
+        "Zinc oxide and water",
+        "Zinc carbonate and carbon dioxide gas",
+        "Zinc hydroxide and oxygen gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "During a reaction between iron and an acid, a gas is collected in an inverted test tube. How can the student confirm that this gas is hydrogen?",
+      "options": [
+        "Hold a lit splint at the mouth of the tube and listen for a squeaky pop",
+        "Pass the gas through limewater and check if it turns milky",
+        "Insert a glowing splint to see if it relights into a flame",
+        "Place damp red litmus paper in the tube to see if it turns blue"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A chemical formula contains the group CO3. Based on atomic composition, what is this chemical group called?",
+      "options": [
+        "Carbonate group",
+        "Oxide group",
+        "Hydroxide group",
+        "Sulfate group"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "When copper carbonate powder is added to dilute sulfuric acid, three products are formed. What are these products?",
+      "options": [
+        "A metal salt, water, and carbon dioxide",
+        "A metal salt, hydrogen gas, and oxygen gas",
+        "A metal oxide, water, and nitrogen gas",
+        "A metal hydroxide and carbon dioxide only"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Gas from a reaction tube is bubbled through a clear solution of limewater, causing the limewater to turn cloudy. What gas was produced in the reaction?",
+      "options": [
+        "Carbon dioxide",
+        "Hydrogen",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A historic statue made of marble (calcium carbonate) is damaged by acid rain over many years. What happens chemically during this reaction?",
+      "options": [
+        "Marble reacts with acid rain to form a salt, water, and carbon dioxide, wearing away the statue",
+        "Acid rain dissolves the marble into pure hydrogen gas and copper oxide",
+        "Marble neutralises the acid rain without any chemical change occurring to the statue",
+        "The acid rain freezes on the marble, turning it into sodium hydroxide"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which correct chemical formulas represent aqueous sodium hydroxide and aqueous hydrochloric acid?",
+      "options": [
+        "NaOH(aq) and HCl(aq)",
+        "NaOH(s) and HCl(g)",
+        "NaCl(aq) and H2O(l)",
+        "NaCO3(aq) and HNO3(aq)"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Calcium hydroxide (a base) reacts with nitric acid. Following the naming rules for salts formed in neutralisation, what is the name of the salt produced?",
+      "options": [
+        "Calcium nitrate",
+        "Calcium chloride",
+        "Calcium sulfate",
+        "Nitric oxide"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "In the chemical equation: Mg(s) + 2HCl(aq) -> MgCl2(aq) + H2(g), what does the state symbol (aq) indicate about HCl and MgCl2?",
+      "options": [
+        "They are dissolved in water (in solution)",
+        "They are in the solid state",
+        "They are pure liquids at room temperature",
+        "They are gases released during the reaction"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Magnesium oxide is mixed with dilute hydrochloric acid. What products are expected from this reaction?",
+      "options": [
+        "Magnesium chloride and water",
+        "Magnesium chloride and hydrogen gas",
+        "Magnesium carbonate and carbon dioxide",
+        "Magnesium hydroxide and oxygen gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Sulfur dioxide is a non-metal oxide produced by burning fossil fuels. When sulfur dioxide dissolves in rainwater droplets in the atmosphere, what type of solution is formed?",
+      "options": [
+        "An acidic solution",
+        "An alkaline solution",
+        "A neutral solution with pH 7",
+        "An insoluble base suspension"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Solution A has a higher concentration of hydrogen ions than Solution B. How do their pH values compare?",
+      "options": [
+        "Solution A has a lower pH than Solution B",
+        "Solution A has a higher pH than Solution B",
+        "Both solutions have a pH of 14",
+        "Solution A has a pH of 7 and Solution B has a pH of 1"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Solution X has a pH of 4 and Solution Y has a pH of 3. Which statement correctly compares their acidity?",
+      "options": [
+        "Solution Y is ten times more acidic than Solution X",
+        "Solution X is ten times more acidic than Solution Y",
+        "Solution Y is two times more acidic than Solution X",
+        "Solution X and Solution Y have equal acidity because both are under pH 7"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A student adds red cabbage indicator solution to three unlabelled test tubes (1, 2, and 3). Tube 1 turns red, Tube 2 turns purple, and Tube 3 turns green. What are the contents of test tubes 1, 2, and 3?",
+      "options": [
+        "Tube 1 is acid, Tube 2 is neutral, Tube 3 is alkali",
+        "Tube 1 is alkali, Tube 2 is acid, Tube 3 is neutral",
+        "Tube 1 is neutral, Tube 2 is alkali, Tube 3 is acid",
+        "Tube 1 is acid, Tube 2 is alkali, Tube 3 is neutral"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Why is Universal Indicator more useful than litmus paper when testing a range of household substances to determine how strongly acidic or alkaline they are?",
+      "options": [
+        "It turns many different colours depending on pH rather than just two colours",
+        "It only turns red for neutral solutions and blue for all acids",
+        "It dissolves solids without requiring any water to be present",
+        "It changes colour only when hydrogen gas is actively produced"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 32
     }
   ]
 }

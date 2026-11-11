@@ -1,6 +1,6 @@
 {
   "unitKey": "4Plant nutrition and photosynthesisBiology",
-  "generatedAt": "2026-10-03T13:32:46.339292+00:00",
+  "generatedAt": "2026-11-11T16:26:36.483473+00:00",
   "questions": [
     {
       "question": "A student examines a plant cell under a microscope and identifies small, green structures within the cytoplasm. What are these structures, and in which part of the plant are they most abundant?",
@@ -1540,6 +1540,226 @@
         "To convert it back into carbon dioxide and release it into the atmosphere"
       ],
       "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A student examines leaf tissue under a microscope. Which cellular structures inside leaf cells must be present for the leaf to perform its main light-absorbing function?",
+      "options": [
+        "Chloroplasts",
+        "Vacuoles",
+        "Cell walls",
+        "Mitochondria only"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A scientist isolates different organelles from a plant cell. In which specific organelle does the process of photosynthesis take place?",
+      "options": [
+        "Nucleus",
+        "Chloroplast",
+        "Cell membrane",
+        "Ribosome"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "If a genetic mutation prevents a plant from forming chlorophyll inside its chloroplasts, what direct problem prevents photosynthesis from occurring?",
+      "options": [
+        "It cannot absorb carbon dioxide gas through stomata.",
+        "It cannot absorb the light energy needed for photosynthesis.",
+        "It cannot transport water up from the roots.",
+        "It cannot release oxygen gas into the air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why is having thin leaves an advantageous adaptation for photosynthesis in plant leaf cells?",
+      "options": [
+        "It allows light energy to pass through to cells containing chloroplasts.",
+        "It prevents water from evaporating too quickly from the lower surface.",
+        "It allows carbon dioxide to turn into oxygen before entering cells.",
+        "It reduces the total amount of chlorophyll needed by the plant."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Two plants of the same species grow under identical conditions, but Plant A has broad, flat leaves while Plant B has narrow, needle-like leaves. Why does Plant A absorb more light for photosynthesis?",
+      "options": [
+        "Plant A has a larger surface area to absorb light for photosynthesis.",
+        "Plant A absorbs water directly through its broad leaf surface.",
+        "Plant A stores more glucose inside its stem tissue.",
+        "Plant A converts soil minerals into light energy more effectively."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "During daylight hours, which gas does a plant leaf take in from the surrounding air to use for photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Water vapour"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "An aquatic plant kept under a bright lamp produces small bubbles in water. Which gas is released from the leaves as a product of photosynthesis?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Methane"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the correct scientific term for the overall process where oxygen is released from leaf surfaces while carbon dioxide is taken in?",
+      "options": [
+        "Respiration",
+        "Transpiration",
+        "Gas exchange",
+        "Fermentation"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Microscopic examination of the outer surface of a leaf reveals tiny openings. What is the main function of these stomata?",
+      "options": [
+        "Absorbing liquid rainwater directly into the leaf",
+        "Releasing solid minerals into the soil",
+        "Allowing gas exchange between the leaf and air",
+        "Capturing sunlight directly for deep stem cells"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "By which physical mechanism do gas molecules move into and out of leaf tissue through open stomata?",
+      "options": [
+        "Active pumping by root pressure",
+        "Movement of gas molecules by diffusion",
+        "Transport carried by upward water currents",
+        "Magnetic attraction to chlorophyll molecules"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why are green plants classified as 'producers' within a food web?",
+      "options": [
+        "They absorb organic nutrients from decomposing soil organisms.",
+        "They make their own food using the process of photosynthesis.",
+        "They consume microscopic particles present in atmospheric air.",
+        "They convert light directly into mineral salts for herbivores."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A healthy potted plant is placed in a totally dark room with plentiful air, water, and soil minerals. Why does photosynthesis stop completely?",
+      "options": [
+        "Plants cannot absorb liquid water in darkness.",
+        "Photosynthesis can only take place when light is present.",
+        "Stomata permanently seal when light is absent.",
+        "Carbon dioxide cannot enter leaf cells in dark conditions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which statement best describes what photosynthesis actually is at a microscopic level?",
+      "options": [
+        "It is a single physical change that melts leaf sugars.",
+        "It is a series of chemical reactions taking place inside cells.",
+        "It is a mechanical filtering process of air through roots.",
+        "It is a physical movement of light energy into plant sap."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "In the chemical process of photosynthesis, which option correctly pairs all starting reactants with all final products?",
+      "options": [
+        "Reactants: glucose and oxygen; Products: water and carbon dioxide",
+        "Reactants: water and carbon dioxide; Products: oxygen and glucose",
+        "Reactants: water and oxygen; Products: carbon dioxide and glucose",
+        "Reactants: minerals and light; Products: water and oxygen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why do scientists use the word equation 'water + carbon dioxide -> glucose + oxygen' when studying plant nutrition?",
+      "options": [
+        "It shows every single atomic bond breaking step in exact sequence.",
+        "It is a simplified model summarizing the overall reactants and products of complex reactions.",
+        "It proves that photosynthesis is a physical change rather than a chemical one.",
+        "It explains how minerals are directly transformed into carbohydrates."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A student claims that plants only require light and water to stay healthy. Which set of requirements must a plant receive to stay alive and grow?",
+      "options": [
+        "Light and carbon dioxide only",
+        "Light, air, water, and minerals",
+        "Water, minerals, and oxygen only",
+        "Light, soil, and glucose"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which statement accurately describes how different essential resources enter a plant from its environment?",
+      "options": [
+        "Light and gases enter through leaves, while water and minerals enter through roots.",
+        "Water and light enter through leaves, while gases and minerals enter through roots.",
+        "All resources enter exclusively through the leaf surface.",
+        "All resources enter exclusively through the root system."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A gardener refers to mineral fertilizer as 'plant food'. Why is this description scientifically inaccurate?",
+      "options": [
+        "Fertilizers contain glucose which plants cannot digest.",
+        "Water and minerals are not food; plants need food which they produce themselves.",
+        "Minerals provide energy directly without needing light.",
+        "Fertilizers are taken in by leaves rather than root hairs."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How do plants acquire the food they need to survive, compared to animals?",
+      "options": [
+        "They absorb prefabricated organic food molecules from soil particles.",
+        "They filter microscopic food particles out of atmospheric moisture.",
+        "They do not take in food from their surroundings; they make their own food.",
+        "They transform soil minerals into digestive enzymes."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What type of substance is the food made by plants through photosynthesis, and how does the plant use it?",
+      "options": [
+        "It is a mineral used solely to pull water out of the soil.",
+        "It is a carbohydrate used for growth and as a source of energy.",
+        "It is a gas used to cool down internal cellular structures.",
+        "It is a protein absorbed from root hairs for respiration."
+      ],
+      "correctAnswerIndex": 1,
       "learningPointIndex": 19
     }
   ]
