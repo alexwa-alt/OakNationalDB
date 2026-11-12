@@ -1,6 +1,6 @@
 {
   "unitKey": "5MaterialsChemistry",
-  "generatedAt": "2026-10-04T14:10:44.651774+00:00",
+  "generatedAt": "2026-11-12T17:00:18.563681+00:00",
   "questions": [
     {
       "question": "A student measures the mass of a black powder before adding it to hydrogen peroxide. After the reaction, she filters, dries, and weighs the powder again. If the powder acted as a catalyst, what will she observe?",
@@ -1540,6 +1540,226 @@
         "Sodium chloride and hydrogen gas"
       ],
       "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A student measures the mass of a solid chemical before adding it to a reaction mixture. After the reaction stops, the student recovers the solid, washes and dries it, and finds its mass and chemical structure are completely unchanged, while the reaction rate was much faster. What was the role of this solid?",
+      "options": [
+        "It acted as a reactant that was consumed early in the process.",
+        "It acted as a catalyst that sped up the reaction without being used up or chemically changed.",
+        "It acted as a product that increased the final yield of the reaction.",
+        "It acted as a solvent that dissolved all other chemical components."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A chemist finds that Substance X speeds up Reaction A rapidly, but when added to Reaction B under identical conditions, the rate of Reaction B remains completely unchanged. What principle of catalysis does this demonstrate?",
+      "options": [
+        "Catalysts only function once before losing their catalytic ability permanently.",
+        "Substance X was destroyed during Reaction A and could not be re-used.",
+        "Catalysts are specific to particular reactions, so different reactions require different catalysts.",
+        "Reaction B is incapable of having its reaction rate altered."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which statement best explains why enzymes in living cells are classified as biological catalysts?",
+      "options": [
+        "They are consumed during cellular reactions to provide vital energy.",
+        "They slow down harmful chemical processes inside cell membranes.",
+        "They speed up chemical reactions in living cells without being used up.",
+        "They convert inorganic metal salts into long structural polymer chains."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Metal X is placed into a solution of Metal Y nitrate. A layer of solid Metal Y forms on the surface of Metal X, and the solution changes color. What can be deduced about the reactivity of the two metals?",
+      "options": [
+        "Metal X is less reactive than Metal Y.",
+        "Metal X is more reactive than Metal Y and displaces it from its salt in solution.",
+        "Metal Y is more reactive than Metal X and displaces it from its salt solution.",
+        "Both metals have identical reactivity in aqueous solutions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Solid magnesium ribbon is added to a blue solution of copper sulfate. What are the products of this displacement reaction?",
+      "options": [
+        "Copper sulfate and magnesium oxide",
+        "Magnesium sulfate solution and solid copper",
+        "Copper hydride and magnesium sulfate",
+        "Magnesium copper alloy and sulfur dioxide"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "An unknown metal Z displaces iron from an iron sulfate solution, but fails to displace zinc from a zinc sulfate solution. How can these observations be used?",
+      "options": [
+        "To show that Z is more reactive than both iron and zinc.",
+        "To confirm the position of metal Z between iron and zinc in the reactivity series.",
+        "To prove that zinc is the least reactive of the three metals.",
+        "To demonstrate that displacement reactions cannot establish a reactivity order."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following best describes a metal ore?",
+      "options": [
+        "A synthetic alloy created by heating purified metals together.",
+        "A liquid solution containing dissolved metal ions in ocean water.",
+        "A rock that contains a metal in a form from which it can be extracted.",
+        "A pure metallic element found naturally as solid blocks in the earth."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why can carbon be used to extract iron from iron oxide, but cannot be used to extract potassium from potassium oxide?",
+      "options": [
+        "Carbon is less reactive than iron, but more reactive than potassium.",
+        "Carbon can extract metals from their ores only when carbon is more reactive than the metal.",
+        "Carbon cannot react with oxides of any metal when heated.",
+        "Carbon is a metal that forms an alloy with iron during extraction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "An engineer needs a material to make electrical wiring that can also be bent into complex shapes without snapping. Which combination of properties makes metals suitable for this application?",
+      "options": [
+        "Soft, brittle, transparent, and high electrical resistance.",
+        "Good electrical conductor, malleable, ductile, and strong.",
+        "Low melting point, poor thermal conductor, and highly elastic.",
+        "Rigid, brittle, non-conducting, and low density."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Clay is shaped while wet and soft, then placed into a high-temperature kiln. What physical changes occur during this process, characteristic of ceramics?",
+      "options": [
+        "It becomes flexible, soft, and rubbery.",
+        "It turns into a liquid that conducts electricity easily.",
+        "It becomes hard and brittle when heated.",
+        "It dissolves into long polymer chains."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Flexible food wraps, rigid pipe fittings, and synthetic clothing fibers have vastly different physical properties, yet all are classified as plastics. Why is this possible?",
+      "options": [
+        "Plastics are made from polymers, and there are many types of plastics with very different properties.",
+        "All plastics contain identical metal atoms arranged in different pattern layers.",
+        "Plastics alter their chemical formula automatically based on surrounding humidity.",
+        "Every plastic is made of pure carbon atoms linked directly to metal elements."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Pure gold is often too soft for durable jewelry, so it is melted together with copper to create 18-karat gold. How is this combined material classified?",
+      "options": [
+        "A ceramic material formed by intense heating.",
+        "An alloy, because it is a mixture of elements containing at least one metal.",
+        "A composite material made of long polymer chains.",
+        "A displacement compound formed in aqueous solution."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Fiberglass combines thin glass strands embedded within a tough plastic resin to produce a material that is both strong and lightweight. What category of material is fiberglass?",
+      "options": [
+        "An alloy, because it combines two metallic elements.",
+        "A ceramic, because it must be fired in a high-temperature kiln.",
+        "A composite, because it combines materials to create a new material with improved properties.",
+        "A monomer, because it consists of single small molecules."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which statement accurately describes the microscopic structure of a polymer?",
+      "options": [
+        "It consists of large metal crystals held together by metallic bonds.",
+        "It is made from small molecules called monomers that join together to form very long chains of atoms.",
+        "It consists of unbonded individual atoms suspended in a liquid matrix.",
+        "It is formed by mixing two distinct metallic elements without chemical bonds."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why do certain polymers exhibit unusually high melting points compared to simple covalent compounds?",
+      "options": [
+        "Their small monomer units evaporate before breaking apart.",
+        "Their long polymer molecules are hard to separate from one another.",
+        "They contain free-moving electrons that absorb thermal energy rapidly.",
+        "They are composed of weak metallic bonds that resist heat expansion."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A student claims that all polymers are synthetic materials manufactured in industrial chemical plants. Why is this claim incorrect?",
+      "options": [
+        "Polymers can only form naturally inside volcanic rock formations.",
+        "Synthetic polymers do not exist; all polymers are biological.",
+        "While polymers can be made synthetically, some polymers also exist naturally.",
+        "Polymers are strictly metallic mixtures created by smelting metal ores."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Adding an additive called a plasticiser to PVC makes the hard plastic much more flexible. What is the mechanism behind this structural change?",
+      "options": [
+        "The plasticiser forms rigid cross-links that lock polymer chains tightly together.",
+        "The plasticiser breaks the long chains down into single monomer atoms.",
+        "The plasticiser gets between polymer molecules and allows them to move over each other more easily.",
+        "The plasticiser converts the polymer into a metallic alloy matrix."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What structural effect do cross-links between polymer molecules have on the physical properties of a polymer material?",
+      "options": [
+        "They allow the molecules to slide past each other much more freely, making it softer.",
+        "Cross-links between polymer molecules can make a polymer harder and less flexible.",
+        "They lower the melting point of the polymer to well below room temperature.",
+        "They convert the solid polymer into a fluid solution at room temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "When zinc granules are added to dilute hydrochloric acid, gas bubbles form rapidly and a clear solution remains. What are the chemical products of this reaction?",
+      "options": [
+        "Metal oxide and water",
+        "Metal hydroxide and hydrogen gas",
+        "A metal salt and hydrogen gas",
+        "Metal carbonate and carbon dioxide gas"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A piece of potassium metal is added to a trough of water. It reacts vigorously on the surface, fizzing rapidly and releasing gas. What are the chemical products of this reaction?",
+      "options": [
+        "A metal salt and hydrogen gas",
+        "A metal hydroxide and hydrogen gas",
+        "A metal oxide and oxygen gas",
+        "A metal ore and water vapor"
+      ],
+      "correctAnswerIndex": 1,
       "learningPointIndex": 19
     }
   ]

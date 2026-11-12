@@ -1,6 +1,6 @@
 {
   "unitKey": "4Plant nutrition and photosynthesisBiology",
-  "generatedAt": "2026-11-11T16:26:36.483473+00:00",
+  "generatedAt": "2026-11-12T16:59:49.550425+00:00",
   "questions": [
     {
       "question": "A student examines a plant cell under a microscope and identifies small, green structures within the cytoplasm. What are these structures, and in which part of the plant are they most abundant?",
@@ -1760,6 +1760,226 @@
         "It is a protein absorbed from root hairs for respiration."
       ],
       "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A scientist examines leaf tissues under a microscope and observes green subcellular structures inside individual leaf cells. Which structures are these?",
+      "options": [
+        "Chloroplasts",
+        "Stomata",
+        "Cell walls",
+        "Mitochondria"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In which subcellular structure within plant leaf cells does the process of photosynthesis actually take place?",
+      "options": [
+        "Nucleus",
+        "Chloroplasts",
+        "Vacuole",
+        "Cell membrane"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What specific pigment inside chloroplasts is responsible for absorbing light energy required for photosynthesis?",
+      "options": [
+        "Glucose",
+        "Chlorophyll",
+        "Cytoplasm",
+        "Starch"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why is having thin leaves an advantageous structural adaptation for a plant?",
+      "options": [
+        "It allows light to pass through to cells containing chloroplasts.",
+        "It prevents water from moving through the roots.",
+        "It increases the structural weight of the plant stems.",
+        "It reduces the amount of carbon dioxide reaching inner cells."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How does having broad leaves with a large surface area help a plant carrying out photosynthesis?",
+      "options": [
+        "It maximizes the absorption of light for photosynthesis.",
+        "It decreases the amount of gas exchange across stomata.",
+        "It allows the plant to absorb soil minerals directly through leaves.",
+        "It prevents sunlight from reaching chloroplast structures."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which gas is taken in from the surrounding air by plant leaves to be used in photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What gas produced during photosynthesis is released from plant leaves into the surrounding air?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Methane",
+        "Nitrogen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the term for the process in which gases such as carbon dioxide and oxygen enter and leave plant leaves?",
+      "options": [
+        "Gas exchange",
+        "Transpiration",
+        "Respiration",
+        "Digestion"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which microscopic structures located on the surface of plant leaves allow gas exchange to take place?",
+      "options": [
+        "Chloroplasts",
+        "Stomata",
+        "Chlorophyll pigments",
+        "Root hairs"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "By which physical process do gas molecules move through open stomata into and out of leaves?",
+      "options": [
+        "Active transport",
+        "Diffusion",
+        "Osmosis",
+        "Evaporation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why are green plants classified as producers in food webs?",
+      "options": [
+        "They consume other organisms for energy.",
+        "They make their own food using photosynthesis.",
+        "They decompose organic waste in the soil.",
+        "They absorb prepared nutrients directly from the air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A healthy green plant is placed in a totally dark room with adequate water and air. Why does it stop photosynthesising?",
+      "options": [
+        "Photosynthesis can only happen when there is light.",
+        "Plants do not require energy when it is dark.",
+        "Stomata close permanently in dark soil.",
+        "Carbon dioxide cannot exist without light."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which statement correctly describes the cellular nature of photosynthesis?",
+      "options": [
+        "It is a physical state change occurring on the outer leaf surface.",
+        "It is a series of chemical reactions that take place inside cells.",
+        "It is a mechanical breakdown of minerals inside roots.",
+        "It is a process of absorbing solid food particles into chloroplasts."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which option correctly identifies the reactants and products of photosynthesis?",
+      "options": [
+        "Reactants: oxygen and glucose; Products: water and carbon dioxide",
+        "Reactants: water and carbon dioxide; Products: oxygen and glucose",
+        "Reactants: light and minerals; Products: oxygen and water",
+        "Reactants: glucose and water; Products: carbon dioxide and oxygen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Photosynthesis involves numerous chemical steps inside leaf cells. What is the purpose of using a word summary of reactants and products?",
+      "options": [
+        "It serves as a model of the overall chemical process.",
+        "It replaces the need for plants to use chlorophyll.",
+        "It shows the physical layout of stomata on leaves.",
+        "It proves that oxygen is consumed rather than produced."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What set of fundamental requirements must plants obtain to stay alive and grow?",
+      "options": [
+        "Light, air, water, and minerals",
+        "Glucose, starch, heat, and shade",
+        "Protein, oxygen, darkness, and soil",
+        "Fats, carbon monoxide, minerals, and warmth"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How does a plant obtain its necessary resources from its environment?",
+      "options": [
+        "Light and gases through roots; water and minerals through leaves",
+        "Light and gases through leaves; water and minerals through roots",
+        "All resources enter through leaf stomata",
+        "All resources enter through root system hairs"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A student believes that soil minerals and water are food for plants. Why is this incorrect?",
+      "options": [
+        "Water and minerals are not food, though plants need them to stay alive and grow.",
+        "Water and minerals contain glucose required for photosynthesis.",
+        "Plants do not take in water or minerals at any point.",
+        "Minerals are produced by the leaves during gas exchange."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How do plants obtain food compared to animals?",
+      "options": [
+        "Plants absorb solid food from the surrounding soil.",
+        "Plants do not take in food from their surroundings; they make their own food.",
+        "Plants ingest microscopic organisms through stomata.",
+        "Plants extract prefabricated food molecules from air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What type of food is synthesized by plants, and what are its main uses within the organism?",
+      "options": [
+        "Carbohydrate, used for growth and as a source of energy",
+        "Minerals, used to absorb sunlight in roots",
+        "Protein, used exclusively for gas exchange through stomata",
+        "Water, used as a primary structural element in stems"
+      ],
+      "correctAnswerIndex": 0,
       "learningPointIndex": 19
     }
   ]

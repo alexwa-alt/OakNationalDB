@@ -1,0 +1,226 @@
+{
+  "unitKey": "6Hidden forcesPhysics",
+  "generatedAt": "2026-11-12T17:00:42.495387+00:00",
+  "questions": [
+    {
+      "question": "How can you tell that the whole of an object is floating on water?",
+      "options": [
+        "Part of the object is above the surface.",
+        "The object is completely submerged at the bottom.",
+        "The object loses all its mass in water.",
+        "The object moves down at a constant speed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Which statement correctly describes how liquid depth affects floating?",
+      "options": [
+        "Objects float much better in deeper water.",
+        "How well an object floats does not depend on the depth of the liquid.",
+        "Objects only float if the water is shallower than 1 metre.",
+        "Liquid depth doubles the upthrust force."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What standard unit is used to measure the mass of an object?",
+      "options": [
+        "Newtons",
+        "Pascals",
+        "Kilograms",
+        "Joules"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "On Earth, how much force is needed to lift a 1 kg mass?",
+      "options": [
+        "1 N",
+        "100 N",
+        "0.1 N",
+        "10 N"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "How many grams are equivalent to 1 kg?",
+      "options": [
+        "1000 g",
+        "100 g",
+        "10 g",
+        "10000 g"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What is the formula used to calculate gravitational force (weight, W)?",
+      "options": [
+        "W = m ÷ g",
+        "W = m × g",
+        "W = m + g",
+        "W = g ÷ m"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "How does the extension of a spring relate to the force applied to it?",
+      "options": [
+        "It decreases as force increases.",
+        "It stays constant regardless of force.",
+        "It is directly proportional to the force applied.",
+        "It is inversely proportional to the force applied."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why is a spring categorized as elastic?",
+      "options": [
+        "It permanently changes shape when pulled.",
+        "It generates heat when stretched.",
+        "It increases its mass under load.",
+        "It returns to its original length when a force is removed."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which scientific law describes the stretching behaviour of springs?",
+      "options": [
+        "Hooke's law",
+        "Newton's law",
+        "Ohm's law",
+        "Pascal's law"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What effect can a lever have on a small applied force?",
+      "options": [
+        "Turn mass into volume.",
+        "Multiply a small force into a larger force.",
+        "Eliminate force completely.",
+        "Stop all turning forces."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What does pressure measure?",
+      "options": [
+        "How fast an object moves",
+        "How much gravity acts on a mass",
+        "How concentrated a force is",
+        "How much energy is in a spring"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which equation is used to calculate pressure?",
+      "options": [
+        "Pressure = force × area",
+        "Pressure = area ÷ force",
+        "Pressure = force + area",
+        "Pressure = force ÷ area"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What is another name for the unit newtons per square metre?",
+      "options": [
+        "Pascal (Pa)",
+        "Joule (J)",
+        "Watt (W)",
+        "Newton (N)"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why does liquid pressure increase as depth increases?",
+      "options": [
+        "Gravity gets stronger at the bottom.",
+        "There is more liquid pushing down.",
+        "The liquid density drops at depth.",
+        "The liquid temperature decreases."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Why does atmospheric pressure reduce with increasing height?",
+      "options": [
+        "Air molecules become heavier higher up.",
+        "The Earth's surface area increases.",
+        "There is less air pushing down.",
+        "Air turns into a solid at height."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Unlike a spring, how does a rubber band extend when equal increases of force are added?",
+      "options": [
+        "It shrinks in length when force increases.",
+        "It extends by the same amount for each force increase.",
+        "It does not extend until maximum force is reached.",
+        "It increases by different amounts for each equal sized increase in force."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "During a stretching experiment, what is the purpose of using a set square?",
+      "options": [
+        "To ensure measuring scales are vertical.",
+        "To calculate the volume of liquid displaced.",
+        "To measure the mass of suspended weights.",
+        "To measure the extension time of a spring."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What happens to a horizontal beam when a larger mass is placed on it?",
+      "options": [
+        "The beam becomes lighter.",
+        "The beam bends more.",
+        "The beam stops exerting support force.",
+        "The beam decreases in density."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "What effect is caused by a moment?",
+      "options": [
+        "Stretching",
+        "Compression",
+        "Turning",
+        "Heating"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "In which units are moments measured?",
+      "options": [
+        "Pascals (Pa)",
+        "Kilograms per metre (kg/m)",
+        "Newtons per square centimetre (N/cm²)",
+        "Newton-metres (Nm)"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 38
+    }
+  ]
+}
