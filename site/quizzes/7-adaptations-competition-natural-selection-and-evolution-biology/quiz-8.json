@@ -1,0 +1,226 @@
+{
+  "unitKey": "7Adaptations, competition, natural selection and evolutionBiology",
+  "generatedAt": "2026-11-13T16:39:16.557610+00:00",
+  "questions": [
+    {
+      "question": "In a practical activity modelling natural selection, students pick up green and white cocktail sticks from green grass. What does this simple model demonstrate?",
+      "options": [
+        "How camouflage affects an organism's chance of being caught by a predator",
+        "How organisms generate new mutations when they need them",
+        "How plants absorb nutrients from the soil using green pigment",
+        "How fast cocktail sticks can grow in different weather conditions"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Using the green and white cocktail stick model on green grass, what prediction can be made about the population of sticks left behind over several rounds of picking?",
+      "options": [
+        "The percentage of white sticks remaining will increase over time",
+        "The percentage of green sticks remaining will increase over time",
+        "Both types of sticks will disappear at exactly the same rate",
+        "All green sticks will instantly transform into white sticks"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How would the outcome of the cocktail stick model change if the green grass became completely covered in white snow?",
+      "options": [
+        "Green sticks would now be harder to see and survive better",
+        "White sticks would now be easier to see and picked first",
+        "White sticks would now be harder to see and survive better",
+        "Neither stick color would be visible to the predator at all"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which term describes the special features that make an organism well suited to survive in its environment?",
+      "options": [
+        "Adaptations",
+        "Habitats",
+        "Fossils",
+        "Nutrients"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A polar bear has a thick layer of blubber beneath its skin. How does this specific adaptation provide an advantage in its environment?",
+      "options": [
+        "It helps the bear absorb light for photosynthesis",
+        "It provides thermal insulation to reduce heat loss in freezing temperatures",
+        "It allows the bear to run faster to catch flying birds",
+        "It makes the bear lighter so it can float on water easily"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why do individual organisms in a habitat compete with one another?",
+      "options": [
+        "Because resources in a habitat are limited",
+        "Because all organisms have identical genetic information",
+        "Because ecosystems require organisms to fight for entertainment",
+        "Because resources are unlimited and endlessly available"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which set of resources are animals most likely to compete for in a woodland habitat?",
+      "options": [
+        "Light, pollinators, carbon dioxide, and soil minerals",
+        "Food, water, space, shelter, and mates",
+        "Oxygen, rocks, sunshine, and seed dispersers",
+        "Temperature, wind direction, rainfall, and cloud cover"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "In science, what is a 'scientific theory'?",
+      "options": [
+        "An untested guess made by a single person without any evidence",
+        "A general explanation developed from evidence that explains many different examples",
+        "A set of strict rules that can never be modified or questioned",
+        "A prediction about the future that has no relationship to real-world observations"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which statement correctly describes how new advantageous features arise in a species during evolution?",
+      "options": [
+        "Organisms decide to grow new features when the environment changes",
+        "New features appear randomly and are maintained if natural selection favours them",
+        "Evolution plans ahead to prepare organisms for future climate changes",
+        "Parents consciously pass on only their best trained physical traits"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "If a weightlifter builds very large muscles through daily training, why is this change not considered evolution?",
+      "options": [
+        "Because changes in an individual's features within its lifetime are not evolution",
+        "Because muscle growth is caused by genetic mutations in skin cells",
+        "Because physical exercise always decreases an organism's survival rate",
+        "Because evolution only occurs in plants and microorganisms, not animals"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "What are fossils?",
+      "options": [
+        "Dried leaves collected from living trees in modern forests",
+        "The mineralised remains or traces of once-living organisms",
+        "Fresh bones buried by animals a few days ago",
+        "Shells carved out of rock by ancient human sculptors"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Why are there limitations to the conclusions scientists can draw from the fossil record?",
+      "options": [
+        "Soft-bodied organisms rarely form fossils, leaving gaps in the record",
+        "Fossils show exact videos of how ancient organisms behaved",
+        "Every single organism that ever lived has been preserved as a fossil",
+        "Fossils contain full intact DNA from billions of years ago"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A dog loses a leg in an accident. Why will its future puppies still be born with four legs?",
+      "options": [
+        "Because environmental variation cannot be inherited by offspring",
+        "Because genetic variation changes whenever an injury occurs",
+        "Because the puppies choose how many legs to grow before birth",
+        "Because physical injuries are passed on through genetic instructions"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which feature is an example of variation caused by genetic information?",
+      "options": [
+        "A scar on a person's knee from falling off a bicycle",
+        "Camouflaged skin pattern on a chameleon",
+        "A tan gained by spending a week sitting in the sun",
+        "A dyed blue hairstyle"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "In evolutionary biology, what does it mean when an individual is described as being 'fitter' or 'better adapted'?",
+      "options": [
+        "It can run faster than any other species in the world",
+        "It has traits that give it a higher chance of surviving to reproduce in its environment",
+        "It spends more time exercising to build strong muscles",
+        "It is the largest and heaviest organism in the ecosystem"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What happens over several generations when an advantageous genetic feature helps individuals survive and reproduce?",
+      "options": [
+        "The feature becomes more common in each generation of offspring",
+        "The feature completely disappears from the population",
+        "The feature is replaced by environmental injuries",
+        "The entire population immediately becomes extinct"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Based on scientific evidence, approximately how old is the Earth?",
+      "options": [
+        "4.5 million years old",
+        "4.5 billion years old",
+        "350 thousand years old",
+        "500 million years old"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "According to scientific evidence, when did the first living organisms appear on Earth?",
+      "options": [
+        "Around 3.8 billion years ago",
+        "Around 200 million years ago",
+        "Around 10 thousand years ago",
+        "Around 4.5 billion years ago"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "Which of the following correctly orders the appearance of these life forms on Earth, from earliest to most recent?",
+      "options": [
+        "Modern humans, first mammals, first land plants",
+        "First land plants, first mammals, modern humans",
+        "First mammals, modern humans, first land plants",
+        "Modern humans, first land plants, first mammals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "Why do scientists divide Earth's history into eons, periods, and epochs?",
+      "options": [
+        "To make the huge span of Earth's history easier to understand and study",
+        "To calculate the exact date every single organism died",
+        "To prove that environmental variation is passed on to offspring",
+        "To track weather changes over a single calendar year"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 36
+    }
+  ]
+}

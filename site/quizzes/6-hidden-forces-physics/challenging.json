@@ -1,6 +1,6 @@
 {
   "unitKey": "6Hidden forcesPhysics",
-  "generatedAt": "2026-10-04T14:11:14.538555+00:00",
+  "generatedAt": "2026-11-13T16:37:34.582173+00:00",
   "questions": [
     {
       "question": "An iceberg is floating in the ocean with 90% of its volume submerged beneath the water's surface, and only 10% visible above. Based on physical principles, which of the following statements is correct about its state of floating?",
@@ -1321,6 +1321,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 26
+    },
+    {
+      "question": "A wooden block has 20% of its volume sticking out above the water level, while 80% is below the surface. What can be concluded about its floating state?",
+      "options": [
+        "Only 80% of the block is floating.",
+        "The entire block is floating on the water.",
+        "The block is sinking because part of it is submerged.",
+        "The block is neither floating nor sinking."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A student tests whether a toy boat floats in a 10 cm deep tray of water and then moves it to a 2 m deep swimming pool. Assuming the boat does not touch the bottom, how will its floating change?",
+      "options": [
+        "It will sink deeper in the pool because there is more water pulling it down.",
+        "It will float higher in the pool because deep water provides greater buoyancy.",
+        "It will float at the exact same level because depth does not affect how well an object floats.",
+        "It will sink in the shallow tray due to lack of space under the hull."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A 500 g block of solid steel sinks in water, but when shaped into a wide hollow bowl of 500 g mass, it floats. Why does shaping it allow it to float?",
+      "options": [
+        "Shaping it reduces its overall mass to less than 500 g.",
+        "The hollow shape allows it to push out 500 g of water without going under.",
+        "Steel becomes less dense when hammered into a thin sheet.",
+        "Air trapped inside the bowl cancels out the weight of the steel completely."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A container has a mass of 4.5 kg. How much vertical lifting force is needed to lift this container off the floor on Earth?",
+      "options": [
+        "0.45 N",
+        "4.5 N",
+        "45 N",
+        "450 N"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "On Jupiter, gravity is stronger than on Earth (g = 25 N/kg). What is the gravitational force (weight) acting on a 4 kg probe on Jupiter?",
+      "options": [
+        "100 N",
+        "40 N",
+        "25 N",
+        "6.25 N"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A student hangs a 2 N weight on a spring and measures an extension of 3 cm. Assuming Hooke's law applies, what will the extension be if a 6 N weight is applied?",
+      "options": [
+        "3 cm",
+        "6 cm",
+        "9 cm",
+        "12 cm"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A mechanic uses a long crowbar (a lever) to tilt a heavy engine that requires 600 N to shift. How does the lever allow the mechanic to shift it using only 100 N of effort?",
+      "options": [
+        "It reduces the total energy required to lift the engine.",
+        "It multiplies the small effort force into a larger output force on the engine.",
+        "It decreases the distance over which the force is applied.",
+        "It eliminates friction at the pivot point completely."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In a specific type of lever, an effort movement of 5 cm at one end produces a movement of 20 cm at the tool tip. How does this lever assist the user?",
+      "options": [
+        "It multiplies a small effort movement into a larger load movement.",
+        "It multiplies a small input force into a much larger output force.",
+        "It reduces the force required to zero.",
+        "It changes the weight of the load being moved."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A box exerts a downward force of 200 N on a flat table. The area of the box in contact with the table is 0.5 m². What pressure does the box exert on the table?",
+      "options": [
+        "100 Pa",
+        "200 Pa",
+        "400 Pa",
+        "800 Pa"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A weather sensor measures atmospheric pressure as 101,300 newtons per square metre. Which alternative unit and value are equivalent to this reading?",
+      "options": [
+        "101,300 Pa",
+        "101,300 Nm",
+        "101,300 N/cm",
+        "101,300 J"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why do heavy cargo ships have very wide, large surface area hulls rather than narrow, pointed bottoms?",
+      "options": [
+        "A larger hull surface area allows a bigger upthrust force to be produced to support heavy loads.",
+        "A larger hull surface area reduces the total mass of the ship.",
+        "Wider hulls increase water friction, which pushes the boat upward.",
+        "Narrow hulls increase the pressure of the water on the ship, making it sink faster."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "A submarine descends from a depth of 10 metres to 50 metres underwater. What happens to the water pressure acting on the hull of the submarine?",
+      "options": [
+        "It decreases because water density drops with depth.",
+        "It stays constant because liquids are incompressible.",
+        "It increases because a greater amount of liquid above is pushing down.",
+        "It drops to zero because deep water pushes sideways instead of down."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A climber measures atmospheric pressure at sea level and then again at the summit of a high mountain. What change in pressure will be observed and why?",
+      "options": [
+        "Higher at the summit because air is colder and denser.",
+        "Lower at the summit because there is less air above pushing down.",
+        "Unchanged because atmospheric gas spreads out evenly everywhere.",
+        "Lower at sea level because gravity pulls the air upward towards space."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A student loads weights onto a rubber band and measures extension: 1 N gives 2 cm, 2 N gives 5 cm, and 3 N gives 11 cm. What does this show about the rubber band's extension pattern?",
+      "options": [
+        "Equal increases in force produce equal increases in extension.",
+        "Extension is directly proportional to force applied.",
+        "Equal increases in force produce different increases in extension.",
+        "The rubber band does not extend when force is applied."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Why does a rubber band exhibit a non-linear extension pattern when stretched, unlike a spring that follows Hooke's law?",
+      "options": [
+        "Rubber molecules expand in size when pulled.",
+        "The behavior of molecular chains in the rubber explains its unique extension pattern.",
+        "Rubber contains trapped air pockets that compress under tension.",
+        "Friction between rubber molecules turns force directly into heat instead of stretch."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "During a Hooke's Law experiment, why is a set square used when positioning the vertical ruler?",
+      "options": [
+        "To check if the spring has exceeded its limit of proportionality.",
+        "To ensure the measuring scale is perfectly vertical.",
+        "To prevent the spring from swinging side to side while hanging weights.",
+        "To measure the angle of bend in the spring under heavy load."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "When a person stands in the middle of a wooden beam supported at both ends, the beam bends downwards. What creates the upward force supporting the person?",
+      "options": [
+        "As the beam bends more, the greater the force it pushes back with.",
+        "Air trapped beneath the bent beam pushes upward against the downward curve.",
+        "The bending reduces the weight of the person on the beam.",
+        "Gravity decreases at the centre of a flexible beam."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "When a heavy safe is placed on a concrete floor, what micro-level change allows the floor to exert a reaction force supporting the safe?",
+      "options": [
+        "Particles in the floor melt slightly under pressure.",
+        "More particles in the floor are squashed together, increasing the force they push back with.",
+        "Floor particles expand to fill the space under the safe.",
+        "The floor particles begin moving faster, generating thermal pressure."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "A mechanic applies a 50 N force perpendicularly to a spanner at a distance of 0.2 m from a bolt. What moment is applied to turn the bolt?",
+      "options": [
+        "10 Nm",
+        "25 Nm",
+        "250 Nm",
+        "2.5 Nm"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "A student calculates a turning effect using force multiplied by perpendicular distance from a pivot. What unit should be recorded for the answer?",
+      "options": [
+        "Newtons (N)",
+        "Pascals (Pa)",
+        "Newton-metres (Nm)",
+        "Kilograms per metre (kg/m)"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 38
     }
   ]
 }

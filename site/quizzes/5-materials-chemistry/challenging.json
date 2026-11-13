@@ -1,6 +1,6 @@
 {
   "unitKey": "5MaterialsChemistry",
-  "generatedAt": "2026-11-12T17:00:18.563681+00:00",
+  "generatedAt": "2026-11-13T16:37:03.602831+00:00",
   "questions": [
     {
       "question": "A student measures the mass of a black powder before adding it to hydrogen peroxide. After the reaction, she filters, dries, and weighs the powder again. If the powder acted as a catalyst, what will she observe?",
@@ -1761,6 +1761,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 19
+    },
+    {
+      "question": "A student measures 0.50 g of manganese dioxide catalyst before adding it to hydrogen peroxide solution. After the reaction completes, the mixture is filtered, washed, and dried. What mass of manganese dioxide remains?",
+      "options": [
+        "0.00 g",
+        "0.50 g",
+        "0.25 g",
+        "1.00 g"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Reaction A uses an iron catalyst to produce ammonia. Reaction B uses manganese dioxide to decompose hydrogen peroxide. If a scientist replaces the iron catalyst in Reaction A with manganese dioxide, what is the most likely outcome?",
+      "options": [
+        "Reaction A will speed up even more because manganese dioxide is a stronger universal catalyst.",
+        "Reaction A will stop entirely because catalysts neutralize reactants.",
+        "Reaction A will proceed much slower or not benefit from catalysis because catalysts are specific to particular reactions.",
+        "Reaction A will produce completely different chemical products."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Amylase is an enzyme in human saliva that breaks down starch into sugars at body temperature (37°C). If saliva is boiled to 100°C before mixing with starch, the reaction no longer speeds up. Why does this happen?",
+      "options": [
+        "The enzyme is a biological catalyst whose structure is permanently damaged by high temperatures.",
+        "The enzyme is converted into carbon dioxide and water when heated above room temperature.",
+        "High heat uses up the enzyme so it can no longer act as a reactant.",
+        "Boiling changes the starch into a metal salt that cannot react with catalysts."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "When a solid iron nail is placed into silver nitrate solution, a silver coating forms on the nail and the solution turns pale green. What does this reveal about iron and silver?",
+      "options": [
+        "Silver is more reactive than iron because silver formed a solid coating on the iron nail.",
+        "Silver displaced iron from the solution because silver is higher in the reactivity series.",
+        "Iron and silver have equal reactivity because a chemical reaction reached equilibrium.",
+        "Iron is more reactive than silver because it displaced silver from its salt in solution."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A student mixes magnesium ribbon with blue copper sulfate solution. The solution turns colourless and a red-brown solid forms. Which statement correctly identifies the products and explains the observation?",
+      "options": [
+        "Magnesium sulfate solution (colourless) and copper metal (red-brown) are formed because magnesium displaces copper.",
+        "Copper sulfate solution turns colourless because copper evaporates as a gas leaving solid magnesium.",
+        "Magnesium oxide and sulfur dioxide gas are formed because magnesium reacts with sulfate ions.",
+        "Copper oxide solid forms because copper is more reactive than magnesium."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Metal A displaces Metal B from Metal B nitrate solution. Metal B displaces Metal C from Metal C nitrate solution. Metal A does not displace Metal D from Metal D nitrate solution. What is the correct order of these metals from LEAST reactive to MOST reactive?",
+      "options": [
+        "D, A, B, C",
+        "C, B, A, D",
+        "A, B, C, D",
+        "C, A, B, D"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A geologist finds a rock sample containing a high concentration of iron oxide. Why is this rock classified as an iron ore?",
+      "options": [
+        "It is a pure sample of elemental iron metal that was formed naturally inside the Earth.",
+        "It is a naturally occurring rock containing an iron compound from which iron metal can be extracted.",
+        "It is a synthetic composite material manufactured by mixing metals with rocks.",
+        "It is a rock that contains iron which acts as a catalyst to speed up geological processes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Iron can be extracted from iron oxide by heating with carbon, but aluminium cannot be extracted from aluminium oxide using carbon. What does this reveal about the reactivity of carbon?",
+      "options": [
+        "Carbon is less reactive than both iron and aluminium.",
+        "Carbon is more reactive than both iron and aluminium.",
+        "Carbon is more reactive than iron but less reactive than aluminium.",
+        "Carbon is less reactive than iron but more reactive than aluminium."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "An engineer needs a material to make overhead electrical cables. The material must be drawn into long, thin wires without snapping and conduct electricity efficiently. Which combination of metallic properties addresses these requirements?",
+      "options": [
+        "Malleability and high thermal insulation",
+        "Brittleness and high tensile strength",
+        "Low melting point and magnetic attraction",
+        "Ductility and high electrical conductivity"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Clay is soft and easily shaped when wet, but after being fired in a kiln at high temperatures, it becomes suitable for brickwork and pottery. What change occurs to clay during heating?",
+      "options": [
+        "It changes from a soft substance into a hard, brittle ceramic material.",
+        "It melts into a flexible polymer with high elasticity.",
+        "It turns into a ductile alloy that conducts electricity well.",
+        "It decomposes into a shiny metal ore containing aluminum."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Pure gold is too soft to be used for everyday jewellery, so jewelers mix copper or silver into it to make 18-carat gold. How is 18-carat gold classified?",
+      "options": [
+        "A composite, because it contains visible matrix layers of carbon and metal.",
+        "An alloy, because it is a mixture of elements that includes at least one metal.",
+        "A ceramic, because it becomes hard and brittle only when heated in an oven.",
+        "A polymer, because it consists of long chains of repeating copper monomers."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Concrete reinforced with steel rods is widely used in construction because concrete resists compression while steel resists tension. What type of material is reinforced concrete and why?",
+      "options": [
+        "An alloy, because steel and concrete are melted together into a single uniform liquid solution.",
+        "A polymer, because concrete forms extremely long chains of identical monomers when dried.",
+        "A composite, because it combines different materials to produce a new material with improved properties.",
+        "A ceramic, because steel turns into clay when exposed to moisture over time."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Polyethene is made by chemically linking thousands of small ethene molecules together into long chains. What terms describe ethene and polyethene in this process?",
+      "options": [
+        "Ethene is a monomer and polyethene is a polymer.",
+        "Ethene is a polymer and polyethene is an alloy.",
+        "Ethene is a catalyst and polyethene is a ceramic.",
+        "Ethene is a composite and polyethene is a monomer."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Polymer X remains solid at 250°C, while Polymer Y melts at 80°C. Which explanation best accounts for the high melting point of Polymer X?",
+      "options": [
+        "Polymer X consists of short monomer units that easily evaporate when heated.",
+        "Polymer X has plasticisers that prevent the molecules from moving over one another.",
+        "Polymer X contains free-moving metal atoms that conduct heat away rapidly.",
+        "Polymer X has strong forces between its molecules that make them hard to separate."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A scientist compares cellulose from plant cell walls with nylon used in synthetic clothing. Which statement correctly categorises these two polymers?",
+      "options": [
+        "Both cellulose and nylon are synthetic polymers produced in factories.",
+        "Cellulose is a natural polymer, whereas nylon is a synthetic polymer.",
+        "Cellulose is a synthetic polymer, whereas nylon is a natural polymer found in animals.",
+        "Both cellulose and nylon are natural polymers extracted directly from plants."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Pure PVC is rigid and unbending, suitable for drainpipes. When a plasticiser is added, PVC becomes flexible enough to be used for garden hoses. How does the plasticiser alter the polymer's behavior?",
+      "options": [
+        "It gets between the polymer molecules and allows them to move over each other more easily.",
+        "It forms chemical cross-links between polymer chains to lock them tightly in place.",
+        "It acts as a catalyst to convert the polymer back into individual short monomers.",
+        "It extracts chlorine atoms from the polymer chain to turn it into an alloy."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Vulcanised rubber has sulfur cross-links between polymer chains and is used in car tyres because it is harder and less flexible than natural rubber. What role do cross-links play in this property change?",
+      "options": [
+        "Cross-links act as plasticisers that allow polymer chains to slide past each other effortlessly.",
+        "Cross-links connect polymer molecules together, making the overall structure harder and less flexible.",
+        "Cross-links lower the density of the polymer so that it floats easily on water.",
+        "Cross-links break the polymer chains into small, independent monomer units."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "When zinc granules are placed into dilute hydrochloric acid, bubbles of gas are produced and zinc chloride solution is formed. What gas is produced and how is it confirmed?",
+      "options": [
+        "Oxygen gas, which relights a glowing splint.",
+        "Carbon dioxide gas, which turns limewater cloudy.",
+        "Hydrogen gas, which makes a squeaky pop sound when tested with a lighted splint.",
+        "Chlorine gas, which bleaches damp litmus paper white."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "When a small piece of sodium metal is added to water, it fizzes rapidly on the surface, melts into a ball, and produces an alkaline solution alongside a gas. What are the chemical products of this reaction?",
+      "options": [
+        "Sodium hydroxide and hydrogen gas",
+        "Sodium oxide and oxygen gas",
+        "Sodium chloride and hydrogen gas",
+        "Sodium carbonate and carbon dioxide gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Potassium reacts violently with cold water, iron reacts slowly with steam, and gold does not react with water at all. What does this indicate about their positions in the reactivity series?",
+      "options": [
+        "Gold is highest, iron is middle, and potassium is lowest because gold is the most resistant to rust.",
+        "Iron is highest because it reacts with steam, potassium is middle, and gold is lowest.",
+        "Potassium and gold are equally high because both react with oxygen in the atmosphere.",
+        "Potassium is highest, iron is middle, and gold is lowest because higher metals react more vigorously."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 22
     }
   ]
 }

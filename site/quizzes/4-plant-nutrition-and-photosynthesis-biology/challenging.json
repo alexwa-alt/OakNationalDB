@@ -1,6 +1,6 @@
 {
   "unitKey": "4Plant nutrition and photosynthesisBiology",
-  "generatedAt": "2026-11-12T16:59:49.550425+00:00",
+  "generatedAt": "2026-11-13T16:36:23.394740+00:00",
   "questions": [
     {
       "question": "A student examines a plant cell under a microscope and identifies small, green structures within the cytoplasm. What are these structures, and in which part of the plant are they most abundant?",
@@ -1980,6 +1980,226 @@
         "Water, used as a primary structural element in stems"
       ],
       "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A microscopic examination of a plant leaf reveals specialised structures inside leaf cells where photosynthesis occurs. Which structures are these?",
+      "options": [
+        "Chloroplasts",
+        "Stomata",
+        "Vacuoles",
+        "Cell walls"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A scientist isolates different cellular parts from a green plant to find where glucose production takes place. In which organelle does this process occur?",
+      "options": [
+        "Mitochondrion",
+        "Nucleus",
+        "Chloroplast",
+        "Ribosome"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Leaf cells contain a pigment that absorbs light energy required to drive photosynthesis. What is the name of this chemical pigment?",
+      "options": [
+        "Glucose",
+        "Chlorophyll",
+        "Starch",
+        "Cellulose"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Why is having thin leaves an structural adaptation that aids photosynthesis in plants?",
+      "options": [
+        "It allows light to easily reach the cells containing chloroplasts inside.",
+        "It prevents water vapour from escaping during gas exchange.",
+        "It increases the speed of mineral transport from roots.",
+        "It minimizes carbon dioxide loss during nighttime."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Water lily leaves float flat on the surface of a pond with broad, wide blades. How does this large surface area benefit the plant's photosynthetic ability?",
+      "options": [
+        "It maximizes the absorption of sunlight for photosynthesis.",
+        "It allows the leaf to absorb liquid carbohydrates directly from pond water.",
+        "It absorbs dissolved minerals directly from the air.",
+        "It prevents gas exchange from happening too quickly."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "During daylight hours, a healthy plant actively absorbs a gas from the surrounding atmosphere to use as a raw material for photosynthesis. Which gas is this?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Water vapour"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "An aquatic plant exposed to bright light produces visible gas bubbles that rise to the water surface. Which gas is being released by the leaves as a result of photosynthesis?",
+      "options": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Oxygen",
+        "Methane"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "The movement of carbon dioxide into leaf tissue and the release of oxygen out into the atmosphere is described by which biological term?",
+      "options": [
+        "Transpiration",
+        "Gas exchange",
+        "Mineral uptake",
+        "Cellular respiration"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Under a microscope, microscopic openings are visible on the outer layer of a leaf. What are these pores called, and what primary function do they serve?",
+      "options": [
+        "Chloroplasts, for trapping light energy",
+        "Stomata, for facilitating gas exchange",
+        "Root hairs, for taking up soil water",
+        "Vessels, for transporting dissolved sugar"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How do gas molecules such as carbon dioxide move into leaf cells through open stomata?",
+      "options": [
+        "By active pumping driven by root pressure",
+        "By diffusion from higher to lower concentration",
+        "By binding directly to minerals entering through veins",
+        "By physical suction created when light hits chlorophyll"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "In food chains, green plants are classified as producers. What defines a producer in terms of plant nutrition?",
+      "options": [
+        "They absorb pre-made organic food directly from fertile soil.",
+        "They manufacture their own food through photosynthesis.",
+        "They consume decomposers to get their energy.",
+        "They rely on animal waste as their primary energy source."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A potted plant is kept in a sealed glass box with plenty of water, carbon dioxide, and nutrients, but in absolute darkness. Why does photosynthesis cease?",
+      "options": [
+        "Plants cannot absorb carbon dioxide without air currents.",
+        "Photosynthesis can only occur when light energy is present.",
+        "Roots are unable to uptake water in the dark.",
+        "Chloroplasts break down instantly without heat."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which statement accurately describes what happens during photosynthesis at the cellular level?",
+      "options": [
+        "It is a simple physical mixing of water and gas inside the vacuole.",
+        "It is a complex series of chemical reactions taking place inside cells.",
+        "It is the physical absorption of solid particles through leaf surfaces.",
+        "It is a process where light is converted directly into liquid water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "In a summary of photosynthesis, which option correctly identifies the starting substances (reactants) and the ending substances (products)?",
+      "options": [
+        "Reactants: glucose and oxygen; Products: water and carbon dioxide",
+        "Reactants: water and carbon dioxide; Products: oxygen and glucose",
+        "Reactants: light and minerals; Products: glucose and water",
+        "Reactants: carbon dioxide and oxygen; Products: water and light"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why is the equation 'carbon dioxide + water -> glucose + oxygen' considered a model of photosynthesis?",
+      "options": [
+        "It shows every microscopic step and structural detail inside the cell.",
+        "It summarizes a complex multi-step chemical process using key reactants and products.",
+        "It proves that light is one of the chemical elements produced.",
+        "It acts as a physical replica of leaf stomata."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A student claims that plants only require light and carbon dioxide to survive indefinitely. Why is this claim incomplete?",
+      "options": [
+        "Plants also need solid food particles from the soil to survive.",
+        "Plants are living organisms that require light, air, water, and minerals to stay alive and grow.",
+        "Plants need oxygen as a reactant for photosynthesis instead of carbon dioxide.",
+        "Plants can live on minerals alone without needing water or light."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How do plants divide the uptake of essential resources between their leaf structures and root systems?",
+      "options": [
+        "Leaves absorb minerals and water; roots absorb light and gases.",
+        "Leaves absorb light and gases from air; roots absorb water and minerals.",
+        "Leaves absorb glucose from air; roots absorb light from soil.",
+        "Roots absorb carbon dioxide; leaves absorb liquid water from ground."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A student claims that commercial 'plant food' added to soil provides the energy plants need to live. How should this misconception be corrected?",
+      "options": [
+        "Water and minerals from soil are not food; plants must make their own food to survive and grow.",
+        "Minerals are food, but plants use light instead of food for energy.",
+        "Plants absorb glucose directly through roots, so added fertilizer is redundant.",
+        "Plants do not require energy to stay alive or grow."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How does the mode of nutrition in green plants differ fundamentally from that of animals?",
+      "options": [
+        "Plants absorb pre-formed organic food from their environment.",
+        "Plants do not take in food from their surroundings; they are producers that make their own food.",
+        "Animals generate their own food inside chloroplasts.",
+        "Plants digest soil minerals to extract pre-existing glucose."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "What primary type of nutrient do plants manufacture during photosynthesis, and what is its main use in the plant?",
+      "options": [
+        "They make minerals, which are used to attract light to leaves.",
+        "They make carbohydrate, which is used for growth and as an energy source.",
+        "They make protein directly from carbon dioxide for water storage.",
+        "They make oxygen gas, which serves as their primary structural building block."
+      ],
+      "correctAnswerIndex": 1,
       "learningPointIndex": 19
     }
   ]
