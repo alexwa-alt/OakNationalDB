@@ -1,0 +1,226 @@
+{
+  "unitKey": "8Carbon cycle and climate changeChemistry",
+  "generatedAt": "2026-11-14T15:15:26.800929+00:00",
+  "questions": [
+    {
+      "question": "What product is commonly formed when fuels containing carbon are burned in air?",
+      "options": [
+        "Carbon dioxide",
+        "Pure hydrogen",
+        "Nitrogen gas",
+        "Methane"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What is the atomic composition of a single molecule of carbon dioxide?",
+      "options": [
+        "Two carbon atoms and one oxygen atom",
+        "One carbon atom and two oxygen atoms",
+        "One carbon atom and one oxygen atom",
+        "Two carbon atoms and two oxygen atoms"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Approximately what percentage of Earth's atmosphere is made up of carbon dioxide?",
+      "options": [
+        "0.04 %",
+        "0.4 %",
+        "4.0 %",
+        "21 %"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What is global warming?",
+      "options": [
+        "An increase in Earth's atmospheric pressure",
+        "An increase in average global temperature caused by excessive greenhouse gases",
+        "A decrease in ocean levels due to evaporation",
+        "A seasonal increase in temperatures during summer months"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which type of rock is coal, and what is its main component?",
+      "options": [
+        "Igneous rock made mostly of silicon",
+        "Metamorphic rock made mostly of iron",
+        "Sedimentary rock made mostly of carbon",
+        "Sedimentary rock made mostly of calcium"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What original organic matter formed coal deposits over millions of years?",
+      "options": [
+        "Prehistoric plants",
+        "Dead plankton",
+        "Dinosaurs",
+        "Ancient marine shells"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "What organic source formed oil and natural gas deep in sediments?",
+      "options": [
+        "Prehistoric trees and ferns",
+        "Dead plankton",
+        "Volcanic ash and mineral deposits",
+        "Fossilised animal bones"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Where are oil and natural gas trapped beneath Earth's surface?",
+      "options": [
+        "In large open underground caverns",
+        "In the pores of sedimentary rock",
+        "Inside crystals of igneous rock",
+        "Within molten magma chambers"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which combination of processes forms sedimentary rock?",
+      "options": [
+        "Melting of rock followed by rapid cooling",
+        "Burial and compression of sediment cemented by salts from fluids",
+        "High pressure changing the crystal structure of igneous rock",
+        "Breakdown of bedrock in place without burial"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In which type of rock are fossils found?",
+      "options": [
+        "Igneous rock only",
+        "Metamorphic rock only",
+        "Sedimentary rock only",
+        "All rock types equally"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How are buried bones slowly converted into fossils over time?",
+      "options": [
+        "They melt into mineral liquid under intense heat",
+        "They are dissolved slowly by water and replaced by minerals",
+        "They combine with atmospheric oxygen to harden",
+        "They dry out and shrink into pure carbon crystals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What are the two main gases that make up most of Earth's atmosphere?",
+      "options": [
+        "78% nitrogen and 21% oxygen",
+        "78% oxygen and 21% nitrogen",
+        "50% carbon dioxide and 50% oxygen",
+        "90% nitrogen and 10% carbon dioxide"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What vital function do greenhouse gases perform in the atmosphere?",
+      "options": [
+        "They block all sunlight from reaching the ground",
+        "They keep Earth's temperature warm enough to support human life",
+        "They prevent water from evaporating into clouds",
+        "They produce oxygen for living organisms to breathe"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What is the chemical test for oxygen gas?",
+      "options": [
+        "It turns limewater milky",
+        "It relights a glowing splint",
+        "It burns with a squeaky pop",
+        "It bleaches damp litmus paper"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What result confirms the presence of carbon dioxide gas when using limewater?",
+      "options": [
+        "A blue flame appears",
+        "It forms a white precipitate that turns limewater milky",
+        "A glowing splint relights",
+        "The liquid turns bright red"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What is meant by weathering?",
+      "options": [
+        "The removal of rock material by flowing rivers",
+        "The slow breakdown of rocks on Earth's surface while in place",
+        "The movement of sediment downhill due to gravity",
+        "The compacting of deep sediment layers"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How does erosion differ from weathering?",
+      "options": [
+        "Erosion breaks down rock in place without moving it",
+        "Erosion removes material from where bedrock has been weathered",
+        "Erosion only occurs under high heat and pressure",
+        "Erosion builds up rock layers through sedimentation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "How does the combustion of carbon-containing fuels affect atmospheric carbon dioxide levels?",
+      "options": [
+        "It decreases carbon dioxide levels",
+        "It increases carbon dioxide levels",
+        "It has no effect on carbon dioxide levels",
+        "It permanently converts carbon dioxide into nitrogen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Which process removes carbon dioxide from the atmosphere?",
+      "options": [
+        "Respiration by animals",
+        "Combustion of wood",
+        "Photosynthesis by plants and phytoplankton",
+        "Decomposition of dead plants"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "What can happen to carbon dioxide gas when it interacts with the oceans?",
+      "options": [
+        "It turns instantly into solid coal",
+        "It can dissolve in the oceans",
+        "It escapes into space as ozone",
+        "It reacts to form pure nitrogen gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    }
+  ]
+}

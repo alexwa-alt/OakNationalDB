@@ -1,6 +1,6 @@
 {
   "unitKey": "6Hidden forcesPhysics",
-  "generatedAt": "2026-11-13T16:37:34.582173+00:00",
+  "generatedAt": "2026-11-14T15:14:09.753258+00:00",
   "questions": [
     {
       "question": "An iceberg is floating in the ocean with 90% of its volume submerged beneath the water's surface, and only 10% visible above. Based on physical principles, which of the following statements is correct about its state of floating?",
@@ -1541,6 +1541,226 @@
       ],
       "correctAnswerIndex": 2,
       "learningPointIndex": 38
+    },
+    {
+      "question": "A wooden block floats in a tub of water with 20% of its volume sticking out above the surface. What can be correctly concluded about its floating state?",
+      "options": [
+        "It is floating because part of the object remains above the surface.",
+        "It is partially sunken and therefore cannot be considered floating.",
+        "It will only be floating if 100% of its volume stays above the surface.",
+        "It floats only because the bottom of the tub supports its weight."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A toy boat floats in a basin containing 5 cm of water. Additional water is poured in until the depth reaches 30 cm. What happens to how well the boat floats?",
+      "options": [
+        "It floats higher because deeper water exerts a larger upward buoyant force.",
+        "It floats at the same level because floating depth does not depend on liquid depth.",
+        "It sinks slightly because higher water pressure pushes down on top of the hull.",
+        "It sinks to the bottom because the increased volume of water beneath it pulls it down."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A solid 500 g lump of clay sinks in water, but when molded into a hollow boat shape, it floats. Why does changing the shape allow the 500 g clay boat to float?",
+      "options": [
+        "The boat shape allows it to displace 500 g of water without submerged parts going under.",
+        "Molding clay into a hollow shape reduces its actual mass below 500 g.",
+        "Air trapped in the hollow shape reduces the gravitational pull on the clay particles.",
+        "The outer surface area decreases, which reduces total downward water pressure."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A student needs to lift a 4.5 kg crate vertically upward at a steady speed on Earth. Approximately how much force is required to lift it?",
+      "options": [
+        "0.45 N",
+        "4.5 N",
+        "45 N",
+        "450 N"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A box with a mass of 8 kg sits stationary on a flat laboratory bench on Earth. What downward force does this mass exert on the bench surface?",
+      "options": [
+        "About 0.8 N",
+        "About 8 N",
+        "About 80 N",
+        "About 800 N"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "An object on Earth experiences a gravitational force (weight) of 150 N. Taking g = 10 N/kg, what is the mass of the object?",
+      "options": [
+        "15 kg",
+        "150 kg",
+        "1500 kg",
+        "1.5 kg"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Applying a force of 2 N to a steel spring causes it to extend by 3 cm. Assuming the spring obeys Hooke's law, what extension will a 6 N force produce?",
+      "options": [
+        "5 cm",
+        "6 cm",
+        "9 cm",
+        "12 cm"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A student stretches a spring from 10 cm to 14 cm using a 5 N force. When the force is removed, the spring returns to its original 10 cm length. What property does this show?",
+      "options": [
+        "Plasticity",
+        "Elasticity",
+        "Friction",
+        "Gravitational attraction"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A heavy rock is pried upward using a long metal bar acting as a lever. Applying an input force of 50 N at one end creates an output force of 200 N under the rock. What principle of levers does this demonstrate?",
+      "options": [
+        "Levers can multiply a small force into a larger force.",
+        "Levers destroy mass to reduce the force required.",
+        "Levers eliminate the gravitational force acting on objects.",
+        "Levers always maintain equal input and output forces."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "When sweeping a floor, moving your hand a short distance near the top of a broom causes the bristles at the bottom to move a much larger distance. Which feature of levers is illustrated?",
+      "options": [
+        "Levers can only multiply small forces into larger forces.",
+        "Levers can multiply a small movement into a larger movement.",
+        "Levers eliminate friction between the broom and the floor.",
+        "Levers decrease the mass of the broom head during use."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A person wearing high heels exerts a much higher pressure on a wooden floor than when wearing flat sneakers, despite having the exact same mass. Why is this?",
+      "options": [
+        "The heel concentrates the body weight force over a much smaller area.",
+        "High heels increase the total gravitational force acting on the person.",
+        "Flat sneakers increase the total downward weight force on the floor.",
+        "The floor pushes back with less force under narrow shoe heels."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A wooden crate exerts a downward force of 120 N over a flat contact surface area of 3 m². What pressure does the crate exert on the floor?",
+      "options": [
+        "40 N/m²",
+        "360 N/m²",
+        "0.025 N/m²",
+        "123 N/m²"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A weather instrument records an atmospheric pressure of 101,300 N/m². Which standard unit name can be used to replace N/m²?",
+      "options": [
+        "Joules (J)",
+        "Pascals (Pa)",
+        "Watts (W)",
+        "Newton-metres (Nm)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why are large cargo ships constructed with broad, wide hull bases rather than narrow pointed bottoms?",
+      "options": [
+        "A larger hull surface area allows a bigger maximum upthrust force to act on the boat.",
+        "A larger hull surface area reduces the actual mass of the cargo ship.",
+        "A wider hull reduces the density of sea water surrounding the boat.",
+        "A wider base eliminates all downward pressure from the cargo weight."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "As a submarine descends from a depth of 50 m to 200 m below the ocean surface, what happens to the water pressure acting on its hull, and why?",
+      "options": [
+        "It decreases because water density drops at deeper levels.",
+        "It stays the same because liquids cannot be compressed.",
+        "It increases because there is more liquid above pushing down.",
+        "It increases because air inside the submarine expands."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A hiker climbs from sea level up to the top of a high mountain peak. Why does atmospheric pressure decrease as they climb higher?",
+      "options": [
+        "Air molecules vanish as temperature drops with altitude.",
+        "There is less air above them pushing down.",
+        "Earth's gravitational pull gets dramatically stronger at higher altitudes.",
+        "High winds at mountain peaks push atmospheric air away."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A student adds identical 1 N masses to a hanging rubber band one at a time. The first mass extends it by 2.0 cm, the second by an extra 3.5 cm, and the third by an extra 5.0 cm. What does this reveal about rubber bands?",
+      "options": [
+        "The extension increases by equal amounts for equal force increases.",
+        "The extension increases by different amounts for equal force increases.",
+        "Rubber bands obey Hooke's law across all load sizes.",
+        "The force exerted on the rubber band decreases as masses are added."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "When setting up an experiment to measure spring extension alongside a vertical ruler, a student uses a set square. What is the main purpose of the set square?",
+      "options": [
+        "To calculate the weight of the suspended mass holder.",
+        "To ensure the measuring scale is perfectly vertical.",
+        "To keep the spring from swinging side to side.",
+        "To multiply the force applied by the hanging weights."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "A person walks across a wooden plank bridging a stream, causing the plank to bend downwards in the middle. What happens as the plank bends more?",
+      "options": [
+        "The upward force the plank pushes back with increases.",
+        "The upward force the plank pushes back with drops to zero.",
+        "The gravitational force acting on the person decreases.",
+        "Particles inside the wooden plank separate completely."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "A spanner is used to tighten a bolt. A force of 20 N is applied perpendicularly at a distance of 0.25 m from the pivot bolt. What moment is produced?",
+      "options": [
+        "5 Nm",
+        "80 Nm",
+        "20.25 Nm",
+        "4.75 Nm"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 37
     }
   ]
 }

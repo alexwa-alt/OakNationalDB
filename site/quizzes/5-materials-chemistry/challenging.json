@@ -1,6 +1,6 @@
 {
   "unitKey": "5MaterialsChemistry",
-  "generatedAt": "2026-11-13T16:37:03.602831+00:00",
+  "generatedAt": "2026-11-14T15:13:25.468113+00:00",
   "questions": [
     {
       "question": "A student measures the mass of a black powder before adding it to hydrogen peroxide. After the reaction, she filters, dries, and weighs the powder again. If the powder acted as a catalyst, what will she observe?",
@@ -1981,6 +1981,226 @@
       ],
       "correctAnswerIndex": 3,
       "learningPointIndex": 22
+    },
+    {
+      "question": "A chemist mixes two liquids and observes a slow reaction. She adds a small amount of Solid X. The reaction speeds up, and at the end all of Solid X is recovered unchanged. What was the role of Solid X?",
+      "options": [
+        "It acted as a reactant that was converted into product.",
+        "It acted as a catalyst that sped up the reaction without being used up or chemically changed.",
+        "It acted as a solvent that dissolved the reactants to slow down collision rate.",
+        "It reacted with water to release heat."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Substance A speeds up Reaction 1, but when added to Reaction 2 under identical conditions, the reaction rate does not change at all. Why?",
+      "options": [
+        "Substance A must be a reactant in Reaction 2.",
+        "Catalysts are specific, so a catalyst for one reaction may not work for another.",
+        "Catalysts only function in biological cells, not chemical reactions.",
+        "Reaction 2 must already be occurring at maximum speed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which statement correctly describes the function and nature of enzymes?",
+      "options": [
+        "They are synthetic metals that speed up reactions in industrial furnaces.",
+        "They are biological catalysts that speed up reactions in living cells.",
+        "They are non-metallic alloys that increase the melting point of plastics.",
+        "They are cross-linked polymers used to make flexible materials in labs."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Metal X is placed into a solution of Metal Y sulfate. Metal X gradually dissolves, and a layer of solid Metal Y forms. What does this reveal about the metals?",
+      "options": [
+        "Metal Y is more reactive than Metal X.",
+        "Metal X is more reactive than Metal Y and displaced it from its salt in solution.",
+        "Both metals have identical reactivity in aqueous solutions.",
+        "Neither metal is reactive because no gas was produced."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Solid magnesium ribbon is placed into a blue solution of copper sulfate(aq). Which products are formed in this displacement reaction?",
+      "options": [
+        "Magnesium oxide and copper sulfate",
+        "Magnesium sulfate(aq) and copper",
+        "Copper hydroxide solution and magnesium gas",
+        "Copper oxide and magnesium sulfate"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A student needs to confirm the relative positions of Metal A and Metal B in the reactivity series. Which experimental method is appropriate?",
+      "options": [
+        "Heat both solid metals in air and measure which one turns soft first.",
+        "Test if each metal can displace the other from its salt solution.",
+        "Mix both metals together to see if they form a ceramic compound.",
+        "Test if both metals can conduct electricity when solid."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "An industrial manufacturer sources rock containing a valuable metal in a chemical form that can be extracted. What is this rock called?",
+      "options": [
+        "A synthetic polymer",
+        "A metal ore",
+        "A composite alloy",
+        "A cross-linked ceramic"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Iron can be extracted from iron ore using carbon, but aluminium cannot be extracted from its ore using carbon. What explains this difference?",
+      "options": [
+        "Carbon is more reactive than iron, but less reactive than aluminium.",
+        "Iron oxide is a plasticiser, whereas aluminium oxide is an alloy.",
+        "Carbon can only react with soft ceramics, not metal ores.",
+        "Carbon is less reactive than iron, but more reactive than aluminium."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A designer needs a material for electrical wiring that is strong, shiny, malleable, ductile, and conducts heat and electricity well. Which material class should be selected?",
+      "options": [
+        "Ceramics",
+        "Metals",
+        "Polymers",
+        "Ores"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A piece of soft, wet clay is shaped into a mug and fired at very high temperature in an oven. How do its properties change after heating?",
+      "options": [
+        "It becomes a flexible polymer with high electrical conductivity.",
+        "It becomes hard and brittle as a ceramic material.",
+        "It melts completely into a ductile metal alloy.",
+        "It dissolves into a liquid salt solution."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Material A is a flexible plastic used for squeeze bottles, while Material B is a tough plastic used for safety helmets. What does this show about plastics?",
+      "options": [
+        "All plastics have identical physical properties regardless of composition.",
+        "Plastics are made from polymers and there are many types with very different properties.",
+        "Plastics are formed only by mixing metals with carbon ores.",
+        "Plastics cannot be synthetic and must be mined directly from rock."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Brass is formed by combining molten copper with molten zinc. How is brass classified?",
+      "options": [
+        "As a ceramic material",
+        "As an alloy, because it is a mixture of elements including at least one metal",
+        "As a natural polymer made of long chain monomers",
+        "As a displacement reaction solution"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Fiberglass is made by embedding glass strands into a resin matrix to create a material that is stronger and lighter than either component alone. What type of material is fiberglass?",
+      "options": [
+        "A metal ore",
+        "A composite material with improved properties",
+        "A simple monomer",
+        "A pure metal element"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What fundamental chemical process creates a polymer?",
+      "options": [
+        "Large metal ores break apart into individual shiny atoms.",
+        "Small molecules called monomers join together to form very long chains of atoms.",
+        "Enzymes break down alloys into ceramic powders.",
+        "Carbon displaces metals from aqueous salt solutions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Polymer X melts at a very high temperature compared to Polymer Y. What structural property explains why Polymer X has a high melting point?",
+      "options": [
+        "Polymer X contains no chemical bonds between atoms.",
+        "Polymer X molecules are hard to separate.",
+        "Polymer X consists of unjoined individual monomers that vaporize easily.",
+        "Polymer X is an alloy of copper and magnesium."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Starch is produced naturally by plants, while nylon is manufactured in chemical factories. What does this demonstrate about polymers?",
+      "options": [
+        "Both are synthetic polymers made only in industrial reactors.",
+        "Polymers can be made synthetically, but some also exist naturally.",
+        "Polymers are always metals found in ores.",
+        "Starch is a composite, whereas nylon is a ceramic."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A chemical additive is mixed into a rigid polymer, causing the finished product to become flexible and easy to bend. What did the additive do?",
+      "options": [
+        "It acted as a plasticiser, getting between polymer molecules so they move over each other more easily.",
+        "It formed cross-links that locked the polymer chains permanently in rigid positions.",
+        "It extracted carbon from the polymer chain through a displacement reaction.",
+        "It acted as an enzyme that converted the polymer into an ore."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Polymer Sample A is soft and bends easily, while Polymer Sample B is hard, rigid, and heat-resistant. What structural feature makes Sample B harder and less flexible?",
+      "options": [
+        "Sample B contains plasticisers between its molecules.",
+        "Cross-links exist between polymer molecules in Sample B.",
+        "Sample B is a pure element found in metal ores.",
+        "Sample B has broken down into separate individual monomers."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "When iron nails react with dilute sulfuric acid, a metal salt solution forms along with gas bubbles. What gas is produced in this metal-acid reaction?",
+      "options": [
+        "Oxygen gas",
+        "Hydrogen gas",
+        "Carbon dioxide gas",
+        "Nitrogen gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "When calcium metal is placed into a beaker of water, bubbles of gas escape and calcium hydroxide is formed. What gas is released during this reaction?",
+      "options": [
+        "Oxygen gas",
+        "Hydrogen gas",
+        "Carbon monoxide gas",
+        "Chlorine gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "unitKey": "7Adaptations, competition, natural selection and evolutionBiology",
-  "generatedAt": "2026-10-04T14:11:41.574222+00:00",
+  "generatedAt": "2026-11-14T15:14:58.413984+00:00",
   "questions": [
     {
       "question": "In a classroom activity, students pick up green and white cocktail sticks scattered across a lawn of green grass in 30 seconds. Which of the following best explains what this model demonstrates?",
@@ -1101,6 +1101,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 36
+    },
+    {
+      "question": "In a practical activity, students scatter green and white cocktail sticks on a grass lawn and have 30 seconds to pick up as many as possible. Why does this activity act as a simple model for natural selection?",
+      "options": [
+        "It proves green cocktail sticks reproduce faster than white ones in grass.",
+        "It simulates how predators act as a selective pressure by preferentially catching less hidden prey.",
+        "It shows that white cocktail sticks will deliberately change color to hide from predators.",
+        "It demonstrates that all individuals in a habitat have an equal chance of surviving visual predation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Students use green and white cocktail sticks on a green lawn to model natural selection. If a sudden heavy snowfall covers the lawn completely, how does the prediction for stick collection change?",
+      "options": [
+        "Green sticks will now be collected in larger numbers because white sticks blend into the snow background.",
+        "White sticks will now be collected in larger numbers because white reflects more sunlight.",
+        "Equal numbers of both stick colors will always be collected regardless of background color changes.",
+        "Green sticks will become completely invisible while white sticks become bright and easy to spot."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Desert fennec foxes have very large ears containing many small blood vessels. How does this specific physical adaptation provide a survival advantage in their hot environment?",
+      "options": [
+        "Large ears trap a protective layer of warm air close to their skin during hot days.",
+        "Blood circulating through the large ear surface area radiates excess heat away to cool the body.",
+        "Large ears decrease their total surface area to volume ratio to prevent water gain.",
+        "The ears absorb water vapor directly from the surrounding dry desert air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "In a dense woodland, two young oak seedlings grow very close to each other. Which set of resources are these plants competing for?",
+      "options": [
+        "Food, light, shelter, and mates",
+        "Water, mineral ions, light, and space",
+        "Oxygen, pollinators, nesting sites, and heat",
+        "Carbon dioxide, mates, shelter, and prey"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A population of beetles lives on tree bark where birds hunt them by sight. Some beetles are born with darker shells than others. How does variation affect their ability to compete and survive?",
+      "options": [
+        "Darker beetles decide to hide only at night so birds cannot see them.",
+        "Variation ensures all beetles have the exact same chance of escaping predators.",
+        "Darker beetles blend into dark bark better, avoiding predation and competing more successfully for survival.",
+        "Lighter beetles automatically transform their shell color when touched by a bird."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which statement best describes what scientists mean when they refer to the 'theory of evolution by natural selection'?",
+      "options": [
+        "A temporary guess made by a single scientist without testing.",
+        "A comprehensive explanation supported by extensive evidence that explains many biological observations.",
+        "An unproven hypothesis that will become a scientific law once published in textbooks.",
+        "An opinion about how organisms ought to change to suit future climate conditions."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A student claims that bacteria decided to develop antibiotic resistance because they knew medicine was coming to kill them. Why is this reasoning scientifically incorrect?",
+      "options": [
+        "Bacteria do not evolve; only large animals like mammals can undergo evolution.",
+        "Resistance features arise randomly through variation, and natural selection maintains them when antibiotics are present.",
+        "Bacteria intentionally alter their genes after detecting the presence of antibiotics.",
+        "Antibiotic resistance is an environmental change that cannot be passed to offspring."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A weightlifter spends ten years building extremely large muscles through intense daily training. Why is this muscle gain not considered an example of biological evolution?",
+      "options": [
+        "Evolution only occurs in plants and microorganisms, not in human beings.",
+        "Muscle growth is a change within an individual's lifetime and is not a heritable genetic trait.",
+        "Muscle growth happens too quickly to be measured by evolutionary scientists.",
+        "The weightlifter did not compete with other individuals for food or shelter."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which of the following describes what all fossils actually are?",
+      "options": [
+        "The frozen preserved soft flesh of ancient organisms that never decayed.",
+        "Mineralised remains of once-living organisms or mineralised traces left behind by them.",
+        "Man-made rock sculptures constructed by early humans to record ancient animal shapes.",
+        "Dried organic materials that retain all original cell structures without chemical change."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Studying horse fossils across millions of years shows early ancestors were small with four toes, while modern horses are large with a single hoof. What does this evidence demonstrate?",
+      "options": [
+        "The features of a species can gradually change over long periods of time.",
+        "Horses lost their toes because they stopped using them during their individual lifetimes.",
+        "Fossils cannot provide reliable information about how animals looked in the past.",
+        "Ancient horses chose to grow larger so they could run away from modern predators."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Scientists want to use fossil evidence to determine the exact color pattern and hunting behavior of an ancient soft-bodied jellyfish. What is a key limitation of using fossils for this purpose?",
+      "options": [
+        "Soft tissues and temporary behaviors rarely leave mineralised fossil evidence.",
+        "Jellyfish lived millions of years ago, before rocks were able to form on Earth.",
+        "Fossils only preserve land plants, never aquatic organisms.",
+        "Chemical evidence proves that soft-bodied organisms never existed in ancient oceans."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Two genetically identical potted plants are grown in different environments. One receives abundant sunlight and grows tall and green; the other is kept in the dark and becomes pale and stunted. What type of variation causes this difference?",
+      "options": [
+        "Genetic variation caused by heritable DNA mutations.",
+        "Environmental variation caused by external factors like light availability.",
+        "Evolutionary variation caused by natural selection over generations.",
+        "Fossil variation caused by mineralisation of stem tissues."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A dog loses one of its ears in an accident with a garden fence. If this dog later reproduces, what ear feature will its offspring inherit, and why?",
+      "options": [
+        "Offspring will have one ear because the parent lost an ear before reproducing.",
+        "Offspring will have two ears because physical injuries are environmental variations and cannot be inherited.",
+        "Half the offspring will have one ear and half will have two ears due to natural selection.",
+        "Offspring will have zero ears because the physical injury alters reproductive DNA."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which of the following human features is primarily the result of genetic variation?",
+      "options": [
+        "A scar on the knee from falling off a bicycle.",
+        "Naturally occurring eye color determined by inherited instructions.",
+        "Speaking fluent French after living in Paris for five years.",
+        "Suntanned skin after spending a week on a sunny beach."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Why can genetic variation lead to long-term evolutionary change in a population, whereas environmental variation cannot?",
+      "options": [
+        "Genetic variation is heritable and can be passed on to offspring through biological instructions.",
+        "Environmental variation is stronger and completely prevents organisms from reproducing.",
+        "Genetic variation only alters an individual's features during its own lifetime.",
+        "Environmental variation is stored in DNA and causes rapid mutations in every generation."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "In a population of wild rabbits, individuals with thicker fur survive winter temperatures better than thin-furred rabbits. According to natural selection, why does this lead to an evolutionary change?",
+      "options": [
+        "Thicker-furred rabbits are more likely to survive, reproduce, and pass their advantageous fur genes to offspring.",
+        "Thin-furred rabbits decide to grow thick fur before the winter season begins.",
+        "Cold weather causes all thin-furred rabbits to instantly transform into thick-furred rabbits.",
+        "Thick fur prevents rabbits from needing food or water during the winter months."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "During the Industrial Revolution, soot darkened tree trunks. A peppered moth population in the area shifted over time from mostly light-colored to mostly dark-colored. How did human activity affect natural selection here?",
+      "options": [
+        "Human pollution genetically modified all living moths to make them dark.",
+        "Soot changed the background environment, giving dark moths a selective advantage against visual predators.",
+        "Pollution made light moths decide to paint themselves dark to survive.",
+        "Soot wiped out all predators, allowing both light and dark moths to live equally well."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "According to fossil and geological evidence, which sequence places the appearance of these organisms in the correct chronological order from oldest to most recent?",
+      "options": [
+        "Modern humans -> First land plants -> First mammals",
+        "First land plants -> First mammals -> Modern humans",
+        "First mammals -> Modern humans -> First land plants",
+        "Modern humans -> First mammals -> First land plants"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "Which option correctly pairs an animal species with a structural adaptation that suits its specific environment?",
+      "options": [
+        "Cactus - broad thin leaves to maximize water loss in dry deserts",
+        "Polar bear - thick layer of blubber and white fur for thermal insulation and camouflage in arctic snow",
+        "Water lily - deep extensive taproots to search for underground water in deep ponds",
+        "Camel - broad webbed feet designed primarily for fast swimming across ocean water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "How do scientists explain how modern complex species developed from ancient ancestral organisms?",
+      "options": [
+        "Through the theory of evolution by natural selection acting on heritable variation over generations.",
+        "By assuming ancient organisms changed their bodily traits intentionally whenever environments altered.",
+        "Through individual organisms acquiring beneficial traits in life and passing learned habits to offspring.",
+        "By proving that species remain completely unchanged from the time Earth was first formed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
     }
   ]
 }
