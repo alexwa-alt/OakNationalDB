@@ -1,0 +1,226 @@
+{
+  "unitKey": "9WavesPhysics",
+  "generatedAt": "2026-11-15T15:46:04.793992+00:00",
+  "questions": [
+    {
+      "question": "What is the correct sequence of structures inside the human ear that vibrate when a sound wave enters?",
+      "options": [
+        "Cochlea, tiny bones, eardrum",
+        "Eardrum, tiny bones, cochlea",
+        "Tiny bones, eardrum, cochlea",
+        "Eardrum, cochlea, tiny bones"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Where are the specialized cells located that detect sound vibrations and cause electrical signals to be sent along a nerve?",
+      "options": [
+        "On the eardrum",
+        "In the tiny bones",
+        "In the cochlea",
+        "Along the auditory canal"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which part of the body creates the sensation of hearing when it receives signals from the ear through a nerve?",
+      "options": [
+        "The brain",
+        "The eardrum",
+        "The cochlea",
+        "The auditory canal"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which range of frequencies can human ears detect best, being most sensitive to them?",
+      "options": [
+        "20 Hz – 50 Hz",
+        "50 kHz – 100 kHz",
+        "10 Hz – 15 Hz",
+        "2–5 kHz"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "How do vibrating objects produce sound waves that pass through the air?",
+      "options": [
+        "By moving air particles permanently across the room",
+        "By causing nearby air particles to vibrate",
+        "By creating a vacuum in front of the object",
+        "By converting air particles into light energy"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "What happens to a small portion of air as a sound wave travels through it?",
+      "options": [
+        "It vibrates parallel to wave travel without travelling forward overall",
+        "It moves continuously forward along with the sound wave",
+        "It oscillates in a circle around the sound source",
+        "It moves up and down at right angles to wave travel"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why is sound categorized as a longitudinal wave?",
+      "options": [
+        "Because its particles vibrate at 90 degrees to energy transfer",
+        "Because it can travel through a vacuum",
+        "Because the direction of vibration is parallel to the direction of energy transfer",
+        "Because it travels faster in gases than in solids"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why do sound waves travel faster in liquids and solids than in gases?",
+      "options": [
+        "Particles in solids move faster than gas particles",
+        "Particles are very close together so vibrations are easily passed on",
+        "Solids and liquids absorb less energy than gases",
+        "Gas particles block the sound wave travel"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why do sound waves travel even faster through solids than through liquids?",
+      "options": [
+        "Liquids are denser than solids",
+        "Solids have weaker forces between particles",
+        "Particles in solids carry the wave forward physically",
+        "Strong forces between particles in solids allow vibrations to travel faster"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is the speed of sound in air under standard conditions?",
+      "options": [
+        "About 340 m/s",
+        "About 3,000 m/s",
+        "About 300,000,000 m/s",
+        "About 30 m/s"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "What is created when sound waves reflect off a hard surface and return to be heard again?",
+      "options": [
+        "Refraction",
+        "Superposition",
+        "An echo",
+        "A longitudinal shift"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A sound pulse travels a distance of 680 metres in 2 seconds. What is its speed?",
+      "options": [
+        "680 m/s",
+        "340 m/s",
+        "170 m/s",
+        "1360 m/s"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why is it beneficial to measure longer distances and times when measuring the speed of sound experimentally?",
+      "options": [
+        "Sound speeds up over larger distances",
+        "It eliminates reaction time completely",
+        "Reflections no longer occur over long distances",
+        "Any measurement errors become a smaller proportion of the results"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "What name is given to sound waves with frequencies below 20 Hz?",
+      "options": [
+        "Infrasound",
+        "Ultrasound",
+        "Megasound",
+        "Super-sound"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What name is given to sound waves with frequencies above 20,000 Hz?",
+      "options": [
+        "Infrasound",
+        "Micro-sound",
+        "Ultrasound",
+        "Sub-audible sound"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which statement correctly describes ultrasound waves in relation to the human body?",
+      "options": [
+        "They are harmful ionizing radiation",
+        "They transfer energy via vibrations and do not cause harm to the human body",
+        "They can only travel through a complete vacuum",
+        "They do not cause objects to vibrate"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How is ultrasound used to produce images of internal body organs?",
+      "options": [
+        "It reflects from boundaries between different tissues",
+        "It passes straight through all tissues without reflecting",
+        "It turns into light rays inside organs",
+        "It permanently freezes tissue cells"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Besides medical imaging, what is another practical use for ultrasound vibrations?",
+      "options": [
+        "X-ray imaging of bones",
+        "Radio broadcasting over long distances",
+        "Heating kitchen food rapidly",
+        "Cleaning delicate objects and treating injuries in physiotherapy"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why are water waves described as transverse waves?",
+      "options": [
+        "Because water particles move forward with the energy",
+        "Because the direction of oscillation is 90° to the direction of energy transfer",
+        "Because the direction of oscillation is parallel to energy transfer",
+        "Because they travel only through a vacuum"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "What is wave superposition?",
+      "options": [
+        "The reflection of waves from hard surfaces",
+        "The bending of waves as they enter new materials",
+        "The process where waves passing through each other add up or cancel out",
+        "The steady movement of particles along with wave energy"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    }
+  ]
+}

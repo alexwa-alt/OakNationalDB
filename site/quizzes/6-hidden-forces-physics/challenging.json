@@ -1,6 +1,6 @@
 {
   "unitKey": "6Hidden forcesPhysics",
-  "generatedAt": "2026-11-14T15:14:09.753258+00:00",
+  "generatedAt": "2026-11-15T15:44:33.430980+00:00",
   "questions": [
     {
       "question": "An iceberg is floating in the ocean with 90% of its volume submerged beneath the water's surface, and only 10% visible above. Based on physical principles, which of the following statements is correct about its state of floating?",
@@ -1761,6 +1761,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 37
+    },
+    {
+      "question": "A large wooden block rests in a tank of water with nine-tenths of its volume under the surface and one-tenth sticking out above the water line. Which statement correctly describes the object?",
+      "options": [
+        "Only one-tenth of the wooden block is floating because the rest is submerged.",
+        "The whole of the wooden block is floating because part of it is above the surface.",
+        "The block is in the process of sinking because more than half is underwater.",
+        "The block is suspended in liquid, which is scientifically distinct from floating."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A toy boat floats in a shallow container filled with 3 cm of water. If the container is refilled with 30 cm of water without changing the boat, how will its floating behaviour change?",
+      "options": [
+        "It will float higher because deeper water exerts greater pressure on the hull.",
+        "It will float deeper because there is more total weight of water in the container.",
+        "How well the boat floats does not depend on the depth of the liquid.",
+        "It will capsize because deep water destabilises small floating objects."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A solid block of steel sinks immediately in water, but the same mass of steel shaped into a wide hollow hull floats easily. Why does this change of shape allow it to float?",
+      "options": [
+        "An object floats in water if its shape can push its own mass of water out of the way without going under.",
+        "Hollow steel contains trapped air which permanently reduces the true mass of the steel.",
+        "The hull shape increases the downward force of gravity acting on the steel object.",
+        "Water is unable to exert upward forces on solid flat blocks of dense materials."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A student needs to lift a 4.5 kg bag of flour vertically off a kitchen counter on Earth. What is the minimum force needed to lift it?",
+      "options": [
+        "0.45 N",
+        "4.5 N",
+        "45 N",
+        "450 N"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "An astronaut measures an equipment box with a mass of 6 kg on a moon where the gravitational field strength g is 1.6 N/kg. What is the gravitational force acting on this box?",
+      "options": [
+        "3.75 N",
+        "7.6 N",
+        "9.6 N",
+        "60 N"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Adding a 2 N mass holder to a hanging spring extends its length by 1.5 cm. If an additional 2 N force is applied (total 4 N), how much extra extension will occur?",
+      "options": [
+        "0.75 cm",
+        "1.5 cm",
+        "3.0 cm",
+        "4.5 cm"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "When a spring is stretched within its elastic limit, what does it mean that its extension is directly proportional to the force applied?",
+      "options": [
+        "Doubling the force applied doubles the extension produced.",
+        "The extension remains constant regardless of how much force is applied.",
+        "Increasing force causes the extension to increase by smaller and smaller steps.",
+        "The overall length of the spring doubles every time a 1 N force is added."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why is a steel spring described as being elastic when stretched under moderate loads?",
+      "options": [
+        "It can stretch indefinitely without ever snapping or changing shape.",
+        "It returns to its original length when the force is removed.",
+        "It generates a electric charge whenever it is pulled.",
+        "Its total mass decreases while stretched to absorb the force."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "How does using a long crowbar make it easier to lift a heavy rock compared to lifting it directly by hand?",
+      "options": [
+        "It reduces the actual mass of the heavy rock while lifting.",
+        "It can multiply a small force into a larger force.",
+        "It removes all friction between the rock and the ground.",
+        "It reduces the distance over which the effort force must travel."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A broom is held so that a small movement of a person's hands near the top produces a wide sweeping action at the bristles. Which property of levers is shown here?",
+      "options": [
+        "Levers can multiply a small movement into a larger movement.",
+        "Levers always multiply input forces into larger output forces.",
+        "Levers increase the mass of the broom head while sweeping.",
+        "Levers eliminate the need for a pivot point."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A wooden crate with a base area of 2 square metres exerts a downward force of 600 N on the floor. What pressure does the crate exert on the floor?",
+      "options": [
+        "300 N/m²",
+        "600 N/m²",
+        "1200 N/m²",
+        "2400 N/m²"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A researcher calculates a fluid pressure value as 450 newtons per square metre. Which equivalent unit can be used to write this measurement?",
+      "options": [
+        "450 Joules (J)",
+        "450 Pascals (Pa)",
+        "450 Watts (W)",
+        "450 Newton-metres (Nm)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why can a large container ship support a much heavier cargo mass than a small rowing boat before sinking?",
+      "options": [
+        "Small boats experience greater gravitational acceleration than large ships.",
+        "Water cannot exert upward pressure on small surface areas.",
+        "The bigger the surface area of a boat’s hull, the bigger the upthrust on it can be.",
+        "Larger ships decrease the density of the ocean water surrounding them."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "A submarine sensor records a higher water pressure at a depth of 200 metres than at 10 metres below the sea surface. Why does this pressure difference occur?",
+      "options": [
+        "Water at 200 metres is much colder and moves faster against the hull.",
+        "Pressure in liquid increases with depth because there is more liquid pushing down.",
+        "The gravitational pull of Earth disappears near the water surface.",
+        "Underwater currents only exist deep down and push against the hull."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Hikers climbing high mountain peaks experience lower atmospheric pressure as they travel higher up. What explains this drop in pressure?",
+      "options": [
+        "Air molecules expand at high altitudes, lowering gas mass.",
+        "Pressure in the atmosphere reduces with height because there is less air pushing down.",
+        "Cold mountain temperatures convert atmospheric pressure into horizontal wind.",
+        "Gravity becomes much stronger at high peaks, holding air stationary."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A student hangs weights onto a rubber band one by one and measures the total extension after each addition. What pattern of results will be observed?",
+      "options": [
+        "The extension increases by the exact same amount for each extra weight.",
+        "The extension of a rubber band increases different amounts for each equal sized increase in force.",
+        "The rubber band does not extend at all until a threshold force is reached.",
+        "The total extension decreases continuously as more force is applied."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A diving board bends downward when a swimmer stands on its end. What happens to the upward force exerted by the board as it bends further?",
+      "options": [
+        "The upward force remains zero until the swimmer bounces off.",
+        "The more a beam bends, the greater the force it pushes back with.",
+        "The upward force decreases because the material weakens as it bends.",
+        "The board force changes direction to pull the swimmer downward."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "When an elephant stands on a solid concrete floor, the particles in the floor directly beneath its feet are squashed together. How does the floor support the heavy weight?",
+      "options": [
+        "The floor particles move apart to reduce upward pressure.",
+        "The floor particles melt slightly to distribute the force sideways.",
+        "The more particles in a floor are squashed together, the greater the force they push back with.",
+        "The floor absorbs the force without pushing back against the feet."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "A mechanic uses a spanner to turn a tight bolt. A force of 20 N is applied perpendicularly at a distance of 0.3 m from the pivot. What moment is exerted on the bolt?",
+      "options": [
+        "6 Nm",
+        "20.3 Nm",
+        "66.7 Nm",
+        "60 Nm"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "A student calculates the turning effect produced by a force acting on a lever and gets a value of 15. What are the correct standard units for this turning effect?",
+      "options": [
+        "Newtons per metre (N/m)",
+        "Newtons per square metre (N/m²)",
+        "Newton-metres (Nm)",
+        "Kilograms per metre (kg/m)"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 38
     }
   ]
 }

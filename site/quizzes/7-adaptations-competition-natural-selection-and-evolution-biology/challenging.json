@@ -1,6 +1,6 @@
 {
   "unitKey": "7Adaptations, competition, natural selection and evolutionBiology",
-  "generatedAt": "2026-11-14T15:14:58.413984+00:00",
+  "generatedAt": "2026-11-15T15:45:09.863789+00:00",
   "questions": [
     {
       "question": "In a classroom activity, students pick up green and white cocktail sticks scattered across a lawn of green grass in 30 seconds. Which of the following best explains what this model demonstrates?",
@@ -1321,6 +1321,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 13
+    },
+    {
+      "question": "Students model natural selection by collecting green and white cocktail sticks from a green lawn within a short time limit. Why does this activity act as a model for natural selection?",
+      "options": [
+        "Predation is selective because green sticks are hidden against the grass background.",
+        "Green sticks automatically transform into white sticks when picked up.",
+        "White sticks are stronger and resist being collected from the lawn.",
+        "Collectors consciously choose to pick green sticks to keep the trial balanced."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Using the green and white cocktail stick model on green grass, what prediction can be made about the stick population over several rounds of collection and replacement?",
+      "options": [
+        "The proportion of green sticks will increase as white sticks are removed more frequently.",
+        "Both colours of sticks will be collected at identical rates across all rounds.",
+        "White sticks will change colour to green in response to high collection rates.",
+        "The proportion of green sticks will decrease because collectors prefer camouflaged prey."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "In the cocktail stick model on green grass, green sticks survived better. If a heavy snowfall turns the field white, how does the prediction for the stick population change?",
+      "options": [
+        "White sticks will now have a survival advantage, so their proportion will increase.",
+        "Green sticks will instantly turn white to adapt to the lower surface temperature.",
+        "Equal numbers of green and white sticks will survive because visual hunting stops in snow.",
+        "Green sticks will continue to survive better because collectors are used to hunting green sticks."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which of the following best defines an adaptation in biology?",
+      "options": [
+        "A feature of a species that makes it well suited to survive in its environment.",
+        "A behaviour learned by an individual animal during its lifetime to obtain food.",
+        "A sudden physical alteration chosen by an organism when weather conditions worsen.",
+        "A temporary trait that appears only when an animal leaves its natural habitat."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Desert foxes have very large ears containing many blood vessels, whereas Arctic foxes have very small ears. How does the large ear adaptation provide an advantage to desert foxes?",
+      "options": [
+        "It allows excess heat to radiate away from the body, preventing overheating.",
+        "It traps warm air around the head to keep the brain warm during desert night frosts.",
+        "It absorbs solar radiation to generate chemical energy during cold mornings.",
+        "It adds extra weight to the head, helping the fox dig burrows through packed sand."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why do living organisms in natural ecosystems engage in competition with one another?",
+      "options": [
+        "Resources in any habitat are limited, so individuals must compete to obtain enough to survive.",
+        "Organisms naturally fight to ensure that only a single species remains in a given area.",
+        "Habitats have infinite resources, but competition is required to trigger growth.",
+        "Predators force prey organisms to compete so that ecosystems stay balanced."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which group of items consists ONLY of resources for which plants in a dense forest typically compete?",
+      "options": [
+        "Light, water, space, and mineral ions in the soil.",
+        "Mates, prey, shelter, and water.",
+        "Pollinators, oxygen, territory, and prey.",
+        "Light, warm air, prey, and shelter."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Over generations, a population of moths living in a soot-polluted forest becomes darker on average. How does natural selection account for this change?",
+      "options": [
+        "Darker moths were better camouflaged, survived predation more often, and passed on their dark traits.",
+        "Individual light moths stretched their wings to absorb soot, permanently darkening themselves.",
+        "Trees forced light moths to lay dark eggs so the moth population would not disappear.",
+        "Light moths chose not to reproduce so dark moths could dominate the habitat."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the correct scientific definition of a 'scientific theory', such as the theory of evolution by natural selection?",
+      "options": [
+        "A general explanation, developed from evidence, that explains many different examples.",
+        "An untested guess made by a scientist before collecting experimental observations.",
+        "A temporary idea that only applies until an exception is imagined.",
+        "A rule that cannot be investigated or modified by future scientific studies."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which statement correctly describes how new advantageous features arise and spread in a population?",
+      "options": [
+        "They appear randomly and are maintained over generations by natural selection.",
+        "They are planned in advance by organisms to prepare for upcoming climate changes.",
+        "They develop intentionally whenever an individual decides it needs a new physical trait.",
+        "They are created by predators to ensure prey species become more challenging to catch."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "An athlete exercises regularly and develops exceptionally strong leg muscles. Why is this change NOT considered an example of biological evolution?",
+      "options": [
+        "It occurs within the individual's lifetime and cannot be passed on to offspring.",
+        "Muscle growth does not assist the individual in competing for resources.",
+        "Evolutionary changes can only occur in plant structures, not animal tissues.",
+        "Physical changes caused by exercise are temporary and disappear overnight."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which statement accurately describes what fossils are?",
+      "options": [
+        "They are the mineralised remains of once-living organisms or traces left behind by them.",
+        "They are soft tissues preserved in their original state without any chemical change.",
+        "They are rocks shaped purely by wind erosion to resemble animal skeletons.",
+        "They are bones of organisms that died within the last few decades."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Although fossils provide vital clues about ancient life, there are limitations to fossil evidence. Which of the following is a key limitation?",
+      "options": [
+        "Many soft-bodied organisms decay completely without forming fossils, leaving gaps in the record.",
+        "Fossils can only form if an organism is trapped inside tree amber.",
+        "Fossils preserve full genetic sequences for every extinct creature found.",
+        "Fossilised rocks cannot be arranged in chronological order."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A tree growing on a exposed, windy cliff becomes bent and twisted. If seeds from this tree are grown in a calm, sheltered garden, what shape will the new trees most likely have?",
+      "options": [
+        "Straight, because environmental variation such as wind damage is not heritable.",
+        "Bent and twisted, because all shape changes acquired during life are inherited.",
+        "Bent, because the parent tree modified the instructions inside its seeds.",
+        "Twisted, because environmental stress permanently alters all future offspring."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which of the following human features is an example of genetic variation that can be passed on to offspring?",
+      "options": [
+        "Inherited natural eye colour.",
+        "A scar caused by an accidental cut.",
+        "A sun tan gained after a week at the beach.",
+        "A dyed hair colour."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "In a population of wild rabbits, some individuals inherit slightly faster running speeds. How does natural selection lead to this trait becoming more common over time?",
+      "options": [
+        "Faster rabbits escape predators more easily, surviving to reproduce and pass on their genes for speed.",
+        "Slower rabbits train themselves to run faster so their offspring will inherit quick legs.",
+        "Predators deliberately target faster rabbits, allowing slower rabbits to breed more.",
+        "Speed increases automatically in all rabbits as they eat nutrient-rich grass."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A chemical spray is used repeatedly to control crop pests on a farm. After several years, the spray becomes far less effective. How did human activity influence natural selection in this scenario?",
+      "options": [
+        "It altered the environment, favoring rare individuals with natural resistance who survived and bred.",
+        "It caused all individual insects to deliberately mutate their bodies to resist the chemical.",
+        "It stopped natural selection from functioning because synthetic chemicals prevent evolution.",
+        "It forced insects to grow thicker outer shells during their adult lives to block the poison."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "According to scientific evidence, approximately when did the earliest living organisms (microorganisms) first appear on Earth?",
+      "options": [
+        "Around 3.8 billion years ago.",
+        "Around 4.5 billion years ago.",
+        "Around 500 million years ago.",
+        "Around 350 thousand years ago."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "Which timeline correctly places the appearance of these organisms on Earth in order from OLDEST to MOST RECENT?",
+      "options": [
+        "First land plants (500 mya) -> First mammals (200 mya) -> Modern humans (350 kya).",
+        "Modern humans (350 kya) -> First mammals (200 mya) -> First land plants (500 mya).",
+        "First mammals (200 mya) -> First land plants (500 mya) -> Modern humans (350 kya).",
+        "First land plants (500 mya) -> Modern humans (350 kya) -> First mammals (200 mya)."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "Why do scientists divide the 4.5-billion-year history of Earth into eons, periods, and epochs?",
+      "options": [
+        "To break vast spans of geological time into smaller, clearer divisions that are easier to understand.",
+        "Because each epoch corresponds to exactly one hundred solar years.",
+        "To align Earth's historical timeline with modern monthly calendar dates.",
+        "Because Earth's magnetic poles flip at the exact start of every new period."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 36
     }
   ]
 }

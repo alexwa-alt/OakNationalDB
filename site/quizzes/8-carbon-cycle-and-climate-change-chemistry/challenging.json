@@ -1,6 +1,6 @@
 {
   "unitKey": "8Carbon cycle and climate changeChemistry",
-  "generatedAt": "2026-08-26T09:09:25.659993+00:00",
+  "generatedAt": "2026-11-15T15:45:38.261830+00:00",
   "questions": [
     {
       "question": "A chemical analyst is modeling the molecular structure of a greenhouse gas. They represent the molecule with three spheres: a central black sphere bonded to two red spheres on either side. What chemical formula and composition does this model represent?",
@@ -661,6 +661,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 32
+    },
+    {
+      "question": "A scientist analyses a sample of pure carbon dioxide gas. What is the precise atomic composition of each individual molecule of this compound?",
+      "options": [
+        "One carbon atom chemically bonded to two oxygen atoms",
+        "Two carbon atoms chemically bonded to one oxygen atom",
+        "One carbon atom physically mixed with two separate oxygen molecules",
+        "One carbon atom chemically bonded to one oxygen atom"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which statement correctly describes the proportion of carbon dioxide present in Earth's atmosphere?",
+      "options": [
+        "It makes up approximately 4.0% of atmospheric gases.",
+        "It makes up approximately 0.04% of Earth's atmosphere.",
+        "It accounts for roughly 0.4% of total air volume.",
+        "It represents about 21% of the atmosphere."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If human activities release an excessive amount of greenhouse gases into the atmosphere, what direct global change occurs?",
+      "options": [
+        "A rapid drop in average atmospheric nitrogen concentration",
+        "An increase in average global temperature known as global warming",
+        "A sudden decrease in ocean water evaporation rates",
+        "The complete stopping of natural weathering processes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A laboratory sample of coal is analyzed. Why does coal ignite and burn when heated in air?",
+      "options": [
+        "It is an igneous rock formed from solid methane crystals.",
+        "It is a sedimentary rock made mostly of carbon, with some impurities.",
+        "It is a metamorphic rock containing pure liquid hydrocarbons.",
+        "It is a mineral rock composed exclusively of compressed oxygen gas."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Millions of years ago, vast quantities of microscopic plankton died and sank into sea sediments. What did this organic material eventually become?",
+      "options": [
+        "Solid layers of coal buried within granite",
+        "Oil and natural gas",
+        "Pure carbon dioxide trapped inside glaciers",
+        "Metamorphic slate containing dissolved minerals"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "An energy company drills underground to extract crude oil and natural gas reserves. Where are these fuels trapped beneath the surface?",
+      "options": [
+        "Inside large open subterranean magma pockets",
+        "Within the microscopic pores of sedimentary rock",
+        "Dissolved inside dense metamorphic quartz crystal beds",
+        "Frozen inside subterranean ice layers"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A student collects samples of rainwater, river water, and tap water to test their chemical contents. What will be true of all natural water samples?",
+      "options": [
+        "Natural water is completely pure H2O with no dissolved substances.",
+        "Natural water in nature always contains dissolved minerals.",
+        "Natural water only contains minerals if it was collected near a volcano.",
+        "Natural water contains carbon dioxide gas but never any dissolved solids."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which combination of geological steps leads directly to the formation of sedimentary rock from accumulated sediment?",
+      "options": [
+        "Melting under high thermal energy followed by rapid cooling",
+        "Burial and compression, with salts from fluids cementing the grains together",
+        "Dissolving completely in acidic groundwater followed by evaporation",
+        "Physical breakdown by rain without any burial or compression steps"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A team of researchers searches different rock outcrops for naturally preserved fossils. In which type of rock will they find fossils?",
+      "options": [
+        "Igneous rock formed from cooled lava flows",
+        "Metamorphic rock altered by high pressure and heat",
+        "Sedimentary rock only",
+        "Any rock type, as long as it formed underwater"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How are buried animal bones gradually converted into mineralized fossils over long periods of geological time?",
+      "options": [
+        "They are scorched into pure carbon blocks by mantle heat.",
+        "They are very slowly dissolved by water and replaced by minerals in the water.",
+        "They turn into solid ice crystals that remain frozen indefinitely.",
+        "They absorb atmospheric nitrogen gas which hardens bone marrow into quartz."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Where is the vast majority of Earth's atmosphere located relative to the surface?",
+      "options": [
+        "Mostly within 7 to 15 km of Earth's surface",
+        "Between 100 km and 300 km above sea level",
+        "Spread evenly up to 10,000 km into space",
+        "Confined entirely within 500 meters of sea level"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A sealed container gathers a sample of clean, dry air at sea level. What are the main gases present in this sample?",
+      "options": [
+        "50% carbon dioxide and 50% oxygen",
+        "78% nitrogen and 21% oxygen",
+        "78% oxygen and 21% carbon dioxide",
+        "90% nitrogen and 10% argon"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Why is the presence of naturally occurring greenhouse gases in the atmosphere vital for human life?",
+      "options": [
+        "They prevent all solar radiation from reaching the planet.",
+        "They keep Earth's temperature warm enough for human life.",
+        "They convert toxic nitrogen gas into breathable oxygen gas.",
+        "They stop all chemical weathering of surface rocks."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A gas produced during a chemical reaction is bubbled through clear limewater. A white precipitate forms and turns the limewater milky. Which gas is present?",
+      "options": [
+        "Oxygen gas",
+        "Nitrogen gas",
+        "Carbon dioxide gas",
+        "Hydrogen gas"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which scenario provides an accurate example of geological weathering?",
+      "options": [
+        "A fast-flowing river carrying mud and sand down to a coastline",
+        "Strong winds blowing loose dust across an open field",
+        "The slow breakdown of a granite outcrop on a hillslope while remaining in place",
+        "A glacier dragging loose boulders across bedrock"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "How does erosion differ from weathering in geological processes?",
+      "options": [
+        "Weathering moves materials, while erosion breaks rocks in place.",
+        "Erosion removes and transports material away from where bedrock has been broken down.",
+        "Erosion only occurs underwater, while weathering only occurs on dry land.",
+        "Weathering alters rock chemistry, while erosion turns rocks into lava."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What impact does the large-scale combustion of carbon-containing fuels have on Earth's atmosphere?",
+      "options": [
+        "It decreases the concentration of carbon dioxide in the atmosphere.",
+        "It increases the amount of carbon dioxide in the atmosphere.",
+        "It reduces global temperatures by blocking sunshine.",
+        "It converts atmospheric carbon dioxide directly into liquid water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What is the net effect of cellular respiration carried out by living organisms on atmospheric carbon levels?",
+      "options": [
+        "It decreases carbon dioxide levels by turning it into oxygen.",
+        "It locks carbon permanently in deep sedimentary rocks.",
+        "It increases the amount of carbon dioxide in the atmosphere.",
+        "It converts carbon dioxide gas directly into solid carbon."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Which process directly reduces the concentration of carbon dioxide gas present in the atmosphere?",
+      "options": [
+        "Respiration by land animals",
+        "Combustion of wood in forest fires",
+        "Photosynthesis by plants, phytoplankton and some bacteria",
+        "Decomposition of leaf litter by soil fungi"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "What occurs when atmospheric carbon dioxide gas comes into contact with ocean surfaces?",
+      "options": [
+        "Carbon dioxide can dissolve in the oceans.",
+        "Carbon dioxide immediately solidifies into floating coal seams.",
+        "Carbon dioxide is repelled by water and pushed into outer space.",
+        "Carbon dioxide splits instantly into nitrogen gas and liquid water."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
     }
   ]
 }
