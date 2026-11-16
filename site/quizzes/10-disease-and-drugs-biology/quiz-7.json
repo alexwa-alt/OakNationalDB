@@ -1,0 +1,226 @@
+{
+  "unitKey": "10Disease and drugsBiology",
+  "generatedAt": "2026-11-16T18:46:59.222172+00:00",
+  "questions": [
+    {
+      "question": "Which statement best describes asthma?",
+      "options": [
+        "A non-infectious disease that causes breathing difficulties",
+        "An infectious disease caused by a viral infection",
+        "A bacterial infection affecting the digestive system",
+        "A contagious illness spread through coughing"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What happens to the bronchial tubes in the lungs during an asthma attack?",
+      "options": [
+        "They expand to let in more oxygen",
+        "They become narrower, making it harder to breathe",
+        "They fill completely with blood",
+        "They break down and disappear permanently"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which device is commonly used to deliver medication directly to the lungs to treat asthma symptoms?",
+      "options": [
+        "A syringe",
+        "An inhaler",
+        "A thermometer",
+        "A stethoscope"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What defines an infectious disease?",
+      "options": [
+        "It is caused only by an unbalanced diet",
+        "It can be passed from one organism to another",
+        "It cannot be transmitted between living things",
+        "It is inherited strictly through family genes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which types of organisms or agents cause infectious diseases?",
+      "options": [
+        "Red blood cells and white blood cells",
+        "Pathogens including viruses and some bacteria",
+        "Vitamins and minerals",
+        "Plant hormones and enzymes"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which statement is true regarding non-infectious diseases?",
+      "options": [
+        "They are always caused by airborne viruses",
+        "They can be caught by touching an infected person",
+        "They cannot be passed from one organism to another",
+        "They are spread through contaminated drinking water"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which combination of habits increases a person's risk of developing lifestyle diseases?",
+      "options": [
+        "Eating an unbalanced diet and lacking regular exercise",
+        "Eating a balanced diet and exercising regularly",
+        "Drinking plenty of water and sleeping eight hours daily",
+        "Avoiding tobacco and walking every day"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How are medicines best defined in healthcare?",
+      "options": [
+        "Drugs taken purely for recreation and entertainment",
+        "Substances that are always illegal to possess",
+        "Drugs that people take when they are ill",
+        "Nutrients that replace normal food intake"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Into which two main functional categories are recreational drugs classified?",
+      "options": [
+        "Antibiotics and painkillers",
+        "Depressants and stimulants",
+        "Nutrients and vitamins",
+        "Vaccines and antibodies"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How do depressant drugs affect the body's nervous system?",
+      "options": [
+        "They speed up heart rate and alertness",
+        "They slow down thinking and reaction times",
+        "They sharpen vision and improve memory instantly",
+        "They increase muscle strength immediately"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Long-term excessive use of the legal depressant alcohol is known to damage which organs?",
+      "options": [
+        "Brain and liver",
+        "Bones and teeth",
+        "Skin and hair",
+        "Thyroid and gall bladder"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What effect do stimulant drugs have on a person?",
+      "options": [
+        "They cause drowsiness and slow down reactions",
+        "They make you feel more alert and give quicker reaction times",
+        "They lower your body temperature drastically",
+        "They cause immediate loss of feeling in limbs"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following is a legal stimulant present in some foods and drinks?",
+      "options": [
+        "Alcohol",
+        "Caffeine",
+        "Heroin",
+        "Aspirin"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Which pair of drugs are examples of illegal stimulants used recreationally?",
+      "options": [
+        "Caffeine and alcohol",
+        "Cocaine and ecstasy",
+        "Paracetamol and ibuprofen",
+        "Penicillin and insulin"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What is the addictive substance contained in tobacco leaves?",
+      "options": [
+        "Tar",
+        "Carbon monoxide",
+        "Nicotine",
+        "Ethanol"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Smoking tobacco increases the risk of developing which set of diseases?",
+      "options": [
+        "Diabetes, anemia, and scurvy",
+        "Asthma, COPD, lung cancer, and heart disease",
+        "Malaria, cholera, and typhoid",
+        "Rickets, arthritis, and eczema"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What term describes inhaling household chemicals to become intoxicated?",
+      "options": [
+        "Vaping",
+        "Solvent abuse",
+        "Alcohol abuse",
+        "Substance immunity"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Which group contains substances commonly associated with solvent abuse?",
+      "options": [
+        "Water, fruit juice, and milk",
+        "Paint thinner, glue, and nitrous oxide",
+        "Vegetable oil, vinegar, and salt",
+        "Baking soda, flour, and sugar"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Why is vaping detrimental to health, similar to smoking?",
+      "options": [
+        "It introduces large amounts of digestive enzymes",
+        "It involves consuming nicotine, which affects health negatively",
+        "It stops oxygen from entering blood vessels completely",
+        "It destroys stomach acid needed for digestion"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "Why might health advice and scientific understanding of vaping change over time?",
+      "options": [
+        "Scientific advice never changes once recorded",
+        "Scientific ideas are updated as new evidence emerges",
+        "Scientists guess results without gathering evidence",
+        "Health guidelines are changed randomly each year"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 38
+    }
+  ]
+}

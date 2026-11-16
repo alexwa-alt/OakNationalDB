@@ -1,6 +1,6 @@
 {
   "unitKey": "8Carbon cycle and climate changeChemistry",
-  "generatedAt": "2026-11-15T15:45:38.261830+00:00",
+  "generatedAt": "2026-11-16T18:44:48.581780+00:00",
   "questions": [
     {
       "question": "A chemical analyst is modeling the molecular structure of a greenhouse gas. They represent the molecule with three spheres: a central black sphere bonded to two red spheres on either side. What chemical formula and composition does this model represent?",
@@ -878,6 +878,226 @@
         "Carbon dioxide immediately solidifies into floating coal seams.",
         "Carbon dioxide is repelled by water and pushed into outer space.",
         "Carbon dioxide splits instantly into nitrogen gas and liquid water."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "A student burns a wood block in a controlled environment and collects the gas produced. Which compound is predominantly formed as a result of burning carbon in the fuel?",
+      "options": [
+        "Carbon dioxide",
+        "Pure nitrogen gas",
+        "Methane gas",
+        "Carbon monoxide only"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Analyzing the chemical structure of carbon dioxide reveals specific atomic proportions. Which statement correctly describes a carbon dioxide molecule?",
+      "options": [
+        "It is an element containing two carbon atoms bonded together.",
+        "It is a compound containing one carbon atom and two oxygen atoms.",
+        "It is a mixture containing equal parts carbon and oxygen gas.",
+        "It is a compound made of two carbon atoms and one oxygen atom."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Given that carbon dioxide makes up about 0.04% of Earth's atmosphere, how many carbon dioxide molecules would you expect to find in a sample of 10,000 atmospheric gas molecules?",
+      "options": [
+        "4 molecules",
+        "40 molecules",
+        "400 molecules",
+        "780 molecules"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If human activities significantly increase the concentration of greenhouse gases in the atmosphere, what is the expected global effect?",
+      "options": [
+        "A decrease in global sea levels due to atmospheric cooling.",
+        "An increase in average global temperature, known as global warming.",
+        "A sudden collapse of atmospheric pressure near sea level.",
+        "An immediate decrease in the rate of rock weathering."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Coal is a sedimentary rock that can be burned for fuel. What is the primary reason coal is combustible?",
+      "options": [
+        "It is composed of pure hydrocarbons derived from ancient marine organisms.",
+        "It is made mostly of carbon derived from prehistoric plant matter, with some impurities.",
+        "It contains trapped volcanic gases and mineral salts.",
+        "It formed from compressed crystals of sulfur and pure quartz."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "How do the organic origins of oil and natural gas differ from those of coal?",
+      "options": [
+        "Oil and natural gas formed from dead plankton mixed with sediments millions of years ago.",
+        "Oil and natural gas formed from land-based trees in shallow swamps.",
+        "Oil and natural gas formed from molten volcanic rocks trapped deep underground.",
+        "Oil and natural gas formed from inorganic minerals reacting with atmospheric nitrogen."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Where are underground reserves of crude oil and natural gas located within geological formations?",
+      "options": [
+        "Inside solid igneous crystals with no empty spaces.",
+        "In the tiny open pores of sedimentary rocks.",
+        "Exclusively inside open volcanic lava tubes.",
+        "Within liquid magma chambers in the Earth's mantle."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Over millions of years, deep underground heat and pressure transform buried prehistoric organic matter into which specific chemical compounds?",
+      "options": [
+        "Hydrocarbons",
+        "Silicates",
+        "Carbonates",
+        "Oxides"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which set of processes describes how loose layers of sediment eventually turn into solid sedimentary rock?",
+      "options": [
+        "Melting into magma, followed by rapid cooling and crystallization.",
+        "Extreme volcanic heat causing recrystallization without fluid involvement.",
+        "Burial and compression, followed by salts from fluids cementing the grains together.",
+        "Direct freezing of river water containing dissolved mineral crystals."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A geologist examines a exposed cliff showing distinct layers of sedimentary rock (strata). How do these strata aid scientific study?",
+      "options": [
+        "They allow exact radiometric age determination without laboratory testing.",
+        "They create a relative timeline and provide clues about ancient environments.",
+        "They demonstrate that atmospheric composition has remained constant over Earth's history.",
+        "They prove that all layers were deposited simultaneously during a single event."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A field researcher discovers a preserved leaf imprint embedded within a rock layer. In which type of rock are fossils exclusively found?",
+      "options": [
+        "Sedimentary rock",
+        "Igneous rock",
+        "Metamorphic rock",
+        "Volcanic rock"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How does the petrification of buried animal bones occur during fossil formation over long geological periods?",
+      "options": [
+        "Bones turn directly into solid diamond under intense atmospheric pressure.",
+        "Bones are slowly dissolved by water and replaced by minerals contained in the water.",
+        "Organic proteins in the bones harden directly into dense coal deposits.",
+        "Oxygen in surrounding sediment reacts with bones to turn them into granite."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Which statement correctly describes the vertical distribution of Earth's atmosphere?",
+      "options": [
+        "Most of the atmosphere extends thousands of kilometres uniformly into space.",
+        "Most of Earth's atmosphere is concentrated within 7 to 15 km of its surface.",
+        "The atmosphere begins only above an altitude of 50 km.",
+        "The atmosphere forms a uniform shell that extends deep into Earth's mantle."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Which breakdown best represents the natural chemical composition of Earth's clean atmosphere?",
+      "options": [
+        "50% Carbon dioxide, 40% Oxygen, and 10% Nitrogen",
+        "78% Nitrogen, 21% Oxygen, with very small amounts of other gases and particles",
+        "78% Oxygen, 21% Nitrogen, and 1% Carbon dioxide",
+        "99% Carbon dioxide with trace amounts of Nitrogen and Oxygen"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Why are natural greenhouse gases in the atmosphere essential for life on Earth?",
+      "options": [
+        "They block all incoming solar radiation from reaching the surface.",
+        "They keep Earth's average temperature warm enough for human life.",
+        "They produce all the oxygen required for animal respiration.",
+        "They trap 100% of thermal energy, preventing Earth from losing heat."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A laboratory technician bubble an unidentified clear gas into a test tube of limewater. The liquid turns cloudy with a white precipitate. Which gas was tested?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What is the key distinction between weathering and erosion?",
+      "options": [
+        "Weathering breaks down rock while it remains in place, whereas erosion moves material away.",
+        "Weathering removes rock material using rivers, whereas erosion breaks down rock without moving it.",
+        "Weathering occurs only deep inside Earth's core, whereas erosion happens on the surface.",
+        "Weathering melts rock, whereas erosion freezes water inside rock cracks."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Rainwater washes away loose, broken rock fragments from a hillside into a nearby stream. Which process is being directly described?",
+      "options": [
+        "Biological weathering",
+        "Erosion",
+        "Compaction",
+        "Cementation"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Which process naturally removes carbon dioxide gas from Earth's atmosphere?",
+      "options": [
+        "Combustion of fossil fuels",
+        "Respiration by living organisms",
+        "Photosynthesis by plants, phytoplankton, and some bacteria",
+        "Decomposition of dead plant matter"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Besides biological uptake by photosynthetic organisms, what physical mechanism naturally reduces atmospheric carbon dioxide?",
+      "options": [
+        "Carbon dioxide dissolving directly into the oceans",
+        "Carbon dioxide evaporating into outer space",
+        "Carbon dioxide reacting with nitrogen to form solid rocks",
+        "Carbon dioxide freezing into permanent ice sheets at the equator"
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 33

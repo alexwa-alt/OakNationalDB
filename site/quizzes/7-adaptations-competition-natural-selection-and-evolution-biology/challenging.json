@@ -1,6 +1,6 @@
 {
   "unitKey": "7Adaptations, competition, natural selection and evolutionBiology",
-  "generatedAt": "2026-11-15T15:45:09.863789+00:00",
+  "generatedAt": "2026-11-16T18:43:41.793321+00:00",
   "questions": [
     {
       "question": "In a classroom activity, students pick up green and white cocktail sticks scattered across a lawn of green grass in 30 seconds. Which of the following best explains what this model demonstrates?",
@@ -1540,6 +1540,226 @@
         "Because Earth's magnetic poles flip at the exact start of every new period."
       ],
       "correctAnswerIndex": 0,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "In a simulation of natural selection using green and white cocktail sticks on a green lawn, what do the different colors of cocktail sticks directly represent?",
+      "options": [
+        "Different environmental conditions like summer and winter.",
+        "Heritable variation in camouflage within a population of organisms.",
+        "Different types of predators competing for food.",
+        "Changes acquired by an individual during its lifetime."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In a model where green cocktail sticks on grass are hidden from predators better than white sticks, how does the prediction change if snow covers the grass?",
+      "options": [
+        "White sticks will now be less frequently picked up, so their proportion will increase over time.",
+        "Green sticks will automatically change color to white to survive.",
+        "Predators will stop hunting because cocktail sticks become frozen.",
+        "Both colors will be picked up at identical rates regardless of visibility."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A desert lizard has special scaly skin that prevents water loss, allowing it to survive in dry conditions. What is the correct scientific term for this feature?",
+      "options": [
+        "Fossilisation",
+        "Acquired habit",
+        "Adaptation",
+        "Environmental variation"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Cacti have sharp spines instead of wide, broad leaves. How does this specific feature provide an advantage in hot desert environments?",
+      "options": [
+        "Spines absorb more carbon dioxide from the dry air.",
+        "Spines reduce water loss by evaporation and discourage herbivores from eating the plant.",
+        "Spines attract nocturnal pollinators more effectively.",
+        "Spines store large amounts of starch for energy."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Seedlings growing very close together under a dense forest canopy often grow weakly. Which group of resources are these plants competing for?",
+      "options": [
+        "Mates, pollinators, and shelter",
+        "Light, water, space, and soil minerals",
+        "Oxygen, prey, and warm air",
+        "Carbon dioxide, wind, and seed dispersers"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Two Arctic foxes live in the same snowy environment, but Fox A has thicker fur than Fox B due to variation. Why is Fox A better adapted to compete?",
+      "options": [
+        "Fox A requires more food energy to maintain body temperature.",
+        "Fox A loses less heat, spending less energy keeping warm and competing more effectively.",
+        "Fox A can decide to grow even thicker fur when hunting.",
+        "Fox A will pass its thick fur to Fox B during winter."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "The concept of evolution by natural selection is classified as a scientific theory. What does 'scientific theory' mean in this context?",
+      "options": [
+        "A temporary guess made without gathered evidence.",
+        "A specific law that only applies in laboratory experiments.",
+        "A general, evidence-based explanation that explains many different examples.",
+        "An opinion that cannot be tested or observed."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A population of insects develops resistance to a chemical spray over several generations. Which statement accurately describes how this happened?",
+      "options": [
+        "The chemical spray forced all insects to deliberately mutate their DNA.",
+        "Insects planned the evolutionary change in advance to avoid extinction.",
+        "Random genetic variations causing resistance were already present and maintained by natural selection.",
+        "Individual insects built up immunity during their lives and passed that habit on."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "An individual dog trains daily and develops exceptionally strong muscles during its lifetime. Why is this change NOT considered evolution?",
+      "options": [
+        "It is an environmental/lifestyle change in a single individual's lifetime and is not inherited.",
+        "Evolution only happens to plants and microorganisms, not animals.",
+        "Muscles are made of protein rather than genetic material.",
+        "The change did not help the dog compete for food."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A student finds a fossilized shell embedded in solid rock. What is the true nature of this fossil?",
+      "options": [
+        "Soft biological tissue that turned into ice.",
+        "Mineralised remains or traces of a once-living organism.",
+        "A stone carved by ancient humans.",
+        "A living organism that hardened temporarily to protect itself."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Scientists discover the fossilized skeleton of an extinct reptile. What represents a limitation of using only this fossil evidence?",
+      "options": [
+        "It cannot prove that reptiles ever existed.",
+        "It cannot tell scientists whether the Earth is old.",
+        "It rarely provides complete details about soft tissues, internal organs, or precise behavior.",
+        "It cannot be compared with any modern animals."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A tree growing on a windy hill becomes bent due to constant strong winds. Seeds from this tree are grown in a calm greenhouse. How will the new trees grow?",
+      "options": [
+        "Bent, because wind damage is inherited by offspring.",
+        "Straight, because environmental variation caused by wind is not heritable.",
+        "Dwarf sized, because the seeds remember the harsh wind.",
+        "Horizontal, because the parent's genes changed from the wind."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which of the following human characteristics is an example of genetic variation that can be passed on to offspring?",
+      "options": [
+        "A scar from a cut",
+        "Natural eye color",
+        "Language spoken",
+        "A suntan from sitting outside"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "In a population of wild rabbits, individuals with longer legs can run faster to escape predators. According to natural selection, what will happen over time?",
+      "options": [
+        "Shorter-legged rabbits will stretch their legs to become faster.",
+        "Longer-legged rabbits are more likely to survive and reproduce, passing on their advantageous trait.",
+        "Predators will stop hunting rabbits with long legs.",
+        "Leg length variation will completely disappear in one day."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What is the result of natural selection acting on a population over many generations?",
+      "options": [
+        "Advantageous heritable features become more common in each generation.",
+        "Organisms become identical in every single feature.",
+        "Disadvantageous traits are chosen by organisms to help them adapt.",
+        "Extinction of all species in the environment."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "If humans cut down a forest to build a city, how does this human activity affect natural selection in local wildlife?",
+      "options": [
+        "It completely stops natural selection from occurring.",
+        "It changes environmental conditions, altering which features give a survival advantage.",
+        "It causes all animals to instantly develop identical genetic mutations.",
+        "It turns non-heritable traits into heritable traits."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Based on scientific evidence, approximately how long ago was planet Earth formed?",
+      "options": [
+        "3.5 million years ago",
+        "500 million years ago",
+        "4.5 billion years ago",
+        "350 thousand years ago"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "According to scientific evidence, when did the first living organisms (microorganisms) appear on Earth?",
+      "options": [
+        "Around 4.5 billion years ago",
+        "Around 3.8 billion years ago",
+        "Around 500 million years ago",
+        "Around 200 million years ago"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "Which of the following correctly orders the appearance of organisms on Earth from earliest to most recent according to evidence?",
+      "options": [
+        "Modern humans -> Mammals -> Land plants -> Microorganisms",
+        "Microorganisms -> Land plants -> Mammals -> Modern humans",
+        "Land plants -> Microorganisms -> Modern humans -> Mammals",
+        "Mammals -> Microorganisms -> Land plants -> Modern humans"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "Why do scientists divide Earth's geological history into eons, periods, and epochs?",
+      "options": [
+        "To predict the exact future date of animal extinctions.",
+        "To make Earth's vast history easier to organize and understand.",
+        "Because every division covers an identical length of time.",
+        "To prove that evolution only occurs during specific epochs."
+      ],
+      "correctAnswerIndex": 1,
       "learningPointIndex": 36
     }
   ]

@@ -1,6 +1,6 @@
 {
   "unitKey": "9WavesPhysics",
-  "generatedAt": "2026-10-08T15:44:31.154773+00:00",
+  "generatedAt": "2026-11-16T18:45:54.603665+00:00",
   "questions": [
     {
       "question": "When a sound wave reaches the human ear, which sequence of structures is set into vibration first, second, and third?",
@@ -878,6 +878,226 @@
         "They combine to form a wave with double the original height, which is called wave refraction.",
         "They temporarily cancel each other out, which is an example of wave superposition.",
         "They absorb each other's energy and turn into heat, which is called wave attenuation."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A student models hearing by listing the sequence of mechanical vibrations inside the ear. Which sequence correctly shows the pathway of physical vibrations before electrical signals are generated?",
+      "options": [
+        "Cochlea -> tiny bones -> eardrum",
+        "Eardrum -> tiny bones -> cochlea",
+        "Auditory nerve -> eardrum -> cochlea",
+        "Tiny bones -> eardrum -> cochlea"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "If a person has undamaged eardrums and ear bones, but the specialized sensory hair cells inside their cochlea are destroyed, what will occur when sound waves enter the ear canal?",
+      "options": [
+        "Vibrations reach the cochlea, but electrical signals are not generated to be sent along the nerve",
+        "No vibrations occur at the eardrum because the cochlea controls eardrum movement",
+        "Sound signals travel directly to the brain via air pressure rather than nerves",
+        "The brain receives electrical signals but misinterprets them as visual light signals"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A patient's ear structures, cochlea, and auditory nerve are all functioning normally, but a brain injury damages the specific area responsible for processing auditory nerve impulses. What will be the outcome?",
+      "options": [
+        "The brain creates an exaggerated sensation of extremely loud sound continuously",
+        "Vibrations occur in the ear, but the patient experiences no sensation of hearing sound",
+        "The sound waves are reflected back out of the ear without causing any ear bones to vibrate",
+        "The nerve sends vibrations directly back to the eardrum, producing an internal echo"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Four sound waves with equal energy are played in a quiet room: Wave A (15 Hz), Wave B (3000 Hz), Wave C (15000 Hz), Wave D (25000 Hz). Which sound wave will a human ear detect with the greatest sensitivity?",
+      "options": [
+        "Wave A",
+        "Wave B",
+        "Wave C",
+        "Wave D"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "An acoustic signal has a frequency of 12 Hz, and another signal has a frequency of 30000 Hz. How are these two signals categorized, and can normal human ears hear them?",
+      "options": [
+        "12 Hz is ultrasound and 30000 Hz is infrasound; neither can be heard by human ears",
+        "12 Hz is infrasound and 30000 Hz is ultrasound; both can be heard by human ears",
+        "12 Hz is infrasound and 30000 Hz is ultrasound; neither can be heard by human ears",
+        "12 Hz is infrasound and 30000 Hz is ultrasound; only 12 Hz can be heard by human ears"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A loudspeaker playing a steady tone is placed near a suspended dust particle in air. Describe the motion of the dust particle as the sound wave travels past it towards a wall.",
+      "options": [
+        "The dust particle travels continuously forward alongside the sound wave until it hits the wall",
+        "The dust particle moves back and forth parallel to the direction the sound is travelling, remaining in the same average location",
+        "The dust particle moves up and down at 90 degrees to the direction the sound is travelling",
+        "The dust particle remains completely motionless while air molecules flow past it to the wall"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which statement correctly explains why sound is classified as a longitudinal wave rather than a transverse wave?",
+      "options": [
+        "Sound requires a medium to travel, whereas transverse waves do not require any medium",
+        "Particles vibrate perpendicular to the direction in which energy is transferred",
+        "Sound waves can travel through a vacuum at high speed",
+        "The direction of particle vibration is parallel to the direction of energy transfer"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why does sound travel noticeably faster through liquid water than through air?",
+      "options": [
+        "Air particles are much closer together, so they absorb the sound energy before it can travel far",
+        "Water particles are much closer together than air particles, enabling vibrations to pass from particle to particle more quickly",
+        "Water particles are heavier and travel long distances carrying the sound wave across the liquid",
+        "Liquid water creates lower friction against the sound wave than air does"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Comparing a sound wave travelling through a solid steel rod to one travelling through liquid water, why does the sound wave travel faster in the steel rod?",
+      "options": [
+        "Steel has stronger forces between its particles than water, allowing vibrations to spread even faster",
+        "Particles in steel move freely across the length of the rod carrying energy faster than liquid particles",
+        "Water particles have no forces between them, which slows down the transmission of sound vibrations",
+        "Sound waves travel as transverse waves in steel but as light waves in water"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Sound pulses are produced simultaneously at one end of three identical 1 km pipes containing air, water, and iron respectively. In what order will the sound pulses arrive at the far end of the pipes?",
+      "options": [
+        "Air pipe first, then water pipe, then iron pipe",
+        "Water pipe first, then iron pipe, then air pipe",
+        "Iron pipe first, then water pipe, then air pipe",
+        "All three pulses will arrive at the exact same time"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A sound wave travels a distance of 1020 meters through air in 3 seconds. What is the calculated speed of sound in this experiment?",
+      "options": [
+        "340 m/s",
+        "3060 m/s",
+        "1023 m/s",
+        "306 m/s"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A climber claps their hands in front of a tall vertical cliff wall and hears an echo 2 seconds later. If the speed of sound in air is 340 m/s, how far away is the cliff from the climber?",
+      "options": [
+        "680 m",
+        "340 m",
+        "170 m",
+        "1360 m"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Two students measure the speed of sound in air using clappers and a stopwatch. Group A measures sound travelling over 20 metres, while Group B measures sound travelling over 300 metres. Why is Group B's result likely to be more reliable?",
+      "options": [
+        "Sound travels faster over 300 metres than over 20 metres",
+        "Measuring a longer time interval reduces human reaction time error as a proportion of the total measured time",
+        "Over longer distances, sound waves change from longitudinal to transverse waves",
+        "Group B does not need to use a timing device because long distances eliminate all experimental errors"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A device emits a sound wave with a frequency of 25000 Hz. Why is this wave classified as ultrasound?",
+      "options": [
+        "Its frequency is below the lower threshold of human hearing (20 Hz)",
+        "Its speed is faster than the speed of light in a vacuum",
+        "Its frequency is above 20000 Hz, which is beyond the upper limit of human hearing",
+        "It is a transverse electromagnetic wave rather than a mechanical wave"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which pair of statements correctly describes key properties of ultrasound waves when used in medical scanning?",
+      "options": [
+        "They transfer energy by causing vibrations, and they do not cause harm to the human body",
+        "They carry no energy, but they can burn body tissues if applied for more than a second",
+        "They travel only through a vacuum, making them safe for inner body imaging",
+        "They destroy cell DNA like X-rays, but cause no physical vibrations in tissue"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How does ultrasound technology construct a clear image of an unborn baby inside a mother's womb?",
+      "options": [
+        "Ultrasound waves pass straight through all tissues without stopping, projecting a shadow on a film behind the mother",
+        "Ultrasound waves are absorbed completely by skin, producing heat signals that the computer converts to images",
+        "Ultrasound waves reflect at boundaries between different types of tissues, and these returning signals are detected to form an image",
+        "Ultrasound waves turn into light waves when they encounter body fluids, illuminating the inside of the womb"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which of the following describes two valid non-imaging applications of high-frequency ultrasound waves?",
+      "options": [
+        "Generating electricity in solar cells and heating drinking water in homes",
+        "Cleaning intricate delicate jewelry items and helping to treat muscle injuries in physiotherapy",
+        "Magnetising metals in factories and sterilising air inside vacuum chambers",
+        "Increasing the speed of sound in air and changing the frequency of human speech"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A plastic duck is floating on a calm pond when water ripples pass underneath it. What will happen to the plastic duck as the wave passes?",
+      "options": [
+        "The duck will travel across the pond in the exact direction the wave is travelling",
+        "The duck will bob up and down in place, moving vertically rather than travelling forward with the wave",
+        "The duck will sink to the bottom of the pond because waves push objects downwards",
+        "The duck will move sideways at 180 degrees opposite to the direction of wave travel"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "A ripple moves horizontally across the surface of a pond from left to right. What is the direction of oscillation of the water particles forming this wave?",
+      "options": [
+        "Horizontally from left to right, parallel to energy transfer",
+        "Vertically up and down, at 90 degrees to the direction of energy transfer",
+        "In circles travelling forward along with the energy transfer",
+        "Horizontally from right to left, opposite to energy transfer"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Two identical water wave crests meet each other while travelling in opposite directions across a tank. What phenomenon occurs at the point where they overlap?",
+      "options": [
+        "Reflection: the two waves turn into sound waves and bounce away",
+        "Refraction: the waves slow down to zero speed permanently",
+        "Superposition: the two wave crests combine to produce a single larger wave height at that moment",
+        "Absorption: the waves disappear completely and create a vacuum in the water"
       ],
       "correctAnswerIndex": 2,
       "learningPointIndex": 23
