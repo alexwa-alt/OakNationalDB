@@ -1,6 +1,6 @@
 {
   "unitKey": "10Disease and drugsBiology",
-  "generatedAt": "2026-10-09T15:23:10.734677+00:00",
+  "generatedAt": "2026-11-17T17:50:39.847234+00:00",
   "questions": [
     {
       "question": "A patient experiencing an asthma attack finds it much harder to move air into and out of their lungs. Which of the following physical changes in the respiratory system directly explains this sudden difficulty?",
@@ -1100,6 +1100,226 @@
         "Scientists change their minds randomly without needing any experimental evidence or observations."
       ],
       "correctAnswerIndex": 2,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "During an asthma attack, a person experiences severe breathing difficulty. Which physical change inside the lungs directly causes this reduced airflow?",
+      "options": [
+        "The air sacs burst and reduce the surface area available for gas exchange.",
+        "The muscular walls of the bronchial tubes contract, making the airways narrower.",
+        "The blood vessels surrounding the alveoli expand and block the trachea.",
+        "The diaphragm stops moving completely, preventing inhalation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A doctor evaluates four patients to assess their risk of developing asthma. Which individual has the highest combination of non-infectious risk factors for asthma?",
+      "options": [
+        "A person who eats excessive salt and leads a sedentary lifestyle.",
+        "A person exposed to air pollution, who has allergies, and whose parent has asthma.",
+        "A person who contracted a bacterial throat infection after sharing a drinking bottle.",
+        "A person with a viral cold who does not get enough vitamin C."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Influenza can spread rapidly through a school, whereas type 1 diabetes does not. What fundamental property of influenza explains this difference?",
+      "options": [
+        "It is caused by an unbalanced diet that affects multiple individuals.",
+        "It can be transmitted directly or indirectly from one organism to another.",
+        "It is a non-communicable condition triggered solely by environmental temperature.",
+        "It is caused by genetic traits passed down through generations."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which statement correctly identifies the causative agents responsible for infectious diseases in humans?",
+      "options": [
+        "They are non-living chemical toxins produced exclusively by plants.",
+        "They are pathogens, which include viruses and certain types of bacteria.",
+        "They are purely physical injuries caused by overexertion during exercise.",
+        "They are nutrient deficiencies caused by eating an unbalanced diet."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "If a person develops coronary heart disease, why can their family members NOT catch this disease simply by being near them?",
+      "options": [
+        "Non-infectious diseases are not caused by pathogens and cannot be passed between organisms.",
+        "Heart disease is spread only through airborne droplets over very long distances.",
+        "Heart disease is an infectious disease that requires direct blood contact to transmit.",
+        "The immune system automatically kills heart disease pathogens before they spread."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How do long-term lifestyle choices such as heavy smoking and lack of physical activity affect human body systems?",
+      "options": [
+        "They introduce live pathogens into the bloodstream that cause immediate viral infections.",
+        "They increase the risk of developing non-infectious diseases in the circulatory and gas exchange systems.",
+        "They strengthen the bronchial tubes and increase total lung volume over time.",
+        "They completely prevent non-infectious diseases by boosting metabolic speed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Two friends have different daily routines. Alex eats a balanced diet and exercises daily, while Sam eats mainly high-fat fast food and remains inactive. What is the main long-term health risk for Sam?",
+      "options": [
+        "Sam has a lower risk of non-infectious lifestyle diseases than Alex.",
+        "Sam has an increased risk of developing lifestyle diseases due to diet and lack of exercise.",
+        "Sam will become immune to infectious bacterial diseases.",
+        "Sam will instantly contract a viral infection of the respiratory system."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A community clinic designs a public health plan to reduce the incidence of non-infectious lifestyle diseases. Which set of recommendations is most effective?",
+      "options": [
+        "Encourage regular exercise, a balanced diet, avoiding smoking, and refraining from alcohol.",
+        "Recommend high-caffeine intake, reduced sleep, and avoiding all physical activity.",
+        "Advise people to rely solely on inhalers while continuing to smoke tobacco.",
+        "Suggest eating an unbalanced diet rich in sugar while taking antibiotic drugs daily."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How do medicinal drugs differ fundamentally in their primary intended purpose from recreational drugs?",
+      "options": [
+        "Medicines are taken specifically to treat or manage illness when a person is sick.",
+        "Medicines are taken exclusively for personal enjoyment and leisure.",
+        "Medicines always cause immediate physical harm and long-term addiction.",
+        "Medicines are illegal substances consumed to alter perception during recreation."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A driver consumes a substance classified as a depressant before driving. How will this drug affect their driving performance?",
+      "options": [
+        "It speeds up their thinking speed and shortens their reaction times.",
+        "It slows down their thinking process and increases their reaction times.",
+        "It enhances their peripheral vision and improves motor coordination.",
+        "It has no effect on brain function or reaction speed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Alcohol is a legally available drug, but excessive long-term consumption poses severe health risks. Which organs are particularly damaged by chronic alcohol abuse?",
+      "options": [
+        "The stomach lining and skeletal muscles only.",
+        "The brain and the liver.",
+        "The outer skin and large intestine only.",
+        "The inner ear and nasal passages."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A person consumes a drink containing caffeine. What primary effect does this stimulant drug have on their central nervous system?",
+      "options": [
+        "It causes drowsiness and significantly slows down reaction times.",
+        "It makes the person feel more alert and can lead to quicker reaction times.",
+        "It acts as an anesthetic, numbing physical sensation throughout the body.",
+        "It destroys nerve cells instantly, preventing signal transmission."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which pair of substances are classified as illegal recreational drugs that act as stimulants?",
+      "options": [
+        "Caffeine and penicillin",
+        "Cocaine and ecstasy",
+        "Alcohol and paint thinner",
+        "Nicotine and aspirin"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Why do many people find it extremely difficult to stop smoking tobacco once they have started?",
+      "options": [
+        "Tobacco leaves contain carbon monoxide, which causes immediate physical dependence.",
+        "Tobacco leaves contain nicotine, which is a highly addictive substance that affects the body.",
+        "Tobacco contains tar, which acts as a legal depressant in the stomach.",
+        "Tobacco smoke destroys the taste buds so people cannot enjoy food without it."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A long-term smoker visits a physician suffering from persistent coughing and breathlessness. Which group of diseases does smoking significantly increase the risk of developing?",
+      "options": [
+        "Type 1 diabetes, arthritis, and bacterial meningitis.",
+        "Asthma, COPD, lung cancer, and heart disease.",
+        "Food poisoning, influenza, and chickenpox.",
+        "Anemia, gallstones, and rickets."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What is the correct term for the deliberate inhalation of volatile household chemicals, such as glue or paint thinner, to experience intoxication?",
+      "options": [
+        "Nicotine replacement therapy",
+        "Solvent abuse",
+        "Prescription drug abuse",
+        "Alcohol intoxication"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why is continuous gas exchange across the lungs essential for human survival?",
+      "options": [
+        "Oxygen is needed for cellular respiration to release energy, while carbon dioxide is a waste product that must be removed.",
+        "Carbon dioxide is needed to power muscle contraction, while oxygen is a toxic waste product.",
+        "Oxygen cools down the heart, while carbon dioxide heats up the blood during exercise.",
+        "Carbon dioxide provides nutrients to red blood cells, while oxygen prevents digestion."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "During inhalation in a healthy human, how do respiratory muscles move air into the lungs?",
+      "options": [
+        "The diaphragm relaxes upwards and rib muscles move inward, decreasing chest volume and forcing air out.",
+        "The diaphragm contracts downwards and rib muscles move ribs up and out, increasing chest volume and drawing air in.",
+        "The lungs contract by themselves using heart muscle tissue to suck air through the esophagus.",
+        "The abdominal muscles push blood into the lungs, pushing carbon dioxide out through the nose."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "A teenager switches from smoking cigarettes to using an e-cigarette (vaping), believing it carries no health hazards. What is a key similarity between vaping and smoking?",
+      "options": [
+        "Both methods involve inhaling tar that turns the lungs black immediately.",
+        "Both methods involve consuming nicotine, which is detrimental to health.",
+        "Both methods are completely harmless to the circulatory system.",
+        "Neither method involves any addictive chemical substances."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "As researchers conduct long-term studies on vaping, public health advice regarding its safety continues to change. Which scientific principle does this demonstrate?",
+      "options": [
+        "Scientific facts are fixed permanently and never alter once established.",
+        "Scientific ideas are updated and revised as new evidence emerges.",
+        "Health guidelines are based purely on opinion rather than experimental data.",
+        "Unproven theories are accepted as fact without requiring any evidence."
+      ],
+      "correctAnswerIndex": 1,
       "learningPointIndex": 38
     }
   ]

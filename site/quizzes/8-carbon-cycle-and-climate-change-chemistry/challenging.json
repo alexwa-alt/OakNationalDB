@@ -1,6 +1,6 @@
 {
   "unitKey": "8Carbon cycle and climate changeChemistry",
-  "generatedAt": "2026-11-16T18:44:48.581780+00:00",
+  "generatedAt": "2026-11-17T17:45:39.915359+00:00",
   "questions": [
     {
       "question": "A chemical analyst is modeling the molecular structure of a greenhouse gas. They represent the molecule with three spheres: a central black sphere bonded to two red spheres on either side. What chemical formula and composition does this model represent?",
@@ -1098,6 +1098,226 @@
         "Carbon dioxide evaporating into outer space",
         "Carbon dioxide reacting with nitrogen to form solid rocks",
         "Carbon dioxide freezing into permanent ice sheets at the equator"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "A scientist burns a sample of pure wood charcoal, which contains carbon, in a sealed container filled with oxygen. Which gas will be produced as a direct result of burning this carbon-containing fuel?",
+      "options": [
+        "Carbon dioxide",
+        "Carbon monoxide",
+        "Methane",
+        "Nitrogen dioxide"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Analyzing the chemical structure of carbon dioxide gas reveals which specific combination of atoms per molecule?",
+      "options": [
+        "One carbon atom chemically bonded to two oxygen atoms",
+        "Two carbon atoms chemically bonded to one oxygen atom",
+        "One carbon atom bonded to one oxygen atom and one hydrogen atom",
+        "Three oxygen atoms bonded to a central carbon atom"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What approximate proportion of Earth's atmosphere is made up of carbon dioxide gas?",
+      "options": [
+        "About 0.04 %",
+        "About 4.0 %",
+        "About 0.4 %",
+        "About 21 %"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If atmospheric concentrations of greenhouse gases like carbon dioxide rise significantly above natural levels, what long-term planetary effect occurs?",
+      "options": [
+        "An increase in average global temperature, known as global warming",
+        "A sudden cooling of ocean surface waters worldwide",
+        "A complete loss of atmospheric pressure near Earth's surface",
+        "A sharp increase in atmospheric nitrogen gas concentration"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why is coal classified as a sedimentary rock that burns as a useful fuel source?",
+      "options": [
+        "It formed in sediment layers and consists mostly of carbon, along with some impurities",
+        "It formed from cooled magma enriched with carbon crystals",
+        "It is made of pure silica crystals that trap flammable liquids",
+        "It consists entirely of mineral salts deposited by evaporating seawater"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "How did natural gas and crude oil originally form over millions of years?",
+      "options": [
+        "From dead plankton mixed into sediments millions of years ago",
+        "From land plants that fell into shallow freshwater swamps",
+        "From volcanic ash combining with dissolved atmospheric gases",
+        "From ancient animal bones dissolving into underground water reservoirs"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Where are reserves of natural gas and crude oil found deep within Earth's crust?",
+      "options": [
+        "In the tiny pores of sedimentary rock",
+        "Inside large empty caverns within solid igneous rock",
+        "Dissolved directly inside molten mantle rock",
+        "In solid crystal layers on the surface of metamorphic rocks"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Under which condition is sediment most likely to settle out of suspension and be deposited?",
+      "options": [
+        "When wind or flowing waterways slow down",
+        "When a river accelerates around a steep mountain slope",
+        "When strong winds increase in speed over open land",
+        "When ice flows move at their maximum sliding velocity"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which sequence of processes transforms loose sediment into solid sedimentary rock over millions of years?",
+      "options": [
+        "Burial and compression, followed by salts from fluids cementing the grains together",
+        "Rapid heating by nearby lava flows followed by fast cooling",
+        "Extreme pressure melting the grains into a single continuous mass",
+        "Dissolving all mineral grains completely until only liquid remains"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "How do geologists use rock strata (sediment layers) to interpret Earth's historical background?",
+      "options": [
+        "To create a relative timeline and find clues about the environment when sediments were deposited",
+        "To calculate the exact numerical age of Earth to within one year",
+        "To determine the current speed of tectonic plates moving underneath",
+        "To predict the precise date of future volcanic eruptions in the area"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A palaeontologist discovers a real fossilized skeleton embedded inside a layer of rock. What type of rock must this be?",
+      "options": [
+        "Sedimentary rock",
+        "Igneous rock",
+        "Metamorphic rock",
+        "Volcanic basalt"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How does a buried bone gradually transform into a solid mineral fossil over geological time?",
+      "options": [
+        "Water slowly dissolves the bone and minerals in the water replace it",
+        "Heat from Earth's core melts the bone into quartz which solidifies",
+        "Surrounding mud shrinks, crushing the bone into a metallic sheet",
+        "Bacteria convert the calcium into carbon gas that freezes into stone"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What are the two main gaseous components of Earth's atmosphere by volume?",
+      "options": [
+        "78% nitrogen and 21% oxygen",
+        "78% oxygen and 21% carbon dioxide",
+        "50% nitrogen and 50% oxygen",
+        "78% carbon dioxide and 21% nitrogen"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What vital role do natural greenhouse gases play in Earth's atmosphere?",
+      "options": [
+        "They keep Earth's temperature warm enough for human life",
+        "They absorb all sunlight to prevent light from reaching the ground",
+        "They react with oxygen to prevent forest fires from starting naturally",
+        "They block all radio waves from escaping into space"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A student collects a clear gas sample and bubbles it into limewater. A white precipitate forms, turning the limewater milky. Which gas was tested?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which statement correctly distinguishes weathering from erosion?",
+      "options": [
+        "Weathering is the slow breakdown of rock in place, whereas erosion removes material from the site",
+        "Weathering involves moving rocks with water, while erosion breaks rocks apart without moving them",
+        "Weathering happens only inside volcanoes, while erosion happens only underwater",
+        "Weathering increases global temperature, while erosion reduces carbon dioxide levels"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A tree root grows into a crack in a cliff face and splits the rock apart over time without moving the rock away. What type of rock breakdown is this?",
+      "options": [
+        "Biological weathering",
+        "Chemical weathering",
+        "Physical erosion",
+        "Glacial erosion"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Which process carried out by living organisms releases carbon dioxide into the atmosphere?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Fossilisation"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Which process performed by plants, phytoplankton, and some bacteria reduces the amount of carbon dioxide in the atmosphere?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Combustion",
+        "Decomposition"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Besides uptake by land plants during photosynthesis, how else is carbon dioxide naturally removed from the atmosphere?",
+      "options": [
+        "It can dissolve in the oceans",
+        "It reacts with atmospheric nitrogen to form solid rocks in mid-air",
+        "It is absorbed by high-altitude clouds and turned into ozone",
+        "It breaks down into pure carbon dust when exposed to starlight"
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 33

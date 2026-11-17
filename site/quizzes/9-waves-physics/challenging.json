@@ -1,6 +1,6 @@
 {
   "unitKey": "9WavesPhysics",
-  "generatedAt": "2026-11-16T18:45:54.603665+00:00",
+  "generatedAt": "2026-11-17T17:49:36.244901+00:00",
   "questions": [
     {
       "question": "When a sound wave reaches the human ear, which sequence of structures is set into vibration first, second, and third?",
@@ -1100,6 +1100,226 @@
         "Absorption: the waves disappear completely and create a vacuum in the water"
       ],
       "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "When a sound wave reaches the ear, what sequence of vibrations occurs inside the ear before an electrical signal is generated?",
+      "options": [
+        "The cochlea vibrates first, passing vibrations to the tiny bones and then to the eardrum.",
+        "The eardrum vibrates first, passing vibrations to the tiny bones, which then cause the cochlea to vibrate.",
+        "The auditory nerve vibrates first, passing vibrations through the tiny bones to the eardrum.",
+        "The tiny bones vibrate first in response to air pressure, causing the eardrum and cochlea to vibrate simultaneously."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A person hears a musical note. Which component of the ear detects the physical vibrations and causes electrical signals to be sent along a nerve?",
+      "options": [
+        "Specialised cells inside the cochlea",
+        "The outer membrane of the eardrum",
+        "The fluid inside the semicircular canals",
+        "The three tiny bones in the middle ear"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A person's outer and inner ear structures are completely healthy and vibrate normally, but their nerve connecting the ear to the brain is damaged. What will happen?",
+      "options": [
+        "The person will hear sounds at a much higher pitch than usual.",
+        "The person will not experience the sensation of hearing because signals cannot reach the brain.",
+        "The brain will create sound sensations directly from the eardrum vibrations without nerve signals.",
+        "The person will hear an echo of every sound with a delay."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "An audio engineer tests human hearing with different sound wave frequencies. Which frequency wave is the human ear most sensitive to?",
+      "options": [
+        "15 Hz",
+        "500 Hz",
+        "3000 Hz",
+        "25 000 Hz"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When a loudspeaker cone vibrates back and forth, how does it transmit sound through the surrounding air?",
+      "options": [
+        "It pushes air particles so they stream continuously from the speaker to the listener's ear.",
+        "It causes nearby air particles to vibrate back and forth, passing vibrations to neighboring air particles.",
+        "It creates light-like radiation that travels through empty space between air molecules.",
+        "It heats the air particles, causing them to rise rapidly and carry sound upward."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A scientist tracks a single air particle while a sound wave travels horizontally from left to right through a room. What is the motion of this air particle?",
+      "options": [
+        "It moves continuously from left to right across the room alongside the sound wave.",
+        "It vibrates back and forth horizontally, parallel to the direction of wave travel.",
+        "It moves in a circle perpendicular to the direction of wave travel.",
+        "It moves up and down vertically at 90 degrees to the direction of wave travel."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Why is sound classified as a longitudinal wave rather than a transverse wave?",
+      "options": [
+        "Because sound waves can travel through a vacuum without any particles present.",
+        "Because the direction of particle vibration is parallel to the direction of energy transfer.",
+        "Because the direction of particle vibration is at a right angle (90°) to the direction of energy transfer.",
+        "Because sound waves travel faster than transverse waves in all materials."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Sound travels faster through water (a liquid) than through air (a gas). What particle explanation accounts for this difference?",
+      "options": [
+        "Liquid particles are much closer together than gas particles, so vibrations are easily passed on.",
+        "Liquid particles travel across long distances much faster than gas particles can move.",
+        "Liquid particles have larger amplitude vibrations than gas particles when hit by sound waves.",
+        "Gas particles attract each other much more strongly than liquid particles do."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why does a sound wave travel faster through a solid steel rod than through liquid water?",
+      "options": [
+        "Solid particles move freely past each other, carrying sound energy forward rapidly.",
+        "Solids contain large gaps between particles, giving sound room to accelerate.",
+        "The strong forces between particles in solids allow vibrations to travel even faster.",
+        "Steel particles have less mass than water particles, so they vibrate at higher frequencies."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Compare the speed of sound across three media: air (gas), water (liquid), and steel (solid). Which option correctly lists the speed of sound from slowest to fastest?",
+      "options": [
+        "Air (slowest), Water, Steel (fastest)",
+        "Steel (slowest), Water, Air (fastest)",
+        "Water (slowest), Air, Steel (fastest)",
+        "Air (slowest), Steel, Water (fastest)"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A student stands in front of a tall, hard concrete wall and claps loudly. A short time later, she hears the clap again. What wave behavior causes this echo?",
+      "options": [
+        "Refraction of sound as it changes speed inside the wall",
+        "Superposition of sound waves absorbing into the concrete surface",
+        "Sound waves reflecting from the hard surface and traveling back",
+        "Diffraction of sound waves bending around the edges of the wall"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A sonar system sends a sound pulse down through seawater to the ocean bed. If the sound travels a distance of 3000 meters in 2 seconds, what is the speed of sound in this water?",
+      "options": [
+        "750 m/s",
+        "1500 m/s",
+        "3000 m/s",
+        "6000 m/s"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Two groups of students measure the speed of sound outdoors. Group A measures over a distance of 10 meters, while Group B measures over 300 meters. Why is Group B's method likely to yield a more accurate speed calculation?",
+      "options": [
+        "Sound waves travel faster when moving across longer distances.",
+        "Measuring longer distances and times means measurement errors are a smaller proportion of the values.",
+        "Air particles only vibrate properly when sound travels more than 50 meters.",
+        "Measuring over 300 meters removes the need to use a stopwatch."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A signal generator emits a sound wave with a frequency of 25 000 Hz. Why can a human standing nearby not hear this sound?",
+      "options": [
+        "The frequency is below 20 Hz, which is infrasound.",
+        "The frequency is above 20 000 Hz, which is ultrasound.",
+        "Sound waves above 20 000 Hz cannot travel through air.",
+        "The wave becomes a transverse wave at high frequencies."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which statement correctly describes a physical property and safety aspect of ultrasound waves used in body scans?",
+      "options": [
+        "Ultrasound waves cause objects to vibrate and transfer energy, but do not cause harm to the human body.",
+        "Ultrasound waves carry no energy, making them safe for human tissue.",
+        "Ultrasound waves cause harmful ionizing radiation in human cells.",
+        "Ultrasound waves stop all cellular vibrations upon entering body tissues."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "How can ultrasound be used to produce detailed images of structures inside the human body?",
+      "options": [
+        "By measuring the heat generated when ultrasound passes through tissues.",
+        "By detecting ultrasound waves that reflect back from boundaries between different tissues.",
+        "By turning ultrasound waves into visible light beams inside internal organs.",
+        "By forcing organs to release magnetic signals picked up by external sensors."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Beyond medical imaging, which pair of applications relies on the energy transfer and vibrations of ultrasound?",
+      "options": [
+        "Magnetizing metals and lighting electric bulbs",
+        "Cleaning delicate objects and treating injuries in physiotherapy",
+        "Freezing liquids rapidly and measuring air pressure",
+        "Generating electricity in solar panels and heating rooms"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A toy rubber duck floats on a pond. A ripple passes under the duck moving from left to right. How does the duck move as the wave passes?",
+      "options": [
+        "It travels continuously to the right edge of the pond with the wave.",
+        "It moves up and down in place (oscillates) without moving forward.",
+        "It sinks to the bottom of the pond permanently.",
+        "It moves to the left, opposite to the wave direction."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Why are water surface waves classified as transverse waves?",
+      "options": [
+        "The direction of water oscillation is parallel to the direction of wave energy transfer.",
+        "The direction of water oscillation is 90° to the direction of wave energy transfer.",
+        "Water particles travel forward at the same speed as the energy.",
+        "Water waves can travel through empty space without particles."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Two sets of water waves meet in a ripple tank. At a specific point, the crest of one wave coincides with the trough of another wave, resulting in flat water for an instant. What term describes this interaction?",
+      "options": [
+        "Reflection",
+        "Wave superposition",
+        "Refraction",
+        "Echo formation"
+      ],
+      "correctAnswerIndex": 1,
       "learningPointIndex": 23
     }
   ]
