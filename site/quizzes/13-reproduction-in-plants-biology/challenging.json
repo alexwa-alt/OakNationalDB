@@ -1,6 +1,6 @@
 {
   "unitKey": "13Reproduction in plantsBiology",
-  "generatedAt": "2026-09-01T13:34:00.760978+00:00",
+  "generatedAt": "2026-11-20T17:05:04.742519+00:00",
   "questions": [
     {
       "question": "In flowering plants, which of the following events marks the exact moment fertilisation occurs?",
@@ -881,6 +881,226 @@
       ],
       "correctAnswerIndex": 2,
       "learningPointIndex": 35
+    },
+    {
+      "question": "A student tests seed germination at 5°C, 15°C, 25°C, and 35°C. They observe 0% germination at 5°C, 40% at 15°C, 95% at 25°C, and 20% at 35°C. What is the most accurate interpretation of these results?",
+      "options": [
+        "Seeds require freezing temperatures to trigger germination.",
+        "Germination rate increases with temperature up to an optimum around 25°C, then decreases.",
+        "Temperature has no effect on seed germination because some seeds germinated at all temperatures.",
+        "The highest temperature always yields the highest rate of seed germination."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "An investigation shows that cress seeds placed on moist cotton wool in the light and in the dark both germinate equally well, but seeds on dry cotton wool do not germinate at all. Which conclusion is supported by these data?",
+      "options": [
+        "Dark conditions completely prevent cress seeds from germinating.",
+        "Neither water nor light affects the germination of cress seeds.",
+        "Water is required for cress seed germination, whereas light is not necessary for germination to occur.",
+        "Light is essential for cress seed germination, but water is optional."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which step is essential when writing a valid method to test how water volume affects seed germination on cotton wool?",
+      "options": [
+        "Keep the temperature, light level, and number of seeds constant across all dishes while varying only water volume.",
+        "Use different types of seeds in each dish to test variety.",
+        "Place one dish in a refrigerator and another dish near a heater.",
+        "Change both the amount of cotton wool and the water volume in every trial."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A scientist wants to investigate how soil pH affects seed germination. Which of the following correctly identifies the independent variable and appropriate values to investigate?",
+      "options": [
+        "Independent variable: number of seeds germinated; Values: 10, 20, 30 seeds.",
+        "Independent variable: temperature of the room; Values: 10°C, 20°C, 30°C.",
+        "Independent variable: days taken to sprout; Values: 2 days, 4 days, 6 days.",
+        "Independent variable: pH of the solution; Values: pH 4, pH 6, pH 8, and pH 10."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "In an experiment testing the effect of salt concentration on seed germination, which measurement would serve as the most suitable dependent variable?",
+      "options": [
+        "The concentration of salt added to each petri dish.",
+        "The percentage of seeds that successfully germinate after 5 days.",
+        "The volume of water added to keep the cotton wool damp.",
+        "The type of seed placed on the cotton wool."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Why must a student keep the number of seeds per dish and the temperature identical in all dishes when testing the effect of light intensity on germination?",
+      "options": [
+        "To change multiple factors at once and speed up the experiment.",
+        "To increase the dependent variable value automatically.",
+        "To ensure that any difference in germination is due only to light intensity, making the conclusion valid.",
+        "To make sure that no seeds germinate in any dish."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which statement correctly describes the nature of reproduction in flowering plants?",
+      "options": [
+        "Flowering plants reproduce sexually, involving male and female gametes to produce genetically varied offspring.",
+        "Flowering plants only reproduce asexually by making genetically identical clones from leaves.",
+        "Flowering plants reproduce without gametes or fertilization taking place.",
+        "Sexual reproduction in flowering plants results in offspring identical to a single parent."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Which pair correctly matches the sex organ group to the gametes it produces in a flower?",
+      "options": [
+        "Stamen produces pollen grains containing male gametes; Carpel/Pistil contains female gametes (egg cells).",
+        "Stamen produces female egg cells; Carpel produces male pollen grains.",
+        "Petals produce male gametes; Sepals produce female gametes.",
+        "Ovary produces pollen grains; Anther produces egg cells."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "What is the primary biological role of a pollen grain during plant reproduction?",
+      "options": [
+        "To provide nutrients to the growing seedling after germination.",
+        "To protect the ovary from herbivores.",
+        "To carry the male sex cell (gamete) to the female structure of a flower.",
+        "To store water needed for seed formation."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A seed consists of three main structural parts formed inside the ovary. What are these three structures and their roles?",
+      "options": [
+        "Anther, filament, and stigma for receiving pollen.",
+        "Petal, sepal, and stem for photosynthesis.",
+        "Pollen grain, sperm cell, and fruit wall for dispersal.",
+        "Embryo (future plant), food store (energy source), and tough seed coat (protection)."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "From which specific flower structure does a fruit develop after successful fertilisation?",
+      "options": [
+        "The petal wall.",
+        "The mature and ripened ovary.",
+        "The enlarged pollen grain.",
+        "The dried up stamen."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A seed is enclosed in a fleshy, sweet fruit with bright colors. How is this seed adapted to be dispersed?",
+      "options": [
+        "It is light and feathery so it can float on wind currents.",
+        "It has air spaces inside so it can float down rivers.",
+        "It attracts animals to eat the fruit, passing the seeds undamaged through their digestive system.",
+        "It explodes when dry to fling seeds away from the parent plant."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How do animal pollinators assist flowering plants in achieving sexual reproduction?",
+      "options": [
+        "By eating the roots of competing plant species.",
+        "By carrying pollen from the anther of one flower to the stigma of another flower.",
+        "By dispersing mature seeds far away from the parent plant.",
+        "By fertilising the soil with minerals needed for seed growth."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Which scenario best illustrates the concept of food security in a population?",
+      "options": [
+        "All people in a country have consistent access to sufficient, safe, affordable, and nutritious food.",
+        "A region relies on a single imported food item that is very expensive.",
+        "A nation produces large amounts of snack foods that lack essential nutrients.",
+        "Only wealthy households can buy fresh produce and grains."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Why is protecting insect pollinators from habitat loss and pesticide overuse directly linked to human food security?",
+      "options": [
+        "Pollinating insects consume agricultural pests, eliminating the need for crops.",
+        "Insects convert light energy into chemical energy that humans eat directly.",
+        "Many key human food crops depend on insect pollination to produce fruits, vegetables, and seeds.",
+        "Protected insects keep soil temperatures low enough for seeds to germinate."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which statement accurately defines the process of pollination?",
+      "options": [
+        "The fusion of the nucleus of a male gamete with the nucleus of a female gamete inside the ovule.",
+        "The transfer of pollen grains from the male anther to the female stigma.",
+        "The movement of seeds away from the parent plant by wind or animals.",
+        "The growth of a root and shoot from a germinating seed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What is an evolutionary advantage of cross-pollination over self-pollination?",
+      "options": [
+        "Cross-pollination guarantees that offspring are genetic clones of the parent plant.",
+        "Cross-pollination does not require pollen to be transferred between flowers.",
+        "Cross-pollination ensures that seeds develop without needing fertilisation.",
+        "Cross-pollination increases genetic variation within a species, helping populations adapt to environmental changes."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What event precisely defines fertilisation in flowering plants?",
+      "options": [
+        "A bee landing on a petal to collect nectar.",
+        "Pollen landing on the sticky surface of the stigma.",
+        "The fusion of the nucleus of a male gamete with the nucleus of a female gamete.",
+        "The shedding of petals after seed formation."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A student investigates how seed dispersal distance changes with different wind speeds (measured in m/s). Which chart type should they use to present the data, and why?",
+      "options": [
+        "Bar chart, because wind speed is a categoric variable.",
+        "Line graph, because wind speed is a continuous numerical variable.",
+        "Bar chart, because distance traveled is a constant variable.",
+        "Pie chart, because all wind speeds must add up to 100%."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Dandelion seeds have parachute-like structures of fine hairs. How does this adaptation aid their dispersal?",
+      "options": [
+        "It hooks onto the fur of passing mammals.",
+        "It makes the seed light with a large surface area, allowing wind currents to carry it far.",
+        "It allows the seed to absorb water rapidly and float down rivers.",
+        "It makes the seed taste unpleasant to birds."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
     }
   ]
 }

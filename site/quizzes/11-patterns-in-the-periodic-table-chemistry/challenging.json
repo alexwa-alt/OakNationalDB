@@ -1,6 +1,6 @@
 {
   "unitKey": "11Patterns in the periodic tableChemistry",
-  "generatedAt": "2026-10-09T15:23:37.095972+00:00",
+  "generatedAt": "2026-11-20T17:04:06.745904+00:00",
   "questions": [
     {
       "question": "Why is helium, a Group 0 element, used to fill balloons rather than hydrogen, despite being slightly heavier?",
@@ -1321,6 +1321,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 11
+    },
+    {
+      "question": "An unknown element is discovered in Group 0 of the periodic table. Which characteristic is most expected of this element?",
+      "options": [
+        "It rapidly reacts with cold water to produce an acidic solution.",
+        "It forms strong ionic bonds with chlorine gas.",
+        "It is a soft metal that tarnishes instantly in air.",
+        "It shows almost no chemical reactivity with other elements."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A laboratory researcher stores samples of argon, neon, and krypton at normal room temperature. What state of matter will all of these Group 0 elements be in?",
+      "options": [
+        "Gas",
+        "Liquid",
+        "Solid",
+        "Mixture of liquid and gas"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why do noble gases rarely participate in chemical reactions to form compounds?",
+      "options": [
+        "They have incomplete outer electron shells that attract positive ions.",
+        "Their nuclei lack protons, preventing them from bonding.",
+        "They have complete outer electron shells, making them stable.",
+        "Their atoms are too large to fit alongside other atoms in compounds."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Element A is higher up in Group 0 than Element B. Based on group trends, how do the atomic mass, density, and boiling point of Element B compare to Element A?",
+      "options": [
+        "Element B has lower atomic mass, lower density, and a lower boiling point.",
+        "Element B has higher atomic mass, higher density, and a higher boiling point.",
+        "Element B has higher atomic mass, but lower density and boiling point.",
+        "Element B has lower atomic mass, higher density, and a higher boiling point."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When analyzing physical and chemical properties of elements as you move from top to bottom within any single group, what pattern is observed?",
+      "options": [
+        "Properties change randomly without any discernible pattern.",
+        "Properties remain completely identical across every element in the group.",
+        "Properties reverse completely after every second element.",
+        "Properties change gradually down the group."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A chemist compares potassium, located below sodium in Group 1, with typical transition metals. What physical and chemical features characterize Group 1 metals like potassium?",
+      "options": [
+        "They are soft, have lower densities than most other metals, and become more reactive down the group.",
+        "They are hard, dense, and become less reactive down the group.",
+        "They are hard, have lower densities than non-metals, and do not react with water.",
+        "They are soft, dense, and become less reactive down the group."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "When a small piece of sodium (a Group 1 metal) is added to a trough of water, a gas is produced and the remaining solution turns universal indicator purple. Why are Group 1 elements called alkali metals?",
+      "options": [
+        "Because they react with water to form an acidic solution and oxygen gas.",
+        "Because they react with air to produce neutral water vapor.",
+        "Because they react with water to form an alkaline solution and hydrogen gas.",
+        "Because they dissolve in water without chemical reaction to form neutral solutions."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A scientist drops a piece of magnesium (a Group 2 metal) into dilute hydrochloric acid. What are the products of this reaction?",
+      "options": [
+        "An alkaline solution and oxygen gas",
+        "A salt and hydrogen gas",
+        "A metal oxide and carbon dioxide",
+        "An acidic oxide and water"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Calcium and potassium are both in Period 4. Calcium is in Group 2, while potassium is in Group 1. Magnesium is directly above calcium in Group 2. How does the reactivity of calcium compare to potassium and magnesium?",
+      "options": [
+        "Calcium is less reactive than potassium, but more reactive than magnesium.",
+        "Calcium is more reactive than potassium, but less reactive than magnesium.",
+        "Calcium is more reactive than both potassium and magnesium.",
+        "Calcium is less reactive than both potassium and magnesium."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which set of features correctly describes the elements found in Group 7 of the periodic table?",
+      "options": [
+        "Unreactive metals that form colorless, odorless gases.",
+        "Soft, shiny metals that react violently with pure water.",
+        "Dense, non-toxic liquids that do not form vapours.",
+        "Non-metals that produce coloured, mostly toxic vapours."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Chlorine is a gas at room temperature, while bromine is a liquid and iodine is a solid. What trend in physical state is demonstrated as you move down Group 7?",
+      "options": [
+        "The state changes from solid to gas down the group.",
+        "All elements remain liquids regardless of position.",
+        "The state changes from gas to solid down the group.",
+        "The state alternates between gas and liquid for each element."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A student compares the chemical reactivity of fluorine, chlorine, bromine, and iodine. What trend in reactivity is observed going down Group 7?",
+      "options": [
+        "Reactivity increases down Group 7.",
+        "Reactivity decreases down Group 7.",
+        "Reactivity remains constant down Group 7.",
+        "Reactivity decreases then increases down Group 7."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When chlorine gas reacts with heated sodium metal or heated calcium metal, what category of chemical compounds is formed?",
+      "options": [
+        "Metal halides",
+        "Metal hydroxides",
+        "Noble gas compounds",
+        "Metal carbonates"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A laboratory technician dissolves samples of potassium chloride, sodium bromide, and magnesium iodide in beakers of distilled water. What common property do these metal halides share regarding solubility?",
+      "options": [
+        "They are completely insoluble in water and form floating solids.",
+        "They react violently to evaporate all the water instantly.",
+        "They only dissolve when mixed with concentrated acids.",
+        "They are soluble in water."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "In standard periodic table organization, what terms are used for the vertical columns and the horizontal rows?",
+      "options": [
+        "Columns are periods, and rows are groups.",
+        "Columns are groups, and rows are periods.",
+        "Columns are series, and rows are families.",
+        "Columns are blocks, and rows are segments."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which scientist is historically credited with developing the periodic table by organizing elements based on their properties and atomic patterns?",
+      "options": [
+        "Isaac Newton",
+        "Ernest Rutherford",
+        "Dimitri Mendeleev",
+        "John Dalton"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How does the periodic table organize all known chemical elements?",
+      "options": [
+        "Into groups and periods according to their properties.",
+        "Alphabetically by their full English names across continuous rows.",
+        "Exclusively by their state of matter at absolute zero.",
+        "Randomly into fixed blocks based on discovery date."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "If an unknown element X is placed in the same group as lithium, sodium, and potassium, what can be predicted about element X?",
+      "options": [
+        "Element X will have properties completely different from lithium and sodium.",
+        "Element X will be an unreactive noble gas at room temperature.",
+        "Element X will be a liquid non-metal with toxic vapours.",
+        "Element X will have similar properties to the other elements in that group."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Beyond dividing elements into groups and periods, into which major categories can elements also be classified?",
+      "options": [
+        "Acids, bases, and salts",
+        "Non-metals and metals, which include transition metals",
+        "Solids and liquids only",
+        "Synthetic elements and radioactive gases only"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "An unlabelled sample of element X is shiny, can be cut easily with a plastic knife, floats on water while reacting vigorously to release gas, and sits near the bottom of Group 1. Which set of properties best describes element X?",
+      "options": [
+        "High density, hard metal, low reactivity with water.",
+        "Non-metal gas, high density, unreactive.",
+        "Soft metal, low density, high reactivity.",
+        "Hard transition metal, high density, high reactivity."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
     }
   ]
 }

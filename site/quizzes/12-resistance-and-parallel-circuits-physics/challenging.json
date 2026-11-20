@@ -1,6 +1,6 @@
 {
   "unitKey": "12Resistance and parallel circuitsPhysics",
-  "generatedAt": "2026-10-09T15:24:11.653671+00:00",
+  "generatedAt": "2026-11-20T17:04:31.544207+00:00",
   "questions": [
     {
       "question": "Two identical bulbs are first connected in series to a 6V battery, and then reconnected in parallel to the same 6V battery. Why do the bulbs shine brighter in the parallel configuration?",
@@ -1101,6 +1101,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 40
+    },
+    {
+      "question": "A student sets up Circuit A with two identical bulbs connected in series to a 6 V battery, and Circuit B with two identical bulbs connected in parallel to an identical 6 V battery. How will the brightness of the bulbs compare?",
+      "options": [
+        "Bulbs in Circuit B will be brighter than bulbs in Circuit A.",
+        "Bulbs in Circuit A will be brighter than bulbs in Circuit B.",
+        "Bulbs in both circuits will have identical brightness.",
+        "Bulbs in Circuit B will be dimmer because current is split into two loops."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Circuit X has two identical bulbs in series, while Circuit Y has two identical bulbs in parallel. Both circuits use identical batteries. Which statement correctly compares the total current leaving the battery in each circuit?",
+      "options": [
+        "Total current leaving the battery in Circuit Y is larger than in Circuit X.",
+        "Total current leaving the battery in Circuit X is larger than in Circuit Y.",
+        "Total current leaving the battery is identical in both circuits.",
+        "Total current in Circuit Y is zero because parallel branches cancel each other out."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A circuit is constructed with a 9 V cell and two identical bulbs in series. A second circuit uses an identical 9 V cell and two identical bulbs in parallel. What is the potential difference across a single bulb in parallel compared to a single bulb in series?",
+      "options": [
+        "It is greater across a bulb in the parallel circuit (9 V) than across a bulb in the series circuit (4.5 V).",
+        "It is smaller across a bulb in the parallel circuit (4.5 V) than across a bulb in the series circuit (9 V).",
+        "It is identical across individual bulbs in both circuit configurations (9 V).",
+        "It is zero across the parallel bulb because voltage is divided across the junctions."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Two identical 12 V batteries are connected to identical lamp setups: Setup P has two bulbs in parallel, while Setup S has two bulbs in series. Why does Setup P transfer energy from the battery more quickly than Setup S?",
+      "options": [
+        "Setup P draws a larger total current from the battery than Setup S.",
+        "Setup P has higher total electrical resistance than Setup S.",
+        "Setup P reduces the voltage supplied by the 12 V battery.",
+        "Setup S draws more electrons per second out of the battery than Setup P."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A flashlight designed with two bulbs connected in parallel is turned on continuously using fresh batteries. An identical flashlight with its two bulbs rewired in series is also turned on continuously using identical fresh batteries. Which flashlight battery will run out first, and why?",
+      "options": [
+        "The parallel flashlight battery runs out faster because it delivers a larger total current.",
+        "The series flashlight battery runs out faster because current flows through both bulbs one after another.",
+        "Both batteries run out at the exact same time because they contain equal total energy.",
+        "The parallel flashlight battery lasts longer because each bulb only draws half the battery's energy."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which statement best describes what electrical resistance represents in a conductor?",
+      "options": [
+        "It is a measure of how difficult it is for an electric current to flow through a component.",
+        "It is the total volume of electrical charge stored inside a battery.",
+        "It is the speed at which voltage travels along a circuit wire.",
+        "It is the total force pushing electrons forward around a loop."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A scientist tests four copper wires of identical thickness but different lengths: 10 cm, 20 cm, 30 cm, and 40 cm. Which wire will offer the greatest electrical resistance?",
+      "options": [
+        "The 40 cm wire",
+        "The 10 cm wire",
+        "The 20 cm wire",
+        "All four wires will have identical resistance because they are made of copper."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What happens at a microscopic level inside a metallic conductor when an electric current flows through it?",
+      "options": [
+        "Electrons move through the spaces between fixed positive metal ions.",
+        "Positive metal ions move continuously between fixed electrons.",
+        "Protons and electrons swap places continuously along the wire.",
+        "Atoms flow in a stream from the positive terminal to the negative terminal."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A uniform Nichrome wire of length 0.5 m has a resistance of 4 Ω. If the wire is replaced with a Nichrome wire of the same thickness but a length of 1.0 m, what will its resistance be?",
+      "options": [
+        "8 Ω",
+        "2 Ω",
+        "4 Ω",
+        "16 Ω"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why does doubling the length of a uniform metallic wire double its electrical resistance?",
+      "options": [
+        "It doubles the number of metal ions in the path of the flowing electrons.",
+        "It halves the speed at which electrons travel through the wire.",
+        "It doubles the charge of each individual electron flowing in the wire.",
+        "It halves the number of free electrons available to move through the wire."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which graph shape correctly represents the relationship between the length of a uniform wire on the x-axis and its electrical resistance on the y-axis?",
+      "options": [
+        "A straight line starting from the origin with a constant positive slope.",
+        "A horizontal straight line showing no change as length increases.",
+        "A curve that starts high and decreases towards zero as length increases.",
+        "A straight line starting high on the y-axis and sloping downwards to zero."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "An electric heater is labelled with a power rating of 1500 W. What does this rating specifically inform us about?",
+      "options": [
+        "The heater transfers 1500 joules of energy every second.",
+        "The heater uses 1500 volts of potential difference to operate.",
+        "The heater allows 1500 ohms of resistance to current flow.",
+        "The heater stores 1500 coulombs of charge per hour."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "An electric oven rated at 3 kW operates continuously for 4 hours. How much electrical energy does it consume in kilowatt-hours (kWh)?",
+      "options": [
+        "12 kWh",
+        "0.75 kWh",
+        "7 kWh",
+        "36 kWh"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "An electricity meter records that a household used 250 units of electrical energy over a billing period. How many kilowatt-hours (kWh) of energy does this correspond to?",
+      "options": [
+        "250 kWh",
+        "25 kWh",
+        "2500 kWh",
+        "4.16 kWh"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A student wants to measure the total current flowing out of a battery into a parallel circuit containing two branches. Where should the ammeter be placed?",
+      "options": [
+        "Directly next to one of the battery's terminals, before the circuit splits into branches.",
+        "Inside one of the parallel branches, in series with a single bulb.",
+        "Connected in parallel across both battery terminals simultaneously.",
+        "Across the wire between the two parallel branches."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "To measure the current passing through only Branch 2 of a two-branch parallel circuit, where must the ammeter be positioned?",
+      "options": [
+        "Within Branch 2 itself, between the two junction points connecting it to the rest of the circuit.",
+        "In the main line connected immediately adjacent to the positive terminal of the cell.",
+        "In the main line connected immediately adjacent to the negative terminal of the cell.",
+        "Across both branches at the same time in parallel."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "In a parallel circuit, Branch 1 carries a current of 1.5 A and Branch 2 carries a current of 2.5 A. What is the total current flowing through the battery?",
+      "options": [
+        "4.0 A",
+        "1.0 A",
+        "2.5 A",
+        "1.5 A"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Two copper wires, Wire P and Wire Q, have the same length, but Wire Q has twice the cross-sectional area of Wire P. How does the resistance of Wire Q compare to Wire P?",
+      "options": [
+        "Wire Q has a smaller resistance than Wire P.",
+        "Wire Q has a greater resistance than Wire P.",
+        "Wire Q has an identical resistance to Wire P.",
+        "Wire Q has infinite resistance compared to Wire P."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "A thick wire has a cross-sectional area of 2.0 mm² and a resistance of 6 Ω. If its cross-sectional area is doubled to 4.0 mm² without changing its length or material, what is its new resistance?",
+      "options": [
+        "3 Ω",
+        "12 Ω",
+        "6 Ω",
+        "1.5 Ω"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "A 12 V battery is connected in parallel across three separate circuit branches containing different components. What is the voltage across each branch?",
+      "options": [
+        "12 V across each branch",
+        "4 V across each branch",
+        "36 V across each branch",
+        "0 V across each branch"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 41
     }
   ]
 }
