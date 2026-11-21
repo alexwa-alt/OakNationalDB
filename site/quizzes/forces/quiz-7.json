@@ -1,0 +1,226 @@
+{
+  "unitKey": "1ForcesPhysics",
+  "generatedAt": "2026-11-21T16:31:19.797763+00:00",
+  "questions": [
+    {
+      "question": "What term describes two forces acting on an object that are equal in size but opposite in direction?",
+      "options": [
+        "Balanced forces",
+        "Resultant forces",
+        "Unbalanced forces",
+        "Contact forces"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How is the resultant force on an object calculated when multiple forces act on it?",
+      "options": [
+        "By multiplying all the forces together",
+        "By taking the sum of the forces, accounting for their directions",
+        "By dividing the largest force by the smallest force",
+        "By ignoring the direction and adding their total values"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "What happens to an object's speed when the forces acting on it are completely balanced?",
+      "options": [
+        "It constantly increases",
+        "It decreases to zero immediately",
+        "There is no change in speed",
+        "It accelerates in the direction of motion"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "How does increasing the resultant force on a given object affect its motion?",
+      "options": [
+        "The change in speed becomes slower",
+        "The change in speed becomes greater or faster",
+        "The object comes to a sudden permanent stop",
+        "The speed remains completely constant"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which option best describes the force of friction?",
+      "options": [
+        "A non-contact force pulling objects toward Earth",
+        "The force of one surface gripping or rubbing on another",
+        "A force pushing an object upwards in water",
+        "The energy stored inside a moving chemical"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What is the main purpose of adding a lubricant between two contacting surfaces?",
+      "options": [
+        "To increase the grip between the surfaces",
+        "To reduce the friction force between them",
+        "To increase the roughness of the surfaces",
+        "To stop the objects from moving past each other"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Which instrument is used to measure the size of a force?",
+      "options": [
+        "Thermometer",
+        "Balance scale",
+        "Newton meter",
+        "Measuring cylinder"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What is the standard unit used to measure force?",
+      "options": [
+        "Joules (J)",
+        "Newtons (N)",
+        "Kilograms (kg)",
+        "Metres per second (m/s)"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Before taking a measurement with a newton meter when no force is applied, what adjustment must be made?",
+      "options": [
+        "Set the scale to maximum",
+        "Adjust the scale to zero",
+        "Oil the spring mechanism",
+        "Multiply the reading by two"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "What type of variable can take any numerical value along a scale?",
+      "options": [
+        "Categoric variable",
+        "Continuous variable",
+        "Independent type",
+        "Discrete category"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "When should you display your experimental results using a bar chart?",
+      "options": [
+        "When the variable you changed is continuous",
+        "When the variable you changed is categoric",
+        "When you have no numerical results",
+        "When showing changes over continuous time only"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "In a fair test, what should happen to all the variables that are not being tested?",
+      "options": [
+        "They should be changed randomly",
+        "They should be kept the same for every measurement",
+        "They should be measured on a bar chart",
+        "They should be increased after each trial"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which statement correctly defines a contact force?",
+      "options": [
+        "It only acts when objects are touching",
+        "It can act across a distance without touching",
+        "It only exists inside magnets",
+        "It destroys energy when objects collide"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "How do non-contact forces differ from contact forces?",
+      "options": [
+        "They only work when surfaces rub together",
+        "They can act with or without the objects touching",
+        "They always produce friction",
+        "They require a lubricant to transfer energy"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What is drag?",
+      "options": [
+        "A magnetic force pulling metal objects",
+        "A contact force pushing against objects moving through liquids or gases",
+        "A gravitational store of energy inside gas",
+        "An upward force that acts only on solid ground"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "According to the law of conservation of energy, what is true about energy?",
+      "options": [
+        "It can be created when forces are balanced",
+        "It can be destroyed by friction",
+        "It cannot be created or destroyed",
+        "It increases whenever an object speeds up"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "In a force diagram, what feature of a force arrow indicates the size of the force?",
+      "options": [
+        "The color of the arrow",
+        "The width of the arrow line",
+        "The length of the arrow",
+        "The number of arrowheads"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "Compared to a slow-moving object of the same mass, why is a faster-moving object harder to stop?",
+      "options": [
+        "It has smaller contact forces",
+        "Its motion is harder to stop because it is faster",
+        "It experiences less drag force",
+        "Its force arrows are shorter"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "How does an object's mass affect the force required to change its movement?",
+      "options": [
+        "Objects with a greater mass need a greater force to start, stop, or change direction",
+        "Objects with a greater mass need less force to stop moving",
+        "Mass does not affect the force needed to change motion",
+        "Heavier objects change direction automatically without force"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 39
+    },
+    {
+      "question": "What is the basic definition of a force?",
+      "options": [
+        "A type of continuous variable",
+        "A push or a pull",
+        "The rate of chemical energy transfer",
+        "The roughness of a surface"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 40
+    }
+  ]
+}

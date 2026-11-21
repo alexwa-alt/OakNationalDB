@@ -1,6 +1,6 @@
 {
   "unitKey": "14Climate change and biodiversityBiologyChemistry",
-  "generatedAt": "2026-09-02T12:52:31.653137+00:00",
+  "generatedAt": "2026-11-21T16:30:32.748311+00:00",
   "questions": [
     {
       "question": "Why does the widespread packaging of supermarket foods in traditional plastics pose a long-term resource depletion problem, even before the plastic becomes waste?",
@@ -878,6 +878,226 @@
         "It can migrate to higher, cooler altitudes, but other species may face physical barriers, lack suitable food, or have nowhere higher to go.",
         "It can change its diet to eat rocks instead of plants, but most other species cannot adapt their digestive systems so quickly.",
         "It can genetically mutate within its own lifetime to tolerate extreme heat, whereas larger animals cannot mutate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A company wants to reduce its reliance on non-renewable resources for food packaging. Why is traditional plastic food packaging considered non-renewable?",
+      "options": [
+        "It is manufactured from raw materials derived from crude oil and fossil fuels, which take millions of years to form.",
+        "It breaks down so quickly in landfills that it cannot be reused by consumers.",
+        "It releases oxygen during manufacturing, using up atmospheric resources permanently.",
+        "It is produced exclusively from plant crops that require massive amounts of land."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Millions of tonnes of plastic waste end up in marine environments each year. Which statement accurately explains why this creates a severe environmental problem?",
+      "options": [
+        "Plastics dissolve instantly, releasing high concentrations of toxics that prevent ocean currents.",
+        "Plastics decompose very slowly and can entangle marine animals or be ingested, causing harm to aquatic organisms.",
+        "Plastic waste rapidly absorbs all dissolved oxygen, causing immediate hypoxia across entire ocean basins.",
+        "Marine plastics react with seawater to double atmospheric nitrogen levels within days."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "An environmental scientist suggests replacing traditional takeaway containers with bioplastics made from corn starch. What is the main ecological benefit of this transition?",
+      "options": [
+        "Bioplastics eliminate the need for agricultural land during crop cultivation.",
+        "Bioplastics are derived from renewable plant materials and can biodegrade, offering a sustainable alternative to fossil-fuel plastics.",
+        "Bioplastics absorb carbon dioxide directly when discarded in ocean waters.",
+        "Bioplastics render packaged food completely immune to bacterial decay indefinitely."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A supermarket decides to completely eliminate thin plastic film wrapping around fresh cucumbers. Why might this decision unexpectedly harm the environment overall?",
+      "options": [
+        "Without plastic film, cucumbers release harmful methane gases directly into store aisles.",
+        "Cucumbers spoil much faster without protective plastic, leading to higher food waste and wasted production resources.",
+        "Plastic film absorbs solar radiation, keeping supermarkets cool and saving electricity.",
+        "The absence of plastic film causes cucumbers to absorb excessive atmospheric nitrogen."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When evaluating the use of plastic packaging for berries, environmental scientists conduct a life-cycle assessment. What key trade-off must be weighed in this assessment?",
+      "options": [
+        "The cost of plastic transport vs the weight of the fruit harvest.",
+        "The protection against food spoilage vs the emissions from production and potential damage to biodiversity from plastic waste.",
+        "The color of the packaging vs the rate of photosynthesis in the store.",
+        "The quantity of water used to wash berries vs the nutritional content of plastic."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "As the global demand for meat increases, more land must be converted to grow animal feed crops like soy and maize. What ecological pressure does this expansion directly create?",
+      "options": [
+        "It reduces global fertilizer usage by concentrating crops in specific areas.",
+        "It requires vast areas of land, increasing competition between natural ecosystems and agricultural production.",
+        "It rapidly increases natural forest cover due to crop plantation density.",
+        "It permanently cools global temperatures by trapping heat beneath crop leaves."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A vast area of tropical forest is cleared to plant palm trees for agriculture. Which statement best links agriculture to this land transformation?",
+      "options": [
+        "Deforestation occurs mainly because wild animals dig up tree roots during grazing.",
+        "Converting land to cultivate agricultural crops is one of the primary drivers of global deforestation.",
+        "Forest clearance is naturally triggered by tree roots over-absorbing groundwater.",
+        "Agricultural crops replace natural sunlight, causing surrounding trees to wither naturally."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "When a tropical rainforest area is cleared for cattle ranching, what is the immediate biological consequence for native species in that region?",
+      "options": [
+        "Native species immediately adapt to feed exclusively on farmed cattle.",
+        "Deforestation causes widespread habitat loss, leaving native species without shelter, breeding grounds, or food sources.",
+        "Local biodiversity increases because open farmland provides more light for all rainforest animals.",
+        "Forest clearance forces all native plant species to migrate into nearby rivers."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "To mitigate the environmental impacts of modern agriculture and habitat loss, a nation decides to implement positive land use change. Which strategy demonstrates this approach?",
+      "options": [
+        "Converting remaining wild wetlands into high-yield cereal fields.",
+        "Reforestation and rewilding marginal agricultural lands to restore native habitats.",
+        "Increasing synthetic pesticide application on established livestock pastures.",
+        "Expanding urban development over existing nature reserves."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Farmers in a region experience more frequent flash floods and prolonged heatwaves due to climate change. How do these extreme weather events threaten local food production?",
+      "options": [
+        "Extreme weather speeds up crop growth beyond the capacity of farmers to harvest.",
+        "Droughts and floods damage crops, disrupt planting seasons, and reduce crop yields, making food production more challenging.",
+        "Flooding turns all soil into permanent nutrient-rich compost, stopping crop growth.",
+        "Heatwaves increase atmospheric oxygen, which prevents seeds from germinating."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "When calculating the carbon footprint of a loaf of bread, which stages must be included to account for its total greenhouse gas emissions?",
+      "options": [
+        "Only the carbon dioxide emitted when the consumer toasts the bread at home.",
+        "Emissions generated during farm machinery operation, fertilizer production, transport, baking, and packaging disposal.",
+        "Only the methane released by the farmer while harvesting wheat.",
+        "The atmospheric nitrogen absorbed by wheat plants during photosynthesis."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "An environmental analyst compares data showing that producing 1 kg of beef generates significantly higher greenhouse gas emissions than producing 1 kg of lentils. How does analyzing such data inform environmental action?",
+      "options": [
+        "It proves that plant-based food production emits zero greenhouse gases.",
+        "It helps individuals and policymakers evaluate dietary choices to make decisions that lower overall carbon footprints.",
+        "It demonstrates that meat production absorbs more carbon dioxide than farming legumes.",
+        "It shows that all food types have identical impacts on global warming regardless of production methods."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Why does large-scale deforestation disrupt the global carbon cycle?",
+      "options": [
+        "Trees release pure carbon into the soil when felled, preventing atmospheric gas exchange.",
+        "Fewer trees mean less carbon dioxide is removed from the atmosphere via photosynthesis, allowing atmospheric CO2 levels to rise.",
+        "Removing trees increases the rate at which oceans absorb sunlight and produce oxygen.",
+        "Cleared forest land causes plants to perform cellular respiration without producing carbon dioxide."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Carbon dioxide is recognized as a key greenhouse gas. What is its mechanism of action in contributing to climate change?",
+      "options": [
+        "It absorbs infrared radiation emitted from Earth's surface, trapping heat in the atmosphere and enhancing the greenhouse effect.",
+        "It blocks solar radiation from reaching the Earth, causing rapid surface cooling.",
+        "It reacts with atmospheric nitrogen to form ozone holes over urban regions.",
+        "It breaks down oxygen molecules in the stratosphere, preventing cloud formation."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A region experiences severe widespread deforestation. How does this loss of tree canopy alter the local water cycle?",
+      "options": [
+        "Less water is absorbed by roots and transpired through leaves, reducing atmospheric moisture and altering local rainfall patterns.",
+        "Transpiration increases dramatically because fallen dead trees release trapped water vapor constantly.",
+        "Groundwater tables rise permanently because trees no longer store water inside their trunks.",
+        "Atmospheric condensation stops completely, preventing any future cloud formation globally."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Following heavy rainfall in a deforested hilly region, severe landslides and flash floods destroy downstream crop fields. What mechanism explains this increased flooding risk?",
+      "options": [
+        "Tree removal decreases soil permeability, leading to greater surface runoff as less rain is intercepted and absorbed by vegetation.",
+        "Deforestation causes rain to fall at twice its normal velocity, breaking crop stems.",
+        "Without trees, groundwater evaporates instantly, producing dense heavy clouds that drop excess water.",
+        "Deforested land generates underground heat that pushes subterranean rivers to the surface."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which combination of policies represents a direct mitigation strategy to halt deforestation and preserve existing carbon sinks?",
+      "options": [
+        "Enacting legal protection for primary forests and establishing reforestation programs on degraded land.",
+        "Converting protected forest zones into regulated pasture land for sustainable dairy farming.",
+        "Replacing native mixed forests with commercial fast-growing monoculture tree farms for fuel.",
+        "Subsidizing clear-cutting of old-growth forests to make room for bioplastic crop production."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Polar bears have thick fur and a heavy blubber layer to conserve heat in arctic temperatures. How do these traits reflect the biological concept of adaptation?",
+      "options": [
+        "They are specific features that allow the organism to survive and thrive in the specific environmental conditions of its habitat.",
+        "They are temporary changes developed by individual animals during a single severe winter storm.",
+        "They are random features that have no relationship to the surrounding abiotic environment.",
+        "They are traits created by human selective breeding to make wild animals larger."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "As global warming shifts climatic zones northward, mountain ecosystems experience higher ambient temperatures. Why does this create a challenge for species adapted to cold alpine conditions?",
+      "options": [
+        "Cold-adapted species may find their habitat conditions altered beyond their tolerance limits, rendering them less well adapted to survive.",
+        "Warmer temperatures cause alpine plants to instantly mutate into tropical palm trees.",
+        "Cold-adapted species will immediately thrive because warm temperatures eliminate all interspecific competition.",
+        "Higher temperatures cause cold-adapted animals to stop needing oxygen for cellular respiration."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "As sea temperatures rise, some marine fish species move towards cooler polar waters. However, sessile corals in the same area cannot relocate. What does this situation illustrate about species responses to climate change?",
+      "options": [
+        "All species are equally capable of relocating to suitable habitats when climate conditions change.",
+        "Some species can survive changing conditions by migrating to new habitats, but others cannot move and face severe stress.",
+        "Sessile organisms adapt instantly to warm temperatures while mobile organisms always perish.",
+        "Migration is impossible for marine organisms due to physical oceanic barriers."
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 23

@@ -1,6 +1,6 @@
 {
   "unitKey": "13Reproduction in plantsBiology",
-  "generatedAt": "2026-11-20T17:05:04.742519+00:00",
+  "generatedAt": "2026-11-21T16:17:55.054319+00:00",
   "questions": [
     {
       "question": "In flowering plants, which of the following events marks the exact moment fertilisation occurs?",
@@ -1101,6 +1101,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 34
+    },
+    {
+      "question": "A student recorded the germination rate of cress seeds at four different temperatures. Which table layout correctly presents the raw experimental data following standard scientific conventions?",
+      "options": [
+        "Independent variable (Temperature in °C) in the left column; dependent variable (Number of germinated seeds) in the right column with units in the header.",
+        "Dependent variable in the left column with units next to every recorded number; independent variable in the right column.",
+        "A single row listing temperatures followed by a single row listing only calculated averages without raw trials.",
+        "Units written inside every individual cell of the table alongside the numerical data for both variables."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "In an experiment testing seed germination at 5°C, 15°C, 25°C, and 35°C, no seeds germinated at 5°C, 80% germinated at 25°C, and 10% germinated at 35°C. Which accurate interpretation can be drawn from these results?",
+      "options": [
+        "Germination increases continuously as temperature rises beyond 35°C.",
+        "Temperature affects germination, with an optimum near 25°C and lower germination at extreme temperatures.",
+        "Water was the limiting factor because no seeds germinated at 5°C.",
+        "Light intensity was too high at 35°C, preventing all seeds from germinating."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A student wants to investigate how light intensity affects the germination of cress seeds. What should the student do regarding the independent variable?",
+      "options": [
+        "Change the amount of water given to each dish using four different volumes.",
+        "Select light intensity as the independent variable and test specific, controlled light levels such as 0, 500, 1000, and 1500 lux.",
+        "Measure the height of the sprouted seedlings after seven days.",
+        "Keep the light intensity constant while varying the type of seeds used in each dish."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "When investigating whether oxygen is needed for cress seeds to germinate on moist cotton wool, why must the temperature be kept identical for all test containers?",
+      "options": [
+        "Temperature is the dependent variable being measured in the experiment.",
+        "Temperature is a control variable; changing it could affect germination rate and make the conclusion invalid.",
+        "Varying temperature increases the variation produced during sexual reproduction.",
+        "Keeping temperature constant ensures that seeds disperse further from the parent plant."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which statement correctly describes the function and content of pollen grains in flowering plant reproduction?",
+      "options": [
+        "Pollen grains are female gametes that remain stationary inside the flower's ovary until fertilisation.",
+        "Pollen grains are structural cells that provide a food store for the developing seed embryo.",
+        "Pollen grains carry male gametes and must be transferred to the female part of a flower.",
+        "Pollen grains are produced in the stigma and fuse together to form a mature fruit."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "A botanist examines a plant structure that developed from a fertilised flower ovary. The structure contains an embryo, a food store, and a tough outer coat. What is this structure?",
+      "options": [
+        "A pollen grain",
+        "A seed",
+        "An anther",
+        "A zygote"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How does a fruit form in a seed-producing flowering plant?",
+      "options": [
+        "The male anther swells after releasing pollen grains to protect the flower.",
+        "The leaf tissue surrounding the stem thickens to store starch for germination.",
+        "The ovary of the flower matures and ripens around the developing seeds.",
+        "The pollen grain expands upon reaching the soil surface to form flesh."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Which group of animals represents the largest single group of insect pollinators responsible for pollinating many food crops?",
+      "options": [
+        "Butterflies",
+        "Bees",
+        "Moths",
+        "Beetles"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A community aims to improve local food security by supporting crop yields. Which intervention directly protects necessary pollinating insects?",
+      "options": [
+        "Increasing synthetic pesticide application across all crop fields during peak bloom.",
+        "Reducing habitat loss by maintaining wildflower meadows and reducing pesticide exposure.",
+        "Replacing all insect-pollinated crops with wind-pollinated grass species.",
+        "Removing natural water sources to prevent water-borne seed dispersal."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which process correctly describes pollination in flowering plants?",
+      "options": [
+        "The movement of water and nutrients from the soil into the seed coat.",
+        "The transfer of pollen from the male anther to the female stigma.",
+        "The fusion of the male gamete nucleus with the female egg cell nucleus inside the ovary.",
+        "The growth of an embryo into a young seedling in the presence of light."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A plant species relies predominantly on cross-pollination rather than self-pollination. What is the primary biological advantage of this reproduction strategy?",
+      "options": [
+        "It guarantees that no pollinators are required for seed production.",
+        "It produces offspring identical in every characteristic to the single parent plant.",
+        "It increases genetic variation within the species, aiding adaptation.",
+        "It eliminates the need for fertilisation and zygote formation."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "What happens during fertilisation in flowering plant reproduction?",
+      "options": [
+        "Pollen is carried from the anther to a neighbouring flower by wind.",
+        "The seed coat breaks open to allow the shoot and root to emerge.",
+        "The nuclei of the male and female gametes fuse together.",
+        "The mature ovary ripens into a fleshy fruit to attract animals."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "Following fertilisation in a flower, what is the correct sequence of development leading to a new plant?",
+      "options": [
+        "Embryo -> Zygote -> Seed coat -> New plant",
+        "Zygote -> Embryo -> New plant",
+        "Pollen grain -> Zygote -> Ovary -> New plant",
+        "Gamete -> Fruit -> Zygote -> New plant"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A student measures the distance (in cm) travelled by model seeds with different wing surface area categories (small, medium, large). Which graph type should be used to display these variables?",
+      "options": [
+        "Line graph for surface area categories and bar chart for continuous distance data.",
+        "Bar chart because the independent variable (wing surface area category) is categoric.",
+        "Scatter graph with no axis labels because both variables are categoric.",
+        "Line graph because any experiment involving seed dispersal must use continuous lines."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "When analyzing a line graph showing how temperature affects the rate of seed germination, what is the main purpose of drawing a line of best fit?",
+      "options": [
+        "To connect every single plotted data point including potential anomalous readings.",
+        "To indicate the trend or relationship between the independent and dependent variables.",
+        "To ensure that the graph passes directly through the origin (0,0).",
+        "To display categoric data in distinct non-overlapping columns."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "A dandelion seed has light fluff attached to it that increases its surface area. How is this seed adapted for its specific dispersal mechanism?",
+      "options": [
+        "It has hooks to attach firmly to the fur of passing animals.",
+        "It has a large surface area relative to its weight to stay aloft in wind currents.",
+        "It has a thick, waterproof outer shell to float along rivers.",
+        "It has a sweet, fleshy outer coating that attracts birds to consume it."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "In an investigation testing how wing length affects how far model dandelion seeds travel when dropped in front of a fan, what is the dependent variable?",
+      "options": [
+        "The speed setting of the electric fan.",
+        "The length of the paper wings on the model seed.",
+        "The horizontal distance the model seed travels before landing.",
+        "The height from which the model seed is released."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "While testing seed dispersal distance, a student records distances of 45 cm, 47 cm, 12 cm, and 46 cm across four identical trials. What should the student do with the 12 cm result before calculating the mean?",
+      "options": [
+        "Include 12 cm in the calculation because all raw data must be averaged.",
+        "Identify 12 cm as an anomalous result, exclude it, and calculate the mean of 45, 47, and 46 cm.",
+        "Multiply 12 cm by four to match the magnitude of the other three results.",
+        "Replace the independent variable values with 12 cm and re-run the entire experiment."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "In an experiment testing seed germination across different moisture levels on cotton wool, 0% germinated in dry wool, 95% in damp wool, and 10% in completely submerged wool. Which written conclusion is most accurate?",
+      "options": [
+        "Seeds germinate best in totally dry conditions because excess water prevents oxygen intake.",
+        "Water is required for seed germination, but excessive water reduces germination compared to moderate moisture.",
+        "Moisture levels have no measurable effect on seed germination rates.",
+        "Cress seeds will only germinate if soil is present instead of cotton wool."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A student wants to investigate seed germination without using soil in a classroom lab. Which setup demonstrates a suitable method?",
+      "options": [
+        "Placing cress seeds on dry plastic plates sealed in airtight bags at 0°C.",
+        "Placing cress seeds on moist cotton wool placed in a suitable temperature environment.",
+        "Submerging cress seeds completely in pure oil inside a dark container.",
+        "Coating cress seeds in wax and storing them on dry paper towels."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
     }
   ]
 }

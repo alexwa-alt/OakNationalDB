@@ -1,6 +1,6 @@
 {
   "unitKey": "12Resistance and parallel circuitsPhysics",
-  "generatedAt": "2026-11-20T17:04:31.544207+00:00",
+  "generatedAt": "2026-11-21T16:17:05.391809+00:00",
   "questions": [
     {
       "question": "Two identical bulbs are first connected in series to a 6V battery, and then reconnected in parallel to the same 6V battery. Why do the bulbs shine brighter in the parallel configuration?",
@@ -1321,6 +1321,226 @@
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 41
+    },
+    {
+      "question": "A student sets up Circuit X with two identical bulbs in series and Circuit Y with two identical bulbs in parallel, using identical batteries. Why do the bulbs in Circuit Y glow brighter than those in Circuit X?",
+      "options": [
+        "With the same battery, two bulbs in parallel are brighter than two in series because each bulb in parallel receives full battery voltage.",
+        "Bulbs in parallel produce higher electrical resistance, generating more heat and light energy.",
+        "Bulbs in series consume current faster, causing them to dim rapidly compared to parallel bulbs.",
+        "Current flows through only one bulb at a time in a parallel circuit, concentrating all power into it."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Two identical lamps are connected in series to a 6 V battery. Then, the same lamps are reconnected in parallel to the same 6 V battery. What comparison can be made regarding the voltage across a single lamp in each arrangement?",
+      "options": [
+        "The voltage across one bulb in series is 6 V, whereas across one bulb in parallel it is 3 V.",
+        "With the same battery, the voltage across one of two bulbs in parallel is bigger than across one of two bulbs in series.",
+        "The voltage across a bulb in both circuits is identical and equal to 3 V.",
+        "The voltage across one bulb in series is double the voltage across one bulb in parallel."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Two identical batteries are used: Battery A powers two bulbs connected in series, and Battery B powers two identical bulbs connected in parallel. Assuming both circuits remain switched on continuously, which battery will flatten first and why?",
+      "options": [
+        "Battery A, because current travels a longer physical path through both bulbs in series.",
+        "Battery B, because a battery lighting two bulbs in parallel will run out faster than the same battery lighting two bulbs in series.",
+        "Both batteries will flatten at exactly the same time because both power two identical bulbs.",
+        "Battery A, because resistance is lower in a series circuit, drawing energy more rapidly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following best defines the electrical property known as resistance in a circuit component?",
+      "options": [
+        "The rate at which electric charge is consumed and converted into thermal energy.",
+        "A measure of how difficult it is for an electric current to flow through a component.",
+        "The total amount of potential energy stored per unit of electrical charge.",
+        "The speed at which electrons move from the negative terminal to the positive terminal."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "At a microscopic level, what constitutes an electric current moving through a metallic wire?",
+      "options": [
+        "Positive ions migrating rapidly past stationary electrons in the metal lattice.",
+        "Protons jumping between neighboring atomic nuclei along the length of the wire.",
+        "A flow of electrons moving through the spaces between 'atoms' (metal ions).",
+        "Neutrons being pushed along the outer surface of the wire by the voltage source."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A 1-metre section of resistance wire has a resistance of 4 Ω. If a student cuts a 2-metre piece from the exact same spool of wire, what will its resistance be?",
+      "options": [
+        "2 Ω, because doubling length halves the collision frequency.",
+        "4 Ω, because resistance depends only on the material, not the length.",
+        "8 Ω, because doubling the length of a wire doubles its resistance.",
+        "16 Ω, because resistance increases with the square of the length."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Why does doubling the length of a uniform metallic wire result in double the electrical resistance?",
+      "options": [
+        "It halves the cross-sectional area available for conduction.",
+        "It doubles the speed at which electrons travel through the wire.",
+        "It doubles the number of 'atoms' (metal ions) in the way of the flow of electrons.",
+        "It decreases the potential difference supplied across the wire by half."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A student measures the resistance of constantan wires of different lengths: 10 cm (2 Ω), 20 cm (4 Ω), and 30 cm (6 Ω). Which statement correctly describes the mathematical relationship between wire length and resistance?",
+      "options": [
+        "The resistance of a uniform wire is inversely proportional to its length.",
+        "The resistance of a uniform wire is proportional to its length.",
+        "Resistance increases exponentially as the length of the wire increases.",
+        "Resistance remains constant regardless of changes in wire length."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "How can an engineer confirm that a circuit arrangement is wired in parallel rather than in series?",
+      "options": [
+        "Every component must be connected end-to-end in a single continuous loop.",
+        "Current must pass through every component before returning to the energy source.",
+        "In a parallel circuit, each loop can be traced from one end of the cell or battery to the other end.",
+        "Removing one component must cause all other components to immediately stop working."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which statement accurately describes how a parallel circuit with three branches can be analyzed?",
+      "options": [
+        "A parallel circuit can be split into a number of series circuits each connected to the ends of the same cell or battery.",
+        "It acts as three series circuits connected sequentially end-to-end around one single loop.",
+        "It is equivalent to a single branch carrying three times the original battery voltage.",
+        "It functions as three separate power supplies sharing one common electrical load."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Electric kettles often have power ratings such as 2000 W or 3000 W. What does power measure in an electrical device?",
+      "options": [
+        "The total resistance opposed by the device to current flow.",
+        "Power is a measure of the amount of energy used by or supplied to a device in one second.",
+        "The maximum potential difference the device can withstand without failing.",
+        "The total electrical charge stored within the device during operation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "An electric heater with a power rating of 2 kW is operated continuously for 4 hours. How much electrical energy does it consume?",
+      "options": [
+        "0.5 kWh, calculated by dividing time in hours by power in kilowatts.",
+        "6 kWh, calculated by adding power in kilowatts to time in hours.",
+        "8 kWh, calculated by multiplying power of a device in kilowatts by time in hours.",
+        "8000 kWh, calculated by multiplying power in watts by time in hours."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "In a parallel circuit, branch 1 draws a current of 0.5 A and branch 2 draws a current of 1.2 A. What is the total current passing through the battery?",
+      "options": [
+        "0.5 A, because current in parallel is determined solely by the smallest branch.",
+        "0.7 A, because branch currents subtract from one another in parallel loops.",
+        "1.2 A, because current through the main line equals the largest branch current.",
+        "1.7 A, because the current through each branch of a parallel circuit adds up to the total current through the battery."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "A technician replaces a thin copper wire in a circuit with a thicker copper wire of the exact same length. What effect does this change have on the wire's resistance?",
+      "options": [
+        "Resistance increases because there are more metal atoms in the thicker wire.",
+        "The greater the cross-sectional area of a wire, the smaller its resistance.",
+        "Resistance remains unchanged because the material and length are identical.",
+        "Resistance drops to zero because thickness eliminates electron collisions completely."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "If a wire of cross-sectional area A has a resistance of 12 Ω, what is the resistance of a wire made of the same material and length with a cross-sectional area of 2A?",
+      "options": [
+        "3 Ω, because doubling the area reduces resistance to one-quarter.",
+        "6 Ω, because doubling the cross-sectional area of a wire halves its resistance.",
+        "12 Ω, because cross-sectional area does not affect electrical resistance.",
+        "24 Ω, because doubling cross-sectional area doubles its resistance."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "Why does doubling the cross-sectional area of a metallic wire halve its electrical resistance?",
+      "options": [
+        "It halves the overall speed required for electrons to travel through the wire.",
+        "Doubling the cross-sectional area of a wire doubles the number of electrons that can flow through the wire.",
+        "It reduces the number of metal ions present inside the wire structure by half.",
+        "It doubles the voltage supplied across the ends of the wire."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "What does the voltage across a cell or battery represent in an electrical circuit?",
+      "options": [
+        "The total number of electrons stored inside the cell's terminals.",
+        "The speed at which electric current travels through the connecting wires.",
+        "The voltage across a cell or battery measures the strength with which it can 'push' current around a circuit.",
+        "The opposition to current flow existing inside the battery casing."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 39
+    },
+    {
+      "question": "A 12 V battery is connected to a parallel circuit containing three different resistors on separate branches. What is the voltage across each individual branch?",
+      "options": [
+        "4 V across each branch, because battery voltage is divided equally among three branches.",
+        "12 V across each branch, because the voltage across each branch of a parallel circuit is the same as the voltage across the cell or battery.",
+        "36 V across each branch, because voltage multiplies with every added branch.",
+        "0 V across each branch, because voltage drops to zero at parallel connections."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 41
+    },
+    {
+      "question": "A student investigates how wire thickness affects resistance while keeping material, temperature, and wire length constant. Why must these factors be kept constant?",
+      "options": [
+        "To ensure the independent variable changes naturally during the test.",
+        "In a fair test, only the independent variable is changed so that no other variables affect the results.",
+        "To allow multiple independent variables to be evaluated simultaneously.",
+        "To prevent the electrical current from changing throughout the measurement."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "A student wants to measure the total current supplied by a battery in a parallel circuit. How should the ammeter be connected?",
+      "options": [
+        "Across the terminals of one of the bulbs on a branch in parallel.",
+        "Current through the battery in a parallel circuit is measured with an ammeter, connected next to one end of the battery.",
+        "In between the connections of two parallel branches.",
+        "Directly in parallel with the battery across both of its terminals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
     }
   ]
 }
