@@ -1,6 +1,6 @@
 {
   "unitKey": "1ForcesPhysics",
-  "generatedAt": "2026-09-03T12:54:34.680082+00:00",
+  "generatedAt": "2026-11-22T16:30:26.040049+00:00",
   "questions": [
     {
       "question": "A toy boat is pulled northwards with a force of 12 N by a string, while the water current pushes it southwards with a force of 4 N, and the wind blows it southwards with a force of 3 N. What is the resultant force on the boat?",
@@ -881,6 +881,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 20
+    },
+    {
+      "question": "A box experiences a 12 N force pushing it right and a 4 N friction force acting left. What is the resultant force acting on the box?",
+      "options": [
+        "16 N to the right",
+        "8 N to the right",
+        "8 N to the left",
+        "12 N to the right"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A car moves along a straight horizontal road at a constant speed of 50 km/h. Which statement correctly describes the forces acting on the car?",
+      "options": [
+        "The driving force is greater than friction to keep it moving.",
+        "There are no forces acting on the car while it moves at constant speed.",
+        "The forward driving force is equal in size to the backward resistive forces.",
+        "The resultant force is acting in the forward direction of motion."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Trolley X (mass 1 kg) is pushed with a net force of 10 N. Trolley Y (mass 1 kg) is pushed with a net force of 4 N. Which trolley experiences a faster change in speed?",
+      "options": [
+        "Trolley X, because a greater resultant force produces a faster change in speed.",
+        "Trolley Y, because smaller forces cause smoother and faster acceleration.",
+        "Both change speed at the exact same rate because their masses are identical.",
+        "Trolley Y, because less friction acts on it during the push."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A battery-powered toy car climbs up a wooden ramp. Which set of energy stores describes the energy transfers involved?",
+      "options": [
+        "Chemical store decreases, while kinetic and gravitational stores increase.",
+        "Gravitational store decreases, while elastic and thermal stores increase.",
+        "Thermal store decreases, while chemical and kinetic stores increase.",
+        "Elastic store decreases, while kinetic and thermal stores remain unchanged."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Why does a heavy sledge slide more easily across smooth ice than across a dry concrete pavement?",
+      "options": [
+        "Ice has no mass, so no force is needed to move the sledge across it.",
+        "The smoothness of the ice surface results in lower friction than the rough concrete.",
+        "Concrete exerts a non-contact magnetic force that pulls back on the sledge.",
+        "The friction on ice acts in the same direction as the sledge's movement."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Before attaching a weight to a newton meter, a student notices the pointer points to 0.4 N instead of 0 N. What action should be taken to ensure accurate measurements?",
+      "options": [
+        "Add 0.4 N to all future readings taken with this newton meter.",
+        "Adjust the meter so the pointer reads zero when no force is applied.",
+        "Multiply all final force readings by 0.4.",
+        "Ignore the offset because it will not affect the measured forces."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A student wants to measure a tiny magnetic pull estimated to be around 0.3 N. They have three newton meters: Scale A (0-1 N), Scale B (0-10 N), and Scale C (0-100 N). Which meter should be selected and why?",
+      "options": [
+        "Scale C, because higher maximum capacity avoids damaging the meter.",
+        "Scale B, because 0.5 N increments are easy to count visually.",
+        "Scale A, because its scale is suitable for measuring small forces accurately.",
+        "Any meter, because all newton meters measure the same total force."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "An experiment investigates how different surface materials (wood, rubber, ice, glass) affect the force needed to pull a block. How should the surface material variable be classified?",
+      "options": [
+        "Continuous variable, because it can take any numerical value on a continuous scale.",
+        "Categoric variable, because it consists of distinct non-numerical types.",
+        "Resultant variable, because it changes automatically during the force test.",
+        "Constant variable, because it remains identical in every scientific test."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A student collects pulling force data for four different tile types: Ceramic, Vinyl, Marble, and Slate. What is the correct way to display this data?",
+      "options": [
+        "A line graph, because both variables are continuous numerical measurements.",
+        "A bar chart, because the variable changed in the experiment is categoric.",
+        "A scatter plot, to demonstrate a continuous trend line between tile names.",
+        "A pie chart showing only the total sum of all forces measured."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "What must be included in a scientifically valid conclusion after investigating the effect of lubricants on friction?",
+      "options": [
+        "Only a summary of the equipment list and safety precautions used.",
+        "A statement of what was found out and an explanation of how the data shows it.",
+        "A declaration that all predictions were 100 percent proven without error.",
+        "Only raw tables of unaveraged repeat readings without interpretation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A student repeats a friction test three times, getting values of 4.2 N, 4.3 N, and 8.9 N. Why are repeat measurements valuable in this situation?",
+      "options": [
+        "They enable the student to identify 8.9 N as an anomalous result.",
+        "They prove that force values always double on the third measurement.",
+        "They guarantee that the force meter zero-error automatically corrects itself.",
+        "They increase the friction force between the surfaces being tested."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "In a force test, a student records three valid pull forces: 5 N, 6 N, and 7 N. What single value should be reported to represent these repeats, and what is its value?",
+      "options": [
+        "The range, which is 2 N.",
+        "The sum, which is 18 N.",
+        "The mean, which is 6 N.",
+        "The maximum, which is 7 N."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Which pair of forces consists strictly of one contact force and one non-contact force?",
+      "options": [
+        "Friction and drag.",
+        "Friction and gravity.",
+        "Drag and normal contact force.",
+        "Magnetic force and electrostatic force."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A cyclist rides through air, while a swimmer moves through water. How is drag defined in both situations?",
+      "options": [
+        "A contact force that pushes against objects moving through liquids or gases.",
+        "A non-contact force that pulls objects toward the center of the Earth.",
+        "A force that acts only when surfaces slide without any fluid present.",
+        "An energy store that increases as the speed of an object decreases."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "As a boulder rolls down a hill, its gravitational energy store decreases while its kinetic energy store increases. Which principle explains this?",
+      "options": [
+        "Energy is created by motion and destroyed by gravity.",
+        "Energy cannot be created or destroyed, only transferred.",
+        "Forces destroy stored energy whenever friction is present.",
+        "Energy increases continuously whenever an object speeds up."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Following standard scientific conventions, how should the gravitational pull acting on an apple sitting on a table be labelled on a force diagram?",
+      "options": [
+        "Gravity acting on Earth by Apple.",
+        "Force acting on Apple by Earth.",
+        "Upward push on Table by Apple.",
+        "Friction acting on Apple by Air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "Two identical cars are travelling down a track, Car A at 20 mph and Car B at 60 mph. Which car's motion is harder to stop and why?",
+      "options": [
+        "Car A, because slower objects have more friction holding them down.",
+        "Car B, because the motion of faster objects is harder to stop.",
+        "Both are equally difficult to stop because they have identical masses.",
+        "Car A, because lower speeds require greater braking force to change."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "A fully loaded cargo truck and an empty van both approach a red light at 30 mph. Why does the cargo truck require a greater force to come to a complete stop?",
+      "options": [
+        "Objects with a greater mass need a greater force to stop moving.",
+        "The empty van has a higher gravitational energy store than the truck.",
+        "The truck experiences zero friction compared to the lighter van.",
+        "Mass reduces the force required to change an object's speed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 39
+    },
+    {
+      "question": "Which scenario demonstrates a force changing the shape of an object rather than its overall speed or direction of motion?",
+      "options": [
+        "A tennis racket hitting a ball back across the net.",
+        "Squeezing a foam sponge between two fingers.",
+        "A falling feather reaching steady terminal velocity.",
+        "A car accelerating along a straight highway."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 41
+    },
+    {
+      "question": "When investigating how the mass of a block affects the friction force needed to slide it, which procedure maintains a fair test?",
+      "options": [
+        "Change both the mass of the block and the surface material for every trial.",
+        "Keep the surface material, pull angle, and speed constant while changing mass.",
+        "Vary the pulled mass and use different newton meters without zeroing them.",
+        "Change the lubricant type on each pull while keeping the block mass constant."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
     }
   ]
 }

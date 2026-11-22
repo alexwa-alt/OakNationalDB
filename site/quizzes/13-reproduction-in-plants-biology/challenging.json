@@ -1,6 +1,6 @@
 {
   "unitKey": "13Reproduction in plantsBiology",
-  "generatedAt": "2026-11-21T16:17:55.054319+00:00",
+  "generatedAt": "2026-11-22T16:29:12.029976+00:00",
   "questions": [
     {
       "question": "In flowering plants, which of the following events marks the exact moment fertilisation occurs?",
@@ -1321,6 +1321,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 5
+    },
+    {
+      "question": "A student investigates how temperature affects cress seed germination on moist cotton wool. What is the independent variable and how should its values be chosen?",
+      "options": [
+        "The percentage of seeds that germinate, measured after five days at a single constant temperature.",
+        "The temperature of the environment, tested across a chosen range of values such as 5°C, 15°C, 25°C, and 35°C.",
+        "The mass of cotton wool used, varied from 1 gram to 4 grams in each test dish.",
+        "The amount of water added, changed continuously throughout the duration of the test."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "To ensure a valid conclusion when investigating how light level affects seed germination, which variables must be kept constant across all test dishes?",
+      "options": [
+        "The intensity of light, dish size, and duration of exposure to air.",
+        "The number of germinated seeds, ambient room light, and graph scale.",
+        "The seed species, amount of water provided, temperature, and number of seeds per dish.",
+        "The type of graph used to plot data, room temperature, and seed coat color."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which statement best explains why flowering plants are classified as reproducing sexually?",
+      "options": [
+        "They rely on the fusion of male and female gametes to produce genetically unique offspring.",
+        "They produce identical clones of the parent plant through simple stem cuttings.",
+        "They grow rapidly using photosynthesis without requiring any gametes or seed formation.",
+        "They absorb nutrients directly from the soil to form spores without male or female structures."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "A scientist examines plant gametes under a microscope. Which statement correctly describes the function of pollen grains in plant reproduction?",
+      "options": [
+        "They store nutrients to nourish the embryo during initial seed development inside the ovary.",
+        "They form the protective tough outer coat around the developing seed after fertilisation.",
+        "They act as female gametes that fuse with incoming sperm cells to form a zygote.",
+        "They carry male gametes from the male structures of a flower towards the female gametes."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Which statement correctly describes where seeds are formed and what basic structures they contain?",
+      "options": [
+        "Seeds form inside the ovary and contain an embryo, a food store, and a tough outer coat.",
+        "Seeds form inside the anther and contain only female gametes surrounded by pollen.",
+        "Seeds form on the stigma surface and contain a mature fruit surrounded by leaves.",
+        "Seeds form within root tissues and contain an unfertilised ovule with chloroplasts."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Botanically speaking, a pea pod and a tomato are both classified as fruits. What is the scientific explanation for this classification?",
+      "options": [
+        "Both are roots that have swollen with stored starch to feed pollinating insects.",
+        "Both are mature, ripened ovaries of seed-producing plants that enclose seeds.",
+        "Both develop directly from male anthers after releasing pollen into the wind.",
+        "Both are modified leaves designed solely to absorb sunlight for photosynthesis."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How do pollinators contribute directly to sexual reproduction in flowering plants?",
+      "options": [
+        "They digest seed coats inside their gut to activate growth enzymes before seed dispersal.",
+        "They directly deposit nutrients into the soil around roots to speed up seed germination.",
+        "They transfer pollen from one flower to another, allowing male and female gametes to eventually meet.",
+        "They provide warmth to flower buds to induce mitosis in non-reproductive stem tissues."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Which definition accurately describes the concept of food security?",
+      "options": [
+        "Ensuring that all food produced in a country is exported to maximize national trade profits.",
+        "Using chemical pesticides to kill all insects in agricultural fields regardless of species.",
+        "Storing all harvested crops in sealed government facilities to prevent seed germination.",
+        "Having enough affordable and nutritious food available for a population in an area or country."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Why is protecting insect pollinators from habitat loss, climate change, and pesticides critical for global food security?",
+      "options": [
+        "Many essential food crops depend on insect pollination to successfully produce fruits, vegetables, and seeds.",
+        "Insect pollinators directly fertilise the soil by breaking down dead crop leaves into carbon dioxide.",
+        "Pollinating insects produce synthetic fertilisers inside their bodies that replace soil minerals.",
+        "Insects eliminate all wind patterns that would otherwise destroy mature crop stems before harvest."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A botanical diagram shows pollen moving between flower structures. What precise process is taking place during pollination?",
+      "options": [
+        "The fusion of the male gamete nucleus with the female egg cell nucleus inside the ovule.",
+        "The transfer of pollen from the male anther to the female stigma.",
+        "The release of mature seeds from a fruit into the surrounding environment.",
+        "The growth of an embryo into a young seedling using stored seed nutrients."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "What is an important advantage of cross-pollination compared to self-pollination in flowering plants?",
+      "options": [
+        "Cross-pollination requires no external agents like wind, water, or insects.",
+        "Cross-pollination guarantees that offspring are genetically identical to a single parent.",
+        "Cross-pollination introduces greater genetic variation within the plant species.",
+        "Cross-pollination allows plants to produce seeds without formed gametes."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Which statement provides the precise biological definition of fertilisation in plants?",
+      "options": [
+        "The physical landing of pollen grains onto the sticky surface of the stigma.",
+        "The dispersal of mature seeds away from the parent plant by wind or water.",
+        "The absorption of water by a seed coat causing the root to emerge.",
+        "The fusion of the nuclei from the male and female gametes."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "What sequence correctly describes the development of a new plant immediately following successful fertilisation?",
+      "options": [
+        "The single-celled zygote grows into an embryo, which then develops into a new plant.",
+        "The embryo turns into a zygote, which directly converts into a mature pollen grain.",
+        "The zygote splits into unfertilised egg cells that form a protective fruit wall.",
+        "The seed coat transforms into a zygote, which then germinates without an embryo."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A researcher measures seed dispersal distance for different seed types (dandelion, sycamore, blackberry). Why should this data be displayed using a bar chart rather than a line graph?",
+      "options": [
+        "The dependent variable is categoric, so line graphs cannot show continuous numerical values.",
+        "The independent variable (seed type) is categoric, whereas line graphs require continuous data.",
+        "Bar charts can only be used when experimental data contains zero anomalous results.",
+        "Line graphs are strictly reserved for experiments involving live insect pollinators."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "A line graph shows drop height (cm) on the x-axis and model seed flight time (s) on the y-axis. What is the main purpose of drawing a line of best fit on this graph?",
+      "options": [
+        "To connect every single data point directly with straight lines regardless of anomalies.",
+        "To calculate the exact total number of seeds that failed to disperse in the experiment.",
+        "To indicate the trend and general relationship between the independent and dependent variables.",
+        "To change the independent variable from a continuous variable into a categoric variable."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Why do flowering plants disperse their seeds over wider geographical areas?",
+      "options": [
+        "To ensure that all offspring grow in identical tightly packed clusters for mutual support.",
+        "To prevent insect pollinators from finding and feeding on mature seed structures.",
+        "To allow seeds to recombine their genetic material with other seeds before germination.",
+        "To reduce competition with the parent plant for light, water, and soil nutrients, increasing survival chances."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "Sycamore seeds have large wing-like structures, while dandelion seeds have light parachute-like tufts. How do these adaptations aid their dispersal mechanism?",
+      "options": [
+        "They lower mass and increase surface area, slowing fall speed so wind carries them further.",
+        "They make the seeds sticky so they easily attach to the fur of passing mammals.",
+        "They allow the seeds to float on water currents for many weeks without sinking.",
+        "They store water internally to prevent the embryo from drying out in direct sunlight."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "In an experiment testing how wing length affects paper model seed dispersal, what is the dependent variable?",
+      "options": [
+        "The length of the paper wings altered by the investigator.",
+        "The distance the model seed travels horizontally before landing.",
+        "The strength of the fan used to generate airflow in the lab.",
+        "The type of paper chosen to construct the model seed templates."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "During a seed dispersal practical, a student repeats the drop test five times for each wing length. What is the primary reason for repeating measurements?",
+      "options": [
+        "To change the independent variable from wing length to drop height during testing.",
+        "To ensure that every trial yields exactly identical numerical values without variation.",
+        "To identify anomalous results and enable the calculation of a more reliable mean.",
+        "To convert the quantitative experimental data into qualitative categoric descriptions."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 37
+    },
+    {
+      "question": "Cress seeds were placed on cotton wool under four test conditions for 7 days: 1: Light, Water, 20°C (100% germinated); 2: Dark, Water, 20°C (100% germinated); 3: Light, Dry, 20°C (0% germinated); 4: Light, Water, 4°C (0% germinated). What conclusion is supported by these results?",
+      "options": [
+        "Light and water are both essential for germination, while temperature has no effect.",
+        "Germination only occurs in complete darkness when cotton wool is completely dry.",
+        "Temperature is the only factor influencing germination; water and light are irrelevant.",
+        "Water and a suitable temperature are required for germination, but light is not required."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 2
     }
   ]
 }

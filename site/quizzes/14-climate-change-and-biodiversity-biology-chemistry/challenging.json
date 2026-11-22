@@ -1,6 +1,6 @@
 {
   "unitKey": "14Climate change and biodiversityBiologyChemistry",
-  "generatedAt": "2026-11-21T16:30:32.748311+00:00",
+  "generatedAt": "2026-11-22T16:29:54.859365+00:00",
   "questions": [
     {
       "question": "Why does the widespread packaging of supermarket foods in traditional plastics pose a long-term resource depletion problem, even before the plastic becomes waste?",
@@ -1101,6 +1101,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 23
+    },
+    {
+      "question": "Many food products are wrapped in plastic made from fossil fuels. Why is reliance on this material problematic for long-term environmental sustainability?",
+      "options": [
+        "Fossil fuels release large amounts of pure oxygen when processed, disturbing atmospheric balance.",
+        "Fossil fuels are non-renewable resources that take millions of years to form and will eventually run out.",
+        "Plastic made from crude oil dissolves completely in water within several days.",
+        "Fossil fuels are extracted directly from growing agricultural food crops."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Why does synthetic plastic waste accumulated in landfill sites and marine ecosystems pose a severe long-term threat to wildlife?",
+      "options": [
+        "It degrades rapidly, removing all dissolved oxygen from the surrounding environment.",
+        "It attracts heat from the sun and boils the surrounding ocean water.",
+        "It takes a very long time to degrade naturally and can physically harm or poison animals that ingest it.",
+        "It turns into liquid crude oil that coats the ocean floor permanently."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why are bioplastics produced from renewable crops considered a more sustainable packaging option than conventional plastics?",
+      "options": [
+        "Bioplastics require zero agricultural land or water to produce.",
+        "They completely eliminate the need to package perishable food items.",
+        "They absorb greenhouse gases directly from the atmosphere after being discarded.",
+        "They are made from renewable resources and are biodegradable, reducing long-term environmental pollution."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "What main biological advantage does plastic packaging provide in global food supply chains?",
+      "options": [
+        "It protects food from damage and microbial contamination, preventing spoilage and reducing food waste.",
+        "It accelerates the natural ripening process of fruits so they can be sold faster.",
+        "It adds essential nutrients to packaged produce while stored on shelves.",
+        "It allows food to photosynthesise without light during long-distance transport."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "When deciding whether to use plastic packaging for food, what environmental trade-off must scientists evaluate?",
+      "options": [
+        "Weighing the taste of food packaged in plastic against food packaged in glass.",
+        "Weighing the benefits of preventing food waste against carbon emissions from plastic production and ecosystem damage.",
+        "Weighing the speed of growing food crops against the time taken to drill for crude oil.",
+        "Weighing the light absorption of bioplastics against the weight of cardboard boxes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Why does livestock production require significantly more agricultural land than growing food crops directly for human consumption?",
+      "options": [
+        "Land used for livestock cannot absorb rainfall, requiring double the area to prevent flooding.",
+        "Crops grown for animal feed require five times more sunlight than crops grown for human consumption.",
+        "Animals require large areas of land to live on, plus additional land to grow the crops needed to feed them.",
+        "Farmed animals convert 100% of consumed plant energy directly into meat without any loss."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "How does the expansion of global agricultural land contribute directly to tropical deforestation?",
+      "options": [
+        "Forest trees are harvested continuously to turn their wood directly into plastic packaging.",
+        "Agricultural crops emit toxic chemicals that cause surrounding natural forest trees to die.",
+        "Farming machinery requires flat forested ground to operate safely.",
+        "Forests are cleared to create open fields for growing crops and grazing farm animals."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which process explains how converting natural land for farming leads to global biodiversity loss?",
+      "options": [
+        "Clearing land destroys natural habitats, removing shelter and food sources that wild species depend on to survive.",
+        "Farming creates new forest canopies that block sunlight from reaching wild native animals.",
+        "Agricultural land conversion cools the local climate, causing wild plants to freeze.",
+        "Converting land increases soil nutrients so much that wild plants overgrow and choke out animals."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which combination of strategies would best mitigate habitat loss and reduce environmental impacts from agriculture?",
+      "options": [
+        "Increasing meat production and clearing protected reserves for agriculture.",
+        "Adopting more plant-based diets and rewilding or reforesting unused land.",
+        "Replacing natural forests with urban concrete structures to save soil space.",
+        "Paving over agricultural fields to prevent soil erosion."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "How does rising global temperature due to climate change threaten future global food production?",
+      "options": [
+        "Higher temperatures increase atmospheric oxygen, which burns growing crops.",
+        "Warmer air prevents seeds from absorbing nitrogen from agricultural fertilizers.",
+        "Unpredictable weather patterns, droughts, and heatwaves alter growing conditions and lower crop yields.",
+        "Global warming causes farm machinery to rust at a much faster rate."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "Why do more frequent extreme weather events, such as severe droughts and floods, make food production challenging?",
+      "options": [
+        "They cause crops to photosynthesise too rapidly, depleting soil moisture permanently.",
+        "They turn agricultural soils into non-porous synthetic plastic layer by layer.",
+        "They reduce the amount of carbon dioxide available in the air for plant growth.",
+        "They disrupt crop growth cycles, damage soil quality, and destroy harvests."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why does assessing the total carbon footprint of a food product involve more than measuring farm emissions?",
+      "options": [
+        "It includes greenhouse gases emitted during land clearing, farming, food processing, transport, and packaging.",
+        "It measures only the amount of carbon chemically stored inside the food molecules.",
+        "It accounts only for the carbon dioxide released when food waste decays in domestic compost bins.",
+        "It measures the total weight of plastic packaging used to wrap the final food item."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How can consumer dietary changes contribute to reducing greenhouse gas emissions and limiting climate change?",
+      "options": [
+        "By consuming more imported meat products transported via air freight.",
+        "By shifting towards diets with lower carbon footprints, such as reducing meat consumption.",
+        "By purchasing only processed food wrapped in multiple layers of conventional plastic.",
+        "By eating larger quantities of food to prevent agricultural surpluses."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What benefit do environmental scientists gain from comparing greenhouse gas emissions data across different diets?",
+      "options": [
+        "It proves that all human diets generate an identical amount of greenhouse gas emissions.",
+        "It allows scientists to calculate the exact date when fossil fuel reserves will be depleted.",
+        "It highlights which food choices produce lower emissions, helping guide sustainable policies and consumer choices.",
+        "It measures how quickly bioplastics break down in agricultural soil."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "Why does extensive deforestation disrupt the global carbon cycle?",
+      "options": [
+        "Fewer trees are available to absorb carbon dioxide from the atmosphere during photosynthesis.",
+        "Removing trees causes cleared soil to absorb extra carbon dioxide from the ocean.",
+        "Cut trees stop emitting oxygen, forcing crops to absorb atmospheric methane instead.",
+        "Deforestation prevents animals from releasing carbon dioxide through respiration."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How does increased atmospheric carbon dioxide enhance the greenhouse effect and drive global warming?",
+      "options": [
+        "It creates a solid physical layer in the atmosphere that reflects all sunlight back to space.",
+        "It reacts with nitrogen to form toxic clouds that trap ocean coldness.",
+        "It traps infrared heat radiated from Earth's surface and re-radiates it back towards Earth.",
+        "It depletes the atmosphere's oxygen layer, allowing cosmic cold to enter."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How does widespread deforestation disrupt the hydrological (water) cycle in a region?",
+      "options": [
+        "Clearing trees increases humidity levels so much that rainfall stops completely.",
+        "With fewer trees, less groundwater is absorbed by roots and transpired into the atmosphere, reducing cloud formation.",
+        "Deforested soil absorbs 100% of rainwater, drying up local rivers and streams.",
+        "Tree removal accelerates ocean evaporation rates across the globe."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "Why does deforestation increase the risk of surface flooding and threaten food security?",
+      "options": [
+        "Deforested ground produces natural bioplastics that seal the soil against rain absorption.",
+        "Tree removal forces rain clouds to drop all their water in a single minute over agricultural fields.",
+        "Without tree roots to anchor soil and absorb water, heavy rainfall leads to rapid surface runoff and soil erosion.",
+        "Without trees, rainwater converts directly into greenhouse gases upon touching the ground."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which set of mitigation measures directly helps protect existing forest carbon sinks and restore degraded ecosystems?",
+      "options": [
+        "Converting protected natural forests into managed pasturelands for cattle.",
+        "Replacing wild native forests with monoculture crop plantations.",
+        "Incinerating fallen leaves across forest floors to reduce soil organic matter.",
+        "Enforcing legal protections against illegal logging and carrying out reforestation programs."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "How do climate change and more frequent extreme weather events lead to biodiversity loss?",
+      "options": [
+        "Rapidly changing environmental conditions occur faster than many species can adapt or migrate, leading to population declines.",
+        "Extreme weather causes all plant species to turn into invasive weeds simultaneously.",
+        "Global warming increases genetic diversity so quickly that original species disappear.",
+        "Higher temperatures prevent animals from undergoing natural cellular respiration."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 24
     }
   ]
 }

@@ -1,0 +1,226 @@
+{
+  "unitKey": "2Solid, liquid, gas states and changes of stateChemistry",
+  "generatedAt": "2026-11-22T16:30:40.700449+00:00",
+  "questions": [
+    {
+      "question": "What is the temperature at which pure water both boils and condenses?",
+      "options": [
+        "0°C",
+        "50°C",
+        "100°C",
+        "120°C"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What state of matter is steam?",
+      "options": [
+        "Solid state",
+        "Liquid state",
+        "Gas state",
+        "Plasma state"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How do particles change their arrangement when a substance is condensed?",
+      "options": [
+        "They move further apart",
+        "They move closer together",
+        "They stop moving completely",
+        "They increase in size"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What change occurs when you open the air hole of a Bunsen burner?",
+      "options": [
+        "The flame turns blue, hotter, and cleaner",
+        "The flame turns orange and produces soot",
+        "The flame immediately goes out",
+        "The flame gets larger without changing color"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which action controls the size of a Bunsen burner flame?",
+      "options": [
+        "Opening or closing the collar",
+        "Adjusting the gas tap",
+        "Moving the chimney up and down",
+        "Changing the rubber tubing"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "What is the correct safety technique for carrying a lit splint?",
+      "options": [
+        "Pointing straight up above your head",
+        "Angled slightly downwards and shielded with your other hand",
+        "Held horizontally as fast as possible",
+        "Pointing straight down towards your feet"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Which state of matter has the least energy, and which has the most energy?",
+      "options": [
+        "Solid has the least energy, gas has the most energy",
+        "Gas has the least energy, liquid has the most energy",
+        "Liquid has the least energy, solid has the most energy",
+        "Solid has the least energy, liquid has the most energy"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "At what temperatures can a liquid undergo evaporation?",
+      "options": [
+        "Only at its boiling point",
+        "Only at temperatures above its boiling point",
+        "At temperatures below its boiling point",
+        "Only when it is frozen"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How does increasing the temperature of water affect its rate of evaporation?",
+      "options": [
+        "The hotter the water, the more slowly it evaporates",
+        "The hotter the water, the more quickly it evaporates",
+        "Temperature has no effect on evaporation rate",
+        "Water stops evaporating when heated"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "What state change occurs when a substance melts?",
+      "options": [
+        "Liquid state to solid state",
+        "Gas state to liquid state",
+        "Solid state to liquid state",
+        "Liquid state to gas state"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How do the melting point and freezing point of a pure substance compare?",
+      "options": [
+        "The melting point is always higher than the freezing point",
+        "The freezing point is always higher than the melting point",
+        "They are the exact same temperature",
+        "They change depending on the container size"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why do particles in a solid remain in fixed positions?",
+      "options": [
+        "Forces of attraction hold them in fixed positions",
+        "They are glued to each other permanently",
+        "They have too much energy to move around",
+        "Air pressure pushes them together from outside"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What effect do stronger forces of attraction between particles have on a substance's melting point?",
+      "options": [
+        "The melting point becomes lower",
+        "The melting point stays at 0°C",
+        "The melting point becomes higher",
+        "The substance cannot melt at all"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What is the approximate temperature of a healthy human body?",
+      "options": [
+        "0ºC",
+        "20ºC",
+        "37ºC",
+        "100ºC"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Why must the bulb of a liquid thermometer be handled carefully?",
+      "options": [
+        "It contains toxic gas under high pressure",
+        "It is made of very thin, delicate glass",
+        "It dissolves when touched by hands",
+        "It loses its temperature reading instantly"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which set of properties describes a substance in the gas state?",
+      "options": [
+        "Has a fixed shape and cannot be compressed",
+        "Can flow, fills the whole container, and can be compressed",
+        "Fills the shape of its container and cannot be compressed",
+        "Does not flow and has a fixed volume"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Why can particles in a gas move completely free of one another?",
+      "options": [
+        "They have enough energy to break free of attractive forces",
+        "They are connected by soft springs",
+        "They are repelled by magnetic forces",
+        "They are too large to attract each other"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "What is present in the spaces between particles in a gas?",
+      "options": [
+        "Air",
+        "Liquid droplets",
+        "Nothing at all",
+        "Tiny dust particles"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Which properties are characteristic of the solid state?",
+      "options": [
+        "Fixed shape, does not flow, and cannot be compressed",
+        "Fills the whole container, flows, and can be compressed",
+        "Fills the shape of its container, flows, and can be compressed",
+        "No fixed shape, flows easily, and cannot be compressed"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Which statement correctly describes a liquid's properties?",
+      "options": [
+        "It has a fixed shape and can be compressed easily",
+        "It can flow, fills the shape of its container, and cannot be compressed",
+        "It fills the whole volume of any container and can be compressed",
+        "It cannot flow and has a fixed shape"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    }
+  ]
+}
