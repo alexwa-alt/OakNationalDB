@@ -1,0 +1,226 @@
+{
+  "unitKey": "4Our solar system and beyondPhysics",
+  "generatedAt": "2026-11-24T19:37:16.671378+00:00",
+  "questions": [
+    {
+      "question": "What did people historically believe about the shape of the Earth and the movement of heavenly bodies?",
+      "options": [
+        "Earth was flat, with the Sun and stars moving around it",
+        "Earth was a sphere orbiting around the Sun",
+        "Earth was flat, but remained completely motionless while stars stood still",
+        "Earth was a cube surrounded by water and orbiting the Moon"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Up until the 16th century, what was the most widely accepted belief regarding Earth's position in the universe?",
+      "options": [
+        "The Sun was located at the very centre of the universe",
+        "Earth was located at the centre of the universe",
+        "The Moon was at the centre, surrounded by all planets",
+        "Earth was at the outer edge of an expanding galaxy"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Which scientific tool provided crucial observational evidence that helped us better understand the universe?",
+      "options": [
+        "Barometers",
+        "Microscopes",
+        "Telescopes",
+        "Seismometers"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "At what angle is the axis of Earth's spin tilted?",
+      "options": [
+        "0 degrees",
+        "12.5 degrees",
+        "23.5 degrees",
+        "45 degrees"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In which direction does the gravitational force of a planet or star pull objects?",
+      "options": [
+        "Away from its outer atmosphere",
+        "Towards the centre of the planet or star",
+        "In a sideways tangent to its surface",
+        "Towards the nearest neighboring star"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How does the mass of an object affect the strength of its gravity?",
+      "options": [
+        "The greater the mass, the stronger its gravity",
+        "The greater the mass, the weaker its gravity",
+        "Mass has no effect on the strength of gravity",
+        "Gravity only exists if an object has no mass"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "What happens to the gravitational force of a planet as an object moves further away from it into space?",
+      "options": [
+        "It gets stronger",
+        "It gets weaker",
+        "It disappears instantly",
+        "It remains completely constant"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "How does Earth's gravity affect the motion of the Moon?",
+      "options": [
+        "It causes the Moon to stop moving completely",
+        "It pushes the Moon further out into space",
+        "It speeds up the Moon's spin until it breaks apart",
+        "It pulls the Moon towards Earth's centre, changing its direction into an orbit"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why does Earth follow an orbit around the Sun rather than traveling in a straight line?",
+      "options": [
+        "Earth is pushed along by solar wind",
+        "The Sun's gravity pulls Earth towards its centre, changing Earth's direction",
+        "The magnetic field of the Moon pulls Earth around the Sun",
+        "Earth's atmosphere propels it around the Sun"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "How does the spreading of light rays compare when light hits a surface face-on versus at an angle?",
+      "options": [
+        "Light rays are less spread out when hitting face-on",
+        "Light rays are more spread out when hitting face-on",
+        "Light rays spread out equally at all angles",
+        "Light rays only spread out when hitting at an angle of zero degrees"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "At what time of day is the heating effect of the Sun greatest at a location on Earth?",
+      "options": [
+        "Sunrise",
+        "Midday",
+        "Sunset",
+        "Midnight"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which statement best defines a planet?",
+      "options": [
+        "A very large sphere of rock or gas that orbits a star",
+        "An extremely hot sphere of gas that gives out light",
+        "A small chunk of ice that travels outside the solar system",
+        "A glowing cloud of dust floating between galaxies"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Besides the 8 planets, which objects orbit the Sun in our solar system?",
+      "options": [
+        "Galaxies and black holes",
+        "Dwarf planets and smaller objects such as asteroids",
+        "Other major stars and nebulae",
+        "Comets made purely of glowing hot gas like the Sun"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What happens in the northern and southern hemispheres during the month of December?",
+      "options": [
+        "Northern hemisphere has summer; southern hemisphere has winter",
+        "Northern hemisphere has winter; southern hemisphere has summer",
+        "Both hemispheres experience summer simultaneously",
+        "Both hemispheres experience winter simultaneously"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Why do countries located near the Equator not experience typical summer and winter seasons?",
+      "options": [
+        "They receive no direct sunlight during any month",
+        "Their axis of rotation flips every six months",
+        "They stay close to 'face-on' to the Sun all year round",
+        "They are tilted completely away from the Sun all year"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why do stars in the night sky appear so much smaller and dimmer than our Sun?",
+      "options": [
+        "They are much cooler than the Sun",
+        "They are much further away from Earth than the Sun is",
+        "They do not emit their own light",
+        "They are blocked by Earth's thick atmosphere"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What is a light-year?",
+      "options": [
+        "The time it takes for Earth to orbit the Sun once",
+        "The distance light travels in one year",
+        "The time it takes light from the Sun to reach Earth",
+        "The brightness of a star measured over one year"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "What is a galaxy?",
+      "options": [
+        "A single solar system containing one planet",
+        "A group containing billions of stars in the universe",
+        "A collection of eight planets orbiting a moon",
+        "A belt of asteroids floating between two stars"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Which everyday event is explained by Earth spinning on its axis?",
+      "options": [
+        "The occurrence of day and night",
+        "The change of ocean tides",
+        "The orbit of the Moon around Earth",
+        "The change of the calendar year"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "The Moon orbits Earth approximately once every 27.3 days. What does this orbital motion explain?",
+      "options": [
+        "Why the Moon appears to change shape over time",
+        "Why Earth experiences leap years",
+        "Why the Sun appears to rise in the west",
+        "Why Earth's axis angle changes over time"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 36
+    }
+  ]
+}

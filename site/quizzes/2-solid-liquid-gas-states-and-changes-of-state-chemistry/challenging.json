@@ -1,6 +1,6 @@
 {
   "unitKey": "2Solid, liquid, gas states and changes of stateChemistry",
-  "generatedAt": "2026-09-04T12:48:35.364458+00:00",
+  "generatedAt": "2026-11-24T19:36:21.228553+00:00",
   "questions": [
     {
       "question": "If pure water is heated until it boils at 100°C, at what temperature will the resulting steam begin to condense back into liquid water if it is cooled under the same atmospheric pressure?",
@@ -881,6 +881,226 @@
       ],
       "correctAnswerIndex": 2,
       "learningPointIndex": 5
+    },
+    {
+      "question": "Pure water is heated to 100°C in a sealed system where steam cools back down to liquid water. Which statement correctly describes the temperatures at which these state changes occur?",
+      "options": [
+        "Water boils at 100°C, but steam condenses at 0°C.",
+        "Water boils at 100°C and steam condenses at 100°C.",
+        "Water boils at 100°C, but steam condenses at a higher temperature than 100°C.",
+        "Water boils at 100°C, but steam condenses at 90°C."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When liquid water is boiled to form steam inside an expandable container at atmospheric pressure, what happens to the overall volume occupied by the water substance?",
+      "options": [
+        "The volume increases significantly because the gas state takes up far more space.",
+        "The volume decreases because gas particles pack tighter together.",
+        "The volume remains exactly identical in both liquid and gas states.",
+        "The volume becomes zero because gas particles lose all mass."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Which option correctly describes particle distance changes during boiling versus condensing of a pure substance?",
+      "options": [
+        "Particles move further apart when boiling, and move closer together when condensing.",
+        "Particles move closer together when boiling, and move further apart when condensing.",
+        "Particles expand in individual size when boiling, and shrink when condensing.",
+        "Particles stop moving when boiling, and speed up when condensing."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A student notices that heating a beaker using a Bunsen burner leaves black soot on the glass and heats very slowly. What adjustment should be made, and why?",
+      "options": [
+        "Close the air hole completely to make the orange flame hotter.",
+        "Open the air hole to change the orange, sooty flame to a hotter, cleaner blue flame.",
+        "Turn off the gas tap slightly to decrease the blue flame temperature.",
+        "Open the collar to turn the blue flame into a quiet yellow flame."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "If a student wants to reduce the height of a Bunsen burner flame without altering the flame's color or air intake ratio, which action must they take?",
+      "options": [
+        "Turn the collar to close the air hole.",
+        "Adjust the gas tap to control the gas flow rate.",
+        "Lower the tripod stand closer to the base.",
+        "Blow gently on the chimney of the Bunsen burner."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "When carrying a lit wooden splint across a science laboratory to light another burner, which technique ensures safe practice?",
+      "options": [
+        "Hold the splint straight up with the flame near your face.",
+        "Point the flame straight down towards your lab coat pocket.",
+        "Angle the flame slightly downwards while shielding it with your other hand.",
+        "Run quickly with the splint pointed horizontally forward."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Comparing equal numbers of particles of the same substance across solid, liquid, and gas states, which list arranges the states in order from LEAST energy to MOST energy?",
+      "options": [
+        "Gas, liquid, solid",
+        "Liquid, solid, gas",
+        "Solid, liquid, gas",
+        "Solid, gas, liquid"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A puddle of water outdoors disappears on a cool afternoon when the ambient air temperature is only 15°C. Which statement explains this observation?",
+      "options": [
+        "Water can only evaporate when it reaches its boiling point of 100°C.",
+        "Water in its liquid state can evaporate at temperatures well below its boiling point.",
+        "The water reacted chemically with the ground and transformed into solid dirt.",
+        "Water boils instantly whenever exposed to air regardless of temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Two identical open containers hold equal amounts of liquid water. Container A is kept at 25°C and Container B is kept at 60°C. What will be observed regarding evaporation rates?",
+      "options": [
+        "Container A evaporates faster because cool water is less dense.",
+        "Container B evaporates faster because hotter water evaporates more quickly.",
+        "Both containers evaporate at identical rates because temperature has no effect on evaporation.",
+        "Neither container evaporates because both are below 100°C."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A pure sample of gallium metal melts at 29.8°C. At what temperature does liquid gallium freeze into a solid?",
+      "options": [
+        "0°C",
+        "100°C",
+        "29.8°C",
+        "-29.8°C"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why does an ice cube maintain a rigid, fixed shape when placed on a table?",
+      "options": [
+        "Particles in the solid state are free to slide past one another in all directions.",
+        "Strong forces of attraction between particles hold them in fixed positions.",
+        "Air pressure surrounding the solid forces the particles into a liquid mesh.",
+        "Solid particles expand to fill every available space in the room."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which statement best describes particle motion and forces in a liquid state?",
+      "options": [
+        "Particles are completely fixed in place with zero kinetic energy.",
+        "Particles are held together, but have enough energy to break free of fixed positions and move around each other.",
+        "Particles have no attractive forces between them and move isolated at extreme speeds.",
+        "Particles continuously destroy and recreate each other as they move."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Substance X melts at 800°C, whereas Substance Y melts at -100°C. What can be inferred about the forces of attraction between their particles?",
+      "options": [
+        "Substance X has weaker forces of attraction between particles than Substance Y.",
+        "Substance X has stronger forces of attraction between particles than Substance Y.",
+        "Both substances have identical particle forces of attraction.",
+        "Neither substance has any forces of attraction between particles."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A temperature reading of 37°C is recorded using a clinical thermometer. What standard benchmark does this temperature correspond to?",
+      "options": [
+        "The freezing point of pure water.",
+        "Standard comfortable room temperature.",
+        "Normal human body temperature.",
+        "The boiling point of pure water."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Why must a student handle the glass bulb of a laboratory liquid-in-glass thermometer with extreme care?",
+      "options": [
+        "The bulb is made of very thick glass that shatters if touched by hands.",
+        "The bulb is made of very thin glass and is delicate.",
+        "The bulb contains high-voltage electrical wires.",
+        "The bulb dissolves instantly upon contact with liquid water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Gas inside a bicycle pump can easily be pushed into a smaller space, whereas liquid water in a syringe cannot. Why can gas be compressed?",
+      "options": [
+        "In the gas state, a substance has fixed rigid bonds between particles.",
+        "In the gas state, a substance can flow, fill its container, and particles have large gaps that allow compression.",
+        "Gas particles break into smaller subatomic pieces when compressed.",
+        "Gas state substances are liquids that have lost their mass."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Why can gas particles travel freely to fill an entire room, unlike liquid particles?",
+      "options": [
+        "In the gas state, particles have enough energy to be free of the attractive forces holding them together.",
+        "Gas particles are pushed by gravity up to the ceiling.",
+        "Gas particles are magnetically repelled by solid objects.",
+        "Gas particles lose all energy and fall to rest in all corners."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "If you examine the space between gas particles in a completely pure sample of gas, what exists in the gaps between the particles?",
+      "options": [
+        "Small drops of liquid water",
+        "Microscopic dust particles",
+        "Nothing at all",
+        "Air energy ether"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A solid wooden block is transferred from a round bowl to a square box. How do its shape and volume change?",
+      "options": [
+        "It changes shape to match the square box and expands in volume.",
+        "It retains a fixed shape and volume, does not flow, and cannot be compressed.",
+        "It flows to fill the bottom of the box like a liquid.",
+        "It compresses automatically to take up less space in the box."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "When liquid orange juice is poured from a tall jug into a wide shallow dish, what happens to its properties?",
+      "options": [
+        "It flows to fill the shape of the dish, but its volume cannot be compressed.",
+        "It maintains a fixed rigid shape independent of the dish.",
+        "It compresses into half its original volume.",
+        "It expands to fill the entire room like a gas."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 31
     }
   ]
 }

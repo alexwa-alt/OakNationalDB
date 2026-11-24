@@ -1,6 +1,6 @@
 {
   "unitKey": "1ForcesPhysics",
-  "generatedAt": "2026-11-22T16:30:26.040049+00:00",
+  "generatedAt": "2026-11-24T19:35:45.304220+00:00",
   "questions": [
     {
       "question": "A toy boat is pulled northwards with a force of 12 N by a string, while the water current pushes it southwards with a force of 4 N, and the wind blows it southwards with a force of 3 N. What is the resultant force on the boat?",
@@ -1101,6 +1101,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 24
+    },
+    {
+      "question": "A box resting on a floor experiences a downward gravitational force of 50 N and an upward normal contact force of 50 N. Which statement correctly describes these forces?",
+      "options": [
+        "They are balanced because they have equal size and act in opposite directions.",
+        "They are unbalanced because they act on the same object.",
+        "They are balanced because one force is greater than the other.",
+        "They are unbalanced because gravity is a non-contact force while normal force is a contact force."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A cart is pulled to the right with a force of 12 N while friction pushes it to the left with a force of 4 N. What is the resultant force acting on the cart?",
+      "options": [
+        "16 N to the right",
+        "8 N to the right",
+        "8 N to the left",
+        "3 N to the right"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "A submarine travels horizontally underwater at a steady speed of 5 m/s. What can be concluded about the horizontal forces acting on it?",
+      "options": [
+        "The forward thrust force is greater than the backward drag force.",
+        "The backward drag force is greater than the forward thrust force.",
+        "The forces are balanced, so the resultant force is 0 N and the speed remains constant.",
+        "There are no horizontal forces acting on the submarine at all."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A tug-of-war rope is pulled to the west with 450 N by Team A and to the east with 500 N by Team B. In which direction does the resultant force act?",
+      "options": [
+        "To the west, because Team A pulled first.",
+        "To the east, because Team B applied the larger force.",
+        "Vertically upwards, because the forces cancel out horizontally.",
+        "It has no direction because opposing forces cancel to zero."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Two identical stationary sleds, X and Y, are pushed across ice. Sled X experiences a resultant force of 15 N, while Sled Y experiences a resultant force of 5 N. How do their motions compare?",
+      "options": [
+        "Sled X changes its speed faster than Sled Y because it has a larger resultant force.",
+        "Sled Y changes its speed faster than Sled X because less force means less resistance.",
+        "Both sleds increase their speed at identical rates because they have equal mass.",
+        "Sled X moves at a constant speed, while Sled Y accelerates rapidly."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "Which of the following correctly matches an object to its energy store?",
+      "options": [
+        "A compressed metal spring has a chemical store of energy.",
+        "A battery sitting on a shelf has a kinetic store of energy.",
+        "A hot mug of tea has a thermal store of energy.",
+        "A running athlete has a gravitational store of energy only."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "Which statement best describes the origin of the force of friction between a sliding wooden block and a table?",
+      "options": [
+        "It is a magnetic force created by charges within the wood.",
+        "It is the force of one surface gripping or rubbing on another surface.",
+        "It is a gravitational pull drawing the block toward the table's center.",
+        "It is an upward non-contact force caused by trapped air molecules."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why is oil regularly applied to the moving metal chain of a bicycle?",
+      "options": [
+        "It acts as a lubricant added between surfaces to reduce friction.",
+        "It increases surface roughness to improve grip and propulsion.",
+        "It acts as a heavy layer that increases the total gravitational store.",
+        "It removes all contact forces between the chain and gears completely."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A student wants to accurately measure the pull force needed to slide a wooden tray. Which instrument should they use?",
+      "options": [
+        "A balance beam scale",
+        "A measuring cylinder",
+        "A newton meter",
+        "A thermometer"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Before hanging a weight from a spring balance (newton meter), a student notices the marker points to 0.2 N when no force is applied. What action must be taken to ensure accurate measurements?",
+      "options": [
+        "Multiply all subsequent readings by 0.2.",
+        "Adjust the scale so the marker reads zero when no force acts.",
+        "Add 0.2 N to every measurement recorded later.",
+        "Ignore the offset because it will not affect the results."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In an investigation testing friction, students test four shoe sole materials (Rubber, Leather, Foam, Plastic) and measure the pull force required in Newtons. Which row correctly classifies these variables?",
+      "options": [
+        "Sole material is continuous; pull force is categoric.",
+        "Sole material is categoric; pull force is continuous.",
+        "Both sole material and pull force are categoric variables.",
+        "Both sole material and pull force are continuous variables."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A student tests how the type of surface (Grass, Tile, Wood, Carpet) affects the distance a toy car rolls. Why should they present their results using a bar chart?",
+      "options": [
+        "Because the surface type (the independent variable changed) is a categoric variable.",
+        "Because the distance rolled is a continuous variable measured in meters.",
+        "Because bar charts must always be used whenever forces are involved.",
+        "Because a line graph can only show data collected over time."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "A student investigates how different lubricants affect the force needed to pull a block. To make this a fair test, what should the student do regarding the variables?",
+      "options": [
+        "Change both the lubricant type and the mass of the block simultaneously.",
+        "Change only the type of lubricant being tested while keeping other conditions constant.",
+        "Keep the lubricant type the same and vary the roughness of the surfaces.",
+        "Measure different forces without recording which lubricant was applied."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A student records pull force values of 4 N, 5 N, and 3 N across three identical test runs. How does calculating a mean of 4 N improve data presentation?",
+      "options": [
+        "It proves that no friction acted on the block during testing.",
+        "It replaces the original independent variable with a categoric value.",
+        "It combines repeat measurements into a single representative result.",
+        "It increases the total energy store of the apparatus."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Which of the following forces can only act when the two interacting objects are physically touching?",
+      "options": [
+        "Friction between a shoe sole and the ground",
+        "Gravitational attraction between Earth and the Moon",
+        "Magnetic force between two fridge magnets",
+        "Electrostatic force between charged balloons"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A skydiver falls through the air before opening their parachute. What type of force is air resistance in this scenario?",
+      "options": [
+        "A non-contact gravitational force pulling downwards.",
+        "A contact drag force pushing against the skydiver moving through a gas.",
+        "A magnetic force pulling up towards the upper atmosphere.",
+        "A chemical energy store that reduces falling speed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "As a ball rolls down a hill, its gravitational energy store decreases while its kinetic energy store increases. Which fundamental law does this demonstrate?",
+      "options": [
+        "Energy can be created if an object accelerates downwards.",
+        "Energy cannot be created or destroyed, only transferred between stores.",
+        "Resultant forces always destroy excess thermal energy.",
+        "Friction continuously creates new kinetic energy as objects move."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "On a force diagram for a heavy truck accelerating forward, how should the arrow for forward engine force compare to the arrow for backward drag force?",
+      "options": [
+        "The forward arrow should be drawn longer because the length of a force arrow represents force size.",
+        "The forward arrow should be drawn shorter because engine forces act over shorter distances.",
+        "Both arrows must be drawn identical in length regardless of their magnitudes.",
+        "The forward arrow should be drawn pointing downwards toward the road surface."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "According to standard force labelling conventions, how should the friction force acting on a sliding book from a table top be labelled on a diagram?",
+      "options": [
+        "Friction force on table by book",
+        "Friction force on book by table",
+        "Movement force of book towards floor",
+        "Gravity force from book to table"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "An empty shopping trolley (mass 15 kg) and a fully loaded shopping trolley (mass 60 kg) are both stationary. Why does the loaded trolley require a larger force to start moving at the same rate?",
+      "options": [
+        "Objects with a greater mass need a greater force to change their motion.",
+        "Objects with greater mass have zero contact forces acting on them.",
+        "The empty trolley has a larger friction force resisting initial movement.",
+        "The loaded trolley loses all its energy stores when stationary."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 39
     }
   ]
 }

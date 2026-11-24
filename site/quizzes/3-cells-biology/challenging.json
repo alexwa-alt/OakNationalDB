@@ -1,6 +1,6 @@
 {
   "unitKey": "3CellsBiology",
-  "generatedAt": "2026-09-04T12:49:20.059677+00:00",
+  "generatedAt": "2026-11-24T19:36:53.227578+00:00",
   "questions": [
     {
       "question": "A student looks at a cheek cell under a microscope and describes it as a flat circle. Why is this description incomplete?",
@@ -658,6 +658,226 @@
         "The paramecium moves itself actively to achieve a purpose (finding food), whereas the dust is moved passively by an external force.",
         "The paramecium is visible under a microscope, while dust is visible to the naked eye.",
         "The paramecium changes its chemical composition when it moves, but dust does not."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "A student looks at a diagram of a cheek cell on paper and assumes it is flat like a sheet of paper. Why is this assumption scientifically incorrect?",
+      "options": [
+        "Cells are three-dimensional structures with volume, even though textbook diagrams show them in 2D cross-sections.",
+        "Cells are fluid spheres that constantly flatten when removed from the body.",
+        "Cells switch between two-dimensional and three-dimensional shapes depending on temperature.",
+        "Cheek cells are flat in nature, but internal organelles push them into a 2D grid shape."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A mystery animal cell structure is extracted and tested. It is found to contain the cell's genetic information and controls cellular activities. Which structure is this?",
+      "options": [
+        "Mitochondrion",
+        "Cytoplasm",
+        "Nucleus",
+        "Cell membrane"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "If a drug specifically prevents mitochondria from functioning in an animal cell, which essential cellular process will be directly disrupted?",
+      "options": [
+        "Containing genetic information to direct cell development",
+        "Releasing energy through cellular respiration",
+        "Controlling which substances enter and leave the cell",
+        "Providing a fluid site where chemical reactions occur"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Amoeba proteus carries out all required life processes within a single cell membrane. Which statement accurately describes this organism?",
+      "options": [
+        "It is a unicellular organism because it consists of only one independent living cell.",
+        "It is a multicellular organism because its cytoplasm is divided into distinct regions.",
+        "It is a non-living entity because living organisms require specialized organ systems.",
+        "It is an incomplete tissue because it lacks a cell wall to form a full organ."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why can a large multicellular organism perform complex biological tasks more efficiently than a unicellular organism?",
+      "options": [
+        "All cells in a multicellular organism perform identical tasks at the exact same rate.",
+        "Multicellular organisms are composed of multiple cells that specialise in different jobs.",
+        "Multicellular organisms possess cells that can survive without any nutrients.",
+        "Unicellular organisms lack nuclei, whereas all cells in multicellular organisms possess them."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "A scientist observes a layer of similar cells working together to line the inner surface of the human stomach. How should this collection of cells be classified?",
+      "options": [
+        "An organ system",
+        "A tissue",
+        "An organelle",
+        "A single organism"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "The heart consists of muscle tissue, nerve tissue, and connective tissue working together to pump blood throughout the body. The heart itself works alongside blood vessels in the body. Which term correctly describes the heart?",
+      "options": [
+        "Tissue",
+        "Organelle",
+        "Organ",
+        "Cell"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Euglena is a unicellular organism living in freshwater ponds. It possesses a flagellum that allows it to swim toward light. How does this structure aid its survival?",
+      "options": [
+        "It allows Euglena to change into a multicellular plant when light is absent.",
+        "It is an adapted structure that enables movement toward light for photosynthesis.",
+        "It acts as an organ system that digests food outside the cell body.",
+        "It hardens into a cell wall to protect the cell from bursting in water."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Why do scientists require optical instruments like light microscopes to observe human cheek cells?",
+      "options": [
+        "Cheek cells exist only as invisible gas particles under normal conditions.",
+        "Most cells are far too small to be seen or resolved by the unaided human eye.",
+        "Cheek cells only become solid when exposed to high-power light beams.",
+        "Human eyes reflect light in a way that makes single cells appear transparent."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A student views an unstained plant tissue slide at low magnification and sees vague translucent outlines. Which adjustment procedure would best reveal fine internal structures?",
+      "options": [
+        "Decreasing the light source and removing the objective lens completely.",
+        "Increasing the magnification and carefully adjusting the fine focus knob.",
+        "Moving the slide off the stage to change the light wavelength.",
+        "Switching to a lower magnification objective while closing the diaphragm completely."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which set of structures is present in BOTH a palisade leaf cell and a human cheek cell?",
+      "options": [
+        "Cell wall, chloroplast, nucleus, vacuole",
+        "Cytoplasm, cell membrane, nucleus, mitochondria",
+        "Cell wall, cytoplasm, mitochondria, vacuole",
+        "Chloroplast, cell membrane, cytoplasm, nucleus"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "An unknown cell sample under a microscope shows a cell wall, a large central vacuole, and green chloroplasts. What type of cell is this?",
+      "options": [
+        "An animal cell from red muscle tissue",
+        "A plant cell from photosynthetic tissue",
+        "A unicellular animal like a Paramecium",
+        "A specialized human nerve cell"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Root hair cells are plant cells that lack chloroplasts and have a long hair-like extension. Why do they have this specific shape and structure?",
+      "options": [
+        "To absorb sunlight underground through extended surface area.",
+        "To maximize surface area for absorbing water and minerals from soil.",
+        "To trap air bubbles and help the root float in wet soil.",
+        "To store starch granules produced during root photosynthesis."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A student prepares a slide of clear onion epidermal cells but struggles to see the nuclei clearly. Why does adding iodine solution help?",
+      "options": [
+        "Iodine dissolves the cell wall so light can pass straight through the nucleus.",
+        "The stain binds to specific cell components, creating visual contrast.",
+        "Iodine magnifies the cell structures by two times without changing lenses.",
+        "The stain freezes the cytoplasm to stop all chemical reactions instantly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "When producing a scientific line drawing of cells viewed under a microscope, which rule should be followed?",
+      "options": [
+        "Use heavy artistic shading and 3D perspective lines to make it look realistic.",
+        "Draw clear, unbroken outlines in pencil without freehand shading.",
+        "Sketch only the outline of the slide frame and color the cells brightly.",
+        "Include imaginative internal organelles even if they were not visible."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which statement best describes the limitation of standard animal and plant cell diagrams?",
+      "options": [
+        "Standard diagrams are exact replicas of every cell found in nature.",
+        "They show common baseline features, but real cells vary greatly and may lack or add features.",
+        "They only represent dead cells, while living cells lack nuclei and cytoplasm.",
+        "They show 3D structures, whereas real cells are strictly two-dimensional planes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Red blood cells lack a nucleus and have a biconcave disc shape. How does this specialized structure relate to their specific function?",
+      "options": [
+        "It allows them to divide rapidly while transporting oxygen around the body.",
+        "It increases surface area and space for hemoglobin to carry oxygen efficiently.",
+        "It provides rigid support to keep blood vessels open under high pressure.",
+        "It enables them to synthesize new proteins quickly in the bloodstream."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Which of the following correctly pairs a specialized cell with its organism type and function?",
+      "options": [
+        "Red blood cell - Plant cell - Absorbs water from soil",
+        "Root hair cell - Plant cell - Absorbs water and minerals from soil",
+        "Root hair cell - Animal cell - Moves oxygen through the bloodstream",
+        "Red blood cell - Plant cell - Carries out high rates of photosynthesis"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "An unidentified specimen under observation takes in nutrients, releases energy via respiration, removes metabolic waste, reacts to stimuli, grows, and reproduces. What can be concluded?",
+      "options": [
+        "It is a non-living chemical crystal formation.",
+        "It is a living organism performing standard life processes.",
+        "It is an organelle operating outside of a cellular structure.",
+        "It is a virus that lacks cellular organization."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "A piece of driftwood drifts down a river, while a tiny unicellular Chlamydomonas swims toward a light source using its flagella. Why is only the Chlamydomonas showing movement as a sign of life?",
+      "options": [
+        "The driftwood moves faster than the Chlamydomonas.",
+        "Chlamydomonas propels itself purposefully, whereas the driftwood is moved by external forces.",
+        "Driftwood is made of plant cells, which never display movement.",
+        "Only movement in water counts as a life process for non-microscopic objects."
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 31
