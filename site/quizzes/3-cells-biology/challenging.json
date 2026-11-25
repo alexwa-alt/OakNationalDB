@@ -1,6 +1,6 @@
 {
   "unitKey": "3CellsBiology",
-  "generatedAt": "2026-11-24T19:36:53.227578+00:00",
+  "generatedAt": "2026-11-25T18:44:40.825665+00:00",
   "questions": [
     {
       "question": "A student looks at a cheek cell under a microscope and describes it as a flat circle. Why is this description incomplete?",
@@ -881,6 +881,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 31
+    },
+    {
+      "question": "A student draws a cell as a flat circle on paper. Why is this 2D representation potentially misleading about a real biological cell?",
+      "options": [
+        "Real cells are flat disks with zero thickness.",
+        "Real cells have volume and depth, existing as 3D structures despite appearing flat in simple diagrams.",
+        "Real cells only become 3D when they undergo cell division.",
+        "Real cells are completely hollow spheres filled only with air."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "An animal cell loses its ability to release energy from glucose during respiration. Which cellular structure is most likely malfunctioning?",
+      "options": [
+        "Nucleus",
+        "Cell membrane",
+        "Mitochondria",
+        "Cytoplasm"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "An organism consists of a single cell that carries out all necessary life functions for survival. How should this organism be classified?",
+      "options": [
+        "It is a multicellular organism because it performs multiple functions.",
+        "It is a unicellular organism because its entire body consists of one single living cell.",
+        "It is not a living organism because living things require specialized organs.",
+        "It is a tissue fragment that separated from a larger animal."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why can multicellular organisms develop complex structures like tissues and organs, whereas single-celled organisms cannot?",
+      "options": [
+        "Multicellular organisms contain millions of identical cells that perform the exact same job.",
+        "Multicellular organisms consist of more than one cell, where different cells take on different specialized jobs.",
+        "Single-celled organisms do not perform any life processes.",
+        "Single-celled organisms lack genetic material needed to carry out jobs."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which of the following correctly orders biological organizational levels from least complex to most complex?",
+      "options": [
+        "Tissue -> Cell -> Organ system -> Organ",
+        "Cell -> Organ -> Tissue -> Organ system",
+        "Cell -> Tissue -> Organ -> Organ system",
+        "Organ system -> Organ -> Tissue -> Cell"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Unicellular organisms such as Amoeba or Paramecium do not have organs. How do they manage to stay alive in freshwater environments?",
+      "options": [
+        "They form temporary organs made of smaller cells to digest food.",
+        "They have specific cell structures adapted to carry out functions like water regulation and movement.",
+        "They rely on neighboring plant cells to perform life processes for them.",
+        "They switch between being unicellular and multicellular depending on temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A student views a plant tissue slide under a microscope, but the cells appear blurry and too small to distinguish any structures. What actions should they take?",
+      "options": [
+        "Increase the illumination without adjusting any focus controls.",
+        "Adjust the focus of the light microscope to sharpen the image and change magnification to see smaller structures clearly.",
+        "Remove the cover slip and stain the slide directly while on high power.",
+        "Turn off the light source and use a larger eye piece lens."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A student observes a plant root cell under a microscope and notices a cell wall and vacuole, but NO chloroplasts. What is the correct conclusion?",
+      "options": [
+        "It must be an animal cell because it lacks chloroplasts.",
+        "It is a plant cell that does not perform photosynthesis because root cells are underground and unexposed to light.",
+        "It is a unicellular bacterium because plant cells always contain chloroplasts.",
+        "It is a dead cell that has lost all its internal structures."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "Root hair cells in plants have an elongated shape that projects outward into the soil. How does this adaptation assist the plant?",
+      "options": [
+        "It allows the cell to carry out photosynthesis underground.",
+        "It provides a large surface area to absorb water and minerals effectively from the soil.",
+        "It protects the root from being eaten by herbivorous animals.",
+        "It allows the cell to store excess starch produced by the leaves."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "When preparing an onion cell slide, a student finds it difficult to distinguish the nucleus from the surrounding cytoplasm. Why is adding iodine stain recommended?",
+      "options": [
+        "The stain dissolves the cell membrane to make the nucleus larger.",
+        "The stain highlights cell structures by increasing visual contrast, making parts like the nucleus easier to see.",
+        "The stain magnifies the cell structures by bending light rays.",
+        "The stain fixes the cell so that it stops moving across the slide."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "When recording observations of microscope slides as scientific line drawings, which rule must be followed?",
+      "options": [
+        "Use dark shading and coloring to make the cell structures look realistic.",
+        "Use clear, continuous pencil lines without shading to accurately show observed structures and relative proportions.",
+        "Use sketchy, overlapping pencil lines to convey a 3D effect.",
+        "Draw every single cell visible in the field of view regardless of clarity."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "A bacterial cell has a cell membrane and cytoplasm, but lacks a membrane-bound nucleus. How does this relate to cell models?",
+      "options": [
+        "The cell model is wrong because all living cells must contain a nucleus.",
+        "Cell models represent standard features, but real cells vary and may lack some typical features or have additional ones.",
+        "Bacteria are non-living because they do not fit the plant or animal cell model.",
+        "The bacterial cell is an animal cell that lost its nucleus over time."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Red blood cells have a biconcave disc shape and lack a nucleus. How does this specialization relate to their function?",
+      "options": [
+        "It allows them to divide rapidly to repair damaged tissue.",
+        "It maximizes space for carrying oxygen and allows flexibility to pass through narrow blood vessels.",
+        "It prevents them from absorbing water from blood plasma.",
+        "It enables them to carry out cellular respiration at a higher rate than other cells."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Which pair correctly matches a specialised animal cell and a specialised plant cell to their key structural adaptations?",
+      "options": [
+        "Red blood cell (biconcave shape without a nucleus) and root hair cell (extended hair-like projection for absorption).",
+        "Red blood cell (contains chloroplasts for energy) and root hair cell (has flagella for movement).",
+        "Red blood cell (thick cell wall for support) and root hair cell (lacks cell membrane).",
+        "Red blood cell (large central vacuole) and root hair cell (nucleus that contracts)."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A robot can move around, respond to light signals, and consume electrical energy. Why is it NOT considered a living organism?",
+      "options": [
+        "Because it moves faster than biological organisms.",
+        "Because to be classified as living, an organism must display ALL life processes, including reproduction and growth.",
+        "Because electricity cannot be used by living things.",
+        "Because it is larger than a single cell."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Which list includes ONLY life processes that occur in all living organisms?",
+      "options": [
+        "Movement, respiration, sensitivity, growth, reproduction, excretion, nutrition.",
+        "Thinking, breathing, walking, sleeping, eating, growing, dying.",
+        "Photosynthesis, circulation, digestion, excretion, respiration, movement, sight.",
+        "Cell wall formation, swimming, hunting, growth, reproduction, breathing, resting."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "In an experiment, sterile nutrient broth left sealed in a flask shows no microbial growth. What fundamental biological principle does this support?",
+      "options": [
+        "Nutrients cannot support life without oxygen.",
+        "All living organisms are produced from other living organisms through reproduction.",
+        "Unicellular organisms can only grow inside animal host cells.",
+        "Cells spontaneously form only when exposed to sunlight."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "A piece of seaweed drifts in ocean currents, while a fish swims against the current toward prey. Why is the fish's action classified as the life process of movement?",
+      "options": [
+        "The fish moves faster than the seaweed.",
+        "The fish actively moves itself to achieve a purpose, whereas the seaweed is moved passively by external forces.",
+        "Only animals exhibit movement; plants and algae never move.",
+        "The fish is made of cells while the seaweed is not."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "A caterpillar undergoes metamorphosis to become a butterfly. At what point in this lifecycle do the basic life processes occur?",
+      "options": [
+        "Only during the adult butterfly stage when reproduction occurs.",
+        "At all stages of the lifecycle, including egg, caterpillar, chrysalis, and adult butterfly.",
+        "Only during the caterpillar stage when it feeds and grows.",
+        "Only when the butterfly is actively flying."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "Which list contains structures that are common to BOTH plant cells and animal cells?",
+      "options": [
+        "Cell wall, chloroplasts, nucleus, mitochondria",
+        "Cytoplasm, cell membrane, nucleus, mitochondria",
+        "Vacuole, cell wall, cytoplasm, cell membrane",
+        "Chloroplasts, cell membrane, cytoplasm, nucleus"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
     }
   ]
 }

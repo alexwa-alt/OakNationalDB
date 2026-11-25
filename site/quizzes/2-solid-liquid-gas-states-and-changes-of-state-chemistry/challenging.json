@@ -1,6 +1,6 @@
 {
   "unitKey": "2Solid, liquid, gas states and changes of stateChemistry",
-  "generatedAt": "2026-11-24T19:36:21.228553+00:00",
+  "generatedAt": "2026-11-25T18:43:52.286177+00:00",
   "questions": [
     {
       "question": "If pure water is heated until it boils at 100°C, at what temperature will the resulting steam begin to condense back into liquid water if it is cooled under the same atmospheric pressure?",
@@ -1098,6 +1098,226 @@
         "It maintains a fixed rigid shape independent of the dish.",
         "It compresses into half its original volume.",
         "It expands to fill the entire room like a gas."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Pure water vapor is being cooled down from 120°C. At what temperature will it begin to condense into liquid water, and how does this compare to its boiling point?",
+      "options": [
+        "It condenses at 100°C, which is the exact same temperature as its boiling point.",
+        "It condenses at 0°C, which is much lower than its boiling point.",
+        "It condenses at 100°C, which is higher than its boiling point of 90°C.",
+        "It condenses at 90°C, which is lower than its boiling point of 100°C."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "When a liquid sample is boiled into a gas inside a flexible, sealed container, what change occurs to the volume occupied by the substance?",
+      "options": [
+        "The volume stays exactly the same because the mass of particles does not change.",
+        "The volume decreases because gas particles pack tighter together.",
+        "The volume increases because the substance increases in volume in the gas state when boiled.",
+        "The volume decreases because gas particles lose energy when heated."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "A container of steam is cooled until all of it condenses into liquid water. What happens to the volume taken up by the water?",
+      "options": [
+        "The volume increases because liquid water takes up more space than steam.",
+        "The volume decreases because a substance decreases in volume in the liquid state when condensed.",
+        "The volume remains identical because the number of particles is conserved.",
+        "The volume increases because condensation creates extra liquid particles."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Which statement correctly describes how particle spacing changes during boiling compared to condensation?",
+      "options": [
+        "Particles move closer together when boiled and further apart when condensed.",
+        "Particles move further apart when boiled and move closer together when condensed.",
+        "Particles remain at a constant distance during both boiling and condensation.",
+        "Particles shrink in size when boiled and expand in size when condensed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "A student wants to heat a beaker of water quickly and cleanly using a Bunsen burner. How should they adjust the air hole, and what flame will result?",
+      "options": [
+        "Close the air hole completely to produce a quiet orange flame.",
+        "Open the air hole to change the flame from orange and sooty to a hotter, cleaner, blue flame.",
+        "Open the air hole halfway to produce a yellow, cool flame that leaves soot.",
+        "Close the air hole to make the flame hotter and blue."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "When carrying a lit wooden splint across the laboratory to light a Bunsen burner, how should the splint be held for safety?",
+      "options": [
+        "Pointed straight up in the air without any shield.",
+        "With the flame angled slightly downwards and shielded by the other hand.",
+        "Held horizontally right near your eyes to keep watch on the flame.",
+        "Angled upwards with the flame held close to your body."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "Comparing equal masses of the same pure substance in its solid, liquid, and gas states, which state contains the particles with the most energy and which has the least?",
+      "options": [
+        "Liquid states have the most energy, solid states have the least energy.",
+        "Solid states have the least energy, gas states have the most energy.",
+        "Gas states have the least energy, solid states have the most energy.",
+        "All three states have identical energy amounts regardless of temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "A puddle of water on a pavement disappears on a cool day when the air temperature is 15°C. Which statement explains this observation?",
+      "options": [
+        "Water can only change to gas when it reaches 100°C.",
+        "The water must have soaked into the air by melting into a gas.",
+        "A substance in its liquid state can evaporate at temperatures below its boiling point.",
+        "Water boils automatically whenever it touches a solid surface."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Two identical shallow dishes each contain 50 mL of water. Dish A is kept at 30°C and Dish B is kept at 10°C. Which dish will evaporate to dryness first and why?",
+      "options": [
+        "Dish B, because cooler water evaporates faster than warm water.",
+        "Dish A, because the hotter the water, the more quickly it evaporates.",
+        "Both dishes will dry out at the exact same time because evaporation rate is constant.",
+        "Dish B, because lower temperatures cause particles to escape into gas faster."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Which of the following correctly describes the state change taking place when a substance melts?",
+      "options": [
+        "The substance changes from the liquid state to the solid state.",
+        "When it melts, a substance changes from the solid state to the liquid state.",
+        "The substance changes from the liquid state directly to the gas state.",
+        "The substance changes from the gas state to the solid state."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "The melting point of the metal gallium is 30°C. What state of matter will a sample of pure gallium be in when kept in a room at 18°C?",
+      "options": [
+        "Liquid state, because 18°C is warm enough for gallium to flow.",
+        "Gas state, because metals evaporate easily below room temperature.",
+        "Solid state, because at temperatures below its melting point, a substance is in its solid state.",
+        "A mixture of liquid and gas states."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "A pure sample of substance X melts at 55°C. What is the freezing point of pure substance X?",
+      "options": [
+        "0°C, because all substances freeze at the same temperature as water.",
+        "110°C, because freezing happens at double the melting temperature.",
+        "55°C, because the melting point and freezing point of a pure substance are the same temperature.",
+        "-55°C, because freezing is the negative equivalent of melting."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Why does a block of solid copper maintain a fixed shape and resist being compressed into a smaller volume?",
+      "options": [
+        "Particles in the solid state are free to move and slide over each other easily.",
+        "In the solid state, forces of attraction between particles hold them in fixed positions.",
+        "High energy in solid particles causes them to push outwards against the surroundings.",
+        "There are large gaps between solid particles filled with air that hold the shape."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which statement accurately describes the arrangement and motion of particles in a liquid state?",
+      "options": [
+        "They are held in rigid fixed positions and can only vibrate.",
+        "They have no attractive forces between them and move in straight lines far apart.",
+        "Particles are held together but have enough energy to break free to move around.",
+        "They expand and compress easily to fill the entire container volume."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Substance A has a melting point of 801°C, while Substance B has a melting point of -114°C. What does this tell us about the forces between their particles?",
+      "options": [
+        "Substance B has stronger forces of attraction between its particles than Substance A.",
+        "Substance A has stronger forces of attraction because the stronger the force of attraction between particles, the higher its melting point.",
+        "Both substances have equal forces of attraction between their particles.",
+        "Substance A has weaker forces of attraction because high heat destroys attractions faster."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "A student measures three benchmark temperatures: pure water freezing, standard room temperature, and normal human body temperature. Which set of values is correct?",
+      "options": [
+        "Water freezes at 0ºC, room temperature is about 20ºC and body temperature is about 37ºC.",
+        "Water freezes at 10ºC, room temperature is about 25ºC and body temperature is about 100ºC.",
+        "Water freezes at -5ºC, room temperature is about 15ºC and body temperature is about 50ºC.",
+        "Water freezes at 0ºC, room temperature is about 37ºC and body temperature is about 20ºC."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Which set of properties correctly describes a substance in the gas state?",
+      "options": [
+        "Fixed shape, cannot flow, and cannot be compressed.",
+        "Fills the shape of its container, cannot flow, and cannot be compressed.",
+        "In the gas state a substance can flow, it fills the whole of a container and can be compressed.",
+        "Fixed shape, can flow, and can be compressed easily."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Why are gas particles able to spread out and move freely throughout an entire sealed container?",
+      "options": [
+        "They are held by strong forces that pull them outward towards container walls.",
+        "In the gas state, particles have enough energy to be free of the attractive forces between them.",
+        "Gas particles constantly divide into smaller particles that occupy more room.",
+        "Liquid forces push the gas particles apart when heating begins."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "What is present in the space between individual particles of a gas inside a sealed container?",
+      "options": [
+        "Air particles.",
+        "Heat energy fluid.",
+        "There is nothing at all between the particles in a gas.",
+        "Tiny dust grains."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A student pours 100 mL of olive oil from a tall measuring cylinder into a broad glass bowl. What happens to the shape, flow, and compressibility of the oil?",
+      "options": [
+        "In the liquid state it can flow, fills the shape of its container, and cannot be compressed.",
+        "It keeps a fixed shape, does not flow, but can be compressed.",
+        "It expands to fill the entire room, flows, and can be compressed.",
+        "It changes shape, does not flow, and can be compressed easily."
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 31

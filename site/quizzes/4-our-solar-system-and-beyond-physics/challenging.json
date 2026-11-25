@@ -1,6 +1,6 @@
 {
   "unitKey": "4Our solar system and beyondPhysics",
-  "generatedAt": "2026-09-04T12:51:05.775876+00:00",
+  "generatedAt": "2026-11-25T18:46:07.684019+00:00",
   "questions": [
     {
       "question": "In ancient times, people observed the Sun rising and setting, and stars shifting across the night sky. Based on these immediate, unfiltered sensory observations, which of the following models of the universe did they construct?",
@@ -441,6 +441,226 @@
       ],
       "correctAnswerIndex": 1,
       "learningPointIndex": 33
+    },
+    {
+      "question": "Before the 16th century, what was the most widely held belief about Earth's position in the universe?",
+      "options": [
+        "Earth was located at the centre of the universe, with celestial bodies orbiting it.",
+        "Earth orbited the Sun, which was positioned at the absolute centre of the universe.",
+        "Earth floated in a pathless void with no fixed relationship to other celestial bodies.",
+        "Earth was recognized as one of eight planets orbiting a central star."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Why did human understanding of the universe change dramatically following the development of the telescope?",
+      "options": [
+        "Telescopes allowed scientists to measure the speed of Earth's spin directly for the first time.",
+        "Telescopes provided observational evidence that helped explain and model the universe.",
+        "Telescopes reversed Earth's gravitational force on distant celestial objects.",
+        "Telescopes proved that stars are much closer to Earth than the planets."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Earth's axis of rotation is tilted relative to its orbital path around the Sun. At what angle is Earth's axis tilted?",
+      "options": [
+        "0.0 degrees",
+        "15.0 degrees",
+        "23.5 degrees",
+        "45.0 degrees"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "In what direction does the gravitational force of a planet act on an object near its surface?",
+      "options": [
+        "Towards the centre of the planet.",
+        "Parallel to the planet's equator.",
+        "Perpendicular to the direction of the planet's rotation.",
+        "Towards the nearest star outside the solar system."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How does an object's mass affect the strength of its gravitational pull?",
+      "options": [
+        "Objects with greater mass exert a stronger gravitational force.",
+        "Objects with greater mass exert a weaker gravitational force.",
+        "Mass has no effect on the strength of gravitational force.",
+        "Gravitational force depends only on surface temperature, not mass."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "A space probe travels further and further away from Earth into space. What happens to Earth's gravitational pull on the probe?",
+      "options": [
+        "It drops immediately to zero as soon as the probe leaves Earth's atmosphere.",
+        "It extends far into space, becoming weaker with distance.",
+        "It remains constant regardless of distance.",
+        "It increases in strength as distance increases."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 10
+    },
+    {
+      "question": "What effect does Earth's gravity have on the Moon as it travels through space?",
+      "options": [
+        "It pulls the Moon towards Earth's centre, constantly changing the Moon's direction to keep it in orbit.",
+        "It pushes the Moon outward away from Earth, preventing collisions.",
+        "It stops the Moon from spinning on its axis.",
+        "It speeds up the Moon in a straight path away from Earth."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Why does Earth follow a continuous orbital path around the Sun rather than traveling off in a straight line?",
+      "options": [
+        "The Sun's gravity pulls Earth toward the Sun's centre, continuously changing Earth's direction.",
+        "Earth is pushed along by solar winds blowing outward from the Sun's surface.",
+        "Space contains physical circular tracks that guide planet movement.",
+        "Earth's magnetic field repels other planets, forcing a curve."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "A solar panel is heated using a lamp. Under which angle of alignment is the heating effect on the panel's surface most effective?",
+      "options": [
+        "When light arrives from directly overhead.",
+        "When light arrives at a very shallow angle to the surface.",
+        "When light rays run parallel to the surface.",
+        "The angle of incoming light makes no difference to heating effectiveness."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "Why does light hitting a surface face-on cause a stronger heating effect than light hitting at a shallow angle?",
+      "options": [
+        "Rays hitting face-on are less spread out over the surface area than rays hitting at an angle.",
+        "Light rays travel significantly faster when hitting a surface face-on.",
+        "Rays hitting at an angle lose all energy before reaching the surface.",
+        "Light rays hitting face-on attract stronger gravitational forces from the surface."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "At a specific location on Earth, at which time of day is the heating effect from the Sun at its greatest?",
+      "options": [
+        "At sunrise, when sunlight first reaches the ground.",
+        "At midday, when the Sun reaches its highest point in the sky.",
+        "At sunset, just before night begins.",
+        "At midnight, due to atmospheric heat storage."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which motion causes the continuous change in the Sun's height in the sky and the angle of solar rays over a single day?",
+      "options": [
+        "Earth spinning on its axis.",
+        "Earth orbiting around the Sun over a full year.",
+        "The Sun orbiting the centre of the galaxy.",
+        "The Moon orbiting around Earth once a month."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How do the distances between objects in our solar system compare to the physical sizes of those objects?",
+      "options": [
+        "Distances between objects are very large compared to the sizes of the objects.",
+        "Distances are roughly equal to the diameters of the largest planets.",
+        "Objects are much larger than the distances separating them.",
+        "Distances are extremely small, causing frequent overlaps between planets."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "As Earth orbits the Sun throughout the year, what happens to the direction of its tilted axis in space?",
+      "options": [
+        "The axis continuously turns to point directly at the Sun at all times.",
+        "The axis flips 180 degrees every six months.",
+        "The axis does not change its tilt direction in space.",
+        "The axis wobbles rapidly to reverse direction daily."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What tilt orientations and seasons occur in December for the northern and southern hemispheres?",
+      "options": [
+        "Northern tilts towards the Sun (summer); southern tilts away (winter).",
+        "Northern tilts away from the Sun (winter); southern tilts towards (summer).",
+        "Both hemispheres tilt towards the Sun at the same time (summer for both).",
+        "Both hemispheres tilt away from the Sun at the same time (winter for both)."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Why do countries located near the Equator not experience major seasonal temperature changes like summer and winter?",
+      "options": [
+        "They stay close to face-on to the Sun's rays all year.",
+        "Earth's tilt disappears completely near the Equator.",
+        "The Equator is significantly closer to the Sun than the poles.",
+        "Gravity at the Equator prevents surface temperature changes."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why do stars in the night sky appear much smaller and dimmer than the Sun?",
+      "options": [
+        "Because they are much further away than the Sun.",
+        "Because they are small solid rocks that reflect light weakly.",
+        "Because their light is absorbed by Earth's atmosphere.",
+        "Because they emit cold gas instead of hot light."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "What is a light-year, as used by scientists to express distances in space?",
+      "options": [
+        "The time taken for light to travel from the Sun to Earth.",
+        "The distance light travels in one year.",
+        "The total light emitted by a star over its lifetime.",
+        "The time Earth takes to complete one orbit around the Sun."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "How are stars organised within the universe?",
+      "options": [
+        "They are evenly spaced in a single line across the cosmos.",
+        "They are grouped into galaxies, each containing billions of stars.",
+        "They orbit directly around Earth in a rigid spherical shell.",
+        "They exist exclusively as pairs inside solar systems."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "How long does it take the Moon to orbit Earth once, giving rise to its changing apparent shapes?",
+      "options": [
+        "About 24 hours.",
+        "About 27.3 days.",
+        "About 365.25 days.",
+        "About 10 years."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 36
     }
   ]
 }

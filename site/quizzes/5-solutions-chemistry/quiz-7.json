@@ -1,0 +1,226 @@
+{
+  "unitKey": "5SolutionsChemistry",
+  "generatedAt": "2026-11-25T18:47:14.228270+00:00",
+  "questions": [
+    {
+      "question": "What is Brownian motion?",
+      "options": [
+        "The continuous movement of water through plant roots",
+        "The random motion of particles suspended in a medium",
+        "The chemical reaction between an acid and an alkali",
+        "The process of a solid changing state directly into a gas"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "How does increasing the temperature of a gas or solution affect its particles?",
+      "options": [
+        "The particles move more quickly.",
+        "The particles stop moving entirely.",
+        "The particles move more slowly.",
+        "The particles decrease in number."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "Why is a suspension different from a true solution?",
+      "options": [
+        "Solid particles in a suspension can be seen and will settle over time.",
+        "Suspensions can never contain liquid particles.",
+        "Suspensions are completely clear and transparent.",
+        "Particles in a suspension are permanently destroyed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "What must be overcome between solute particles in order for a substance to dissolve?",
+      "options": [
+        "Forces of gravity acting on the beaker",
+        "Atmospheric pressure around the container",
+        "Forces of attraction between solute particles",
+        "Chemical bonds within the liquid medium"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why can mixing two liquids sometimes result in a total volume that is less than expected?",
+      "options": [
+        "Particles of one substance fit into spaces between particles of the other.",
+        "Some of the liquid particles are completely destroyed during mixing.",
+        "The liquids react to form a heavy solid at the bottom.",
+        "The mass of the liquids vanishes into the air."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Which statement correctly describes dissolving and melting?",
+      "options": [
+        "Both are chemical reactions that form new products.",
+        "Neither requires energy changes to occur.",
+        "Dissolving is a chemical change, while melting is a physical change.",
+        "Dissolving is not the same as melting, but both are physical processes."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "When is a solution formed?",
+      "options": [
+        "When an insoluble solid settles at the bottom of a container",
+        "When a soluble solid dissolves in an appropriate solvent",
+        "When two immiscible liquids separate into two layers",
+        "When a gas turns into a solid without becoming a liquid"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "If 10 g of salt is completely dissolved in 100 g of water, what is the total mass of the resulting solution?",
+      "options": [
+        "90 g",
+        "100 g",
+        "110 g",
+        "1000 g"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "Which piece of equipment and unit are standard for measuring liquid volume in the laboratory?",
+      "options": [
+        "Balance, measured in grams (g)",
+        "Thermometer, measured in degrees Celsius (°C)",
+        "Measuring cylinder, measured in cm³",
+        "Ruler, measured in mm"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "How can laboratory equipment be visually communicated in scientific reports?",
+      "options": [
+        "2D drawings/images",
+        "3D painted sculptures",
+        "Written paragraphs only, with no diagrams",
+        "Photographs of random objects"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What defines a pure material in chemistry?",
+      "options": [
+        "It contains a mixture of three or more elements.",
+        "It is made of only one type of substance.",
+        "It is always transparent and liquid.",
+        "It dissolves instantly in any liquid."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What is true about the melting and boiling points of a pure material?",
+      "options": [
+        "They change continuously depending on the time of day.",
+        "They cannot be measured in a laboratory.",
+        "They are fixed and constant.",
+        "They vary widely across a broad range of temperatures."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "How do impurities affect the melting and boiling points of a material?",
+      "options": [
+        "They keep the melting and boiling points completely unchanged.",
+        "They change the melting and boiling point of the material.",
+        "They prevent the substance from ever boiling or melting.",
+        "They force the boiling point to equal room temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Which statement correctly describes a mixture?",
+      "options": [
+        "It contains only one element chemically bonded together.",
+        "It contains two or more types of substances which can be easily separated.",
+        "It cannot be separated by physical methods like filtration.",
+        "It has a single, fixed chemical composition."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Unlike pure substances, how do mixtures melt or boil?",
+      "options": [
+        "At a single precise temperature point",
+        "Over a range of temperatures",
+        "Without absorbing or releasing heat",
+        "Only when placed under vacuum"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "At a given temperature, what limit exists when dissolving a solute in a solvent?",
+      "options": [
+        "Infinite amounts of solute can keep dissolving forever.",
+        "There is a limit to how much solute can dissolve in a solvent.",
+        "The solvent will immediately turn into a gas.",
+        "The solute will turn into a completely new element."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "What can happen to a dissolved solute as a warm solution cools down?",
+      "options": [
+        "The solute may become insoluble and form solid particles.",
+        "The mass of the solute multiplies.",
+        "The solvent turns into solid metal.",
+        "The solute permanently evaporates."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Which of the following factors can affect the solubility of a substance?",
+      "options": [
+        "The shape of the lab bench",
+        "The choice or temperature of the solvent",
+        "The color of the measuring cylinder",
+        "The time of day the experiment is done"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "In a scientific investigation, what is the independent variable?",
+      "options": [
+        "The variable that is kept constant to make the test fair",
+        "The variable that is changed in the investigation",
+        "The final conclusion written at the end",
+        "The measurement tool used to collect data"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "What are variables called when they are kept the same each time in an experiment?",
+      "options": [
+        "Dependent variables",
+        "Independent variables",
+        "Control variables",
+        "Random variables"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 40
+    }
+  ]
+}
