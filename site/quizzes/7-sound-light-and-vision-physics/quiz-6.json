@@ -1,0 +1,226 @@
+{
+  "unitKey": "7Sound, light and visionPhysics",
+  "generatedAt": "2026-11-27T18:28:16.110880+00:00",
+  "questions": [
+    {
+      "question": "Which of the following best describes a luminous object?",
+      "options": [
+        "An object that absorbs all light that hits it",
+        "An object that gives out its own light",
+        "An object that only reflects light from another source",
+        "An object that bends light passing through it"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "What happens to light rays when they strike an irregular, non-mirror surface?",
+      "options": [
+        "They are completely absorbed and destroyed",
+        "They scatter in many different directions",
+        "They pass straight through without changing direction",
+        "They reflect in a single, perfectly uniform beam"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "Where in the human eye is light detected by a light-sensitive surface?",
+      "options": [
+        "The iris",
+        "The lens",
+        "The pupil",
+        "The retina"
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "What is an echo?",
+      "options": [
+        "A sound wave passing through a vacuum",
+        "A sound heard again after reflecting off a hard surface",
+        "A change in pitch caused by moving away from a source",
+        "A sound wave absorbing energy from soft materials"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Why do soft materials absorb a large amount of sound energy?",
+      "options": [
+        "They reflect sound waves back toward the source",
+        "Sound waves transfer energy by making particles in the soft material vibrate",
+        "They contain a vacuum that stops sound from moving",
+        "Their particles are held so tightly that sound cannot enter"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "How can unwanted noise inside a room be reduced effectively?",
+      "options": [
+        "By using soft materials to absorb the sound",
+        "By removing all air from the room",
+        "By making the sound wave travel at a higher speed",
+        "By replacing smooth walls with thinner metal sheets"
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "In light reflection diagrams, what is the imaginary line called that is drawn at 90° to the surface at the point of reflection?",
+      "options": [
+        "The incident ray",
+        "The reflected ray",
+        "The normal",
+        "The focal line"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "If a ray of light hits a flat mirror with an angle of incidence of 35° to the normal, what will the angle of reflection be?",
+      "options": [
+        "0°",
+        "35°",
+        "55°",
+        "70°"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "If an object is placed 2 metres in front of a flat mirror, where does its image appear to be located?",
+      "options": [
+        "1 metre in front of the mirror",
+        "2 metres behind the mirror",
+        "4 metres behind the mirror",
+        "Directly on the mirror surface"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 17
+    },
+    {
+      "question": "What does it mean when we say an image in a plane mirror is laterally inverted?",
+      "options": [
+        "It is upside down",
+        "It is smaller than the object",
+        "Left and right are swapped",
+        "It is blurry and out of focus"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "Which statement correctly describes opaque objects?",
+      "options": [
+        "They transmit all light through them easily",
+        "They do not transmit light through them",
+        "They are completely invisible in daylight",
+        "They produce light of their own"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 19
+    },
+    {
+      "question": "Which of the following is a key property of how light travels?",
+      "options": [
+        "It travels in curved waves at low speed",
+        "It travels in straight lines at an extremely high speed",
+        "It requires a solid material to move forward",
+        "It slows down drastically as it enters empty space"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "What causes a shadow to form behind an object?",
+      "options": [
+        "Light bending around an object",
+        "An object blocking light, creating an unlit area",
+        "Sound waves pushing light away from the surface",
+        "Light being focused onto a single bright point"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "What is the fundamental cause of all sounds?",
+      "options": [
+        "Heat transfers",
+        "Vibrations",
+        "Light rays",
+        "Magnetic forces"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "What happens to a sound when the amplitude of its vibration increases?",
+      "options": [
+        "The pitch becomes higher",
+        "The sound becomes louder",
+        "The speed of sound increases",
+        "The sound becomes quieter"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Which characteristic of a sound wave increases as the frequency of vibrations increases?",
+      "options": [
+        "Volume",
+        "Amplitude",
+        "Pitch",
+        "Echo duration"
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "How does sound travel through a medium such as air or water?",
+      "options": [
+        "By particles travelling from the source directly to the ear",
+        "By vibrations being passed on between adjacent particles",
+        "By light energy carrying sound waves",
+        "By air particles disappearing and reappearing"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Why does sound travel faster through liquids than through gases?",
+      "options": [
+        "Liquids are colder than gases",
+        "Particles in liquids are closer together so vibrations pass on more easily",
+        "Liquids have no particles to block the sound",
+        "Sound waves gain amplitude in liquids"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Why does sound travel fastest through solid materials?",
+      "options": [
+        "Solids have large gaps between their particles",
+        "Strong attractive forces mean many particles vibrate when one does",
+        "Solids transmit light along with sound",
+        "Particles in solids move rapidly from place to place"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 31
+    },
+    {
+      "question": "Why is sound unable to travel through a vacuum?",
+      "options": [
+        "There is too much light in a vacuum",
+        "There are no particles to carry the vibrations",
+        "The gravitational force in a vacuum is too strong",
+        "Temperature in a vacuum stops all motion"
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    }
+  ]
+}

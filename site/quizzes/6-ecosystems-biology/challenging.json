@@ -1,6 +1,6 @@
 {
   "unitKey": "6EcosystemsBiology",
-  "generatedAt": "2026-10-18T12:49:21.880940+00:00",
+  "generatedAt": "2026-11-27T18:27:31.507987+00:00",
   "questions": [
     {
       "question": "A species of lizard has evolved a tail that easily detaches when grabbed, allowing it to escape while the predator is distracted by the wriggling tail. How does this adaptation compare to predator adaptations?",
@@ -880,6 +880,226 @@
         "It causes insect pollinators to visit the wheat flowers more frequently."
       ],
       "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "An Arctic hare has white fur in winter to blend into snow, while an owl hunting it has large forward-facing eyes and silent flight. Which statement best explains how these features function in this ecosystem?",
+      "options": [
+        "Both organisms use these traits exclusively to locate mates in harsh weather.",
+        "The hare's trait is a prey adaptation to avoid detection, while the owl's traits are predator adaptations for capturing prey.",
+        "The hare's trait allows it to hunt plants silently, while the owl's trait protects it from being eaten by hares.",
+        "Both traits are physical adaptations designed solely to tolerate cold temperature extremes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "A biologist studies a predatory mammal that hunts fast-moving herbivores in open grassland. Which combination of structural adaptations is most directly advantageous for this predator?",
+      "options": [
+        "Sharp forward-facing teeth, high-acuity eyesight, and powerful leg muscles for sprinting.",
+        "Broad flat molars, side-facing eyes with wide vision, and thick protective body armor.",
+        "Large digestive chambers for plant matter, nocturnal camouflage, and padded hooves.",
+        "Bright warning coloration, reduced eye size, and slow energy-conserving movement."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Chemical X was sprayed near a pond. Five years later, tests show Chemical X is still present in the exact same quantity in the mud. What property of Chemical X does this observation illustrate?",
+      "options": [
+        "Chemical X is biodegradable because it dissolved in the water.",
+        "Chemical X is persistent because it remains in the environment without breaking down.",
+        "Chemical X is a fertilizer because it promotes algal growth over long periods.",
+        "Chemical X is an abiotic component that naturally produces food for bacteria."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "In a marine bay contaminated with trace amounts of a persistent heavy metal, scientists measured toxic concentration per unit mass across organisms. Which organism would you expect to suffer the highest internal level of toxicity?",
+      "options": [
+        "Microscopic plankton floating near the surface.",
+        "Small herbivorous fish feeding directly on plankton.",
+        "Medium-sized carnivorous fish eating small fish.",
+        "Top predator sea eagles that consume medium-sized fish."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "Which of the following best describes what constitutes a complete ecosystem?",
+      "options": [
+        "Only the living animals and plants interacting within a forest.",
+        "A group of organisms of the exact same species living in a single area.",
+        "A community of living organisms interacting with each other and with non-living environmental factors.",
+        "The non-living elements of a landscape such as rocks, water, and temperature without biological components."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 7
+    },
+    {
+      "question": "A student lists elements of a pond habitat: water temperature, dissolved oxygen, freshwater snails, sunlight, and pondweed. How should these be categorized into abiotic and biotic parts?",
+      "options": [
+        "Abiotic: water temperature, dissolved oxygen, sunlight; Biotic: freshwater snails, pondweed.",
+        "Abiotic: freshwater snails, pondweed; Biotic: water temperature, dissolved oxygen, sunlight.",
+        "Abiotic: pondweed, water temperature; Biotic: dissolved oxygen, freshwater snails, sunlight.",
+        "Abiotic: sunlight, freshwater snails; Biotic: water temperature, dissolved oxygen, pondweed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Which statement correctly distinguishes producers from other living organisms in an ecosystem?",
+      "options": [
+        "Producers obtain energy primarily by absorbing decaying organic material from consumers.",
+        "Producers can manufacture their own food using energy sources, including green plants and some microorganisms.",
+        "Producers rely on eating herbivores to obtain essential carbohydrates and proteins.",
+        "Producers are only animals that produce offspring to sustain the local population."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "In a simple food chain diagram (Grass -> Rabbit -> Fox), what does the arrow pointing from the Rabbit to the Fox accurately represent?",
+      "options": [
+        "The physical movement of the fox traveling towards the rabbit.",
+        "The transfer of biomass and stored energy from the rabbit to the fox.",
+        "The competitive control the fox exerts over the rabbit's population size.",
+        "The transfer of carbon dioxide gas from the atmosphere into the fox."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "In a garden food chain consisting of Cabbage -> Caterpillar -> Thrush -> Hawk, a disease suddenly eliminates most of the Thrush population. What direct impact would this initial decline have on the Caterpillar population?",
+      "options": [
+        "Caterpillar numbers would increase because fewer thrushes are eating them.",
+        "Caterpillar numbers would decrease because thrushes are no longer available for caterpillars to eat.",
+        "Caterpillar numbers would instantly drop to zero because hawks would start eating cabbage.",
+        "Caterpillar numbers would remain completely unchanged because they only interact with cabbage."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "How does a food web diagram differ from a single food chain diagram?",
+      "options": [
+        "A food web diagram shows only non-living factors in an ecosystem.",
+        "A food web diagram depicts multiple interconnected food chains within a biological community.",
+        "A food web diagram only illustrates energy loss in top predators without including producers.",
+        "A food web diagram tracks the movement of individual organisms across geographic migration routes."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "If all photosynthetic organisms in a sealed biome were to die, why would all animal consumers eventually perish?",
+      "options": [
+        "Consumers would run out of oxygen to drink directly from plant roots.",
+        "Producers synthesize all the organic food that fuels the entire food chain, which consumers cannot make themselves.",
+        "Consumers depend on producers to hunt secondary predators in the web.",
+        "Producers break down persistent toxins that consumers absorb through skin contact."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 20
+    },
+    {
+      "question": "Which process must happen before an apple tree can successfully form edible fruit containing seeds?",
+      "options": [
+        "Seeds must be dispersed by birds to the flower stem before growth starts.",
+        "Pollen must be transferred from anthers to the stigma of flowers to achieve pollination.",
+        "Pesticides must be absorbed by the flower petals to turn into seed coat proteins.",
+        "Bioaccumulation must occur within the tree's roots to trigger root flowering."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "A flowering bush relies on bumblebees landing on its blossoms and later produces berries that blackbirds eat and pass in distant locations. How do these animals assist the plant?",
+      "options": [
+        "Bumblebees disperse seeds, while blackbirds perform pollination.",
+        "Bumblebees perform pollination, while blackbirds disperse seeds.",
+        "Both bumblebees and blackbirds perform pollination exclusively.",
+        "Both bumblebees and blackbirds assist only with seed dispersal."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "Why are flowering crop plants and pollinating insects described as interdependent?",
+      "options": [
+        "Insects rely on flowers for food energy, and plants rely on insects for pollination to produce seeds.",
+        "Plants consume insects for energy, while insects rely on plants for shelter against predators.",
+        "Insects convert pesticides into plant fertilizers, enabling crops to absorb abiotic water.",
+        "Plants act as top predators in the food chain to prevent insect overpopulation."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "How does protecting wild bee populations contribute to human food security?",
+      "options": [
+        "Bees directly synthesize synthetic fertilisers that nourish cereal crops.",
+        "Bees pollinate many agricultural crops, ensuring stable yields of fruits, nuts, and vegetables for humans.",
+        "Bees eliminate persistent toxins from farm soil through bioaccumulation.",
+        "Bees act as primary producers that convert sunlight into human-edible meat proteins."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A graph shows that when the population of snowshoe hares increases, the population of lynx increases shortly after. When hares decrease, lynx numbers drop. What does this cycle demonstrate?",
+      "options": [
+        "Lynx and hare populations operate completely independently of each other.",
+        "There is a dependent predator-prey relationship where changes in one population directly impact the other.",
+        "Lynx are producers whose population size is governed solely by sunlight availability.",
+        "Hares are top predators that control lynx numbers through toxic bioaccumulation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "An ecological surveyor records 45 different species of birds, 120 species of insects, and 30 species of plants in Woodland A, but only 5 species total in Woodland B. What ecological property is higher in Woodland A?",
+      "options": [
+        "Bioaccumulation level.",
+        "Biodiversity.",
+        "Abiotic concentration.",
+        "Persistence rate."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Clearing a tropical rainforest to construct roads and dumping untreated industrial waste into rivers are examples of which human activity?",
+      "options": [
+        "Ecosystem conservation that restores biodiversity.",
+        "Actions that cause habitat destruction and pollution, negatively impacting biodiversity.",
+        "Agricultural crop rotation designed to boost pollinator survival.",
+        "Gene bank management to preserve endangered plant species."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "Why do botanical scientists maintain seed banks containing thousands of samples of rare and wild plant species?",
+      "options": [
+        "To generate immediate persistent toxic substances for weed control.",
+        "To preserve genetic diversity so plant species can be restored if threatened in the wild.",
+        "To eliminate the need for natural insect pollination in commercial crop fields.",
+        "To convert herbivorous consumers into autotrophic producers."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 32
+    },
+    {
+      "question": "A farmer applies a specific chemical pesticide (a weedkiller) to a wheat field. How does removing unwanted weeds using this chemical help the crop grow better?",
+      "options": [
+        "It eliminates competing plants that take away light, water, and soil nutrients from wheat crops.",
+        "It acts directly as a primary producer, adding extra biomass energy into the wheat leaves.",
+        "It attracts pollinating birds to disperse wheat seeds across larger distances.",
+        "It increases the bioaccumulation of heavy metals needed for plant photosynthesis."
+      ],
+      "correctAnswerIndex": 0,
       "learningPointIndex": 36
     }
   ]

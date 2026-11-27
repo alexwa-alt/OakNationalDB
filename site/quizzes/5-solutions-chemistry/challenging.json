@@ -1,6 +1,6 @@
 {
   "unitKey": "5SolutionsChemistry",
-  "generatedAt": "2026-10-18T12:41:03.943531+00:00",
+  "generatedAt": "2026-11-27T18:24:25.398895+00:00",
   "questions": [
     {
       "question": "A student observes pollen grains dancing randomly under a microscope when suspended in water. If the water is replaced by a slightly thicker liquid at the same temperature, what is the best explanation of what happens to this motion?",
@@ -658,6 +658,226 @@
         "To stop conservation of mass from altering the total mixture volume.",
         "To guarantee that the mixture boils over a wide temperature range.",
         "To prevent Brownian motion from occurring in the liquid."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 41
+    },
+    {
+      "question": "A student observes pollen grains suspended in water under a microscope and notices them moving around continuously in a random, jagged path. Which statement best explains this observation?",
+      "options": [
+        "The pollen grains are alive and actively swimming through the liquid.",
+        "Tiny water particles are constantly moving and colliding unpredictably with the pollen grains.",
+        "Thermal currents in the water cause the pollen grains to expand and contract repeatedly.",
+        "The pollen grains are dissolving in the water, causing them to break apart and move randomly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 0
+    },
+    {
+      "question": "Food colouring diffuses faster through hot tea than through cold iced tea. What happens to the tea particles at higher temperatures to cause this difference?",
+      "options": [
+        "They move more quickly, colliding more frequently and energetically with food colouring particles.",
+        "They expand in size, pushing the food colouring particles outward with greater physical force.",
+        "They break apart into smaller sub-particles, creating wider paths for the food colouring.",
+        "They lose attraction for each other, leaving large static empty spaces for food colouring to drop into."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 3
+    },
+    {
+      "question": "A scientist stirs powdered chalk into water, creating a cloudy liquid. After leaving the beaker undisturbed on a shelf for three hours, the liquid becomes clear and a white layer forms at the bottom. Why is this mixture classified as a suspension rather than a solution?",
+      "options": [
+        "The solid particles dissolved initially but recrystallised due to a drop in room temperature.",
+        "The solid particles remained visible and eventually settled to the bottom over time.",
+        "The chalk particles reacted chemically with water to form an insoluble gaseous product.",
+        "The mixture retained a constant boiling point throughout the three-hour period."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 4
+    },
+    {
+      "question": "When solid sodium chloride is added to water, it slowly disappears to form a clear salt solution. At the particle level, what must occur for this dissolving process to happen?",
+      "options": [
+        "Thermal energy must destroy the individual atoms that make up the sodium chloride particles.",
+        "The solute particles must melt into a liquid phase before mixing with the solvent.",
+        "Attractive forces between the solid solute particles must be overcome by interactions with the solvent.",
+        "The solvent particles must compress so that solute particles can sit on top of the liquid surface."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A student carefully measures 50 cm³ of pure water and 50 cm³ of pure ethanol. When she mixes them together in a graduated cylinder, the final volume reads 96 cm³ instead of 100 cm³. Which particle explanation correctly accounts for this missing volume?",
+      "options": [
+        "Some liquid particles were destroyed due to a chemical reaction during mixing.",
+        "Particles of one liquid fit into the spaces between the particles of the other liquid.",
+        "The ethanol evaporated completely as soon as it came into contact with the water.",
+        "Liquid particles compressed tightly because the total mass of the mixture decreased."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 6
+    },
+    {
+      "question": "Two students debate physical changes. Student A claims that sugar melting in a heated pan is identical to sugar dissolving in tea. Which argument correctly refutes Student A's claim?",
+      "options": [
+        "Melting requires thermal energy to transition a solid to liquid, whereas dissolving requires interaction with a solvent.",
+        "Melting produces a brand-new chemical substance, whereas dissolving is a reversible chemical change.",
+        "Dissolving requires heating to high temperatures, whereas melting occurs at room temperature without energy input.",
+        "Dissolving increases the total mass of the system, whereas melting causes mass to be destroyed."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Scientist A writes a practical method for measuring solubility. Scientist A tests it three times and gets nearly identical results. Scientist B in another school follows the exact same written method and achieves the same results. What property does this method demonstrate?",
+      "options": [
+        "The method is reproducible because a different investigator obtained consistent results using the written procedure.",
+        "The method is invalid because independent variables were changed between experiments.",
+        "The method is repeatable only, because different equipment was used in different locations.",
+        "The method is biased because the results were predicted prior to carrying out the procedure."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which of the following scenarios describes the formation of a true solution?",
+      "options": [
+        "Sand is shaken vigorously with warm water, forming a murky mixture that slowly settles.",
+        "Oil is stirred into vinegar, forming droplets that separate into two distinct layers.",
+        "Solid copper sulfate powder dissolves completely in water to form a clear blue liquid.",
+        "Iron filings are stirred into powdered sulfur, creating a gray and yellow solid mixture."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 13
+    },
+    {
+      "question": "A sealed conical flask contains 15.0 g of water and a small container with 2.5 g of dissolved sugar suspended above it. The flask is tipped to mix the sugar solution and water without letting any gas escape. What is the total mass of the resulting mixture?",
+      "options": [
+        "Less than 17.5 g because solute particles fit into spaces between solvent particles.",
+        "Exactly 17.5 g because mass is conserved when substances are mixed together.",
+        "Greater than 17.5 g because the solution becomes denser upon mixing.",
+        "12.5 g because dissolving consumes part of the solvent's original mass."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "A student needs to accurately measure 42 cm³ of liquid solvent for a solubility experiment. Which piece of laboratory apparatus and procedure should be chosen to minimise measurement error?",
+      "options": [
+        "A beaker filled to the 42 cm³ mark viewed from above the liquid surface.",
+        "A measuring cylinder, reading the bottom of the meniscus at eye level.",
+        "A conical flask filled until the liquid reaches the neck line from a side angle.",
+        "A top-pan balance set to zero, pouring liquid until the display reads 42 cm³."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 18
+    },
+    {
+      "question": "A sample of an unknown white solid is heated slowly in a laboratory furnace. The substance melts completely at exactly 801 °C, without softening over a range of temperatures. What can be concluded about this sample?",
+      "options": [
+        "It is a complex mixture of at least three different chemical compounds.",
+        "It is a pure material because it possesses a fixed, sharp melting point.",
+        "It is an unstable suspension that decomposes when thermal energy is supplied.",
+        "It contains volatile impurities that lower its overall boiling point."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 23
+    },
+    {
+      "question": "Pure water freezes at 0 °C and boils at 100 °C. When salt is added to pure water, how do its freezing (melting) point and boiling point change?",
+      "options": [
+        "The freezing point increases above 0 °C and the boiling point decreases below 100 °C.",
+        "The freezing point decreases below 0 °C and the boiling point increases above 100 °C.",
+        "Both the freezing point and boiling point remain unchanged at 0 °C and 100 °C.",
+        "Both the freezing point and boiling point decrease to negative values."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "A solid substance is slowly heated, and its temperature is recorded every minute. The substance starts to melt at 45 °C and only becomes completely liquid when the temperature reaches 52 °C. What does this observation reveal about the sample?",
+      "options": [
+        "It is a pure compound undergoing a two-stage chemical reaction.",
+        "It is a mixture because it melts over a range of temperatures rather than a fixed point.",
+        "It is an insoluble solid suspended within a high-density solvent medium.",
+        "It is a pure substance whose particle attraction forces are changing continuously."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "A student adds 10 g of salt to 100 cm³ of water at 20 °C and it dissolves completely. She keeps adding salt 2 g at a time until 36 g total has been added. The 38th gram remains as solid crystals at the bottom despite thorough stirring. What concept does this outcome demonstrate?",
+      "options": [
+        "At a given temperature, there is a maximum limit to how much solute can dissolve in a solvent.",
+        "Adding more solute causes the solvent particles to shrink and stop moving.",
+        "Salt becomes a suspension only when the solution reaches its boiling point.",
+        "Mass is lost when a solution becomes saturated with excess liquid solvent."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 27
+    },
+    {
+      "question": "A beaker contains a clear saturated solution of potassium nitrate prepared at 60 °C. As the solution is allowed to cool down to room temperature (20 °C), solid needle-like crystals begin to appear at the bottom. What explains this observation?",
+      "options": [
+        "The solute molecules undergo thermal expansion and float to the surface as crystals.",
+        "As the solution cools, the solubility decreases and excess solute becomes insoluble, crystallising out.",
+        "The solvent evaporates completely as the temperature drops, leaving dry solid behind.",
+        "Cooling increases the force of attraction between solvent particles, turning them into solid crystals."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "A student plots temperature (°C) on the x-axis and mass of dissolved salt (g) on the y-axis. They draw a straight line of best fit sloping upwards from left to right. How does this line of best fit help the student interpret their data?",
+      "options": [
+        "It proves that the experiment contained zero measurement errors or anomalous points.",
+        "It helps identify and describe the positive relationship between temperature and solubility.",
+        "It shows that temperature is the dependent variable while mass is the control variable.",
+        "It guarantees that all mixture particles have reached their maximum possible speed."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "An investigation was carried out to see how the volume of solvent affects the time taken for a sugar cube to dissolve. Which statement represents a complete scientific conclusion for this investigation?",
+      "options": [
+        "The sugar cube dissolved very quickly in the largest beaker used in the test.",
+        "As the volume of solvent increased, the time taken for the sugar cube to dissolve decreased.",
+        "The stopclock was accurate to one-hundredth of a second during each timing trial.",
+        "Water is a better solvent than oil because its particles are held together less strongly."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 34
+    },
+    {
+      "question": "A student wants to increase the maximum amount of copper sulfate that can dissolve in a liquid sample, as well as speed up how fast it dissolves. Which set of changes would affect these aspects?",
+      "options": [
+        "Using larger lumps of solute and cooling the solvent down.",
+        "Increasing the temperature of the solvent and using smaller solute piece sizes.",
+        "Decreasing the volume of solvent and keeping the temperature constant.",
+        "Using a non-polar solvent and maintaining a lower temperature."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 35
+    },
+    {
+      "question": "In an experiment investigating how solvent temperature affects the mass of salt that can dissolve, a student tests water at 20 °C, 40 °C, 60 °C, and 80 °C. What is the independent variable in this investigation?",
+      "options": [
+        "The mass of salt that dissolves in the water.",
+        "The temperature of the water solvent.",
+        "The volume of water kept constant in each beaker.",
+        "The type of stirring rod used to mix the solution."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 38
+    },
+    {
+      "question": "A student wants to test whether sugar dissolves faster in water or ethanol. To ensure a fair test, why must she keep the temperature, volume of liquid, and mass of sugar identical in both trials?",
+      "options": [
+        "So that only the variable being tested (type of solvent) is changed, making it clear it caused the difference in results.",
+        "To guarantee that both liquids reach their boiling points at exactly the same time.",
+        "To change multiple independent variables simultaneously for quicker data collection.",
+        "So that the total mass of the solvent increases at a constant rate during dissolving."
       ],
       "correctAnswerIndex": 0,
       "learningPointIndex": 41

@@ -1,6 +1,6 @@
 {
   "unitKey": "4Our solar system and beyondPhysics",
-  "generatedAt": "2026-11-25T18:46:07.684019+00:00",
+  "generatedAt": "2026-11-27T18:22:32.764789+00:00",
   "questions": [
     {
       "question": "In ancient times, people observed the Sun rising and setting, and stars shifting across the night sky. Based on these immediate, unfiltered sensory observations, which of the following models of the universe did they construct?",
@@ -660,6 +660,226 @@
         "About 10 years."
       ],
       "correctAnswerIndex": 1,
+      "learningPointIndex": 36
+    },
+    {
+      "question": "Until the 16th century, most people believed in the geocentric model of the universe. Which statement describes this historical view?",
+      "options": [
+        "Earth was stationary at the centre of the universe with everything orbiting it.",
+        "The Sun was stationary at the centre with Earth and planets orbiting it.",
+        "Earth and the Sun orbited a central massive star together.",
+        "Planets orbited the Sun, but moons orbited the Earth in a combined system."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 1
+    },
+    {
+      "question": "How did the development of telescopes fundamentally change human understanding of the universe?",
+      "options": [
+        "By demonstrating that light travels at different speeds through space depending on distance.",
+        "By allowing scientists to observe distant objects directly, providing physical evidence to test models.",
+        "By proving that gravity is weaker near stars than near rocky planets.",
+        "By showing that the Sun is the absolute centre of the entire universe."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 2
+    },
+    {
+      "question": "Earth spins on an axis that is tilted at an angle of 23.5 degrees. If Earth's axis were not tilted at all (0 degrees), what would be the impact on global seasons?",
+      "options": [
+        "Summer would become permanent across the northern hemisphere while winter became permanent in the south.",
+        "The Northern and Southern hemispheres would experience opposite extreme seasons simultaneously.",
+        "Seasonal temperature variations between summer and winter would be eliminated globally.",
+        "Day length would fluctuate more dramatically throughout the year than it currently does."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 5
+    },
+    {
+      "question": "A space probe is situated in deep space near a gas giant planet. In which direction does the gravitational force from the planet act on the probe?",
+      "options": [
+        "Towards the centre of the planet.",
+        "Tangent to the orbital path of the planet.",
+        "Directly away from the planet's magnetic poles.",
+        "Perpendicular to the surface in the direction of the planet's orbit."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 8
+    },
+    {
+      "question": "Imagine two solid planets made of the same density material, but Planet A has twice the mass of Planet B. How do their gravitational forces compare at equal distances from their centres?",
+      "options": [
+        "Both planets exert identical gravitational forces because gravity depends only on distance.",
+        "Planet B exerts a stronger gravitational force because smaller objects concentrate gravity.",
+        "Neither planet exerts gravity beyond its immediate surface boundary.",
+        "Planet A exerts a stronger gravitational force than Planet B because it has greater mass."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 9
+    },
+    {
+      "question": "The Moon travels in a near-circular path around Earth rather than flying off into deep space in a straight line. Which force is responsible for constantly changing the Moon's direction of motion?",
+      "options": [
+        "The Sun's magnetic attraction pushing the Moon into Earth's path.",
+        "Earth's gravitational force pulling the Moon towards Earth's centre.",
+        "Frictional resistance from atmosphere existing between Earth and the Moon.",
+        "The Moon's internal propulsion created by its own rotation."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 11
+    },
+    {
+      "question": "Which mechanism keeps Earth orbiting the Sun in a stable path rather than moving off in a straight line into deep space?",
+      "options": [
+        "Solar winds exert a continuous outward pressure balanced by cosmic radiation.",
+        "Earth's magnetic poles are repelled by the outer atmosphere of the Sun.",
+        "The Sun's gravitational force continuously pulls Earth towards the Sun's centre, bending its path.",
+        "The rotation of Earth creates a centrifugal force pushing it outward."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 12
+    },
+    {
+      "question": "Sunlight arrives at a solar panel face-on at noon, but at a sharp angle late in the afternoon. Why does the panel produce less energy late in the afternoon?",
+      "options": [
+        "Light hitting at an angle is spread out over a larger surface area, delivering less energy per unit area.",
+        "Light traveling at an angle slows down significantly before reaching the surface.",
+        "Atmospheric pressure increases late in the afternoon, blocking light rays completely.",
+        "Light rays lose their gravitational charge when arriving at low inclination angles."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 14
+    },
+    {
+      "question": "At any given location on Earth, why is the solar heating effect stronger at midday than at sunrise or sunset?",
+      "options": [
+        "Earth is physically much closer to the Sun at midday than at sunrise or sunset.",
+        "The Sun generates more thermal energy internally during the middle of the day.",
+        "Atmospheric oxygen absorbs all thermal radiation at sunrise and sunset.",
+        "At midday the Sun is highest, so its rays hit the surface at a steeper angle and are less spread out."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 15
+    },
+    {
+      "question": "How does Earth's rotation on its axis over a 24-hour period affect the intensity of solar radiation received at a specific location?",
+      "options": [
+        "It causes the distance between Earth and the Sun to shrink and expand dramatically each hour.",
+        "It continually alters the Sun's position in the sky, changing the angle of incoming rays throughout the day.",
+        "It changes the total light output produced by the Sun every twelve hours.",
+        "It shifts the direction of Earth's axial tilt back and forth between north and south every day."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 16
+    },
+    {
+      "question": "A scale model of the solar system is built where Earth is the size of a marble (1 cm diameter). On this scale, how would the distance between planets compare to the sizes of the planet marbles?",
+      "options": [
+        "The marbles would touch each other, leaving no empty space between orbital paths.",
+        "The distances would be roughly equal to two or three times the diameter of the marbles.",
+        "The distances between planets would be vastly larger than the marble sizes, spanning tens or hundreds of metres.",
+        "The distances would be smaller than the marble diameters due to gravitational compression."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 21
+    },
+    {
+      "question": "Earth experiences changing seasons throughout the year. What is the fundamental reason for this cyclic seasonal change?",
+      "options": [
+        "Earth's axis is tilted, and its tilt direction stays fixed in space as Earth orbits the Sun.",
+        "Earth's distance from the Sun changes drastically as it follows an elongated orbit.",
+        "The tilt angle of Earth's axis flips by 180 degrees twice every year.",
+        "The Sun's heat output varies in a predictable annual rhythm due to internal changes."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 22
+    },
+    {
+      "question": "In December, why does the Northern Hemisphere experience winter while the Southern Hemisphere experiences summer?",
+      "options": [
+        "The Sun shuts down its solar light output towards the top half of Earth in December.",
+        "Earth is significantly further from the Sun in December, which only cools down the Northern Hemisphere.",
+        "The Northern Hemisphere faces away from the Sun for 24 hours every day during December.",
+        "The Northern Hemisphere is tilted away from the Sun, receiving rays at a shallower angle, while the Southern Hemisphere is tilted towards it."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 24
+    },
+    {
+      "question": "Why do different places on Earth receive varying amounts of thermal energy from the Sun at different times of the year?",
+      "options": [
+        "The speed of Earth's orbital motion slows down drastically in winter, reducing energy reception.",
+        "The angle at which the Sun's rays strike the Earth's surface at a given place changes throughout the year.",
+        "The Sun rotates rapidly, casting different amounts of heat toward different geographic latitudes.",
+        "The thickness of Earth's crust changes seasonally, absorbing solar heat at different rates."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 25
+    },
+    {
+      "question": "Why do countries located very close to the Equator not experience distinct summer and winter seasons like polar or temperate regions do?",
+      "options": [
+        "Ocean currents surrounding the Equator block all sunlight from changing angle.",
+        "Equatorial countries are unaffected by gravity, keeping their local temperatures constant.",
+        "The Equator remains nearly face-on to the Sun's rays all year round despite Earth's axial tilt.",
+        "Earth's axial tilt does not apply to regions located between the northern and southern hemispheres."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 26
+    },
+    {
+      "question": "Why do stars in the night sky appear as tiny, faint points of light compared to our Sun, even though many are larger than the Sun?",
+      "options": [
+        "They are located at immensely greater distances from Earth than the Sun is.",
+        "They are cooler objects that do not emit light of their own, only reflecting moonlight.",
+        "Earth's atmosphere shrinks the physical size of light waves traveling from deep space.",
+        "Stars in the night sky burn out every night and reignite every morning."
+      ],
+      "correctAnswerIndex": 0,
+      "learningPointIndex": 28
+    },
+    {
+      "question": "Why do astronomers use the unit 'light-year' rather than kilometres when describing distances between stars and galaxies?",
+      "options": [
+        "Light travels at unpredictable speeds in space, making metric units inaccurate.",
+        "A light-year measures time rather than distance, which fits the expanding universe model.",
+        "Kilometres can only be measured on solid planetary surfaces, not in space.",
+        "Distances in space are so vast that using kilometres results in impractically huge numbers."
+      ],
+      "correctAnswerIndex": 3,
+      "learningPointIndex": 29
+    },
+    {
+      "question": "Which statement accurately describes the structural organization of stars within a galaxy?",
+      "options": [
+        "A galaxy is a cloud of cold gas containing exactly eight stars arranged in a ring.",
+        "A galaxy contains billions of stars bound together in a massive stellar group.",
+        "A galaxy consists of a single star surrounded by millions of small rocky planets.",
+        "Galaxies are individual stars that reflect light from neighboring solar systems."
+      ],
+      "correctAnswerIndex": 1,
+      "learningPointIndex": 30
+    },
+    {
+      "question": "What directly causes the daily transition between day and night on Earth?",
+      "options": [
+        "The Sun turning off its light production for 12 hours out of every 24 hours.",
+        "The Moon passing between the Earth and the Sun once every 24 hours.",
+        "Earth rotating on its own axis, causing locations to face towards or away from the Sun.",
+        "Earth moving along its annual orbit into the shadow cast by outer planets."
+      ],
+      "correctAnswerIndex": 2,
+      "learningPointIndex": 33
+    },
+    {
+      "question": "What orbital motion causes the Moon to appear to change its shape as viewed from Earth over the course of roughly a month?",
+      "options": [
+        "The Moon orbiting around Earth once every 27.3 days, changing the visible illuminated portion.",
+        "The Moon spinning on its axis once every 24 hours while passing through Earth's shadow.",
+        "The Earth moving between the Sun and Moon twice every day during its rotation.",
+        "The Moon moving closer to and further from the Sun in a daily elliptical path."
+      ],
+      "correctAnswerIndex": 0,
       "learningPointIndex": 36
     }
   ]
